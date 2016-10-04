@@ -1,4 +1,4 @@
-The Project Gutenberg EBook of Cartilha Maternal, by Jo√£o de Deus
+The Project Gutenberg EBook of Cartilha Maternal, by Jo„o de Deus
 
 This eBook is for the use of anyone anywhere at no cost and with
 almost no restrictions whatsoever.  You may copy it, give it away or
@@ -9,7 +9,7 @@ with this eBook or online at www.gutenberg.org
 Title: Cartilha Maternal
        Arte de Leitura
 
-Author: Jo√£o de Deus
+Author: Jo„o de Deus
 
 Release Date: July 19, 2014 [EBook #46334]
 
@@ -22,23 +22,23 @@ Character set encoding: ISO-8859-1
 
 
 
-Produced by J√∫lio Reis, Keith Edkins, Biblioteca Municipal
-de Alcoba√ßa and the Online Distributed Proofreading Team
+Produced by J˙lio Reis, Keith Edkins, Biblioteca Municipal
+de AlcobaÁa and the Online Distributed Proofreading Team
 at http://www.pgdp.net
 
 
 
 
 
-*Notas de transcri√ß√£o:*
+*Notas de transcriÁ„o:*
 
-O texto aqui transcrito, √© uma c√≥pia integral do livro impresso em 1876.
+O texto aqui transcrito, È uma cÛpia integral do livro impresso em 1876.
 
-Mantivemos a grafia usada na edi√ß√£o impressa, tendo sido corrigidos alguns
-pequenos erros tipogr√°ficos evidentes, que n√£o alteram a leitura do texto,
-e que por isso n√£o consider√°mos necess√°rio assinal√°-los.
+Mantivemos a grafia usada na ediÁ„o impressa, tendo sido corrigidos alguns
+pequenos erros tipogr·ficos evidentes, que n„o alteram a leitura do texto,
+e que por isso n„o consider·mos necess·rio assinal·-los.
 
-As ¬´syllabas alternadas a typo liso e lavrado¬ª do livro separam-se por |,
+As ´syllabas alternadas a typo liso e lavradoª do livro separam-se por |,
 por exemplo au|xi|lia|ri|as
 
        *       *       *       *       *
@@ -54,69 +54,69 @@ ARTE DE LEITURA
 
 POR
 
-JO√ÉO DE DEUS
+JO√O DE DEUS
 
 [Illustration]
 
 
 
-  Les m√®res et les institucteurs, voil√†
+  Les mËres et les institucteurs, voil‡
   ceux qui jettent dans le monde presque
   toutes les semences du bien et du mal.
               AMBROISE RENDU (Fils).
 
   _As sementes do bem e do mal, quem
-  as lan√ßa no mundo quasi todas, s√£o as
-  m√£es e os mestres._
+  as lanÁa no mundo quasi todas, s„o as
+  m„es e os mestres._
 
 
 
 
 PORTO
 
-TYP. DE ANTONIO JOS√â DA SILVA TEIXEIRA
+TYP. DE ANTONIO JOS… DA SILVA TEIXEIRA
 _62, Rua da Cancella Velha, 62_
 
 1876
 
-_Este systema funda-se na lingua viva. N√£o apresenta os seis ou oito
-abecedarios do costume, sen√£o um, do typo mais frequente, e n√£o todo mas
+_Este systema funda-se na lingua viva. N„o apresenta os seis ou oito
+abecedarios do costume, sen„o um, do typo mais frequente, e n„o todo mas
 por partes, indo logo combinando esses elementos conhecidos em palavras que
-se digam, que se ou√ßam, que se intendam, que se expliquem; de modo que, em
-vez do principiante apurar a paciencia numa repeti√ß√£o banal, se familiarisa
+se digam, que se ouÁam, que se intendam, que se expliquem; de modo que, em
+vez do principiante apurar a paciencia numa repetiÁ„o banal, se familiarisa
 com as letras e os seus valores na leitura animada de palavras
 intelligiveis._
 
 _Assim ficamos livres do syllabario, em cuja interminavel serie de
-combina√ß√µes mecanicas n√£o ha penetrar uma id√©a!_
+combinaÁıes mecanicas n„o ha penetrar uma idÈa!_
 
-_Esses longos exercicios de pura intui√ß√£o visual constituem uma violencia,
-uma amputa√ß√£o moral contraria √° natureza. Seis mezes, um anno e mais de
+_Esses longos exercicios de pura intuiÁ„o visual constituem uma violencia,
+uma amputaÁ„o moral contraria · natureza. Seis mezes, um anno e mais de
 vozes sem sentido basta para imprimir num espirito nascente o sello do
 idiotismo._
 
-_Porque raz√£o observamos n√≥s a cada passo nos filhos da indigencia
-meramente abandonados √° escola da vida uma irradia√ß√£o moral, uma viveza
+_Porque raz„o observamos nÛs a cada passo nos filhos da indigencia
+meramente abandonados · escola da vida uma irradiaÁ„o moral, uma viveza
 rara nos martyres do ensino primario?_
 
-_√Ås m√£es, que do cora√ß√£o professam a religi√£o da adoravel innocencia e at√©
-por instincto sabem que em cerebros t√£o tenros e mimosos todo o cansa√ßo e
-violencia p√≥de deixar vestigios indeleveis, offerecemos neste systema
-profundamente pr√°tico o meio de evitar a seus filhos o flagello da cartilha
+_¡s m„es, que do coraÁ„o professam a religi„o da adoravel innocencia e atÈ
+por instincto sabem que em cerebros t„o tenros e mimosos todo o cansaÁo e
+violencia pÛde deixar vestigios indeleveis, offerecemos neste systema
+profundamente pr·tico o meio de evitar a seus filhos o flagello da cartilha
 tradicional._
 
 
 
 
-PRIMEIRA LI√á√ÉO
+PRIMEIRA LI«√O
 
 
-Consistindo a leitura na combina√ß√£o das letras, basta ir aprendendo as
-letras que se podem ir combinando; o mais √© confus√£o; e n√£o podendo haver
-combina√ß√£o sem vogal, comecemos pelas vogaes (deixando de f√≥ra o _ypsilon_
-para n√£o surprender logo no principio o alumno com duas letras que se leem
-do mesmo modo, tendo diverso nome e f√≥rma). Chamemos essas letras pelos
-seus nomes, _√°_, _√©_, _√≠_, _√≥_, _√∫_, que depois iremos determinando os seus
+Consistindo a leitura na combinaÁ„o das letras, basta ir aprendendo as
+letras que se podem ir combinando; o mais È confus„o; e n„o podendo haver
+combinaÁ„o sem vogal, comecemos pelas vogaes (deixando de fÛra o _ypsilon_
+para n„o surprender logo no principio o alumno com duas letras que se leem
+do mesmo modo, tendo diverso nome e fÛrma). Chamemos essas letras pelos
+seus nomes, _·_, _È_, _Ì_, _Û_, _˙_, que depois iremos determinando os seus
 diversos valores.
 
   a           e
@@ -126,49 +126,49 @@ diversos valores.
   o           u
 
 Estas letras aprendem-se facilmente: representando a quinta parte do
-abecedario quanto ao numero, est√£o f√≥ra de representar a vigesima, quanto
-aos embara√ßos; porque s√£o homogeneas, todas se pronunciam com a b√¥ca
-aberta, e filiam-se naturalmente na voz e na memoria. √â por isso tambem que
+abecedario quanto ao numero, est„o fÛra de representar a vigesima, quanto
+aos embaraÁos; porque s„o homogeneas, todas se pronunciam com a bÙca
+aberta, e filiam-se naturalmente na voz e na memoria. … por isso tambem que
 apresentamos todas cinco duma vez.
 
-Ora a verdadeira palavra do homem √© a palavra escrita, porque s√≥ ella √©
-immortal. Mas emquanto o ensino da palavra fallada √© o encanto de m√£es e
-filhos, o ensino da palavra escrita √© o tormento de mestres e discipulos.
-Extranha diversidade em coisas t√£o irm√£s!
+Ora a verdadeira palavra do homem È a palavra escrita, porque sÛ ella È
+immortal. Mas emquanto o ensino da palavra fallada È o encanto de m„es e
+filhos, o ensino da palavra escrita È o tormento de mestres e discipulos.
+Extranha diversidade em coisas t„o irm„s!
 
-Deus na sua providencia n√£o o podia determinar assim. Ha-de haver meio
+Deus na sua providencia n„o o podia determinar assim. Ha-de haver meio
 facillimo, grato, universalmente accessivel, de espalhar essa arte, ou
-antes faculdade, sem a qual o homem n√£o passa de um selvagem.
+antes faculdade, sem a qual o homem n„o passa de um selvagem.
 
-Esse meio ou esse methodo n√£o p√≥de ser essencialmente differente do methodo
-encantador pelo qual as m√£es nos ensinam a fallar, que √© _fallando_,
-ensinando-nos palavras vivas, que entreteem o espirito, e n√£o letras e
-syllabas mortas, como fazem os mestres. Pois apressemo-nos tambem n√≥s a
+Esse meio ou esse methodo n„o pÛde ser essencialmente differente do methodo
+encantador pelo qual as m„es nos ensinam a fallar, que È _fallando_,
+ensinando-nos palavras vivas, que entreteem o espirito, e n„o letras e
+syllabas mortas, como fazem os mestres. Pois apressemo-nos tambem nÛs a
 ensinar palavras; e acharemos a mesma amenidade.
 
-Com aquellas cinco letras j√° se podem formar quatro palavras muito usuaes,
-e que por uma feliz coincidencia se pronunciam todas do mesmo modo, isto √©,
+Com aquellas cinco letras j· se podem formar quatro palavras muito usuaes,
+e que por uma feliz coincidencia se pronunciam todas do mesmo modo, isto È,
 carregando na inicial.
 
-Lede-as, e nunca soletreis; que mal sabeis como a soletra√ß√£o confunde o
-principiante (quando lhe n√£o deprava o raciocinio com sommas falsas).
+Lede-as, e nunca soletreis; que mal sabeis como a soletraÁ„o confunde o
+principiante (quando lhe n„o deprava o raciocinio com sommas falsas).
 Lede-as acompanhando fielmente com o ponteiro a letra que estais
-pronunciando; e vereis a facilidade, o gosto e a admira√ß√£o com que a
-crian√ßa vos segue e vos imita, reconhecendo em sua consciencia a palavra
+pronunciando; e vereis a facilidade, o gosto e a admiraÁ„o com que a
+crianÁa vos segue e vos imita, reconhecendo em sua consciencia a palavra
 retratada no papel.
 
-Convem deixar estabelecida nesta li√ß√£o, a proposito da ultima palavra _ia_,
-a regra que o _a_ no fim vale _√¢_ (_a_ fechado, igual ao que tantas vezes
+Convem deixar estabelecida nesta liÁ„o, a proposito da ultima palavra _ia_,
+a regra que o _a_ no fim vale _‚_ (_a_ fechado, igual ao que tantas vezes
 no dia pronunciamos separadamente: _a_ casa, _a_ mesa, etc.), regra que
-podemos figurar da f√≥rma seguinte:
+podemos figurar da fÛrma seguinte:
 
-  ~~~a = √¢
+  ~~~a = ‚
 
-Mas em portuguez as vogaes s√£o quasi tantas como todas as consoantes
-juntas. Por isso antes de passar a l√™r, podeis lisongear o alumno
-mostrando-lhe em qualquer livro ou pagina de boa letra o muito que elle j√°
-sabe. E nesta mesma distrac√ß√£o o acabais de confirmar nesses cinco
-elementos que s√£o a alma da escrita e da leitura.
+Mas em portuguez as vogaes s„o quasi tantas como todas as consoantes
+juntas. Por isso antes de passar a lÍr, podeis lisongear o alumno
+mostrando-lhe em qualquer livro ou pagina de boa letra o muito que elle j·
+sabe. E nesta mesma distracÁ„o o acabais de confirmar nesses cinco
+elementos que s„o a alma da escrita e da leitura.
 
         ai
 
@@ -179,42 +179,42 @@ elementos que s√£o a alma da escrita e da leitura.
 
 
 
-SEGUNDA LI√á√ÉO
+SEGUNDA LI«√O
 
 
-Inici√°mos no mecanismo da escrita o principiante com grande e justa
+Inici·mos no mecanismo da escrita o principiante com grande e justa
 maravilha sua. Elle percebeu, sentiu mais ou menos lucidamente o engenho do
-homem, que estudando os sons de que as palavras se comp√µem, inventou para
+homem, que estudando os sons de que as palavras se compıem, inventou para
 cada som um signal, e depois, conforme a palavra consta de taes ou taes
-sons, assim na escrita p√µe taes ou taes signaes!
+sons, assim na escrita pıe taes ou taes signaes!
 
-Mas aqui vem a proposito admirar como esta arte fundada numa base t√£o
-singela tenha sido o martyrio de tantos innocentes e passe ainda na opini√£o
-das multid√µes por uma sciencia ardua!
+Mas aqui vem a proposito admirar como esta arte fundada numa base t„o
+singela tenha sido o martyrio de tantos innocentes e passe ainda na opini„o
+das multidıes por uma sciencia ardua!
 
-√â verdade que tal correspondencia n√£o √© perfeita; mas essa imperfei√ß√£o
-pouco embara√ßa os filhos do paiz sendo bem dirigidos. A crian√ßa, acostumada
-a ler palavras, n√£o l√™ por exemplo _t√≥do_ nem _m√¥do_; l√™ _t√¥do_ e _m√≥do_,
+… verdade que tal correspondencia n„o È perfeita; mas essa imperfeiÁ„o
+pouco embaraÁa os filhos do paiz sendo bem dirigidos. A crianÁa, acostumada
+a ler palavras, n„o lÍ por exemplo _tÛdo_ nem _mÙdo_; lÍ _tÙdo_ e _mÛdo_,
 como tem dito e ouvido dizer. Assim tambem acha o valor das consoantes
 caprichosas.
 
-Vamos agora combinar com as vogaes uma das consoantes mais perfeitas que √©
-o _v_; por√©m n√£o lhe haveis de chamar _√∫-consoante_, que √© uma falsidade, e
-vai desmentir todas as combina√ß√µes. Chamai-lhe, como se usa modernamente,
-_v√™_, ou ainda melhor, e por ora, chamai-lhe o que elle _vale_,
-simplesmente _v_... pronunciando sem despegar o bei√ßo inferior dos dentes
+Vamos agora combinar com as vogaes uma das consoantes mais perfeitas que È
+o _v_; porÈm n„o lhe haveis de chamar _˙-consoante_, que È uma falsidade, e
+vai desmentir todas as combinaÁıes. Chamai-lhe, como se usa modernamente,
+_vÍ_, ou ainda melhor, e por ora, chamai-lhe o que elle _vale_,
+simplesmente _v_... pronunciando sem despegar o beiÁo inferior dos dentes
 de cima, sem vogal, sem voz, o simples sopro aspero e sonoro.
 
-Ensinai a proferil-o; e depois n√£o tendes mais que ir apontando na palavra
+Ensinai a proferil-o; e depois n„o tendes mais que ir apontando na palavra
 successivamente as letras que ides lendo, demorando-vos na pronuncia de
-cada uma o tempo que quizerdes, porque essa consoante √© t√£o prolongavel
+cada uma o tempo que quizerdes, porque essa consoante È t„o prolongavel
 como as vogaes.
 
 
 
           v
 
-v√°          vai
+v·          vai
 
 vi          vi|a         viu
 
@@ -229,79 +229,79 @@ vi|u|va
 
 
 
-TERCEIRA LI√á√ÉO
+TERCEIRA LI«√O
 
 
-Cada um tem as suas tra√ßas de facilitar o ensino, e ajudar o principiante
-nas difficuldades. N√≥s temos achado util cobrir e descobrir
+Cada um tem as suas traÁas de facilitar o ensino, e ajudar o principiante
+nas difficuldades. NÛs temos achado util cobrir e descobrir
 alternativamente o _v_ nas palavras _vai_, _via_, etc, fazendo ler ora
 _ai_, ora _vai_ e assim o mais, a fim de certificar o principiante do papel
 que o _v_ representa na escrita.
 
-Deste ou doutro modo estamos que vos n√£o enfastiou a li√ß√£o passada, onde
-pela primeira vez combin√°mos vogaes e consoantes. Mas que differen√ßa haver√°
-entre vogal e consoante, e porque iriamos n√≥s ao fim do abecedario buscar o
+Deste ou doutro modo estamos que vos n„o enfastiou a liÁ„o passada, onde
+pela primeira vez combin·mos vogaes e consoantes. Mas que differenÁa haver·
+entre vogal e consoante, e porque iriamos nÛs ao fim do abecedario buscar o
 _v_ para esse primeiro exercicio?
 
-Quando dizemos _√°_, soltamos essa voz da garganta; mas se dissermos _m√°_,
+Quando dizemos _·_, soltamos essa voz da garganta; mas se dissermos _m·_,
 soltamos essa voz, despegando os labios; e se dissermos _mal_, despegamos
-os labios ao soltal-a e no fim damos com a lingua no ceu da b√¥ca.
+os labios ao soltal-a e no fim damos com a lingua no ceu da bÙca.
 
-Donde se v√™ que as palavras se comp√µem de _vozes_ e tambem duns _modos_ de
-come√ßar ou acabar a voz.
+Donde se vÍ que as palavras se compıem de _vozes_ e tambem duns _modos_ de
+comeÁar ou acabar a voz.
 
-As vozes pertencem √° garganta, e representam-se nas vogaes; os modos
-pertencem aos org√£os mudos, como labios, dentes, lingua etc., e
+As vozes pertencem · garganta, e representam-se nas vogaes; os modos
+pertencem aos org„os mudos, como labios, dentes, lingua etc., e
 representam-se nas outras letras.
 
-Vai uma grande differen√ßa da voz, ao modo de come√ßar ou acabar a voz; vai
-portanto uma grande differen√ßa de vogal a consoante.
+Vai uma grande differenÁa da voz, ao modo de comeÁar ou acabar a voz; vai
+portanto uma grande differenÁa de vogal a consoante.
 
 Mas esses modos, uns consistem num toque ou despego rapido, num simples
-movimento, numa func√ß√£o instantanea que se p√≥de repetir, mas que se n√£o
-p√≥de prolongar, como succede nas seguintes palavras:
+movimento, numa funcÁ„o instantanea que se pÛde repetir, mas que se n„o
+pÛde prolongar, como succede nas seguintes palavras:
 
 
   _b_o_c_a_d_o   _g_o_l_i_lh_a   _m_a_n_i_nh_o   _pr_e_t_o
     (_bqd_,        _gl lh_,         _mn nh_,      _pr t_).
 
 
-Outros consistem numa disposi√ß√£o em que a gente p√≥de insistir o tempo que
+Outros consistem numa disposiÁ„o em que a gente pÛde insistir o tempo que
 quizer, como nas seguintes palavras:
 
 
-  _f_a_v_o      _s_i_s_o    _ch_√° _j_a_rr_o
-  _f...v..._   _√ß...z..._   _x...j...rr..._
+  _f_a_v_o      _s_i_s_o    _ch_· _j_a_rr_o
+  _f...v..._   _Á...z..._   _x...j...rr..._
 
 
-Ora quando a voz √© modificada com aquelles modos instantaneos, de sua
+Ora quando a voz È modificada com aquelles modos instantaneos, de sua
 natureza improlongaveis, a voz e o modo constituem para o principiante uma
 somma difficil de reduzir aos seus elementos, e portanto confusa: pelo
-contrario quando o modo √© prolongavel, o principiante demora-se na voz ou
+contrario quando o modo È prolongavel, o principiante demora-se na voz ou
 no modo o tempo que lhe apraz sem falsear a syllaba, sem desfigurar a
-palavra; e o papel que a consoante representa na escrita √© evidente e
+palavra; e o papel que a consoante representa na escrita È evidente e
 distincto. por exemplo, contando os pontos por momentos, podemos levar
-cinco momentos a pronunciar, _v.....√°_, ouvindo-se afinal perfeitamente
-_v√°_. O mesmo n√£o acontece em _d√°_, _c√°_, _p√°_, _l√°_, etc.
+cinco momentos a pronunciar, _v.....·_, ouvindo-se afinal perfeitamente
+_v·_. O mesmo n„o acontece em _d·_, _c·_, _p·_, _l·_, etc.
 
-Logo, por onde haviamos n√≥s de come√ßar, pelas consoantes cont√≠nuas ou pelas
-consoantes instantaneas? √â claro que pelas consoantes cont√≠nuas,
+Logo, por onde haviamos nÛs de comeÁar, pelas consoantes contÌnuas ou pelas
+consoantes instantaneas? … claro que pelas consoantes contÌnuas,
 prolongaveis, que deixam ao principiante apreciar melhor os elementos da
 syllaba.
 
 Ora, dessas consoantes a menos equivoca, ou antes, a inequivoca, a unica
-que n√£o tem equivalentes, a mais perfeita em summa, √© o _v_: come√ß√°mos pelo
+que n„o tem equivalentes, a mais perfeita em summa, È o _v_: comeÁ·mos pelo
 _v_.
 
 Mas em que consiste o _v_, como se pronuncia o _v_?
 
-N√≥s, mesmo com a b√¥ca fechada, podemos fazer uma especie de gemido,
+NÛs, mesmo com a bÙca fechada, podemos fazer uma especie de gemido,
 respirando pelo nariz; mas se, em logar de respirar pelo nariz, fazendo
 esse gemido, respiramos por entre o labio inferior unido aos dentes de
 cima, pronunciamos _v_...
 
-Este som depende do folego emittido com certa for√ßa; sem essa for√ßa,
-emittindo o simples folego e conservando a mesma posi√ß√£o de labio e dentes,
+Este som depende do folego emittido com certa forÁa; sem essa forÁa,
+emittindo o simples folego e conservando a mesma posiÁ„o de labio e dentes,
 em logar de _v..._ pronunciamos _f..._
 
 Ora havendo tanta analogia entre estes dois elementos, sendo o _f_ um _v_
@@ -309,7 +309,7 @@ abafado, soprado, silencioso, passemos do _v_ ao _f_.
 
             f
 
-f√©
+fÈ
 
 fui
 
@@ -322,85 +322,85 @@ fa|va
 
 
 
-QUARTA LI√á√ÉO
+QUARTA LI«√O
 
 
-Os modos de come√ßar e acabar a voz chamam-se ordinariamente _inflex√µes_ e
-_articula√ß√µes_, por serem como uns eixos, umas juntas da voz que lhe d√£o
-contorno e melodia. A palavra _lampada_, por exemplo, √© muito airosa; mas
-tirando-lhe a parte que nella tomam a lingua, os bei√ßos e os dentes
-reduz-se a um vozeio de mudo, monotono e desengra√ßado: _√£√¢√¢_.
+Os modos de comeÁar e acabar a voz chamam-se ordinariamente _inflexıes_ e
+_articulaÁıes_, por serem como uns eixos, umas juntas da voz que lhe d„o
+contorno e melodia. A palavra _lampada_, por exemplo, È muito airosa; mas
+tirando-lhe a parte que nella tomam a lingua, os beiÁos e os dentes
+reduz-se a um vozeio de mudo, monotono e desengraÁado: _„‚‚_.
 
-Donde se v√™ que a voz √© como a perola que real√ßa no engaste; e que as
-inflex√µes, intermeando e recortando a voz, apezar da sua obscuridade n√£o
-s√£o menos preciosas na palavra que as proprias vozes. S√≥ a voz se canta, s√≥
+Donde se vÍ que a voz È como a perola que realÁa no engaste; e que as
+inflexıes, intermeando e recortando a voz, apezar da sua obscuridade n„o
+s„o menos preciosas na palavra que as proprias vozes. SÛ a voz se canta, sÛ
 a voz se alteia e expande, segundo o folego e garganta de cada um, a ponto
 de encher um templo, de retumbar no valle do alto da montanha; pelo
-contrario as inflex√µes a poucos passos de distancia somem-se: todavia uma
-lingua s√≥ de vozes seria uma lingua barbara.
+contrario as inflexıes a poucos passos de distancia somem-se: todavia uma
+lingua sÛ de vozes seria uma lingua barbara.
 
-Ora n√≥s j√° sabemos que as inflex√µes na escrita se representam pelas
-consoantes; mas em logar de haver tantas consoantes como inflex√µes,
-correspondendo a cada inflex√£o a sua consoante, n√£o succede assim.
+Ora nÛs j· sabemos que as inflexıes na escrita se representam pelas
+consoantes; mas em logar de haver tantas consoantes como inflexıes,
+correspondendo a cada inflex„o a sua consoante, n„o succede assim.
 
-Vejamos as inflex√µes cont√≠nuas de quantos modos se escrevem:
+Vejamos as inflexıes contÌnuas de quantos modos se escrevem:
 
 
-  _f..._   (f√©  affli√ß√£o  phoca)          f  ff  ph
+  _f..._   (fÈ  affliÁ„o  phoca)          f  ff  ph
   _v..._   (vai)                          v
-  _√ß..._   (suisso  ceo  a√ßo  maximo)     s  ss  c  √ß  x
+  _Á..._   (suisso  ceo  aÁo  maximo)     s  ss  c  Á  x
   _z..._   (aza  uso  existe)             z  s  x
   _x..._   (eixo  chega  ais  faz)        x  ch  s  z
   _j..._   (ja  geme  osga)               j  g  s
   _rr..._  (rua  erro  rhetorica)         r  rr  rh
 
 
-Achareis, para representar as sete inflex√µes continuas, vinte e duas formas
-que, descontando repeti√ß√µes, se reduzem a dezeseis; mas, destas dezeseis,
+Achareis, para representar as sete inflexıes continuas, vinte e duas formas
+que, descontando repetiÁıes, se reduzem a dezeseis; mas, destas dezeseis,
 sete teem diversos valores, a saber:
 
 
-     { _c_ seu           { _ch_ eixo           { _√ß_ ceo
+     { _c_ seu           { _ch_ eixo           { _Á_ ceo
    s { _z_ uso         x { _z_  existe       c { _k_ cai
-     { _x_ triste        { _√ß_  proximo        { ... acto
-     { _j_ tisna         { _k√ß_ sexo
+     { _x_ triste        { _Á_  proximo        { ... acto
+     { _j_ tisna         { _kÁ_ sexo
 
    g { _g_elo      ch { _x_ chefe        z { _z_ zelo      r { e_r_a
      { a_g_ua         { _k_ chimica        { _x_ fiz         { _r_aio
 
 
 Ora destas formas de valor incerto nenhuma convinha para os primeiros
-exercicios. Das outras, uma tem valor certo e exclusivo, que √© v: as mais
-n√£o teem valor exclusivo mas teem valor certo, que s√£o f, ff, ph, √ß, ss, j,
-rr, rh; mas embora tenham valor certo, as compostas n√£o seria bom methodo
-antecipar √°s simples; √ß √© uma letra anomala; ff comprehende-se em f. Isto
+exercicios. Das outras, uma tem valor certo e exclusivo, que È v: as mais
+n„o teem valor exclusivo mas teem valor certo, que s„o f, ff, ph, Á, ss, j,
+rr, rh; mas embora tenham valor certo, as compostas n„o seria bom methodo
+antecipar ·s simples; Á È uma letra anomala; ff comprehende-se em f. Isto
 tudo supposto restam v f j.
 
-Come√ß√°mos pela mais perfeita, v, que maiuscula ou minuscula conserva a
+ComeÁ·mos pela mais perfeita, v, que maiuscula ou minuscula conserva a
 mesma forma, nunca se annulla dobrando-se debalde ou escrevendo-se por amor
-da etymologia, tem sempre o mesmo valor e s√≥ ella tem esse valor, presta-se
-com as vogaes a muitas combina√ß√µes familiares, e representa uma inflex√£o
-_gemida_, isto √©, duplamente apreciavel ao ouvido do principiante pela
+da etymologia, tem sempre o mesmo valor e sÛ ella tem esse valor, presta-se
+com as vogaes a muitas combinaÁıes familiares, e representa uma inflex„o
+_gemida_, isto È, duplamente apreciavel ao ouvido do principiante pela
 continuidade e pela intensidade.
 
-Do v pass√°mos ao f, pela analogia da pronuncia. Passamos agora ao j.
+Do v pass·mos ao f, pela analogia da pronuncia. Passamos agora ao j.
 
 Os antigos punham o valor da letra no primeiro elemento do nome que lhe
-davam; razoavel systema de designa√ß√µes principalmente para as consoantes
+davam; razoavel systema de designaÁıes principalmente para as consoantes
 instantaneas, que mal se podem proferir em separado sem lhes exagerar o
-valor. _Jota_ e _xiz_ s√£o os nomes que temos n'esse genero (preferiveis a
-_√©fe_ _√©le_, etc. onde a inflex√£o vem encravada em duas vozes dum modo
-obscuro); mas taes nomes constituem excep√ß√£o, e imp√µem a necessidade de
-fazer distinc√ß√£o entre o nome e o valor, o que o alumno embora perceba
-facilmente, n√£o deixa por isso de se embara√ßar na pr√°tica, porque lhe
-occorrem as duas cousas, nome e valor. Aquellas designa√ß√µes antigas
-fundadas numa base at√© certo ponto filosofica, eram nomes geralmente
+valor. _Jota_ e _xiz_ s„o os nomes que temos n'esse genero (preferiveis a
+_Èfe_ _Èle_, etc. onde a inflex„o vem encravada em duas vozes dum modo
+obscuro); mas taes nomes constituem excepÁ„o, e impıem a necessidade de
+fazer distincÁ„o entre o nome e o valor, o que o alumno embora perceba
+facilmente, n„o deixa por isso de se embaraÁar na pr·tica, porque lhe
+occorrem as duas cousas, nome e valor. Aquellas designaÁıes antigas
+fundadas numa base atÈ certo ponto filosofica, eram nomes geralmente
 compostos, verdadeiros nomes, com toda a melodia da lingua, sem aquella
-simplicidade d'algumas denomina√ß√µes nossas como _b√™_, _d√™_; por isso peores
-de conciliar com a soletra√ß√£o. Ao _d_, por exemplo, chamavam _daleth_, ao
-_a_ _aleph_, ao _l_ _lamed_. Em quantos annos chegaria o desgra√ßado alumno
-a soletrar (claro est√°, inconscientemente, de memoria, √° for√ßa de
-repeti√ß√µes sem conto) _daleth aleph lamed_, _dal_?!
+simplicidade d'algumas denominaÁıes nossas como _bÍ_, _dÍ_; por isso peores
+de conciliar com a soletraÁ„o. Ao _d_, por exemplo, chamavam _daleth_, ao
+_a_ _aleph_, ao _l_ _lamed_. Em quantos annos chegaria o desgraÁado alumno
+a soletrar (claro est·, inconscientemente, de memoria, · forÁa de
+repetiÁıes sem conto) _daleth aleph lamed_, _dal_?!
 
           (_daleth_
             _aleph_
@@ -409,22 +409,22 @@ repeti√ß√µes sem conto) _daleth aleph lamed_, _dal_?!
   Somma... _dal_)
 
 Em cinco e seis annos como ainda hoje a infancia israelita; com manifesto
-prejuizo da sua educa√ß√£o logica.
+prejuizo da sua educaÁ„o logica.
 
-Mas seria mais irracional essa soletra√ß√£o que por exemplo a nossa _c√™ √°_,
-_k√°_? N√£o! ao menos alli, dada a chave do enigma, descoberto o segredo,
-achavam-se as parcellas da somma, os elementos da syllaba √° frente dos tres
-nomes das letras. Em _c√™ √°_, _k√°_, √© impossivel perceber donde veio _k_, a
-inflex√£o guttural que soa na syllaba k√°.
+Mas seria mais irracional essa soletraÁ„o que por exemplo a nossa _cÍ ·_,
+_k·_? N„o! ao menos alli, dada a chave do enigma, descoberto o segredo,
+achavam-se as parcellas da somma, os elementos da syllaba · frente dos tres
+nomes das letras. Em _cÍ ·_, _k·_, È impossivel perceber donde veio _k_, a
+inflex„o guttural que soa na syllaba k·.
 
-Todavia ensina-se assim a ler! N√£o ensinemos n√≥s a ler assim. Chamemos ao
+Todavia ensina-se assim a ler! N„o ensinemos nÛs a ler assim. Chamemos ao
 _jota j..._
 
 
 
             j
 
-j√°
+j·
 
 fu|ja
 
@@ -435,25 +435,25 @@ vi|a|ja     vi|a|ja|va
 
 
 
-QUINTA LI√á√ÉO
+QUINTA LI«√O
 
 
-A leitura, nestas palavras de vogaes e consoantes cont√≠nuas, √© t√£o clara,
-funda-se em elementos t√£o distinctos, est√£o os seus passos por assim dizer
-t√£o bem marcados, a syllaba constitue sempre uma somma t√£o evidente, que o
-principiante, compenetrado da base do systema orthografico e talvez at√©
+A leitura, nestas palavras de vogaes e consoantes contÌnuas, È t„o clara,
+funda-se em elementos t„o distinctos, est„o os seus passos por assim dizer
+t„o bem marcados, a syllaba constitue sempre uma somma t„o evidente, que o
+principiante, compenetrado da base do systema orthografico e talvez atÈ
 exagerando a simplicidade da arte, deve-se a estas horas achar disposto a
 receber as outras consoantes, combinando-as com o mesmo conhecimento de
 causa.
 
-A experiencia abona esta supposi√ß√£o. √â notavel a facilidade e consciencia
-com que o alumno, em t√£o poucas li√ß√µes, come√ßa a ler as syllabas compostas
+A experiencia abona esta supposiÁ„o. … notavel a facilidade e consciencia
+com que o alumno, em t„o poucas liÁıes, comeÁa a ler as syllabas compostas
 de elementos confusos e quasi inseparaveis.
 
-Mas que ordem havemos de seguir na combina√ß√£o dos novos elementos? Assim
-como na li√ß√£o passada busc√°mos as formas pelas inflex√µes, vejamos de
-quantas formas se escrevem as doze inflex√µes instantaneas da nossa lingua
-(que foi nossa inten√ß√£o mnemonisar nas palavras _bocado golilha maninho
+Mas que ordem havemos de seguir na combinaÁ„o dos novos elementos? Assim
+como na liÁ„o passada busc·mos as formas pelas inflexıes, vejamos de
+quantas formas se escrevem as doze inflexıes instantaneas da nossa lingua
+(que foi nossa intenÁ„o mnemonisar nas palavras _bocado golilha maninho
 preto_; _bkd_, _gl lh_, _mn nh_, _pr t_):
 
 
@@ -461,7 +461,7 @@ preto_; _bkd_, _gl lh_, _mn nh_, _pr t_):
 
   _k_ (kilo  qual  chimica)          k  q  ch  c
 
-  _d_ (addido  adhes√£o)              d  dd  dh
+  _d_ (addido  adhes„o)              d  dd  dh
 
   _g_ (aggregado)                    g  gg
 
@@ -474,7 +474,7 @@ preto_; _bkd_, _gl lh_, _mn nh_, _pr t_):
                  { ...   co_m_menda)
 
                  {  ~    a_n_da
-  _n_  (n√£o    n { _n_   _n_√£o       n
+  _n_  (n„o    n { _n_   _n_„o       n
                  { ...   a_n_nel)
 
   _nh_ (unha)                        nh
@@ -486,29 +486,29 @@ preto_; _bkd_, _gl lh_, _mn nh_, _pr t_):
   _t_  (attonito  theoria)           t  tt  th
 
 
-Contando achareis, para representar as doze inflex√µes instantaneas da nossa
-lingua, vinte e duas formas (n√£o escogitando muito, pois por exemplo, gu
+Contando achareis, para representar as doze inflexıes instantaneas da nossa
+lingua, vinte e duas formas (n„o escogitando muito, pois por exemplo, gu
 para representar _g_ guttural bem se podia considerar uma nova forma).
-Destas formas j√° conheciamos por incertas c, ch, g, r; e conhecemos agora
-como taes m, n: ora primeiro se h√£o de apresentar as certas. As formas lh,
-nh, dh, th s√£o compostas; e primeiro se h√£o de apresentar as simples.
-Tiradas incertas e compostas, restam certas mas dobres, isto √©, que √°s
-vezes se dobram inutilmente b, d, l, p, t; certas e simples, isto √©, que
+Destas formas j· conheciamos por incertas c, ch, g, r; e conhecemos agora
+como taes m, n: ora primeiro se h„o de apresentar as certas. As formas lh,
+nh, dh, th s„o compostas; e primeiro se h„o de apresentar as simples.
+Tiradas incertas e compostas, restam certas mas dobres, isto È, que ·s
+vezes se dobram inutilmente b, d, l, p, t; certas e simples, isto È, que
 nunca se dobram k, q.
 
-Por aqui haviamos de come√ßar, se com o _q_ n√£o se annullasse muitas vezes o
-_u_, o que √© absurdo; e se tivessemos palavra usual onde apresentar o _k_
-sem dependencia de letra desconhecida; mas s√≥ temos kilo, onde entra l que,
+Por aqui haviamos de comeÁar, se com o _q_ n„o se annullasse muitas vezes o
+_u_, o que È absurdo; e se tivessemos palavra usual onde apresentar o _k_
+sem dependencia de letra desconhecida; mas sÛ temos kilo, onde entra l que,
 portanto, ha de vir antes.
 
-Mas b, d, p √© o mesmo caracter invertido; approximemol-as: d, t, s√£o irm√£s
+Mas b, d, p È o mesmo caracter invertido; approximemol-as: d, t, s„o irm„s
 na pronuncia.
 
 Disto resulta que podemos ter por boa ordem a seguinte: t, d, b, p, l, k,
 etc.
 
-Vamos ao t. Explicai, se quizerdes, a sua pronuncia ou simplesmente l√™de-o
-na syllaba: o alumno vos seguir√°.
+Vamos ao t. Explicai, se quizerdes, a sua pronuncia ou simplesmente lÍde-o
+na syllaba: o alumno vos seguir·.
 
           t
 
@@ -525,19 +525,19 @@ fa|ti|o|ta
 
 
 
-SEXTA LI√á√ÉO
+SEXTA LI«√O
 
 
-Quando agrup√°mos as inflex√µes cont√≠nuas de duas em duas (_f...v..._,
-_c...z..._, _x...j..._), quizemos indicar o parentesco de cada par; isto √©,
-que a primeira se pronunc√≠a como a segunda, na mesma disposi√ß√£o de org√£os,
-com a differen√ßa que na primeira ha s√≥ folego e na segunda ha essa meia voz
-a que cham√°mos gemido.
+Quando agrup·mos as inflexıes contÌnuas de duas em duas (_f...v..._,
+_c...z..._, _x...j..._), quizemos indicar o parentesco de cada par; isto È,
+que a primeira se pronuncÌa como a segunda, na mesma disposiÁ„o de org„os,
+com a differenÁa que na primeira ha sÛ folego e na segunda ha essa meia voz
+a que cham·mos gemido.
 
-O _j_ √© um _x_ mais forte, um _x_ gemido, vozeado.
+O _j_ È um _x_ mais forte, um _x_ gemido, vozeado.
 
-Mas ahi bem se explica a differen√ßa. Agora as inflex√µes _t_ e _d_ s√£o mais
-do que parentas, s√£o irm√£s. Por isso do t passamos naturalmente ao d.
+Mas ahi bem se explica a differenÁa. Agora as inflexıes _t_ e _d_ s„o mais
+do que parentas, s„o irm„s. Por isso do t passamos naturalmente ao d.
 
 
 
@@ -545,13 +545,13 @@ do que parentas, s√£o irm√£s. Por isso do t passamos naturalmente ao d.
 
 di|a
 
-d√≥          doi
+dÛ          doi
 
-d√°          deu         da|da
+d·          deu         da|da
 
 da|va       de|va
 
-vi|da       du|v√≠|da
+vi|da       du|vÌ|da
 
 i|da        i|di|o|ta
 
@@ -564,32 +564,32 @@ fi|a|da     a|fi|a|da
 
 
 
-SETIMA LI√á√ÉO
+SETIMA LI«√O
 
 
-O leitor havia de notar na li√ß√£o passada a palavra _duv√≠da_ com accento.
-N√≥s temos aos signaes prosodicos uma especie de avers√£o, chegando os nossos
-mais esmerados escritores a n√£o accentuarem muitas vezes at√© as palavras
-equ√≠vocas. Mas esse √© o facto. Em theoria ninguem sustenta esse exagero.
+O leitor havia de notar na liÁ„o passada a palavra _duvÌda_ com accento.
+NÛs temos aos signaes prosodicos uma especie de avers„o, chegando os nossos
+mais esmerados escritores a n„o accentuarem muitas vezes atÈ as palavras
+equÌvocas. Mas esse È o facto. Em theoria ninguem sustenta esse exagero.
 Donde se segue que podemos, e devemos, por exemplo, escrever sempre
-_duv√≠da_ ou _d√∫vida_, e nunca simplesmente _duvida_.
+_duvÌda_ ou _d˙vida_, e nunca simplesmente _duvida_.
 
-O principio de accentuar s√≥ as palavras equ√≠vocas √© bambo. Tudo √© equ√≠voco
-para quem n√£o sabe. Nada mais equ√≠voco para um extrangeiro, que as tres
+O principio de accentuar sÛ as palavras equÌvocas È bambo. Tudo È equÌvoco
+para quem n„o sabe. Nada mais equÌvoco para um extrangeiro, que as tres
 primeiras vogaes de _cama casa_ e _cada_, identicas na escrita, diversas na
-pronuncia (√£, √°, √¢). Todavia nunca se accentuaram. Mas sendo essa a pr√°tica
-constante, n√£o se devem dar a ler escritas doutro modo. Por√©m as palavras
-equ√≠vocas alguns accentuam-nas systematicamente, e muitos, embora sem
-especial cuidado, teem occasi√£o de as differen√ßar na escrita. Queremos
-dizer com isto que rejeitando e reprovando nas cartilhas uma accentua√ß√£o
+pronuncia („, ·, ‚). Todavia nunca se accentuaram. Mas sendo essa a pr·tica
+constante, n„o se devem dar a ler escritas doutro modo. PorÈm as palavras
+equÌvocas alguns accentuam-nas systematicamente, e muitos, embora sem
+especial cuidado, teem occasi„o de as differenÁar na escrita. Queremos
+dizer com isto que rejeitando e reprovando nas cartilhas uma accentuaÁ„o
 artificial armada a facilitar a leitura, iremos empregando os devidos
-signaes nas palavras duvidosas, conforme a raz√£o e os bons exemplos.
+signaes nas palavras duvidosas, conforme a raz„o e os bons exemplos.
 
-√â inadmissivel a doutrina de escrever as palavras de maneira que, em
-separado, os mesmos portuguezes n√£o saibam o que ellas s√£o.
+… inadmissivel a doutrina de escrever as palavras de maneira que, em
+separado, os mesmos portuguezes n„o saibam o que ellas s„o.
 
 Mas, voltando ao nosso caminho, vamos ao b, que se profere despegando os
-labios, como p, m; e por isso chamam, a estas letras e inflex√µes,
+labios, como p, m; e por isso chamam, a estas letras e inflexıes,
 _labiaes_.
 
           b
@@ -619,37 +619,37 @@ a|ba|fa|da
 
 
 
-OITAVA LI√á√ÉO
+OITAVA LI«√O
 
 
-Na li√ß√£o passada figurava em _boi_ e _boa_ a letra _o_ com um valor diverso
-do que se infere de seu nome. √â tempo de admittir essa novidade.
+Na liÁ„o passada figurava em _boi_ e _boa_ a letra _o_ com um valor diverso
+do que se infere de seu nome. … tempo de admittir essa novidade.
 
-N√≥s temos julgado inutil dizer que o criterio fundamental da nossa prosodia
-√©---_ler como se diz_: criterio sofistico, que n√£o resiste √° analyse mas que
-felizmente a crian√ßa na sua simplicidade admitte de boamente. A crian√ßa
+NÛs temos julgado inutil dizer que o criterio fundamental da nossa prosodia
+È---_ler como se diz_: criterio sofistico, que n„o resiste · analyse mas que
+felizmente a crianÁa na sua simplicidade admitte de boamente. A crianÁa
 folga de rectificar uma leitura fundada no rigor dos dados, pelo que ouve e
-costuma dizer. Um certo instincto pr√°tico, um sentimento de utilidade a
-leva a achar muito bem fundado aquelle dictame futil. _B√≥i_ n√£o se diz;
-_b√≥i_ n√£o √© nada, gostosamente corrige e diz _b√¥i_.
+costuma dizer. Um certo instincto pr·tico, um sentimento de utilidade a
+leva a achar muito bem fundado aquelle dictame futil. _BÛi_ n„o se diz;
+_bÛi_ n„o È nada, gostosamente corrige e diz _bÙi_.
 
-E o caso √© que emquanto outros, acostumados a syllabas v√£s, naturalmente
+E o caso È que emquanto outros, acostumados a syllabas v„s, naturalmente
 estropeiam as palavras mais logicamente escritas; o nosso alumno mettido
-naquelle caminho pr√°tico, e habituado a intender sempre o que l√™, tende
-naturalmente a dar sentido e alma √°s combina√ß√µes da orthografia mais
+naquelle caminho pr·tico, e habituado a intender sempre o que lÍ, tende
+naturalmente a dar sentido e alma ·s combinaÁıes da orthografia mais
 duvidosa, achando uma palavra corrente.
 
-N√≥s reservamos li√ß√µes especiaes para as grandes varia√ß√µes de valor nas
-vogaes; mas _√≥_ e _√¥_ n√£o differem dum modo muito extranho.
+NÛs reservamos liÁıes especiaes para as grandes variaÁıes de valor nas
+vogaes; mas _Û_ e _Ù_ n„o differem dum modo muito extranho.
 
-Isto posto passemos ao _p_ que √© irm√£o de _b_ no valor, e tambem se p√≥de
+Isto posto passemos ao _p_ que È irm„o de _b_ no valor, e tambem se pÛde
 dizer que na figura.
 
           p
 
 pai
 
-p√°        p√≥        p√©
+p·        pÛ        pÈ
 
 pu|a      pi|a      pi|pa
 
@@ -672,34 +672,34 @@ ta|pa|da
 
 
 
-NONA LI√á√ÉO
+NONA LI«√O
 
 
-Alguns chamam, ao _e_ de _saude_, mudo. Antes o chamem que o fa√ßam, pois se
-o fazem n√£o fallam portuguez. O _u_ em guerra √© mudo, e na maxima parte das
+Alguns chamam, ao _e_ de _saude_, mudo. Antes o chamem que o faÁam, pois se
+o fazem n„o fallam portuguez. O _u_ em guerra È mudo, e na maxima parte das
 palavras onde se escreve _gue_, _gui_, _que_, _qui_: e ainda n'outros casos
-como havemos de ver. Porem a vogal _e_ representa sempre voz; e n√£o ha
-vozes mudas. Deviam-lhe chamar _e_ grave, que √© j√° frase recebida,
-significando baixo, n√£o agudo, que n√£o soa alto, que n√£o soa muito.
+como havemos de ver. Porem a vogal _e_ representa sempre voz; e n„o ha
+vozes mudas. Deviam-lhe chamar _e_ grave, que È j· frase recebida,
+significando baixo, n„o agudo, que n„o soa alto, que n„o soa muito.
 
-Isto supposto, as inflex√µes instantaneas por onde acabam palavras
-portuguezas s√£o _l_, _n_, _r_: exemplo, _tal_, _talisman_, _ter_. Estas
-inflex√µes, parece que todas se proferem despegando a lingua do c√©o da b√¥ca:
-porem, na sua qualidade de instantaneas n√£o teem som proprio, e por isso,
-vindo no fim, se despegarmos a lingua durante a emiss√£o da voz, em vez de
-_ter_, diremos _tere_; em vez de _tal_, _tale_, etc.: o que √© vicioso.
+Isto supposto, as inflexıes instantaneas por onde acabam palavras
+portuguezas s„o _l_, _n_, _r_: exemplo, _tal_, _talisman_, _ter_. Estas
+inflexıes, parece que todas se proferem despegando a lingua do cÈo da bÙca:
+porem, na sua qualidade de instantaneas n„o teem som proprio, e por isso,
+vindo no fim, se despegarmos a lingua durante a emiss„o da voz, em vez de
+_ter_, diremos _tere_; em vez de _tal_, _tale_, etc.: o que È vicioso.
 
-Ora assim como _saud'_ n√£o √© portuguez, tambem o n√£o s√£o taes palavras
-acabando em _e_ grave, que a consoante n√£o representa nem a inflex√£o p√≥de
+Ora assim como _saud'_ n„o È portuguez, tambem o n„o s„o taes palavras
+acabando em _e_ grave, que a consoante n„o representa nem a inflex„o pÛde
 comprehender.
 
-A respeito do _l_, uma indica√ß√£o podeis fazer muito clara e proficua, ao
-vosso alumno, e √© que deixe a lingua pegada ao c√©o da b√¥ca. Por um dos
+A respeito do _l_, uma indicaÁ„o podeis fazer muito clara e proficua, ao
+vosso alumno, e È que deixe a lingua pegada ao cÈo da bÙca. Por um dos
 muitos mysterios da palavra, assim se profere elegantemente o _l_ final, ou
-posterior √° voz.
+posterior · voz.
 
-N√£o temos apresentado letras dobradas por falta de occasi√£o; n√£o, por
-systema. √â um facto de observa√ß√£o que o principiante n√£o se embara√ßa com
+N„o temos apresentado letras dobradas por falta de occasi„o; n„o, por
+systema. … um facto de observaÁ„o que o principiante n„o se embaraÁa com
 isso, como ides ver.
 
                 l
@@ -714,13 +714,13 @@ bo|la        be|lla
 
 fa|lla       fi|ve|lla
 
-l√°           √≥|l√°      a|lli
+l·           Û|l·      a|lli
 
 vil          fel       fi|el     tal
 
 fa|tal       fa|val
 
-pa|√∫l        pa|pel
+pa|˙l        pa|pel
 
 al|va        al|ta
 
@@ -733,60 +733,60 @@ a|pal|pa|de|lla
 
 
 
-DECIMA LI√á√ÉO
+DECIMA LI«√O
 
 
-Estas notas s√£o escritas ao correr da impress√£o; e, recebendo agora do
-Porto a primeira folha (que em Lisboa nem de gra√ßa, como cheg√°mos a
+Estas notas s„o escritas ao correr da impress„o; e, recebendo agora do
+Porto a primeira folha (que em Lisboa nem de graÁa, como cheg·mos a
 offerecer a um editor notavel, demais a mais poeta e prosador, conseguimos
-a publica√ß√£o desta curiosidade) vemos nessa folha que na segunda li√ß√£o,
-onde se trata da combina√ß√£o do _v_ com as vogaes, dissemos que vos podieis
-demorar na leitura de cada letra sem distinc√ß√£o, por serem todas igualmente
-prolongaveis. Assim √©: mas esqueceu-nos advertir que haja cuidado em n√£o
-separar a inflex√£o da voz; sen√£o, basta a minima pausa para terdes de as
+a publicaÁ„o desta curiosidade) vemos nessa folha que na segunda liÁ„o,
+onde se trata da combinaÁ„o do _v_ com as vogaes, dissemos que vos podieis
+demorar na leitura de cada letra sem distincÁ„o, por serem todas igualmente
+prolongaveis. Assim È: mas esqueceu-nos advertir que haja cuidado em n„o
+separar a inflex„o da voz; sen„o, basta a minima pausa para terdes de as
 ajuntar depois, o que vem a dar na mesma que soletrar. A advertencia era
 por ventura escusada.
 
-No ensino individual, que √© s√≥ onde temos experimentado este systema, com
-os resultados previstos (em li√ß√µes manuscritas imitando letra redonda)
-costumamo-nos collocar a um canto da mesa, mais o alumno, elle dum lado √°
-esquerda e n√≥s do outro; pomos-lhe a li√ß√£o diante convenientemente; e
-emquanto, nas primeiras quatro li√ß√µes, percorremos com o ponteiro pela
+No ensino individual, que È sÛ onde temos experimentado este systema, com
+os resultados previstos (em liÁıes manuscritas imitando letra redonda)
+costumamo-nos collocar a um canto da mesa, mais o alumno, elle dum lado ·
+esquerda e nÛs do outro; pomos-lhe a liÁ„o diante convenientemente; e
+emquanto, nas primeiras quatro liÁıes, percorremos com o ponteiro pela
 parte de cima as letras da palavra, imol-as simultaneamente pronunciando.
 Ora como do intervallo das letras naturalmente se abstrahe, nem esse
-intervallo √© apreciavel na marcha do ponteiro, a palavra afigura-se aos
+intervallo È apreciavel na marcha do ponteiro, a palavra afigura-se aos
 olhos do principiante como uma pequena escala, cujas notas se vibram na sua
 ordem natural.
 
-E o que √© a leitura sen√£o a pron√∫ncia successiva dos elementos simples ou
-compostos, certos ou incertos da palavra escrita? Por isso √© que a leitura
-√© a verdadeira soletra√ß√£o; porque s√≥ na leitura se d√° aos caracteres o seu
+E o que È a leitura sen„o a pron˙ncia successiva dos elementos simples ou
+compostos, certos ou incertos da palavra escrita? Por isso È que a leitura
+È a verdadeira soletraÁ„o; porque sÛ na leitura se d· aos caracteres o seu
 justo valor.
 
-Ha duas soletra√ß√µes, a antiga e a moderna. A soletra√ß√£o antiga vai chamando
-as letras pelos seus nomes, para apresentar depois, n√£o a somma desses
-nomes, mas a somma dos valores dessas letras. Esta soletra√ß√£o √© absurda, e
-desmoralisa o raciocinio do principiante. Como quereis v√≥s que uma alminha,
-ainda com aquella luz t√£o pura que traz de Deus, entenda que _c√™_, _ag√°_,
-_√°_, junto, sommado, √© _x√°_?!
+Ha duas soletraÁıes, a antiga e a moderna. A soletraÁ„o antiga vai chamando
+as letras pelos seus nomes, para apresentar depois, n„o a somma desses
+nomes, mas a somma dos valores dessas letras. Esta soletraÁ„o È absurda, e
+desmoralisa o raciocinio do principiante. Como quereis vÛs que uma alminha,
+ainda com aquella luz t„o pura que traz de Deus, entenda que _cÍ_, _ag·_,
+_·_, junto, sommado, È _x·_?!
 
-Isto ser√° ensinar a ler, mas √© ao mesmo tempo embrutecer. Ora mil vezes
+Isto ser· ensinar a ler, mas È ao mesmo tempo embrutecer. Ora mil vezes
 antes analfabeto que idiota.
 
-Porem esta soletra√ß√£o, que ali√°s reina em Portugal e seus dominios, est√°
-condemnada. A outra, a soletra√ß√£o moderna que procede por valores, √©
-incomparavelmente superior; mas ou √© inexequivel ou escusada.
+Porem esta soletraÁ„o, que ali·s reina em Portugal e seus dominios, est·
+condemnada. A outra, a soletraÁ„o moderna que procede por valores, È
+incomparavelmente superior; mas ou È inexequivel ou escusada.
 
-Modernamente, como se soletra _ch√°_? Deste modo: _x'_, _√°_, _x√°_. Mas se o
-alumno sabe, pelo conhecimento das regras ou por intui√ß√£o, o valor
-hypotetico de _ch_, l√™ igualmente _x√°_; e se n√£o sabe, n√£o pode soletrar √°
-moderna. √â claro.
+Modernamente, como se soletra _ch·_? Deste modo: _x'_, _·_, _x·_. Mas se o
+alumno sabe, pelo conhecimento das regras ou por intuiÁ„o, o valor
+hypotetico de _ch_, lÍ igualmente _x·_; e se n„o sabe, n„o pode soletrar ·
+moderna. … claro.
 
-Daqui resulta que a soletra√ß√£o √© a leitura. Ensinemos as regras; e a
-pratica far√° o resto.
+Daqui resulta que a soletraÁ„o È a leitura. Ensinemos as regras; e a
+pratica far· o resto.
 
-Segue-se o _k_, pela ordem estabelecida; e como s√≥ o podemos apresentar em
-_kilo_, aproveitemos a occasi√£o de exercitar o principiante no _o_ final,
+Segue-se o _k_, pela ordem estabelecida; e como sÛ o podemos apresentar em
+_kilo_, aproveitemos a occasi„o de exercitar o principiante no _o_ final,
 ensinando-lhe que o _o_ no fim vale _u_. Explicai-lhe o symbolo, se vos
 parecer: a curva ondeada indica as mais letras da palavra acabada em _o_,
 que faltam; as duas parallelas querem dizer _vale_.
@@ -822,73 +822,73 @@ bal|do    bal|di|o
 
 bo|lo     lo|bo     lo|do
 
-o|vo      to|lo     t√≤l|do
+o|vo      to|lo     tÚl|do
 
 
 
 
-UNDECIMA LI√á√ÉO
+UNDECIMA LI«√O
 
 
-N√£o tinhamos outra palavra conveniente sen√£o _kilo_, onde apresentassemos o
-_k_, por ser esta consoante t√£o perfeita como rara.
+N„o tinhamos outra palavra conveniente sen„o _kilo_, onde apresentassemos o
+_k_, por ser esta consoante t„o perfeita como rara.
 
-Os gregos tinham uma inflex√£o irm√£ da que representa em portuguez o _k_,
+Os gregos tinham uma inflex„o irm„ da que representa em portuguez o _k_,
 mas aspirada; e figuravam-na por certa letra bastante similhante ao _k_, e
 ainda mais similhante ao _x_.
 
-Os romanos n√£o tinham essa letra; e, como para elle _c_ valia _q_,
-ajuntaram-lhe _h_ para significar aspira√ß√£o, e nas palavras gregas de
-origem, onde havia aquella inflex√£o guttural, escreviam _ch_ com
+Os romanos n„o tinham essa letra; e, como para elle _c_ valia _q_,
+ajuntaram-lhe _h_ para significar aspiraÁ„o, e nas palavras gregas de
+origem, onde havia aquella inflex„o guttural, escreviam _ch_ com
 justificado motivo.
 
-Mas isso, elles; n√≥s s√≥ por imita√ß√£o servil fazemos o mesmo; porque para
-n√≥s nem o _c_ vale _q_, e sim diversas inflex√µes; nem o _h_ significa
-aspira√ß√£o, que n√£o ha em portuguez; nem _ch_ tem valor definido. Quanto
+Mas isso, elles; nÛs sÛ por imitaÁ„o servil fazemos o mesmo; porque para
+nÛs nem o _c_ vale _q_, e sim diversas inflexıes; nem o _h_ significa
+aspiraÁ„o, que n„o ha em portuguez; nem _ch_ tem valor definido. Quanto
 mais que em pontos de orthografia grega mais nos devia importar o grego que
-o latim; e se ha maneira de falsear aquella excellente orthografia √©
+o latim; e se ha maneira de falsear aquella excellente orthografia È
 escrever dois caracteres representando um valor.
 
 Donde resulta que em taes casos mais logica o etymologicamente se devera
-escrever _k_. Todavia, recebendo esta letra na adop√ß√£o do systema metrico
-uma especie de cunho official, nem as _gra√ßas do poder_ lhe valeram a
-benevolencia dos sabios: contin√∫a em _kilo_ (significando mil) a ter curso
-for√ßado; mas j√° em _chylo_ (succo de alimentos digeridos) insistem os
+escrever _k_. Todavia, recebendo esta letra na adopÁ„o do systema metrico
+uma especie de cunho official, nem as _graÁas do poder_ lhe valeram a
+benevolencia dos sabios: contin˙a em _kilo_ (significando mil) a ter curso
+forÁado; mas j· em _chylo_ (succo de alimentos digeridos) insistem os
 sabios a escrever _ch_, tendo a palavra igual origem e identica pronuncia.
 
-√â uma especie de antipathia, √°quelle excellente caracter, que n√£o se p√≥de
-attribuir √°s suas quatro pernas. A mesma Fran√ßa, que toda se empenha em
-disfar√ßar no apparato scientifico os absurdos da sua orthografia, expulsa o
+… uma especie de antipathia, ·quelle excellente caracter, que n„o se pÛde
+attribuir ·s suas quatro pernas. A mesma FranÁa, que toda se empenha em
+disfarÁar no apparato scientifico os absurdos da sua orthografia, expulsa o
 _k_ de palavras a que elle pertencia _par droit de naissance_; reserva-o
 para os termos arabes; e nos proprios de origem grega escreve _ch_ valendo,
 note-se, ora _k_ ora _x_. Primores da coherencia etymologica!
 
 Mas o alumno espera-nos. Ao _k_ seguia-se o _q_ segundo o nosso plano; mas
-j√° sabemos que esta consoante, embora certa, offerece circumstancias
-absurdas: servir√° pois de introduc√ß√£o √°s consoantes incertas; e vamos
-entretanto a outras regras sem excep√ß√£o, em respeito a vogaes.
+j· sabemos que esta consoante, embora certa, offerece circumstancias
+absurdas: servir· pois de introducÁ„o ·s consoantes incertas; e vamos
+entretanto a outras regras sem excepÁ„o, em respeito a vogaes.
 
-Ensin√°mos na li√ß√£o passada que _o_ final vale _u_. Ensinemos agora que _ou_
-vale _√¥_.
+Ensin·mos na liÁ„o passada que _o_ final vale _u_. Ensinemos agora que _ou_
+vale _Ù_.
 
-Nas provincias do norte diz-se _am√¥u_, _compr√¥u_; mas em Coimbra, Lisboa e
-no mais Portugal n√£o se profere tal ditongo. Escreve-se _ou_, mas o _u_ √©
-mudo, e o _o_ soa como em _av√¥_.
+Nas provincias do norte diz-se _amÙu_, _comprÙu_; mas em Coimbra, Lisboa e
+no mais Portugal n„o se profere tal ditongo. Escreve-se _ou_, mas o _u_ È
+mudo, e o _o_ soa como em _avÙ_.
 
-Este √© o facto e, por consequencia, a lei fundada, n√£o diremos na melodia
-que √© relativa, porem no uso mais autorisado e ali√°s mais vasto.
+Este È o facto e, por consequencia, a lei fundada, n„o diremos na melodia
+que È relativa, porem no uso mais autorisado e ali·s mais vasto.
 
-Com isto n√£o queremos dizer que em tal ou tal logar, onde reine sem
-contradic√ß√£o aquella variante, o professor se empenhe em arrancar aos seus
-discipulos talvez um h√°bito invencivel. A toada √© singularmente ingrata a
-ouvidos estranhos e illeg√≠tima; por√©m n√£o √© essencial que os filhos do povo
-fallem classicamente; o essencial √© fazel-os quebrar o circulo da
+Com isto n„o queremos dizer que em tal ou tal logar, onde reine sem
+contradicÁ„o aquella variante, o professor se empenhe em arrancar aos seus
+discipulos talvez um h·bito invencivel. A toada È singularmente ingrata a
+ouvidos estranhos e illegÌtima; porÈm n„o È essencial que os filhos do povo
+fallem classicamente; o essencial È fazel-os quebrar o circulo da
 animalidade e dar-lhes, por meio da leitura e da escrita, o horisonte
 infinito do homem. Em parte onde convier, exercitai-os no ditongo.
 
-ou = √¥
+ou = Ù
 
-a|v√¥
+a|vÙ
 
 vou          a|vi|ou
 
@@ -919,61 +919,61 @@ pou|pou
 
 
 
-DUODECIMA LI√á√ÉO
+DUODECIMA LI«√O
 
 
-J√° na li√ß√£o passada nos referimos ao ditongo _ou_, usado nas provincias do
-norte, e que bem se p√≥de ter por vicioso. Agora diremos que nas provincias
-do sul cerceiam o delicado ditongo _ei_, dizendo em logar de _l√™i l√™ito d√™i
-d√™it√™i_, simples e desengra√ßadamente _l√™ l√™to d√™ d√™t√™_. Tambem √© vulgar
-nestas provincias _m√©_ pai, _t√©_ primo; e n√£o menos, _jant√≠ and√≠ cant√≠_, em
-vez de _meu pai_, _teu primo_, _jant√™i and√™i cant√™i_.
+J· na liÁ„o passada nos referimos ao ditongo _ou_, usado nas provincias do
+norte, e que bem se pÛde ter por vicioso. Agora diremos que nas provincias
+do sul cerceiam o delicado ditongo _ei_, dizendo em logar de _lÍi lÍito dÍi
+dÍitÍi_, simples e desengraÁadamente _lÍ lÍto dÍ dÍtÍ_. Tambem È vulgar
+nestas provincias _mÈ_ pai, _tÈ_ primo; e n„o menos, _jantÌ andÌ cantÌ_, em
+vez de _meu pai_, _teu primo_, _jantÍi andÍi cantÍi_.
 
-N√£o imaginamos circumstancias que recommendem ao mestre contempla√ß√£o alguma
-com essas crassas deturpa√ß√µes da lingua. Os mais rudes acceitam a emenda
+N„o imaginamos circumstancias que recommendem ao mestre contemplaÁ„o alguma
+com essas crassas deturpaÁıes da lingua. Os mais rudes acceitam a emenda
 sem escandalo, e sem surpreza, lembrados duma ou outra pessoa culta que tem
 ouvido.
 
-Mas voltando ao _√™i_, objecto especial desta li√ß√£o, bom √© notar que esse
-ditongo nem sempre √© expresso, mormente na orthografia antiga. Os antigos
-escreviam regularmente _t√™a f√™o c√™a rec√™o_: os modernos escrevem geralmente
-mais conforme a pronuncia. Seja como f√¥r, o estylo da lingua n√£o admitte o
-ditongo _√™o √™a_; e em taes casos, esteja o _i_ expresso ou n√£o, ha de se
-ouvir o ditongo _√™i_ antes da voz final.
+Mas voltando ao _Íi_, objecto especial desta liÁ„o, bom È notar que esse
+ditongo nem sempre È expresso, mormente na orthografia antiga. Os antigos
+escreviam regularmente _tÍa fÍo cÍa recÍo_: os modernos escrevem geralmente
+mais conforme a pronuncia. Seja como fÙr, o estylo da lingua n„o admitte o
+ditongo _Ío Ía_; e em taes casos, esteja o _i_ expresso ou n„o, ha de se
+ouvir o ditongo _Íi_ antes da voz final.
 
-A raz√£o popular, ainda mais que as academias, tende sempre a racionalisar a
-orthografia ajustando-a com a falla; e por isso, como j√° indic√°mos, hoje o
-mais ordinario √© escrever-se _feio receio teia aldeia_. E ainda bem. Mas o
-que parece equ√≠voco da parte dalguns autores √© escreverem, por exemplo
+A raz„o popular, ainda mais que as academias, tende sempre a racionalisar a
+orthografia ajustando-a com a falla; e por isso, como j· indic·mos, hoje o
+mais ordinario È escrever-se _feio receio teia aldeia_. E ainda bem. Mas o
+que parece equÌvoco da parte dalguns autores È escreverem, por exemplo
 _grangeiar receiar_, porque em certas vozes (do presente do indicativo,
-imperativo e conjuntivo) de similhantes verbos soa _√™i_. Sempre ouvimos
-dizer _c√™io_ e _rec√™io_; mas ainda n√£o ouvimos dizer _c√™i√™i_ e _rec√™i√™i_. O
-_i_, que o estylo da lingua insinua naquellas vozes, √© um accidente do
-verbo e n√£o o mesmo verbo na sua forma primitiva. Se as altera√ß√µes que
-soffrem as vogaes durante a conjuga√ß√£o dos verbos devessem figurar no
-infinito, n√£o havia modo de os escrever. _Escrever_, por exemplo; segundo
+imperativo e conjuntivo) de similhantes verbos soa _Íi_. Sempre ouvimos
+dizer _cÍio_ e _recÍio_; mas ainda n„o ouvimos dizer _cÍiÍi_ e _recÍiÍi_. O
+_i_, que o estylo da lingua insinua naquellas vozes, È um accidente do
+verbo e n„o o mesmo verbo na sua forma primitiva. Se as alteraÁıes que
+soffrem as vogaes durante a conjugaÁ„o dos verbos devessem figurar no
+infinito, n„o havia modo de os escrever. _Escrever_, por exemplo; segundo
 _e_, grave; _escrevo_, segundo _e_, agudo: _velar_, _e_, grave; _velo_,
 _e_, aberto; _vele_, _e_, agudo (o mesmo da primeira syllaba).
 
-E sem fallarmos nos casos em que at√© as consoantes variam, como nos verbos
-acabados em _gar_ e _car_, aqui se mostra que a lingua portugueza n√£o
-guarda nos derivados a prosodia radical, por outra, que n√£o √© uma lingua
-etymologica, como era a latina: assim como n√£o √© uma lingua metrica, com
-syllabas longas e breves, como o latim; e assim como n√£o √© uma lingua
+E sem fallarmos nos casos em que atÈ as consoantes variam, como nos verbos
+acabados em _gar_ e _car_, aqui se mostra que a lingua portugueza n„o
+guarda nos derivados a prosodia radical, por outra, que n„o È uma lingua
+etymologica, como era a latina: assim como n„o È uma lingua metrica, com
+syllabas longas e breves, como o latim; e assim como n„o È uma lingua
 declinavel, com sete, oito, nove, dez e mais formas do mesmo nome, pronome
-ou adjectivo, como havia no latim. Ora n√£o sabemos que tra√ßos mais
+ou adjectivo, como havia no latim. Ora n„o sabemos que traÁos mais
 profundos de divergencia pode separar uma lingua de outra. Em que se fundam
 pois os argumentos de analogia com que o pedantismo nos tem sempre querido
 impor a orthografia latina? Bem fez a Hispanha que importando-lhe mais os
-seus grandes interesses, do que os embara√ßos do filologo em descobrir a
-origem e significa√ß√£o de _Cristo_ escrito sem _h_, tem hoje a mais perfeita
-orthografia do mundo. E nisso se podem fundar boas esperan√ßas da enorme
-civilisa√ß√£o que espera aquelle generoso povo, tantos seculos √° espessa
+seus grandes interesses, do que os embaraÁos do filologo em descobrir a
+origem e significaÁ„o de _Cristo_ escrito sem _h_, tem hoje a mais perfeita
+orthografia do mundo. E nisso se podem fundar boas esperanÁas da enorme
+civilisaÁ„o que espera aquelle generoso povo, tantos seculos · espessa
 sombra da monarchia.
 
-ei = √™i
+ei = Íi
 
-d√™         l√™
+dÍ         lÍ
 
 dei        lei      a|tei
 
@@ -1004,59 +1004,59 @@ pei|a      tei|a
 
 
 
-DECIMA TERCEIRA LI√á√ÉO
+DECIMA TERCEIRA LI«√O
 
 
-N√£o tratamos aqui dos valores da letra _e_.
+N„o tratamos aqui dos valores da letra _e_.
 
-Tratamos das vozes similhantes que essa letra representa; que s√£o quatro:
-_e agudo_, que se exprime no proprio nome dessa vogal, _√©_; _fechado_, de
-que fall√°mos na li√ß√£o antecedente, _d√™_, _d√™i_; _aberto_, que n√£o tendo
+Tratamos das vozes similhantes que essa letra representa; que s„o quatro:
+_e agudo_, que se exprime no proprio nome dessa vogal, _È_; _fechado_, de
+que fall·mos na liÁ„o antecedente, _dÍ_, _dÍi_; _aberto_, que n„o tendo
 signal especial em portuguez, muitas vezes figura com o mesmo agudo, por
-exemplo, _bello_, _p√©s_: e ha um outro, de todos o menos parecido com o
-agudo ou nome da letra, chamado grave, do qual j√° tivemos occasi√£o de
+exemplo, _bello_, _pÈs_: e ha um outro, de todos o menos parecido com o
+agudo ou nome da letra, chamado grave, do qual j· tivemos occasi„o de
 fallar.
 
 Este _e_, que mal podemos declarar por escrito, mas que o ouvido distingue
-perfeitamente, √© frequentissimo no principio, no meio e no fim de palavras;
-mas tambem frequentemente mal proferido, e at√© supprimido, mormente no fim.
+perfeitamente, È frequentissimo no principio, no meio e no fim de palavras;
+mas tambem frequentemente mal proferido, e atÈ supprimido, mormente no fim.
 
-Pondo nisso especial cuidado; n√£o deixeis o vosso discipulo dizer _fal'_ em
-logar de _falle_, assim como lhe n√£o deixeis dizer _vile_ em logar de
-_vil_, _papele_ em logar de _papel_, etc. Basta contar as syllabas, e n√£o o
+Pondo nisso especial cuidado; n„o deixeis o vosso discipulo dizer _fal'_ em
+logar de _falle_, assim como lhe n„o deixeis dizer _vile_ em logar de
+_vil_, _papele_ em logar de _papel_, etc. Basta contar as syllabas, e n„o o
 deixar fazer, de duas, uma; e de uma, duas.
 
-Ha numa linguagem viciosa n√£o sabemos que mostras de m√° educa√ß√£o ou de
-rudeza. Devemo'-nos empenhar o mais possivel em aperfei√ßoar o estylo dos
+Ha numa linguagem viciosa n„o sabemos que mostras de m· educaÁ„o ou de
+rudeza. Devemo'-nos empenhar o mais possivel em aperfeiÁoar o estylo dos
 nossos discipulos.
 
-E voltando ao _e aberto_, que n√£o tem signal especial, cumpre notar que se
+E voltando ao _e aberto_, que n„o tem signal especial, cumpre notar que se
 encontra nos classicos, muitas vezes, esse _e_ com um accento opposto ao
-agudo, desta f√≥rma: _pr√®gar_, _pr√®gador_ (palavras que precisavam de
-especifica√ß√£o, pois ha tambem em portuguez, com _e_ grave, _pregar_ e o
-derivado _pregador_). N√£o o applicavam os autores, ou pelo menos os
+agudo, desta fÛrma: _prËgar_, _prËgador_ (palavras que precisavam de
+especificaÁ„o, pois ha tambem em portuguez, com _e_ grave, _pregar_ e o
+derivado _pregador_). N„o o applicavam os autores, ou pelo menos os
 typografos, systematicamente; como faziam a todos os demais signaes; porem
 os modernos, em vez de o aproveitar convenientemente, aboliram-no. D'ahi
-resulta escrever-se _p√©_ e _p√©s_, _s√©_ e _c√©o_, com uma orthografia
-excellente para enganar quem l√™.
+resulta escrever-se _pÈ_ e _pÈs_, _sÈ_ e _cÈo_, com uma orthografia
+excellente para enganar quem lÍ.
 
-N√£o se p√≥de confundir o _e_ de _pes_, plural de _p√©_, com o de _p√©z_, cerol
-(ou de _p√©_, que √© o mesmo): tambem se n√£o p√≥de confundir com o de _p√™_
+N„o se pÛde confundir o _e_ de _pes_, plural de _pÈ_, com o de _pÈz_, cerol
+(ou de _pÈ_, que È o mesmo): tambem se n„o pÛde confundir com o de _pÍ_
 (nome vulgar da letra _p_); e muito menos com o _e_ grave.
 
-Temos portanto, n√£o fallando no grave, tres especies de _ee_ bem
-accentuados na pronuncia (_p√®s_, _p√©_, _p√™_), que de facto se querem
+Temos portanto, n„o fallando no grave, tres especies de _ee_ bem
+accentuados na pronuncia (_pËs_, _pÈ_, _pÍ_), que de facto se querem
 accentuar na escrita; mas, empregando-se nesse intento apenas dois signaes,
-por for√ßa algum _e_ se havia de confundir com outro.
+por forÁa algum _e_ se havia de confundir com outro.
 
 E assim succede. Quando o autor receia que leiam _zelo_ (verbo), escreve
-_z√©lo_; e quando receia que leiam _zelo_ (nome), escreve _z√©lo_: escreve
-sempre o mesmo. E como havia elle de escrever melhor? Escrevendo _z√™lo_
-(nome) e _z√©lo_ (verbo)? Errava em ambos os casos; no primeiro, onde n√£o
-soa o _e_ de _p√™_; e no segundo, onde n√£o soa o _e_ de _p√©_. Tomando a
-responsabilidade daquella apparente innova√ß√£o indo aos antigos buscar um
-signal desusado? √â claramente o melhor recurso. Mas vamos ao nosso _e_
-grave, que √© o que mais nos importa.
+_zÈlo_; e quando receia que leiam _zelo_ (nome), escreve _zÈlo_: escreve
+sempre o mesmo. E como havia elle de escrever melhor? Escrevendo _zÍlo_
+(nome) e _zÈlo_ (verbo)? Errava em ambos os casos; no primeiro, onde n„o
+soa o _e_ de _pÍ_; e no segundo, onde n„o soa o _e_ de _pÈ_. Tomando a
+responsabilidade daquella apparente innovaÁ„o indo aos antigos buscar um
+signal desusado? … claramente o melhor recurso. Mas vamos ao nosso _e_
+grave, que È o que mais nos importa.
 
 ~~~e
 
@@ -1066,7 +1066,7 @@ a|te        a|ju|de
 
 ta|pe       to|pe      po|te
 
-p√≥|de       pou|de
+pÛ|de       pou|de
 
 bu|le       bo|le      bo|te
 
@@ -1091,72 +1091,72 @@ le|vou      de|dal
 
 
 
-DECIMA QUARTA LI√á√ÉO
+DECIMA QUARTA LI«√O
 
 
-Ao _k_ segue-se a sua irm√£ na pronuncia e √∫ltima das consoantes certas, o
-_q_: mas com esta j√° principiam as grandes inexactid√µes na escrita e os
+Ao _k_ segue-se a sua irm„ na pronuncia e ˙ltima das consoantes certas, o
+_q_: mas com esta j· principiam as grandes inexactidıes na escrita e os
 equivocos faceis na leitura.
 
-_N√£o se escreve _q_ sem _u_; mas esse _u_, com _e_, _i_, quasi nunca se
-l√™._
+_N„o se escreve _q_ sem _u_; mas esse _u_, com _e_, _i_, quasi nunca se
+lÍ._
 
-√â a regra que podemos estabelecer. D'ella podemos tirar o seguinte dictame:
+… a regra que podemos estabelecer. D'ella podemos tirar o seguinte dictame:
 
-_Visto _q√∫√© q√∫√≠_ valer quasi sempre _q√© q√≠_, lendo-se d'este modo, quasi
+_Visto _q˙È q˙Ì_ valer quasi sempre _qÈ qÌ_, lendo-se d'este modo, quasi
 sempre se acerta._
 
 Aconselhai o discipulo nesta conformidade; sem embargo de o deixardes ler
-uma ou outra palavra como est√° escrita, para ver que n√£o faz differen√ßa
-essencial, e que embora leia _ficu√™i_ _f√≠cue_, facilmente percebe o seu
-engano, e at√© se intende o que diz.
+uma ou outra palavra como est· escrita, para ver que n„o faz differenÁa
+essencial, e que embora leia _ficuÍi_ _fÌcue_, facilmente percebe o seu
+engano, e atÈ se intende o que diz.
 
-O alumno estranha com raz√£o estas anomalias. Em satisfa√ß√£o √° sua
-intelligencia bom √© dizer-lhe (o que temos por certo) que antigamente
+O alumno estranha com raz„o estas anomalias. Em satisfaÁ„o · sua
+intelligencia bom È dizer-lhe (o que temos por certo) que antigamente
 lia-se sempre o _u_ depois do _q_; com o tempo algumas palavras mudaram,
-continuando-se todavia a escrever do mesmo modo. Nem haja d√∫vida em
+continuando-se todavia a escrever do mesmo modo. Nem haja d˙vida em
 accrescentar que, se a palavra mudou na pronuncia, devia mudar na escrita;
-e que uma vogal que se n√£o l√™ n√£o se devia escrever.
+e que uma vogal que se n„o lÍ n„o se devia escrever.
 
 Se cada letra valesse um elemento da palavra fallada, nada mais facil que
 aprender a ler. A lingua portugueza reduz-se a trinta e seis elementos;
 para decifrar toda a nossa imprensa, bastaria fixar e distinguir trinta e
-seis caracteres. Quem n√£o teria essa capacidade e paciencia?
+seis caracteres. Quem n„o teria essa capacidade e paciencia?
 
-Infelizmente, √° parte os methodos, e a insufficiencia dos mestres que
-geralmente nas escolas s√£o os mesmos discipulos, sobejam letras inuteis,
-letras dum valor commum, letras de valor m√∫ltiplo, combina√ß√µes quasi
+Infelizmente, · parte os methodos, e a insufficiencia dos mestres que
+geralmente nas escolas s„o os mesmos discipulos, sobejam letras inuteis,
+letras dum valor commum, letras de valor m˙ltiplo, combinaÁıes quasi
 fantasticas: e os proprios signaes, que haviam de marcar o tom da vogal,
-d'uns ha falta, d'outros sobra, e n'outros d√∫vida por desac√¥rdo nos
+d'uns ha falta, d'outros sobra, e n'outros d˙vida por desacÙrdo nos
 autores, e quasi sempre no mesmo autor.
 
 A este respeito diremos que em portuguez temos vogaes _nasaes_, _agudas_,
-_fechadas_, _abertas_ e _graves_; √°s quaes por sua ordem correspondem, e
+_fechadas_, _abertas_ e _graves_; ·s quaes por sua ordem correspondem, e
 muitas vezes se applicam, os seguintes signaes:
 
 
   nasal ou _til_ (~) de ordinario supprido por _m_, _n_:
-                m_√£_o,  m_en_te,        m_in_to, m_on_te, m_un_do;
+                m_„_o,  m_en_te,        m_in_to, m_on_te, m_un_do;
 
-  agudo          (¬¥)
-                m_√°_,   m_e_u,          m_i_a,   m_√≥_,    am_u_o;
+  agudo          (¥)
+                m_·_,   m_e_u,          m_i_a,   m_Û_,    am_u_o;
 
   circumflexo    (^)
                 _a_mei, am_e_i,         ...      am_o_u,  ...
 
   aberto         (`)
-                ...     m_√®_ta (baliza) ...      ...      ...
+                ...     m_Ë_ta (baliza) ...      ...      ...
 
 
-A este signal chamam os francezes grave; e √° sua imita√ß√£o muitos nossos,
-mas impropriamente, porque nunca se usou nas vogaes que n√≥s chamamos graves
-similhante signal nem outro algum. Essas vogaes s√£o, por exemplo, as
-√∫ltimas das seguintes palavras:
+A este signal chamam os francezes grave; e · sua imitaÁ„o muitos nossos,
+mas impropriamente, porque nunca se usou nas vogaes que nÛs chamamos graves
+similhante signal nem outro algum. Essas vogaes s„o, por exemplo, as
+˙ltimas das seguintes palavras:
 
   am_a_, am_e_, ame_i_, am_o_, trib_u_
 
-E aqui chamamos _grave_ o _a_, que cham√°mos _fechado_, a p√°ginas 11.
-Veremos a raz√£o disso.
+E aqui chamamos _grave_ o _a_, que cham·mos _fechado_, a p·ginas 11.
+Veremos a raz„o disso.
 
             q
 
@@ -1193,76 +1193,76 @@ qua|li|da|de
 
 
 
-DECIMA QUINTA LI√á√ÉO
+DECIMA QUINTA LI«√O
 
 
-√â evidente que havendo consoantes certas e incertas, n'um methodo, se havia
-de come√ßar pelas certas. Ora conhecidas e combinadas pelo nosso discipulo
-essas dez consoantes, que na ordem alfabetica s√£o:
+… evidente que havendo consoantes certas e incertas, n'um methodo, se havia
+de comeÁar pelas certas. Ora conhecidas e combinadas pelo nosso discipulo
+essas dez consoantes, que na ordem alfabetica s„o:
 
 
           _b . d f . . j k l . . p q . . t v . ._
   restam: _. c . . g . . . . m n . . r s . . x z_
 
 
-Porem que ordem seguiremos agora? Como vimos a p√°ginas 19 e 23, todas estas
-oito s√£o de dois valores, excepto _s x_, que s√£o de quatro. Ora a √∫ltima
-das certas, em que fic√°mos, foi _q_; ao qual se seguem naturalmente _c g_,
-n√£o s√≥ porque uma tem um valor identico; e a outra, um valor similhante,
+Porem que ordem seguiremos agora? Como vimos a p·ginas 19 e 23, todas estas
+oito s„o de dois valores, excepto _s x_, que s„o de quatro. Ora a ˙ltima
+das certas, em que fic·mos, foi _q_; ao qual se seguem naturalmente _c g_,
+n„o sÛ porque uma tem um valor identico; e a outra, um valor similhante,
 guttural; mas porque ambas igualmente, com _e i_, offerecem especialidade.
 
-Portanto o logar de _c g_ est√° marcado. Depois seguir-se-h√£o _m n_, que
-teem igualmente dois valores? N√£o conv√©m; ambas essas consoantes servem
-muitas vezes de til, o que √© duro de explicar; e accresce que _n_ se
-combina com _h_; podendo-nos portanto servir de transi√ß√£o para as f√≥rmas
-compostas _lh_, _ph_, _ch_, etc. que devem ser as √∫ltimas.
+Portanto o logar de _c g_ est· marcado. Depois seguir-se-h„o _m n_, que
+teem igualmente dois valores? N„o convÈm; ambas essas consoantes servem
+muitas vezes de til, o que È duro de explicar; e accresce que _n_ se
+combina com _h_; podendo-nos portanto servir de transiÁ„o para as fÛrmas
+compostas _lh_, _ph_, _ch_, etc. que devem ser as ˙ltimas.
 
 Por outro lado, se advirtirmos que _z_ tem dois valores de _s_, assim como
 _s_ tem tres valores de _x_; conviremos que estas tres consoantes se devem
 succeder. Resta _r_, que tendo dois valores, as deve preceder.
 
-Logo a ordem mais conveniente √©
+Logo a ordem mais conveniente È
 
   _c g, r, z s x, m n_.
 
-Veremos que o _h_ n√£o passa dum accento, quando serve de alguma cousa.
+Veremos que o _h_ n„o passa dum accento, quando serve de alguma cousa.
 
-Ora o _c_ tem dous valores; um, sibilante e prolongavel, _√ß..._; outro
+Ora o _c_ tem dous valores; um, sibilante e prolongavel, _Á..._; outro
 instantaneo guttural, _q_.
 
 Como lhe havemos de chamar? Como o mestre quizer. O discipulo a estas horas
-est√° bem no caso de n√£o confundir o nome com os valores: quanto mais que
-n√£o se admittindo solletra√ß√£o, elle √© for√ßado a empregar valores. Por isso
-√© que j√° em respeito a _k_ e _q_ deix√°mos em aberto esse ponto. Todavia √©
-mais racional que chamemos a essas gutturaes o que valem, _q'_; isto √©,
+est· bem no caso de n„o confundir o nome com os valores: quanto mais que
+n„o se admittindo solletraÁ„o, elle È forÁado a empregar valores. Por isso
+È que j· em respeito a _k_ e _q_ deix·mos em aberto esse ponto. Todavia È
+mais racional que chamemos a essas gutturaes o que valem, _q'_; isto È,
 designal-as pelo seu valor; ou querendo-se-lhes dar nome, derival-o d'esse
-valor, e chamar, a uma e outra, _q√™_. Similhantemente, dos valores de _c_,
-deriva o nome _c√™qe_. Embora a experiencia nos mostre a inutilidade dessas
-designa√ß√µes formaes, e o methodo aconselhe de preferencia citar-se a letra
+valor, e chamar, a uma e outra, _qÍ_. Similhantemente, dos valores de _c_,
+deriva o nome _cÍqe_. Embora a experiencia nos mostre a inutilidade dessas
+designaÁıes formaes, e o methodo aconselhe de preferencia citar-se a letra
 pelos simples valores, podemos admittir nomes _verdadeiros_, que indiquem
-as func√ß√µes da letra.
+as funcÁıes da letra.
 
-Em todo o caso, o essencial √© ensinar os valores e as regras. Antes da
-li√ß√£o que segue, deve passar-se, entre mestre e discipulo, este ou
-similhante di√°logo:
+Em todo o caso, o essencial È ensinar os valores e as regras. Antes da
+liÁ„o que segue, deve passar-se, entre mestre e discipulo, este ou
+similhante di·logo:
 
---_Que letra √© esta?_--_C√™qe._
+--_Que letra È esta?_--_CÍqe._
 
---_Porque se chama _c√™qe_?_--_Porque vale _√ß..._ e _q_._
+--_Porque se chama _cÍqe_?_--_Porque vale _Á..._ e _q_._
 
---_Quando vale _√ß..._?_--_Em vindo com _e_, _i_, ou cedilhado._
+--_Quando vale _Á..._?_--_Em vindo com _e_, _i_, ou cedilhado._
 
---_E em n√£o vindo com _e_, _i_, ou cedilhado?_
+--_E em n„o vindo com _e_, _i_, ou cedilhado?_
 
 --_Vale _q_._
 
-O _√ß_ (cedilhado) n√£o confunde o alumno; antes, pela necessidade ou
-inutilidade da cedilha, como se p√≥de exemplificar em _a√ßo_, _caco_ etc.,
+O _Á_ (cedilhado) n„o confunde o alumno; antes, pela necessidade ou
+inutilidade da cedilha, como se pÛde exemplificar em _aÁo_, _caco_ etc.,
 lhe ajuda a fixar as alternativas d'esta consoante caprichosa.
 
 c
 
-= √ß...    ce     ci
+= Á...    ce     ci
 
 ce|bo        ce|bo|la
 
@@ -1274,7 +1274,7 @@ ba|ci|a      ci|da|de
 
 = q
 
-c√°           cal        cal|do
+c·           cal        cal|do
 
 cal|vo       cul|pa
 
@@ -1284,84 +1284,84 @@ ca|ce        cal|cei
 
 ca|ce|ta|da
 
-√ß
+Á
 
-a|√ßo         bei|√ßo     bu|√ßo
+a|Áo         bei|Áo     bu|Áo
 
-ca|√ßa        ca|ba|√ßa
+ca|Áa        ca|ba|Áa
 
-ca|be|√ßa     co|√ßa
+ca|be|Áa     co|Áa
 
-cal|√ßa       cal|√ßa|da
-
-
+cal|Áa       cal|Áa|da
 
 
-DECIMA SEXTA LI√á√ÉO
+
+
+DECIMA SEXTA LI«√O
 
 
 Segue-se o _g_, igualmente de dois valores, como o _c_, um prolongavel e
-outro instantaneo: o prolongavel √© _j..._; e o instantaneo √© _g'_,
-guttural. D'estes dois valores deriva logicamente o nome _j√™g'e_. Isto
+outro instantaneo: o prolongavel È _j..._; e o instantaneo È _g'_,
+guttural. D'estes dois valores deriva logicamente o nome _jÍg'e_. Isto
 supposto, dialoguemos com o nosso discipulo:
 
---_Que letra √© esta?_--_J√™g'e._
+--_Que letra È esta?_--_JÍg'e._
 
---_Porque se chama _j√™g'e_?_--_Porque vale _j..._ e _g'_._
+--_Porque se chama _jÍg'e_?_--_Porque vale _j..._ e _g'_._
 
 --_Quando vale _j..._?_--_Em vindo com _e_, _i_._
 
---_E quando vale _g'_?_--_Em n√£o vindo com _e_, _i_._
+--_E quando vale _g'_?_--_Em n„o vindo com _e_, _i_._
 
---_Mas ha palavras onde soa _g'√©_, por exemplo _malagueta_; e ha palavras
-onde soa _g'i_, por exemplo _guita_._--_Qual √© o modo de escrever estas
-syllabas?_--_E escrevendo _g√∫√©_, e escrevendo _g√∫i_._
+--_Mas ha palavras onde soa _g'È_, por exemplo _malagueta_; e ha palavras
+onde soa _g'i_, por exemplo _guita_._--_Qual È o modo de escrever estas
+syllabas?_--_E escrevendo _g˙È_, e escrevendo _g˙i_._
 
---_E, assim, fica bem escrito?_--_N√£o; porque o _u_ n√£o se l√™; mas entende-se
+--_E, assim, fica bem escrito?_--_N„o; porque o _u_ n„o se lÍ; mas entende-se
 bem a palavra._
 
---_E se tirassemos o _u_?_--_Era pe√≥r; lia-se _malajeta_, lia-se _jita_, que
-faz mais differen√ßa._
+--_E se tirassemos o _u_?_--_Era peÛr; lia-se _malajeta_, lia-se _jita_, que
+faz mais differenÁa._
 
-Ora os casos em que o _u_ se l√™, nestas syllabas _gue_, _gui_, s√£o
+Ora os casos em que o _u_ se lÍ, nestas syllabas _gue_, _gui_, s„o
 rarissimos: por isso podemos ensinar a desprezal-o, como fizemos a respeito
 de _que_ _qui_, numa regra similhante:
 
---_Visto _g√∫√© g√∫√≠_ valer quasi sempre _g'√© g'i_, lendo-se d'este modo, quasi
+--_Visto _g˙È g˙Ì_ valer quasi sempre _g'È g'i_, lendo-se d'este modo, quasi
 sempre se acerta._
 
-Na li√ß√£o vai uma excep√ß√£o, _guela_.
+Na liÁ„o vai uma excepÁ„o, _guela_.
 
-Mas deixai tambem o discipulo ler uma ou outra palavra como est√° escrita,
+Mas deixai tambem o discipulo ler uma ou outra palavra como est· escrita,
 para ver que ainda lendo em rigor, a palavra transparece claramente. Esta
-certeza desafronta-o dos equ√≠vocos em que p√≥de cair.
+certeza desafronta-o dos equÌvocos em que pÛde cair.
 
-V√™-se pois que admittimos nomes de letras, conformando-nos com a opini√£o
+VÍ-se pois que admittimos nomes de letras, conformando-nos com a opini„o
 commum, que tendo tudo nome, tambem as letras o devem ter. Embora; e nesta
-altura n√£o ha inconveniente para o nosso discipulo: mas seja um nome
-adequado, e n√£o um nome falso. Chamando ao c _c√™qe_, e ao g _jeg'e_ (ou
-escrevendo como se usa, _g√™gue_), conformamo'-nos com aquelle principio,
-com o costume, e satisfazemos, pelo menos, √°s mais imperiosas exigencias do
-methodo. Comtudo ainda podemos ajustar mais aquellas denomina√ß√µes aos
+altura n„o ha inconveniente para o nosso discipulo: mas seja um nome
+adequado, e n„o um nome falso. Chamando ao c _cÍqe_, e ao g _jeg'e_ (ou
+escrevendo como se usa, _gÍgue_), conformamo'-nos com aquelle principio,
+com o costume, e satisfazemos, pelo menos, ·s mais imperiosas exigencias do
+methodo. Comtudo ainda podemos ajustar mais aquellas denominaÁıes aos
 valores das letras, dizendo _ceqe_ _jeg'e_, como diriamos duas vezes a
 particula _de_: _de_ Francisco, _de_ Pedro: _de_ _de_; _je-g'e_, _ce-qe_.
 
-Dizia-nos um dia o aio dos principes: bom √© o methodo, mas de qualquer
+Dizia-nos um dia o aio dos principes: bom È o methodo, mas de qualquer
 maneira se aprende a ler.
 
 Intendamo'-nos: de qualquer maneira se _pode_ aprender a ler; _de facto_,
-n√£o se aprende de qualquer maneira. Dos senhores de si, poucos s√£o os que
-tentam, e quasi todos esses desistem: os outros... que remedio! A quest√£o √©
-de tempo e de tormento. E essa n√£o √© ainda a quest√£o principal.
+n„o se aprende de qualquer maneira. Dos senhores de si, poucos s„o os que
+tentam, e quasi todos esses desistem: os outros... que remedio! A quest„o È
+de tempo e de tormento. E essa n„o È ainda a quest„o principal.
 
-Todo o estudo involve, af√≥ra a instruc√ß√£o, educa√ß√£o de espirito; por isso a
+Todo o estudo involve, afÛra a instrucÁ„o, educaÁ„o de espirito; por isso a
 geometria passa pela melhor das logicas. E no primeiro de todos os estudos,
-quando o espirito est√° mais ductil e inconciente, como p√≥de um processo
+quando o espirito est· mais ductil e inconciente, como pÛde um processo
 racional, ou insensato, ser indifferente aos habitos da intelligencia?
 
 Voltemos ao nosso caminho. Querendo-se que o discipulo intenda os symbolos,
 diz-se-lhe que os tres pontos designam o valor prolongavel: a consoante
-simples, ou com ap√≥strofo, indica o valor instantaneo. √â claro.
+simples, ou com apÛstrofo, indica o valor instantaneo. … claro.
 
 g
 
@@ -1371,7 +1371,7 @@ ge|bo         gei|to
 
 fo|ge         ti|ge|la
 
-vi|gi|a       co|ll√©|gio
+vi|gi|a       co|llÈ|gio
 
 = g'    gue   gui  = g'e g'i
 
@@ -1383,7 +1383,7 @@ gui|a         gui|ta
 
 a|lu|guel     gu|e|la
 
-ga|go         √°|gua
+ga|go         ·|gua
 
 e|gua         i|gual
 
@@ -1398,63 +1398,63 @@ gi|ga         ga|gue|ja
 
 
 
-DECIMA SETIMA LI√á√ÉO
+DECIMA SETIMA LI«√O
 
 
 Vamos ao _r_, terceira das consoantes incertas e, como as duas primeiras
 _c_ _g_, igualmente de dois valores, um prolongavel e outro instantaneo.
 
-Ponhamos em di√°logo a doutrina:
+Ponhamos em di·logo a doutrina:
 
---_Que letra √© esta?_--_R√™r._
+--_Que letra È esta?_--_RÍr._
 
---_Porque se chama _r√™r_?_--_Porque vale _rr..._ e _r'_._
+--_Porque se chama _rÍr_?_--_Porque vale _rr..._ e _r'_._
 
---_Quando vale _rr..._?_--_Em vindo no princ√≠pio ou dobrado._
+--_Quando vale _rr..._?_--_Em vindo no princÌpio ou dobrado._
 
---_E em n√£o vindo no princ√≠pio, ou dobrado, o que vale, ou como se
-l√™?_--_R'._
+--_E em n„o vindo no princÌpio, ou dobrado, o que vale, ou como se
+lÍ?_--_R'._
 
-N√£o √© necessario trazer para aqui as vogaes, como se costuma: isso imp√µe ao
-principiante uma distinc√ß√£o inutil, porque tanto vale o _r_ entre vogaes,
-como entre vogal e consoante. Escusa tambem ensinar as excep√ß√µes ao
+N„o È necessario trazer para aqui as vogaes, como se costuma: isso impıe ao
+principiante uma distincÁ„o inutil, porque tanto vale o _r_ entre vogaes,
+como entre vogal e consoante. Escusa tambem ensinar as excepÁıes ao
 discipulo: como o _r_, se profere tocando a lingua no ceo da boca, e o
-_rr..._ consiste na repeti√ß√£o desse toque (gemendo ou vozeando ao mesmo
+_rr..._ consiste na repetiÁ„o desse toque (gemendo ou vozeando ao mesmo
 tempo), a affinidade desses dois valores, e o mesmo estylo da lingua leva o
-discipulo a refor√ßar a inflex√£o, quando lhe destoa proferida simplesmente.
-Difficuldade acharia elle em o n√£o fazer, por exemplo, em _carne_ e
+discipulo a reforÁar a inflex„o, quando lhe destoa proferida simplesmente.
+Difficuldade acharia elle em o n„o fazer, por exemplo, em _carne_ e
 _melro_, ou vice versa em _tenro_ e _arlequim_: pois antes ou depois de
-_l_, o _r_ √© guttural. E o mesmo podemos dizer a respeito de _n_; mas
-advertindo que, por exemplo em _tenro_, n√£o √© necessario que o _n_ s√¥e como
-letra (ou inflex√£o); basta representar de _til_.
+_l_, o _r_ È guttural. E o mesmo podemos dizer a respeito de _n_; mas
+advertindo que, por exemplo em _tenro_, n„o È necessario que o _n_ sÙe como
+letra (ou inflex„o); basta representar de _til_.
 
-Estas observa√ß√µes dirigem-se ao mestre: e ainda ao mestre, √° excep√ß√£o de
-alguma indica√ß√£o pr√°tica, o mais que deixamos nestas notas n√£o merece
-especial reparo; nomeadamente as raz√µes de ordem. Chamando a isto methodo,
-cabe-nos mostrar que o √©; mas para fazer breve e commoda jornada por uma
-estrada recta e plana, n√£o √© necessario saber como a tra√ßaram e
+Estas observaÁıes dirigem-se ao mestre: e ainda ao mestre, · excepÁ„o de
+alguma indicaÁ„o pr·tica, o mais que deixamos nestas notas n„o merece
+especial reparo; nomeadamente as razıes de ordem. Chamando a isto methodo,
+cabe-nos mostrar que o È; mas para fazer breve e commoda jornada por uma
+estrada recta e plana, n„o È necessario saber como a traÁaram e
 construiram.
 
-O _r_ guttural √© inflex√£o instantanea porque se reduz em √∫ltima an√°lyse a
-um toque de lingua no ceo da b√¥ca; √© inflex√£o prolongavel porque se forma
-repetindo esse toque indeterminadamente; e √© voz porque o gemido (como lhe
+O _r_ guttural È inflex„o instantanea porque se reduz em ˙ltima an·lyse a
+um toque de lingua no ceo da bÙca; È inflex„o prolongavel porque se forma
+repetindo esse toque indeterminadamente; e È voz porque o gemido (como lhe
 temos chamado) com que proferimos _v_, _z_, _j_, e de que igualmente
-depende o _r_ guttural, n√£o √© sen√£o o f√¥lego elevado ao grau de vibra√ß√£o,
-ao grau de voz. Propriamente fallando, a _voz_ s√≥ se emitte de b√¥ca mais ou
-menos aberta, e sem interven√ß√£o sensivel dos org√£os mudos. Mas √° parte esta
-interven√ß√£o e a propriedade do termo, n'aquellas quatro inflex√µes ha _voz_.
-Tanto assim que bem podemos esbo√ßar distinctamente qualquer melodia,
-modulando-a n'alguma das inflex√µes _v_, _z_, _j_, _r_...
+depende o _r_ guttural, n„o È sen„o o fÙlego elevado ao grau de vibraÁ„o,
+ao grau de voz. Propriamente fallando, a _voz_ sÛ se emitte de bÙca mais ou
+menos aberta, e sem intervenÁ„o sensivel dos org„os mudos. Mas · parte esta
+intervenÁ„o e a propriedade do termo, n'aquellas quatro inflexıes ha _voz_.
+Tanto assim que bem podemos esboÁar distinctamente qualquer melodia,
+modulando-a n'alguma das inflexıes _v_, _z_, _j_, _r_...
 
-Estas s√£o verdadeiramente as letras _semi-vogaes_: n√£o--_aquellas_ cujo nome
-_come√ßa e acaba por vogal_. O que ter√° o nome com a cousa!
+Estas s„o verdadeiramente as letras _semi-vogaes_: n„o--_aquellas_ cujo nome
+_comeÁa e acaba por vogal_. O que ter· o nome com a cousa!
 
-A letra _r_, pela sua frequencia e pelos seus accidentes de posi√ß√£o e
-n√∫mero, merece uma li√ß√£o com consoantes certas, e outra com consoantes
-incertas. Em seguida daremos, para desfastio do alumno, um pequeno di√°logo.
-Se o mestre n√£o julgar inutil este exercicio, applique √°s palavras _a_,
-_o_, a regra do _a_, _o_, finaes; e diga que o _e_ simples l√™-se _i_. O
-alumno reconhece as maiusculas, e a pontua√ß√£o n√£o o embara√ßa. Appliquem-se
+A letra _r_, pela sua frequencia e pelos seus accidentes de posiÁ„o e
+n˙mero, merece uma liÁ„o com consoantes certas, e outra com consoantes
+incertas. Em seguida daremos, para desfastio do alumno, um pequeno di·logo.
+Se o mestre n„o julgar inutil este exercicio, applique ·s palavras _a_,
+_o_, a regra do _a_, _o_, finaes; e diga que o _e_ simples lÍ-se _i_. O
+alumno reconhece as maiusculas, e a pontuaÁ„o n„o o embaraÁa. Appliquem-se
 as regras conhecidas.
 
 r
@@ -1495,7 +1495,7 @@ re|par|tir
 
 re|ci|bo      re|cei|o
 
-ri|co         r√≥|ca      ru|√ßo
+ri|co         rÛ|ca      ru|Áo
 
 ca|rro        ga|rra|fa
 
@@ -1505,9 +1505,9 @@ ce|ra         ce|rol
 
 ca|ra         ca|ra|col
 
-cor|da        a|√ßor|da
+cor|da        a|Áor|da
 
-ge|ral        g√¥|ro
+ge|ral        gÙ|ro
 
 a|go|ra       a|gou|ro
 
@@ -1515,7 +1515,7 @@ cer|to        car|ta
 
 gar|fo        gri|to
 
-gri|tar       c√≥|rar
+gri|tar       cÛ|rar
 
 ce|ar         re|ce|ber
 
@@ -1531,52 +1531,52 @@ re|cor|dar
 
 
 
---√ì Pe|dro, que √© do li|vro de ca|pa ver|de, que te deu o a|v√¥?
+--” Pe|dro, que È do li|vro de ca|pa ver|de, que te deu o a|vÙ?
 
---J√° o dei ao Jor|ge a guar|dar.
+--J· o dei ao Jor|ge a guar|dar.
 
---Vai l√° pe|dil|-o.
+--Vai l· pe|dil|-o.
 
---Pa|ra qu√™?
+--Pa|ra quÍ?
 
---Pa|ra a ti|a Car|lo|ta ver a gra|vu|ra do ca|√ßa|dor.
+--Pa|ra a ti|a Car|lo|ta ver a gra|vu|ra do ca|Áa|dor.
 
---Ou|ve c√°: a pobre da Cla|ra i|a a|brir a por|ta do quar|to, ca|√≠u,
-que|brou a ga|rra|fa do pe|tr√≥|leo, e fi|cou fe|ri|da. Vou a|go|ra √°
-bo|ti|ca; le|vo a|qui a re|cei|ta: √° tar|de lo|go fa|llo ao Jor|ge, e di|go
-que t'o d√™.
+--Ou|ve c·: a pobre da Cla|ra i|a a|brir a por|ta do quar|to, ca|Ìu,
+que|brou a ga|rra|fa do pe|trÛ|leo, e fi|cou fe|ri|da. Vou a|go|ra ·
+bo|ti|ca; le|vo a|qui a re|cei|ta: · tar|de lo|go fa|llo ao Jor|ge, e di|go
+que t'o dÍ.
 
 --Pa|la|vra?
 
 --Pa|la|vra, Ju|lio, fi|ca cer|to.
 
---V√™ l√°, cui|da|do!
+--VÍ l·, cui|da|do!
 
 
 
 
-DECIMA OITAVA LI√á√ÉO
+DECIMA OITAVA LI«√O
 
 
 Ao _r_ segue-se o _z_, embora esta consoante seja mais simples: porque o
-_r_ dobra-se, e tambem se combina com outras consoantes; o que n√£o succede
-ao _z_: mas as raz√µes de analogia n√£o s√£o menos attendiveis que as de
+_r_ dobra-se, e tambem se combina com outras consoantes; o que n„o succede
+ao _z_: mas as razıes de analogia n„o s„o menos attendiveis que as de
 simplicidade.
 
-O _r_ tem dois valores que se reduzem a uma f√≥rmula bastante simples (_no
-princ√≠pio_ e _dobrado_, _rr_). O _x_ tem quatro valores, que se esquivam a
-regra. √â portanto claro que o _r_ devia preceder ao x; mas devendo preceder
-ao _x_, devia preceder aos caracteres a que o _x_ est√° associado por
+O _r_ tem dois valores que se reduzem a uma fÛrmula bastante simples (_no
+princÌpio_ e _dobrado_, _rr_). O _x_ tem quatro valores, que se esquivam a
+regra. … portanto claro que o _r_ devia preceder ao x; mas devendo preceder
+ao _x_, devia preceder aos caracteres a que o _x_ est· associado por
 identidade de valores.
 
 
-  Na verdade, em _zaz_ v√™-se que _z_ vale                _z x_
-  Em _sisudos_ v√™-se que _s_ vale                      _√ß z x_
-  Em _sexo auxilio exilio xale_ v√™-se que _x_ vale  _k√ß √ß z x_
+  Na verdade, em _zaz_ vÍ-se que _z_ vale                _z x_
+  Em _sisudos_ vÍ-se que _s_ vale                      _Á z x_
+  Em _sexo auxilio exilio xale_ vÍ-se que _x_ vale  _kÁ Á z x_
 
 
-Valem todas tres _z_, _x_; duas valem mais _√ß_; e uma vale ainda mais _k√ß_.
-√â como uma escada de tres degraus que o methodo, que √© todo escada, n√£o
+Valem todas tres _z_, _x_; duas valem mais _Á_; e uma vale ainda mais _kÁ_.
+… como uma escada de tres degraus que o methodo, que È todo escada, n„o
 podia desmanchar.
 
 Por isso a todas tres precede o _r_; e agora ao _r_, segue-se a mais
@@ -1584,42 +1584,42 @@ simples das tres.
 
 A theoria relativa ao _z_, encerra-se nas seguintes perguntas e respostas:
 
---_Que letra √© esta?_--_Z√™xe._
+--_Que letra È esta?_--_ZÍxe._
 
---_Porque se chama_ z√™xe?--_Porque vale_ z... _e_ x...
+--_Porque se chama_ zÍxe?--_Porque vale_ z... _e_ x...
 
---_Quando vale_ z...?--_Em n√£o vindo no fim._
+--_Quando vale_ z...?--_Em n„o vindo no fim._
 
 --_E quando vale_ x...?--_Em vindo no fim._
 
-Isto √© o bastante.
+Isto È o bastante.
 
-O discipulo est√° agora atravessando um terreno escabroso. Por mai√≥r
-circumspec√ß√£o com que vamos guiando os seus passos, n√£o o livramos de ca√≠r:
-salvo tecendo-lhe de proposito li√ß√µes faceis, e desviando-lhe trope√ßos; mas
-ent√£o o resultado seria um progresso illusorio.
+O discipulo est· agora atravessando um terreno escabroso. Por maiÛr
+circumspecÁ„o com que vamos guiando os seus passos, n„o o livramos de caÌr:
+salvo tecendo-lhe de proposito liÁıes faceis, e desviando-lhe tropeÁos; mas
+ent„o o resultado seria um progresso illusorio.
 
-Vistes nas li√ß√µes do _r_ como por uma escala de combina√ß√µes cheg√°mos a
-accumular dentro da mesma palavra muitas d√∫vidas. Assim convem preparar o
-discipulo para a leitura usual e pr√°tica onde, a cada linha, encontra essas
-accumula√ß√µes. A amenidade do methodo n√£o p√≥de levar-se at√© √° esterilidade.
-Se as li√ß√µes agora s√£o mais embara√ßadas, v√° o alumno ensaiando a sua
-reflex√£o. Adiante da palavra mais duvidosa, est√° a preven√ß√£o da regra e a
+Vistes nas liÁıes do _r_ como por uma escala de combinaÁıes cheg·mos a
+accumular dentro da mesma palavra muitas d˙vidas. Assim convem preparar o
+discipulo para a leitura usual e pr·tica onde, a cada linha, encontra essas
+accumulaÁıes. A amenidade do methodo n„o pÛde levar-se atÈ · esterilidade.
+Se as liÁıes agora s„o mais embaraÁadas, v· o alumno ensaiando a sua
+reflex„o. Adiante da palavra mais duvidosa, est· a prevenÁ„o da regra e a
 advertencia do mestre.
 
-O magisterio √© de sua natureza off√≠cio de abnega√ß√£o e de paciencia. O
-mestre que se ira corrompe o cora√ß√£o do alumno. E se o alumno, pela sua
-tenra idade, √© incapaz de aprender regras e de as applicar, ent√£o a sua
-presen√ßa na escola apenas attesta a ignorancia dos paes e a incuria da
-autoridade. At√© aos sete e oito annos de idade todos andamos numa fervorosa
-elabora√ß√£o corporal, que s√≥ reclama alimento, movimento e somno; assim como
+O magisterio È de sua natureza offÌcio de abnegaÁ„o e de paciencia. O
+mestre que se ira corrompe o coraÁ„o do alumno. E se o alumno, pela sua
+tenra idade, È incapaz de aprender regras e de as applicar, ent„o a sua
+presenÁa na escola apenas attesta a ignorancia dos paes e a incuria da
+autoridade. AtÈ aos sete e oito annos de idade todos andamos numa fervorosa
+elaboraÁ„o corporal, que sÛ reclama alimento, movimento e somno; assim como
 andamos nesse profundo e immenso estudo da lingua, e nessa insaciavel
-investiga√ß√£o do mundo exterior, que absorve totalmente a faisca mais
-brilhante que possa alumiar uma cabe√ßa infantil. Complicar esse duplo
+investigaÁ„o do mundo exterior, que absorve totalmente a faisca mais
+brilhante que possa alumiar uma cabeÁa infantil. Complicar esse duplo
 movimento quasi vertiginoso com o ensino primario--leitura, escrita e
 contas--passa de absurdo a cruel.
 
-Como os valores do _z_ s√£o novos, s√≥ podemos indicar nos symbolos em que
+Como os valores do _z_ s„o novos, sÛ podemos indicar nos symbolos em que
 logar o apresentamos.
 
 
@@ -1650,7 +1650,7 @@ fez          vez        jaz
 
 ju|iz        luz        diz
 
-puz          p√¥z        paz
+puz          pÙz        paz
 
 ca|paz       la|puz
 
@@ -1665,71 +1665,71 @@ traz         cruz       zaz
 
 
 
-DECIMA NONA LI√á√ÉO
+DECIMA NONA LI«√O
 
 
 Vamos ao _s_, quinta das consoantes incertas, e segundo degrau da escada,
-de que fall√°mos na li√ß√£o passada.
+de que fall·mos na liÁ„o passada.
 
-Esta consoante √© frequentissima: nella acabam metade das vozes dos nossos
+Esta consoante È frequentissima: nella acabam metade das vozes dos nossos
 verbos, todos os nossos pluraes de nomes, pronomes, participios, e de quasi
-todos os adjectivos; n√£o fallando nos infinitos casos em que figura no
-principio e meio de palavra, j√° antes, j√° depois de vogal; e tambem antes e
+todos os adjectivos; n„o fallando nos infinitos casos em que figura no
+principio e meio de palavra, j· antes, j· depois de vogal; e tambem antes e
 depois de consoante, como em _sciencia_ e _psalmo_.
 
-P√≥de-se estabelecer a regra que o _s_ no fim de palavra ou syllaba, vale
+PÛde-se estabelecer a regra que o _s_ no fim de palavra ou syllaba, vale
 _x..._; por exemplo, _custas_. Mas cumpre advertir que isto, sendo
-geralmente verdadeiro, n√£o √© exacto; porque o _s_ (assim como _z_ e _x_
-finaes), vindo no fim de palavra √° qual se siga immediatamente vogal, vale
-_z..._; por exemplo, _os olhos_, que se l√™ como se estivesse escrito
-_o_z_olhos_; e seguindo-se-lhe immediatamente consoante, que n√£o seja _√ß_,
-_f_, _p_, _q_, _t_ (ou equivalente de _√ß_ e _q_), ent√£o vale _j_; por
+geralmente verdadeiro, n„o È exacto; porque o _s_ (assim como _z_ e _x_
+finaes), vindo no fim de palavra · qual se siga immediatamente vogal, vale
+_z..._; por exemplo, _os olhos_, que se lÍ como se estivesse escrito
+_o_z_olhos_; e seguindo-se-lhe immediatamente consoante, que n„o seja _Á_,
+_f_, _p_, _q_, _t_ (ou equivalente de _Á_ e _q_), ent„o vale _j_; por
 exemplo _as vozes_, que lemos como se estivesse escrito _a_j_ vozes_.
 
-Mas estas advertencias s√£o puramente theoricas ou antes, escusadas no
-ensino; pois n√£o se trata de ensinar a ler a estrangeiros, e sim a
-portuguezes mais ou menos pr√°ticos na lingua. Pela nossa parte n√£o
-costumamos prevenir os nossos discipulos, para a li√ß√£o do _s_, com mais
-doutrina que a contida no seguinte di√°logo:
+Mas estas advertencias s„o puramente theoricas ou antes, escusadas no
+ensino; pois n„o se trata de ensinar a ler a estrangeiros, e sim a
+portuguezes mais ou menos pr·ticos na lingua. Pela nossa parte n„o
+costumamos prevenir os nossos discipulos, para a liÁ„o do _s_, com mais
+doutrina que a contida no seguinte di·logo:
 
---_Que letra √© esta?_--_Sez√™xe_.
+--_Que letra È esta?_--_SezÍxe_.
 
---_Porque se chama _sez√™xe_?_--_Porque vale_ √ß... z... x...
+--_Porque se chama _sezÍxe_?_--_Porque vale_ Á... z... x...
 
---_Quando vale _√ß..._?_--_No princ√≠pio e dobrado._
+--_Quando vale _Á..._?_--_No princÌpio e dobrado._
 
 --_Quando vale _z..._?_--_Entre vogaes._
 
 --_E quando vale _x..._?_--_No fim de palavra ou de syllaba._
 
 Com este pouco temos o bastante para o nosso discipulo acertar as mais das
-vezes, e sen√£o, para o convencermos de que desmentiu a regra, o que em
-geral nos √© t√£o agradavel como se a observasse, pois nos d√° occasi√£o de o
+vezes, e sen„o, para o convencermos de que desmentiu a regra, o que em
+geral nos È t„o agradavel como se a observasse, pois nos d· occasi„o de o
 fazermos raciocinar.
 
-Por exemplo, trata-se da palavra _uso_, que o discipulo l√™ _u√ßo_. Em logar
-de emendarmos sem mais explica√ß√µes, preferimos questionar.
+Por exemplo, trata-se da palavra _uso_, que o discipulo lÍ _uÁo_. Em logar
+de emendarmos sem mais explicaÁıes, preferimos questionar.
 
---Que consoante √© essa?--Sez√™xe.--Quando vale _√ß_?--No princ√≠pio e
-dobrado.--Est√° no princ√≠pio ou dobrado?--N√£o.--Portanto n√£o √© _u√ßo_.
+--Que consoante È essa?--SezÍxe.--Quando vale _Á_?--No princÌpio e
+dobrado.--Est· no princÌpio ou dobrado?--N„o.--Portanto n„o È _uÁo_.
 
-E quando vale _z_?--Entre vogaes.--Est√° entre vogaes?--Est√°.
+E quando vale _z_?--Entre vogaes.--Est· entre vogaes?--Est·.
 
-E o discipulo l√™ _uzo_.
+E o discipulo lÍ _uzo_.
 
-Syllaba √© a palavra ou parte da palavra que se diz duma vez, n'um tempo.
-_√â_, _s√©_, _seu_, _seus_, s√£o quatro syllabas, embora mais compostas umas
-que outras. _Qual quer_ s√£o duas syllabas, que podem formar duas palavras;
-e tambem, s√≥ uma. O discipulo adquire pr√°ticamente, pelas nossas li√ß√µes de
-syllabas alternadas a typo liso e lavrado, uma id√©a mais clara de syllaba,
-do que √© facil dar-lhe por defini√ß√µes.
+Syllaba È a palavra ou parte da palavra que se diz duma vez, n'um tempo.
+_…_, _sÈ_, _seu_, _seus_, s„o quatro syllabas, embora mais compostas umas
+que outras. _Qual quer_ s„o duas syllabas, que podem formar duas palavras;
+e tambem, sÛ uma. O discipulo adquire pr·ticamente, pelas nossas liÁıes de
+syllabas alternadas a typo liso e lavrado, uma idÈa mais clara de syllaba,
+do que È facil dar-lhe por definiÁıes.
 
-Quanto a vogaes, √© melhor fazer-lh'as conhecer pelo valor, exemplificando e
+Quanto a vogaes, È melhor fazer-lh'as conhecer pelo valor, exemplificando e
 comparando, do que simplesmente pelo nome e de memoria.
 
 s
 
-s√≥           sa|fa       sil|va
+sÛ           sa|fa       sil|va
 
 pa|sso       to|sse
 
@@ -1741,13 +1741,13 @@ sou|be|sse
 
 de|su|sa|dos
 
-s√≥s          seus        su|as
+sÛs          seus        su|as
 
 si|so        si|su|dos
 
 is|to        es|te       es|ta
 
-es|t√°        es|te|ve
+es|t·        es|te|ve
 
 vis|to       ves|tes
 
@@ -1781,7 +1781,7 @@ so|ce|ga|sses
 
 per|se|gui|sses
 
-ser          sa|√≠r       sor|te
+ser          sa|Ìr       sor|te
 
 a|ssar       ru|sso
 
@@ -1797,21 +1797,21 @@ sa|gaz       fi|ze|sse
 
 zur|zi|sses
 
-r√™|zes       lu|zi|sse
+rÍ|zes       lu|zi|sse
 
 
 
 
-VIGESIMA LI√á√ÉO
+VIGESIMA LI«√O
 
 
-Assim como do _z_ pass√°mos ao _s_, que contem os dois valores do _z_;
-passamos agora do _s_ ao _x_, que cont√©m os tres valores do _s_.
+Assim como do _z_ pass·mos ao _s_, que contem os dois valores do _z_;
+passamos agora do _s_ ao _x_, que contÈm os tres valores do _s_.
 
-Estes valores, a que alludimos, s√£o _√ß_... _z_... _x_... Porque √© verdade
-que a paginas 19 attribu√≠mos ao _s_ tambem o valor de _j_...; mas este
-valor, embora no _s_ se observe muito mais frequentemente, √© accidente que
-soffrem as tres irm√£s _z_, _s_, _x_, e n√£o particularidade do _s_.
+Estes valores, a que alludimos, s„o _Á_... _z_... _x_... Porque È verdade
+que a paginas 19 attribuÌmos ao _s_ tambem o valor de _j_...; mas este
+valor, embora no _s_ se observe muito mais frequentemente, È accidente que
+soffrem as tres irm„s _z_, _s_, _x_, e n„o particularidade do _s_.
 Expliquemo-nos.
 
 Se lermos e escutarmos as seguintes frases:
@@ -1822,54 +1822,54 @@ Se lermos e escutarmos as seguintes frases:
   _cali_x a_ntigo_, _cali_x p_rateado_, _cali_x d_ourado_:
 
 
-ver-se-√° que _z_, _s_, _x_ de _faz_, _as_, _calix_ valem, primeiro,
+ver-se-· que _z_, _s_, _x_ de _faz_, _as_, _calix_ valem, primeiro,
 igualmente _z_...; segundo, igualmente _x_...; terceiro, igualmente _j_...
 
 Examinai e vereis que _z_, _s_, _x_, lendo-se immediatamente antes de
-vogal, valem _z_...; e immediatamente antes de _√ß_, _f_, _p_, _q_, _t_ (ou
+vogal, valem _z_...; e immediatamente antes de _Á_, _f_, _p_, _q_, _t_ (ou
 equivalentes), _j_...: nos outros casos, _x_...
 
-Por√©m como todos observam isto inconscientemente, e o mesmo ouvido se
-encarrega de guiar o alumno, √© escusado dar taes regras.
+PorÈm como todos observam isto inconscientemente, e o mesmo ouvido se
+encarrega de guiar o alumno, È escusado dar taes regras.
 
-Abstrahindo pois daquelle valor commum e t√£o accidental, _j_..., podemos
-sem rigorosa mas com bastante verdade chamar √°quellas consoantes _z√™xe_,
-_sez√™xe_, _kcecez√™xe_. Taes nomes designam os valores das letras, e s√£o
-portanto defini√ß√µes, verdadeiros nomes, verdadeiros e mnemonicos, isto √©,
-bons de fixar pela identidade e grada√ß√£o de elementos.
+Abstrahindo pois daquelle valor commum e t„o accidental, _j_..., podemos
+sem rigorosa mas com bastante verdade chamar ·quellas consoantes _zÍxe_,
+_sezÍxe_, _kcecezÍxe_. Taes nomes designam os valores das letras, e s„o
+portanto definiÁıes, verdadeiros nomes, verdadeiros e mnemonicos, isto È,
+bons de fixar pela identidade e gradaÁ„o de elementos.
 
-O nosso systema n√£o se funda nos nomes das letras: os faceis e notaveis
-resultados que elle tem dado em nossas m√£os, e nas do editor, e que
-igualmente promette nas de outrem n√£o dependem destas particularidades: mas
-√© a raz√£o que as dicta, e o methodo que as aconselha.
+O nosso systema n„o se funda nos nomes das letras: os faceis e notaveis
+resultados que elle tem dado em nossas m„os, e nas do editor, e que
+igualmente promette nas de outrem n„o dependem destas particularidades: mas
+È a raz„o que as dicta, e o methodo que as aconselha.
 
-_Xiz_ √© um nome apenas insufficiente, n√£o falso nem disparatado; porque do
-modo que o dizemos (_xix_...), principiando e acabando na inflex√£o _x_...,
-at√© se podia considerar symbolico; pois em princ√≠pio e fim de palavra,
-salvo o que deixamos dito, o _x_ vale _x_... Mas que √© dos outros valores?
-O nome n√£o os indica; e n√£o ha raz√µes de preferencia: nem ha conveniencia
-alguma em obrigar o principiante a ir buscal-os a explica√ß√µes avulsas,
+_Xiz_ È um nome apenas insufficiente, n„o falso nem disparatado; porque do
+modo que o dizemos (_xix_...), principiando e acabando na inflex„o _x_...,
+atÈ se podia considerar symbolico; pois em princÌpio e fim de palavra,
+salvo o que deixamos dito, o _x_ vale _x_... Mas que È dos outros valores?
+O nome n„o os indica; e n„o ha razıes de preferencia: nem ha conveniencia
+alguma em obrigar o principiante a ir buscal-os a explicaÁıes avulsas,
 podendo-os achar no proprio nome da letra.
 
-Vamos √°s perguntas e respostas do costume:
+Vamos ·s perguntas e respostas do costume:
 
---_Como se chama esta letra?_--_Kcecez√™xe_.
+--_Como se chama esta letra?_--_KcecezÍxe_.
 
---_Porque se chama_ Kcecez√™xe?--_Porque vale k√ß... √ß... z... x..._
+--_Porque se chama_ KcecezÍxe?--_Porque vale kÁ... Á... z... x..._
 
---_Quando vale k√ß... √ß... z...?_--_N√£o ha regra._
+--_Quando vale kÁ... Á... z...?_--_N„o ha regra._
 
---_E quando vale x...?_--No princ√≠pio e fim de palavra.
+--_E quando vale x...?_--No princÌpio e fim de palavra.
 
-Este mesmo valor j√° sabemos quanto √© accidental no fim; e tambem n√£o √©
-certo no princ√≠pio. Parece pois que muito de proposito escolheram os
+Este mesmo valor j· sabemos quanto È accidental no fim; e tambem n„o È
+certo no princÌpio. Parece pois que muito de proposito escolheram os
 mathematicos o _x_ para symbolo da incognita... Mas ahi tendes mais uma
-raz√£o para lhe darmos um nome que offere√ßa por assim dizer, √° escolha do
-principiante valores t√£o diversos e t√£o incertos.
+raz„o para lhe darmos um nome que offereÁa por assim dizer, · escolha do
+principiante valores t„o diversos e t„o incertos.
 
 x
 
-= k√ß
+= kÁ
 
 fi|xo         fi|xa        fi|xar
 
@@ -1877,7 +1877,7 @@ flu|xo        de|flu|xo
 
 re|fle|xo     se|xo
 
-= √ß
+= Á
 
 au|xi|li|as|te
 
@@ -1889,7 +1889,7 @@ au|xi|li|a|sses
 
 exis|te       e|xis|tir
 
-e|xer|ci|ta|r√°s
+e|xer|ci|ta|r·s
 
 e|xer|ci|ta|sses
 
@@ -1914,264 +1914,264 @@ ex|pre|ssar
 
 
 
-VIGESIMA PRIMEIRA LI√á√ÉO
+VIGESIMA PRIMEIRA LI«√O
 
 
 Das oito consoantes incertas faltam-nos duas, _m_, _n_: mas como estas
-servem tantas ou mais vezes de til que de letras, √© chegado o tempo de
+servem tantas ou mais vezes de til que de letras, È chegado o tempo de
 fallarmos das vogaes nasaes. Ha cinco especies de vogaes: _agudas_,
 _fechadas_, _abertas_, _graves_, e _nasaes_.
 
-_Agudas_ s√£o as que se proferem como se chamam _√°_, _√©_, _√≠_, _√≥_, _√∫_; √°s
+_Agudas_ s„o as que se proferem como se chamam _·_, _È_, _Ì_, _Û_, _˙_; ·s
 quaes muitas vezes se applica e muitas mais se deixa de applicar aquelle
-tra√ßo obliquo da direita para a esquerda chamado tambem accento agudo.
+traÁo obliquo da direita para a esquerda chamado tambem accento agudo.
 
-Abaixo, por assim dizer, um ponto em for√ßa e clareza est√£o as _fechadas_,
-que se proferem com a b√¥ca um pouco menos aberta.
+Abaixo, por assim dizer, um ponto em forÁa e clareza est„o as _fechadas_,
+que se proferem com a bÙca um pouco menos aberta.
 
-O signal destas √© o chamado impropria e alatinadamente circumflexo, que a
+O signal destas È o chamado impropria e alatinadamente circumflexo, que a
 maxima parte das vezes se omitte, mas algumas se emprega onde era
-necessario como em _d√™_; onde convinha como em _r√¥go_; onde era
-desnecessario como em _fl√¥r_ (porque _or_ final vale geralmente _√¥r_, e
-portanto bastava accentuar as excep√ß√µes como _mai√≥r_, _pe√≥r_); e tambem
-modernamente em palavras, onde n√£o convinha, como _v√™mos_, _louv√¢mos_, que
-em estylo culto e desaffectado se l√™em nasalando as vogaes _e_, _a_; √°s
+necessario como em _dÍ_; onde convinha como em _rÙgo_; onde era
+desnecessario como em _flÙr_ (porque _or_ final vale geralmente _Ùr_, e
+portanto bastava accentuar as excepÁıes como _maiÛr_, _peÛr_); e tambem
+modernamente em palavras, onde n„o convinha, como _vÍmos_, _louv‚mos_, que
+em estylo culto e desaffectado se lÍem nasalando as vogaes _e_, _a_; ·s
 quaes portanto mais competia til que accento circumflexo.
 
-√â de notar que n√£o ha _u_ nem _i_ fechado; porque o ouvido n√£o distingue
-voz abaixo de _u_; nem differen√ßa de tom, e s√≥ de f√¥r√ßa, dum _i_ a outro
-_i_, como em _cai_ e _ca√≠_.
+… de notar que n„o ha _u_ nem _i_ fechado; porque o ouvido n„o distingue
+voz abaixo de _u_; nem differenÁa de tom, e sÛ de fÙrÁa, dum _i_ a outro
+_i_, como em _cai_ e _caÌ_.
 
-_Aberta_, ha s√≥ uma vogal assim chamada, o _e_, de que fallamos a paginas
+_Aberta_, ha sÛ uma vogal assim chamada, o _e_, de que fallamos a paginas
 49.
 
-_Graves_ s√£o as vogaes que se proferem mais suavemente, como as ultimas de
+_Graves_ s„o as vogaes que se proferem mais suavemente, como as ultimas de
 _ama_, _ame_, _amei_, _amo_, _tribu_; onde, se comparardes, vereis que _o_
 e _u_ se confundem para o ouvido.
 
-Quasi o mesmo succede entre _a_ fechado e _a_ grave, que s√≥ differem na
-f√¥r√ßa; como por exemplo em _c√¢da_. Mas attendendo a que esta differen√ßa √©
-quasi inapreciavel, e devendo ser o _tom_ a base desta classifica√ß√£o,
-p√≥de-se estabelecer que ha s√≥ tres vozes graves, _e_, _i_, _u_,
+Quasi o mesmo succede entre _a_ fechado e _a_ grave, que sÛ differem na
+fÙrÁa; como por exemplo em _c‚da_. Mas attendendo a que esta differenÁa È
+quasi inapreciavel, e devendo ser o _tom_ a base desta classificaÁ„o,
+pÛde-se estabelecer que ha sÛ tres vozes graves, _e_, _i_, _u_,
 representadas em quatro vogaes, _e_, _i_, _o_, _u_; valendo estas duas
-√∫ltimas o mesmo.
+˙ltimas o mesmo.
 
-_Nasaes_ s√£o as que se proferem, n√£o asperamente fanhosas, como se
+_Nasaes_ s„o as que se proferem, n„o asperamente fanhosas, como se
 tivessemos o nariz tapado ou as fizessemos eccoar nas fossas nasaes; mas
-dirigindo o f√¥lego como que ao ceo da b√¥ca; podendo-se neste sentido chamar
+dirigindo o fÙlego como que ao ceo da bÙca; podendo-se neste sentido chamar
 igualmente, e por ventura melhor, palataes.
 
 Resumindo: todas as vogaes podem ser nasaes e todas podem ser agudas.
 Graves ha quatro _e_, _i_, _o_, _u_, representando tres vozes graves _e_,
-_i_, _u_. Fechadas ha tres, _√¢_, _√™_, _√¥_. Aberta ha s√≥ uma, _√®_.
+_i_, _u_. Fechadas ha tres, _‚_, _Í_, _Ù_. Aberta ha sÛ uma, _Ë_.
 
-As nasaes assignalam-se com ~, _m_, _n_. Hoje s√≥ √© applicado o til a duas,
-_a_, _o_; mas a todas se encontra applicado frequentemente nas edi√ß√µes
+As nasaes assignalam-se com ~, _m_, _n_. Hoje sÛ È applicado o til a duas,
+_a_, _o_; mas a todas se encontra applicado frequentemente nas ediÁıes
 antigas.
 
-Limitemos a nossa quest√£o ao til.
+Limitemos a nossa quest„o ao til.
 
 --_Como se chama este signal?_--_Til._
 
 --_De que serve?_--_De indicar voz nasal._
 
---√Å, √©, √≠, √≥, √∫ _s√£o vozes nasaes?_--_S√£o vozes puras._
+--¡, È, Ì, Û, ˙ _s„o vozes nasaes?_--_S„o vozes puras._
 
---_Como s√£o nasaes?_--√É, e, i, √µ, u.
+--_Como s„o nasaes?_--√, e, i, ı, u.
 
-Puras s√£o todas as vozes n√£o nasaladas, isto √©, todas as _agudas_,
+Puras s„o todas as vozes n„o nasaladas, isto È, todas as _agudas_,
 _fechadas_, _abertas_ e _graves_.
 
-      √£
+      „
 
-e     i     √µ
+e     i     ı
 
       u
 
-v√£           l√£           r√£           s√£
+v„           l„           r„           s„
 
-s√£o          p√£o          d√£o
+s„o          p„o          d„o
 
-ve|r√£o       se|r√£o
+ve|r„o       se|r„o
 
-c√£o          co|ra|√ß√£o
+c„o          co|ra|Á„o
 
-ra|z√£o       car|v√£o
+ra|z„o       car|v„o
 
-se|z√£o       gr√£o
+se|z„o       gr„o
 
-gr√£os        s√£os
+gr„os        s„os
 
-c√£es         ca|pi|t√£es
+c„es         ca|pi|t„es
 
-sa|cris|t√£es
+sa|cris|t„es
 
-p√µi          dis|p√µis
+pıi          dis|pıis
 
-pa|v√µes      fei|j√µes
+pa|vıes      fei|jıes
 
-fei|√ß√µes     a|c√ß√µes
+fei|Áıes     a|cÁıes
 
-ra|t√µes      ra|z√µes
+ra|tıes      ra|zıes
 
-va|r√µes      ba|r√µes
+va|rıes      ba|rıes
 
-la|dr√£o      ra|√ß√µes
-
-
+la|dr„o      ra|Áıes
 
 
-VIGESIMA SEGUNDA LI√á√ÉO
 
 
-Estamos chegados √° penultima das consoantes incertas, que √© o _m_. Este
-caracter umas vezes √© letra, outras vezes signal nasal, outras vezes nem
-uma cousa nem outra; e podemos accrescentar que outras vezes √© ambas as
+VIGESIMA SEGUNDA LI«√O
+
+
+Estamos chegados · penultima das consoantes incertas, que È o _m_. Este
+caracter umas vezes È letra, outras vezes signal nasal, outras vezes nem
+uma cousa nem outra; e podemos accrescentar que outras vezes È ambas as
 cousas.
 
-Quando √© letra representa um despego de labios similhantissimo aos que
+Quando È letra representa um despego de labios similhantissimo aos que
 representam _b_, _p_; como por exemplo em
 
 _mal_, _mel_, _mil_, _mola_, _mula_.
 
-√â impossivel come√ßar a ler estas palavras sem ser de b√¥ca fechada. Os
-labios despegam-se √° primeira voz; vindo portanto o _m_ a representar um
-facto puramente mecanico, por si s√≥ inapreciavel ao ouvido. N√£o √© isto
+… impossivel comeÁar a ler estas palavras sem ser de bÙca fechada. Os
+labios despegam-se · primeira voz; vindo portanto o _m_ a representar um
+facto puramente mecanico, por si sÛ inapreciavel ao ouvido. N„o È isto
 particularidade do _m_, mas qualidade geral de todas as letras que valem
-inflex√µes instantaneas.
+inflexıes instantaneas.
 
-O _m_ representa esta inflex√£o labial em tendo vogal adiante.
+O _m_ representa esta inflex„o labial em tendo vogal adiante.
 
-Quando √© signal nasal, vale para a vogal antecedente o mesmo que til. Tanto
+Quando È signal nasal, vale para a vogal antecedente o mesmo que til. Tanto
 importa para a leitura escrever:
 
 
        _am_bos, _em_bora, _im_par, _om_bria, _um_bral;
-  como  _√£_bos   _e_bora   _i_par   _√µ_bria   _u_bral:
+  como  _„_bos   _e_bora   _i_par   _ı_bria   _u_bral:
 
 
-com a differen√ßa que esta orthografia era melhor, mais exacta e, por
+com a differenÁa que esta orthografia era melhor, mais exacta e, por
 consequencia, mais elegante.
 
-Por economia de espa√ßo, e conveniencias typograficas, talvez mais que por
+Por economia de espaÁo, e conveniencias typograficas, talvez mais que por
 espirito reformador duma orthografia incoherente, acha-se o til empregado
-nas edi√ß√µes antigas, frequentissimamente, onde agora pomos _m_ ou _n_. Em
-boa hora volte e seja universalmente recebida aquella substitui√ß√£o. Mas os
-antigos, que escreviam (tambem mais logicamente) por exemplo _am√°r√£o_;
-querendo differen√ßar o _√£o_ dominante do grave, √° falta de signaes
-convenientes escreviam _amar√°√µ_, desvirtuando assim ao mesmo tempo os dois
-signaes agudo e nasal; pois nem o _a_ √© agudo, nem o _o_ nasal. Daqui e,
-provavelmente ainda mais, da costumeira de solletrar _√°_, _√≥_, _til_, _√£o_;
+nas ediÁıes antigas, frequentissimamente, onde agora pomos _m_ ou _n_. Em
+boa hora volte e seja universalmente recebida aquella substituiÁ„o. Mas os
+antigos, que escreviam (tambem mais logicamente) por exemplo _am·r„o_;
+querendo differenÁar o _„o_ dominante do grave, · falta de signaes
+convenientes escreviam _amar·ı_, desvirtuando assim ao mesmo tempo os dois
+signaes agudo e nasal; pois nem o _a_ È agudo, nem o _o_ nasal. Daqui e,
+provavelmente ainda mais, da costumeira de solletrar _·_, _Û_, _til_, _„o_;
 parecendo ao principiante (e talvez ao mestre) que o til pertence ao _o_;
-resulta vermos at√© na capital grandes letreiros: _Sala√µ_, _Reparti√ßa√µ de
-Instruc√ßa√µ_ etc. (o que diga-se a verdade n√£o √© muito airoso para o
+resulta vermos atÈ na capital grandes letreiros: _Salaı_, _RepartiÁaı de
+InstrucÁaı_ etc. (o que diga-se a verdade n„o È muito airoso para o
 pintor).
 
-O _m_ tem sempre este valor nasal quando se lhe n√£o segue vogal.
+O _m_ tem sempre este valor nasal quando se lhe n„o segue vogal.
 
-Mas √°s vezes n√£o tem valor nenhum, e s√≥ se escreve por divisa etymologica,
+Mas ·s vezes n„o tem valor nenhum, e sÛ se escreve por divisa etymologica,
 como por exemplo em
 
-_co_m_menda_, _co_m_miss√£o_, _conde_m_nado,_
+_co_m_menda_, _co_m_miss„o_, _conde_m_nado,_
 
-que se l√™em exactamente como se escrevessemos _comenda_ _comiss√£o_
+que se lÍem exactamente como se escrevessemos _comenda_ _comiss„o_
 _condenado_.
 
 Estas taes divisas etymologicas, ou estas taes etymologias teem o grande
-inconveniente de fazer da escrita um privil√©gio, que nenhum homem liberal
+inconveniente de fazer da escrita um privilÈgio, que nenhum homem liberal
 supporta sem repugnancia, etc. E ainda se os partidarios
-[ileg√≠vel............]! Mas elles n√£o se entendem uns aos outros, e nem a
-si mesmos se entendem. Devia acabar esta affecta√ß√£o ridicula.
+[ilegÌvel............]! Mas elles n„o se entendem uns aos outros, e nem a
+si mesmos se entendem. Devia acabar esta affectaÁ„o ridicula.
 
-Continuando, n√£o podemos dizer que _mm_ est√£o no caso de _bb_, _cc_, _dd_,
+Continuando, n„o podemos dizer que _mm_ est„o no caso de _bb_, _cc_, _dd_,
 _ff_, _gg_, etc., que valem sempre assim dobradas o mesmo que simples:
-porque √© t√£o commum o primeiro _m_ n√£o valer nada como valer de til: por
+porque È t„o commum o primeiro _m_ n„o valer nada como valer de til: por
 exemplo:
 
 
              _s_omm_a, g_omm_a, _emm_alar, _emm_assar_
-  equivale a  _s_√µm_a,  g_√µm_a,  _em_alar,  _em_assar_:
+  equivale a  _s_ım_a,  g_ım_a,  _em_alar,  _em_assar_:
 
 
 vingando aqui a regra, que _m_ sem vogal adiante vale de til.
 
-Tambem o _am_ final se p√≥de dizer que n√£o offerece nada de extraordinario
-quanto ao _m_. Ahi o _m_ vale til; √© regular: a forma orthografica sim que
-√© viciosa; porque escrevemos _√£_ para lermos _√£o_. Nem o _a_ nem o _m_
-podem representar o _u_ que soa na leitura. √â uma conven√ß√£o caprichosa, e
+Tambem o _am_ final se pÛde dizer que n„o offerece nada de extraordinario
+quanto ao _m_. Ahi o _m_ vale til; È regular: a forma orthografica sim que
+È viciosa; porque escrevemos _„_ para lermos _„o_. Nem o _a_ nem o _m_
+podem representar o _u_ que soa na leitura. … uma convenÁ„o caprichosa, e
 pouco sustentavel.
 
-Antigamente dizia-se, por exemplo, _am√°ru_; depois, com o correr dos
-tempos, _am√°r√µ_; depois, _am√°r√£_. Foi-se a musica da lingua, por assim
-dizer, aclarando. Hoje ainda muito povo diz _am√°r√µ_, _f√°ll√µ_; mas o estylo
-correcto e literario √© _am√°r√£o_, _f√°ll√£o_.
+Antigamente dizia-se, por exemplo, _am·ru_; depois, com o correr dos
+tempos, _am·rı_; depois, _am·r„_. Foi-se a musica da lingua, por assim
+dizer, aclarando. Hoje ainda muito povo diz _am·rı_, _f·llı_; mas o estylo
+correcto e literario È _am·r„o_, _f·ll„o_.
 
-Nisto devem os mestres n√£o poupar insistencias, porque o tal _√µ_ √©
-repugnante. E dizemos: n√£o poupar insistencias, porque √© necessario
-insistir: a maior parte dos alumnos teem esse v√≠cio muito arraigado. Mas
-quem diz _c√£o_, p√≥de dizer _f√≠c√£o_: seja a syllaba grave ou dominante, a
-pronuncia √© organicamente a mesma.
+Nisto devem os mestres n„o poupar insistencias, porque o tal _ı_ È
+repugnante. E dizemos: n„o poupar insistencias, porque È necessario
+insistir: a maior parte dos alumnos teem esse vÌcio muito arraigado. Mas
+quem diz _c„o_, pÛde dizer _fÌc„o_: seja a syllaba grave ou dominante, a
+pronuncia È organicamente a mesma.
 
-Tempo houve que geralmente se escrevia _√£o_ no fim. Depois, talvez para
+Tempo houve que geralmente se escrevia _„o_ no fim. Depois, talvez para
 evitar equivocos, e poupar accentos (no que sempre nos temos mostrado
-singularmente economicos), em vez de se progredir empregando, e at√©
+singularmente economicos), em vez de se progredir empregando, e atÈ
 inventando os signaes necessarios a bem duma orthografia exacta,
 retrogradou-se. Quasi todos escrevem actualmente _amam_, _fallam_,
 _quizeram_, etc.
 
-A dizer a verdade a boa orthografia n√£o depende tanto da logica dos
+A dizer a verdade a boa orthografia n„o depende tanto da logica dos
 caracteres como da generalidade das regras; e se _am_ final vale sempre o
 mesmo, embora mal represente o que vale, passe a incoherencia. Melhor
-orthografia √© _f√°ll√£o_, _fall√°r√£o_, _fallar√£o_, etc. Mas por exemplo
-_pens√£o_ √© equivoco; e escrever _p√©ns√£o_, n√£o √© logico; porque n√£o temos na
-palavra _e_ agudo. A falta dum signal para a vogal dominante, √© uma raz√£o a
-favor do _am_ final: todavia, raz√£o que pouco pode aproveitar aos que
-seguem (como n√≥s aqui) a orthografia em _am_; pois escrevem sem escrupulo
-_prov√©m_, _cont√©m_ e at√© _por√©m_. Logo que d√∫vida podiam ter em escrever
-_p√©ns√£o_, _p√©nd√£o_, _m√°nd√£o_, etc.? Melhor seria.
+orthografia È _f·ll„o_, _fall·r„o_, _fallar„o_, etc. Mas por exemplo
+_pens„o_ È equivoco; e escrever _pÈns„o_, n„o È logico; porque n„o temos na
+palavra _e_ agudo. A falta dum signal para a vogal dominante, È uma raz„o a
+favor do _am_ final: todavia, raz„o que pouco pode aproveitar aos que
+seguem (como nÛs aqui) a orthografia em _am_; pois escrevem sem escrupulo
+_provÈm_, _contÈm_ e atÈ _porÈm_. Logo que d˙vida podiam ter em escrever
+_pÈns„o_, _pÈnd„o_, _m·nd„o_, etc.? Melhor seria.
 
-Mas dissemos n√≥s que o _m_ vale √°s vezes de letra e de til. De facto
+Mas dissemos nÛs que o _m_ vale ·s vezes de letra e de til. De facto
 acha-se uma especie de influencia nasal retroactiva no _m_ (assim como no
-_n_). N√≥s lemos _ama_, _temo_, _lima_, _Roma_, _uma_, como se estivesse
-escrito _√£ma_, _temo_, _lima_, _R√µma_, _uma_. _Amamos_, _amemos_;
-_fazemos_, _fa√ßamos_; _vestimos_, _vistamos_; _pomos_, _ponhamos_; nestas e
-outras vozes similhantes d√°-se tambem o caso de nasalarmos a penultima
-vogal, sem til nem _m_ que lhe perten√ßa.
+_n_). NÛs lemos _ama_, _temo_, _lima_, _Roma_, _uma_, como se estivesse
+escrito _„ma_, _temo_, _lima_, _Rıma_, _uma_. _Amamos_, _amemos_;
+_fazemos_, _faÁamos_; _vestimos_, _vistamos_; _pomos_, _ponhamos_; nestas e
+outras vozes similhantes d·-se tambem o caso de nasalarmos a penultima
+vogal, sem til nem _m_ que lhe pertenÁa.
 
-Mas destas e outras que taes advertencias n√£o precisa o alumno. E
+Mas destas e outras que taes advertencias n„o precisa o alumno. E
 limitando-nos ao que importa, na forma costumada:
 
---_Como se chama esta letra?_--_Met√≠l._
+--_Como se chama esta letra?_--_MetÌl._
 
---_Porque se chama _met√≠l_?_--_Porque umas vezes vale _m'_, outras vezes vale
+--_Porque se chama _metÌl_?_--_Porque umas vezes vale _m'_, outras vezes vale
 de _til_._
 
 --_Quando vale _m'_?_--_Com vogal adiante._
 
 --_E quando vale de _til_?_--_Com vogal atraz._
 
---_Portanto, com_ a, e, i, o, u _atraz, como se l√™?_--√É, e, i, √µ, u.
+--_Portanto, com_ a, e, i, o, u _atraz, como se lÍ?_--√, e, i, ı, u.
 
---_Tambem se l√™ _√£_ no fim de palavra?_--_No fim de palavra n√£o se l√™ _√£_;
-accrescenta-se _u_; l√™-se _√£o_._
+--_Tambem se lÍ _„_ no fim de palavra?_--_No fim de palavra n„o se lÍ _„_;
+accrescenta-se _u_; lÍ-se _„o_._
 
 m
 
 meu          u|mas
 
-m√£os         li|m√µes
+m„os         li|mıes
 
-mo|√ßas       co|mer
+mo|Áas       co|mer
 
 a|mi|gas     ge|mer
 
-mo|rrer      m√£es
+mo|rrer      m„es
 
-ma|√ß√£s       ir|m√£os
+ma|Á„s       ir|m„os
 
 quei|ma|du|ras
 
-ro|m√£s       me|xer
+ro|m„s       me|xer
 
              am = ~
 
@@ -2201,15 +2201,15 @@ cai|em       co|mem
 
 ar|dem       fu|mem
 
-te|mem       l√™|em
+te|mem       lÍ|em
 
 com|pa|ra|rem
 
 em|ma|ssa|rem
 
-em|ma|la|r√£o
+em|ma|la|r„o
 
-~~~am = √£o
+~~~am = „o
 
 i|am         dur|mam
 
@@ -2225,95 +2225,95 @@ to|cam       ar|mam
 
 li|gam       su|mam
 
-em|ma|gre|√ßam
+em|ma|gre|Áam
 
 com|pli|ca|ri|am
 
 
 
 
-VIGESIMA TERCEIRA LI√á√ÉO
+VIGESIMA TERCEIRA LI«√O
 
 
-Cheg√°mos finalmente ao _n_, √∫ltima das consoantes incertas, que √°
-similhan√ßa do _m_ umas vezes √© letra, representando inflex√£o; outras vezes
-√© simples signal nasal, valendo de til; outras vezes nem representa
-inflex√£o nem vale de til; outras vezes vale de til e representa inflex√£o; e
-ainda outras vezes, accentuado ou carregado com o _h_, vale a inflex√£o
+Cheg·mos finalmente ao _n_, ˙ltima das consoantes incertas, que ·
+similhanÁa do _m_ umas vezes È letra, representando inflex„o; outras vezes
+È simples signal nasal, valendo de til; outras vezes nem representa
+inflex„o nem vale de til; outras vezes vale de til e representa inflex„o; e
+ainda outras vezes, accentuado ou carregado com o _h_, vale a inflex„o
 conhecida, de que havemos de tratar.
 
-Propriamente um caracter s√≥ √© letra quando representa um elemento mais ou
-menos distincto da palavra fallada. Ninguem diz que _v√£_ se escreve com
-tres letras, porque nem a an√°lyse nem o ouvido distinguem sen√£o duas partes
-nessa palavra. Ora se em _v√£_ ha s√≥ duas letras, tambem ha s√≥ duas letras
-em _van_. Se chamamos letra a este √∫ltimo caracter, √© referindo-nos ao
-papel que elle muitas vezes representa, e para n√£o estarmos com explica√ß√µes
-e rigores desnecessarios: mas fallando com exactid√£o, aqui o _n_ n√£o passa
+Propriamente um caracter sÛ È letra quando representa um elemento mais ou
+menos distincto da palavra fallada. Ninguem diz que _v„_ se escreve com
+tres letras, porque nem a an·lyse nem o ouvido distinguem sen„o duas partes
+nessa palavra. Ora se em _v„_ ha sÛ duas letras, tambem ha sÛ duas letras
+em _van_. Se chamamos letra a este ˙ltimo caracter, È referindo-nos ao
+papel que elle muitas vezes representa, e para n„o estarmos com explicaÁıes
+e rigores desnecessarios: mas fallando com exactid„o, aqui o _n_ n„o passa
 dum signal.
 
-Quando √© letra profere-se pegando a lingua ao ceo da b√¥ca: pegando-se ou
-despegando-se; estes termos s√£o geralmente reciprocos no valor fysiologico
+Quando È letra profere-se pegando a lingua ao ceo da bÙca: pegando-se ou
+despegando-se; estes termos s„o geralmente reciprocos no valor fysiologico
 das letras; para se despegar, tem de se pegar. Mas se merecesse a pena
-levar a an√°lyse a uma certa altura, diriamos que mais consiste aquella
-inflex√£o no apego que no despego, pois como se p√≥de observar em _iman_,
-_pollen_, _talisman_, em summa nas palavras onde o _n_ final vale inflex√£o,
-este _n_ profere-se perfeitamente deixando a lingua pegada ao ceo da b√¥ca:
-o mesmo que dissemos do _l_, ao qual, apezar da differen√ßa para o ouvido,
+levar a an·lyse a uma certa altura, diriamos que mais consiste aquella
+inflex„o no apego que no despego, pois como se pÛde observar em _iman_,
+_pollen_, _talisman_, em summa nas palavras onde o _n_ final vale inflex„o,
+este _n_ profere-se perfeitamente deixando a lingua pegada ao ceo da bÙca:
+o mesmo que dissemos do _l_, ao qual, apezar da differenÁa para o ouvido,
 se assemelha muito na pronuncia.
 
-Por isso bom √© recommendar ao alumno, na leitura do _n_ final, o que
+Por isso bom È recommendar ao alumno, na leitura do _n_ final, o que
 dissemos a respeito do _l_.
 
-Este _n_ final valendo inflex√£o (e sempre tambem de til, pela influencia
-nasal retroactiva, que indic√°mos a respeito do _m_) √© raro. Poucas s√£o as
-palavras que assim acabam. E √© s√≥ nessas palavras que a ortografia moderna
+Este _n_ final valendo inflex„o (e sempre tambem de til, pela influencia
+nasal retroactiva, que indic·mos a respeito do _m_) È raro. Poucas s„o as
+palavras que assim acabam. E È sÛ nessas palavras que a ortografia moderna
 o admitte. Caiu em desuso escrever _van_, _lan_, _manhan_. O _n_ final
-valendo de til, foi com raz√£o substituido pelo til.
+valendo de til, foi com raz„o substituido pelo til.
 
-Nesta qualidade de til, o mesmo que dissemos do _m_ lhe √© applicavel.
-Nasala a vogal anterior quando n√£o tem vogal adiante, dando-se tambem casos
-excepcionaes como succede com o _m_, por√©m esta √© a regra. N√≥s lemos:
+Nesta qualidade de til, o mesmo que dissemos do _m_ lhe È applicavel.
+Nasala a vogal anterior quando n„o tem vogal adiante, dando-se tambem casos
+excepcionaes como succede com o _m_, porÈm esta È a regra. NÛs lemos:
 
-_an_da, _en_te, _in_do, _on_da, _un_to, do mesmo modo que: _√£_da, _e_te,
-_i_do, _√µ_da, _u_to.
+_an_da, _en_te, _in_do, _on_da, _un_to, do mesmo modo que: _„_da, _e_te,
+_i_do, _ı_da, _u_to.
 
 Como letra, nasalando ao mesmo tempo a vogal anterior, temos milhares de
 exemplos: todos lemos: u_fa_no, _pe_na, _ti_na, _to_na, _pu_na, como se
-estivesse escrito u_f√£_no, _pe_na, _ti_na, _t√µ_na, _pu_na.
+estivesse escrito u_f„_no, _pe_na, _ti_na, _tı_na, _pu_na.
 
-Escrito s√≥ por etymologia, tambem n√£o escaceiam exemplos. Em _annel_,
-_anniversario_, _annunciar_, etc., o primeiro _n_ n√£o tem nenhum valor.
+Escrito sÛ por etymologia, tambem n„o escaceiam exemplos. Em _annel_,
+_anniversario_, _annunciar_, etc., o primeiro _n_ n„o tem nenhum valor.
 
 Resumindo esta doutrina ao nosso discipulo:
 
---_Que letra √© esta?_--Netil.
+--_Que letra È esta?_--Netil.
 
 --_Porque se chama_ netil?--_Porque umas vezes vale_ n', _outras vezes vale
 de_ til.
 
 --_Quando vale_ n'?--_Em tendo vogal adiante._
 
---_E quando vale de_ til?--_Em n√£o tendo vogal adiante._
+--_E quando vale de_ til?--_Em n„o tendo vogal adiante._
 
---_Portanto com_ a, e, i, o, u _atraz_, _como se l√™_?--_L√™-se_ √£, e, i, √µ, u.
+--_Portanto com_ a, e, i, o, u _atraz_, _como se lÍ_?--_LÍ-se_ „, e, i, ı, u.
 
-Adverte-se a excep√ß√£o do _n_ final.
+Adverte-se a excepÁ„o do _n_ final.
 
 n
 
-n√≥s             nau             cli|na
+nÛs             nau             cli|na
 
 no|mes          ma|nos
 
 na|da           me|ni|nos
 
-a|n√µes          per|nas
+a|nıes          per|nas
 
 i|ma|gi|na|vam
 
 car|ne          es|qui|na
 
-a|fi|na|√ß√£o     n√£o
+a|fi|na|Á„o     n„o
 
 som|no          i|man
 
@@ -2338,147 +2338,147 @@ en|ten|di|men|to
 
 
 
-VIGESIMA QUARTA LI√á√ÉO
+VIGESIMA QUARTA LI«√O
 
 
-O nosso plano √© o seguinte:
+O nosso plano È o seguinte:
 
 
     I Vogaes                        _a, e, i, o, u._
 
    II Consoantes certas             _v, f, j, t, d, b, p, l, k, q._
 
-           ¬ª     incertas           _c, g, r, z, s, x, m, n._
+           ª     incertas           _c, g, r, z, s, x, m, n._
 
-           ¬ª     compostas certas   _th, rh, nh, lh, ph_, }
+           ª     compostas certas   _th, rh, nh, lh, ph_, }
                                                           } (_y_).
       Consoante composta incerta    _ch_,                 }
 
   III Alfabeto maiusculo.
 
 
-Daqui se v√™ que √°s consoantes incertas seguem-se as compostas. √â pois tempo
-de fallarmos do _h_; tempo e opportunidade, porque as duas √∫ltimas
-incertas, _m_, _n_, s√£o muitas vezes simples signaes prosodicos; e o _h_,
-igualmente debaixo de todas as apparencias de letra, n√£o passa dum signal.
+Daqui se vÍ que ·s consoantes incertas seguem-se as compostas. … pois tempo
+de fallarmos do _h_; tempo e opportunidade, porque as duas ˙ltimas
+incertas, _m_, _n_, s„o muitas vezes simples signaes prosodicos; e o _h_,
+igualmente debaixo de todas as apparencias de letra, n„o passa dum signal.
 
-Os gregos tinham vogaes e consoantes aspiradas, isto √©, proferidas com
-aquelle esf√¥r√ßo, aquella sobejid√£o de f√¥lego com que os hespanhoes proferem
-a inicial de _Jos√©_. Em portuguez, ha mais ou menos f√¥r√ßa em vozes e
-inflex√µes; tanto, que √© nisso e por isso que muitas se destinguem e se
-transformam dumas noutras: mas propriamente a chamada _aspira√ß√£o_, certa
-aspereza e violencia, como de voz ou inflex√£o _tossida_, s√≥ (que nos
+Os gregos tinham vogaes e consoantes aspiradas, isto È, proferidas com
+aquelle esfÙrÁo, aquella sobejid„o de fÙlego com que os hespanhoes proferem
+a inicial de _JosÈ_. Em portuguez, ha mais ou menos fÙrÁa em vozes e
+inflexıes; tanto, que È nisso e por isso que muitas se destinguem e se
+transformam dumas noutras: mas propriamente a chamada _aspiraÁ„o_, certa
+aspereza e violencia, como de voz ou inflex„o _tossida_, sÛ (que nos
 conste) nas gargalhadas do snr. _Rivara_.
 
-Ora na Grecia, onde s√≥ havia sete sabios, ninguem era obrigado, para ler e
-escrever grego, sen√£o a saber grego. Naquella mina inexhaurivel de
-etymologias, n√£o havia etymologias. Escrevia-se com a maxima exac√ß√£o,
+Ora na Grecia, onde sÛ havia sete sabios, ninguem era obrigado, para ler e
+escrever grego, sen„o a saber grego. Naquella mina inexhaurivel de
+etymologias, n„o havia etymologias. Escrevia-se com a maxima exacÁ„o,
 salpicando-se a escrita de signalinhos, e entre esses figuravam os de
-aspira√ß√£o, que eram umas virgulasinhas sobrepostas √° vogal ou consoante
+aspiraÁ„o, que eram umas virgulasinhas sobrepostas · vogal ou consoante
 accidentalmente aspirada.
 
 Os latinos, em logar dessas virgulasinhas, tinham _h_, caracter improprio e
 indevidamente mettido na cathegoria das letras; mas elles, importando-lhes
-pouco tirar aos derivados os ares de familia, √≠am seguindo a sua
+pouco tirar aos derivados os ares de familia, Ìam seguindo a sua
 orthografia, empregando o _h_, tanto em palavras de origem patria como de
 origem grega.
 
-E como o portuguez √© filho do latim na opini√£o dos sabios, apezar de n√£o
-termos _aspira√ß√£o_, c√° temos tambem o _h_ em palavras do latim, do grego
-(que n√£o tinha culpa nenhuma da orthografia latina), e at√© em palavras de
+E como o portuguez È filho do latim na opini„o dos sabios, apezar de n„o
+termos _aspiraÁ„o_, c· temos tambem o _h_ em palavras do latim, do grego
+(que n„o tinha culpa nenhuma da orthografia latina), e atÈ em palavras de
 origem ou orthografia nossa, como _sahir_, _cahir_, _chegar_, _fechar_;
 servindo-nos o _h_ de _accento_.
 
 De tudo isto resulta que os gregos tinham a sua orthografia, os latinos a
-sua, e n√≥s temos a dos latinos, sem o seu criterio e a sua coherencia.
+sua, e nÛs temos a dos latinos, sem o seu criterio e a sua coherencia.
 
-A dizer a verdade n√£o ha differen√ßa essencial entre _aspira√ß√£o_ e
-accentua√ß√£o: ambas envolvem _f√¥r√ßa:_ mas ha a differen√ßa sobeja para n√£o
+A dizer a verdade n„o ha differenÁa essencial entre _aspiraÁ„o_ e
+accentuaÁ„o: ambas envolvem _fÙrÁa:_ mas ha a differenÁa sobeja para n„o
 confundir nem os nomes nem os signaes.
 
-O _h_ em portuguez n√£o vale aspira√ß√£o; umas vezes √© accento, outras vezes √©
-signal etymologico, outras vezes √© ambas as cousas.
+O _h_ em portuguez n„o vale aspiraÁ„o; umas vezes È accento, outras vezes È
+signal etymologico, outras vezes È ambas as cousas.
 
-Applica-se a todas as vogaes e √° ter√ßa parte das consoantes, ou tanto
-monta, a metade do abecedario. A sua indole √© carregar, accentuar, apezar
-das muitas excep√ß√µes. Vejamos com as vogaes.
+Applica-se a todas as vogaes e · terÁa parte das consoantes, ou tanto
+monta, a metade do abecedario. A sua indole È carregar, accentuar, apezar
+das muitas excepÁıes. Vejamos com as vogaes.
 
-_Ahi_, _ah_, _huivo_ l√™-se como se escrevessemos _a√≠_, _√°_, _√∫ivo:_ aqui
+_Ahi_, _ah_, _huivo_ lÍ-se como se escrevessemos _aÌ_, _·_, _˙ivo:_ aqui
 vale accento agudo.
 
-_Heroe_, _honesto_, _hostil_ l√™-se como se escrevessemos _√™roe_, _√¥nesto_
-_√¥stil:_ aqui indica etymologia, valendo ao mesmo tempo de accento
+_Heroe_, _honesto_, _hostil_ lÍ-se como se escrevessemos _Íroe_, _Ùnesto_
+_Ùstil:_ aqui indica etymologia, valendo ao mesmo tempo de accento
 circumflexo.
 
-Em raras palavras come√ßadas etymologicamente por _h_, deixa a primeira
+Em raras palavras comeÁadas etymologicamente por _h_, deixa a primeira
 vogal de ser mais ou menos fortemente accentuada.
 
 Com as consoantes observa-se a mesma _regra_.
 
-Em _th_, _rh_ a presen√ßa do _h_ √© inutil; mas haveis de notar que as
-inflex√µes _t_, _rr_... s√£o extremas, isto √©, admittem, sem transforma√ß√£o, a
+Em _th_, _rh_ a presenÁa do _h_ È inutil; mas haveis de notar que as
+inflexıes _t_, _rr_... s„o extremas, isto È, admittem, sem transformaÁ„o, a
 pronuncia mais vehemente.
 
-Por outro lado, se os etymologistas fossem etymologicos n√£o escreviam
-_catarrho_, que n√£o √© orthografia portugueza nem latina nem grega;
-escreviam _catarho_, para se l√™r do mesmo modo; vindo o _h_ a servir tambem
+Por outro lado, se os etymologistas fossem etymologicos n„o escreviam
+_catarrho_, que n„o È orthografia portugueza nem latina nem grega;
+escreviam _catarho_, para se lÍr do mesmo modo; vindo o _h_ a servir tambem
 de accentuar o _r_.
 
-_Nh_, _lh_ √© accentua√ß√£o de _n_, _l_. Proferi alternativamente _n_, _nh_, e
+_Nh_, _lh_ È accentuaÁ„o de _n_, _l_. Proferi alternativamente _n_, _nh_, e
 _l_, _lh_, sentireis a lingua, na pronuncia da forma dupla, adherir mais
-extensamente ao ceo da b√¥ca, e despegar-se com mais custo.
+extensamente ao ceo da bÙca, e despegar-se com mais custo.
 
 A respeito de _ph_, todos apagam uma luz fazendo ou proferindo naturalmente
-_pf_... Esta dupla inflex√£o consiste em despegar os labios com um s√¥pro; o
+_pf_... Esta dupla inflex„o consiste em despegar os labios com um sÙpro; o
 que corresponde a accentuar, carregar, tornar sensivel ou _aspirar_ a
-inflex√£o negativa _p'_. √â verdade que para n√≥s _ph_ n√£o vale rigorosamente
-_pf_...; mas a differen√ßa √© insignificante, e pouco desdiz a forma.
+inflex„o negativa _p'_. … verdade que para nÛs _ph_ n„o vale rigorosamente
+_pf_...; mas a differenÁa È insignificante, e pouco desdiz a forma.
 
 Em _ch_ temos dois valores, um frequentissimo, _x_... e outro raro, _k'_.
-Refor√ßai a inflex√£o _√ß..._ e vereis, como facilmente se vos torna _x_...
+ReforÁai a inflex„o _Á..._ e vereis, como facilmente se vos torna _x_...
 Quando _ch_ vale _k'_, pode-se dizer que o _h_ indica o valor aspero,
 forte, guttural da consoante _c_.
 
 Assim, ou similhantemente, convem desculpar as formas duplas, justificar,
 explicar o valor simples ou homogeneo dessas dualidades graficas. Porque
 certamente que todos os caracteres da escrita tem um valor convencional e
-arbitrario; mas, posto um valor, at√© a intelligencia infantil √© impellida a
-inquirir se se √© coherente.
+arbitrario; mas, posto um valor, atÈ a intelligencia infantil È impellida a
+inquirir se se È coherente.
 
-E pois fall√°mos do _h_, do _ph_, do _ch_, fallemos do _y_, essa especie de
+E pois fall·mos do _h_, do _ph_, do _ch_, fallemos do _y_, essa especie de
 companheiro de viagem que tantas vezes vem na caravana.
 
-Os sabios chamam √°quillo _i_ grego. Se √© grego, excellente raz√£o para o
+Os sabios chamam ·quillo _i_ grego. Se È grego, excellente raz„o para o
 excluir da nossa escrita.
 
-Em grego havia uma vogal (que por signal n√£o se sabe ao certo se valia _i_
+Em grego havia uma vogal (que por signal n„o se sabe ao certo se valia _i_
 ou se valia _u_) que na forma maiuscula um tanto se assimilhava ao _y_: na
 forma minuscula, como quasi exclusivamente nos apparece o _y_, o caracter
 similhante era o _gamma_, o _g'_. De modo que se um grego resuscitasse, e
-aprendesse a ler portuguez, havia de se rir muito do _nosso_ i grego. N√£o
+aprendesse a ler portuguez, havia de se rir muito do _nosso_ i grego. N„o
 obstante ensinai a ler o vosso discipulo _y_, _ph_, mas recommendando-lhe
-que nunca escreva t√£o affectadamente.
+que nunca escreva t„o affectadamente.
 
-Os hespanhoes, em logar do nosso _nh_, _lh_, teem _√±_, _ll_. √â melhor
-orthografia, mas ainda incoherente. Tanta raz√£o ha de carregar ou dobrar
+Os hespanhoes, em logar do nosso _nh_, _lh_, teem _Ò_, _ll_. … melhor
+orthografia, mas ainda incoherente. Tanta raz„o ha de carregar ou dobrar
 num caso como no outro. Os polacos carregam o _l_.
 
-Para n√≥s o til n√£o tinha applica√ß√£o ao _n_. Interpretando os latinos e
+Para nÛs o til n„o tinha applicaÁ„o ao _n_. Interpretando os latinos e
 imitando os gregos o melhor seria carregar, accentuar simplesmente, com
-algum signal particular ou o mesmo agudo, _n_, _l_ e at√© _r_, _t_, _p_,
-_c_. Vamos √° practica.
+algum signal particular ou o mesmo agudo, _n_, _l_ e atÈ _r_, _t_, _p_,
+_c_. Vamos · practica.
 
-Deveis ter tido occasi√£o de ensinar ao discipulo o que √©, e de que serve o
-accento agudo e circumflexo; sen√£o, explicai-lhe, apresentando-lhe, como um
+Deveis ter tido occasi„o de ensinar ao discipulo o que È, e de que serve o
+accento agudo e circumflexo; sen„o, explicai-lhe, apresentando-lhe, como um
 novo accento embora de diversa forma, o _h_.
 
---_Que √© isto?_--_O accento ag√°._
+--_Que È isto?_--_O accento ag·._
 
 --_De que serve?--De carregar vogal ou consoante._
 
 --_Que vale_ n, l, p _carregado_?--N', nh'; l', lh'; p', pf...
 
---_Mas l√™-se_ pf...?--_L√™-se s√≥_ f...
+--_Mas lÍ-se_ pf...?--_LÍ-se sÛ_ f...
 
 --_E que vale o_ c _carregado_?--x... _e algumas vezes_, q'.
 
@@ -2524,13 +2524,13 @@ u|nha        pu|nham
 
 ti|nha       ne|nhum
 
-ni|nho       ma|nh√£
+ni|nho       ma|nh„
 
 vi|nha       gru|nhir
 
 li|nha       te|nham
 
-fro|nha      pi|nh√£o
+fro|nha      pi|nh„o
 
 ju|nho       a|ze|nha
 
@@ -2538,9 +2538,9 @@ le|nha       in|ha|bil
 
 lh
 
-√¥|lho        es|pe|lhos
+Ù|lho        es|pe|lhos
 
-d√°|-lhe      jo|e|lhos
+d·|-lhe      jo|e|lhos
 
 bu|lha       o|ve|lhas
 
@@ -2574,13 +2574,13 @@ phos|pho|ros
 
 = ~~~~z        ch
 
-ch√°          ca|cho|rro
+ch·          ca|cho|rro
 
-ch√£o         cha|fa|riz
+ch„o         cha|fa|riz
 
 cha|pa       che|gar
 
-chei|o       col|ch√£o
+chei|o       col|ch„o
 
 = k     Chris|to
 
@@ -2593,52 +2593,52 @@ eu|cha|ris|ti|a
 
 
 
-VIGESIMA QUINTA LI√á√ÉO
+VIGESIMA QUINTA LI«√O
 
 
 Ensaiado o nosso discipulo em todas as minusculas por sua ordem, resta
-apresentar-lhe as maiusculas. Bastava metade, pela similhan√ßa de
+apresentar-lhe as maiusculas. Bastava metade, pela similhanÁa de
 
 
       C I J K O P S U V X Y Z
   com c i j k o p s u v x y z.
 
 
-Mas uma cartilha sem alfabeto, ser√≠a um escandalo. Evitemol-o.
+Mas uma cartilha sem alfabeto, serÌa um escandalo. Evitemol-o.
 
-O alfabeto √© um cahos.
+O alfabeto È um cahos.
 
 Se olhais ao som, e quereis tomar por base o ouvido, achais as vogaes
-misturadas com as consoantes: se olhais √° pronuncia, e quereis tomar por
-base os org√£os da palavra, achais gutturaes e labiaes, consoantes de valor
+misturadas com as consoantes: se olhais · pronuncia, e quereis tomar por
+base os org„os da palavra, achais gutturaes e labiaes, consoantes de valor
 extremo e opposto no meio d'aquella babel.
 
-A velha divis√£o de vogaes e consoantes n√£o tem melhor fundamento.
-Consoantes s√£o as que se l√™em com as _soantes_? Nesse caso a divis√£o
-natural ser√≠a _soantes_ e _consoantes_. Mas nem as vogaes s√£o unicamente
-_soantes_, nem s√£o unicamente as _soantes_.
+A velha divis„o de vogaes e consoantes n„o tem melhor fundamento.
+Consoantes s„o as que se lÍem com as _soantes_? Nesse caso a divis„o
+natural serÌa _soantes_ e _consoantes_. Mas nem as vogaes s„o unicamente
+_soantes_, nem s„o unicamente as _soantes_.
 
-A inflex√£o _x_... soa. Os caracteres que a representam s√£o _soantes_.
+A inflex„o _x_... soa. Os caracteres que a representam s„o _soantes_.
 
-Ainda soa mais a inflex√£o _rr_...; e nessa ha mais do que som, ha tom, voz.
-Prolongai-a e, melhor, parai com a lingua, continuando o mesmo f√¥lego,
-ouvireis um tom apreciavel na escala, que at√© se pode tomar por t√≥nica
-d'uma oitava: √© a voz que o repique da lingua est√° abafando e embara√ßando.
+Ainda soa mais a inflex„o _rr_...; e nessa ha mais do que som, ha tom, voz.
+Prolongai-a e, melhor, parai com a lingua, continuando o mesmo fÙlego,
+ouvireis um tom apreciavel na escala, que atÈ se pode tomar por tÛnica
+d'uma oitava: È a voz que o repique da lingua est· abafando e embaraÁando.
 
-Porque toda a voz √© essencialmente musical: a mais frouxamente proferida,
+Porque toda a voz È essencialmente musical: a mais frouxamente proferida,
 em se prolongando, afina ou desafina com a nota d'um instrumento.
 
-N√£o ha differen√ßa essencial entre a palavra e o canto; e com raz√£o chamaram
+N„o ha differenÁa essencial entre a palavra e o canto; e com raz„o chamaram
 vogaes (ou vocaes) as letras que representam os principaes elementos da
 palavra.
 
 Mas, por isso, chamar consoantes a todas as outras, envolve impropriedade.
-Todos os sons soam; dizer que as vozes soam, n√£o √© bastante: as vozes
-_cantam_. E alem de impropriedade, √© uma syntese exagerada.
+Todos os sons soam; dizer que as vozes soam, n„o È bastante: as vozes
+_cantam_. E alem de impropriedade, È uma syntese exagerada.
 
-Porque na palavra ha vozes, ha tons, ha sons e ha simples modifica√ß√µes _sem
+Porque na palavra ha vozes, ha tons, ha sons e ha simples modificaÁıes _sem
 tom nem som_, que se percebem na palavra como se percebe na nota da rabeca
-a unha ou o arco. Nem a unha nem as sedas do arco s√£o elementos fonicos:
+a unha ou o arco. Nem a unha nem as sedas do arco s„o elementos fonicos:
 fazem soar de certo modo, sem que por si soem. Ora a estes quatro elementos
 da palavra, que formam como uma escala:
 
@@ -2651,71 +2651,71 @@ da palavra, que formam como uma escala:
     IV Mudos (_bqd_, _gl_, _lh_, etc.):
 
 correspondem naturalmente quatro especies de letras susceptiveis das mesmas
-denomina√ß√µes segundo os seus valores.
+denominaÁıes segundo os seus valores.
 
-Assim pois ha letras soantes e mudas, toantes e mudas; etc. _X_ √© toante
-(z...), soante (√ß..., x...) e simultaneamente muda e soante (q√ß...).
+Assim pois ha letras soantes e mudas, toantes e mudas; etc. _X_ È toante
+(z...), soante (Á..., x...) e simultaneamente muda e soante (qÁ...).
 
-Estas denomina√ß√µes e classifica√ß√µes tem utilidade, porque envolvem an√°lyse,
-d√£o um conhecimento mais perfeito da palavra e da escrita, e proporcionam
-em muitos casos √° doutrina do mestre uma precis√£o e clareza, que a
-distinc√ß√£o geral de vogaes e consoantes mal pode permittir.
+Estas denominaÁıes e classificaÁıes tem utilidade, porque envolvem an·lyse,
+d„o um conhecimento mais perfeito da palavra e da escrita, e proporcionam
+em muitos casos · doutrina do mestre uma precis„o e clareza, que a
+distincÁ„o geral de vogaes e consoantes mal pode permittir.
 
-Mas se se quizesse apenas essa distinc√ß√£o, era dividir as letras em
+Mas se se quizesse apenas essa distincÁ„o, era dividir as letras em
 _vogaes_ e _invogaes_.
 
 Ora contando as vozes ou elementos cantantes da nossa lingua, que se
-representam em mais do d√¥bro de maneiras, achamos dezesete. Ajuntando os
+representam em mais do dÙbro de maneiras, achamos dezesete. Ajuntando os
 quatro elementos toantes, os tres soantes e os doze mudos (todos tambem
-representados em muito maior n√∫mero de caracteres) temos os trinta e seis
+representados em muito maior n˙mero de caracteres) temos os trinta e seis
 elementos a que nos referiamos a pag. 53.
 
-Mas voltando ao alfabeto, n√£o recommendamos que o fa√ßam aprender de c√≥r
-sen√£o a discipulos que nutram a lisonjeira esperan√ßa de chegar um dia a
-folhear diccionarios, que √© do que serve.
+Mas voltando ao alfabeto, n„o recommendamos que o faÁam aprender de cÛr
+sen„o a discipulos que nutram a lisonjeira esperanÁa de chegar um dia a
+folhear diccionarios, que È do que serve.
 
-Em todo o caso ahi o tendes, √° escolha, minusculo e maiusculo entremeado
-para confronto, e separado. Ainda nos parecia melhor, isto √©, menos
-indigesto, encorporado em palavras, onde ao p√© da maiuscula apparecesse a
-minuscula, e ao lado os nomes que n√≥s damos √°s letras.
+Em todo o caso ahi o tendes, · escolha, minusculo e maiusculo entremeado
+para confronto, e separado. Ainda nos parecia melhor, isto È, menos
+indigesto, encorporado em palavras, onde ao pÈ da maiuscula apparecesse a
+minuscula, e ao lado os nomes que nÛs damos ·s letras.
 
 Desses nomes ides ver alguns escritos dum modo mais sobrio ou mais usual
-mas equivalente; pois, por exemplo, lendo _z√™z_ como se costuma ler _zaz_,
-no fim soa _x_... que √© o mesmo valor, embora mais exacto, que pretendiamos
-indicar no nome _z√™xe_. Igualmente lendo √° portugueza _c√™qes_, soam tres
-inflex√µes, _√ß_... _q_... _x_..., que s√£o os valores do _c_ simples, e
-accentuado de _h_. N√≥s tambem lemos _zig-zag_, dando ao _g_ o valor
-guttural: porque n√£o havemos de escrever semelhantemente _g√™g_, para
+mas equivalente; pois, por exemplo, lendo _zÍz_ como se costuma ler _zaz_,
+no fim soa _x_... que È o mesmo valor, embora mais exacto, que pretendiamos
+indicar no nome _zÍxe_. Igualmente lendo · portugueza _cÍqes_, soam tres
+inflexıes, _Á_... _q_... _x_..., que s„o os valores do _c_ simples, e
+accentuado de _h_. NÛs tambem lemos _zig-zag_, dando ao _g_ o valor
+guttural: porque n„o havemos de escrever semelhantemente _gÍg_, para
 significar os dois valores desta toante e muda? Quizemos dar de barato aos
-partidarios dos nomes volumosos; agora permittam-nos essas modifica√ß√µes
+partidarios dos nomes volumosos; agora permittam-nos essas modificaÁıes
 accidentaes.
 
-Mas ao _c_ tinhamos chamado _c√™qe_: chamando-lhe agora _c√™qes_, ha uma
-differen√ßa essencial. A raz√£o √©, como v√™des, para abranger no nome o novo
-valor que lhe trouxe o _h_. Assim v√£o tambem accrescentados os nomes de
-_p_, _l_, _n_: e dessa altera√ß√£o convem dar conta e explica√ß√£o ao alumno;
-se √© que n√£o preferis considerar _nh_, _lh_, _ph_, _ch_ como formas
-elementares, chamando-lhes _nh√™_, _lh√™_, _ph√™_ grego, _x√™q_; o que √©
-rasoavel mas pouco conforme ao que entre n√≥s se entende por alfabeto.
+Mas ao _c_ tinhamos chamado _cÍqe_: chamando-lhe agora _cÍqes_, ha uma
+differenÁa essencial. A raz„o È, como vÍdes, para abranger no nome o novo
+valor que lhe trouxe o _h_. Assim v„o tambem accrescentados os nomes de
+_p_, _l_, _n_: e dessa alteraÁ„o convem dar conta e explicaÁ„o ao alumno;
+se È que n„o preferis considerar _nh_, _lh_, _ph_, _ch_ como formas
+elementares, chamando-lhes _nhÍ_, _lhÍ_, _phÍ_ grego, _xÍq_; o que È
+rasoavel mas pouco conforme ao que entre nÛs se entende por alfabeto.
 
-E agora vem a proposito fallarmos de _dh_, que a pag. 23 inclu√≠mos nas
-formas compostas, e todavia n√£o apparece na √∫ltima li√ß√£o. _Dh_ √© uma
-junc√ß√£o casual, √° similhan√ßa de _nh_ por exemplo em _inhabil inherente_ que
-se l√™ _in√°bil inerente_. As palavras que principiam por _h_, compostas de
-_ad_ e _in_, affectam estas excep√ß√µes ao _nh_, e aquella forma _dh_, n√£o
+E agora vem a proposito fallarmos de _dh_, que a pag. 23 incluÌmos nas
+formas compostas, e todavia n„o apparece na ˙ltima liÁ„o. _Dh_ È uma
+juncÁ„o casual, · similhanÁa de _nh_ por exemplo em _inhabil inherente_ que
+se lÍ _in·bil inerente_. As palavras que principiam por _h_, compostas de
+_ad_ e _in_, affectam estas excepÁıes ao _nh_, e aquella forma _dh_, n„o
 havendo em rigor nem uma nem outra cousa. Como porem mal se pode fallar ao
-alumno em preposi√ß√µes, e n√£o deixava de convir _praticamente_ considerar a
-cousa como parece, a isso nos dispunhamos, cedendo depois √° verdade
+alumno em preposiÁıes, e n„o deixava de convir _praticamente_ considerar a
+cousa como parece, a isso nos dispunhamos, cedendo depois · verdade
 theorica.
 
 Os quadros alfabeticos assim talhados, pelas cinco vogaes, em outras tantas
-regras ou linhas, est√£o indicando as por√ß√µes em que se ha-de estudar o
-alfabeto. De alguma cousa havia de servir a posi√ß√£o alfabetica das vogaes.
-O alfabeto √© uma ordem puramente material; o seu estudo, aborrecido; e n√£o
-ha necessidade de molestar o alumno. Quantos ter√£o renunciado √° gloria de
+regras ou linhas, est„o indicando as porÁıes em que se ha-de estudar o
+alfabeto. De alguma cousa havia de servir a posiÁ„o alfabetica das vogaes.
+O alfabeto È uma ordem puramente material; o seu estudo, aborrecido; e n„o
+ha necessidade de molestar o alumno. Quantos ter„o renunciado · gloria de
 saber ler, pelo fastio invencivel dessa enfiada de nomes barbaros e
-desconnexos? √â verdade que no princ√≠pio, que √© quando o costumam ensinar, a
-essa desconnex√£o ajunta-se a absoluta ausencia de sentido; mas em todo o
+desconnexos? … verdade que no princÌpio, que È quando o costumam ensinar, a
+essa desconnex„o ajunta-se a absoluta ausencia de sentido; mas em todo o
 tempo a memoria se esquiva a encadear semelhante salsada.
 
 Se acceitais a nossa nomenclatura, alternai com o discipulo as vezes
@@ -2723,70 +2723,70 @@ necessarias, ou fazei repetir alternadamente os discipulos, accumulando de
 dia para dia os nomes decorados:
 
 
-  _√°_,  _b√™_,   _c√™qes_,      _d√™_;
+  _·_,  _bÍ_,   _cÍqes_,      _dÍ_;
 
-  _√©_,  _f√™_,   _j√™g_,        ag√°,
+  _È_,  _fÍ_,   _jÍg_,        ag·,
 
-  _√≠_,  _j√™_,   _k√™_ grego,   _l√™lh_,     _me_t√≠l,  _n√™nhe_t√≠l;
+  _Ì_,  _jÍ_,   _kÍ_ grego,   _lÍlh_,     _me_tÌl,  _nÍnhe_tÌl;
 
-  _√≥_,  _p√™f_,  _q√™_,         _r√™r_,      _sez√™z_,  _t√™_;
+  _Û_,  _pÍf_,  _qÍ_,         _rÍr_,      _sezÍz_,  _tÍ_;
 
-  _√∫_,  _v√™_,   _qce-cez√™z_,  _i_ grego,  _z√™z_.
+  _˙_,  _vÍ_,   _qce-cezÍz_,  _i_ grego,  _zÍz_.
 
 
-Adoptai esses nomes, que s√£o verdadeiros e methodicos: n√£o vos preoccupeis
+Adoptai esses nomes, que s„o verdadeiros e methodicos: n„o vos preoccupeis
 com o costume. O cozinheiro ri-se de ouvir chamar ao sal chlorureto de
 soda; os chimicos deixam-no rir.
 
-Mas antes do alfabeto damos uma li√ß√£o de esdruxulos, em que n√£o deixa de
+Mas antes do alfabeto damos uma liÁ„o de esdruxulos, em que n„o deixa de
 convir ensaiar o discipulo.
 
-N√≥s temos, em rela√ß√£o √° syllaba dominante, tres generos de palavras, que
-s√£o:
+NÛs temos, em relaÁ„o · syllaba dominante, tres generos de palavras, que
+s„o:
 
-  _Agudas_: onde se carrega na √∫ltima (ou unica) syllaba: _d√°_, _arroz_,
+  _Agudas_: onde se carrega na ˙ltima (ou unica) syllaba: _d·_, _arroz_,
   _fareis_.
 
   _Inteiras_: onde se carrega na penultima: _dado_, _arrozes_, _farieis_.
 
   _Esdruxulas_: onde se carrega na antepenultima: _esdruxulo_, _penultima_,
-  _√∫ltima_, _pallida_, etc.
+  _˙ltima_, _pallida_, etc.
 
-Os francezes n√£o teem estas melodiosas palavras. Os hespanhoes teem-nas, e
-com raz√£o accentuam sempre a vogal dominante. N√≥s que em materia de
-accentos s√≥ n√£o poupamos o _h_, continuamos a escrever _ultima_, _publica_,
+Os francezes n„o teem estas melodiosas palavras. Os hespanhoes teem-nas, e
+com raz„o accentuam sempre a vogal dominante. NÛs que em materia de
+accentos sÛ n„o poupamos o _h_, continuamos a escrever _ultima_, _publica_,
 _replica_, e o leitor que _tire pelo sentido_.
 
-Mais uma raz√£o para darmos uma li√ß√£o de esdruxulos ao principiante, que tem
-o sentido distrahido na decifra√ß√£o de caracteres, alguns t√£o duvidosos.
+Mais uma raz„o para darmos uma liÁ„o de esdruxulos ao principiante, que tem
+o sentido distrahido na decifraÁ„o de caracteres, alguns t„o duvidosos.
 
-Como acima alludimos aos elementos da lingua, e √© por elles que se h√£o de
+Como acima alludimos aos elementos da lingua, e È por elles que se h„o de
 classificar as letras, ahi os damos seguindo nos _toantes_ e _soantes_ a
-ordem f√≥nica em escala descendente, e quanto aos _mudos_ a ordem
+ordem fÛnica em escala descendente, e quanto aos _mudos_ a ordem
 fysiologica dos labios para a garganta. Para exercicio especialmente das
 maiusculas damos uma lenda vertida do francez.
 
 
-        {      _√°_, _√£_, _√¢_            }
-        { _√®_, _√©_, _e_, _√™_, _e_ grave }
-  Vozes {      _√≠_, _i_,      _i_  ¬ª    } Voz
-        {      _√≥_, _√µ_, _√¥_            }
-        {      _√∫_, _u_,      _u_  ¬ª    }
+        {      _·_, _„_, _‚_            }
+        { _Ë_, _È_, _e_, _Í_, _e_ grave }
+  Vozes {      _Ì_, _i_,      _i_  ª    } Voz
+        {      _Û_, _ı_, _Ù_            }
+        {      _˙_, _u_,      _u_  ª    }
 
                      { _rr_...}        {repique de lingua.
-            {Toantes { _j_... }        {lingua no ceo da b√¥ca.
+            {Toantes { _j_... }        {lingua no ceo da bÙca.
             {        { _z_... }  Voz e {dentes cerrados.
             {        { _v_... }        {labio inferior pegado aos
             {                          {  dentes de cima.
             {
             {
-            {        {_x_...}           {lingua no ceo da b√¥ca.
-            {Soantes {_c_...}  F√¥lego e {dentes cerrados.
+            {        {_x_...}           {lingua no ceo da bÙca.
+            {Soantes {_c_...}  FÙlego e {dentes cerrados.
             {        {_f_...}           {labio inferior pegado aos
             {                           {  dentes de cima.
             {
             {       { _m_ }
-  Inflex√µes {       { _b_ } Labios pegados.
+  Inflexıes {       { _b_ } Labios pegados.
             {       { _p_ }
             {       {
             {       { _d_ } Lingua nos dentes.
@@ -2794,7 +2794,7 @@ maiusculas damos uma lenda vertida do francez.
             {       {
             {Mudas..{ _r'_ }
                     { _l_  }
-                    { _lh_ }Lingua no ceo da b√¥ca.
+                    { _lh_ }Lingua no ceo da bÙca.
                     { _n_  }
                     { _nh_ }
                     {
@@ -2803,10 +2803,10 @@ maiusculas damos uma lenda vertida do francez.
 
   Pa|la|vras es|dru|xu|las
 
-  Pa|ssa|ro, d√∫|vi|da, n√∫|me|ro, h√≥s|pe|de, o|cu|lo, pres|ti|mo, sa|bba|do,
-  m√©|di|co, pol|vo|ra, la|gri|ma, pa|lli|do, c√©|le|bre, lam|pa|da,
-  ti|mi|do, ca|ma|ra, m√°|cu|la, pa|ro|cho, pe|ce|go, bar|ba|ro, c√°us|ti|co,
-  √∫l|ti|mo. Ki|lo|me|tros, re|lam|pa|gos, alfan|de|gas, te|le|gra|phos.
+  Pa|ssa|ro, d˙|vi|da, n˙|me|ro, hÛs|pe|de, o|cu|lo, pres|ti|mo, sa|bba|do,
+  mÈ|di|co, pol|vo|ra, la|gri|ma, pa|lli|do, cÈ|le|bre, lam|pa|da,
+  ti|mi|do, ca|ma|ra, m·|cu|la, pa|ro|cho, pe|ce|go, bar|ba|ro, c·us|ti|co,
+  ˙l|ti|mo. Ki|lo|me|tros, re|lam|pa|gos, alfan|de|gas, te|le|gra|phos.
   Con|dis|cipulo, ev|an|gelico.
 
     Al|pha|be|tos
@@ -2851,16 +2851,16 @@ maiusculas damos uma lenda vertida do francez.
       An|da|va um di|a
     Em pe|que|ni|no
     Nos a|rre|do|res
-    De Na|za|r√©,
+    De Na|za|rÈ,
     Em com|pa|nhi|a
-    De S√£o Jo|s√©
+    De S„o Jo|sÈ
     O Deus-Me|ni|no,
-    O Bom-Je|s√∫s.
-      Eis se|n√£o quan|do
-    V√™ num sil|va|do
+    O Bom-Je|s˙s.
+      Eis se|n„o quan|do
+    VÍ num sil|va|do
     An|dar pi|an|do
     A|rri|pi|a|do
-    E es|vo|a|√ßan|do
+    E es|vo|a|Áan|do
     Um rou|xi|nol,
     Que u|ma ser|pen|te
     De o|lhar de luz
@@ -2870,8 +2870,8 @@ maiusculas damos uma lenda vertida do francez.
     Co|mo di|a|man|te,
     Ti|nha a|ttra|hi|do,
     Ti|nha en|can|ta|do.
-      Je|s√∫s, do|√≠|do
-    Do des|gra|√ßa|do
+      Je|s˙s, do|Ì|do
+    Do des|gra|Áa|do
     Do pa|ssa|ri|nho,
     Sai do ca|mi|nho,
     Co|rre a|pre|ssa|do,
@@ -2881,29 +2881,29 @@ maiusculas damos uma lenda vertida do francez.
     O po|bre|si|nho,
     Sal|vo e con|ten|te,
     Rom|pe num can|to
-    T√£o re|que|bra|do,
+    T„o re|que|bra|do,
     Ou an|tes pran|to
-    T√£o so|lu|√ßa|do,
-    T√£o re|pa|ssa|do
-    De gra|ti|d√£o,
+    T„o so|lu|Áa|do,
+    T„o re|pa|ssa|do
+    De gra|ti|d„o,
     Du|ma a|le|gri|a,
-    U|ma ex|pan|s√£o,
+    U|ma ex|pan|s„o,
     U|ma ve|he|men|cia,
-    U|ma ex|pre|ss√£o,
+    U|ma ex|pre|ss„o,
     U|ma ca|den|cia,
     Que co|mmo|vi|a
-    O co|ra|√ß√£o!
-      Je|s√∫s ca|mi|nha,
+    O co|ra|Á„o!
+      Je|s˙s ca|mi|nha,
     No seu pa|ssei|o;
     E a a|ve|si|nha
     Con|ti|nu|an|do
     No seu gor|gei|o,
     Em quan|to o vi|a:
     De vez em quan|do
-    L√° lhe pa|ssa|va
-    √Å di|an|tei|ra,
+    L· lhe pa|ssa|va
+    ¡ di|an|tei|ra,
     E mal pou|sa|va
-    N√£o a|frou|xa|va
+    N„o a|frou|xa|va
     Nem re|pe|ti|a,
     Que re|do|bra|va
     De me|lo|di|a!
@@ -2916,8 +2916,8 @@ maiusculas damos uma lenda vertida do francez.
     Don|de mo|ra|va
     No|sso Se|nhor
     Em pe|que|ni|no,
-    (E|ra j√° cer|to|)
-    E|lla l√° es|ta|va
+    (E|ra j· cer|to|)
+    E|lla l· es|ta|va
     A po|bre a|ve
     Can|tan|do o hym|no
     Ter|no e su|a|ve
@@ -2933,64 +2933,64 @@ FIM DA CARTILHA MATERNAL
 NOTA
 
 
-O leitor p√≥de reparar em chamarmos √°s vogaes simplesmente _√°_, _√©_, _√≠_,
-_√≥_, _√∫_; e depois darmos √°s invogaes nomes compostos de todos os seus
-valores. A raz√£o daquella excep√ß√£o √© n√£o podermos sujeitar as vogaes ao
-mesmo systema de denomina√ß√µes; para o que basta ver que o _e_ tem oito
+O leitor pÛde reparar em chamarmos ·s vogaes simplesmente _·_, _È_, _Ì_,
+_Û_, _˙_; e depois darmos ·s invogaes nomes compostos de todos os seus
+valores. A raz„o daquella excepÁ„o È n„o podermos sujeitar as vogaes ao
+mesmo systema de denominaÁıes; para o que basta ver que o _e_ tem oito
 valores:
 
-  _e_, pena;            _√™_, d'este, d√™;
+  _e_, pena;            _Í_, d'este, dÍ;
 
-  _√®_, dez;             _√™i_, l√™a, negocea;
+  _Ë_, dez;             _Íi_, lÍa, negocea;
 
-  _√©_, deste;           _e_ (grave), ave;
+  _È_, deste;           _e_ (grave), ave;
 
-  _√©i_, id√©a;           _i_, ceou.
+  _Èi_, idÈa;           _i_, ceou.
 
-Tantos elementos vocaes n√£o se prestam a nome. E que regras podiamos n√≥s
+Tantos elementos vocaes n„o se prestam a nome. E que regras podiamos nÛs
 estabelecer a respeito de cada um delles?
 
 Mas accresce que o estylo da lingua leva o principiante a achar a
-oscilla√ß√£o da vogal mais facilmente que, entre os valores da invogal
-differentes e at√© heterogeneos, aquelle que convem.
+oscillaÁ„o da vogal mais facilmente que, entre os valores da invogal
+differentes e atÈ heterogeneos, aquelle que convem.
 
-E j√° que fallamos em regras, haveis de notar que a pag. 81, o _s_ figura
-nas duas √∫ltimas linhas dum modo n√£o comprehendido no di√°logo. Completai as
+E j· que fallamos em regras, haveis de notar que a pag. 81, o _s_ figura
+nas duas ˙ltimas linhas dum modo n„o comprehendido no di·logo. Completai as
 regras explicando como o _s_ tambem tem o primeiro valor entre vogal e
 invogal, e nas palavras compostas como _girasol_, _resalva_, etc., em
-occasi√£o opportuna.
+occasi„o opportuna.
 
 
 
 
 A pag. 31, e ainda mais provavelmente a pag. 91 haveis de extranhar a
-orthografia, em que damos a ler ao discipulo _pai_--_p√µi_, _disp√µis_.
+orthografia, em que damos a ler ao discipulo _pai_--_pıi_, _dispıis_.
 
-A respeito de _p√µi_ e _disp√µis_, o _i_ est√° indicado nos verbos. Todos
-escrevem _taes_, _atais_; _dedaes_, _dais_; _leaes_, _leais_ (verbo); n√£o
-ha pois raz√£o de analogia para escrever _caes_, _saes_ (verbos), em logar
-de _cais_, _sais_; nem _p√µe_, _disp√µes_ em logar de _p√µi_, _disp√µis_, que √©
-tambem mais conforme √° etymologia.
+A respeito de _pıi_ e _dispıis_, o _i_ est· indicado nos verbos. Todos
+escrevem _taes_, _atais_; _dedaes_, _dais_; _leaes_, _leais_ (verbo); n„o
+ha pois raz„o de analogia para escrever _caes_, _saes_ (verbos), em logar
+de _cais_, _sais_; nem _pıe_, _dispıes_ em logar de _pıi_, _dispıis_, que È
+tambem mais conforme · etymologia.
 
-Pelas mesmas raz√µes em nossa opini√£o √© preferivel escrever _pae_. Todavia
+Pelas mesmas razıes em nossa opini„o È preferivel escrever _pae_. Todavia
 ha em todos os espiritos e em todas as linguas duas palavras
 soberanas--_Deus_ e _pae_: tivemos pressa em que o discipulo lesse esta
-palavra t√£o frequente e t√£o amavel, antes da li√ß√£o do _e_ final, e n√£o
-tivemos d√∫vida em seguir aquella orthografia, ali√°s muito usada.
+palavra t„o frequente e t„o amavel, antes da liÁ„o do _e_ final, e n„o
+tivemos d˙vida em seguir aquella orthografia, ali·s muito usada.
 
 
 
 
-A √∫ltima palavra a pag. 39 devia estar accentuada; p√≥de-se ler _t√¥ldo_ e
-_t√≥ldo_. Preferindo o mais usual, convem tra√ßar √° penna o accento
-circumflexo, que escapou; mas vai na reproduc√ß√£o litographica em ponto
-grande das li√ß√µes da Cartilha.
+A ˙ltima palavra a pag. 39 devia estar accentuada; pÛde-se ler _tÙldo_ e
+_tÛldo_. Preferindo o mais usual, convem traÁar · penna o accento
+circumflexo, que escapou; mas vai na reproducÁ„o litographica em ponto
+grande das liÁıes da Cartilha.
 
 
-Declara√ß√£o
+DeclaraÁ„o
 
-√â comproprietario desta obra, no Brazil, A. A. Lopes do Couto, _Livraria
-Luso-Brazileira_, rua da Quitanda, n.¬∫ 24, Rio de Janeiro.
+… comproprietario desta obra, no Brazil, A. A. Lopes do Couto, _Livraria
+Luso-Brazileira_, rua da Quitanda, n.∫ 24, Rio de Janeiro.
 
 FIM DA NOTA
 
@@ -3000,7 +3000,7 @@ FIM DA NOTA
 
 
 
-End of the Project Gutenberg EBook of Cartilha Maternal, by Jo√£o de Deus
+End of the Project Gutenberg EBook of Cartilha Maternal, by Jo„o de Deus
 
 *** END OF THIS PROJECT GUTENBERG EBOOK CARTILHA MATERNAL ***
 
@@ -3008,8 +3008,8 @@ End of the Project Gutenberg EBook of Cartilha Maternal, by Jo√£o de Deus
 This and all associated files of various formats will be found in:
         http://www.gutenberg.org/4/6/3/3/46334/
 
-Produced by J√∫lio Reis, Keith Edkins, Biblioteca Municipal
-de Alcoba√ßa and the Online Distributed Proofreading Team
+Produced by J˙lio Reis, Keith Edkins, Biblioteca Municipal
+de AlcobaÁa and the Online Distributed Proofreading Team
 at http://www.pgdp.net
 
 

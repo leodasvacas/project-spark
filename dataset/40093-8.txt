@@ -1,5 +1,5 @@
 The Project Gutenberg EBook of Memoria sobre a cultura da Urumbeba e sobre
-cria√ß√£o da Cochonilha, by Claude-Louis Berthollet
+criaÁ„o da Cochonilha, by Claude-Louis Berthollet
 
 This eBook is for the use of anyone anywhere at no cost and with
 almost no restrictions whatsoever.  You may copy it, give it away or
@@ -7,7 +7,7 @@ re-use it under the terms of the Project Gutenberg License included
 with this eBook or online at www.gutenberg.org/license
 
 
-Title: Memoria sobre a cultura da Urumbeba e sobre cria√ß√£o da Cochonilha
+Title: Memoria sobre a cultura da Urumbeba e sobre criaÁ„o da Cochonilha
 
 Author: Claude-Louis Berthollet
 
@@ -22,7 +22,7 @@ Character set encoding: ISO-8859-1
 
 
 
-Produced by Rita Farinha, Alberto Manuel Brand√£o Sim√µes
+Produced by Rita Farinha, Alberto Manuel Brand„o Simıes
 and the Online Distributed Proofreading Team at
 http://www.pgdp.net (This file was produced from images
 generously made available by National Library of Portugal
@@ -45,7 +45,7 @@ MEMORIA
 SOBRE A CULTURA
 DA
 URUMBEBA,
-E SOBRE A CRIA√á√ÉO
+E SOBRE A CRIA«√O
 DA
 COCHONILHA.
 
@@ -53,7 +53,7 @@ EXTRAHIDA
 
 POR M. BERTHOLET
 
-Das Observa√ß√µes feitas em Guaxaca.
+Das ObservaÁıes feitas em Guaxaca.
 
 POR
 
@@ -65,12 +65,12 @@ E ORDEM
 DE SUA ALTEZA REAL
 O
 PRINCIPE N. SENHOR,
-_Por Fr. Jos√© Marianno da Concei√ß√£o
+_Por Fr. JosÈ Marianno da ConceiÁ„o
 Velloso._
 
 
 LISBOA. M. DCC. XCIX.
-Na Of. de Sim√£o Thaddeo Ferreira.
+Na Of. de Sim„o Thaddeo Ferreira.
 
 
 
@@ -80,53 +80,53 @@ SENHOR
 
 _O Extracto, que tenho a honra de apresentar a V. ALTEZA REAL, foi feito
 por M. Bertholet, Chymico Francez, de outra obra maior, composta por M.
-Menonville, que cont√©m o resultado das suas Observa√ß√µes sobre a cultura
-do Nopal, como cham√£o os Mexicanos; ou da Urumbeba, como cham√£o os
-Brasilianos, e igualmente sobre a cria√ß√£o do Insecto da Cochonilha,
-quando s√≥ pelo fim de os examinar, e de os estabelecer em a Ilha de S.
+Menonville, que contÈm o resultado das suas ObservaÁıes sobre a cultura
+do Nopal, como cham„o os Mexicanos; ou da Urumbeba, como cham„o os
+Brasilianos, e igualmente sobre a criaÁ„o do Insecto da Cochonilha,
+quando sÛ pelo fim de os examinar, e de os estabelecer em a Ilha de S.
 Domingos emprehendeo em 1777 a viagem a Guaxaca no interior do Mexico,
-auxiliado das gra√ßas do seu respectivo Soberano. Este mesmo extracto
-cont√©m o juizo que por Ordem Ministerial fizer√£o os Chymicos Francezes,
+auxiliado das graÁas do seu respectivo Soberano. Este mesmo extracto
+contÈm o juizo que por Ordem Ministerial fizer„o os Chymicos Francezes,
 Bertholet, Desmarest, Fougeroux, o Abbade Tessier da Cochonilha, que o
 mesmo Naturalista estabeleceo em S. Domingos, a pezar da nenhuma
-correspondencia que tiver√£o os seus trabalhos._
+correspondencia que tiver„o os seus trabalhos._
 
 _Espero que, sendo esta Memoria espalhada pelo Brasil, e particularmente
-pelos p√≥vos de Beira mar, que possuem tantos tratos arenosos, inuteis a
+pelos pÛvos de Beira mar, que possuem tantos tratos arenosos, inuteis a
 toda outra planta, excepto esta, haja de produzir hum maravilhoso
 effeito no commercio Nacional, pela grande falta que se experimenta
-deste genero, assim na Europa, como na Asia. Que ella se d√™ bem nas
+deste genero, assim na Europa, como na Asia. Que ella se dÍ bem nas
 areias, he hum facto da nossa Agricultura do Brasil; pois governando o
 Rio de Janeiro o Excellentissimo Luiz de Vasconcellos e Sousa, animou
-tanto a sua cultura nas freguezias que fic√£o pela praia ao N√≥rte da
-mesma Cidade, isto he, Taip√∫, Maric√°, Saquarema, e Yraruama, de que se
-lembra a Rela√ß√£o do Inglez Stauton, que n√£o s√≥ chegou a mandar grandes
+tanto a sua cultura nas freguezias que fic„o pela praia ao NÛrte da
+mesma Cidade, isto he, Taip˙, Maric·, Saquarema, e Yraruama, de que se
+lembra a RelaÁ„o do Inglez Stauton, que n„o sÛ chegou a mandar grandes
 partidas para este Reino, compradas pela Real Fazenda, como tambem a dar
-hum tom de vida a estes ichthiophagos p√≥vos, que s√≥ vivi√£o dos peixes
-que pesc√£o nas grandes lagoas, em cujas margens est√£o aquellas
+hum tom de vida a estes ichthiophagos pÛvos, que sÛ vivi„o dos peixes
+que pesc„o nas grandes lagoas, em cujas margens est„o aquellas
 freguezias, e os vendem na Cidade. A longitude de 18 leguas, que ha
-entre as duas Cidades de S√£o Sebasti√£o e da Assump√ß√£o de Cabo Frio, sem
+entre as duas Cidades de S„o Sebasti„o e da AssumpÁ„o de Cabo Frio, sem
 contar o mais, e menos da largura, como roubada pela enfiada de lagoas,
-que se poderi√£o cortar, e fazer navegaveis at√© ao Rio, sendo coberta de
-Urumbebaes, plantados, e cultivados em regra, quanta riqueza n√£o
-deveri√£o esperar de hum semelhante estabelecimento?
+que se poderi„o cortar, e fazer navegaveis atÈ ao Rio, sendo coberta de
+Urumbebaes, plantados, e cultivados em regra, quanta riqueza n„o
+deveri„o esperar de hum semelhante estabelecimento?
 
 A latitude do Rio de Janeiro ao Sul, he a mesma do Mexico ao Norte.
-Deste se export√£o todos os annos 880 mil arrateis, os quaes, segundo
-sabios calculadores Negociantes Hollandezes, lhe deix√£o o lucro de 15
-milh√µes, e 50,690 libras Francezas. O que obrigou a dizer a hum Francez
-estas notaveis palavras. Este he o melhor elogio que se p√≥de fazer dos
-cadaveres de insectos: ao qual se p√≥de ajuntar: que elles s√£o para o
-Mexico huma riqueza mais segura que as suas minas de prata: pois se d√£o
-muitos paizes, em que este metal abunda, e s√≥ o Mexico produz a
-Cochonilha. Se as latitudes s√£o as mesmas, porque n√£o rivalizaremos
-aquella rica produc√ß√£o? Isto ser√° devido aos cuidados de V. ALTEZA REAL.
+Deste se export„o todos os annos 880 mil arrateis, os quaes, segundo
+sabios calculadores Negociantes Hollandezes, lhe deix„o o lucro de 15
+milhıes, e 50,690 libras Francezas. O que obrigou a dizer a hum Francez
+estas notaveis palavras. Este he o melhor elogio que se pÛde fazer dos
+cadaveres de insectos: ao qual se pÛde ajuntar: que elles s„o para o
+Mexico huma riqueza mais segura que as suas minas de prata: pois se d„o
+muitos paizes, em que este metal abunda, e sÛ o Mexico produz a
+Cochonilha. Se as latitudes s„o as mesmas, porque n„o rivalizaremos
+aquella rica producÁ„o? Isto ser· devido aos cuidados de V. ALTEZA REAL.
 
-Ultimamente ser√° esta obra precursora da mesma de M. de Menonville, que
-fica j√° no prelo, e vai enriquecida de duas Monographias com figuras;
+Ultimamente ser· esta obra precursora da mesma de M. de Menonville, que
+fica j· no prelo, e vai enriquecida de duas Monographias com figuras;
 huma da grande familia dos Cactos; e outra dos progalinsectos, chamados
-Cochonilhas, ou Coccos, e dos que lhe s√£o affins, em ambas se achar√°√µ
-especies novas ainda n√£o descriptas; a qual far√° a III. Parte do II.
+Cochonilhas, ou Coccos, e dos que lhe s„o affins, em ambas se achar·ı
+especies novas ainda n„o descriptas; a qual far· a III. Parte do II.
 Tomo do Fazendeiro do Brasil,_
 
 Beija o Supedaneo do Real Throno
@@ -135,7 +135,7 @@ _DE V. ALTEZA REAL_
 
 o mais humilde Vassallo
 
-_Fr. Jos√© Marianno da Concei√ß√£o Velloso._
+_Fr. JosÈ Marianno da ConceiÁ„o Velloso._
 
 
 
@@ -154,7 +154,7 @@ URUMBEBA,
 
 Cactus _Coccinillifer_,
 
-E CRIA√á√ÉO DA
+E CRIA«√O DA
 
 COCHONILHA.
 
@@ -162,85 +162,85 @@ Coccus _Cacti_.
 
 
 O Extracto desta obra parece estranho ao fim, que se propoz, quando se
-publicou esta collec√ß√£o; mas a Cochonilha he hum objecto de tanta
-importancia ao commercio, e de tanto interesse √°s Artes, que n√£o deve
-ser indifferente a aquisi√ß√£o dos seus costumes, e dos cuidados, que
-requer a sua cria√ß√£o.
+publicou esta collecÁ„o; mas a Cochonilha he hum objecto de tanta
+importancia ao commercio, e de tanto interesse ·s Artes, que n„o deve
+ser indifferente a aquisiÁ„o dos seus costumes, e dos cuidados, que
+requer a sua criaÁ„o.
 
-Al√©m deste me obrigou outro motivo, o qual foi, ter achado nesta obra os
-fructos de huma generosa empreza, feita totalmente s√≥ pelo ardor de
-enriquecer as nossas Colonias de hum dom da natureza, o qual huma Na√ß√£o
+AlÈm deste me obrigou outro motivo, o qual foi, ter achado nesta obra os
+fructos de huma generosa empreza, feita totalmente sÛ pelo ardor de
+enriquecer as nossas Colonias de hum dom da natureza, o qual huma NaÁ„o
 estranha monopoliza.
 
-Tendo os Hespanhoes observado que os Indios do Mexico se servi√£o deste
-insecto, para pintarem as suas casas, e tingirem os seus algod√µes,
-attrahidos da belleza desta c√¥r inform√°r√£o a seu respeito o Ministerio,
-que passou ordens a Cortes em 1523. de promover a multiplica√ß√£o deste
+Tendo os Hespanhoes observado que os Indios do Mexico se servi„o deste
+insecto, para pintarem as suas casas, e tingirem os seus algodıes,
+attrahidos da belleza desta cÙr inform·r„o a seu respeito o Ministerio,
+que passou ordens a Cortes em 1523. de promover a multiplicaÁ„o deste
 precioso insecto.
 
-Reamur propoz ao Regente de Fran√ßa o transferir-se a Cochonilha para as
-nossas Colonias; mas este projecto n√£o teve a sua devida execu√ß√£o. M.
+Reamur propoz ao Regente de FranÁa o transferir-se a Cochonilha para as
+nossas Colonias; mas este projecto n„o teve a sua devida execuÁ„o. M.
 Thiery de Menonville, concebendo o novamente, sem se assustar dos
-empecilhos, que o poderi√£o embara√ßar, apenas acceitou a metade da
-consigna√ß√£o feita a este fim, isto he, 2 mil libras, reservando a outra
+empecilhos, que o poderi„o embaraÁar, apenas acceitou a metade da
+consignaÁ„o feita a este fim, isto he, 2 mil libras, reservando a outra
 ametade, outras 2 mil, para que, no caso que, por qualquer impedimento,
 visse frustrada esta sua primeira diligencia, podesse por huma segunda
 conseguir o seu proposto, e premeditado fim. Elle (conforme disse) se
-contentaria de sustentar a sua vida com p√£o, e agua.
+contentaria de sustentar a sua vida com p„o, e agua.
 
 Embarcou-se aos 21 de Janeiro de 1777 em o Porto do Principe, parando em
 Habana, chegou a Vera Cruz. Aqui se informou de que Guaxaca era o Lugar,
 em que a melhor Cochonilha se criava. Nada mais foi necessario para o
-decidir √° empreza desta viagem. Mas, como Guaxaca lhe ficava em
-distancia de 70 leguas, e se n√£o pode chegar a ella sem trepar montanhas
+decidir · empreza desta viagem. Mas, como Guaxaca lhe ficava em
+distancia de 70 leguas, e se n„o pode chegar a ella sem trepar montanhas
 inaccessiveis pela sua altura, atravessar rios caudalosos, e arriscados,
-e em huma palavra, s√≥ por caminhos pessimos: af√≥ra isto ainda tinha de
+e em huma palavra, sÛ por caminhos pessimos: afÛra isto ainda tinha de
 vencer o illudir a vigilancia dos multiplicados Satellites, e a
 desassocegada espreita dos Governadores: nada disto, nem do Fysico, nem
-do Politico o intimida, e o faz parar: bem que se veja na precis√£o de
+do Politico o intimida, e o faz parar: bem que se veja na precis„o de
 empregar toda a sua manha nesta obra, quanta deve ter hum empreiteiro de
 natureza, ou politica, ou criminal. Principia pelos obsequiar
-sobremaneira a fim de os interessar. Rebu√ßa o seu projecto com o gosto,
+sobremaneira a fim de os interessar. RebuÁa o seu projecto com o gosto,
 e ardor que tinha pela Botanica, e com a necessidade, em que se via,
-pela sua m√° saude, de tomar banhos no rio da Magdalena distante de Vera
+pela sua m· saude, de tomar banhos no rio da Magdalena distante de Vera
 Cruz algumas leguas. Mas, tomando caminho de Guaxaca, vio pela primeira
-vez a Cochonilha em Galatillan: palpita-lhe de alegria o cora√ß√£o; e logo
-se v√™ accommettido de reflex√µes amargurosas, que se entremistur√°r√£o com
+vez a Cochonilha em Galatillan: palpita-lhe de alegria o coraÁ„o; e logo
+se vÍ accommettido de reflexıes amargurosas, que se entremistur·r„o com
 a embriaguez, ou transporte, em que se via. Como, dizia elle, poderei eu
-transportar hum animal t√£o debil, t√£o sujeito a machucar-se, e que, a
-primeira vez que cahir, se n√£o apegar√° mais a sua planta! He impossivel
-que os abalos da cavalgadura em huma viagem de terra t√£o comprida n√£o os
+transportar hum animal t„o debil, t„o sujeito a machucar-se, e que, a
+primeira vez que cahir, se n„o apegar· mais a sua planta! He impossivel
+que os abalos da cavalgadura em huma viagem de terra t„o comprida n„o os
 acabe? Como poderei carregar as volumosas plantas, sobre que elles
-vivem? Como poderei eu isentallos das indaga√ß√µes, a que est√£o sujeitos?
+vivem? Como poderei eu isentallos das indagaÁıes, a que est„o sujeitos?
 
-Logo que chegou a Guaxaca, comprou caix√µes no paiz cubertos de
+Logo que chegou a Guaxaca, comprou caixıes no paiz cubertos de
 Cochonilha, com pretexto de lhe serem necessarias para hum remedio
 contra a gotta. Misturou com as Urumbebeiras outras plantas, e teve a
-felicidade de as poder trazer comsigo; porque julgar√£o que er√£o
-futilidades, que s√≥ podi√£o interessar a hum botanico. Soffreo na sua
+felicidade de as poder trazer comsigo; porque julgar„o que er„o
+futilidades, que sÛ podi„o interessar a hum botanico. Soffreo na sua
 viagem do mar hum grande temporal, que o obrigou a fundear em Campeche,
-donde elle apanhou plantas de hum Cacto, que p√≥de servir de sustento a
+donde elle apanhou plantas de hum Cacto, que pÛde servir de sustento a
 Cochonilha, e aportou em Porto do Principe aos 25 de Setembro do mesmo
 anno.
 
 Empregou toda a sua actividade em estabelecer hum urumbebal, e em
-aprender os cuidados, que requer a cria√ß√£o das duas especies de
+aprender os cuidados, que requer a criaÁ„o das duas especies de
 Cochonilhas. Conhecia que a Cochonilha silvestre, ou bravia se criava em
 huma especie de urumbeba na mesma Ilha de S. Domingos.
 
-Mas sua alma altiva, offendida, e ulcerada de ver que hum t√£o relevante
-servi√ßo, como o que acabava de fazer, era tido em pouca monta, e como
-tal, muito mal correspondido, finalizou os seus dias de huma paix√£o em
+Mas sua alma altiva, offendida, e ulcerada de ver que hum t„o relevante
+serviÁo, como o que acabava de fazer, era tido em pouca monta, e como
+tal, muito mal correspondido, finalizou os seus dias de huma paix„o em
 1780.
 
 O circulo dos Filadelfos, que a nenhuma outra circumstancia deve o seu
-estabelecimento, sen√£o ao desejo de fazer uteis as nossas Sciencias a S.
-Domingos, ajunt√°r√£o os seus papeis, e os fizer√£o imprimir, e destes he,
+estabelecimento, sen„o ao desejo de fazer uteis as nossas Sciencias a S.
+Domingos, ajunt·r„o os seus papeis, e os fizer„o imprimir, e destes he,
 que eu agora tenho a honra de apresentar este resumo, ou Extracto,
-cingindo-me t√£o s√≥mente ao que diz respeito √° Cochonilha, e √°s
+cingindo-me t„o sÛmente ao que diz respeito · Cochonilha, e ·s
 urumbebas, que lhe servem de sustento.
 
-Eu come√ßarei, como o Author, fazendo conhecer as Urumbebas: ao depois
+Eu comeÁarei, como o Author, fazendo conhecer as Urumbebas: ao depois
 passarei a fallar das duas especies de Cochonilhas: finalmente
 descreverei as experiencias comparativas, que fiz das duas Cochonilhas
 fina, ou metesca, e a Cochonilhas bravia do Mexico, e da que se cria em
@@ -252,315 +252,315 @@ Cactos.
 
 A Urumbeba he huma familia de plantas, muito numerosa em individuos; e
 particular d'America. Esta planta penetra a terra com huma raiz mestra
-mui profundamente; e ao mesmo tempo espalha quasi a fl√¥r da mesma muitas
+mui profundamente; e ao mesmo tempo espalha quasi a flÙr da mesma muitas
 raizes fibrosas, horizontaes, e de rojo, apenas enterradas huma
 pollegada. O seu verdor goza de varios matizes, segundo as suas diversas
 especies: a substancia he tenrissima, e carnosa, mas volta-se em hum
-durissimo lenho √° for√ßa da velhice. He cheia do huma seiba mucilaginosa,
+durissimo lenho · forÁa da velhice. He cheia do huma seiba mucilaginosa,
 que algumas vezes se extravasa, como uma gomma opaca, farinhosa, branca,
 ou amarella, que promptamente se enrija, e se dissolve como a gomma; mas
-que tem menor viscosidade, e tenacidade: suas hastes, ou t√°los se
-levant√£o em arvores pelo nascimento successivo de outras hastes, que
-sahem humas de outras, como ensartadas, ou unidas por articula√ß√µes, mas
-a apparente solu√ß√£o de continuidade se desfaz pela idade da planta, e
-todas estas articula√ß√µes desapparecem pelo crescimento das partes, de
-modo que as articula√ß√µes dos Cactos, que s√£o espalmados, ou chatos, se
-enchem, e se arredond√£o em troncos de arvore, em a qual se n√£o distingue
-mais o menor rasto, ou signal do seu nascimento, da sua f√≥rma primitiva,
-da posi√ß√£o de humas a respeito de outras. D√£o-se arvores destas, que
-cheg√£o a ter seis p√©s de circumferencia, e trinta ou quarenta de altura.
+que tem menor viscosidade, e tenacidade: suas hastes, ou t·los se
+levant„o em arvores pelo nascimento successivo de outras hastes, que
+sahem humas de outras, como ensartadas, ou unidas por articulaÁıes, mas
+a apparente soluÁ„o de continuidade se desfaz pela idade da planta, e
+todas estas articulaÁıes desapparecem pelo crescimento das partes, de
+modo que as articulaÁıes dos Cactos, que s„o espalmados, ou chatos, se
+enchem, e se arredond„o em troncos de arvore, em a qual se n„o distingue
+mais o menor rasto, ou signal do seu nascimento, da sua fÛrma primitiva,
+da posiÁ„o de humas a respeito de outras. D„o-se arvores destas, que
+cheg„o a ter seis pÈs de circumferencia, e trinta ou quarenta de altura.
 
-As articula√ß√µes, ou ramos, que nascem em lan√ßamentos cylindricos nos
+As articulaÁıes, ou ramos, que nascem em lanÁamentos cylindricos nos
 Cacteiros _Opuncias_, trazem nos ultimos, por hum ou dous mezes,
 folhinhas conicas, curvas, de huma ou duas linhas de alto, dispostas em
 quinconce, sobre linhas paralellas. Na axila destas folhinhas se acha
-posto hum feixe de sedas innumeraveis, subsistentes, quebradi√ßas, mais,
-ou menos sahidas, espalhadas nos dous lados da articula√ß√£o achatada. Ao
-redor deste feixe se v√™ em todos os Cactos achatados, √° propor√ß√£o da sua
+posto hum feixe de sedas innumeraveis, subsistentes, quebradiÁas, mais,
+ou menos sahidas, espalhadas nos dous lados da articulaÁ„o achatada. Ao
+redor deste feixe se vÍ em todos os Cactos achatados, · proporÁ„o da sua
 maior, ou menor cultura, 1, 2, 3, e ainda 12 espinhos de differentes
 cores, regulados estes pelas suas differentes especies, compridos de 6
-at√© 30 linhas, agudos, s√≥lidos, perigosissimos, quando pungem, e
+atÈ 30 linhas, agudos, sÛlidos, perigosissimos, quando pungem, e
 dispostos em rosa, ou em molhos: do centro destes, e do feixe das sedas
-se v√™ sahir indifferentemente, ou a fl√¥r, ou o garfo, que ha de
-continuar a haste. As sedas, que se enfeix√£o, nada mais s√£o que as
+se vÍ sahir indifferentemente, ou a flÙr, ou o garfo, que ha de
+continuar a haste. As sedas, que se enfeix„o, nada mais s„o que as
 pontas dos espinhos das axillas das flores, ou dos garfos futuros, que
-j√° se ach√£o, como em resumo, debaixo destes pontos quinconceaes armados
-de 2, 3, ou 20 espinhos da seiba precedente, e ellas far√£o, ao chegar a
+j· se ach„o, como em resumo, debaixo destes pontos quinconceaes armados
+de 2, 3, ou 20 espinhos da seiba precedente, e ellas far„o, ao chegar a
 sua vez na seiba seguinte, o officio dos espinhos, que antecedentemente
 tem existido.
 
 As flores sahem do topo de hum calis armado das mesmas sedas, e espinhos
-que os garfos: s√£o brancas, vermelhas, amarellas, purpureas, carmezins,
-conf√≥rme as differentes especies: tem de 2 linhas at√© 6 pollegadas de
-grandeza. Os petalos tem algumas vezes o n√∫mero de 10, 12, 18, redondos,
+que os garfos: s„o brancas, vermelhas, amarellas, purpureas, carmezins,
+confÛrme as differentes especies: tem de 2 linhas atÈ 6 pollegadas de
+grandeza. Os petalos tem algumas vezes o n˙mero de 10, 12, 18, redondos,
 ovados, oblongos, farpados, acuminados, algumas vezes mui abertos outras
-fechados, ou conniventes, passando, atrav√©z delles os estames, e
-pistillo, que os excede em longura, e talvez menores. Os Estames s√£o aos
+fechados, ou conniventes, passando, atravÈz delles os estames, e
+pistillo, que os excede em longura, e talvez menores. Os Estames s„o aos
 centos, os filamentos em fio, algumas vezes deitados: a Anthera oblonga,
-e amarella, de huma grossura dobrada do filamento. O Estigma √°s vezes em
-f√≥rma de prego com a cabe√ßa, ou topo fendido em tres, seis, ou mais
+e amarella, de huma grossura dobrada do filamento. O Estigma ·s vezes em
+fÛrma de prego com a cabeÁa, ou topo fendido em tres, seis, ou mais
 partes.
 
-Cahidas as partes da fl√¥r, s√≥ fica o calis com o germe: o calis se
-transf√≥rma em huma baga oblonga, oval, muitas vezes redonda, como hum
+Cahidas as partes da flÙr, sÛ fica o calis com o germe: o calis se
+transfÛrma em huma baga oblonga, oval, muitas vezes redonda, como hum
 pomo, unilocular, cheia de polpa, que, quando madura, he branca,
 amarella, vermelha, carmezim, morada, purpurea, parda, ou verde,
-regulada pelas suas differentes especies. Aninh√£o-se nesta polpa as
+regulada pelas suas differentes especies. Aninh„o-se nesta polpa as
 sementes, que tem a figura de hum rim, maiores que lentilhas, cobertas
-de huma casca negra, parda, esmigalhadi√ßa, costracea, e cheia de hum p√≥
+de huma casca negra, parda, esmigalhadiÁa, costracea, e cheia de hum pÛ
 branquissimo.
 
 M. Linne ajuntou no Genero _Cactus_ as plantas que Tournefort chamou
 _Melocactus opuntia_, as que Dillenio chamou _Tuna_, e as que Plumier
-chama _Pereschia_. Dividio este genero em tantas Sec√ß√µes, quantas er√£o
-as suas figuras exteriores, pela singularidade de suas differen√ßas,
-conservando a cada huma destas plantas na sua Sec√ß√£o o nome especifico
-dos AA., que se acab√£o de nomear: por tanto dividio o genero dos Cactos
-em oiri√ßados, cacteiros mel√µes, cirios angulosos rectos, cirios
+chama _Pereschia_. Dividio este genero em tantas SecÁıes, quantas er„o
+as suas figuras exteriores, pela singularidade de suas differenÁas,
+conservando a cada huma destas plantas na sua SecÁ„o o nome especifico
+dos AA., que se acab„o de nomear: por tanto dividio o genero dos Cactos
+em oiriÁados, cacteiros melıes, cirios angulosos rectos, cirios
 angulosos de lastro, ou de rojo, e em opuncias, ou comprimidos, e de
 artigos proliferos.
 
-Nesta Sec√ß√£o ultima he, que se ach√£o os Cactos, em que at√© aqui se
-encontra a Cochonilha bravia, e nos que se p√≥de criar a fina. Cont√©m hum
-grande n√∫mero de especies muito differentes de todas, as que tem sido
-descritas pelos Botanicos; por√©m o A. n√£o teve tempo, nem liberdade, de
+Nesta SecÁ„o ultima he, que se ach„o os Cactos, em que atÈ aqui se
+encontra a Cochonilha bravia, e nos que se pÛde criar a fina. ContÈm hum
+grande n˙mero de especies muito differentes de todas, as que tem sido
+descritas pelos Botanicos; porÈm o A. n„o teve tempo, nem liberdade, de
 as descrever, nem meios de as trazer comsigo do Mexico. Por tanto
-hiremos s√≥mente apontar as especies, cujo conhecimento he mais
-interessante em raz√£o da sua rela√ß√£o com a Cochonilha.
+hiremos sÛmente apontar as especies, cujo conhecimento he mais
+interessante em raz„o da sua relaÁ„o com a Cochonilha.
 
-A Tuna de Dillenio, a qual os Hespanhoes de Vera Cruz cham√£o Tuna, e os
-Colonos de S. Domingos cham√£o Raquetas da borda do mar. (_Raquetes des
-bords de mer._) rara vez cresce em arvore: as suas articula√ß√µes s√£o
-s√≥lidas, espessas, rijas, de hum verde gaio, tirante a verde mar: seus
-espinhos amarellos. Continuamente se v√™m nellas em Vera Cruz as
+A Tuna de Dillenio, a qual os Hespanhoes de Vera Cruz cham„o Tuna, e os
+Colonos de S. Domingos cham„o Raquetas da borda do mar. (_Raquetes des
+bords de mer._) rara vez cresce em arvore: as suas articulaÁıes s„o
+sÛlidas, espessas, rijas, de hum verde gaio, tirante a verde mar: seus
+espinhos amarellos. Continuamente se vÍm nellas em Vera Cruz as
 Cochonilhas silvestres.
 
 A _Pereschia_, conhecida em S. Domingos pelo nome _pata de Tartaruga_,
-existe no Mole de S. Nicol√°o, e na planicie de _Cul de Sac_ de S.
+existe no Mole de S. Nicol·o, e na planicie de _Cul de Sac_ de S.
 Domingos: he muito espinhosa, e da idade de 3 ou 4 annos se faz huma
-arvore: suas articula√ß√µes s√£o menores que as das outras, mas o tronco he
-provido de formidaveis espinhos, que s√£o muito mais compridos, e em
+arvore: suas articulaÁıes s„o menores que as das outras, mas o tronco he
+provido de formidaveis espinhos, que s„o muito mais compridos, e em
 maior quantidade que os da Tuna. A Cochonilha silvestre se acha sobre
 esta Opuncia, e sobre ella foi, que o Author a descobrio em S. Domingos
 no seu regresso do Mexico. Ella a prefere a Tuna; pelo facto de S.
 Domingos, onde abandonou a ultima.
 
 O Author trouxe de Campeche huma especie de Opuncia commua em as
-Antilhas: este Cacto he pouco armado nas suas articula√ß√µes, e nos garfos
-tem hum, ou dous espinhos: as novas articula√ß√µes rara vez os tem: s√£o
+Antilhas: este Cacto he pouco armado nas suas articulaÁıes, e nos garfos
+tem hum, ou dous espinhos: as novas articulaÁıes rara vez os tem: s„o
 oblongas, perfeitamente lisas, de hum verde sombrio, e mui lustroso nas
-adultas, e de hum verde claro nas articula√ß√µes novas: Cresce como
+adultas, e de hum verde claro nas articulaÁıes novas: Cresce como
 arvore. A Cochonilha silvestre se cria muito bem nesta Opuncia, que tem
 a mesma vantagem de poder tambem criar a Cochonilha fina, quando se
-pertende s√≥mente semealla, ou entretella: porque nella se multiplica
+pertende sÛmente semealla, ou entretella: porque nella se multiplica
 muito pouco, para que se possa ter em vista fazer alguma colheita em
 termos.
 
-A _Opuncia_, que os Colonos cham√£o Raqueta Hespanhola, he huma grande
+A _Opuncia_, que os Colonos cham„o Raqueta Hespanhola, he huma grande
 especie, articulada, em forma ovada, cujas hastes crescem em arvore;
-seus garfos s√£o s√≥mente armados de seda, com hum, dous, ou tres espinhos
+seus garfos s„o sÛmente armados de seda, com hum, dous, ou tres espinhos
 curtos. A Cochonilha silvestre se cria muito bem sobre esta especie de
 Opuncia.
 
-O Author d√° o nome de _Nopal_ silvestre a huma Opuncia, que he a especie
-dominante nos campos do Mexico: levanta-se em arbustos de 18 a 20 p√©s de
-alto: suas articula√ß√µes s√£o redondas na cabe√ßa; e todos os garfos
-armados de rosas de espinhos brancos, curtos, que se entrela√ß√£o huns com
-outros, e embara√ß√£o absolutamente applicarem-se os dedos na superficie
-desta articula√ß√£o. Esta especie serve muito bem de sustento √° Cochonilha
+O Author d· o nome de _Nopal_ silvestre a huma Opuncia, que he a especie
+dominante nos campos do Mexico: levanta-se em arbustos de 18 a 20 pÈs de
+alto: suas articulaÁıes s„o redondas na cabeÁa; e todos os garfos
+armados de rosas de espinhos brancos, curtos, que se entrelaÁ„o huns com
+outros, e embaraÁ„o absolutamente applicarem-se os dedos na superficie
+desta articulaÁ„o. Esta especie serve muito bem de sustento · Cochonilha
 silvestre.
 
-As Opuncias, que sustent√£o melhor a Cochonilha, que as precedentes, s√£o
+As Opuncias, que sustent„o melhor a Cochonilha, que as precedentes, s„o
 a verdadeira Urumbeba do Jardim do Mexico, e a Urumbeba de Castella; a
 Cochonilha silvestre nella fica tamanha, como a Cochonilha fina, e he
 nella menos algodoenta que nas outras especies de Cacteiros: o seu
-algod√£o he t√£o bem menos tenaz, mais fr√¥xo, e mais espalhado.
+algod„o he t„o bem menos tenaz, mais frÙxo, e mais espalhado.
 
-A Urumbeba dos Jardins de Mexico, da qual o A. n√£o vio, nem as flores,
+A Urumbeba dos Jardins de Mexico, da qual o A. n„o vio, nem as flores,
 nem os fructos, tem as suas raizes de hum pardo acinzentado com longes,
-ou laivos de amarello, e que fic√£o lenhosas com a idade: levanta-se em
-arvore, como a maior parte das Opuncias: as suas articula√ß√µes s√£o de
-huma f√≥rma oblonga e oval: tem huma superficie macia ao tocar, de hum
+ou laivos de amarello, e que fic„o lenhosas com a idade: levanta-se em
+arvore, como a maior parte das Opuncias: as suas articulaÁıes s„o de
+huma fÛrma oblonga e oval: tem huma superficie macia ao tocar, de hum
 verde sombrio nas adultas, e verde claro e luzidio nas novas: os garfos
-s√£o armados de hum, dous, ou tres espinhos desiguaes no tronco da
+s„o armados de hum, dous, ou tres espinhos desiguaes no tronco da
 planta.
 
-A Urumbeba de Castella he a melhor das Opuncias: d√£o-lhe este nome para
-caracterisar a sua belleza pelo costume, em que est√£o no Mexico, de
-applicar huma id√©a de nobreza ao nome de Castella: as suas articula√ß√µes
+A Urumbeba de Castella he a melhor das Opuncias: d„o-lhe este nome para
+caracterisar a sua belleza pelo costume, em que est„o no Mexico, de
+applicar huma idÈa de nobreza ao nome de Castella: as suas articulaÁıes
 tem algumas vezes 30 pollegadas de comprimento, e 12 e 15 de largura. -
-O Author diz que a experiencia tem approvado que a c√¥r vermelha,
-violete, amarella, ou branca dos fructos das Opuncias differentes n√£o
-prest√£o, nem offendem a c√¥r da Cochonilha, que se sustenta nestes
-Cactos, nem he huma causa, ou indicio da sua aptid√£o maior, ou menor em
+O Author diz que a experiencia tem approvado que a cÙr vermelha,
+violete, amarella, ou branca dos fructos das Opuncias differentes n„o
+prest„o, nem offendem a cÙr da Cochonilha, que se sustenta nestes
+Cactos, nem he huma causa, ou indicio da sua aptid„o maior, ou menor em
 sustentar este insecto.
 
 M. Thiery de Menonville, arranja por este modo as Opuncias pela
-propriedade, que ellas tem de sustentar a Cochonilha silvestre: p√µem a
-Tuna em o mais baixo gr√°o, ao depois a Pereskia, ao depois a Opuncia de
+propriedade, que ellas tem de sustentar a Cochonilha silvestre: pıem a
+Tuna em o mais baixo gr·o, ao depois a Pereskia, ao depois a Opuncia de
 Campeche, o Nopal silvestre, a Raqueta Hespanhola: e finalmente a
 verdadeira Urumbeba do Jardim de Mexico: e no ultimo e supremo lugar a
-Urumbeba de Castella: com tudo n√£o he este o unico alvo, a que se deve
-olhar nas Opuncias: as que s√£o muito espinhosas se opp√µem √° colheita da
-Cochonilha, e devem ser rejeitadas, ainda que sej√£o proprias a
-nutrillas; por esta raz√£o n√£o podem servir as Tunas, as Pereskias, o
+Urumbeba de Castella: com tudo n„o he este o unico alvo, a que se deve
+olhar nas Opuncias: as que s„o muito espinhosas se oppıem · colheita da
+Cochonilha, e devem ser rejeitadas, ainda que sej„o proprias a
+nutrillas; por esta raz„o n„o podem servir as Tunas, as Pereskias, o
 Nopal silvestre do Mexico, de sorte que he preciso limitarem-se a
 Opuncia de Campeche, a Raqueta Hespanhola, a verdadeira, e a Urumbeba de
 Castella.
 
-A Cochonilha fina n√£o p√≥de viver sobre todas as Opuncias: morre nas
+A Cochonilha fina n„o pÛde viver sobre todas as Opuncias: morre nas
 Tunas, nas Pereskias, nas Raquetas Hespanholas: mas nutrem se sobre a
 Opuncia de Campeche, ainda que mais espinhosa que a Raqueta Hespanhola:
-todavia ella s√≥ se p√≥de criar sobre a Urumbeba dos Jardins de Mexico, e
+todavia ella sÛ se pÛde criar sobre a Urumbeba dos Jardins de Mexico, e
 sobre a de Castella.
 
-Logo que se pertende criar a Cochonilha, he preciso come√ßar se por
-estabelecer hum viveiro de Urumbebas, ao qual se dar√° o nome de
+Logo que se pertende criar a Cochonilha, he preciso comeÁar se por
+estabelecer hum viveiro de Urumbebas, ao qual se dar· o nome de
 Urumbebal.
 
-M. Thiery de Menonville, d√° huma instruc√ß√£o muito extensa e mui
-circumstanciada √°cerca da natureza do terreno, que conv√©m a hum rendoso
+M. Thiery de Menonville, d· huma instrucÁ„o muito extensa e mui
+circumstanciada ·cerca da natureza do terreno, que convÈm a hum rendoso
 Urumbebal, e aponta todos os cuidados, que se requerem, assim para o seu
-estabelecimento, como para a sua manten√ßa.
+estabelecimento, como para a sua mantenÁa.
 
 
 _Da Cochonilha silvestre, e da Mesteca._
 
-Plinio, e outros antigos tinh√£o dado o nome de Coccus √° c√¥r vermelha,
-que se tira do Kermes, e a este mesmo insecto, que olhav√£o, como o gr√£o
+Plinio, e outros antigos tinh„o dado o nome de Coccus · cÙr vermelha,
+que se tira do Kermes, e a este mesmo insecto, que olhav„o, como o gr„o
 da arvore, em que se propagava.
 
 Linne reteve o nome de Coccus para designar esta familia de insectos
-hemipteros, cuja cabe√ßa he hum ponto na superficie do peito, e o abdomen
+hemipteros, cuja cabeÁa he hum ponto na superficie do peito, e o abdomen
 acaba em pequenas sedas: cuja femea carece de azas, tendo o macho
 todavia duas levantadas. Abrangeo neste genero 22 especies, em cujo
-n√∫mero entra o Kermes, o Cocco de Polonia, o Cocco do Cacto
+n˙mero entra o Kermes, o Cocco de Polonia, o Cocco do Cacto
 Cochinilheiro, que produz a Cochonilha.
 
-Al√©m das 22 especies descriptas por Linne, M. Thiery de Menonville,
+AlÈm das 22 especies descriptas por Linne, M. Thiery de Menonville,
 descreve huma Cochonilha aptera, que se encontra em muitas especies de
-arvores de S. Domingos, que for√£o reputadas pelo Padre Labat, Plumier,
+arvores de S. Domingos, que for„o reputadas pelo Padre Labat, Plumier,
 Nicolson, e outros pela Cochonilha de Mexico.
 
-Parece que os Naturalistas, at√© agora, n√£o tem conhecido a Cochonilha
-silvestre, pois que s√≥ descrev√©r√£o as que fic√£o ditas acima; mas, antes
-de determinar as differen√ßas da Cochonilha mesteca, e da silvestre, he
+Parece que os Naturalistas, atÈ agora, n„o tem conhecido a Cochonilha
+silvestre, pois que sÛ descrevÈr„o as que fic„o ditas acima; mas, antes
+de determinar as differenÁas da Cochonilha mesteca, e da silvestre, he
 preciso considerar se a Cochonilha em geral.
 
 A Cochonilha he hum Cocco que habita no Cacto cochinilheiro: a femea tem
 o corpo chato da parte do ventre, e abaulado, ou emisferico pela parte
-das costas, as quaes s√£o raiadas por listras transversaes, que acab√£o no
-ventre, formando nelle hum bei√ßo, ou margem dobrada, das quaes a
-superior he menor: toda a pelle he de huma c√¥r parda de sombra, a bocca
-nada mais, que hum ponto, que sahe do meio do arcabou√ßo, ou thorax: tem
-6 p√©s, pardos, curtissimos, e nada de azas. O macho tem o corpo
-alongado, de huma c√¥r vermelha, escura, coberto de duas azas
+das costas, as quaes s„o raiadas por listras transversaes, que acab„o no
+ventre, formando nelle hum beiÁo, ou margem dobrada, das quaes a
+superior he menor: toda a pelle he de huma cÙr parda de sombra, a bocca
+nada mais, que hum ponto, que sahe do meio do arcabouÁo, ou thorax: tem
+6 pÈs, pardos, curtissimos, e nada de azas. O macho tem o corpo
+alongado, de huma cÙr vermelha, escura, coberto de duas azas
 horisontalmente abatidas, e algum tanto encruzadas sobre o dorso, ou
-costas: tem duas pequenas antennas; a cabe√ßa menor hum ter√ßo, que o
+costas: tem duas pequenas antennas; a cabeÁa menor hum terÁo, que o
 corpo; o abdomen terminado por duas sedas posteriores, e, do mesmo modo
-que as antennas, divergentes: tem igualmente 6 pes, por√©m maiores que os
-da femea: n√£o tem hum v√≥o continuado, mas de _pousa lousa_ em voltas,
-saltando raramente. Em Mexico cham√£o √° Cochonilha _Grana_ da palavra
-Hespanhola, que faz lembrar o erro dos antigos, que julgav√£o ser este
-insecto hum gr√£o produzido por hum vegetal.
+que as antennas, divergentes: tem igualmente 6 pes, porÈm maiores que os
+da femea: n„o tem hum vÛo continuado, mas de _pousa lousa_ em voltas,
+saltando raramente. Em Mexico cham„o · Cochonilha _Grana_ da palavra
+Hespanhola, que faz lembrar o erro dos antigos, que julgav„o ser este
+insecto hum gr„o produzido por hum vegetal.
 
 Julga-se que a Cochonilha silvestre se acha em a Urumbeba silvestre, e
 na Tuna do Mexico; mas cria-se tambem nas hortas, nas verdadeiras
-Urumbebas, que n√£o tem espinhos. M. Thiery de Menonville, ao depois de
+Urumbebas, que n„o tem espinhos. M. Thiery de Menonville, ao depois de
 ter aprendido a conhecella no Mexico, as veio encontrar em S. Domingos
 no Cacteiro Pereskia.
 
-As pequenas Cochonilhas silvestres s√£o contidas no seio da M√£e em figura
+As pequenas Cochonilhas silvestres s„o contidas no seio da M„e em figura
 de ovos ensartados pelo embigo, huns ao depois dos outros, na placenta
 commum. Quando a prenhez chega ao seu termo prefixo pela Natureza, estas
-contas se desenfi√£o gr√£o por gr√£o: e a M√£e figura ent√£o em vivipara:
-porque os filhos sem d√∫vida deix√£o na passagem o v√©o, em que est√£o
-contidos debaixo da apparencia de ovos; e sahem √° luz, como animaes
-vivos perfeitamente organisados: neste tempo ser√£o do tamanho da cabe√ßa
-de hum alfinetesinho: o macho he menor hum ter√ßo que a femea: parece ser
+contas se desenfi„o gr„o por gr„o: e a M„e figura ent„o em vivipara:
+porque os filhos sem d˙vida deix„o na passagem o vÈo, em que est„o
+contidos debaixo da apparencia de ovos; e sahem · luz, como animaes
+vivos perfeitamente organisados: neste tempo ser„o do tamanho da cabeÁa
+de hum alfinetesinho: o macho he menor hum terÁo que a femea: parece ser
 alguma cousa mais comprido: tem as sedas muito curtas, e em menor
 quantidade que a femea, que tem doze pares em a margem dobre, que
-termina as costas no ventre: os filhos se demor√£o j√° em baixo do ventre
-da M√£e, j√° nas costas por dous ou tres dias, e algumas vezes est√£o
+termina as costas no ventre: os filhos se demor„o j· em baixo do ventre
+da M„e, j· nas costas por dous ou tres dias, e algumas vezes est„o
 pendurados por baixo do abdomen, em figura de hum pequeno cacho de uvas,
 por oito dias, principalmente quando ha tempestades, ou chuvas: em fim,
-ou; porque o cord√£o, que retem os filhos, esteja secco; ou porque
-obrigados pela fome poss√£o romper este vencelho, ou atilho, correm pela
-planta: e esta he a unica vez, em todo o tempo da sua vida, que caminh√£o
-as femeas. Chegados, que sej√£o, as articula√ß√µes da Urumbeba desde o
+ou; porque o cord„o, que retem os filhos, esteja secco; ou porque
+obrigados pela fome poss„o romper este vencelho, ou atilho, correm pela
+planta: e esta he a unica vez, em todo o tempo da sua vida, que caminh„o
+as femeas. Chegados, que sej„o, as articulaÁıes da Urumbeba desde o
 mesmo dia, ou, quando tarde, no seguinte, estes pequenos insectos se
-fix√£o e crav√£o sobre o reverso da folha, ou articula√ß√£o, que o seu
-instincto lhe fez escolher: preferem a todos os outros as articula√ß√µes
+fix„o e crav„o sobre o reverso da folha, ou articulaÁ„o, que o seu
+instincto lhe fez escolher: preferem a todos os outros as articulaÁıes
 mais novas, isto he, das seibas precedentes, e se vem, principalmente,
-escolher o lado da articula√ß√£o, que olha para Oes-Sud'Oeste, para evitar
-os golpes de vento do Nordeste, e sobretudo, a for√ßa da briza de Leste
+escolher o lado da articulaÁ„o, que olha para Oes-Sud'Oeste, para evitar
+os golpes de vento do Nordeste, e sobretudo, a forÁa da briza de Leste
 sempre igualmente regular, e violenta no Valle de Guaxaca.
 
-As novas Cochonilhas se fix√£o nas articula√ß√µes da Urumbeba, cravando seu
+As novas Cochonilhas se fix„o nas articulaÁıes da Urumbeba, cravando seu
 bico assovellado em a casca: se este delicado fio se quebra, morre a
-Cochonilha, sem que lhe seja possivel agarrar-se com os p√©s, e tornar a
+Cochonilha, sem que lhe seja possivel agarrar-se com os pÈs, e tornar a
 cravar de novo em a planta esta sorte de tromba, para lhe chupar o succo
 gommoso, que serve de seu sustento. O corpo da femea se cobre por toda a
-sua superficie de hum certo algod√£o fino, e pegajoso, o qual se estende
-por toda a sua circumferencia, menos no arcabou√ßo pelos seus movimentos.
+sua superficie de hum certo algod„o fino, e pegajoso, o qual se estende
+por toda a sua circumferencia, menos no arcabouÁo pelos seus movimentos.
 Em quanto ao macho, este abandona a sua coberta no fim de hum mez, e se
-manifesta em fei√ß√£o de huma pequena mosca, formosa, de huma c√¥r
-affogueada carregada, elle se arreme√ßa, dando voltas, e saltos at√© √°
+manifesta em feiÁ„o de huma pequena mosca, formosa, de huma cÙr
+affogueada carregada, elle se arremeÁa, dando voltas, e saltos atÈ ·
 altura de 6 pollegadas embusca da femea: topando-a, a fecunda, e morre:
 a femea se emprenha, pare no fim de hum mez: este he tambem o termo da
 sua vida.
 
-A Cochonilha silvestre, pousada huma vez em a Urumbeba, se perpetuar√≠a
+A Cochonilha silvestre, pousada huma vez em a Urumbeba, se perpetuarÌa
 nella, sem que houvesse mister outro cuidado, e nella se multiplicaria
-at√© cansar, e esvair a planta, cujas articula√ß√µes se apodrentari√£o e
-cahiri√£o successivamente, humas depois de outras, no caso de que sen√£o
+atÈ cansar, e esvair a planta, cujas articulaÁıes se apodrentari„o e
+cahiri„o successivamente, humas depois de outras, no caso de que sen„o
 tivesse o cuidado de as tirarem, ou colherem de dous em dous mezes.
 
-Para se embara√ßar a degenera√ß√£o do insecto, que aconteceria, deixando-o
+Para se embaraÁar a degeneraÁ„o do insecto, que aconteceria, deixando-o
 estar amontoado em qualquer Urumbeba esvaida; e pelo contrario: para se
-manter huma bella qualidade; e ainda, para se aperfei√ßoar ou melhorar a
-sua ra√ßa, e precaver a ruina e estrago da planta, se faz preciso
-proporcionar sempre a sua for√ßa e vigor com a quantidade da Cochonilha,
+manter huma bella qualidade; e ainda, para se aperfeiÁoar ou melhorar a
+sua raÁa, e precaver a ruina e estrago da planta, se faz preciso
+proporcionar sempre a sua forÁa e vigor com a quantidade da Cochonilha,
 que nella se cria, e habita. He mister apanhalla radicalmente todos os
-dous mezes, e alimpar a planta do algod√£o, que ellas deix√£o, esfregando
+dous mezes, e alimpar a planta do algod„o, que ellas deix„o, esfregando
 a toda com hum pano molhado, que o tire. Por este meio fica livre assim
 dos ovos, como das chrysalidas dos insectos destruidores, que podem
-muito bem estar apegados, e occultos no algod√£o da Cochonilha.
+muito bem estar apegados, e occultos no algod„o da Cochonilha.
 
-Ser√≠a impossivel recolher a Cochonilha silvestre, que existe sobre a
+SerÌa impossivel recolher a Cochonilha silvestre, que existe sobre a
 Opuncia espinhosa com proveito; os obreiros, que tem maior arte, e
-mestria, n√£o p√≥dem colher por dia huma tal quantidade dellas, que lhes
-haja de dar, ao depois de seccas, duas on√ßas; pela difficuldade de as
-tirar d'entre os espinhos: e com tudo hum s√≥ obreiro p√≥de colher
+mestria, n„o pÛdem colher por dia huma tal quantidade dellas, que lhes
+haja de dar, ao depois de seccas, duas onÁas; pela difficuldade de as
+tirar d'entre os espinhos: e com tudo hum sÛ obreiro pÛde colher
 quantidade, que lhe renda, ao depois de seccas, tres arrateis por dia,
 quando as tirar a Urumbeba das hortas. Tambem he sabido que se melhora,
-e aperfei√ß√¥a sobre a Urumbeba por meio da multiplicidade de colheitas, e
-semeaduras; e pela bondade da planta, em que ella p√©rde muito da sua
-quantidade, e da tenacidade do seu algod√£o, e constantemente se faz mais
-grossa outro tanto, quanto se n√£o encontra nas que vivem sobre as
+e aperfeiÁÙa sobre a Urumbeba por meio da multiplicidade de colheitas, e
+semeaduras; e pela bondade da planta, em que ella pÈrde muito da sua
+quantidade, e da tenacidade do seu algod„o, e constantemente se faz mais
+grossa outro tanto, quanto se n„o encontra nas que vivem sobre as
 Opuncias espinhosas, assim nos matos, como nos campos. He por tanto
 mister, para se poder conseguir a melhor Cochonilha silvestre, semealla
-de dous em dous mezes, tanto quanto consentir a constitui√ß√£o das
-esta√ß√µes, ou quadras do anno, sobre a Urumbeba das hortas, e desprezando
-se todas as outras especies de Opuncias. Por√©m, quando se n√£o tem huma
-grande quantidade da sobredita Urumbeba, neste caso se semear√°, e crear√°
+de dous em dous mezes, tanto quanto consentir a constituiÁ„o das
+estaÁıes, ou quadras do anno, sobre a Urumbeba das hortas, e desprezando
+se todas as outras especies de Opuncias. PorÈm, quando se n„o tem huma
+grande quantidade da sobredita Urumbeba, neste caso se semear·, e crear·
 na Opuncia de Campeche, e tambem na Raqueta Hespanhola.
 
-Dizem, semear a Cochonilha (como se ella fosse algum gr√£o) quando
-espalh√£o os pequenos insectos, pela planta, que a deve criar, e
+Dizem, semear a Cochonilha (como se ella fosse algum gr„o) quando
+espalh„o os pequenos insectos, pela planta, que a deve criar, e
 sustentar.
 
-O Urumbebal p√µe-se em estado de poder acceitar os insectos, para os
-manter ao decimo outavo mez depois de plantado. Seme√£o-se, como dizem,
+O Urumbebal pıe-se em estado de poder acceitar os insectos, para os
+manter ao decimo outavo mez depois de plantado. Seme„o-se, como dizem,
 as Cochonilhas em ninhos feitos da parenchyma das folhas da palmeira: em
-cada ninho se p√µe de 4 at√© 6 m√£es, quando estiverem proximas ao seu
-parto, proporcionando se o n√∫mero dos ninhos, e o das m√£es ao das
-articula√ß√µes da Urumbebeira: fix√£o-se os ninhos nas axillas dos ramos,
+cada ninho se pıe de 4 atÈ 6 m„es, quando estiverem proximas ao seu
+parto, proporcionando se o n˙mero dos ninhos, e o das m„es ao das
+articulaÁıes da Urumbebeira: fix„o-se os ninhos nas axillas dos ramos,
 tendo-se o cuidado, de que fiquem expostas ao Sol de nascente.
 
-Passados dous mezes, depois que as Cochonilhas for√£o semeadas, e
-precisamente hum mez, depois das m√£es serem fecundadas, se vem sahir
-algumas pequenas Cochonilhas do seio de suas m√£es: este he o momento, em
+Passados dous mezes, depois que as Cochonilhas for„o semeadas, e
+precisamente hum mez, depois das m„es serem fecundadas, se vem sahir
+algumas pequenas Cochonilhas do seio de suas m„es: este he o momento, em
 que se devem escolher para fazer a colheita. Passa se o ferro, ou folha
 de huma faca, que tenha o fio embotado, e arredondado entre a casca da
 Urumbeba, e as pinhas da Cochonilha, que a cobre: fazem se cahir em hum
@@ -568,134 +568,134 @@ panno de linho, ou em alguma vasilha prompta a recebella. Quando a
 colheita estiver feita, se mergulha a Cochonilha, mettida em dous
 pannos, dentro da agua fervendo, por dous ou tres minutos: estendem-se
 ao depois em taboas, ou taboleiros: ou, o que he muito melhor, em bacias
-de arame: exp√µe-se ao ardor do Sol, para se assegurarem melhor da sua
-desseca√ß√£o, e se repete por seguran√ßa ainda outra vez no outro dia. Este
+de arame: expıe-se ao ardor do Sol, para se assegurarem melhor da sua
+dessecaÁ„o, e se repete por seguranÁa ainda outra vez no outro dia. Este
 methodo he muito melhor, e preferivel ao do forno, e ferro quente, pelo
-inconveniente de huma desseca√ß√£o desigual, e de calcinar, ou torrar as
-partes, que immediatamente o toc√£o. Mr. Thiery de Menonville assegura
-que, na sua viagem, n√£o v√≠ra praticar outro methodo f√≥ra do d'agua
+inconveniente de huma dessecaÁ„o desigual, e de calcinar, ou torrar as
+partes, que immediatamente o toc„o. Mr. Thiery de Menonville assegura
+que, na sua viagem, n„o vÌra praticar outro methodo fÛra do d'agua
 fervente em ambas as especies de Cochonilhas.
 
-A Cochonilha fina n√£o se encontra nos campos, ou matos do Mexico, e s√≥
+A Cochonilha fina n„o se encontra nos campos, ou matos do Mexico, e sÛ
 sim nas casas, e hortas dos Indios, que a colhem.
 
 As femeas pequenas desta especie tem as costas listradas com rugas
-transversaes, que termin√£o na aba dobrada do ventre, e sobre a qual se
-v√™m doze pequenas sedas, que desapparecem nos adultos. Dez dias, ao
+transversaes, que termin„o na aba dobrada do ventre, e sobre a qual se
+vÍm doze pequenas sedas, que desapparecem nos adultos. Dez dias, ao
 depois do nascimento, as femeas se despem destas roupas franjadas, e
-bordadas de pequenas sedas, e se cobrem de hum p√≥ branco muito fino, que
+bordadas de pequenas sedas, e se cobrem de hum pÛ branco muito fino, que
 as preserva da humidade; 20, ou 25 dias, depois do seu nascimento, se
-despoj√£o das suas segundas roupas, opera√ß√£o que muitas vezes lhe causa a
-morte, ent√£o ellas apparecem de huma c√¥r parda clara; mas no dia
-seguinte se ach√£o j√° cobertas de p√≥: 3, ou 4 dias depois, est√£o habeis a
-serem fecundadas. Ellas se engross√£o ao dobro quasi da Cochonilha
+despoj„o das suas segundas roupas, operaÁ„o que muitas vezes lhe causa a
+morte, ent„o ellas apparecem de huma cÙr parda clara; mas no dia
+seguinte se ach„o j· cobertas de pÛ: 3, ou 4 dias depois, est„o habeis a
+serem fecundadas. Ellas se engross„o ao dobro quasi da Cochonilha
 silvestre.
 
 O macho da Cochonilha fina he perfeitamente semelhante ao macho da
 Cochonilha silvestre, menos em ser a sua grossura dobrada.
 
-O Author discute a quest√£o: se a Cochonilha fina he da mesma especie da
-silvestre, aperfei√ßoada por√©m por hum sustento melhor, e pelos cuidados
-da cultura? ou se ellas f√≥rm√£o duas especies essencialmente distinctas?
+O Author discute a quest„o: se a Cochonilha fina he da mesma especie da
+silvestre, aperfeiÁoada porÈm por hum sustento melhor, e pelos cuidados
+da cultura? ou se ellas fÛrm„o duas especies essencialmente distinctas?
 A grossura, que adquire a Cochonilha silvestre, quando se cria, e a
-diminui√ß√£o, que experimenta o seu frouxel, ou pluma algodoada: assim
+diminuiÁ„o, que experimenta o seu frouxel, ou pluma algodoada: assim
 como a pequenhez, a que se reduz a Cochonilha fina, quando lhe falta o
-sustento conveniente, parece que d√£o muito pezo √° primeira opini√£o; com
-tudo, o Author acha que estas raz√µes n√£o bast√£o para a solu√ß√£o deste
-problema interessante, requer para a qual novas observa√ß√µes.
+sustento conveniente, parece que d„o muito pezo · primeira opini„o; com
+tudo, o Author acha que estas razıes n„o bast„o para a soluÁ„o deste
+problema interessante, requer para a qual novas observaÁıes.
 
-Devem observar-se tres circumstancias essenciaes na crea√ß√£o da
+Devem observar-se tres circumstancias essenciaes na creaÁ„o da
 Cochonilha fina.
 
-I. Conv√©m, quando as seme√£o, escolher para cada huma das novas g√©ra√ß√µes,
-as m√£es mais bellas, e mais grossas.
+I. ConvÈm, quando as seme„o, escolher para cada huma das novas gÈraÁıes,
+as m„es mais bellas, e mais grossas.
 
-II. Precisa que sej√£o semeadas em os melhores Urumbebaes.
+II. Precisa que sej„o semeadas em os melhores Urumbebaes.
 
-III. Cumpre que sej√£o recolhidas na esta√ß√£o das chuvas, para hum lugar
-coberto, e multiplicallas nelle, at√© que voltem as seccas, para
+III. Cumpre que sej„o recolhidas na estaÁ„o das chuvas, para hum lugar
+coberto, e multiplicallas nelle, atÈ que voltem as seccas, para
 semeallas em o ar livre. Deve se tambem acautellar, que a Cochonilha
 silvestre se misture, e se confunda com a fina, e para isto se faz
-indispensavel, que estej√£o humas das outras distantes cem varas, dando a
-vantagem do lugar do nascente √° Cochonilha fina. A temperatura do ar,
-que melhor lhe conv√©m, he a de 12 at√© 20 gr√°os do termometro. No Mexico
+indispensavel, que estej„o humas das outras distantes cem varas, dando a
+vantagem do lugar do nascente · Cochonilha fina. A temperatura do ar,
+que melhor lhe convÈm, he a de 12 atÈ 20 gr·os do termometro. No Mexico
 se fazem tres colheitas no bom tempo.
 
-Mr. Thiery de Menonville n√£o p√≥de conseguir huma instruc√ß√£o certa do
+Mr. Thiery de Menonville n„o pÛde conseguir huma instrucÁ„o certa do
 methodo, que se emprega no Mexico, para conservar a Cochonilha pelo
-inverno: com tudo convenceo-se por algumas raz√µes, que lhe parec√™r√£o
-fortes, que se conserv√£o nas mesmas Urumbebas, cobrindo-as com esteiras.
+inverno: com tudo convenceo-se por algumas razıes, que lhe parecÍr„o
+fortes, que se conserv„o nas mesmas Urumbebas, cobrindo-as com esteiras.
 Elle aconselha hum methodo excogitado por elle, e tambem experimentado.
-Prescreve a construc√ß√£o de huma alpendrada, coberta de caixilhos, que se
-des√ß√£o no tempo das aguas, e que se levantem quando o tempo estiver bom;
-e de se plantar debaixo desta alpendrada Urumbebeiras, cuja ter√ßa parte
+Prescreve a construcÁ„o de huma alpendrada, coberta de caixilhos, que se
+desÁ„o no tempo das aguas, e que se levantem quando o tempo estiver bom;
+e de se plantar debaixo desta alpendrada Urumbebeiras, cuja terÁa parte
 seja destinada successivamente em manter a Cochonilha os seis mezes das
 aguas.
 
-O pre√ßo da Cochonilha fina excede em hum ter√ßo ao da Cochonilha
-silvestre. Al√©m disso: duas Urumbebeiras de igual grandeza, carregadas
-ambas, huma da Cochonilha fina, outra da bravia: esta dar√° hum ter√ßo
-menos em pezo, que aquella, que o dar√° mais forte.
+O preÁo da Cochonilha fina excede em hum terÁo ao da Cochonilha
+silvestre. AlÈm disso: duas Urumbebeiras de igual grandeza, carregadas
+ambas, huma da Cochonilha fina, outra da bravia: esta dar· hum terÁo
+menos em pezo, que aquella, que o dar· mais forte.
 
-O Author comp√°ra as despezas da cultura, que a Cochonilha requer no
-Mexico, com o pre√ßo da m√£o d'obra ordinaria em S. Domingos, e conclue da
+O Author comp·ra as despezas da cultura, que a Cochonilha requer no
+Mexico, com o preÁo da m„o d'obra ordinaria em S. Domingos, e conclue da
 facilidade, em que vivem alguns Indios, aos quaes pertence
-principalmente esta produc√ß√£o, que esta grangearia, ou cultura se
+principalmente esta producÁ„o, que esta grangearia, ou cultura se
 poderia estabelecer com muita vantagem em S. Domingos; e tanto mais,
 quanto os Indios do Mexico tem pouca actividade, e que os multiplicados
-monopolios os priv√£o de huma grande parte da produc√ß√£o da venda da
+monopolios os priv„o de huma grande parte da producÁ„o da venda da
 Cochonilha na Europa.
 
-√Å primeira vista a Cochonilha fina parece apresentar grandes vantajens
+¡ primeira vista a Cochonilha fina parece apresentar grandes vantajens
 ao Granjeiro sobre a Cochonilha silvestre: mas, attendendo-se que a
-cria√ß√£o da ultima requer muito menos trabalho; que o frouxel, que a
-cobre, a defende das chuvas, dos temporaes, os quaes muitas vezes caus√£o
-grandes prejuizos √° Cochonilha fina; e que ella p√≥de ser colhida seis
-vezes no anno, e que neste comenos, na esta√ß√£o das chuvas, n√£o ha
+criaÁ„o da ultima requer muito menos trabalho; que o frouxel, que a
+cobre, a defende das chuvas, dos temporaes, os quaes muitas vezes caus„o
+grandes prejuizos · Cochonilha fina; e que ella pÛde ser colhida seis
+vezes no anno, e que neste comenos, na estaÁ„o das chuvas, n„o ha
 producto algum da Cochonilha fina; e que a final sendo preciso muito
-menos despeza para o estabelecimento, que ella requer, se concluir√°: que
-as vantajens de huma, e outra se compens√£o, e equivalem: e tambem, que
-os Colonos pobres devem dar preferencia √° grangearia da Cochonilha
-silvestre; por que esta lhes p√≥de apresentar hum precioso soccorro, ou
+menos despeza para o estabelecimento, que ella requer, se concluir·: que
+as vantajens de huma, e outra se compens„o, e equivalem: e tambem, que
+os Colonos pobres devem dar preferencia · grangearia da Cochonilha
+silvestre; por que esta lhes pÛde apresentar hum precioso soccorro, ou
 recurso.
 
 Ao depois da morte de M. Thiery de Menonville, pereceo a Cochonilha
 fina, que elle criava em o Jardim do Porto do Principe; mas M. Bruley,
-substituto do Procurador geral, cheio de zelo, n√£o querendo que se
+substituto do Procurador geral, cheio de zelo, n„o querendo que se
 perdessem todos os fructos das emprezas de M. Thiery de Menonville,
 formou hum Urumbebal, com os fragmentos do seu plano, e nelle criou a
-Cochonilha silvestre. Em 1788 escreveo que o seu Urumbebal j√° lhe podia
+Cochonilha silvestre. Em 1788 escreveo que o seu Urumbebal j· lhe podia
 dar huma colheita de cem libras de Cochonilha secca, se huma molestia o
-n√£o embara√ßasse de aproveitar a bella esta√ß√£o.
+n„o embaraÁasse de aproveitar a bella estaÁ„o.
 
-M. Bruley communicou o gr√£o da Cochonilha silvestre ao circulo dos
-Philadelfos, que come√ßou em 1785 a occupar-se na cria√ß√£o deste insecto
+M. Bruley communicou o gr„o da Cochonilha silvestre ao circulo dos
+Philadelfos, que comeÁou em 1785 a occupar-se na criaÁ„o deste insecto
 precioso.
 
 
-_Compara√ß√£o da Cochonilha mesteca, da Cochonilha silvestre, e da que se
+_ComparaÁ„o da Cochonilha mesteca, da Cochonilha silvestre, e da que se
 cria em S. Domingos._
 
-Fazendo-se digerir no alcohol o extracto, que a decoc√ß√£o da Cochonilha
-d√° por evapora√ß√£o, as partes colorantes se dissolvem, e deix√£o hum
-residuo, que ret√©m unicamente a c√¥r da borra, ou p√© do vinho, a qual o
-novo alcohol n√£o lhe p√≥de tirar. Esta parte d√° na analyse pelo fogo os
+Fazendo-se digerir no alcohol o extracto, que a decocÁ„o da Cochonilha
+d· por evaporaÁ„o, as partes colorantes se dissolvem, e deix„o hum
+residuo, que retÈm unicamente a cÙr da borra, ou pÈ do vinho, a qual o
+novo alcohol n„o lhe pÛde tirar. Esta parte d· na analyse pelo fogo os
 productos das substancias animaes.
 
-O alcohol da Cochonilha deixa por evapora√ß√£o hum residuo transparente,
+O alcohol da Cochonilha deixa por evaporaÁ„o hum residuo transparente,
 que he de hum vermelho escuro, e que secco parece huma resina.
-Igualmente por distilla√ß√£o d√° os productos das substancias animaes, o
-que confirma que esta parte colorante he huma produc√ß√£o animal.
+Igualmente por distillaÁ„o d· os productos das substancias animaes, o
+que confirma que esta parte colorante he huma producÁ„o animal.
 
-Entretanto a decoc√ß√£o da Cochonilha entra difficultosamente em
-putrefac√ß√£o: tenho-a conservado por mais de dous mezes ao ar livre, e em
-hum frasco fechado. A primeira, passado este espa√ßo de tempo, n√£o
-apresentou indicio algum de putrefac√ß√£o; a segunda tinha hum leve cheiro
+Entretanto a decocÁ„o da Cochonilha entra difficultosamente em
+putrefacÁ„o: tenho-a conservado por mais de dous mezes ao ar livre, e em
+hum frasco fechado. A primeira, passado este espaÁo de tempo, n„o
+apresentou indicio algum de putrefacÁ„o; a segunda tinha hum leve cheiro
 putrido. A primeira se turvou nos primeiros dias; e deixou no filtro hum
-dep√≥sito arroxado pardo, devido √° combina√ß√£o do Oxigeno com as partes
-colorantes, conforme as observa√ß√µes de M. de Fourcroy; a segunda
+depÛsito arroxado pardo, devido · combinaÁ„o do Oxigeno com as partes
+colorantes, conforme as observaÁıes de M. de Fourcroy; a segunda
 conservou por muito tempo a sua transparencia, e provavelmente a perdeo
-pelo effeito do principio de putrefac√ß√£o, que experimentou. A cor de
+pelo effeito do principio de putrefacÁ„o, que experimentou. A cor de
 huma e outra se mudou para Carmesim; mas a da primeira era mais fraca;
 porque huma grande parte das moleculas colorantes se tinha precipitado.
 
@@ -703,93 +703,93 @@ Ao depois da morte de M. Thiery de Menonville, a Cochonilha mesteca, que
 tinha trazido, acabou, como acima se disse; mas, occupando-se M. Bruley
 com muito cuidado em criar a Cochonilha silvestre: e em 1787 enviou huma
 grande quantidade desta ao Ministro da Marinha com huma Memoria _Ensaios
-da Cultura do Nopal, criac√£o e prepara√ß√£o da Cochonilha_. A Academia das
+da Cultura do Nopal, criac„o e preparaÁ„o da Cochonilha_. A Academia das
 Sciencias encarregou a MM. Desmarest, Fougeroux, o Abbade Tessier, e a
 mim de examinarmos esta Cochonilha, e a Memoria, que a acompanhava.
 
 Resultou dos ensaios da tinta, que fizemos em casa de M. Moneri,
 proprietario de huma manufactura de Escarlate nos Gobelins, que a
-Cochonilha, remettida por M. Bruley, dava ao panno a mesma c√¥r, que a
-Cochonilha mesteca, com tanto por√©m que se lhe augmentasse a quantidade
-na propor√ß√£o de 12 a 5.
+Cochonilha, remettida por M. Bruley, dava ao panno a mesma cÙr, que a
+Cochonilha mesteca, com tanto porÈm que se lhe augmentasse a quantidade
+na proporÁ„o de 12 a 5.
 
 M. Bruley fez huma segunda remessa da Cochonilha, colhida em 1788, e
-volt√°r√£o os mesmos commissarios a serem de novo incumbidos do seu exame.
-Por outro methodo vier√£o a obter com pouca differen√ßa os mesmos
-resultados, que tiver√£o com a primeira Cochonilha.
+volt·r„o os mesmos commissarios a serem de novo incumbidos do seu exame.
+Por outro methodo vier„o a obter com pouca differenÁa os mesmos
+resultados, que tiver„o com a primeira Cochonilha.
 
-Por se terem repetido os ensaios, que se fizer√£o em commum, fazendo
-entrar em compara√ß√£o a Cochonilha silvestre do commercio, contentar-me
+Por se terem repetido os ensaios, que se fizer„o em commum, fazendo
+entrar em comparaÁ„o a Cochonilha silvestre do commercio, contentar-me
 hei agora de fallar das minhas ultimas experiencias.
 
-A decoc√ß√£o da Cochonilha silvestre tem o mesmo matiz que a Cochonilha de
+A decocÁ„o da Cochonilha silvestre tem o mesmo matiz que a Cochonilha de
 S. Domingos. Este matiz tira mais para o Carmesim que o da Cochonilha
-mesteca: mas os precipitados, que della se obtem, quer pela dissolu√ß√£o
-do estanho, quer pelo alume, s√£o de huma c√¥r perfeitamente igual √° da
-Cochonilha mesteca, e estes precipitados s√£o, os que color√£o as
+mesteca: mas os precipitados, que della se obtem, quer pela dissoluÁ„o
+do estanho, quer pelo alume, s„o de huma cÙr perfeitamente igual · da
+Cochonilha mesteca, e estes precipitados s„o, os que color„o as
 substancias, que se tingem, combinando-se com ellas.
 
-J√° disse em a minha Memoria sobre a branquea√ß√£o (_Ann. Chym. Tom. II._)
-que M. Wat se servira da decoc√ß√£o da Cochonilha, para determinar a for√ßa
-do Acido muriatico oxigenado pela quantidade desta decoc√ß√£o, que elle
-pode destruir: eu fiz √°s avessas, e me servi do √°cido muriatico
-oxigenado para determinar a propor√ß√£o de partes colorantes, que as
-decoc√ß√µes de differentes Cochonilhas continh√£o. Fiz ferver por tanto,
+J· disse em a minha Memoria sobre a branqueaÁ„o (_Ann. Chym. Tom. II._)
+que M. Wat se servira da decocÁ„o da Cochonilha, para determinar a forÁa
+do Acido muriatico oxigenado pela quantidade desta decocÁ„o, que elle
+pode destruir: eu fiz ·s avessas, e me servi do ·cido muriatico
+oxigenado para determinar a proporÁ„o de partes colorantes, que as
+decocÁıes de differentes Cochonilhas continh„o. Fiz ferver por tanto,
 por huma hora, hum igual pezo de cada huma das tres Cochonilhas,
-fazendo-lhe todas as circumstancias t√£o iguaes, quanto me fosse
-possivel: lancei cada huma destas tres decoc√ß√µes filtradas em hum
-cylindro de vidro graduado, e lhe misturei o mesmo √°cido muriatico
-oxigenado, at√© que todas as tres fossem levadas ao mesmo matiz amarello.
-As quantidades do √°cido, que represent√£o as partes colorantes, se
-achar√£o quasi o mesmo em raz√£o dos n√∫meros seguintes: 8 para a
+fazendo-lhe todas as circumstancias t„o iguaes, quanto me fosse
+possivel: lancei cada huma destas tres decocÁıes filtradas em hum
+cylindro de vidro graduado, e lhe misturei o mesmo ·cido muriatico
+oxigenado, atÈ que todas as tres fossem levadas ao mesmo matiz amarello.
+As quantidades do ·cido, que represent„o as partes colorantes, se
+achar„o quasi o mesmo em raz„o dos n˙meros seguintes: 8 para a
 Cochonilha de S. Domingos, 11 para Cochonilha silvestre do commercio, 18
 para Mesteca.
 
-Disto se v√™ que a Cochonilha de S. Domingos he, n√£o s√≥mente muito
-inferior √° Cochonilha mesteca, mas tambem √° Cochonilha silvestre do
+Disto se vÍ que a Cochonilha de S. Domingos he, n„o sÛmente muito
+inferior · Cochonilha mesteca, mas tambem · Cochonilha silvestre do
 Mexico, e effectivamente muito mais algodoada, e mais pequena; mas estas
-desavantagens n√£o devem diminuir o zelo, dos que se occup√£o nesta
-cria√ß√£o.
+desavantagens n„o devem diminuir o zelo, dos que se occup„o nesta
+criaÁ„o.
 
-As observa√ß√µes de M. Thiery de Menonville tinh√£o j√° mostrado que a
-Cochonilha silvestre perdia seu algod√£o, e se fazia mais grossa por huma
-success√£o de g√©ra√ß√µes cuidadosas: e nos princ√≠pios for√£o obrigados a
-empregar as urumbebas, que n√£o tinh√£o chegado √° sua grossura ordinaria.
-Ha por tanto lugar de esperar que a Cochonilha de S. Domingos poder√° vir
-a ser, havendo hum cuidado effectivo, t√£o boa, como a Cochonilha
-silvestre do Mexico, e p√≥de ser que ainda a exceda; mas sempre lhe ser√°
-inferior em quanto a quantidade de partes colorantes: mas n√£o ser√≠a huma
-raz√£o bastante, para se desprezar o adiantamento de hum ingrediente t√£o
-precioso √°s tinturarias.
+As observaÁıes de M. Thiery de Menonville tinh„o j· mostrado que a
+Cochonilha silvestre perdia seu algod„o, e se fazia mais grossa por huma
+success„o de gÈraÁıes cuidadosas: e nos princÌpios for„o obrigados a
+empregar as urumbebas, que n„o tinh„o chegado · sua grossura ordinaria.
+Ha por tanto lugar de esperar que a Cochonilha de S. Domingos poder· vir
+a ser, havendo hum cuidado effectivo, t„o boa, como a Cochonilha
+silvestre do Mexico, e pÛde ser que ainda a exceda; mas sempre lhe ser·
+inferior em quanto a quantidade de partes colorantes: mas n„o serÌa huma
+raz„o bastante, para se desprezar o adiantamento de hum ingrediente t„o
+precioso ·s tinturarias.
 
-Relativamente a qualidade da c√¥r, se vio que a Cochonilha de S. Domingos
-n√£o cedia em cousa alguma a Mesteca; mas se o algod√£o, de que ella se
-reveste, p√≥de prejudicar nas opera√ß√µes em grande a belleza do escarlate,
-do qual a vivacidade se p√≥de mui facilmente alterar, se acharia huma
-applica√ß√£o vantajosa para elle assim nos meios escarlates, como nos
-carmezis, e em outros matizes, que s√£o menos delicados, que as c√¥res
+Relativamente a qualidade da cÙr, se vio que a Cochonilha de S. Domingos
+n„o cedia em cousa alguma a Mesteca; mas se o algod„o, de que ella se
+reveste, pÛde prejudicar nas operaÁıes em grande a belleza do escarlate,
+do qual a vivacidade se pÛde mui facilmente alterar, se acharia huma
+applicaÁ„o vantajosa para elle assim nos meios escarlates, como nos
+carmezis, e em outros matizes, que s„o menos delicados, que as cÙres
 mais vivas.
 
-Mr. Bruley indagou os meios de poder separar o algod√£o da Cochonilha de
-S. Domingos; por√©m ficav√£o-lhe muitas partes colorantes nos seus
-residuos, o que parece dever-se principalmente √°s pequenas Cochonilhas,
-que ficar√°√µ adherentes ao algod√£o.
+Mr. Bruley indagou os meios de poder separar o algod„o da Cochonilha de
+S. Domingos; porÈm ficav„o-lhe muitas partes colorantes nos seus
+residuos, o que parece dever-se principalmente ·s pequenas Cochonilhas,
+que ficar·ı adherentes ao algod„o.
 
-As opini√µes, que Mr. Bruley expoz na sua Memoria, n√£o concord√£o algumas
-vezes com as de Mr. Thiery de Menonville: e he natural que observa√ß√µes
-encontradas requeir√£o conhecimentos mais exactos √°cerca de hum objecto,
-que para n√≥s he t√£o novo, mas sobre isto se deve esperar que as
-diligencias do circulo dos Filadelfos, e as de Mr. Bruley nos haj√£o bem
+As opiniıes, que Mr. Bruley expoz na sua Memoria, n„o concord„o algumas
+vezes com as de Mr. Thiery de Menonville: e he natural que observaÁıes
+encontradas requeir„o conhecimentos mais exactos ·cerca de hum objecto,
+que para nÛs he t„o novo, mas sobre isto se deve esperar que as
+diligencias do circulo dos Filadelfos, e as de Mr. Bruley nos haj„o bem
 depressa de fazer, que nada tenhamos mais que desejar a este assumpto.
 
-He muito difficultoso fazer huma id√©a da utilidade, que nos p√≥de dar
-esta Cochonilha de S. Domingos, que possue t√£o ricas produc√ß√µes. Mr.
+He muito difficultoso fazer huma idÈa da utilidade, que nos pÛde dar
+esta Cochonilha de S. Domingos, que possue t„o ricas producÁıes. Mr.
 Thiery de Menonville a olhava, como hum soccorro precioso, para aquellas
 partes da Ilha, cujo terreno ingrato recusa outro genero de grangearias;
-e para aquelles pobres Colonos, que n√£o podem fazer as despezas
-necessarias √°s outras produc√ß√µes. Mr. Bruley ainda he mais favoravel as
-vantagens, que se p√≥de esperar da Cochonilha; mas o circulo dos
-Filadelfos se absteve de proferir o seu parecer; e n√£o julga que se deva
+e para aquelles pobres Colonos, que n„o podem fazer as despezas
+necessarias ·s outras producÁıes. Mr. Bruley ainda he mais favoravel as
+vantagens, que se pÛde esperar da Cochonilha; mas o circulo dos
+Filadelfos se absteve de proferir o seu parecer; e n„o julga que se deva
 dizer ainda cousa alguma.
 
 As tentativas feitas merecem ser proseguidas, e favorecidas com tanto
@@ -816,55 +816,55 @@ SEGUNDO
 
 STAUTON,
 
-_Secretario, e Author da Rela√ß√£o da Embaixada √° China do Lord
+_Secretario, e Author da RelaÁ„o da Embaixada · China do Lord
 Macartnei._
 
 
 
 
-O Proveito que os Portuguezes tir√£o da Cochonilha no Rio de Janeiro he
-pouco consideravel, em consequencia de hum erro na sua prepara√ß√£o. Duas
-ou tres vezes cada semana, os escravos destinados a este objecto, busc√£o
-as plantas _Cactus_, e com huma varinha de Bamb√∫, cortada de algum modo
-na figura de huma penna, tir√£o todo o insecto plenamente crescido com
-muitos outros, que ainda n√£o tem chegado ao seu estado de perfei√ß√£o: a
+O Proveito que os Portuguezes tir„o da Cochonilha no Rio de Janeiro he
+pouco consideravel, em consequencia de hum erro na sua preparaÁ„o. Duas
+ou tres vezes cada semana, os escravos destinados a este objecto, busc„o
+as plantas _Cactus_, e com huma varinha de Bamb˙, cortada de algum modo
+na figura de huma penna, tir„o todo o insecto plenamente crescido com
+muitos outros, que ainda n„o tem chegado ao seu estado de perfeiÁ„o: a
 consequencia disto he, que as plantas nunca tem a metade dos insectos,
-que podi√£o sustentar, pois que muitas das femeas, morrem antes de terem
+que podi„o sustentar, pois que muitas das femeas, morrem antes de terem
 feito os seus depositos. Os Naturaes do Mexico seguem hum methodo muito
-differente. Logo que pass√£o as chuvas periodicas, e que o tempo he mais
-quente, e mais secco, fix√£o nos bicos das folhas do _Cactus_ pequenas
-por√ß√µes do mais fino musgo, servindo como de ninhos, capaz cada hum de
+differente. Logo que pass„o as chuvas periodicas, e que o tempo he mais
+quente, e mais secco, fix„o nos bicos das folhas do _Cactus_ pequenas
+porÁıes do mais fino musgo, servindo como de ninhos, capaz cada hum de
 encerrar dez ou doze Insectos femeas, no seu estado de pleno
 crescimento. Estes Insectos no decurso de poucos dias, produzem huma
-innumeravel familia de pequeninos, que se espalh√£o pelas folhas, e ramos
-da Planta, at√© que se fix√£o naquelles pontos, que ach√£o mais proprios a
+innumeravel familia de pequeninos, que se espalh„o pelas folhas, e ramos
+da Planta, atÈ que se fix„o naquelles pontos, que ach„o mais proprios a
 dar-lhe succo nutritivo; onde crescendo em pouco tempo o mais a que
-podem chegar, fic√£o immoveis, e ent√£o se tir√£o para uso; deixando sempre
-hum n√∫mero sufficiente, para a produc√ß√£o de novas cria√ß√µes. Hum muito
+podem chegar, fic„o immoveis, e ent„o se tir„o para uso; deixando sempre
+hum n˙mero sufficiente, para a producÁ„o de novas criaÁıes. Hum muito
 simples processo converte em pouco tempo os Insectos em Cochonilha; mas
 se, em soffrimento corporeo, o pobre Escaravelho sente tormento igual ao
-do Gigante, quando morre, este processo n√£o he mais simples, do que he
-cruel. Apanh√£o-se os Insectos em huma ta√ßa de madeira, e daqui se
+do Gigante, quando morre, este processo n„o he mais simples, do que he
+cruel. Apanh„o-se os Insectos em huma taÁa de madeira, e daqui se
 estendem espessamente sobre hum prato chato de barro, e assim vivos se
-p√µem sobre fogo de carv√£o de lenha, onde se v√£o lentamente torrando, at√©
+pıem sobre fogo de carv„o de lenha, onde se v„o lentamente torrando, atÈ
 desapparecer a coberta cheia de penugem, e que os succos aquosos do
-animal estej√£o totalmente evaporados. Em quanto dura esta opera√ß√£o,
+animal estej„o totalmente evaporados. Em quanto dura esta operaÁ„o,
 mechem-se continuamente com huma colher grande de estanho os Insectos, e
-algumas vezes se borrif√£o com agua, para prevenir que de todo se torrem,
-o que destruir√≠a a c√¥r, e reduzir√≠a o Insecto a carv√£o; mas pouco habito
-basta para ensinar, quando se devem tirar do lume. Fic√£o ent√£o na f√≥rma
-de gr√£os redondos, escuros de alguma sorte, vermelhos, e tom√£o o nome de
-Cochonilha, conservando t√£o pouco a f√≥rma original do Insecto, que esta
+algumas vezes se borrif„o com agua, para prevenir que de todo se torrem,
+o que destruirÌa a cÙr, e reduzirÌa o Insecto a carv„o; mas pouco habito
+basta para ensinar, quando se devem tirar do lume. Fic„o ent„o na fÛrma
+de gr„os redondos, escuros de alguma sorte, vermelhos, e tom„o o nome de
+Cochonilha, conservando t„o pouco a fÛrma original do Insecto, que esta
 preciosa tintura foi por muito tempo conhecida, e buscada na Europa
 antes dos Naturalistas decidirem, se era substancia animal, vegetal, ou
-mineral. O Jardim do Rio de Janeiro n√£o produz annualmente mais do que
+mineral. O Jardim do Rio de Janeiro n„o produz annualmente mais do que
 trinta arrateis desta fazenda: com tudo, tendo bom trato, este mesmo
-n√∫mero de plantas podia produzir dez vezes esta quantidade. Em Maric√°, e
-Saquarema, ambos lugares contiguos ao Cabo Frio, ha planta√ß√µes
-consideraveis do _Cactus_, que facilmente se augment√£o com garfos da
-mesma, plantados na esta√ß√£o fria, e chuvosa, ainda que depois medr√£o
-menos, quando n√£o expostas ao Sol. Os Insectos cri√£o, e colhem-se em
-tempo secco desde Outubro at√© Mar√ßo. Animou-se a prepara√ß√£o da
+n˙mero de plantas podia produzir dez vezes esta quantidade. Em Maric·, e
+Saquarema, ambos lugares contiguos ao Cabo Frio, ha plantaÁıes
+consideraveis do _Cactus_, que facilmente se augment„o com garfos da
+mesma, plantados na estaÁ„o fria, e chuvosa, ainda que depois medr„o
+menos, quando n„o expostas ao Sol. Os Insectos cri„o, e colhem-se em
+tempo secco desde Outubro atÈ MarÁo. Animou-se a preparaÁ„o da
 Cochonilha, deixando livre este ramo de commercio, que antigamente era
 hum monopolio da Coroa[1].
 
@@ -876,15 +876,15 @@ FIM.
 ADVERTENCIA.
 
 
-Os Brasilianos dividi√£o a familia dos Cactos, ou Cacteiros em duas, aos
-que tinh√£o a folha chata e espinhosa, a que os Botanicos d√£o geralmente
-o nome de Opuncias, chamav√£o _Ju-ro beba_, de _j√∫_ espinho, _oba_, folha
-ou vestido _beba_ chata, o qual por corrup√ß√£o se diz Urumbeba; e aos que
-er√£o esquinados a que os Botanicos com Jussieu cham√°r√£o _Cirios_, pela
-configura√ß√£o com as tochas quadradas, dav√£o o nome de _Ju-macar√∫_, e
-hoje _Nanacur√∫_, e nesta familia ha huma que d√° hum fructo delicioso. Na
-obra grande, que traduzimos de M. de Menonville, nos esfor√ßaremos em
-fazer v√™r todas as especies, que encontr√°mos no Brazil. Aqui s√≥mente
+Os Brasilianos dividi„o a familia dos Cactos, ou Cacteiros em duas, aos
+que tinh„o a folha chata e espinhosa, a que os Botanicos d„o geralmente
+o nome de Opuncias, chamav„o _Ju-ro beba_, de _j˙_ espinho, _oba_, folha
+ou vestido _beba_ chata, o qual por corrupÁ„o se diz Urumbeba; e aos que
+er„o esquinados a que os Botanicos com Jussieu cham·r„o _Cirios_, pela
+configuraÁ„o com as tochas quadradas, dav„o o nome de _Ju-macar˙_, e
+hoje _Nanacur˙_, e nesta familia ha huma que d· hum fructo delicioso. Na
+obra grande, que traduzimos de M. de Menonville, nos esforÁaremos em
+fazer vÍr todas as especies, que encontr·mos no Brazil. Aqui sÛmente
 daremos a figura do Cacto Cochinilheiro, copiada da que traz Dillenio no
 Horto Elthamense, que he a cilanda por Linne, como tambem a da
 Cochonilha, e reservamos para a outra dar a Estampa de Menonville.
@@ -899,15 +899,15 @@ Cochonilha, e reservamos para a outra dar a Estampa de Menonville.
 
 *Notas:*
 
-[1] _A Coroa nunca monopolisou este genero: s√≥ o comprava por hum maior
-pre√ßo, para animar os moradores √° sua cultura._
+[1] _A Coroa nunca monopolisou este genero: sÛ o comprava por hum maior
+preÁo, para animar os moradores · sua cultura._
 
 
 
 
 
 End of the Project Gutenberg EBook of Memoria sobre a cultura da Urumbeba e
-sobre cria√ß√£o da Cochonilha, by Claude-Louis Berthollet
+sobre criaÁ„o da Cochonilha, by Claude-Louis Berthollet
 
 *** END OF THIS PROJECT GUTENBERG EBOOK MEMORIA SOBRE A CULTURA DA ***
 
@@ -915,7 +915,7 @@ sobre cria√ß√£o da Cochonilha, by Claude-Louis Berthollet
 This and all associated files of various formats will be found in:
         http://www.gutenberg.org/4/0/0/9/40093/
 
-Produced by Rita Farinha, Alberto Manuel Brand√£o Sim√µes
+Produced by Rita Farinha, Alberto Manuel Brand„o Simıes
 and the Online Distributed Proofreading Team at
 http://www.pgdp.net (This file was produced from images
 generously made available by National Library of Portugal

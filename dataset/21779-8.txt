@@ -1,4 +1,4 @@
-Project Gutenberg's Luiz de Cam√µes marinheiro, by Vicente de Almeida de E√ßa
+Project Gutenberg's Luiz de Camıes marinheiro, by Vicente de Almeida de EÁa
 
 This eBook is for the use of anyone anywhere at no cost and with
 almost no restrictions whatsoever.  You may copy it, give it away or
@@ -6,9 +6,9 @@ re-use it under the terms of the Project Gutenberg License included
 with this eBook or online at www.gutenberg.net
 
 
-Title: Luiz de Cam√µes marinheiro
+Title: Luiz de Camıes marinheiro
 
-Author: Vicente de Almeida de E√ßa
+Author: Vicente de Almeida de EÁa
 
 Release Date: June 8, 2007 [EBook #21779]
 
@@ -16,12 +16,12 @@ Language: Portuguese
 
 Character set encoding: ISO-8859-1
 
-*** START OF THIS PROJECT GUTENBERG EBOOK LUIZ DE CAM√ïES MARINHEIRO ***
+*** START OF THIS PROJECT GUTENBERG EBOOK LUIZ DE CAM’ES MARINHEIRO ***
 
 
 
 
-Produced by Pedro Saborano. Para coment√°rios √† transcri√ß√£o
+Produced by Pedro Saborano. Para coment·rios ‡ transcriÁ„o
 visite http://pt-scriba.blogspot.com/ (This book was
 produced from scanned images of public domain material
 from Google Book Search)
@@ -34,7 +34,7 @@ from Google Book Search)
 
 
 
-LUIZ DE CAM√ïES
+LUIZ DE CAM’ES
 
 MARINHEIRO
 
@@ -44,7 +44,7 @@ ESTUDO
 POR
 
 
-ALMEIDA D'E√áA
+ALMEIDA D'E«A
 
 
 DAVID CORAZZI--EDITOR
@@ -53,25 +53,25 @@ Rua da Atalaya, 40 a 52
 1880
 
 
-      Quem deixar√°, at√© onde cheguem as suas for√ßas, de concorrer para
+      Quem deixar·, atÈ onde cheguem as suas forÁas, de concorrer para
       illustrar o nome do Poeta extraordinario que emprehendeu e levou a
       cabo o levantar o monumento da nossa gloria nacional?
 
-            Visconde de Juromenha. _Obras de Cam√µes._ Vol. I, pag. 7.
+            Visconde de Juromenha. _Obras de Camıes._ Vol. I, pag. 7.
 
       O perscrutar os mais fundos recessos do espirito de um poeta como
-      Cam√µes, n√£o √© indigno da critica, nem um estudo vasio de interesse.
+      Camıes, n„o È indigno da critica, nem um estudo vasio de interesse.
 
-            J. G. Monteiro. _Carta √°cerca da ilha dos amores_, pag. 11.
+            J. G. Monteiro. _Carta ·cerca da ilha dos amores_, pag. 11.
 
 
-A maior parte das observa√ß√µes, que v√£o ler-se, foram feitas longe da
-patria, quando o poema de Cam√µes era o unico amigo intimo com quem
+A maior parte das observaÁıes, que v„o ler-se, foram feitas longe da
+patria, quando o poema de Camıes era o unico amigo intimo com quem
 desabafavamos saudades e soffrimentos. Concluimos depois este humilde
 estudo em uma aldeia de Portugal, onde faltavam os bons livros e mestres,
 cuja consulta seria indispensavel para que elle fosse menos que imperfeito.
-Sirva isto de desculpa √° rudeza d'estas linhas, que s√≥ pretendem ser
-homenagem de agradecimento √°quelle que t√£o bem soube fallar ao cora√ß√£o do
+Sirva isto de desculpa · rudeza d'estas linhas, que sÛ pretendem ser
+homenagem de agradecimento ·quelle que t„o bem soube fallar ao coraÁ„o do
 marinheiro.
 
 Abril de 1880.
@@ -83,75 +83,75 @@ I
 
 
 O nosso Epico, o immortal auctor dos _Lusiadas_, o escriptor que fez com
-que o estrangeiro n√£o esquecesse de todo o nome portuguez,--tudo isto se
-diz que foi Luiz de Cam√µes. A fibra patriotica julga-se quite da divida de
-gratid√£o ao grande Poeta com ter-lhe erigido um monumento de gosto
+que o estrangeiro n„o esquecesse de todo o nome portuguez,--tudo isto se
+diz que foi Luiz de Camıes. A fibra patriotica julga-se quite da divida de
+gratid„o ao grande Poeta com ter-lhe erigido um monumento de gosto
 duvidoso, em sitio acanhado da capital, e com pronunciar o seu nome quando
-lhe dizem os desalentados que Portugal √© uma terra morta. Mas, por se
-orgulharem tanto de ser filhos do mesmo torr√£o em que nasceu Cam√µes, nem
-por isso esses, que tantas vezes lhe citam o nome, sentem tenta√ß√£o de tomar
-conhecimento, sequer passageiro, do que elles dizem ser um padr√£o das
-nossas glorias; e, n√£o fallando nos que propriamente se dedicam aos estudos
+lhe dizem os desalentados que Portugal È uma terra morta. Mas, por se
+orgulharem tanto de ser filhos do mesmo torr„o em que nasceu Camıes, nem
+por isso esses, que tantas vezes lhe citam o nome, sentem tentaÁ„o de tomar
+conhecimento, sequer passageiro, do que elles dizem ser um padr„o das
+nossas glorias; e, n„o fallando nos que propriamente se dedicam aos estudos
 litterarios, porque a esses incumbe o dever de conhecerem as obras do nosso
-Poeta, raro se encontrar√° nas classes illustradas um portuguez que dos
+Poeta, raro se encontrar· nas classes illustradas um portuguez que dos
 _Lusiadas_ tenha lido mais que as poucas oitavas _selectas_, que se
-encontram nos compendios de instruc√ß√£o.
+encontram nos compendios de instrucÁ„o.
 
-Assim, ao passo que o inglez, o allem√£o ou o francez menos dado √°s lides
-litterarias, mas que se preze de ter uma educa√ß√£o regular, conhece, possue,
-l√™ e cita amiudadas vezes Shakespeare, Milton e Byron, ou Schiller e
-Goethe, ou Moli√®re e Lafontaine, n√≥s, despresando as joias de metal sem
-liga pelos enfeites de ouropel, fallamos de Cam√µes quasi como os cegos
-poder√£o fallar da luz. E o mal √© tanto maior quanto uma audaciosa escola
+Assim, ao passo que o inglez, o allem„o ou o francez menos dado ·s lides
+litterarias, mas que se preze de ter uma educaÁ„o regular, conhece, possue,
+lÍ e cita amiudadas vezes Shakespeare, Milton e Byron, ou Schiller e
+Goethe, ou MoliËre e Lafontaine, nÛs, despresando as joias de metal sem
+liga pelos enfeites de ouropel, fallamos de Camıes quasi como os cegos
+poder„o fallar da luz. E o mal È tanto maior quanto uma audaciosa escola
 contemporanea tenta arrogar-se o exclusivo de fallar verdade, de
 _photographar_ a natureza, como dizem os seus corypheus, dando a entender
 que o que antes d'elles se escreveu era tudo falso, que ninguem tinha
-habilidade para copiar a natureza, e que s√≥ elles sabem chamar as cousas
+habilidade para copiar a natureza, e que sÛ elles sabem chamar as cousas
 pelo seu nome!
 
-N√£o nos permittem as nossas poucas for√ßas entrar na li√ßa contra essa
+N„o nos permittem as nossas poucas forÁas entrar na liÁa contra essa
 escola, que hoje parece ter assambarcado o gosto e os louvores do publico;
-s√≥ quizeramos pedir respeitosamente aos thuriferarios do novo idolo, que
+sÛ quizeramos pedir respeitosamente aos thuriferarios do novo idolo, que
 consintam a algum _retrogrado_ da arte o conservar no mais intimo do seu
-espirito a cren√ßa de que, em tempos que j√° l√° v√£o, houve quem escrevesse
-com realidade, quem pintasse a natureza tal como ella √©; consintam-lhe que,
-lendo o pobre Cam√µes, encontre n'elle descrip√ß√µes verdadeiramente reaes ou
-_realistas_, porque s√£o apenas verdadeiras.
+espirito a crenÁa de que, em tempos que j· l· v„o, houve quem escrevesse
+com realidade, quem pintasse a natureza tal como ella È; consintam-lhe que,
+lendo o pobre Camıes, encontre n'elle descripÁıes verdadeiramente reaes ou
+_realistas_, porque s„o apenas verdadeiras.
 
 Para se ser poeta, verdadeiramente poeta, para se fallar poeticamente da
-natureza ou das artes, n√£o basta ter a inspira√ß√£o do rythmo, saber alinhar
-palavras ora altisonantes ora docemente musicaes; √© necessario conhecer a
-natureza, conhecer as artes e as sciencias de que se quer fallar, √©
+natureza ou das artes, n„o basta ter a inspiraÁ„o do rythmo, saber alinhar
+palavras ora altisonantes ora docemente musicaes; È necessario conhecer a
+natureza, conhecer as artes e as sciencias de que se quer fallar, È
 necessario sentil-as, consubstanciar-se com ellas. Para fallar de
-astronomia, ainda mesmo poeticamente, √© necessario conhecer os astros; para
-fallar do mar √© necessario ter percorrido os oceanos, ter presenciado as
+astronomia, ainda mesmo poeticamente, È necessario conhecer os astros; para
+fallar do mar È necessario ter percorrido os oceanos, ter presenciado as
 tempestades, ter soffrido com o marinheiro, porque
 
-      quem n√£o sabe a arte, n√£o na estima
+      quem n„o sabe a arte, n„o na estima
                         (Lus. V, 97.)
 
-Quem n√£o tiver conhecido exactamente e sentido as cousas que quer
-descrever, s√≥ p√≥de copiar uma natureza subjectiva, filha da imagina√ß√£o,
-pura inven√ß√£o do seu cerebro. √â por isso que vemos hoje um Phara√≥ montado
+Quem n„o tiver conhecido exactamente e sentido as cousas que quer
+descrever, sÛ pÛde copiar uma natureza subjectiva, filha da imaginaÁ„o,
+pura invenÁ„o do seu cerebro. … por isso que vemos hoje um PharaÛ montado
 em corcel andaluz, mastodontes em correrias desenfreadas pelas florestas
 virgens da Europa contemporanea, condores pousados graciosamente nos
 calices das rosas, e... _il resto no lo dico_.
 
-Mas Cam√µes viu os continentes e as ilhas, os oceanos e as montanhas, e por
-isso √© o grande pintor da natureza; Cam√µes foi soldado, e por isso √© o
-veridico narrador das batalhas; Cam√µes serviu cargos do estado, e por isso
-dos seus versos se p√≥de tirar um tratado completo de politica; Cam√µes,
-finalmente, navegou muito, e por isso √©, como diz Alexandre de Humboldt, um
+Mas Camıes viu os continentes e as ilhas, os oceanos e as montanhas, e por
+isso È o grande pintor da natureza; Camıes foi soldado, e por isso È o
+veridico narrador das batalhas; Camıes serviu cargos do estado, e por isso
+dos seus versos se pÛde tirar um tratado completo de politica; Camıes,
+finalmente, navegou muito, e por isso È, como diz Alexandre de Humboldt, um
 grande pintor maritimo.
 
-Espiritos elevados e intelligencias altamente illustradas tem j√°
+Espiritos elevados e intelligencias altamente illustradas tem j·
 considerado o nosso Poeta debaixo de alguns d'estes pontos de vista.
-Parece-nos, comtudo, que ainda se n√£o explorou sufficientemente um dos
-veios mais ricos d'essa riquissima mina. Tentaremos n√≥s, em rapido esbo√ßo,
-mostrar como na sua palheta de multiplices c√¥res tinha Cam√µes algumas das
+Parece-nos, comtudo, que ainda se n„o explorou sufficientemente um dos
+veios mais ricos d'essa riquissima mina. Tentaremos nÛs, em rapido esboÁo,
+mostrar como na sua palheta de multiplices cÙres tinha Camıes algumas das
 mais brilhantes e apropriadas para descrever o mar e pintar os homens que
-n'elle vivem. Procuraremos mostrar como Cam√µes foi um marinheiro, mas um
-marinheiro de alma e cora√ß√£o divinamente inspirados; procuraremos
+n'elle vivem. Procuraremos mostrar como Camıes foi um marinheiro, mas um
+marinheiro de alma e coraÁ„o divinamente inspirados; procuraremos
 demonstrar como lhe assenta bem o epitheto de _Naval Poet_, que lhe deu um
 escriptor inglez, e teremos assim justificado o titulo que demos a este
 despretencioso trabalho.
@@ -163,150 +163,150 @@ II
 
 
 Para poder tratar da sciencia e da arte do marinheiro com a provada
-exatid√£o e superior proficiencia, que se observam nas suas obras, devia
-Cam√µes ter tido um longo tirocinio maritimo, pois s√≥ com largas viagens
-sobre o mar poderia elle adquirir esses conhecimentos t√£o variados.
+exatid„o e superior proficiencia, que se observam nas suas obras, devia
+Camıes ter tido um longo tirocinio maritimo, pois sÛ com largas viagens
+sobre o mar poderia elle adquirir esses conhecimentos t„o variados.
 
 Se ainda hoje, com tantos tratados e livros ao alcance de todas as
-intelligencias, √© comtudo difficil, a quem n√£o viu o mar e os seus
-trabalhos, fazer d'elles uma id√©a aproximadamente exacta, muito mais
+intelligencias, È comtudo difficil, a quem n„o viu o mar e os seus
+trabalhos, fazer d'elles uma idÈa aproximadamente exacta, muito mais
 acontecia isso no tempo do Poeta, quando a geographia, a astronomia e a
 nautica eram sciencias, alem de atrasadas, possuidas por poucos, de modo
 que a maioria das pessoas, ainda mesmo das classes illustradas, faziam de
-tudo o que dizia respeito √° navega√ß√£o, id√©a vaga e por vezes muito afastada
+tudo o que dizia respeito · navegaÁ„o, idÈa vaga e por vezes muito afastada
 da verdade, confundindo-se no seu espirito os verdadeiros perigos do mar
-com os horrores e medos imaginarios, que eram ainda restos da tradi√ß√£o do
-Mar Tenebroso. Os escriptores, que n√£o tinham navegado, ao descreverem
-scenas maritimas, serviam-se de um padr√£o uniforme, successivamente copiado
+com os horrores e medos imaginarios, que eram ainda restos da tradiÁ„o do
+Mar Tenebroso. Os escriptores, que n„o tinham navegado, ao descreverem
+scenas maritimas, serviam-se de um padr„o uniforme, successivamente copiado
 ou imitado, e em que a natureza muitas vezes tinha pouca parte. E
-realmente, como poder√° descrever com exactid√£o uma tempestade quem nunca
-tenha visto alguma? Como poder√° descrever com verdade o alvoro√ßo sentido
-pelo marinheiro ao avistar terra, depois da longa e trabalhosa navega√ß√£o,
+realmente, como poder· descrever com exactid„o uma tempestade quem nunca
+tenha visto alguma? Como poder· descrever com verdade o alvoroÁo sentido
+pelo marinheiro ao avistar terra, depois da longa e trabalhosa navegaÁ„o,
 aquelle que nunca saiu do remanso da patria e do conchego da familia?
 
 Mas o nosso Poeta foi n'esse ponto mais feliz que nenhum outro, porque
-navegou e viajou muito, e de si podia dizer o que poz na b√¥ca do Gama:
+navegou e viajou muito, e de si podia dizer o que poz na bÙca do Gama:
 
       Os casos vi, que os rudos marinheiros,
       Que tem por mestra a longa experiencia,
       Contam por certos sempre e verdadeiros,
-      Julgando as cousas s√≥ pela apparencia;
+      Julgando as cousas sÛ pela apparencia;
       E que os que tem juizos mais inteiros,
-      Que s√≥ por puro engenho e por sciencia
-      V√™m do mundo os segredos escondidos,
+      Que sÛ por puro engenho e por sciencia
+      VÍm do mundo os segredos escondidos,
       Julgam por falsos ou mal entendidos.
                         (Lus. v, 17.)
 
 Antes, pois, de vermos como o Poeta tratou das cousas do mar, recordemos da
-sua biographia o que diga respeito √°s navega√ß√µes que fez.
+sua biographia o que diga respeito ·s navegaÁıes que fez.
 
-Luiz de Cam√µes embarcou pela primeira vez pelos annos de 1546. Este
+Luiz de Camıes embarcou pela primeira vez pelos annos de 1546. Este
 primeiro embarque parece ter sido um castigo motivado ou pelos seus
 malfadados amores com D. Catharina d'Athayde ou por qualquer outra causa,
 talvez um duello dos muitos que lhe originava o seu genio ardente e
-cavalheiroso, que lhe valeu dos companheiros e qui√ß√° dos emulos a alcunha
-de Trinca-fortes. Certo √© que partiu para Ceuta, e em t√£o boa ou m√° hora
+cavalheiroso, que lhe valeu dos companheiros e quiÁ· dos emulos a alcunha
+de Trinca-fortes. Certo È que partiu para Ceuta, e em t„o boa ou m· hora
 que, logo n'essa viagem, teve um recontro com corsarios barbarescos,
-suppondo-se que foi ent√£o que perdeu o olho direito.
+suppondo-se que foi ent„o que perdeu o olho direito.
 
 Voltou de Africa em 1549 em companhia de D. Affonso de Noronha, que tinha
-sido capit√£o de Ceuta, e que, chegado a Lisboa, foi nomeado vice-rei da
-India por D. Jo√£o III. Vinha o Poeta j√° com ten√ß√£o de se alistar para a
+sido capit„o de Ceuta, e que, chegado a Lisboa, foi nomeado vice-rei da
+India por D. Jo„o III. Vinha o Poeta j· com tenÁ„o de se alistar para a
 India, o que fez com effeito em 1550 na _nau dos Burgalezes_, que pertencia
-√° armada em que D. Affonso de Noronha devia seguir viagem. N√£o partiu,
-por√©m, n'essa occasi√£o, mas sim tres annos depois, a 24 de mar√ßo de 1553,
-na armada que levava por capit√£o-m√≥r Fern√£o Alvares Cabral. Era tal o seu
+· armada em que D. Affonso de Noronha devia seguir viagem. N„o partiu,
+porÈm, n'essa occasi„o, mas sim tres annos depois, a 24 de marÁo de 1553,
+na armada que levava por capit„o-mÛr Fern„o Alvares Cabral. Era tal o seu
 desejo de partir, ou para deixar a patria onde o perseguiam os desgostos,
-ou para ver se melhorava de fortuna e podia realisar as aspira√ß√µes do seu
-cora√ß√£o, que trocou com outro _homem d'armas_, e embarcou na capitaina, que
+ou para ver se melhorava de fortuna e podia realisar as aspiraÁıes do seu
+coraÁ„o, que trocou com outro _homem d'armas_, e embarcou na capitaina, que
 era a nau _S. Bento_.
 
-N'esta viagem experimentou Cam√µes os duros trabalhos do mar, porque a
-armada, poucos dias depois de sa√≠r de Lisboa, foi assaltada por um temporal
-que a dispersou. Chegado √°s alturas do Cabo pagou o Poeta o tributo devido
+N'esta viagem experimentou Camıes os duros trabalhos do mar, porque a
+armada, poucos dias depois de saÌr de Lisboa, foi assaltada por um temporal
+que a dispersou. Chegado ·s alturas do Cabo pagou o Poeta o tributo devido
 ao Genio d'aquellas paragens, que elle havia de immortalisar. Essa
 tormenta, que elle descreveu na sua elegia III, inspirou-lhe com certeza o
-bello episodio do Adamastor. N√£o podendo j√° seguir a viagem pelo canal de
-Mo√ßambique, ou por ter passado a mon√ß√£o ou por causa das correntes
-contrarias, a nau _S. Bento_ fez a derrota por f√≥ra da ilha de Madagascar,
-correndo n'aquelle parallelo at√© √° latitude da India. Finalmente, em
+bello episodio do Adamastor. N„o podendo j· seguir a viagem pelo canal de
+MoÁambique, ou por ter passado a monÁ„o ou por causa das correntes
+contrarias, a nau _S. Bento_ fez a derrota por fÛra da ilha de Madagascar,
+correndo n'aquelle parallelo atÈ · latitude da India. Finalmente, em
 setembro, chegou o Poeta a Goa, depois de seis mezes de uma viagem, que,
-parcendo-nos hoje aborrecida e longa, n√£o foi comtudo das peores para
+parcendo-nos hoje aborrecida e longa, n„o foi comtudo das peores para
 aquelle tempo.
 
 A vida dos militares portuguezes na India era um tecido de continuas
-expedi√ß√µes ora terrestres ora maritimas, predominando comtudo estas
-ultimas. Por isso, mez e meio depois de ter o Poeta chegado a Goa, j√° o
-vemos acompanhar o vice-rei em uma d'essas expedi√ß√µes, que tinha por fim
-soccorrer o rei de Cochim. Ahi teve elle occasi√£o de observar desembarques
+expediÁıes ora terrestres ora maritimas, predominando comtudo estas
+ultimas. Por isso, mez e meio depois de ter o Poeta chegado a Goa, j· o
+vemos acompanhar o vice-rei em uma d'essas expediÁıes, que tinha por fim
+soccorrer o rei de Cochim. Ahi teve elle occasi„o de observar desembarques
 e combates em terra. Logo em seguida a esta viagem ao sul de Goa fez o
 Poeta outra ao norte, embarcando na armada que foi correr a costa
 meridional da Arabia e cruzar no golfo de Aden, a qual era commandada por
-D. Fernando de Menezes, filho do vice-rei. N'esta expedi√ß√£o teve Cam√µes
+D. Fernando de Menezes, filho do vice-rei. N'esta expediÁ„o teve Camıes
 desembarques, assaltos de fortalezas, combates navaes, e um cruzeiro
 enfadonho em que muitas vezes contemplou com desgosto a triste aridez do
-Guardafui, at√© que em setembro de 1554 regressou a Goa.
+Guardafui, atÈ que em setembro de 1554 regressou a Goa.
 
-Dois annos depois, sendo j√° governador da India Francisco Barreto, foi o
+Dois annos depois, sendo j· governador da India Francisco Barreto, foi o
 nosso Poeta para a China, na armada de Francisco Martins, para occupar o
 cargo de provedor dos defuntos e ausentes.
 
-O nosso primeiro estabelecimento na China tinha sido na cidade de Liamp√≥, e
-chegou a t√£o grande altura de riqueza e prosperidade commercial, como se
-p√≥de ver das descrip√ß√µes que Fern√£o Mendes Pinto faz das festas com que ali
+O nosso primeiro estabelecimento na China tinha sido na cidade de LiampÛ, e
+chegou a t„o grande altura de riqueza e prosperidade commercial, como se
+pÛde ver das descripÁıes que Fern„o Mendes Pinto faz das festas com que ali
 foi recebido o famigerado Antonio de Faria. Perdeu-se este estabelecimento
-em 1542, por causa das desordens provocadas pelo negociante Lan√ßarote
+em 1542, por causa das desordens provocadas pelo negociante LanÁarote
 Pereira. Em 1544 conseguiram os portuguezes estabelecer-se em Chincheu, mas
-tambem d'ahi foram expulsos em 1547 por causa das malversa√ß√µes e
-expolia√ß√µes de Ayres Botelho de Sousa, capit√£o-m√≥r e prevedor dos defuntos.
+tambem d'ahi foram expulsos em 1547 por causa das malversaÁıes e
+expoliaÁıes de Ayres Botelho de Sousa, capit„o-mÛr e prevedor dos defuntos.
 Finalmente, faziam o seu commercio em Lampacau, quando em 1557 obtiveram
 dos chinas o estabelecerem-se na peninsula de Macau, como premio de terem
-expulsado dos seus portos um temivel pirata? √â, pois, provavel que o nosso
+expulsado dos seus portos um temivel pirata? …, pois, provavel que o nosso
 Poeta fosse ainda tomar parte n'esse combate, que deu aos portuguezes a
-posse d'aquelle estabelecimento, e a elle a do logar para que √≠a nomeado.
+posse d'aquelle estabelecimento, e a elle a do logar para que Ìa nomeado.
 
-Querem a maior parte dos escriptores, que tratam da vida de Cam√µes, que a
+Querem a maior parte dos escriptores, que tratam da vida de Camıes, que a
 ida d'elle para a China fosse degredo imposto por Francisco Barreto, por
-causa da critica acerba que o genio mordaz e independente do Poeta fazia √°s
-cousas da India, mas o erudito biographo de Cam√µes e seu editor moderno, a
+causa da critica acerba que o genio mordaz e independente do Poeta fazia ·s
+cousas da India, mas o erudito biographo de Camıes e seu editor moderno, a
 quem nos encostamos n'estes apontamentos, defende a memoria do governador,
-e julga que se n√£o deve considerar castigo a nomea√ß√£o para um logar t√£o
+e julga que se n„o deve considerar castigo a nomeaÁ„o para um logar t„o
 rendoso.
 
 Foi o Poeta infeliz em Macau, porque, dois annos depois de chegar, nos
-primeiros mezes de 1558, veiu preso para Goa, √° ordem do governador, por
-accusa√ß√µes sobre a sua administra√ß√£o dos bens dos defuntos e ausentes. Quem
+primeiros mezes de 1558, veiu preso para Goa, · ordem do governador, por
+accusaÁıes sobre a sua administraÁ„o dos bens dos defuntos e ausentes. Quem
 sabe se elle vinha pagar as culpas do seu antecessor Ayres Botelho? Foi
 n'esta viagem de regresso a Goa que elle naufragou na costa de Camboja na
 Cochinchina, salvando-se a nado com o seu poema, e perdendo tudo o mais que
-possuia. A este naufragio allude elle quando diz que o rio M√©-kong
+possuia. A este naufragio allude elle quando diz que o rio MÈ-kong
 
-            receber√° placido e brando
-      No seu rega√ßo o Canto, que molhado
+            receber· placido e brando
+      No seu regaÁo o Canto, que molhado
       Vem do naufragio triste e miserando,
       Dos procellosos baixos escapado,
       Das fomes, dos perigos grandes, quando
-      Ser√° o injusto mando executado
+      Ser· o injusto mando executado
       Naquelle, cuja lyra sonorosa
-      Ser√° mais afamada do que ditosa.
+      Ser· mais afamada do que ditosa.
                         (Lus. X, 128.)
 
-Chegado a Goa, onde j√° estava o novo vice-rei D. Constantino de Bragan√ßa,
-foi o Poeta solto, tendo-se justificado das accusa√ß√µes por que vinha preso.
-Desde ent√£o at√© 1567 succederam-se as suas viagens por todo o Oriente, e √©
+Chegado a Goa, onde j· estava o novo vice-rei D. Constantino de BraganÁa,
+foi o Poeta solto, tendo-se justificado das accusaÁıes por que vinha preso.
+Desde ent„o atÈ 1567 succederam-se as suas viagens por todo o Oriente, e È
 provavel que acompanhasse D. Diogo de Menezes a Malacca e d'ahi fosse
-percorrer as Molucas e chegasse mesmo ao Jap√£o.
+percorrer as Molucas e chegasse mesmo ao Jap„o.
 
-Voltou a Goa pelo meiado de 1567, e foi agraciado pelo vice-rei D. Ant√£o de
-Noronha com a sobrevivencia no cargo de feitor de Cha√∫l, logar de
-representa√ß√£o e bom ordenado. N√£o chegou, por√©m, o Poeta a tomar posse
-d'elle, porque, cansado de persegui√ß√µes e soffrimentos, aproveitou o
-offerecimento de passagem que lhe fez Pedro Barreto, o qual √≠a por
-capit√£o-m√≥r para Mo√ßambique, e com elle deixou Goa em 1567, fazendo assim a
-sua ultima viagem no oceano Indico. Em Mo√ßambique esteve cerca de dois
-annos, e foi ahi que terminou e aperfei√ßoou o seu poema, feito quasi todo
-j√° durante o tempo em que elle esteve em Macau, j√° durante as suas viagens
-e expedi√ß√µes, pois diz elle dirigindo-se √°s Nymphas do Tejo e do Mondego:
+Voltou a Goa pelo meiado de 1567, e foi agraciado pelo vice-rei D. Ant„o de
+Noronha com a sobrevivencia no cargo de feitor de Cha˙l, logar de
+representaÁ„o e bom ordenado. N„o chegou, porÈm, o Poeta a tomar posse
+d'elle, porque, cansado de perseguiÁıes e soffrimentos, aproveitou o
+offerecimento de passagem que lhe fez Pedro Barreto, o qual Ìa por
+capit„o-mÛr para MoÁambique, e com elle deixou Goa em 1567, fazendo assim a
+sua ultima viagem no oceano Indico. Em MoÁambique esteve cerca de dois
+annos, e foi ahi que terminou e aperfeiÁoou o seu poema, feito quasi todo
+j· durante o tempo em que elle esteve em Macau, j· durante as suas viagens
+e expediÁıes, pois diz elle dirigindo-se ·s Nymphas do Tejo e do Mondego:
 
       Olhae que ha tanto tempo que _cantando_
       O vosso Tejo e os vossos Lusitanos
@@ -314,23 +314,23 @@ e expedi√ß√µes, pois diz elle dirigindo-se √°s Nymphas do Tejo e do Mondego:
       Novos trabalhos vendo e novos damnos,
       Agora o mar, agora exp'rimentando
       Os _perigos mavorcios_ inhumanos;
-      Qual Canace, que √° morte se condena,
-      _N'uma m√£o sempre a espada e n'outra a penna._
+      Qual Canace, que · morte se condena,
+      _N'uma m„o sempre a espada e n'outra a penna._
                         (Lus. VII, 79.)
 
-Finalmente, em 1569, arribou a Mo√ßambique a armada que regressava ao reino,
-e na qual √≠am os amigos do Poeta, os quaes, tendo pago as suas dividas, o
-trouxeram a Portugal na nau _Santa Clara_, ¬´nau a mais rica, diz o sr.
+Finalmente, em 1569, arribou a MoÁambique a armada que regressava ao reino,
+e na qual Ìam os amigos do Poeta, os quaes, tendo pago as suas dividas, o
+trouxeram a Portugal na nau _Santa Clara_, ´nau a mais rica, diz o sr.
 visconde de Juromenha, que tinha vindo de carreira da India, pois trazia a
-seu bordo Luiz de Cam√µes e Diogo do Couto.¬ª
+seu bordo Luiz de Camıes e Diogo do Couto.ª
 
 Fundeou a nau na bahia de Cascaes em abril de 1570, e assim terminaram as
-longas perigrina√ß√µes do Poeta.
+longas perigrinaÁıes do Poeta.
 
-Dez annos depois, a 10 de junho de 1580, morria Luiz de Cam√µes, pobre e
-desamparado, e ¬´vereis todos, escrevia elle pouco antes de deixar o mundo,
-que fui t√£o affei√ßoado √° minha patria, que n√£o s√≥mente me contentei de
-morrer n'ella, mas de morrer com ella!¬ª
+Dez annos depois, a 10 de junho de 1580, morria Luiz de Camıes, pobre e
+desamparado, e ´vereis todos, escrevia elle pouco antes de deixar o mundo,
+que fui t„o affeiÁoado · minha patria, que n„o sÛmente me contentei de
+morrer n'ella, mas de morrer com ella!ª
 
 
 
@@ -338,57 +338,57 @@ morrer n'ella, mas de morrer com ella!¬ª
 III
 
 
-Temos visto como Luiz de Cam√µes percorreu em repetidas viagens o Oceano
+Temos visto como Luiz de Camıes percorreu em repetidas viagens o Oceano
 Atlantico e o Indico, o mar da China e os Estreitos. Para vermos como a sua
 intelligencia superior aproveitou este longo tirocinio, appropriando-se e,
-por assim dizer, assimilando-se tudo quanto observ√°ra, phenomenos do mar,
-costumes dos marinheiros, sciencia de navega√ß√£o, etc., basta abrir o seu
-immortal poema, porque ahi, sempre que elle tem de se referir √°s cousas do
-mar, fal-o com a maxima propriedade, com toda a verdade de descrip√ß√£o.
+por assim dizer, assimilando-se tudo quanto observ·ra, phenomenos do mar,
+costumes dos marinheiros, sciencia de navegaÁ„o, etc., basta abrir o seu
+immortal poema, porque ahi, sempre que elle tem de se referir ·s cousas do
+mar, fal-o com a maxima propriedade, com toda a verdade de descripÁ„o.
 
 Respiguemos, pois, n'essa vasta campina de tantas flores e fructos.
 
 A vida do marinheiro tem tormentos e prazeres desconhecidos aos homens de
 terra. A lucta constante com os elementos torna-o _rudo_, epitheto que o
-Poeta a miude lhe d√°. A monotonia dos longos dias em que se n√£o v√™ _mais
-que mar e c√©u_ (Lus. V, 3), faz com que elle procure abreviar o tempo com
+Poeta a miude lhe d·. A monotonia dos longos dias em que se n„o vÍ _mais
+que mar e cÈu_ (Lus. V, 3), faz com que elle procure abreviar o tempo com
 historias e contos, torna-o investigador curioso das cousas novas que vae
-vendo. A saudade da patria faz-lhe alvoro√ßar o cora√ß√£o com a lembran√ßa
-d'ella, e √© por isso que elle procura ser o primeiro a dar o alegre brado
-de--¬´Terra √° vista!¬ª--brado que faz esquecer todos os trabalhos e males
+vendo. A saudade da patria faz-lhe alvoroÁar o coraÁ„o com a lembranÁa
+d'ella, e È por isso que elle procura ser o primeiro a dar o alegre brado
+de--´Terra · vista!ª--brado que faz esquecer todos os trabalhos e males
 passados.
 
-Tudo isto observou Cam√µes.
+Tudo isto observou Camıes.
 
-Deixa o marinheiro a patria e despede-se dos parentes e amigos, que o v√£o
-acompanhar ao embarque, n√£o fallando nos curiosos que n√£o perdem o
-imponente espectaculo que offerece um navio ao fazer-se de v√©la. Concorre
+Deixa o marinheiro a patria e despede-se dos parentes e amigos, que o v„o
+acompanhar ao embarque, n„o fallando nos curiosos que n„o perdem o
+imponente espectaculo que offerece um navio ao fazer-se de vÈla. Concorre
 pois, muita gente,
 
       Uns por amigos, outros por parentes,
-      Outros por ver s√≥mente,
+      Outros por ver sÛmente,
       Saudosos na vista e descontentes.
                         (Lus. IV, 88.)
 
-Os que deixam a patria v√£o
+Os que deixam a patria v„o
 
       Para os bateis caminhando.
                         (Lus., ibidem.)
 
-N√£o o fazem a olhos enxutos; as lamenta√ß√µes dos que os acompanham redobram
-de intensidade √° medida que se aproxima a hora fatal; a extrema afflic√ß√£o
-faz perder a esperan√ßa do regresso; lamentam-se todos,
+N„o o fazem a olhos enxutos; as lamentaÁıes dos que os acompanham redobram
+de intensidade · medida que se aproxima a hora fatal; a extrema afflicÁ„o
+faz perder a esperanÁa do regresso; lamentam-se todos,
 
       As mulheres c'um choro piedoso,
       Os homens com suspiros que arrancavam;
-      M√£es, esposas, irm√£s, que o temeroso
+      M„es, esposas, irm„s, que o temeroso
       Amor mais desconfia, acrescentavam
-      A despera√ß√£o e frio medo
-      De j√° nos n√£o tornar a ver t√£o cedo
+      A desperaÁ„o e frio medo
+      De j· nos n„o tornar a ver t„o cedo
                         (Lus. IV, 89.)
 
-√â doloroso aquelle transe, mas o dever e a necessidade fazem calar a voz do
-cora√ß√£o. Para evitar mais lagrimas esconde-se a hora exacta da partida, e
+… doloroso aquelle transe, mas o dever e a necessidade fazem calar a voz do
+coraÁ„o. Para evitar mais lagrimas esconde-se a hora exacta da partida, e
 embarcam-se
 
       Sem o despedimento costumado.
@@ -397,26 +397,26 @@ embarcam-se
 E partem, ficando-lhes,
 
             na amada terra
-      O cora√ß√£o, que as maguas l√° deixavam,
+      O coraÁ„o, que as maguas l· deixavam,
                         (Lus. V, 3.)
 
-Dura ha muitos dias a viagem. O vento √© de fei√ß√£o, o mar plano, os
+Dura ha muitos dias a viagem. O vento È de feiÁ„o, o mar plano, os
 horisontes claros e extensos. Navega-se de escota folgada. O commandante,
 
-            j√° cansado
+            j· cansado
       De vigiar a noite,
       Breve repouso aos olhos dava.
                         (Lus. II, 60.)
 
-D√° meia noite, rendem-se os quartos,
+D· meia noite, rendem-se os quartos,
 
       Os do quarto da prima se deitavam,
       Para o segundo os outros despertavam
                         (Lus. VI, 38.)
 
-Como √© desagradavel deixar o conchego da maca ou do beliche, quando
-estavamos no melhor do somno, quando talvez a imagina√ß√£o nos tinha
-transportado √° patria _em d√¥ces sonhos que mentiam_, para ir fazer um
+Como È desagradavel deixar o conchego da maca ou do beliche, quando
+estavamos no melhor do somno, quando talvez a imaginaÁ„o nos tinha
+transportado · patria _em dÙces sonhos que mentiam_, para ir fazer um
 quarto em cima da tolda, aguentando o aspero frio da noite! Por isso os
 pobres marinheiros
 
@@ -428,19 +428,19 @@ pobres marinheiros
       Mas esfregando, os membros estiravam.
                         (Lus. VI, 39.)
 
-N√£o ha manobras a fazer, n√£o ha cousa alguma que distr√°ia, porque, com
-tempo t√£o excellente, s√≥ √© preciso estar √°lerta. Como se h√£o de passar
+N„o ha manobras a fazer, n„o ha cousa alguma que distr·ia, porque, com
+tempo t„o excellente, sÛ È preciso estar ·lerta. Como se h„o de passar
 aquellas quatro horas e afugentar o somno teimoso?
 
       Remedios contra o somno buscar querem,
       Historias contam, casos mil referem,
                         (Lus., ibidem.)
 
-E ahi come√ßa o orador, o _beau-diseur_ da companhia, a contar uma historia
+E ahi comeÁa o orador, o _beau-diseur_ da companhia, a contar uma historia
 interessante, que entretem a todos e faz voar as horas.
 
-Mas nem tudo s√£o rosas durante a viagem; bem pelo contrario, os espinhos
-s√£o em numero muito superior. Aos dias de bom tempo succedem as
+Mas nem tudo s„o rosas durante a viagem; bem pelo contrario, os espinhos
+s„o em numero muito superior. Aos dias de bom tempo succedem as
 tempestades, que tornam o marinheiro
 
       Confuso de temor, da vida incerto
@@ -449,7 +449,7 @@ tempestades, que tornam o marinheiro
 e durante os quaes elle muitas vezes
 
       Chama aquelle remedio santo e forte
-      Que o impossivel p√≥de;
+      Que o impossivel pÛde;
                         (Lus., ibidem.)
 
 
@@ -457,103 +457,103 @@ e durante os quaes elle muitas vezes
       Aquelle que a salvar o mundo veio
                         (Lus. VI, 75.)
 
-A navega√ß√£o demorada e aborrecida tem exacerbado as saudades e irritado os
-animos; j√° se n√£o juntam os grupos pelas amuradas a contar historias.
-Escaceia a aguada, a bolacha est√° avariada, azedou o vinho; vae-se a meia
-ra√ß√£o e a menos; aproxima-se o terrivel espectro das viagens prolongadas, o
+A navegaÁ„o demorada e aborrecida tem exacerbado as saudades e irritado os
+animos; j· se n„o juntam os grupos pelas amuradas a contar historias.
+Escaceia a aguada, a bolacha est· avariada, azedou o vinho; vae-se a meia
+raÁ„o e a menos; aproxima-se o terrivel espectro das viagens prolongadas, o
 escorbuto. Assim vivem por muito tempo os marinheiros _coitados e
 perdidos_,
 
       De fomes, de tormentas quebrantados
-      E do esperar comprido t√£o cansados,
-      Quanto a desesperar j√° compellidos;
-      Corrupto j√° e damnado o mantimento
+      E do esperar comprido t„o cansados,
+      Quanto a desesperar j· compellidos;
+      Corrupto j· e damnado o mantimento
       Damnoso e mau ao fraco corpo humano,
       E alem d'isso nenhum contentamento,
-      Que sequer da esperan√ßa fosse engano.
+      Que sequer da esperanÁa fosse engano.
                         (Lus. V, 70, 71.)
 
 A tudo se resigna o marinheiro e vae
 
       Soffrendo tempestades e ondas cruas,
-      Vencendo os torpes frios no rega√ßo
-      Do sul e regi√µes de abrigo nuas,
+      Vencendo os torpes frios no regaÁo
+      Do sul e regiıes de abrigo nuas,
       Engolindo o corrupto mantimento
       Temperado c'um arduo soffrimento
                         (Lus. VI, 97.)
 
-E peor √© ainda quando chega a terrivel doen√ßa, _crua e feia_, de que j√°
-fall√°mos, com a qual
+E peor È ainda quando chega a terrivel doenÁa, _crua e feia_, de que j·
+fall·mos, com a qual
 
-      T√£o disformemente ali lhe incharam
-      As gengivas na b√¥ca, que crescia
+      T„o disformemente ali lhe incharam
+      As gengivas na bÙca, que crescia
       A carne e juntamente apodrecia
             c'hum fetido e bruto
       Cheiro que o ar visinho inficionava
                         (Lus. V, 81, 82.)
 
-Assim se passam as semanas e os mezes. Anceia o marinheiro por p√¥r termo a
-uma navega√ß√£o j√° aborrecida, por ter algum descan√ßo n'aquelle lidar diario.
-Suspeita-se que est√° proxima a terra; porfia-se em qual ser√° o primeiro que
-a veja; algum mais desejoso de ganhar as alvi√ßaras sobe √° _celsa_ gavea, e
+Assim se passam as semanas e os mezes. Anceia o marinheiro por pÙr termo a
+uma navegaÁ„o j· aborrecida, por ter algum descanÁo n'aquelle lidar diario.
+Suspeita-se que est· proxima a terra; porfia-se em qual ser· o primeiro que
+a veja; algum mais desejoso de ganhar as alviÁaras sobe · _celsa_ gavea, e
 percorrendo o mar com a vista, enxerga
 
-      Terra alta pela pr√¥a
+      Terra alta pela prÙa
                         (Lus. VI, 92.)
 
 e logo
 
-      ¬´Terra, terra!¬ª brada
+      ´Terra, terra!ª brada
                         (Lus. V, 24.)
 
 Quem ha que fique indifferente a este brado? Os mais occupados largam tudo
-por m√£o, os que dormem levantam-se estremunhados dos catres, e
+por m„o, os que dormem levantam-se estremunhados dos catres, e
 
-      Salta no bordo alvoro√ßada a gente
+      Salta no bordo alvoroÁada a gente
       Co'os olhos no horisonte,
                         (Lus., ibidem.)
 
-devorando com elles as f√≥rmas ainda mal distinctas da terra, e come√ßando
+devorando com elles as fÛrmas ainda mal distinctas da terra, e comeÁando
 
-      √Å maneira de nuvens
+      ¡ maneira de nuvens
       A descobrir os montes.
                         (Lus. V, 25.)
 
-Deu-se fundo. Acabaram os trabalhos e perigos, e quasi j√° esqueceram. Tudo
-√© curiosidade dos marinheiros em observar as pessoas que de terra vem a
+Deu-se fundo. Acabaram os trabalhos e perigos, e quasi j· esqueceram. Tudo
+È curiosidade dos marinheiros em observar as pessoas que de terra vem a
 bordo;
 
-      A gente se alvoro√ßa; e de alegria
-      N√£o sabe mais que olhar a causa d'ella.
+      A gente se alvoroÁa; e de alegria
+      N„o sabe mais que olhar a causa d'ella.
                         (Lus. I, 45.)
 
-Como n√£o podem chegar-se e interrogar esses individuos, porque elles est√£o
+Como n„o podem chegar-se e interrogar esses individuos, porque elles est„o
 conversando com o commandante, contentam-se com espreital-os, e por isso
 
-      Est√° a gente maritima
+      Est· a gente maritima
       Subida pela enxarcia.
                         (Lus. I, 62.)
 
-Por fim a curiosidade vence o respeito, e elles v√£o-se chegando pouco a
+Por fim a curiosidade vence o respeito, e elles v„o-se chegando pouco a
 pouco para ouvir as novidades;
 
       A gente se ajunta a ouvir.
                         (Lus. VII, 29.)
 
-Chega depois a noite; s√£o horas de descan√ßar e dormir pela primeira vez com
-socego. Mas o marinheiro esquece-se d'isso para, ou a s√≥s comsigo, ou dando
-largas √° sua loquacidade, fazer commentarios sobre o que viu e ouviu;
+Chega depois a noite; s„o horas de descanÁar e dormir pela primeira vez com
+socego. Mas o marinheiro esquece-se d'isso para, ou a sÛs comsigo, ou dando
+largas · sua loquacidade, fazer commentarios sobre o que viu e ouviu;
 
-      Qualquer ent√£o comsigo cuida e nota
+      Qualquer ent„o comsigo cuida e nota
       Na gente e na maneira desusada.
                         (Lus. I, 57.)
 
-N√£o escapou a Cam√µes a qualidade ou defeito caracteristico do marinheiro
+N„o escapou a Camıes a qualidade ou defeito caracteristico do marinheiro
 portuguez, principalmente do algarvio, sempre fallador e gritador. Ainda
-hoje, com a disciplina moderna, √© facil conseguir do marinheiro que elle
-fa√ßa tudo, que soffra as maiores priva√ß√µes, que arroste os maiores perigos;
-mas √© difficilimo conseguir que elle esteja calado. Ha sobretudo certas
-manobras em que √© quasi impossivel obter um silencio completo, e no tempo
+hoje, com a disciplina moderna, È facil conseguir do marinheiro que elle
+faÁa tudo, que soffra as maiores privaÁıes, que arroste os maiores perigos;
+mas È difficilimo conseguir que elle esteja calado. Ha sobretudo certas
+manobras em que È quasi impossivel obter um silencio completo, e no tempo
 das descobertas, diz-nos o Poeta que os marinheiros suspendiam
 
             as ancoras
@@ -562,7 +562,7 @@ das descobertas, diz-nos o Poeta que os marinheiros suspendiam
 
 e largavam
 
-      A v√©la, que _com grita_ se soltava.
+      A vÈla, que _com grita_ se soltava.
                         (Lus. IX, 11.)
 
 E em outro logar ainda diz-nos que
@@ -571,45 +571,45 @@ E em outro logar ainda diz-nos que
       No rudo marinheiro que trabalha.
                         (Lus. II, 25.)
 
-Mas, se √© inconveniente a gritaria dos marinheiros, bem pelo contrario √©
+Mas, se È inconveniente a gritaria dos marinheiros, bem pelo contrario È
 necessario que o official que commanda a manobra tenha voz sonora e
 vibrante, que domine o ruido do temporal e incuta coragem nos subordinados.
-Por isso nos Lusiadas, quando ruge a tempestade e √© preciso que _n√£o falte
-accordo_, o mestre d√° as vozes do commando _rijamente_ e _a grandes brados_
+Por isso nos Lusiadas, quando ruge a tempestade e È preciso que _n„o falte
+accordo_, o mestre d· as vozes do commando _rijamente_ e _a grandes brados_
 (Lus. VI, 71, 72.)
 
-Quando o seu navio fundeou no porto, come√ßam para o homem do mar dias mais
-alegres e socegados que os passados na viagem. √â ent√£o que elle se esquece
+Quando o seu navio fundeou no porto, comeÁam para o homem do mar dias mais
+alegres e socegados que os passados na viagem. … ent„o que elle se esquece
 da vida que levou durante tanto tempo e vae a terra,
 
-      Que n√£o ha nenhum d'elles que n√£o s√°ia,
+      Que n„o ha nenhum d'elles que n„o s·ia,
                         (Lus. IX, 66.)
 
-como gente que √©
+como gente que È
 
       De ver cousas estranhas desejosa
       Da terra.
                         (Lus. V, 26.)
 
-Ahi encontra sempre divertimentos, e quando os n√£o encontra, improvisa-os.
+Ahi encontra sempre divertimentos, e quando os n„o encontra, improvisa-os.
 Outras vezes recebe elle a bordo as pessoas de terra, e faz-lhes as honras
-da sua morada com a satisfa√ß√£o e liberalidade que o caracterisa.
+da sua morada com a satisfaÁ„o e liberalidade que o caracterisa.
 
-As festas de bordo fazem-se sempre _com a prata da casa_, e comtudo √© por
+As festas de bordo fazem-se sempre _com a prata da casa_, e comtudo È por
 extremo agradavel a vista que offerece um navio preparado para celebrar
 qualquer data memoravel, ou para festejar a visita de um personagem.
-Galhardetes e bandeiras com as c√¥res symetricamente dispostas adornam os
+Galhardetes e bandeiras com as cÙres symetricamente dispostas adornam os
 mastros; outros forram os toldos e formam sanefas pelas amuradas; lustres e
-trof√©us feitos com armas e instrumentos nauticos transformam a tolda do
-navio em sal√£o de baile elegantemente adornado; os proprios pandeiros de
-cabos colhidos com arte desenham no nitido convez flor√µes e iniciaes, ou
-servem de divans aos convidados. Os altos personagens s√£o recebidos com
+trofÈus feitos com armas e instrumentos nauticos transformam a tolda do
+navio em sal„o de baile elegantemente adornado; os proprios pandeiros de
+cabos colhidos com arte desenham no nitido convez florıes e iniciaes, ou
+servem de divans aos convidados. Os altos personagens s„o recebidos com
 marchas tocadas pelas cornetas e tambores, com musicas executadas pelas
-charangas, com revista da guarni√ß√£o a postos de combate, com salvas de
+charangas, com revista da guarniÁ„o a postos de combate, com salvas de
 artilheria. De noite illumina-se o mar com foguetes e tigellinhas. De tudo
-isto fallou Cam√µes.
+isto fallou Camıes.
 
-      Come√ßa a embandeirar-se toda a armada,
+      ComeÁa a embandeirar-se toda a armada,
       E de toldos alegres se adornou
       Por receber com festas e alegria;
                         (Lus. I, 39.)
@@ -625,32 +625,32 @@ isto fallou Cam√µes.
       Vem arnezes, e peitos reluzentes,
       Malhas finas e laminas seguras,
       Escudos de pinturas differentes,
-      Pelouros e espingardas de a√ßo puras,
+      Pelouros e espingardas de aÁo puras,
       Arcos e sagittiferas aljavas,
-      Partazanas agudas, chu√ßas bravas;
+      Partazanas agudas, chuÁas bravas;
       As bombas vem de fogo e juntamente
-      As panellas sulphuras t√£o damnosas.
+      As panellas sulphuras t„o damnosas.
                         (Lus. I, 67, 68.)
 
-      N√£o faltam ali os raios de artificio
+      N„o faltam ali os raios de artificio
       Os tremulos cometas imitando;
       Fazem os bombardeiros seu officio,
-      O c√©u, a terra, e as ondas atroando
+      O cÈu, a terra, e as ondas atroando
                         (Lus. XI, 90.)
 
-√Ås salvas de bordo _agradecem_ as fortalezas de terra, salvando tambem:
+¡s salvas de bordo _agradecem_ as fortalezas de terra, salvando tambem:
 
       Respondem-lhe de terra juntamente
       Co'o raio volteando com zonido;
                         (Lus. II, 91.)
 
-e o canh√£o faz ouvir tanto e t√£o repetidas vezes a sua voz atroadora que as
-festas e cumprimentos entre gente maritima s√£o sempre
+e o canh„o faz ouvir tanto e t„o repetidas vezes a sua voz atroadora que as
+festas e cumprimentos entre gente maritima s„o sempre
 
-      √Å maneira de peleja.
+      ¡ maneira de peleja.
                         (Lus., ibidem.)
 
-Veja-se agora se n'este assumpto, ali√°s secundario, esqueceu ao Poeta
+Veja-se agora se n'este assumpto, ali·s secundario, esqueceu ao Poeta
 alguma circumstancia notavel!
 
 
@@ -661,99 +661,99 @@ IV
 
 Se dos costumes dos homens do mar passamos aos trabalhos manuaes, que
 constituem a parte pratica da sua arte, vamos encontrar nos Lusiadas
-descrip√ß√µes e allus√µes a quasi todas as fainas e manobras t√£o variadas, que
-s√£o necessarias para fazer servir essa complicada machina que se chama
+descripÁıes e allusıes a quasi todas as fainas e manobras t„o variadas, que
+s„o necessarias para fazer servir essa complicada machina que se chama
 _navio_.
 
-√â imponente o espectaculo que offerece a tolda de um navio em faina geral
-de fazer-se de v√©la. Por mais numerosa que seja a guarni√ß√£o, todos tem o
-seu posto detalhado e todos tem que fazer. Descreve Cam√µes essa faina da
+… imponente o espectaculo que offerece a tolda de um navio em faina geral
+de fazer-se de vÈla. Por mais numerosa que seja a guarniÁ„o, todos tem o
+seu posto detalhado e todos tem que fazer. Descreve Camıes essa faina da
 maneira seguinte:
 
-      J√° nas naus os bons trabalhadores
+      J· nas naus os bons trabalhadores
       Volvem o cabrestante, e repartidos
       Pelo trabalho, uns puxam pela amarra,
       Outros quebram co'o peito a dura barra,
-      Outros pendem da verga e j√° desatam
-      A v√©la.
+      Outros pendem da verga e j· desatam
+      A vÈla.
                         (Lus. IX, 10, 11.)
 
-Est√° o ferro a _pique_, redobram os esfor√ßos dos marinheiros para o
+Est· o ferro a _pique_, redobram os esforÁos dos marinheiros para o
 suspender;
 
-      As ancoras tenaces v√£o levando,
+      As ancoras tenaces v„o levando,
                         (Lus. II, 18.)
 
 e ao mesmo tempo
 
-      Da proa as v√©las _s√≥s_ ao vento dado,
+      Da proa as vÈlas _sÛs_ ao vento dado,
                         (Lus., ibidem.)
 
-obrigam o navio a _fazer cabe√ßa_, e eil-o que vae em demanda da barra.
+obrigam o navio a _fazer cabeÁa_, e eil-o que vae em demanda da barra.
 
-Nos versos que acabamos de citar est√£o compendiadas todas as manobras
-necessarias para um navio se fazer de v√©la. N√£o o faria melhor o Bonnefoux
-ou o Br√©art!
+Nos versos que acabamos de citar est„o compendiadas todas as manobras
+necessarias para um navio se fazer de vÈla. N„o o faria melhor o Bonnefoux
+ou o BrÈart!
 
-Na descrip√ß√£o da tempestade do canto VI, encontram-se todas as manobras de
-que se lan√ßa m√£o debaixo de tempo. O mestre, que presente o golpe de vento,
-_apita √° gente_ e manda _carregar e ferrar joanetes_,
+Na descripÁ„o da tempestade do canto VI, encontram-se todas as manobras de
+que se lanÁa m„o debaixo de tempo. O mestre, que presente o golpe de vento,
+_apita · gente_ e manda _carregar e ferrar joanetes_,
 
       Os traquetes das gaveas tomar manda,
                         (Lus. VI, 70)
 
-Mal est√£o carregados os joanetes, j√° o vento est√° a contas com o navio.
-_Carrega a v√©la grande!_
+Mal est„o carregados os joanetes, j· o vento est· a contas com o navio.
+_Carrega a vÈla grande!_
 
-      ¬´Amaina a grande v√©la!¬ª
+      ´Amaina a grande vÈla!ª
                         (Lus. VI, 71.)
 
-N√£o se carregou a maior a tempo, por isso ella se rasgou, e o navio, dando
+N„o se carregou a maior a tempo, por isso ella se rasgou, e o navio, dando
 a borda de sotavento, metteu dentro uns poucos de _mares_;
 
-      No romper da v√©la a nau pendente
-      Toma gr√£o somma d'agua pelo bordo.
+      No romper da vÈla a nau pendente
+      Toma gr„o somma d'agua pelo bordo.
                         (Lus. VI, 72.)
 
-√â preciso allivial-o, quanto seja possivel, dos pesos, e esgotar a agua.
+… preciso allivial-o, quanto seja possivel, dos pesos, e esgotar a agua.
 Por isso o mestre ordena:
 
-      ¬´Alija tudo ao mar,
-      V√£o outros dar √° bomba, n√£o cessando!¬ª
+      ´Alija tudo ao mar,
+      V„o outros dar · bomba, n„o cessando!ª
                         (Lus., ibidem.)
 
-e n√£o se esquece de refor√ßar a _gente do governo_, pondo ao leme
+e n„o se esquece de reforÁar a _gente do governo_, pondo ao leme
 
-      Tres marinheiros duros e for√ßosos,
+      Tres marinheiros duros e forÁosos,
                         (Lus. VI, 73.)
 
-passando-lhe ainda para mais seguran√ßa
+passando-lhe ainda para mais seguranÁa
 
       Talhas d'uma e d'outra parte.
                         (Lus., ibidem.)
 
 Chega o navio a um porto pouco conhecido. Ao _investir_ a barra depara-se
-com uma pedra √° flor d'agua. √â necessario _safar_ d'ella e quanto antes.
-Aqui √© inevitavel alguma confus√£o; n√£o se sabe para que lado ser√° melhor
+com uma pedra · flor d'agua. … necessario _safar_ d'ella e quanto antes.
+Aqui È inevitavel alguma confus„o; n„o se sabe para que lado ser· melhor
 _guinar_, e por isso os marinheiros
 
-      Maream v√©las, ferve a gente irada
+      Maream vÈlas, ferve a gente irada
       O leme a um bordo e a outro atravessando;
       O mestre da poppa brada.
                         (Lus. II, 24.)
 
-Com similhante contratempo √© melhor n√£o commetter a barra e _fundear em
+Com similhante contratempo È melhor n„o commetter a barra e _fundear em
 franquia_; por isso o commandante
 
-      N√£o entra pela barra, e surge f√≥ra.
+      N„o entra pela barra, e surge fÛra.
                         (Lus. I, 102.)
 
-Mas depois de reconhecida a barra j√° se p√≥de tentar a entrada; ent√£o
+Mas depois de reconhecida a barra j· se pÛde tentar a entrada; ent„o
 
-            j√° as proas se inclinavam
+            j· as proas se inclinavam
       Para que amainassem;
       A gente e marinheiros
-      Tomam v√©las; amaina-se a verga alta;
+      Tomam vÈlas; amaina-se a verga alta;
       Da ancora o mar ferido em cima salta;
                         (Lus. I, 48.)
 
@@ -762,51 +762,51 @@ e por fim
       Pega no fundo a ancora pesada;
                         (Lus. II, 74.)
 
-e aqui temos n√≥s uma descrip√ß√£o completa da faina de fundear.
+e aqui temos nÛs uma descripÁ„o completa da faina de fundear.
 
 Surto o navio no porto, nem por isso cessam as suas manobras e fainas. Uma
 das mais importantes consiste na limpeza do costado do navio, que depois de
-uma viagem prolongada se acha coberto de incrusta√ß√µes, molluscos e algas
-marinhas, principalmente nas obras vivas. Quando os navios n√£o eram
-forrados de cobre, como hoje s√£o, esta opera√ß√£o era indispensavel, posto
-que difficultosa, sendo muitas vezes necessario _espalmal-os_, isto √©,
-varal-os na praia, e at√© _viral-os de querena_. N√£o se esqueceu o Poeta
-d'este servi√ßo maritimo, descrevendo-o assim:
+uma viagem prolongada se acha coberto de incrustaÁıes, molluscos e algas
+marinhas, principalmente nas obras vivas. Quando os navios n„o eram
+forrados de cobre, como hoje s„o, esta operaÁ„o era indispensavel, posto
+que difficultosa, sendo muitas vezes necessario _espalmal-os_, isto È,
+varal-os na praia, e atÈ _viral-os de querena_. N„o se esqueceu o Poeta
+d'este serviÁo maritimo, descrevendo-o assim:
 
       Aqui de limos, cascas e d'ostrinhos,
-      Nojosa cria√ß√£o das aguas fundas,
+      Nojosa criaÁ„o das aguas fundas,
       Alimpamos as naus, que dos caminhos
       Longos do mar vem sordidas e immundas.
                         (Lus. V, 79.)
 
-√â tambem um dos primeiros cuidados nos portos o renovar a aguada, e por
-isso o commandante, logo que p√≥de, determina
+… tambem um dos primeiros cuidados nos portos o renovar a aguada, e por
+isso o commandante, logo que pÛde, determina
 
       De vir por agua a terra;
                         (Lus. I, 84.)
 
-      E v√£o a seu prazer fazer aguada.
+      E v„o a seu prazer fazer aguada.
                         (Lus. I, 93.)
 
-Para este servi√ßo, bem como para todas as communica√ß√µes com a terra dentro
-dos portos, serve-se a gente do mar dos _bateis_ ou embarca√ß√µes miudas.
-Estas embarca√ß√µes s√£o quasi sempre movidas por meio de remos, cuja manobra
-√© diversa e variada conforme a maior ou menor pressa e outras
+Para este serviÁo, bem como para todas as communicaÁıes com a terra dentro
+dos portos, serve-se a gente do mar dos _bateis_ ou embarcaÁıes miudas.
+Estas embarcaÁıes s„o quasi sempre movidas por meio de remos, cuja manobra
+È diversa e variada conforme a maior ou menor pressa e outras
 circumstancias. Assim, quando o commandante vae a terra fazer uma visita
-official, a embarca√ß√£o que o transporta vae de _voga larga e descan√ßada_, e
+official, a embarcaÁ„o que o transporta vae de _voga larga e descanÁada_, e
 
       O remo _compassado_ fere frio
       Agora o mar, depois o fresco rio,
                         (Lus. VII, 43.)
 
-mas quando, por qualquer motivo, √© preciso chegar rapidamente, n√£o se p√≥de
+mas quando, por qualquer motivo, È preciso chegar rapidamente, n„o se pÛde
 perder tempo com essas elegancias de manobra; _pica-se a voga_ e _aperta-se
-o remo_ (Lus. V, 32), duplicando a for√ßa de impulso e fazendo saltar o
+o remo_ (Lus. V, 32), duplicando a forÁa de impulso e fazendo saltar o
 escaler por cima das ondas.
 
-N√£o esqueceram ao Poeta os combates navaes, em que o marinheiro se torna
+N„o esqueceram ao Poeta os combates navaes, em que o marinheiro se torna
 soldado com duplicado valor, pois tem de combater ao mesmo tempo os
-tormentos e o inimigo. Ora √© um desembarque:
+tormentos e o inimigo. Ora È um desembarque:
 
       Apercebido vae
       Em tres bateis.
@@ -815,36 +815,36 @@ tormentos e o inimigo. Ora √© um desembarque:
       Eis nos bateis o fogo se levanta
       Na furiosa e dura artilharia;
       A gente
-      A povoa√ß√£o
+      A povoaÁ„o
       Esbombardea, accende e desbarata.
                         (Lus. I, 89, 90.)
 
-Ora √© um combate entre as embarca√ß√µes miudas dos dois contendores:
+Ora È um combate entre as embarcaÁıes miudas dos dois contendores:
 
-      Huns v√£o nas almadias carregadas;
+      Huns v„o nas almadias carregadas;
       Hum corta o mar a nado diligente;
       Quem se afoga nas ondas encurvadas;
       Quem bebe o mar, e o deita juntamente.
       Arrombam as miudas bombardadas
-      Os pangaios subt√≠s.
+      Os pangaios subtÌs.
                         (Lus. I, 91)
 
-Ora √© finalmente uma verdadeira batalha naval entre duas armadas, quando
+Ora È finalmente uma verdadeira batalha naval entre duas armadas, quando
 
             em sangue e resistencia
       O mar todo com fogo e ferro ferve.
                         (Lus. X, 29.)
 
 Primeiro combatem de longe com a artilharia; segue-se depois a abordagem; e
-o combate decide-se por ultimo √° arma branca. Assim o vencedor
+o combate decide-se por ultimo · arma branca. Assim o vencedor
 
       Das grandes naus,
             co'a ferrea pella
-      Que sahe com trov√£o do cobre ardente,
-      Far√° peda√ßos leme, mastro, vela;
-      Depois, lan√ßando arp√©os ousadamente
+      Que sahe com trov„o do cobre ardente,
+      Far· pedaÁos leme, mastro, vela;
+      Depois, lanÁando arpÈos ousadamente
       Na capitaina inimiga, dentro nella
-      Saltando, a far√° s√≥ com lan√ßa e espada
+      Saltando, a far· sÛ com lanÁa e espada
       De quatro centos despejada.
                         (Lus. X, 28.)
 
@@ -854,68 +854,68 @@ o combate decide-se por ultimo √° arma branca. Assim o vencedor
 V
 
 
-Mostr√°mos at√© aqui como Cam√µes conhecia e comprehendia os homens do mar,
-n√£o lhe escapando nem uma das mais pequenas circumstancias, que tornam o
-seu modo de viver e pensar t√£o caracterisco e differente do dos homens da
-terra. Mostr√°mos tambem com que propriedade e conhecimento elle introduziu
-no seu poema a descrip√ß√£o ou antes a viva pintura das manobras e fainas que
+Mostr·mos atÈ aqui como Camıes conhecia e comprehendia os homens do mar,
+n„o lhe escapando nem uma das mais pequenas circumstancias, que tornam o
+seu modo de viver e pensar t„o caracterisco e differente do dos homens da
+terra. Mostr·mos tambem com que propriedade e conhecimento elle introduziu
+no seu poema a descripÁ„o ou antes a viva pintura das manobras e fainas que
 constituem o officio do marinheiro. Vamos agora tentar mostrar como o Poeta
-comprehendeu o theatro em que se passam as scenas t√£o variadas da vida do
+comprehendeu o theatro em que se passam as scenas t„o variadas da vida do
 homem do mar.
 
 O mar, esse elemento imponente e magestoso, que enche de espanto o homem
-que, pela primeira vez, o encara, parecendo √° primeira vista t√£o uniforme e
-t√£o igual, apresenta mil aspectos diversos, que s√£o outras tantas
-manifesta√ß√µes das for√ßas creadoras que abriga em seu seio. D'essas, a mais
-grandiosa, aquella que irresistivelmente se imp√µe e subjuga a alma mais
-destemida, √© a tempestade. Nem o volc√£o vomitando fogo e lavas; nem a
-trovoada fusilando raios, atroando com o ribombar do trov√£o e inundando com
+que, pela primeira vez, o encara, parecendo · primeira vista t„o uniforme e
+t„o igual, apresenta mil aspectos diversos, que s„o outras tantas
+manifestaÁıes das forÁas creadoras que abriga em seu seio. D'essas, a mais
+grandiosa, aquella que irresistivelmente se impıe e subjuga a alma mais
+destemida, È a tempestade. Nem o volc„o vomitando fogo e lavas; nem a
+trovoada fusilando raios, atroando com o ribombar do trov„o e inundando com
 as catadupas de agua; nem o terramoto abalando os edificios e fazendo
 ondular os montes; nem o kahmsin do deserto enterrando as caravanas com as
-suas nuvens de areia, nada p√≥de rivalisar com uma tempestade maritima. Esta
-reune tudo o que os outros cataclysmos tem de bello e horroroso, e √© ainda
-mais sublime e medonha. E s√£o t√£o variados os espectaculos offerecidos pela
-natureza, que ainda nas tempestades maritimas ha differen√ßas e
-especialidades que as distinguem entre si. Assim o temporal dos A√ßores n√£o
+suas nuvens de areia, nada pÛde rivalisar com uma tempestade maritima. Esta
+reune tudo o que os outros cataclysmos tem de bello e horroroso, e È ainda
+mais sublime e medonha. E s„o t„o variados os espectaculos offerecidos pela
+natureza, que ainda nas tempestades maritimas ha differenÁas e
+especialidades que as distinguem entre si. Assim o temporal dos AÁores n„o
 se parece com a tempestade do Cabo, como o cyclone do Oceano Indico differe
-do tuf√£o do mar da China. S√£o diversas as causas que as originam, diversas
-as circumstancias meteorologicas com que se manifestam, diversos, se √©
+do tuf„o do mar da China. S„o diversas as causas que as originam, diversas
+as circumstancias meteorologicas com que se manifestam, diversos, se È
 possivel, os horrores que inspiram.
 
-E, comtudo, Cam√µes apanhou essas differen√ßas, conheceu essas circumstancias
-especiaes. Duas s√£o as principaes descrip√ß√µes de tempestades maritimas que
-elle nos offerece no seu poema. A primeira √© de um temporal no Cabo da Boa
-Esperan√ßa, e constitue o episodio do Adamastor, que n√£o transcreveremos por
-o julgarmos conhecido de todos. A tempestade come√ßa por uma nuvem _temerosa
+E, comtudo, Camıes apanhou essas differenÁas, conheceu essas circumstancias
+especiaes. Duas s„o as principaes descripÁıes de tempestades maritimas que
+elle nos offerece no seu poema. A primeira È de um temporal no Cabo da Boa
+EsperanÁa, e constitue o episodio do Adamastor, que n„o transcreveremos por
+o julgarmos conhecido de todos. A tempestade comeÁa por uma nuvem _temerosa
 e carregada_
 
             que os ares escurece;
                         (Lus. V, 37.)
 
-e effectivamente uma das circumstancias peculiares das tormentas do Cabo √©
-escurecer-se completamente a athmosphera. √â tambem notavel a altura que
-attingem as ondas n'essas occasi√µes, pois nenhum navegador as viu em parte
-alguma maiores ou iguaes. Cam√µes notou esta circumstancia na elegia III,
+e effectivamente uma das circumstancias peculiares das tormentas do Cabo È
+escurecer-se completamente a athmosphera. … tambem notavel a altura que
+attingem as ondas n'essas occasiıes, pois nenhum navegador as viu em parte
+alguma maiores ou iguaes. Camıes notou esta circumstancia na elegia III,
 onde, descrevendo a sua viagem para a India, diz que
 
-            chegando ao Cabo da Esperan√ßa
+            chegando ao Cabo da EsperanÁa
       Eis a noute com nuvens se escurece,
       Do ar _subitamente_ foge o dia
       E todo o largo Oceano se embravece;
       Em _serras_ todo o mar se convertia.
 
 Voltando aos _Lusiadas_ observaremos que todo o horror do Cabo da Boa
-Esperan√ßa est√° n'aquella prophecia do Gigante:
+EsperanÁa est· n'aquella prophecia do Gigante:
 
             Quantas naus esta viagem
       Fizerem de atrevidas,
-      Inimiga ter√£o esta paragem
+      Inimiga ter„o esta paragem
       Com ventos e tormentas desmedidas.
                         (Lus. V, 43.)
 
-E √© assim. N√£o ha paragem alguma do globo onde as tempestades sejam mais
-frequentes, podendo-se dizer que no Cabo √© estado normal o mau tempo, sendo
-excep√ß√£o a bonan√ßa. A tempestade
+E È assim. N„o ha paragem alguma do globo onde as tempestades sejam mais
+frequentes, podendo-se dizer que no Cabo È estado normal o mau tempo, sendo
+excepÁ„o a bonanÁa. A tempestade
 
             c'um medonho choro
       Subito d'ante os olhos se apartou,
@@ -925,35 +925,35 @@ excep√ß√£o a bonan√ßa. A tempestade
 
 Aqui se observa como um pesado aguaceiro vem abater as ondas encapelladas,
 ouvindo-se comtudo por muito tempo o surdo rumor que ellas produzem como
-f√©ras, mau grado seu, subjugadas pelo chicote do domador.
+fÈras, mau grado seu, subjugadas pelo chicote do domador.
 
-Mais desenvolvida √© a descrip√ß√£o da tempestade no Indico. N'esse mar √©
-conhecida a parte que fica entre a cabe√ßa de Madagascar e as Seychelles
-pelos frequentes cyclones e golpes de vento que a a√ßoutam e tornam perigosa
-a navega√ß√£o. E, pois, ahi
+Mais desenvolvida È a descripÁ„o da tempestade no Indico. N'esse mar È
+conhecida a parte que fica entre a cabeÁa de Madagascar e as Seychelles
+pelos frequentes cyclones e golpes de vento que a aÁoutam e tornam perigosa
+a navegaÁ„o. E, pois, ahi
 
-      J√° nos mares da India,
+      J· nos mares da India,
                         (Lus. VI, 6.)
 
-que o Poeta colloca o temporal, o qual come√ßa, como √© sabido, por uma
+que o Poeta colloca o temporal, o qual comeÁa, como È sabido, por uma
 pequena nuvem que desponta no horisonte, e dentro em pouco, tocada pelo
 vento com vertiginosa velocidade, occupa toda a athmosphera. A
-impetuosidade e o repente do assalto n√£o d√£o tempo a manobras; muitas vezes
-√© necessario _picar os mastros_, se o cyclone se n√£o encarrega d'isso. O
+impetuosidade e o repente do assalto n„o d„o tempo a manobras; muitas vezes
+È necessario _picar os mastros_, se o cyclone se n„o encarrega d'isso. O
 mar cava-se em ondas desencontradas e altissimas, e os relampagos e
 coriscos vem augmentar o terror. Eis estas scenas successivas da terrivel
 tragedia pintadas pelo mestre:
 
             O vento cresce
       D'aquella nuvem negra que apparece.
-      D√° a grande e subita procella.
-      N√£o esperam os ventos indignados
-      Que amainassem (a v√©la grande), mas juntos dando n'ella,
-      Em peda√ßos a fazem.
-      No romper da v√©la a nau pendente
-      Toma gr√£o somma d'agua pelo bordo.
-      Os balan√ßos, que os mares temerosos
-      Deram √° nau, n'um bordo os derribaram (os marinheiros.)
+      D· a grande e subita procella.
+      N„o esperam os ventos indignados
+      Que amainassem (a vÈla grande), mas juntos dando n'ella,
+      Em pedaÁos a fazem.
+      No romper da vÈla a nau pendente
+      Toma gr„o somma d'agua pelo bordo.
+      Os balanÁos, que os mares temerosos
+      Deram · nau, n'um bordo os derribaram (os marinheiros.)
       Nos altissimos mares, que cresceram,
       A pequena grandura d'um batel
       Mostra a possante nau.
@@ -971,44 +971,44 @@ tragedia pintadas pelo mestre:
       Como touros indomitos bramando;
       Mais e mais a tormenta accrescentavam,
       Pela miuda enxarcia assoviando;
-      Relampagos medonhos n√£o cessavam,
-      Feros trov√µes.
+      Relampagos medonhos n„o cessavam,
+      Feros trovıes.
                         (Lus. VI, 84.)
 
-Mas n√£o s√£o apenas os tra√ßos geraes da descrip√ß√£o que reproduzem a exacta
-verdade. At√© nas mais pequenas minudencias se mostra rigorosa exactid√£o. Os
-ventos s√£o
+Mas n„o s„o apenas os traÁos geraes da descripÁ„o que reproduzem a exacta
+verdade. AtÈ nas mais pequenas minudencias se mostra rigorosa exactid„o. Os
+ventos s„o
 
       Noto, Austro, Boreas, Aquilo,
                         (Lus. VI, 76.)
 
-recordando assim a direc√ß√£o successivamente differente do vento,
-percorrendo todos os quadrantes, como se nota nas tempestades de rota√ß√£o.
+recordando assim a direcÁ„o successivamente differente do vento,
+percorrendo todos os quadrantes, como se nota nas tempestades de rotaÁ„o.
 Os golphinhos ou toninhas, esses graciosos companheiros do navegador
-durante a bonan√ßa, desapparecem d'aquelle theatro de desola√ß√£o, e s√£o
-substituidos pelos ma√ßaricos, as _almas do mestre_, como lhes chama a
-poetica imagina√ß√£o dos marinheiros, que vem augmentar com os seus pios
+durante a bonanÁa, desapparecem d'aquelle theatro de desolaÁ„o, e s„o
+substituidos pelos maÁaricos, as _almas do mestre_, como lhes chama a
+poetica imaginaÁ„o dos marinheiros, que vem augmentar com os seus pios
 lamentosos a tristeza do espectaculo:
 
       As Halcyoneas aves o triste canto
             levantaram,
       Os delfins namorados entretanto
-      L√° nas covas maritimas entraram,
-      Fugindo √° tempestade e ventos duros,
+      L· nas covas maritimas entraram,
+      Fugindo · tempestade e ventos duros,
       Que nem no fundo os deixa estar seguros.
                         (Lus. VI, 77.)
 
-Isto √© perfeito, isto √© enexcedivel. E comtudo ha mais ainda; ha a
-descrip√ß√£o de outro phenomeno do mar, que, posta em prosa, occuparia o
-logar de honra no melhor tratado de meteorologia. √â a das trombas marinhas.
+Isto È perfeito, isto È enexcedivel. E comtudo ha mais ainda; ha a
+descripÁ„o de outro phenomeno do mar, que, posta em prosa, occuparia o
+logar de honra no melhor tratado de meteorologia. … a das trombas marinhas.
 N'este phenomeno em que _as nuvens do mar sorvem as aguas do Oceano_,
-come√ßa a levantar-se
+comeÁa a levantar-se
 
       No ar um vaporsinho e subtil fumo,
       E do vento trazido, rodear-se;
       D'aqui levado um cano ao polo summo
-      Se via, t√£o delgado que enxergar-se
-      Dos olhos facilmente n√£o podia;
+      Se via, t„o delgado que enxergar-se
+      Dos olhos facilmente n„o podia;
       Da materia das nuvens parecia.
       Hia-se pouco a pouco accrescentando
       E mais que um largo mastro se engrossava;
@@ -1023,15 +1023,15 @@ come√ßa a levantar-se
       Tal a grande columna, enchendo, augmenta,
       A si e a nuvem negra que sustenta.
       Mas, depois que de todo se fartou,
-      O p√© que tem no mar a si recolhe,
-      E pelo c√©u chovendo em fim v√¥ou;
-      √Ås ondas torna as ondas que tomou,
+      O pÈ que tem no mar a si recolhe,
+      E pelo cÈu chovendo em fim vÙou;
+      ¡s ondas torna as ondas que tomou,
       Mas o sabor do sal lhe tira e tolhe.
                         (Lus. V, 19 a 22.)
 
-Quem escreveu isto? Foi Bravais? Foi Fitz-Roy? N√£o; foi Luiz de Cam√µes.
+Quem escreveu isto? Foi Bravais? Foi Fitz-Roy? N„o; foi Luiz de Camıes.
 
-Cam√µes tudo v√™, de tudo falla. Ao fogo santelmo chama
+Camıes tudo vÍ, de tudo falla. Ao fogo santelmo chama
 
             lume vivo,
       Que a maritima gente tem por santa,
@@ -1040,29 +1040,29 @@ Cam√µes tudo v√™, de tudo falla. Ao fogo santelmo chama
                         (Lus. V, 18.)
 
 Tambem falla nas correntes maritimas, cujas leis eram pouco conhecidas dos
-primeiros navegadores, causando-lhes muitos embara√ßos. Ainda hoje no canal
-de Mo√ßambique se n√£o p√≥de contar com a corrente, ou antes deve-se esperar
-que ella seja sempre contraria, porque, _como no mar tudo s√£o mudan√ßas_,
-t√£o depressa correm as aguas ao norte como no dia seguinte correm ao sul, e
-com tal velocidade que vencem muitas vezes a for√ßa do vento regular. √â,
+primeiros navegadores, causando-lhes muitos embaraÁos. Ainda hoje no canal
+de MoÁambique se n„o pÛde contar com a corrente, ou antes deve-se esperar
+que ella seja sempre contraria, porque, _como no mar tudo s„o mudanÁas_,
+t„o depressa correm as aguas ao norte como no dia seguinte correm ao sul, e
+com tal velocidade que vencem muitas vezes a forÁa do vento regular. …,
 pois, a corrente, como descreve o Poeta
 
-            t√£o possante
-      Que passar n√£o deixava por diante;
-      Era maior a for√ßa em demasia,
+            t„o possante
+      Que passar n„o deixava por diante;
+      Era maior a forÁa em demasia,
       Segundo para traz nos obrigava,
-      Do mar, que contra n√≥s ali corria,
-      Que por n√≥s a do vento que assoprava.
+      Do mar, que contra nÛs ali corria,
+      Que por nÛs a do vento que assoprava.
                         (Lus. V, 66, 67.)
 
-Superior √° meteorologia √© a sciencia astronomica, de todas a mais
-necessaria ao homem do mar. √â ella que lhe ensina a conhecer onde est√°, a
-que parte do vasto Oceano o levaram os ventos e correntes; √© ella que lhe
-mostra o caminho a seguir no meio da vasta solid√£o. Estava esta sciencia
+Superior · meteorologia È a sciencia astronomica, de todas a mais
+necessaria ao homem do mar. … ella que lhe ensina a conhecer onde est·, a
+que parte do vasto Oceano o levaram os ventos e correntes; È ella que lhe
+mostra o caminho a seguir no meio da vasta solid„o. Estava esta sciencia
 bastante atrasada no tempo do Poeta, pois que reinava ainda o errado
-systema de Ptolomeu. Mas este systema √© por elle descripto t√£o exactamente,
+systema de Ptolomeu. Mas este systema È por elle descripto t„o exactamente,
 que um abalisado professor contemporaneo, ao ter de explical-o nas suas
-li√ß√µes de cosmographia, nunca deixava de citar a descrip√ß√£o de Cam√µes.
+liÁıes de cosmographia, nunca deixava de citar a descripÁ„o de Camıes.
 Ptolomeu, fazendo da terra centro immovel de todo o universo, collocava a
 lua, o sol, os planetas e as estrellas em outras tantas espheras
 concentricas a ella, e que, sobre um eixo que passava pelos seus polos,
@@ -1070,16 +1070,16 @@ giravam com velocidades diversas. Todas estas espheras eram envolvidas por
 uma ultima, o Empyreo, alem do qual estava o Ser Infinito, pois
 
       Quem cerca em derredor este rotundo
-      Globo e sua superficie t√£o limada,
+      Globo e sua superficie t„o limada,
       He Deus.
                         (Lus. X, 80.)
 
-Come√ßando, pois, a enumerar as superficies concentricas, cujo conjuncto
-f√≥rma o systema, diz Cam√µes:
+ComeÁando, pois, a enumerar as superficies concentricas, cujo conjuncto
+fÛrma o systema, diz Camıes:
 
       Este orbe, que primeiro vae cercando
       Os outros mais pequenos, que em si tem,
-      Que est√° com luz t√£o clara radiando,
+      Que est· com luz t„o clara radiando,
       Que a vista cega e a mente vil tambem,
       Empyreo se nomea.
                         (Lus. X, 81.)
@@ -1087,13 +1087,13 @@ f√≥rma o systema, diz Cam√µes:
 Segue-se o primeiro mobil:
 
       Debaixo d'este circulo,
-            que n√£o anda,
-      Outro corre t√£o leve e t√£o ligeiro
-      Que n√£o se enxerga: he o mobile primeiro.
+            que n„o anda,
+      Outro corre t„o leve e t„o ligeiro
+      Que n„o se enxerga: he o mobile primeiro.
                         (Lus. X, 85.)
 
-Vem depois os dois crystalinos e logo o c√©u das fixas, entre as quaes o
-Poeta n√£o se esqueceu de nomear as doze constella√ß√µes zodiacaes bem como as
+Vem depois os dois crystalinos e logo o cÈu das fixas, entre as quaes o
+Poeta n„o se esqueceu de nomear as doze constellaÁıes zodiacaes bem como as
 outras mais notaveis do firmamento:
 
             Est'outro debaixo esmaltado
@@ -1105,60 +1105,60 @@ outras mais notaveis do firmamento:
       Animaes doze traz affigurados,
       Aposentos de Phebo limitados.
             Por outras partes a pintura
-      as estrellas fulgentes v√£o fazendo:
+      as estrellas fulgentes v„o fazendo:
       A Carreta, a Cynosura,
       Andromeda e seu pae, e o Drago,
       Cassiopea, Orionte, o Cysne,
-      A Lebre, os C√£es, a Nau e a Lyra.
+      A Lebre, os C„es, a Nau e a Lyra.
                         (Lus. X, 87, 88.)
 
-Seguem-se por sua ordem os c√©us dos sete planetas ent√£o conhecidos,
+Seguem-se por sua ordem os cÈus dos sete planetas ent„o conhecidos,
 contando n'esse numero o Sol:
 
       Debaixo d'este grande firmamento
-            o c√©o de Saturno;
+            o cÈo de Saturno;
       Jupiter faz logo o movimento,
       E Marte abaixo;
-      O claro olho do c√©o no quarto assento;
+      O claro olho do cÈo no quarto assento;
       E Venus;
       Mercurio;
       Com tres rostos debaixo vae Diana.
                         (Lus. X, 89.)
 
-Em seguida √° Lua vem finalmente os quatro elementos:
+Em seguida · Lua vem finalmente os quatro elementos:
 
             o _fogo_ e o _ar_, o vento e a neve
       Os quaes jazem mais a dentro,
       E tem co'o _mar_ a _terra_ por assento.
                         (Lus. X, 90.)
 
-Alem d'esta descrip√ß√£o, que √© completa, ha por todo o poema allus√µes ao
+Alem d'esta descripÁ„o, que È completa, ha por todo o poema allusıes ao
 firmamento e aos seus brilhantes luzeiros, espectaculo maravilhoso e divino
 em que se enlevam os olhos do marinheiro durante as longas horas da noite.
-Citaremos apenas a allus√£o ao Cruzeiro do Sul:
+Citaremos apenas a allus„o ao Cruzeiro do Sul:
 
-      L√° no novo hemispherio nova estrella,
-      N√£o vista de outra gente, que ignorante
+      L· no novo hemispherio nova estrella,
+      N„o vista de outra gente, que ignorante
       Alguns tempos esteve incerta d'ella;
                         (Lus. V, 14.)
 
-√° qual se segue logo a allus√£o √°quella parte do firmamento perto do polo
-sul, onde as estrellas s√£o mais raras, e que os astronomos modernos chamam
-o _Sacco de carv√£o_:
+· qual se segue logo a allus„o ·quella parte do firmamento perto do polo
+sul, onde as estrellas s„o mais raras, e que os astronomos modernos chamam
+o _Sacco de carv„o_:
 
             a parte menos rutilante,
       E por falta d'estrellas menos bella,
       Do polo fixo.
                         (Lus., ibidem.)
 
-Para acabarmos com a astronomia de Cam√µes diremos ainda que nem sequer se
-esqueceu elle de fallar da _nautica_, parte pratica ou applica√ß√£o d'aquella
-sciencia √° navega√ß√£o, a qual mais directamente ensina o marinheiro a _ver
-em que parte est√°_ (Lus. V, 26), isto √©, a _p√¥r o ponto na carta_, pois que
+Para acabarmos com a astronomia de Camıes diremos ainda que nem sequer se
+esqueceu elle de fallar da _nautica_, parte pratica ou applicaÁ„o d'aquella
+sciencia · navegaÁ„o, a qual mais directamente ensina o marinheiro a _ver
+em que parte est·_ (Lus. V, 26), isto È, a _pÙr o ponto na carta_, pois que
 nos falla do
 
             novo instrumento do Astrolabio
-      Inven√ß√£o de subtil juizo e sabio;
+      InvenÁ„o de subtil juizo e sabio;
                         (Lus. V, 25.)
 
 que servia, como hoje o sextante, para
@@ -1172,39 +1172,39 @@ que servia, como hoje o sextante, para
 VI
 
 
-Est√° j√° can√ßada a penna de fazer transcrip√ß√µes, √© tempo de p√¥r termo a este
-trabalho, e ainda n√£o temos percorrido toda a escala de variadissimos tons
-com que Luiz de Cam√µes teceu a sua harmoniosissima composi√ß√£o sobre as
+Est· j· canÁada a penna de fazer transcripÁıes, È tempo de pÙr termo a este
+trabalho, e ainda n„o temos percorrido toda a escala de variadissimos tons
+com que Luiz de Camıes teceu a sua harmoniosissima composiÁ„o sobre as
 cousas do mar. Fallaremos ainda, antes de terminar, da Geographia, sciencia
 que o Poeta possuiu em subido grau, e que, como a astronomia e a
-meteorologia, √© tambem essencialmente necessaria ao marinheiro.
+meteorologia, È tambem essencialmente necessaria ao marinheiro.
 
-Os _Lusiadas_ s√£o por si s√≥ um completo tratado da sciencia da terra. N√£o
-ha ponto conhecido no mundo do seculo XVI de que o Poeta n√£o falle,
-assignando a cada um a sua fei√ß√£o geographica caracteristica, a sua
-especialidade ethnographica. Mas as suas descrip√ß√µes tem ainda a
+Os _Lusiadas_ s„o por si sÛ um completo tratado da sciencia da terra. N„o
+ha ponto conhecido no mundo do seculo XVI de que o Poeta n„o falle,
+assignando a cada um a sua feiÁ„o geographica caracteristica, a sua
+especialidade ethnographica. Mas as suas descripÁıes tem ainda a
 particularidade de serem essencialmente maritimas. Effectivamente ao
-marinheiro o que mais importa saber, depois da posi√ß√£o dos logares, √© a
-f√≥rma com que elles se apresentam vistos do mar, f√≥rma que o marinheiro
+marinheiro o que mais importa saber, depois da posiÁ„o dos logares, È a
+fÛrma com que elles se apresentam vistos do mar, fÛrma que o marinheiro
 precisa de gravar na memoria para poder distinguir uns dos outros montes,
-cabos, praias ou enseadas ali√°s muito similhantes. Para isto serve-se
-muitas vezes o navegador da compara√ß√£o com objectos conhecidos, e foi de
+cabos, praias ou enseadas ali·s muito similhantes. Para isto serve-se
+muitas vezes o navegador da comparaÁ„o com objectos conhecidos, e foi de
 certo elle quem inventou os nomes de Sombreiro, Barrete de S. Fillippe,
 Bonet de Jockey, Nariz de Nelson, e tantos outros, para designar e reter na
-memoria a f√≥rma de certas saliencias da superficie da terra banhadas pelo
-mar. Ora, nas descrip√ß√µes geographicas de Cam√µes, nota-se que elle procura
+memoria a fÛrma de certas saliencias da superficie da terra banhadas pelo
+mar. Ora, nas descripÁıes geographicas de Camıes, nota-se que elle procura
 muitas vezes dar o relevo da costa, e que quasi sempre refere a ella a
-descrip√ß√£o dos outros logares notaveis do interior, por modo que as suas
-descrip√ß√µes s√£o preciosissimas para um roteiro e ensinam muitas
-_conhecen√ßas_ do _debuxo da costa_ (Lus. X, 120), conhecimento altamente
-necessario ao navegador. N√£o se esquece tambem o Poeta de notar qualquer
+descripÁ„o dos outros logares notaveis do interior, por modo que as suas
+descripÁıes s„o preciosissimas para um roteiro e ensinam muitas
+_conhecenÁas_ do _debuxo da costa_ (Lus. X, 120), conhecimento altamente
+necessario ao navegador. N„o se esquece tambem o Poeta de notar qualquer
 circumstancia, cujo conhecimento seja util ao navegante, como os productos
 da terra, a maior ou menor facilidade de se acharem mantimentos, a
 qualidade dos portos, etc.
 
-N√£o sendo possivel transcrever todos os logares dos _Lusiadas_ que tratam
+N„o sendo possivel transcrever todos os logares dos _Lusiadas_ que tratam
 de geographia, porque seria preciso copiar dezenas e dezenas de estancias,
-citaremos apenas alguns poucos exemplos, e seja o primeiro a descrip√ß√£o da
+citaremos apenas alguns poucos exemplos, e seja o primeiro a descripÁ„o da
 Europa:
 
       Entre a zona que o Cancro senhorea,
@@ -1222,69 +1222,69 @@ Europa:
       As divide, e o mar, que fero e horrendo
       Viu dos Gregos o irado senhorio,
       Onde agora de Troia triumphante
-      N√£o v√™ mais que a memoria o navegante.
-      L√° onde mais debaixo est√° do polo,
+      N„o vÍ mais que a memoria o navegante.
+      L· onde mais debaixo est· do polo,
       Os montes Hyperboreos apparecem,
       E aquelles onde sempre sopra Eolo,
       E co'o nome dos ventos se enobrecem;
-      Aqui t√£o pouca for√ßa tem de Apollo
+      Aqui t„o pouca forÁa tem de Apollo
       Os raios, que no mundo resplandecem,
-      Que a neve est√° continuo pelos montes,
+      Que a neve est· continuo pelos montes,
       Gelado o mar, geladas sempre as fontes.
                         (Lus. III, 6, 7 e 8.)
 
-A esta descrip√ß√£o geral da Europa segue-se a especial dos seus paizes. Como
-n√£o as podemos descrever todas, lembraremos a da Italia:
+A esta descripÁ„o geral da Europa segue-se a especial dos seus paizes. Como
+n„o as podemos descrever todas, lembraremos a da Italia:
 
-      Da terra um bra√ßo vem ao mar, que cheio
-      De esfor√ßo, na√ß√µes varias sujeitou,
-      Bra√ßo forte de gente sublimada
-      N√£o menos nos engenhos que na espada;
+      Da terra um braÁo vem ao mar, que cheio
+      De esforÁo, naÁıes varias sujeitou,
+      BraÁo forte de gente sublimada
+      N„o menos nos engenhos que na espada;
                         (Lus. III, 14.)
 
 a de Hespanha:
 
       Eis aqui a nobre Hespanha,
-      Como cabe√ßa da Europa toda;
+      Como cabeÁa da Europa toda;
       Com Tingintina entesta, e ali parece
       Que quer fechar o mar Mediterrano,
       Onde o sabido Estreito se enobrece
       Co'o extremo trabalho do Thebano;
-      Com na√ß√µes differentes se engrandece
+      Com naÁıes differentes se engrandece
       Cercadas com as ondas do Oceano;
                         (Lus. III, 17, 18.)
 
 e a de Portugal:
 
-      Eis aqui, quasi cume da cabe√ßa
+      Eis aqui, quasi cume da cabeÁa
       Da Europa toda, o reino Lusitano,
-      Onde a terra acaba e o mar come√ßa
+      Onde a terra acaba e o mar comeÁa
       E onde Phebo repousa no Oceano.
                         (Lus. III, 20.)
 
 Veja-se como em duas palavras se demonstra a importancia do porto de
-Mo√ßambique:
+MoÁambique:
 
       Esta ilha pequena
       He em toda esta terra certa escala
       De todos os que as ondas navegamos
-      De Quiloa, de Momba√ßa e de Sofala;
+      De Quiloa, de MombaÁa e de Sofala;
       E por ser necessaria procuramos,
       Como proprios da terra, de habital-a;
                         (Lus. I, 54.)
 
-e como com outras duas se descreve a ilha de Momba√ßa:
+e como com outras duas se descreve a ilha de MombaÁa:
 
-      Estava a ilha √° terra t√£o chegada
+      Estava a ilha · terra t„o chegada
       Que um estreito pequeno a dividia;
       Uma cidade n'ella situada,
       Que na frente do mar apparecia,
       Como _por fora ao longe_ descobria,
       Regida por um Rei de antiga idade;
-      Momba√ßa √© o nome da ilha e da cidade.
+      MombaÁa È o nome da ilha e da cidade.
                         (Lus. I, 103.)
 
-A grande peninsula indostanica, esse theatro de tantas glorias nossas, √©
+A grande peninsula indostanica, esse theatro de tantas glorias nossas, È
 pintada assim:
 
       Alem do Indo jaz, e aquem do Gange,
@@ -1295,81 +1295,81 @@ pintada assim:
       A varias leis; alguns o vicioso
       Mafoma, alguns os idolos adoram,
       Alguns os animaes, que entre elles moram.
-      L√° bem no grande monte, que, cortando
-      T√£o longa terra, toda Azia discorre,
-      Que nomes t√£o diversos vae tomando,
-      Segundo as regi√µes por onde corre,
+      L· bem no grande monte, que, cortando
+      T„o longa terra, toda Azia discorre,
+      Que nomes t„o diversos vae tomando,
+      Segundo as regiıes por onde corre,
       As fontes sahem, donde vem manando
-      Os rios, cuja gr√£o corrente morre
+      Os rios, cuja gr„o corrente morre
       No mar Indico, e cercam todo o peso
       Do terreno, fazendo-o Chersoneso.
-      Entre um e outro rio, em grande espa√ßo,
+      Entre um e outro rio, em grande espaÁo,
       Sae da larga terra uma longa ponta,
-      Quasi pyramidal, que no rega√ßo
-      Do mar com Ceil√£o insula defronta.
+      Quasi pyramidal, que no regaÁo
+      Do mar com Ceil„o insula defronta.
                         (Lus. VII, 17, 18 e 19.)
 
-Nomea depois o Poeta as principaes na√ß√µes indianas, e n√£o lhe escapa
-lembrar a serra dos Gates, que √© uma boa _marca_ por ser visivel de muitas
+Nomea depois o Poeta as principaes naÁıes indianas, e n„o lhe escapa
+lembrar a serra dos Gates, que È uma boa _marca_ por ser visivel de muitas
 leguas ao mar:
 
-      Aqui se enxerga, _l√° do mar undoso_,
+      Aqui se enxerga, _l· do mar undoso_,
       Um monte alto, que corre longamente,
       Servindo ao Malabar de forte muro
-      Com que do Canar√° vive seguro;
+      Com que do Canar· vive seguro;
       Da terrra os naturaes lhe chamam Gate.
                         (Lus. VII, 21, 22.)
 
-E ao passar pelos seus portos n√£o se esquece de notar o phenomeno a que os
-modernos geographos francezes d√£o o nome de _raz-de-mar√©e_, que em alguns
+E ao passar pelos seus portos n„o se esquece de notar o phenomeno a que os
+modernos geographos francezes d„o o nome de _raz-de-marÈe_, que em alguns
 d'elles se observa, principalmente em Madrasta:
 
       Do mar a enchente _subita grandissima_,
       E a vasante que foge _apressurada_.
                         (Lus. X, 106.)
 
-Fallando de Aden, lembra o Poeta a circumstancia bem conhecida de nunca l√°
+Fallando de Aden, lembra o Poeta a circumstancia bem conhecida de nunca l·
 chover:
 
             a secca Adem,
             pedra viva,
-      Onde chuva dos c√©us se n√£o deriva.
+      Onde chuva dos cÈus se n„o deriva.
                         (Lus. X, 99.)
 
-E estas duas palavras--_pedra viva_--s√£o por si s√≥ uma completa descrip√ß√£o
-d'aquelle arido rochedo, onde j√° correu muito sangue portuguez.
+E estas duas palavras--_pedra viva_--s„o por si sÛ uma completa descripÁ„o
+d'aquelle arido rochedo, onde j· correu muito sangue portuguez.
 
-A Ieddah attribue Cam√µes toda a importancia que esse porto tem por ser a
-unica communica√ß√£o para os peregrinos que, por mar, v√£o a Mecca:
+A Ieddah attribue Camıes toda a importancia que esse porto tem por ser a
+unica communicaÁ„o para os peregrinos que, por mar, v„o a Mecca:
 
-      L√° no seio Erythreo
-      N√£o longe o porto jaz da nomeada
+      L· no seio Erythreo
+      N„o longe o porto jaz da nomeada
       Cidade Meca;
-      Gid√° se chama o porto aonde o trato
+      Gid· se chama o porto aonde o trato
       De todo o Roxo mar mais florecia.
                         (Lus. IX, 2, 3.)
 
-Mas a descrip√ß√£o verdadeiramente magnifica, arrebatadora, √© a que abrange
+Mas a descripÁ„o verdadeiramente magnifica, arrebatadora, È a que abrange
 todas as descobertas e conquistas na Africa, Asia, Oceania e America.
 Aquellas cincoenta estancias do canto X (91 a 141) com as que no canto V
-contem a _derrota_ de Vasco da Gama desde Lisboa at√© Melinde, s√£o um
-compendio de geographia das descobertas at√© ao seculo XVI. Ao lel-as
-parece-nos que se repete para n√≥s a magica vis√£o que Tethys offerecia na
+contem a _derrota_ de Vasco da Gama desde Lisboa atÈ Melinde, s„o um
+compendio de geographia das descobertas atÈ ao seculo XVI. Ao lel-as
+parece-nos que se repete para nÛs a magica vis„o que Tethys offerecia na
 ilha dos Amores aos olhos surpresos do afortunado descobridor da India;
 parece-nos que vemos desenrolar-se a nossos olhos o mappa immenso de tantas
 ilhas, portos, montanhas, rios e promontorios; parece-nos que se agitam
-diante do n√≥s tantos centenares de povos e na√ß√µes, com os seus usos t√£o
-oppostos, com os seus trajos ora t√£o singelos ora t√£o complicados e
+diante do nÛs tantos centenares de povos e naÁıes, com os seus usos t„o
+oppostos, com os seus trajos ora t„o singelos ora t„o complicados e
 custosos, com a riqueza de suas minas ou de suas industrias, com a sua
-historia t√£o cheia de contrastes. E um espectaculo deslumbrante, unico, que
-obriga o mais fervente admirador dos genios modernos a render-se √°
-superioridade evidente de Cam√µes; porque Cam√µes, e s√≥ elle, poude, sem ser
-monotono nem faltar √° mais escrupulosa verdade, fazer de uma longa
-enumera√ß√£o de terras e mares uma formosissima galeria das mais variadas
-paisagens e marinhas; porque s√≥ elle soube ser successivamente Claude
+historia t„o cheia de contrastes. E um espectaculo deslumbrante, unico, que
+obriga o mais fervente admirador dos genios modernos a render-se ·
+superioridade evidente de Camıes; porque Camıes, e sÛ elle, poude, sem ser
+monotono nem faltar · mais escrupulosa verdade, fazer de uma longa
+enumeraÁ„o de terras e mares uma formosissima galeria das mais variadas
+paisagens e marinhas; porque sÛ elle soube ser successivamente Claude
 Lorrain e Vernet, ficando ainda superior a estes e a todos os pintores,
 ficando sempre o grande, o incomparavel, o divino marinheiro LUIZ DE
-CAM√ïES!
+CAM’ES!
 
 
 
@@ -1379,44 +1379,44 @@ VII
 
       No mais, musa, no mais, que a lyra tenho
       Destemperada e a voz enrouquecida,
-      E n√£o do canto, mas de ver que venho
+      E n„o do canto, mas de ver que venho
       Cantar a gente surda e endurecida.
                         (Lus. X, 145.)
 
 Perdoe-se ao pigmeu a ousadia de applicar a si as palavras do gigante. Mas,
 na verdade, para que serve continuar? Se houvessemos de citar todos os
-logares em que Luiz de Cam√µes se mostrou eximio pintor da natureza, e
+logares em que Luiz de Camıes se mostrou eximio pintor da natureza, e
 principalmente da natureza maritima, teriamos de copiar quasi todo o seu
-poema. Cremos, por√©m, que o que fica transcripto √© sufficiente para
-demonstrar a nossa asser√ß√£o, de que o Poeta foi um marinheiro tocado da
-divina scentelha da inspira√ß√£o, que lhe fez ver os grandiosos espectaculos
+poema. Cremos, porÈm, que o que fica transcripto È sufficiente para
+demonstrar a nossa asserÁ„o, de que o Poeta foi um marinheiro tocado da
+divina scentelha da inspiraÁ„o, que lhe fez ver os grandiosos espectaculos
 da natureza taes como elles se manifestam.
 
-E, comtudo, de que serve esta demonstra√ß√£o? Que p√≥de ella fazer em prol do
+E, comtudo, de que serve esta demonstraÁ„o? Que pÛde ella fazer em prol do
 melhoramento do actual gosto litterario?
 
 Nada.
 
 Acontece com a historia das litteraturas como com a das nacionalidades.
-Quando o espirito de uma na√ß√£o est√° deca√≠do, quando faltam os nobres
-impulsos que a impelliram no seu progresso ascendente, quando est√° morto o
-patriotismo que centuplica as for√ßas do individuo, quando o egoismo t√≥rpe
-substituiu a abnega√ß√£o e o amor da patria, √© ent√£o que se recordam os
-tempos de gloria e se levantam monumentos aos heroes que j√° n√£o √© possivel
-imitar; s√£o os v√£os lamentos dos filhos de Israel captivos em Babylonia,
-suspirando pela liberdade de Si√£o, que t√£o mal souberam defender.
+Quando o espirito de uma naÁ„o est· decaÌdo, quando faltam os nobres
+impulsos que a impelliram no seu progresso ascendente, quando est· morto o
+patriotismo que centuplica as forÁas do individuo, quando o egoismo tÛrpe
+substituiu a abnegaÁ„o e o amor da patria, È ent„o que se recordam os
+tempos de gloria e se levantam monumentos aos heroes que j· n„o È possivel
+imitar; s„o os v„os lamentos dos filhos de Israel captivos em Babylonia,
+suspirando pela liberdade de Si„o, que t„o mal souberam defender.
 
 E assim com as litteraturas. Quando passaram, para nunca mais voltar, os
 seus tempos de explendorosa florescencia, vem os commentadores estudar as
-obras primas, mas n√£o apparece um s√≥ que os imite. Onde est√£o hoje as
+obras primas, mas n„o apparece um sÛ que os imite. Onde est„o hoje as
 pennas que escreveram os _Lusiadas_ e as _Decadas_? E, deixando esses
-monumentos, que s√£o como que as estrellas de primeira grandeza de um
-firmamento de eterno brilho, onde est√£o os successores de Diniz, de Bocage,
-de Gar√ß√£o, de Alexandre Herculano, de Rebello da Silva, de Jos√© Estev√£o, de
+monumentos, que s„o como que as estrellas de primeira grandeza de um
+firmamento de eterno brilho, onde est„o os successores de Diniz, de Bocage,
+de GarÁ„o, de Alexandre Herculano, de Rebello da Silva, de JosÈ Estev„o, de
 Garrett, de Castilho? Transformaram-se os lagos cristalinos em charcos
 nauseabundos, as campinas viridentes em aridos pragaes; calaram-se os
-trinados dos rouxinoes, s√≥ se ouve o coaxar das r√£s; e a consciencia
-publica, festejando o tri-centenario da morte de Luiz de Cam√µes, manifesta
+trinados dos rouxinoes, sÛ se ouve o coaxar das r„s; e a consciencia
+publica, festejando o tri-centenario da morte de Luiz de Camıes, manifesta
 em doloroso grito o arrependimento que sente por se ter deixado resvalar no
 plano inclinado do mau gosto, e marca na historia da litteratura portugueza
 o periodo da ultima decadencia.
@@ -1428,16 +1428,16 @@ FIM
 
 
 
-End of the Project Gutenberg EBook of Luiz de Cam√µes marinheiro, by 
-Vicente de Almeida de E√ßa
+End of the Project Gutenberg EBook of Luiz de Camıes marinheiro, by 
+Vicente de Almeida de EÁa
 
-*** END OF THIS PROJECT GUTENBERG EBOOK LUIZ DE CAM√ïES MARINHEIRO ***
+*** END OF THIS PROJECT GUTENBERG EBOOK LUIZ DE CAM’ES MARINHEIRO ***
 
 ***** This file should be named 21779-8.txt or 21779-8.zip *****
 This and all associated files of various formats will be found in:
         http://www.gutenberg.org/2/1/7/7/21779/
 
-Produced by Pedro Saborano. Para coment√°rios √† transcri√ß√£o
+Produced by Pedro Saborano. Para coment·rios ‡ transcriÁ„o
 visite http://pt-scriba.blogspot.com/ (This book was
 produced from scanned images of public domain material
 from Google Book Search)

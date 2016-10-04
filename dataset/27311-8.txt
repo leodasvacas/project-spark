@@ -31,10 +31,10 @@ Library of Portugal (Biblioteca Nacional de Portugal).)
 
 
 
-     *Nota de editor:* Devido √† quantidade de erros tipogr√°ficos
-     existentes neste texto, foram tomadas v√°rias decis√µes quanto √†
-     vers√£o final. Em caso de d√∫vida, a grafia foi mantida de acordo com
-     o original. No final deste livro encontrar√° a lista de erros
+     *Nota de editor:* Devido ‡ quantidade de erros tipogr·ficos
+     existentes neste texto, foram tomadas v·rias decisıes quanto ‡
+     vers„o final. Em caso de d˙vida, a grafia foi mantida de acordo com
+     o original. No final deste livro encontrar· a lista de erros
      corrigidos.
 
                                               Rita Farinha (Nov. 2008)
@@ -89,13 +89,13 @@ D. SANCHO II.
 QUARTO REY DE PORTUGAL,
 COMPOSTA
 POR RUY DE PINA,
-Fidalgo da Casa Real, e Chronista M√¥r do Reyno.
+Fidalgo da Casa Real, e Chronista MÙr do Reyno.
 FIELMENTE COPIADA DE SEU ORIGINAL,
 Que se conserva no Archivo Real da Torre do Tombo.
 OFFERECIDA
-√Å MAGESTADE SEMPRE AUGUSTA DELREY
+¡ MAGESTADE SEMPRE AUGUSTA DELREY
 
-D. JOA√ï O V.
+D. JOA’ O V.
 
 NOSSO SENHOR
 
@@ -104,21 +104,21 @@ LISBOA OCCIDENTAL.
 Na Officina FERREYRIANA.
 M.DCC.XXVIII.
 
-_Com todas as licen√ßas necessarias._
+_Com todas as licenÁas necessarias._
 
 
 
                                                              SENHOR
 
 
-As desgra√ßas do infelicissimo Rei D. Sancho II deste nome s√≥ se podem
+As desgraÁas do infelicissimo Rei D. Sancho II deste nome sÛ se podem
 dalgum modo fazer menos sensiveis vendo-se amparada esta sua brevissima
 Chronica com o Augusto nome de V. Magestade se entre tantos infortunios
-quantos foram os que tem padecido a posteridade da sua fama, p√≥de haver
-algum genero de diminui√ß√£o, foi a brevidade, com que todos os
-Historiadores trataram as ac√ß√µes da sua vida, porque at√© parece que
-enfastia a memoria das infelicidades. Mas como √© tanto o esplendor das
-inimitaveis ac√ß√µes de V. Magestade, bastar√° a sua protec√ß√£o Real para
+quantos foram os que tem padecido a posteridade da sua fama, pÛde haver
+algum genero de diminuiÁ„o, foi a brevidade, com que todos os
+Historiadores trataram as acÁıes da sua vida, porque atÈ parece que
+enfastia a memoria das infelicidades. Mas como È tanto o esplendor das
+inimitaveis acÁıes de V. Magestade, bastar· a sua protecÁ„o Real para
 que retrocedendo tres seculos encha de gloria aquelle Reinado. A Real
 Pessoa de V. Magestade guarde Deos muitos annos como todos os seus
 vassallos dezejamos.
@@ -135,32 +135,32 @@ D. Francisco Xavier de Menezes
 
 
      _Quarto conde da Ericeira, do Concelho de Sua Magestade, Sargento
-     m√≥r de Batalha dos seus Exercitos, Deputado da Junta dos Tres
+     mÛr de Batalha dos seus Exercitos, Deputado da Junta dos Tres
      Estados, Perpetuo Senhor da Villa da Ericeira, e Senhor da de
-     Anci√£o, oitavo Senhor da Caza do Louri√ßal, Commendador das
+     Anci„o, oitavo Senhor da Caza do LouriÁal, Commendador das
      Commendas de Santa Christina de Sarzedello, de S. Cipriano de
-     Angueyra, S. Martinho de Fraz√£o, S. Payo de Fragoas, de S. Pedro de
-     Elvas, e de S. Bertholameu de Covilh√£ todas na Ordem de Christo,
+     Angueyra, S. Martinho de Fraz„o, S. Payo de Fragoas, de S. Pedro de
+     Elvas, e de S. Bertholameu de Covilh„ todas na Ordem de Christo,
      Academico da Academia Real da Historia Portugueza, e um dos cinco
      Censores della &c._
 
 
-A benignidade com que V. Excellencia desculpou a minha confian√ßa quando
+A benignidade com que V. Excellencia desculpou a minha confianÁa quando
 procurei o seu amparo para offerecer a Sua Magestade a Chronica del-Rei
 Dom Affonso III me anima agora a buscar segunda vez a V. Excellencia,
-para que me fa√ßa a merc√™ de p√¥r aos p√©s del-Rei N. Senhor esta Chronica
+para que me faÁa a mercÍ de pÙr aos pÈs del-Rei N. Senhor esta Chronica
 de D. Sancho II de Portugal. Na pessoa de V. Excellencia concorrem todas
-as circunstancias, que s√£o necessarias para este beneficio, porque V.
-Excellencia √© dotado de uma condi√ß√£o t√£o propensa para os estudiosos,
-que a immensa copia de livros, que com singular elei√ß√£o tem juntos, mais
-s√£o dos que delles se querem servir, que de V. Excellencia mesmo. √â
+as circunstancias, que s„o necessarias para este beneficio, porque V.
+Excellencia È dotado de uma condiÁ„o t„o propensa para os estudiosos,
+que a immensa copia de livros, que com singular eleiÁ„o tem juntos, mais
+s„o dos que delles se querem servir, que de V. Excellencia mesmo. …
 verdade que esta generosidade tem o seu principio na estopenda memoria
-de que V. Excellencia √© dotado, pois basta ler um livro, para lhe
-escuzar outra vez a li√ß√£o, mas tambem nace da particular satisfa√ß√£o que
+de que V. Excellencia È dotado, pois basta ler um livro, para lhe
+escuzar outra vez a liÁ„o, mas tambem nace da particular satisfaÁ„o que
 V. Excellencia tem de que todos sejam imitadores dos seus estudos. A
 ninguem melhor do que a V. Excellencia se devia dedicar esta Chronica,
-porque s√≥ V. Excellencia tem meios na sua grande capacidade para
-defender algumas materias, que nella se tratam, porque √© certo que nem
+porque sÛ V. Excellencia tem meios na sua grande capacidade para
+defender algumas materias, que nella se tratam, porque È certo que nem
 tudo foi concedido a todos, mas na pessoa de V. Excellencia se acha tudo
 o que dividido fez grandes a outros. Deos guarde a V. Excellencia muitos
 annos.
@@ -177,33 +177,33 @@ annos.
 PROLOGO
 
 
-Aqui tens Amigo Leitor a brevissima Chronica do desgra√ßado Rei de
+Aqui tens Amigo Leitor a brevissima Chronica do desgraÁado Rei de
 Portugal D. Sancho II deste nome. Foi este Principe na vida, e na morte
 o exemplo de toda a infelicidade humana, para que depois pelos
 inscrutaveis juizos de Deos tivesse o premio de tantos infurtunios na
-eternidade da Bemaventuran√ßa. Na vida foi como dizem, t√£o sogeito aos
-validos, que n√£o teve ac√ß√£o, que se podesse chamar sua, e na morte, foi
-t√£o infeliz, que a n√£o teve na Patria. Tudo o que escreveram os
+eternidade da BemaventuranÁa. Na vida foi como dizem, t„o sogeito aos
+validos, que n„o teve acÁ„o, que se podesse chamar sua, e na morte, foi
+t„o infeliz, que a n„o teve na Patria. Tudo o que escreveram os
 Authores, foi duvidoso, porque uns o fazem cazado, e outros lhe negam o
 cazamento; uns o fazem pusilanime, e outros valeroso. Seguiram as penas
-dos Chronistas a inconstancia da sua fortuna, tudo deix√°ram em quest√µes,
-porque o seu descuido lhes n√£o deixou averiguar a certeza do que
-escreviam. O Doutor Fr. Antonio Brand√£o na Quarta parte da Monarchia
-Lusitana desaggrava em muitas ac√ß√µes a este Principe das injurias dos
+dos Chronistas a inconstancia da sua fortuna, tudo deix·ram em questıes,
+porque o seu descuido lhes n„o deixou averiguar a certeza do que
+escreviam. O Doutor Fr. Antonio Brand„o na Quarta parte da Monarchia
+Lusitana desaggrava em muitas acÁıes a este Principe das injurias dos
 seus Chronistas, mostrando que fora valeroso, e que conquistara muitas
-Pra√ßas aos Mouros, como o dizem as doa√ß√µes que fez dellas √°s Ordens
-Militares. Sem duvida que a administra√ß√£o do governo, que deram os povos
-a seu irm√£o D. Affonso Conde de Bolonha em Fran√ßa, foi a cauza do muito
-que tem padecido a Real opini√£o deste Principe, porque n√£o ha quem sen√£o
-atreva a um desgra√ßado, ainda que lhe anime as veas um sangue soberano.
+PraÁas aos Mouros, como o dizem as doaÁıes que fez dellas ·s Ordens
+Militares. Sem duvida que a administraÁ„o do governo, que deram os povos
+a seu irm„o D. Affonso Conde de Bolonha em FranÁa, foi a cauza do muito
+que tem padecido a Real opini„o deste Principe, porque n„o ha quem sen„o
+atreva a um desgraÁado, ainda que lhe anime as veas um sangue soberano.
 As parcialidades que naquelle tempo havia de introduzir necessariamente
 na Corte a politica, deviam de ser o fundamento desta variedade, porque
-uns para justificarem a ac√ß√£o, o deviam de condenar, e outros que seriam
+uns para justificarem a acÁ„o, o deviam de condenar, e outros que seriam
 os menos, o haviam de desculpar. Venceo com o tempo a felicidade de seu
-irm√£o D. Affonso, e arrastada da lizonja gemeo a memoria de D. Sancho. O
-que escreveram os antigos, √© o que agora te dou a ler nesta brevissima
+irm„o D. Affonso, e arrastada da lizonja gemeo a memoria de D. Sancho. O
+que escreveram os antigos, È o que agora te dou a ler nesta brevissima
 Chronica. Se quizeres ver resgatada de tanto descuido a fama deste
-piissimo Rei, v√™ o Mestre Brand√£o, que em tudo mostrou a sua diligencia.
+piissimo Rei, vÍ o Mestre Brand„o, que em tudo mostrou a sua diligencia.
 
 
                                                              _Vale._
@@ -212,23 +212,23 @@ piissimo Rei, v√™ o Mestre Brand√£o, que em tudo mostrou a sua diligencia.
 
 
 
-LICEN√áAS DO SANTO OFFICIO
+LICEN«AS DO SANTO OFFICIO
 
 
-     _Approva√ß√£o do Reverendissimo Padre Mestre D. Antonio Caetano de
+     _ApprovaÁ„o do Reverendissimo Padre Mestre D. Antonio Caetano de
      Souza, Clerigo Regular da Divina Providencia, Qualificador do Santo
      Officio, e Academico da Academia Real da Historia Portugueza_
 
 
-EMINENT√çSSIMO SENHOR
+EMINENTÕSSIMO SENHOR
 
 
 Vi a Chronica de El-Rei D. Sancho o II, a quem os nossos Authores
 antigos chamam o Capelo, que tambem anda em nome do Chronista Ruy de
-Pina, como j√° disse na censura que fiz na de El-Rei D. Affonso II, seu
-pai, e n√£o contem couza alguma para que V. Eminencia n√£o conceda a
-licen√ßa que se pede para a imprimirem, este √© o meu parecer. Lisboa
-Occidental 8 de Mar√ßo de 1726.
+Pina, como j· disse na censura que fiz na de El-Rei D. Affonso II, seu
+pai, e n„o contem couza alguma para que V. Eminencia n„o conceda a
+licenÁa que se pede para a imprimirem, este È o meu parecer. Lisboa
+Occidental 8 de MarÁo de 1726.
 
 
                                  _D. Antonio Caetano de Souza C. R._
@@ -236,7 +236,7 @@ Occidental 8 de Mar√ßo de 1726.
 
 
 
-     _Approva√ß√£o do Reverendissimo Padre Mestre Fr. Vicente das Chagas,
+     _ApprovaÁ„o do Reverendissimo Padre Mestre Fr. Vicente das Chagas,
      Religioso da Provincia de Santo Antonio dos Capuchos, Lente
      jubilado na sagrada Theologia, Qualificador do Santo Officio, &c._
 
@@ -245,19 +245,19 @@ EMINENTISSIMO SENHOR
 
 
 A Chronica d'El-Rei Dom Sancho o II a quem os Authores antigos chamam o
-Capelo, pelos vestidos honestos, de que sempre uzou, mais de fei√ß√£o de
-Religioso, que de Rei, n√£o tem cousa que se oponha aos dogmas da nossa
-Santa F√©, ou bons costumes. Este Rei n√£o teve exercicio de reinar todo o
+Capelo, pelos vestidos honestos, de que sempre uzou, mais de feiÁ„o de
+Religioso, que de Rei, n„o tem cousa que se oponha aos dogmas da nossa
+Santa FÈ, ou bons costumes. Este Rei n„o teve exercicio de reinar todo o
 tempo de sua vida, porque pelos seus erros foi posto por Regedor no
-Reino seu irm√£o o Infante D. Affonso Conde de Bolonha, e errou o dito
-Rei D. Sancho se cuidou que havia de reger sempre: ¬´Errat, si quis
-existimat tutum diu esse Regem¬ª. Diz Seneca ¬´In sui Proverbiis in fine
-positis lit. E.¬ª Mas se lhe tiraram o Reino, ou a regencia delle pelos
-seus erros, e culpas, n√£o lhe podiam tirar o Reinar em o Ceo, morrendo
-(como dizem morreo) com sinaes de bom Christ√£o, e Catholico Rei, e cheio
-de virtudes. Pelo que merece a licen√ßa que pede o Chronista para se
-imprimir. V. Eminencia far√° o que for servido. Santo Antonio dos
-Capuchos de Lisboa Occidental 21 de Mar√ßo de 1726.
+Reino seu irm„o o Infante D. Affonso Conde de Bolonha, e errou o dito
+Rei D. Sancho se cuidou que havia de reger sempre: ´Errat, si quis
+existimat tutum diu esse Regemª. Diz Seneca ´In sui Proverbiis in fine
+positis lit. E.ª Mas se lhe tiraram o Reino, ou a regencia delle pelos
+seus erros, e culpas, n„o lhe podiam tirar o Reinar em o Ceo, morrendo
+(como dizem morreo) com sinaes de bom Christ„o, e Catholico Rei, e cheio
+de virtudes. Pelo que merece a licenÁa que pede o Chronista para se
+imprimir. V. Eminencia far· o que for servido. Santo Antonio dos
+Capuchos de Lisboa Occidental 21 de MarÁo de 1726.
 
 
                                            _Fr. Vicente das Chagas._
@@ -266,9 +266,9 @@ Capuchos de Lisboa Occidental 21 de Mar√ßo de 1726.
 
 
 
-Vistas as informa√ß√µes, pode-se imprimir a Chronica del-Rei D. Sancho II,
-e depois de impressa tornar√° para se conferir, e dar licen√ßa que corra,
-sem a qual n√£o correr√°. Lisboa Occidental, 22 de Mar√ßo de 1726.
+Vistas as informaÁıes, pode-se imprimir a Chronica del-Rei D. Sancho II,
+e depois de impressa tornar· para se conferir, e dar licenÁa que corra,
+sem a qual n„o correr·. Lisboa Occidental, 22 de MarÁo de 1726.
 
 
                     _Rocha, Fr. Lancastre. Teixeira. Silva. Cabedo._
@@ -279,7 +279,7 @@ sem a qual n√£o correr√°. Lisboa Occidental, 22 de Mar√ßo de 1726.
 DO ORDINARIO
 
 
-     _Approva√ß√£o do Reverendissimo Padre Mestre Fr. Jo√£o Baptista
+     _ApprovaÁ„o do Reverendissimo Padre Mestre Fr. Jo„o Baptista
      Troyano, Religioso da Ordem de N. Senhora do Monte do Carmo, Mestre
      na Sagrada Theologia, Consultor do Santo Officio, Definidor
      perpetuo, e Provincial absoluto, Secretario que foi da Provincia, e
@@ -291,30 +291,30 @@ ILLUSTRISSIMO E REVERENDISSIMO SENHOR
 
 Por mandado de V. Illustrissima Reverendissima li a Chronica del-Rei D.
 Sancho II no Nome, e quarto dos Reis de Portugal, vulgarmente chamado
-Capelo, na f√≥rma que a deixou escrita Ruy de Pina Chronista m√≥r do
-Reino, e como nella se n√£o encontre couza que se opponha aos dogmas da
-nossa Santa F√© Catholica, ou bons costumes, julgo se lhe p√≥de conceder a
-licen√ßa que se pede, salvo, &c. Carmo de Lisboa Occidental 4 de Outubro
+Capelo, na fÛrma que a deixou escrita Ruy de Pina Chronista mÛr do
+Reino, e como nella se n„o encontre couza que se opponha aos dogmas da
+nossa Santa FÈ Catholica, ou bons costumes, julgo se lhe pÛde conceder a
+licenÁa que se pede, salvo, &c. Carmo de Lisboa Occidental 4 de Outubro
 de 1726.
 
 
-                        _Fr. Jo√£o Baptista Troyano, Prior do Carmo._
+                        _Fr. Jo„o Baptista Troyano, Prior do Carmo._
 
 
 
-Pode-se imprimir vistas as informa√ß√µes, a Chronica del-Rei D. Sancho II,
-e depois de impressa tornar√° para se conferir, e dar licen√ßa sem a qual
-n√£o correr√°. Lisboa Occidental 1 de Junho de 1728.
+Pode-se imprimir vistas as informaÁıes, a Chronica del-Rei D. Sancho II,
+e depois de impressa tornar· para se conferir, e dar licenÁa sem a qual
+n„o correr·. Lisboa Occidental 1 de Junho de 1728.
 
                                                            _Gouvea._
 
 
 
 
-DO PA√áO.
+DO PA«O.
 
 
-     _Approva√ß√£o do Excellentissimo Senhor D. Francisco Xavier de
+     _ApprovaÁ„o do Excellentissimo Senhor D. Francisco Xavier de
      Menezes, Conde da Ericeira, do Conselho de S. Magestade, Academico
      da Academia Real da Historia Portugueza, e um dos cinco Censores
      della, &c._
@@ -323,33 +323,33 @@ DO PA√áO.
                                                               SENHOR
 
 
-Na censura que fiz por ordem de V. Magestade √° Chronica del-Rei D.
-Sebasti√£o, ponderei largamente o juizo que fazia da utilidade que
-resultava √° Historia de Portugal, de que se publicassem as memorias mais
+Na censura que fiz por ordem de V. Magestade · Chronica del-Rei D.
+Sebasti„o, ponderei largamente o juizo que fazia da utilidade que
+resultava · Historia de Portugal, de que se publicassem as memorias mais
 antigas, que se conservavam manuscritas na Torre do Tombo, e em muitas
 livrarias, ainda que tivessem alguns defeitos, que nasceram da sincera
-credulidade dos seus Authores, outros da corrup√ß√£o das copias, e muitos
-que os modernos supp√µem, que foram erros, e que p√≥de ser sejam verdades,
-e que prevale√ßa a antiguidade de alguns seculos, que faz os Authores
-melhor instruidos de tradi√ß√£o sucessiva, e ent√£o mais vezinha ao tempo
-dos sucessos; √° critica que fundada em documentos, e conjecturas, nem
-sempre descobre as dezejadas demonstra√ß√µes. A Chronica del-Rei D. Sancho
+credulidade dos seus Authores, outros da corrupÁ„o das copias, e muitos
+que os modernos suppıem, que foram erros, e que pÛde ser sejam verdades,
+e que prevaleÁa a antiguidade de alguns seculos, que faz os Authores
+melhor instruidos de tradiÁ„o sucessiva, e ent„o mais vezinha ao tempo
+dos sucessos; · critica que fundada em documentos, e conjecturas, nem
+sempre descobre as dezejadas demonstraÁıes. A Chronica del-Rei D. Sancho
 II sendo muito breve, merece maior exame, que as outras, porque era
 precizo ao seu escritor defender o que fez todo o Reino para autorizar a
-deposi√ß√£o daquelle Principe mais infelice, que culpado, e quanto mais
-raz√µes buscou este escritor para culpar o seu Rei, tanto mais seguio a
+deposiÁ„o daquelle Principe mais infelice, que culpado, e quanto mais
+razıes buscou este escritor para culpar o seu Rei, tanto mais seguio a
 primeira errada maxima, continuada por muitos Historiadores, que se
-convencem a si mesmos com a for√ßa da raz√£o, celebrando a fidelidade dos
+convencem a si mesmos com a forÁa da raz„o, celebrando a fidelidade dos
 dous valerosos defensores de Coimbra, e Cerolico. Tambem se buscaram
-outros principios, que as Monarchias independentes, como √© a de Portugal
-n√£o admitem, nem acho inconveniente em que se imprimam as Historias do
-que o mundo fazia, e hoje n√£o observa, porque assim conhecemos o genio
+outros principios, que as Monarchias independentes, como È a de Portugal
+n„o admitem, nem acho inconveniente em que se imprimam as Historias do
+que o mundo fazia, e hoje n„o observa, porque assim conhecemos o genio
 dos seculos passados, e a parcialidade dos nossos Chronistas; sendo
-poucos em todas as na√ß√µes, os que se livraram deste perigo, e n√£o sendo
-o mesmo permetir V. Magestade a licen√ßa que se pede para sahirem a luz
-os livros antigos, que aprovar tudo o que elles dizem, e copi√°ram os
+poucos em todas as naÁıes, os que se livraram deste perigo, e n„o sendo
+o mesmo permetir V. Magestade a licenÁa que se pede para sahirem a luz
+os livros antigos, que aprovar tudo o que elles dizem, e copi·ram os
 outros, que o seguiram, e assim entendo que com esta censura que deve
-imprimir-se nas mais Edi√ß√µes desta Chronica, se d√™ a faculdade que
+imprimir-se nas mais EdiÁıes desta Chronica, se dÍ a faculdade que
 pertende o seu curioso Collector, desta, e de todas as Historias antigas
 de Portugal. Lisboa Occidental 7 de Junho de 1728.
 
@@ -357,9 +357,9 @@ de Portugal. Lisboa Occidental 7 de Junho de 1728.
                                                 _Conde da Ericeira._
 
 
-Que se possa imprimir, visto as licen√ßas do Santo Officio, e Ordinario,
-e depois de impresso tornar√° √° Meza, para se conferir, e taxar, e sem
-isso n√£o correr√°, com declara√ß√£o, que no mesmo livro se imprima esta
+Que se possa imprimir, visto as licenÁas do Santo Officio, e Ordinario,
+e depois de impresso tornar· · Meza, para se conferir, e taxar, e sem
+isso n„o correr·, com declaraÁ„o, que no mesmo livro se imprima esta
 censura do Conde da Ericeira. Lisboa Occidental 8 de Junho de 1728.
 
                   _Marquez P. Pereira. Oliveira. Teixeira. Bonicho._
@@ -377,70 +377,70 @@ CAPITULO I
 
 
      _Como o Ifante D. Sancho Capelo, foi alevantado por Rei, e das
-     condi√ß√µes fracas que teve, e como cazou, e n√£o como a sua honra e
+     condiÁıes fracas que teve, e como cazou, e n„o como a sua honra e
      estado Real compria, e se devia_
 
 
 El-Rei Dom Affonso deste nome o segundo, e dos Reis de Portugal o
 terceiro, faleceo na era de mil duzentos e vinte e tres, (1223) como em
-sua Coronica √© declarado, e por seu falecimento foi logo alevantado, e
+sua Coronica È declarado, e por seu falecimento foi logo alevantado, e
 obedecido por Rei o Ifante Dom Sancho, seu filho maior legitimo, e
 herdeiro, a que disseram Capelo, deste nome o segundo, e dos Reis de
 Portugal o quarto, em idade de dezaseis annos, e a cauza porque este
-sobrenome de Capelo lhe fosse posto, as lembran√ßas antigas Despanha, e
-de Portugal, que delle falam, e assi o nomeam, n√£o o declaram, s√≥mente
+sobrenome de Capelo lhe fosse posto, as lembranÁas antigas Despanha, e
+de Portugal, que delle falam, e assi o nomeam, n„o o declaram, sÛmente
 que lhe devia ser posto por sua maneira de vestidos honestos, que sempre
-trouxe, mais de fei√ß√£o de Religioso, que de Rei, nem Cavaleiro, porque
-foi Principe, que do come√ßo de sua vida at√© que acabou em servir mais a
-Deos, que haver respeito √°s couzas, e pompas do mundo, em cujo cora√ß√£o
-n√£o houve a verdadeira fortaleza que pera Rei era mui necessaria, mas
+trouxe, mais de feiÁ„o de Religioso, que de Rei, nem Cavaleiro, porque
+foi Principe, que do comeÁo de sua vida atÈ que acabou em servir mais a
+Deos, que haver respeito ·s couzas, e pompas do mundo, em cujo coraÁ„o
+n„o houve a verdadeira fortaleza que pera Rei era mui necessaria, mas
 houve nelle sua pura simpreza com que dezejou que seus Reinos, e
 Vassalos fossem regidos por lei de natureza, e por regras, e concelhos
-de boa condi√ß√£o, sem outra prema, nem contradi√ß√£o de Lei, nem de algum
-direito positivo, e por esso na execu√ß√£o nas cousas da justi√ßa era muito
-brando, e as n√£o provia nem ponia, com aquelle rigor, e escarmento, que
+de boa condiÁ„o, sem outra prema, nem contradiÁ„o de Lei, nem de algum
+direito positivo, e por esso na execuÁ„o nas cousas da justiÁa era muito
+brando, e as n„o provia nem ponia, com aquelle rigor, e escarmento, que
 as culpas, e crimes de homens requeriam, e por esta sua natural, e fraca
-incrina√ß√£o, e juntamente com os m√°os, e desassolutos Conselheiros, que
-de mo√ßo logo o recolheram, e porque n√£o devidamente se regia o Reino de
+incrinaÁ„o, e juntamente com os m·os, e desassolutos Conselheiros, que
+de moÁo logo o recolheram, e porque n„o devidamente se regia o Reino de
 Portugal, e todolos naturaes delle em todalas couzas, assi espirituaes,
 como temporaes, durando o seu Reinado padeceram muitas perdas, e danos
-incomportaveis, que depois com quebra de seu nome, e pera proviz√£o de
-seu Estado se remediaram, como ao diante se dir√°.
+incomportaveis, que depois com quebra de seu nome, e pera proviz„o de
+seu Estado se remediaram, como ao diante se dir·.
 
-E ao tempo que este Rei Dom Sancho come√ßou de Reinar em Portugal,
-governava os Reinos de Castella, e de Li√£o sua tia, a Rainha Dona
-Biringela, molher que foi del-Rei Dom Affonso de Li√£o, com El-Rei Dom
-Fernando seu filho, a qual era tia deste Rei Dom Sancho, irm√£ da Rainha
+E ao tempo que este Rei Dom Sancho comeÁou de Reinar em Portugal,
+governava os Reinos de Castella, e de Li„o sua tia, a Rainha Dona
+Biringela, molher que foi del-Rei Dom Affonso de Li„o, com El-Rei Dom
+Fernando seu filho, a qual era tia deste Rei Dom Sancho, irm„ da Rainha
 Dona Orraca sua madre, e porque a Rainha Dona Biringela, a que este Rei
 Dom Sancho ficou encomendado, era Princeza de mui singulares virtudes e
-Reaes perfei√ß√µes, e muita prudenia, doendo-se da governan√ßa de Portugal,
-e de uma evidente sua perdi√ß√£o, a que decrinava, ella muitas vezes
+Reaes perfeiÁıes, e muita prudenia, doendo-se da governanÁa de Portugal,
+e de uma evidente sua perdiÁ„o, a que decrinava, ella muitas vezes
 enviou a conselhar a seu sobrinho assi bem, e verdadeiramente como a
 elle, e ao Reino compria, e principalmente pera fundamento de sua maior
-lian√ßa de o querer cazar, como seu Estado, e dinidade Real requeria. Ao
-que El Rei D. Sancho por m√°os concelhos dalguns seus n√£o fieis, e
+lianÁa de o querer cazar, como seu Estado, e dinidade Real requeria. Ao
+que El Rei D. Sancho por m·os concelhos dalguns seus n„o fieis, e
 danados conselheiros nunca obedeceo, antes por induzimento delles sem
-dispensa√ß√£o, e muito contra sua honra, e com grande escandalo, e nojo
+dispensaÁ„o, e muito contra sua honra, e com grande escandalo, e nojo
 dos do Reino, cazou com Dona Mecia Lopes, Dona fermosa, e viuva, filha
 de Dom Lopo, senhor de Biscaya, que era parenta sua dentro no quarto
-gr√°u, a qual f√¥ra j√° cazada com Dom Alvaro Pires de Castro, filho de Dom
-Pedro Fernandes de Castro, o Castell√£o, e posto que El-Rei Dom Sancho
+gr·u, a qual fÙra j· cazada com Dom Alvaro Pires de Castro, filho de Dom
+Pedro Fernandes de Castro, o Castell„o, e posto que El-Rei Dom Sancho
 pelos Prelados, e povos, Senhores, e pessoas de titulo de seu Reino
 muitas vezes fosse requerido, amoestado, e aconselhado, que se apartasse
-desta molher, e recebesse outra qual, √° sua honra, e conciencia
-convinha, elle, ou por afei√ß√£o n√£o quiz, ou por feiti√ßos, de que diziam
-que era ligado, o n√£o p√¥de nunca fazer, nem consentir, porque naquelle
+desta molher, e recebesse outra qual, · sua honra, e conciencia
+convinha, elle, ou por afeiÁ„o n„o quiz, ou por feitiÁos, de que diziam
+que era ligado, o n„o pÙde nunca fazer, nem consentir, porque naquelle
 tempo segundo as couzas passavam, mui clara, e geralmente se dizia, que
-El-Rei andava em poder della enfeiti√ßado, e cego do juizo sem se poder
+El-Rei andava em poder della enfeitiÁado, e cego do juizo sem se poder
 apartar, e que ajudavam muito o mao conselho daquelles, que sostinham a
 parte da Rainha Dona Mecia, por cujo favor em que a este tempo havia o
-poder, e authoridade com grande desolu√ß√£o elles tomavam, e destroiam do
+poder, e authoridade com grande desoluÁ„o elles tomavam, e destroiam do
 Regno todolo que queriam, e assi o faziam, outros muitos grandes, e
-pequenos por seu exemplo, os quaes males El-Rei por fraqueza de cora√ß√£o
-n√£o castigava, nem tornava a elles com aquella severidade, e rigor, que
+pequenos por seu exemplo, os quaes males El-Rei por fraqueza de coraÁ„o
+n„o castigava, nem tornava a elles com aquella severidade, e rigor, que
 se devia, e assi teve El-Rei D. Sancho esta molher algum tempo sem della
-haver alguma gera√ß√£o, n√£o cessando no Regno estes insultos, e
-desolu√ß√µes, antes crecendo cada vez mais.
+haver alguma geraÁ„o, n„o cessando no Regno estes insultos, e
+desoluÁıes, antes crecendo cada vez mais.
 
 
 
@@ -453,44 +453,44 @@ CAPITULO II
 
 
 Pelo qual os Prelados, e povo de Portugal concirando a fealdade destas
-couzas, que era em grande ofen√ßa de Deos e can√ßasso e destroi√ß√£o da
-terra, e vendo que a continua, e perseverada aprezenta√ß√£o de suas
-querelas ante El-Rei n√£o aproveitavam, todos em uma concordia se
+couzas, que era em grande ofenÁa de Deos e canÁasso e destroiÁ„o da
+terra, e vendo que a continua, e perseverada aprezentaÁ„o de suas
+querelas ante El-Rei n„o aproveitavam, todos em uma concordia se
 enviaram querelar ao Papa Honorio III na Igreja de Deos a esse tempo
 Presidente, que como bom, e Sancto Pastor, por aconselhar a El-Rei, e
 por verdadeiramente ao Regno, sabendo todas as cousas sobreditas, que
-com verdadeira rela√ß√£o lhe foram senificadas, enviou a El-Rei seu Breve,
-em que lhe vieram suas sanctas, e devidas amoesta√ß√µes, e nelle l√≠mitado
+com verdadeira relaÁ„o lhe foram senificadas, enviou a El-Rei seu Breve,
+em que lhe vieram suas sanctas, e devidas amoestaÁıes, e nelle lÌmitado
 tempo, em que inteiramente emendasse os erros de sua pessoa, e
 satisfizesse aos danos feitos por sua negligencia, em todo o Regno, e
 passado o tempo, que pera a emenda destas cousas lhe era assinado, sendo
 o Papa certificado, que em nada se satisfazia, enviou a elle de Roma por
 Delegado o Bispo Sabenense, o qual pela dureza, e pouca obediencia que
 nelle, e nos seus Conselheiros achou, poz condicionalmente em suas
-pessoas senten√ßa de Excommunh√£o, e de antredito, e em todo o Regno sem
-outro devido, e peremptorio termo, que lhe assinou, se se n√£o emendasse,
-e satisfizesse. Das quaes senten√ßas ficou por mero executor, por mandado
-especial do Papa, o Arcebispo de Braga, que por se n√£o satisfazer aos
-males, tomadias e roubos, que eram feitos especialmente √°s Igrejas, nem
+pessoas sentenÁa de Excommunh„o, e de antredito, e em todo o Regno sem
+outro devido, e peremptorio termo, que lhe assinou, se se n„o emendasse,
+e satisfizesse. Das quaes sentenÁas ficou por mero executor, por mandado
+especial do Papa, o Arcebispo de Braga, que por se n„o satisfazer aos
+males, tomadias e roubos, que eram feitos especialmente ·s Igrejas, nem
 se leixavam de fazer tantos, o tornou a notificar ao Padre Santo, que
 por uzar de mais clemencia, e piedade com El-Rei Dom Sancho, e lhe
 afastar todalas couzas de sua essencia, lhe escreveo outra carta na
-entrada da qual lhe tirou aquella solennidade de amor, e ben√ß√£o
+entrada da qual lhe tirou aquella solennidade de amor, e benÁ„o
 Apostolica, que em outras escrevia aos outros Reis sempre costumada de
-escrever, ca lhe n√£o poz Carissimo em Christo filho, nem disse nella:
-¬´Salutem & Apostolicam benedictionem¬ª.
+escrever, ca lhe n„o poz Carissimo em Christo filho, nem disse nella:
+´Salutem & Apostolicam benedictionemª.
 
 Com a Bulla, que a El-Rei Dom Sancho em sua pessoa, e em muitas partes
 de seu Regno, foi pubricada, elle foi muito anojado, e vendo se apertado
 de muitas necessidades, que nesta necessidade concorriam, aconselhado
 dos seus que o seguiam, disse que em todo queria, e prometia de obedecer
-ao Papa, e satisfazer inteiramente aos mandamentos da S√© Apostolica, e
+ao Papa, e satisfazer inteiramente aos mandamentos da SÈ Apostolica, e
 que elle logo emendaria, e faria aos seus emendar todolos danos, e
-perdas que eram feitos, e n√£o consentiria, que dahi em diante em seu
+perdas que eram feitos, e n„o consentiria, que dahi em diante em seu
 Regno por elle, nem pelos seus, lhe fizessem outros alguns, assi por
 suas cartas patentes, o segurou, e prometeo particularmente ao Papa,
-pelo qual a esta cautella, e com condi√ß√£o de todo comprir a certo tempo,
-foram todos absoltos da excommunh√£o, e levantado o antredito do Regno.
+pelo qual a esta cautella, e com condiÁ„o de todo comprir a certo tempo,
+foram todos absoltos da excommunh„o, e levantado o antredito do Regno.
 
 
 
@@ -498,127 +498,127 @@ foram todos absoltos da excommunh√£o, e levantado o antredito do Regno.
 CAPITULO III
 
 
-     _Como El-Rei Dom Sancho por amoesta√ß√µes do Papa se n√£o quiz apartar
+     _Como El-Rei Dom Sancho por amoestaÁıes do Papa se n„o quiz apartar
      de Dona Mecia Lopes sua molher, e como lhe foi tomada_
 
 
-Mas como El-Rei Dom Sancho da excommunh√£o, e antredito se vio livre, e
+Mas como El-Rei Dom Sancho da excommunh„o, e antredito se vio livre, e
 afrouxado, e os Delegados do Papa partidos do Regno, elle e os seus por
-mao conselho, e induzimento de maos homens, que comsigo trazia, n√£o
+mao conselho, e induzimento de maos homens, que comsigo trazia, n„o
 leixaram de proseguir, e uzar de todolos erros, e males, que dantes
 faziam, e esto durou por muitos annos, ca foi no tempo do dito Papa
 Honorio, e depois em vida do Papa Gregorio IX que a requerimento, e
-soprica√ß√£o dos Prelados, e povo de Portugal, lhe enviava continuas
-amoesta√ß√µes, e sanctos conselhos, a que nunca quiz inteiramente
-obedecer, quazi de sua boa, e fraca condi√ß√£o, era faze-lo logo, a Rainha
+sopricaÁ„o dos Prelados, e povo de Portugal, lhe enviava continuas
+amoestaÁıes, e sanctos conselhos, a que nunca quiz inteiramente
+obedecer, quazi de sua boa, e fraca condiÁ„o, era faze-lo logo, a Rainha
 Dona Mecia sua molher, e aquelles que seguiam sua vontade o disviavam de
-seu bom proposito, especialmente em a n√£o querer nem poder leixar por
+seu bom proposito, especialmente em a n„o querer nem poder leixar por
 molher, sobre que muitas vezes, foi pelo Papa aconselhado, e amoestado,
 e excommungado, por quanto ella era filha do Conde Dom Lopo de Biscaya,
-como j√° disse, e era muito conjunto ao Real sangue dos Reis Despanha, de
-que El-Rei Dom Sancho descendia, e por√©m nunca por direito, nem por sua
+como j· disse, e era muito conjunto ao Real sangue dos Reis Despanha, de
+que El-Rei Dom Sancho descendia, e porÈm nunca por direito, nem por sua
 vontade a quiz de si apartar, ca por qualquer maneira que fosse, elle
-lhe era muito afei√ßoado, e por√©m acha-se, que neste tempo, tendo-a
-El-Rei comsigo em Coimbra, um Reym√£o Viegas de Porto Carreiro, com
+lhe era muito afeiÁoado, e porÈm acha-se, que neste tempo, tendo-a
+El-Rei comsigo em Coimbra, um Reym„o Viegas de Porto Carreiro, com
 gentes de Dom Martim Gil de Soveroza, naturaes de Portugal, e Vassallos
 del-Rei Dom Sancho, da frontaria de Galiza, donde eram, com multas
-gentes, que comsigo trouxeram, tomaram a dita Dona Mecia, e a lev√°ram ao
+gentes, que comsigo trouxeram, tomaram a dita Dona Mecia, e a lev·ram ao
 Castello Dourem, que ella tinha del-Rei por Arras de seu cazamento,
 sobre o qual El-Rei logo foi armado, e com a gente que pode requerendo
-lhes, que lhe entregassem sua molher, e elles o n√£o quizeram fazer,
-antes resistiram a El Rei com armas, e for√ßas, com que se tornou, e
+lhes, que lhe entregassem sua molher, e elles o n„o quizeram fazer,
+antes resistiram a El Rei com armas, e forÁas, com que se tornou, e
 elles a levaram a Galiza, mas o que della se depois fez, ou com que
-fundamento, e cauza certa foi assi tomada, e levada, eu o n√£o achei, nem
-soube, e por√©m at√© o tempo que o Papa Innocencio IV foi Prezidente na
+fundamento, e cauza certa foi assi tomada, e levada, eu o n„o achei, nem
+soube, e porÈm atÈ o tempo que o Papa Innocencio IV foi Prezidente na
 Igreja de Roma, nunca por El-Rei Dom Sancho nos males, e danos passados,
-se fez alguma emenda, nem deu satisfa√ß√£o, nem menos havia rigor de
-justi√ßa, por cujo temor elles se leixassem de fazer.
+se fez alguma emenda, nem deu satisfaÁ„o, nem menos havia rigor de
+justiÁa, por cujo temor elles se leixassem de fazer.
 
 
 
 
 CAPITULO IV
 
-     _Do Concilio que o Papa Innocencio IV fez em Li√£o de Fran√ßa, onde
+     _Do Concilio que o Papa Innocencio IV fez em Li„o de FranÁa, onde
      os Prelados, e os Senhores de Portugal, se foram querelar del Rei
      Dom Sancho, e lhe pediram novo Regedor para o Regno, que por mingoa
-     da justi√ßa se perdia, e lhe outorgou o Ifante Dom Affonso, Conde de
-     Bolonha, irm√£o do dito Rei Dom Sancho_
+     da justiÁa se perdia, e lhe outorgou o Ifante Dom Affonso, Conde de
+     Bolonha, irm„o do dito Rei Dom Sancho_
 
 
 Sobre o qual sendo El-Rei por muitos, e muitas vezes aconselhado do
 requerido, e pedido, que se emendasse, e castigasse os malfeitores, elle
-n√£o o querendo, ou n√£o podendo fazer, os Prelados, e povo se enviaram
+n„o o querendo, ou n„o podendo fazer, os Prelados, e povo se enviaram
 outra vez aggravar ao Papa Innocencio IV e pedir-lhe remedio, o qual por
 algumas vezes escreveo a El-Rei cartas de mui sanctos concelhos, e
-devidas amoesta√ß√µes, e assi outras ao Bispo de Coimbra, que em seu nome,
+devidas amoestaÁıes, e assi outras ao Bispo de Coimbra, que em seu nome,
 e da sua parte o aconselhasse para se privar dos erros, e males, que
-consentia, e o esfor√ßasse para castigo, e emenda daquelles, que os
+consentia, e o esforÁasse para castigo, e emenda daquelles, que os
 cometiam, encomendando ao dito Bispo, que de todo o que em El-Rei sobre
 esso achasse, e deste cazo lhe parecesse, lho fizesse saber por suas
-cartas, as quaes enviaria ao Concilio, que se havia ent√£o de fazer, como
-fez em Li√£o Solanova em Fran√ßa, para que foram convocados os Reis, e
-Principes Christ√£os, e assi muitos Prelados, no qual Concilio se
+cartas, as quaes enviaria ao Concilio, que se havia ent„o de fazer, como
+fez em Li„o Solanova em FranÁa, para que foram convocados os Reis, e
+Principes Christ„os, e assi muitos Prelados, no qual Concilio se
 acordaram muitas, e mui sanctas couzas por bem da universal Igreja, ante
-as quaes El Rei S. Luis, por mortal doen√ßa de um fernezim, de que
+as quaes El Rei S. Luis, por mortal doenÁa de um fernezim, de que
 escapou, tornando a seu entendimento, fez nelle voto de ir, como foi em
-pessoa, por se recobrar √° Caza Santa, e √° conquista de ultra mar, e
+pessoa, por se recobrar · Caza Santa, e · conquista de ultra mar, e
 levou em pessoa comsigo a Rainha Dona Margarida sua molher, filha do
-Conde de Proen√ßa, e desta ida tomou por cerco a Cidade Damiata no
-Egipto, que era de imigos, mas logo pelo grande poder do Sold√£o, El-Rei,
-e dous seus irm√£os, que com elle passaram, a saber, Dom Affonso, e Dom
+Conde de ProenÁa, e desta ida tomou por cerco a Cidade Damiata no
+Egipto, que era de imigos, mas logo pelo grande poder do Sold„o, El-Rei,
+e dous seus irm„os, que com elle passaram, a saber, Dom Affonso, e Dom
 Carlos em uma batalha foram tambem cativos, e resgatados pela mesma
 Cidade de Damiata, e das muitas gentes de seu exercito, muitos foram
 mortos, e os outros prezos, e cativos.
 
-E retornando El Rei S. Luis a Fran√ßa com esperan√ßa de vingar o mal
+E retornando El Rei S. Luis a FranÁa com esperanÁa de vingar o mal
 passado, logo com outro grande exercito, que refez, tornou a ir sobre a
-Cidade de Tunes, com propozito de fazer o Rei della Christ√£o, como lhe
+Cidade de Tunes, com propozito de fazer o Rei della Christ„o, como lhe
 enviara prometer, e de conquistar por hi a terra dos Infieis, ao longo
-do mar at√© Alexandria pera dahi poder cobrar a Terra Sancta com menos
+do mar atÈ Alexandria pera dahi poder cobrar a Terra Sancta com menos
 trabalhos das pessoas, e deficuldades, e estando neste cerco, e tendo
 comsigo tres filhos, a saber Felippe Johane, e Pedro, elle faleceo de
 fruxo, e o dito seu filho Dom Joham de peste, e por estes merecimentos,
 e por outras muitas virtudes este Rei Luis foi pelo Papa Bonifacio
-Canonizado, e era primo com irm√£o deste Rei Dom Sancho, filhos de duas
-irm√£s.
+Canonizado, e era primo com irm„o deste Rei Dom Sancho, filhos de duas
+irm„s.
 
 E volvendo ao proposito de sua Istoria, El Rei Dom Sancho com todolos
-conselhos, e amoesta√ß√µes de amor, e de rigor pelos Papas, e pelos de seu
+conselhos, e amoestaÁıes de amor, e de rigor pelos Papas, e pelos de seu
 Regno muitas vezes lhe foram feitos, nunca por sua natural fraqueza se
 quiz, ou nem se pode emendar, nem dar ordem como se os malfeitores
 emendassem, e castigassem, e privassem dos malificios que cometiam, pelo
 qual os Prelados, e mais principaes do Regno com todo o povo, por
-remediarem sua total perdi√ß√£o em que se viam, acordaram de enviar pedir
+remediarem sua total perdiÁ„o em que se viam, acordaram de enviar pedir
 no dito Consilio ao sobredito Papa Innocencio IV que lhes desse auto, e
 pertencente Regedor pera o Regno, pera o qual foram eleitos pera
 Embaixadores, e Procuradores Dom Joham Arcebispo de Braga, que em todo o
-Reinado del¬≠¬≠-Rei Dom Sancho tinha muitas persegui√ß√µes, e perdas
-padecidas, e Dom Tibur√ßo Bispo de Coimbra, e Ruy Comes de Briteiros, e
+Reinado del≠≠-Rei Dom Sancho tinha muitas perseguiÁıes, e perdas
+padecidas, e Dom TiburÁo Bispo de Coimbra, e Ruy Comes de Briteiros, e
 Gomes Viegas, nobres Cavalleiros, e pessoas de muita authoridade no
 Regno, os quaes chegando ao Consilio, propozeram ante o Papa todalas
-querelas do Regno passadas, e a desespera√ß√£o que havia pera se nunca
+querelas do Regno passadas, e a desesperaÁ„o que havia pera se nunca
 emendarem antes ao despois se fazerem peor, pera cuja prova prezentaram
-aprovadas cartas, e verdadeiras inquiri√ß√µes, que pera esso lev√°vam, e o
+aprovadas cartas, e verdadeiras inquiriÁıes, que pera esso lev·vam, e o
 Papa, que claramente gostou da verdade depois de sobre esso haver sua
-delibera√ß√£o lhes respondeo que elles escolhessem, e tomassem por Regedor
+deliberaÁ„o lhes respondeo que elles escolhessem, e tomassem por Regedor
 do Regno de Portugal, quem quizessem, e entendessem, que o faria bem,
 com tanto que fosse natural do Regno.
 
-E porque os ditos Prelados, e Cavalleiros, tinham j√° sobre este cazo
-ass√°s deliberado, e consultado depois de lhe beijarem por esso seus
-santos p√©s, lhes disseram, que a pessoa natural que pera tal cargo
-achavam era o Ifante Dom Affonso, Conde de Bolonha, irm√£o do mesmo Rei D
-Sancho, e que este lhe pediam por merc√™ ques d√©sse por Regedor, ca o
+E porque os ditos Prelados, e Cavalleiros, tinham j· sobre este cazo
+ass·s deliberado, e consultado depois de lhe beijarem por esso seus
+santos pÈs, lhes disseram, que a pessoa natural que pera tal cargo
+achavam era o Ifante Dom Affonso, Conde de Bolonha, irm„o do mesmo Rei D
+Sancho, e que este lhe pediam por mercÍ ques dÈsse por Regedor, ca o
 Papa aprouve, e lho outorgou. Sobre o qual mandou logo chamar o dito
-Ifante Conde, que era em Bolonha de Fran√ßa, n√£o longe do Papa, que era
-na dita Cidade de Li√£o, ao qual Sua Santidade fez larga rela√ß√£o das
-couzas de Portugal, que at√© aquelle tempo eram passadas, e com esso as
-necessidades que hi havia pera com paz, e justi√ßa se remediarem, e lhe
-encomendou, e mandou que asseitasse o Regimento, defen√ß√£o, e governa√ß√£o
+Ifante Conde, que era em Bolonha de FranÁa, n„o longe do Papa, que era
+na dita Cidade de Li„o, ao qual Sua Santidade fez larga relaÁ„o das
+couzas de Portugal, que atÈ aquelle tempo eram passadas, e com esso as
+necessidades que hi havia pera com paz, e justiÁa se remediarem, e lhe
+encomendou, e mandou que asseitasse o Regimento, defenÁ„o, e governaÁ„o
 do dito Rego, e fizesse como se delle confiava, e o Conde sem
-contradi√ß√£o, nem escuza consentio no dito cargo, e o asseitou, e esto
-foi em Li√£o a seis dias de Setembro de mil duzentos quorenta, e cinco
+contradiÁ„o, nem escuza consentio no dito cargo, e o asseitou, e esto
+foi em Li„o a seis dias de Setembro de mil duzentos quorenta, e cinco
 annos (1245).
 
 
@@ -627,71 +627,71 @@ annos (1245).
 CAPITULO V
 
 
-     _Como o Conde de Bolonha, depois de asseitar a governan√ßa de
-     Portugal fez sobre esso juramento com algumas condi√ß√µes declaradas_
+     _Como o Conde de Bolonha, depois de asseitar a governanÁa de
+     Portugal fez sobre esso juramento com algumas condiÁıes declaradas_
 
 
 Tanto que o Conde pelo Papa foi dado por Regedor de Portugal, elle, e os
 ditos Prelados, e Cavalleiros do Regno, por acordo que sobre esso antes
-se tomou se vieram todos √° Cidade de Pariz, onde dentro nas cazas do
-Mestre Perochel da Cidade, sendo elle prezente, e Mestre Joham, Capel√£o
-do Papa Adai√£o da Igreja da Carnota, e Soeiro Soares Chan√ßarel, e
-Estev√£o Annes Cavalleiro do Conde, e assi sendo prezentes os ditos
+se tomou se vieram todos · Cidade de Pariz, onde dentro nas cazas do
+Mestre Perochel da Cidade, sendo elle prezente, e Mestre Joham, Capel„o
+do Papa Adai„o da Igreja da Carnota, e Soeiro Soares ChanÁarel, e
+Estev„o Annes Cavalleiro do Conde, e assi sendo prezentes os ditos
 Arcebispos, e Bispo, e Cavalleiros, e outras muitas pessoas Religiozas
-do Regno de Portugal, o dito Conde em prezen√ßa de todos, e tendo as m√£os
-sobre um livro dos Santos Evangelhos, fez solenne juramento nesta f√≥rma.
+do Regno de Portugal, o dito Conde em prezenÁa de todos, e tendo as m„os
+sobre um livro dos Santos Evangelhos, fez solenne juramento nesta fÛrma.
 
-¬´Eu Dom Affonso, Conde de Bolonha, filho Del-Rei Dom Affonso de crara
+´Eu Dom Affonso, Conde de Bolonha, filho Del-Rei Dom Affonso de crara
 memoria, Rei que foi de Portugal, prometo, e juro sobre estes Santos
 Evangelhos de Deos, que por qualquer titulo, que eu aja o Regno de
-Portugal, eu guarde, e fa√ßa guardar aos Concelhos, e todo o povo, e
+Portugal, eu guarde, e faÁa guardar aos Concelhos, e todo o povo, e
 Religiosos, e Clerezia de todo o Regno todolos bons costumes, e foros
-escritos, e n√£o escritos, os quaes houveram, e tiveram com meu av√¥, e
-com meu visav√¥, e que tire todos os maos costumes, e aboz√µes, que vieram
+escritos, e n„o escritos, os quaes houveram, e tiveram com meu avÙ, e
+com meu visavÙ, e que tire todos os maos costumes, e abozıes, que vieram
 por algumas necessidades, ou que pozeram algumas pessoas em tempo do meu
-padre, e de meu irm√£o, especialmente, que n√£o leixe, nem consinta nenhum
-mau costume, que ha no Regno de se com mudar a Justi√ßa que ha de morte
-de um homem em pena de dinheiro, e que eu fa√ßa, que os Juizes, onde quer
-que os houver de poer, sejam justos, e sem cobi√ßa, e amadores de fazer
-justi√ßa, e direito sem medo de nenhumas pessoas, e esto a quanto eu
-puder, e entender segundo me Deos ajudar, e que sejam feitos por elei√ß√£o
-dos mesmos povos, que elles houverem de reger, e n√£o por afei√ß√£o, nem
-rogo, nem pera oprimir, e despeitar o povo, que h√£o de julgar em
-justi√ßa, e em direito, e que este juramento me far√£o os Juizes quando
+padre, e de meu irm„o, especialmente, que n„o leixe, nem consinta nenhum
+mau costume, que ha no Regno de se com mudar a JustiÁa que ha de morte
+de um homem em pena de dinheiro, e que eu faÁa, que os Juizes, onde quer
+que os houver de poer, sejam justos, e sem cobiÁa, e amadores de fazer
+justiÁa, e direito sem medo de nenhumas pessoas, e esto a quanto eu
+puder, e entender segundo me Deos ajudar, e que sejam feitos por eleiÁ„o
+dos mesmos povos, que elles houverem de reger, e n„o por afeiÁ„o, nem
+rogo, nem pera oprimir, e despeitar o povo, que h„o de julgar em
+justiÁa, e em direito, e que este juramento me far„o os Juizes quando
 receberem os officios.
 
-¬´Item, que eu tire Inquiri√ß√£o por mi, ou por outrem se taes Juizes
-cumprem o que juraram, e os que n√£o fizerem o que devem que lhes mande
+´Item, que eu tire InquiriÁ„o por mi, ou por outrem se taes Juizes
+cumprem o que juraram, e os que n„o fizerem o que devem que lhes mande
 dar tal pena, que a elles seja escarmento, e a outros castigo.
 
-¬´Item, que aquelles, que for√ßarem quaesquer molheres, ou matarem
-Clerigo, ou Frade, ou qualquer outra pessoa, que eu fa√ßa delles taes
-justi√ßas, que a sua pena castigue os outros.
+´Item, que aquelles, que forÁarem quaesquer molheres, ou matarem
+Clerigo, ou Frade, ou qualquer outra pessoa, que eu faÁa delles taes
+justiÁas, que a sua pena castigue os outros.
 
-¬´Item, que defenda, e mantenha em seu estado quanto eu puder as Igrejas,
+´Item, que defenda, e mantenha em seu estado quanto eu puder as Igrejas,
 e Moesteiros, e Lugares Religiosos fazendo-lhes entregar qualquer couza,
-que lhe foi tomada, e que quaesquer males, e sem raz√µes, que alguns
-sejam em posse de fazer des o tempo de meu irm√£o at√© agora que n√£o lhe
-valha alegan√ßa de tempo perlongado.
+que lhe foi tomada, e que quaesquer males, e sem razıes, que alguns
+sejam em posse de fazer des o tempo de meu irm„o atÈ agora que n„o lhe
+valha aleganÁa de tempo perlongado.
 
-¬´Item, que eu fa√ßa emendar segundo meu poder, com conselho dos Prelados,
-e dos do Regno todolos males, que at√© qui foram feitos em elle, e
-reformarei paz quanto poder n√£o leixando sem pena taes couzas passar nem
+´Item, que eu faÁa emendar segundo meu poder, com conselho dos Prelados,
+e dos do Regno todolos males, que atÈ qui foram feitos em elle, e
+reformarei paz quanto poder n„o leixando sem pena taes couzas passar nem
 as consentindo fazer no dito Regno.
 
-¬´Item, que segundo me Deos ministrar, e eu puder, que bem, e lealmente
-reja, e aministre o dito Regno de Portugal desque em elle for, e fa√ßa
-especialmente fazer justi√ßa, dando a cada um segundo seu merecimento n√£o
+´Item, que segundo me Deos ministrar, e eu puder, que bem, e lealmente
+reja, e aministre o dito Regno de Portugal desque em elle for, e faÁa
+especialmente fazer justiÁa, dando a cada um segundo seu merecimento n„o
 asseitando pessoas pobres, nem ricas.
 
-¬´Item, que reja todo bom estado da terra, e proveito do dito Regno com
-conselho dos Prelados, e povos delle, e ser sempre obediente, e devoto √°
+´Item, que reja todo bom estado da terra, e proveito do dito Regno com
+conselho dos Prelados, e povos delle, e ser sempre obediente, e devoto ·
 Igreja de Roma, minha madre, e assi como fiel, e Catholico, e como todo
-Principe Christ√£o deve ser, e que guardarei estas couzas sobreditas
-segundo meu poder, e e me Deos ministrar¬ª.
+Principe Christ„o deve ser, e que guardarei estas couzas sobreditas
+segundo meu poder, e e me Deos ministrarª.
 
 E depois que o dito Conde jurou estas cousas, e outras mais a estas
-conformes, todolos que eram prezentes assin√°ram o juramento, e desso
+conformes, todolos que eram prezentes assin·ram o juramento, e desso
 passaram escrituras pubricas, que os Prelados trouxeram a Portugal.
 
 
@@ -700,17 +700,17 @@ passaram escrituras pubricas, que os Prelados trouxeram a Portugal.
 CAPITULO VI
 
 
-     _Das Bullas e Proviz√µes do Papa, que o Conde trouxe a Portugal pera
-     os do Regno sobre sua governan√ßa, e assi outra Bulla que sobre o
+     _Das Bullas e Provizıes do Papa, que o Conde trouxe a Portugal pera
+     os do Regno sobre sua governanÁa, e assi outra Bulla que sobre o
      mesmo caso enviou aos Frades de S. Francisco_
 
 
 Como o Conde fez este juramento, procurou logo de aviar as couzas mais
-necessarias pera a sua vinda, e √°lem de sua fazenda lhe compria a honra
-de sua pessoa, e servi√ßo, e repairo de sua caza, e familia.
+necessarias pera a sua vinda, e ·lem de sua fazenda lhe compria a honra
+de sua pessoa, e serviÁo, e repairo de sua caza, e familia.
 
-_A tradu√ß√£o destas Bullas andam muito viciadas nas copias desta
-Chronica, e se acham em outros livros, e por esta, e outras cauzas sen√£o
+_A traduÁ„o destas Bullas andam muito viciadas nas copias desta
+Chronica, e se acham em outros livros, e por esta, e outras cauzas sen„o
 imprimem neste Capitulo._
 
 
@@ -720,14 +720,14 @@ CAPITULO VII
 
 
      _De como o Conde de Bolonha chegou a Portugal, e com elle um
-     delegado do Papa, e das notifica√ß√µes que logo fizeram a El-Rei D.
+     delegado do Papa, e das notificaÁıes que logo fizeram a El-Rei D.
      Sancho_
 
 
 Despedidas as Bulas do Papa, e aparelhadas as couzas, que ao Conde para
 seu caminho mais cumpriam, se despedio da Condessa de Bolonha sua
-molher, que havia nome Dona Matildes, a qual fora j√° outra vez cazada, e
-era da linhagem dos Rex de Fran√ßa, e molher, em que havia singulares
+molher, que havia nome Dona Matildes, a qual fora j· outra vez cazada, e
+era da linhagem dos Rex de FranÁa, e molher, em que havia singulares
 bondades, e vertudes, e tinham muitas terras, e grande fazenda, e dahi
 com os Prelados, e Cavalleiros Portuguezes, que o foram requerer, se
 veio a este Reino, e com elle enviou mais o Papa por seu Delegado pera
@@ -735,18 +735,18 @@ estas couzas de Portugal Frei Desiderio, pessoa em que havia doutrina, e
 sinaes de bom Religioso, pera que em nome do Papa, e da sua parte
 requeresse, que entregassem ao Conde os Castellos do Regno, nos quaes
 pozesse Alcaides, e as Villas, e terras, em que fizesse Juizes com que o
-Regno se mantivesse em paz, e justi√ßa, e por tal, que nas Fortalezas
-principalmente se n√£o acolhessem os mal feitoras, que nas pessoas, que
-em todo lhe n√£o obedecessem, pozesse senten√ßa de excommunh√£o, e como
+Regno se mantivesse em paz, e justiÁa, e por tal, que nas Fortalezas
+principalmente se n„o acolhessem os mal feitoras, que nas pessoas, que
+em todo lhe n„o obedecessem, pozesse sentenÁa de excommunh„o, e como
 chegaram ao Estremo de Portugal, o Conde por suas cartas noteficou logo
-sua vinda a todolo Regno, dizendo em seu titulo: ¬´Dom Affonso, filho do
-muito nobre Rei Dom Affonso por gra√ßa de Deos, Conde de Bolonha, e
-Procurador, e defensor do Regno de Portugal¬ª. E assi noteficou a El Rei
-Dom Sancho seu irm√£o, como a requerimento do Regno vinha, e n√£o pera ser
+sua vinda a todolo Regno, dizendo em seu titulo: ´Dom Affonso, filho do
+muito nobre Rei Dom Affonso por graÁa de Deos, Conde de Bolonha, e
+Procurador, e defensor do Regno de Portugalª. E assi noteficou a El Rei
+Dom Sancho seu irm„o, como a requerimento do Regno vinha, e n„o pera ser
 Rei, mas pera lhe reger, e governar o Regno, e se fazer nelle direito, e
-justi√ßa, que se n√£o fazia, e lhe conheceria senhorio, como a seu Rei, e
-Senhor, salvo a cerca daquelles, em cujo poder, e m√£os andava, e porque
-t√£o mal aconselhado, e por cuja cauza tantos males no Regno eram feitos,
+justiÁa, que se n„o fazia, e lhe conheceria senhorio, como a seu Rei, e
+Senhor, salvo a cerca daquelles, em cujo poder, e m„os andava, e porque
+t„o mal aconselhado, e por cuja cauza tantos males no Regno eram feitos,
 e com esto lhe enviou o Delegado um Breve do Papa.
 
 
@@ -761,62 +761,62 @@ CAPITULO VIII
 
 
 El-Rei Dom Sancho a este tempo era em Coimbra, e como vio as cartas do
-Papa, e de seu irm√£o, e soube que elle era entrado no Regno onde
+Papa, e de seu irm„o, e soube que elle era entrado no Regno onde
 inteiramente lhe obedeciam, elle de si mesmo foi muito trovado, e o
 fizeram ser muito mais os homens maos, e perversos Conselheiros, que
-consigo trazia, porque rece√°ram executar-se nelles sem escuza as penas,
+consigo trazia, porque rece·ram executar-se nelles sem escuza as penas,
 que por seus desmerecimentos, e grandes delitos mereciam, e estes lhe
-fizeram que n√£o cresse, nem obedecesse a couza, que o Papa, nem seu
-irm√£o lhe escrevesse, nem outros por seu bem lhe dicessem, porque o bem,
-nem asecego del-Rei, em cazo que depois o tivesse n√£o asegurava, nem
-descan√ßava aos que o seguiam, pelo qual de seu parecer delles, e como
+fizeram que n„o cresse, nem obedecesse a couza, que o Papa, nem seu
+irm„o lhe escrevesse, nem outros por seu bem lhe dicessem, porque o bem,
+nem asecego del-Rei, em cazo que depois o tivesse n„o asegurava, nem
+descanÁava aos que o seguiam, pelo qual de seu parecer delles, e como
 desesperado doutro bom conselho, sem receber dano de pessoa alguma, nem
-lhe ser feita desobediencia, nem contradi√ß√£o, se foi logo a Castella com
-fundamento de pedir soccorro contra seu irm√£o, a El-Rei Dom Fernando,
-deste nome o segundo, que ent√£o nelle Regnava, que era seu primo com
-irm√£o, filhos de duas irm√£s da Rainha Dona Biringela, madre del-Rei Dom
+lhe ser feita desobediencia, nem contradiÁ„o, se foi logo a Castella com
+fundamento de pedir soccorro contra seu irm„o, a El-Rei Dom Fernando,
+deste nome o segundo, que ent„o nelle Regnava, que era seu primo com
+irm„o, filhos de duas irm„s da Rainha Dona Biringela, madre del-Rei Dom
 Fernando, e Dona Orraca, madre del-Rei Dom Sancho, ou ao menos pedir
 este soccorro e ajuda ao Ifante Dom Affonso, filho herdeiro do dito Rei
-Dom Fernando, que em Castella e Li√£o, j√° tinha grande poder, e muita
+Dom Fernando, que em Castella e Li„o, j· tinha grande poder, e muita
 autoridade.
 
 E com este proposito chegou a Toledo andando a era em mil e duzentos
 quarenta e sete annos (1247) antes um anno que Sevilha fosse aos Mouros
 tomada. A este tempo El-Rei Dom Fernando veo a Toledo, tendo tomado
-Cordova, e j√° com dezejo, e fundamento de ir cercar, e tomar Sevilha, se
+Cordova, e j· com dezejo, e fundamento de ir cercar, e tomar Sevilha, se
 podesse, ao qual El-Rei Dom Sancho de Portugal seu primo, dice logo, que
 a causa de sua ida a elle, era pera lhe fazer saber, o que elle teria
-sabido, que seu irm√£o o Ifante Dom Affonso Conde de Bolonha, entr√°ra em
+sabido, que seu irm„o o Ifante Dom Affonso Conde de Bolonha, entr·ra em
 seu Regno de Portugal, e com ajuda e favor dalguns seus naturaes, se
-al√ßara contra elle, e que o tinham recebido por Senhor, e que por√©m lhe
-pedia, como a Rei t√£o poderoso, e que com elle era t√£o conjunto em
-parentesco, que em tamanha for√ßa lhe desse ajuda e favor com que
-inteiramente cobrasse seu Regno, e lan√ßasse delle f√≥ra seu irm√£o, que
-individamente lho tinha tomado, e que pois n√£o tinha filho que o
+alÁara contra elle, e que o tinham recebido por Senhor, e que porÈm lhe
+pedia, como a Rei t„o poderoso, e que com elle era t„o conjunto em
+parentesco, que em tamanha forÁa lhe desse ajuda e favor com que
+inteiramente cobrasse seu Regno, e lanÁasse delle fÛra seu irm„o, que
+individamente lho tinha tomado, e que pois n„o tinha filho que o
 herdasse, que depois de sua morte ficasse Portugal a elle, ou a seu
 filho herdeiro.
 
 Da qual couza prouve a El-Rei Dom Fernando, e pondo-a em obra ordenou
-logo pera vir a Portugal o Ifante Dom Affonso de Molina, seu irm√£o,
-filhos ambos del-Rei Dom Affonso de Li√£o, e da Rainha Dona Biringela, e
+logo pera vir a Portugal o Ifante Dom Affonso de Molina, seu irm„o,
+filhos ambos del-Rei Dom Affonso de Li„o, e da Rainha Dona Biringela, e
 com elle Dom Diogo Lopes de Haro, Senhor de Biscaya, e Dom Nuno
-Gon√ßalves de Lara, e Dom Ruy Gomes de Galiza, e Dom Ramilo Frole, e Dom
+GonÁalves de Lara, e Dom Ruy Gomes de Galiza, e Dom Ramilo Frole, e Dom
 Rodrigo Froyas, bom Cavalleiro, e Dom Fernando Anes de Lima, e outros
-grandes senhores, e com elles muitas gentes de p√©, e de cavallo, com que
-entr√°ram em Portugal pela Comarca de Riba de Coa, que a este tempo ainda
+grandes senhores, e com elles muitas gentes de pÈ, e de cavallo, com que
+entr·ram em Portugal pela Comarca de Riba de Coa, que a este tempo ainda
 era de Castella, e por elles fazerem sua entrada pela terra da Beira,
-que toda estava √° obediencia del-Rei Dom Sancho, n√£o houveram no caminho
-contradi√ß√£o, nem resistencia alguma, e assi chegaram ao lugar de Abiul,
-que √© a quatro legoas de Leiria.
+que toda estava · obediencia del-Rei Dom Sancho, n„o houveram no caminho
+contradiÁ„o, nem resistencia alguma, e assi chegaram ao lugar de Abiul,
+que È a quatro legoas de Leiria.
 
 E o Conde Dom Affonso de Bolonha tanto que entrou no Regno, tanta
 alegria receberam os Portuguezes com sua vinda, sabendo quem era, e como
 vinha a seu requerimento, que os mais dos Lugares por as proprias
 vontades dos moradores delles se lhe davam, e aquelles em que achava
-alguma contradi√ß√£o logo por execu√ß√µes que o Delegado sobre elles punha,
-ou por combates, ou for√ßas n√£o tardou em os cobrar todos salvo Coimbra,
+alguma contradiÁ„o logo por execuÁıes que o Delegado sobre elles punha,
+ou por combates, ou forÁas n„o tardou em os cobrar todos salvo Coimbra,
 em que estava Martim de Freitas, e Celorico da Beira, em que estava Dom
-Fern√£o Rodrigues Pacheco, que ambos as tinham por El-Rei Dom Sancho de
+Fern„o Rodrigues Pacheco, que ambos as tinham por El-Rei Dom Sancho de
 que ao diante direi.
 
 
@@ -830,118 +830,118 @@ CAPITULO IX
      de Trancozo_
 
 
-E sabendo o Conde de Bolonha da entrada del-Rei seu irm√£o no Regno com o
+E sabendo o Conde de Bolonha da entrada del-Rei seu irm„o no Regno com o
 Ifante Dom Affonso de Molina, e com os Cavalleiros, e gentes de
-Castella, logo percebeo, e houve pera ter, e trazer comsigo por defen√ß√£o
+Castella, logo percebeo, e houve pera ter, e trazer comsigo por defenÁ„o
 do Regno as mais gentes que pode, e com ellas se veio a Obidos, e avizou
-a Dom Jo√£o Arcebispo de Braga, e a Dom Domingos, que ent√£o era Bispo de
-Coimbra, os quaes lhe disseram que elles pela comiss√£o do Papa, haviam o
+a Dom Jo„o Arcebispo de Braga, e a Dom Domingos, que ent„o era Bispo de
+Coimbra, os quaes lhe disseram que elles pela comiss„o do Papa, haviam o
 dito Ifante Dom Affonso de Molina com todolos Senhores, e gentes de
-Castella por excomungados, e malditos, e desso tom√°ram estromentos, e
-por esta cauza El Rei, e o Ifante n√£o pass√°ram de Abiul, e se tornaram
+Castella por excomungados, e malditos, e desso tom·ram estromentos, e
+por esta cauza El Rei, e o Ifante n„o pass·ram de Abiul, e se tornaram
 pera Castella sem no Regno, nem nas gentes, e couzas delle fazerem algum
-mal, nem dano, e principalmente se tornaram, e n√£o proseguiram adiante,
+mal, nem dano, e principalmente se tornaram, e n„o proseguiram adiante,
 porque El Rei Dom Sancho pelas dezordens, e males passados, a que nunca
 provera, era de todolos mais do Regno mui dezamado, e mal quisto, e o
-Conde pelo contrairo √°lem desso era j√° das mais for√ßas delle de todo
+Conde pelo contrairo ·lem desso era j· das mais forÁas delle de todo
 apoderado, e por esta cauza o Ifante Dom Affonso com outros Senhores,
 que vieram em ajuda del-Rei, vendo o pouco que lhe podiam aproveitar, e
 o muito dano, que se podia seguir, aconselharam ao dito Rei Dom Sancho,
 que ou ficasse em seu Regno, segundo lhe era apontado, ou se fosse com
 elles a Castella.
 
-Este derradeiro houve El-Rei por melhor, sendo pior conselho, e por√©m
-El-Rei Dom Sancho tinha feitas doa√ß√µes ao Ifante Dom Pedro seu primo de
+Este derradeiro houve El-Rei por melhor, sendo pior conselho, e porÈm
+El-Rei Dom Sancho tinha feitas doaÁıes ao Ifante Dom Pedro seu primo de
 muitas Villas, e Castellos principaes de Portugal, em grande dano da
-Coroa do Regno, as quaes por sua injusta concess√£o n√£o houveram nunca
+Coroa do Regno, as quaes por sua injusta concess„o n„o houveram nunca
 efeito, como quer que o dito Ifante depois o procurasse, e requeresse
-aficadamente por intercess√µes do Papa, que sobre esso escreveo algumas
+aficadamente por intercessıes do Papa, que sobre esso escreveo algumas
 vezes ao Conde de Bolonha, que justamente sempre se escuzou.
 
 E acha-se, que em tornando El-Rei pera Castella, achegou ao Lugar de
-Moreira, que √© junto da Villa de Trancozo, na qual a esse tempo estava
-Dom Gon√ßalo Garcia, e Dom Fern√£o Garcia de Souza, que diceram
+Moreira, que È junto da Villa de Trancozo, na qual a esse tempo estava
+Dom GonÁalo Garcia, e Dom Fern„o Garcia de Souza, que diceram
 Esgaravunha, que foi bom trovador, e Dom Fernando Lopes, e Dom Diogo
-Lopes, todos quatro irm√£os, filhos de Dom Garcia Mendes de Souza, filho
-do Conde Dom Mendo o Souz√£o, e de Dona Elvira Gon√ßalves, filha de Dom
-Gon√ßalo Paes de Toronho, que eram nobres homens, e mui principaes no
-Regno, e Dom Fern√£o Garcia sabendo da vinda de Castella del Rei por
-conselho de seus irm√£os com um s√≥ Escudeiro, a que deram sua lan√ßa, e
+Lopes, todos quatro irm„os, filhos de Dom Garcia Mendes de Souza, filho
+do Conde Dom Mendo o Souz„o, e de Dona Elvira GonÁalves, filha de Dom
+GonÁalo Paes de Toronho, que eram nobres homens, e mui principaes no
+Regno, e Dom Fern„o Garcia sabendo da vinda de Castella del Rei por
+conselho de seus irm„os com um sÛ Escudeiro, a que deram sua lanÁa, e
 sendo elle vestido de todalas outras suas armas se foi a Moreira, onde
 estava El-Rei, e o Ifante, e os outros Senhores, e posto ante elles
-tirou o Elmo da cabe√ßa, e com os joelhos em terra beijou a m√£o a El-Rei,
+tirou o Elmo da cabeÁa, e com os joelhos em terra beijou a m„o a El-Rei,
 e ao Ifante Dom Affonso, e como se levantou, fez reverencia a Dom Diogo,
 e a todolos outros homens honrados, que eram prezentes, salvo a Dom
 Martim Gil de Soverosa, que era o principal homem; porque El-Rei Dom
 Sancho com quebra de seu Estado se regia.
 
-E perguntando Dom Fern√£o Garcia a El-Rei se o conhecia? Elle dice que
-si, e que era seu natural vassallo, e D. Fern√£o Garcia lhe tornou
-dizendo: ¬´Senhor meus irm√£os, que est√£o em Trancozo, e por cujo mandado
+E perguntando Dom Fern„o Garcia a El-Rei se o conhecia? Elle dice que
+si, e que era seu natural vassallo, e D. Fern„o Garcia lhe tornou
+dizendo: ´Senhor meus irm„os, que est„o em Trancozo, e por cujo mandado
 venho como vossos vassallos, e naturaes, vos mandam pedir, e requerer,
-por ante o Ifante vosso primo, e estes Senhores que aqui est√£o, que vos
-vades pera aquella Villa, na qual, e em seu Castello vos receber√£o como
-a seu Rei, e Senhor, e assi em todolos outros de redor, que s√£o a seu
-cargo, com tanto que n√£o leveis com vosco Martim Gil, que aqui est√°, nem
+por ante o Ifante vosso primo, e estes Senhores que aqui est„o, que vos
+vades pera aquella Villa, na qual, e em seu Castello vos receber„o como
+a seu Rei, e Senhor, e assi em todolos outros de redor, que s„o a seu
+cargo, com tanto que n„o leveis com vosco Martim Gil, que aqui est·, nem
 os seus, que destruiram vossa terra, e elle matou, e leixou os que quiz,
 sem querer que dos seus e doutros mal feitores se fizesse alguma
-justi√ßa, ca certamente v√≥s n√£o tinheis de Rei mais que o nome, e a muito
+justiÁa, ca certamente vÛs n„o tinheis de Rei mais que o nome, e a muito
 alta linhagem, e Real sangue de que decendeis, porque no efeito elle era
 Rei, e com este tamanho credito que lhe destes vos teem mui mal servido,
-em especial por seu mao conselho, por cuja cauza v√≥s viestes ao estado
-em que agora estaes. E se elle dicer que n√£o √© assi eu por minha
-verdade, e por sua confuz√£o me combaterei com elle, e lhe porei as m√£os,
-e o corpo, ca por esso venho aqui armado, e alli √° porta tenho o
+em especial por seu mao conselho, por cuja cauza vÛs viestes ao estado
+em que agora estaes. E se elle dicer que n„o È assi eu por minha
+verdade, e por sua confuz„o me combaterei com elle, e lhe porei as m„os,
+e o corpo, ca por esso venho aqui armado, e alli · porta tenho o
 cavallo, e sobresso espero em Deos, que eu o matarei, ou por sua boca
-lhe farei confe√ßar que mui mal, e como n√£o devia vos teem aconselhado, e
-com grande quebra e mingoa de vosso Estado, e de vossa terra¬ª.
+lhe farei confeÁar que mui mal, e como n„o devia vos teem aconselhado, e
+com grande quebra e mingoa de vosso Estado, e de vossa terraª.
 
-Este Martim Gil era Cavalleiro, e de honrada caza, e de grande esfor√ßo,
+Este Martim Gil era Cavalleiro, e de honrada caza, e de grande esforÁo,
 porque este foi o que com grande e bom nome seu, venceo a lide do Porto.
-E ouvindo estas palavras a Dom Fern√£o Garcia, ficou muito injuriado, e
-abatido especialmente, porque √°quella hora n√£o lhe respondeo como a sua
-honra compria porque s√≥mente lhe dice: ¬´Dom Fern√£o Garcia dizeis mal, e
-do que dicestes vos n√£o deveis de achar bem, se eu n√£o morro¬ª. Polo qual
-Dom Martim Gil, fez logo mostran√ßa a alguns dos seus que alli estavam
-que lhe fossem ter ao caminho, e o matassem, e Dom Fern√£o Garcia que os
-vio, e entendeo bem a m√° ten√ß√£o com que sahiam, antes doutra couza dice
-a El-Rei: ¬´Senhor, v√≥s quereis ir pera Trancozo, como vos tenho
-requerido?¬ª E El-Rei lhe respondeo, que n√£o, e ent√£o tornou D. Fern√£o
-Garcia, e dice ao Ifante D. Affonso: ¬´Senhor, sereis testemunha v√≥s, e
-esses Senhores que aqui estades da oferta, que por meus irm√£os, e por mi
-vim fazer a El-Rei¬ª.
+E ouvindo estas palavras a Dom Fern„o Garcia, ficou muito injuriado, e
+abatido especialmente, porque ·quella hora n„o lhe respondeo como a sua
+honra compria porque sÛmente lhe dice: ´Dom Fern„o Garcia dizeis mal, e
+do que dicestes vos n„o deveis de achar bem, se eu n„o morroª. Polo qual
+Dom Martim Gil, fez logo mostranÁa a alguns dos seus que alli estavam
+que lhe fossem ter ao caminho, e o matassem, e Dom Fern„o Garcia que os
+vio, e entendeo bem a m· tenÁ„o com que sahiam, antes doutra couza dice
+a El-Rei: ´Senhor, vÛs quereis ir pera Trancozo, como vos tenho
+requerido?ª E El-Rei lhe respondeo, que n„o, e ent„o tornou D. Fern„o
+Garcia, e dice ao Ifante D. Affonso: ´Senhor, sereis testemunha vÛs, e
+esses Senhores que aqui estades da oferta, que por meus irm„os, e por mi
+vim fazer a El-Reiª.
 
 E com dito esto volveo o rosto contra Dom Diogo Lopes, e a Dom Nuno de
-Lara, e dice-lhes: ¬´Bem vistes Senhores a offerta, que por limpeza, e
-lealdade minha, e de meus irm√£os fiz com El-Rei, e assi ouvistes o que
-tambem dice a Dom Martim Gil, que aqui est√°, e n√£o querendo por seu
+Lara, e dice-lhes: ´Bem vistes Senhores a offerta, que por limpeza, e
+lealdade minha, e de meus irm„os fiz com El-Rei, e assi ouvistes o que
+tambem dice a Dom Martim Gil, que aqui est·, e n„o querendo por seu
 corpo tornar a esso, como por sua honra devia, mandou aquelles seus, que
-daqui partiram, que me v√£o ter ao caminho pera desacompanhado me
-matarem, porque vos pe√ßo, como a nobres, e honrados Cavalleiros, que por
-boa mezura me mandeis poer em salvo em Trancozo¬ª. E logo Dom Affonso se
-levantou, e dice: ¬´Martim Gil v√≥s n√£o atentaste no que Dom Fern√£o Garcia
+daqui partiram, que me v„o ter ao caminho pera desacompanhado me
+matarem, porque vos peÁo, como a nobres, e honrados Cavalleiros, que por
+boa mezura me mandeis poer em salvo em Trancozoª. E logo Dom Affonso se
+levantou, e dice: ´Martim Gil vÛs n„o atentaste no que Dom Fern„o Garcia
 vos dice? o que deveres de fazer, ca me parece que vos toca por maneira
-de trai√ß√£o, e n√£o lhe quereis poer as m√£os, como deveis, e vos elle
-requer?¬ª
+de traiÁ„o, e n„o lhe quereis poer as m„os, como deveis, e vos elle
+requer?ª
 
-E Dom Martim Gil brevemente dice, que dava pouco por suas palavras v√£s,
-pelo qual estes Senhores diceram a El-Rei, que Dom Fern√£o Garcia, e os
-nobres homens que eram em Trancozo n√£o podiam fazer melhor comprimento,
+E Dom Martim Gil brevemente dice, que dava pouco por suas palavras v„s,
+pelo qual estes Senhores diceram a El-Rei, que Dom Fern„o Garcia, e os
+nobres homens que eram em Trancozo n„o podiam fazer melhor comprimento,
 porque com elle compriam, como bons vassallos quanto deviam, e que dahi
-por diante qualquer culpa que hi ouvesse, que era del-Rei, e n√£o delles,
+por diante qualquer culpa que hi ouvesse, que era del-Rei, e n„o delles,
 e logo Dom Diogo, e Dom Nuno com esses bons homens que hi eram
-cavalgaram, e foram-se com Dom Fern√£o Garcia at√© Trancozo, donde sahiram
-seus irm√£os e outra boa, e nobre gente, que hi eram, e lhe tiveram em
-merc√™ sua vinda, e depois de praticarem sobre as couzas que pendiam, Dom
+cavalgaram, e foram-se com Dom Fern„o Garcia atÈ Trancozo, donde sahiram
+seus irm„os e outra boa, e nobre gente, que hi eram, e lhe tiveram em
+mercÍ sua vinda, e depois de praticarem sobre as couzas que pendiam, Dom
 Diogo, e Dom Nuno se tornaram pera o Ifante Dom Affonso, que juntos com
 El-Rei Dom Sancho se foram todos pera Castella, e com elles este Dom
 Martim Gil, que era Portuguez, e homem muito honrado, o que com medo do
-Conde Dom Affonso n√£o ouzou de ficar, e se foi tambem a Castella com
-El-Rei Dom Sancho, e l√° faleceo, e foi del-Rei D. Affonso Decimo, com
-quem viveo havido por Rico homem, e em grande estima, e por t√°l est√°
+Conde Dom Affonso n„o ouzou de ficar, e se foi tambem a Castella com
+El-Rei Dom Sancho, e l· faleceo, e foi del-Rei D. Affonso Decimo, com
+quem viveo havido por Rico homem, e em grande estima, e por t·l est·
 posto por testamenteiro, com outros no testamento del-Rei, quando por
 desagardecimentos do Ifante Dom Sancho seu filho, o deserdou de
-Castella, ainda que seu deserdamento n√£o houve efeito.
+Castella, ainda que seu deserdamento n„o houve efeito.
 
 
 
@@ -949,72 +949,72 @@ Castella, ainda que seu deserdamento n√£o houve efeito.
 CAPITULO X
 
 
-     _Como o Conde cercou em Celorico da Beira a Dom Fern√£o Rodrigues
-     Pacheco, que lhe n√£o quiz obedecer, e como por causa de uma truita
+     _Como o Conde cercou em Celorico da Beira a Dom Fern„o Rodrigues
+     Pacheco, que lhe n„o quiz obedecer, e como por causa de uma truita
      se alevantou o cerco_
 
 
-O Conde de Bolonha governador como entrou no Regno segundo atraz j√°
-dice, logo por for√ßa, ou por vontade, ou a sua obediencia todalas
+O Conde de Bolonha governador como entrou no Regno segundo atraz j·
+dice, logo por forÁa, ou por vontade, ou a sua obediencia todalas
 Cidades, Villas, e Castellos do Regno, em que entraram todalas que
 El-Rei Dom Sancho tinha dado em Portugal ao Ifante Dom Affonso de Molina
 por entrar com elle, e em sua ajuda no Regno, do que o dito Ifante se
 mandou queixar ao Papa, e assi com elle outros Cavalleiros, e Alcaides
 de Portugal, pelo Conde de Bolonha lhes tomar contra suas vontades os
 Castellos que tinham por suas menagens, e destes o Papa se escuzou
-havendo que o Conde pera asecego, e boa governan√ßa do Regno fazia o que
-devia, mas s√≥mente escreveo ao Conde rogando-lhe pelos Castellos, que
+havendo que o Conde pera asecego, e boa governanÁa do Regno fazia o que
+devia, mas sÛmente escreveo ao Conde rogando-lhe pelos Castellos, que
 por El-Rei Dom Sancho eram dados ao Ifante Dom Affonso de Molina, ao que
-n√£o satisfez pelos grandes inconvenientes que nesto havia, e porque
+n„o satisfez pelos grandes inconvenientes que nesto havia, e porque
 soube que eram cartas, e rogos de comprimento.
 
 Neste tempo depois del-Rei D. Sancho ser em Castella, porque o Castello
-de Celorico da Beira, que tinha Dom Fern√£o Rodrigues Pacheco, e o de
-Coimbra, que tinha Dom Martim de Freitas, ficaram s√≥mente por El-Rei,
-como atr√°s dice, o Conde depois de sua partida lhes mandou dizer, e
-rogar que lhos quizessem entregar, como os outros tinham j√° feito em
-todo o Regno, prometendo-lhe por esso al√©m de fazerem o que deviam
-merc√™, e bom galard√£o. E cada um por si lhe respondeo: ¬´Que elles tinham
+de Celorico da Beira, que tinha Dom Fern„o Rodrigues Pacheco, e o de
+Coimbra, que tinha Dom Martim de Freitas, ficaram sÛmente por El-Rei,
+como atr·s dice, o Conde depois de sua partida lhes mandou dizer, e
+rogar que lhos quizessem entregar, como os outros tinham j· feito em
+todo o Regno, prometendo-lhe por esso alÈm de fazerem o que deviam
+mercÍ, e bom galard„o. E cada um por si lhe respondeo: ´Que elles tinham
 feita menagem a El-Rei Dom Sancho, seu Rei e Senhor, e que em quanto
-elle fosse vivo, posto que andasse em Castella, n√£o deviam de entregar
-seus Castellos, se n√£o a elle, de cuja m√£o os receberam, ou por seu
-especial mandado, e do Papa, nem por outro algum temor, os n√£o haviam de
+elle fosse vivo, posto que andasse em Castella, n„o deviam de entregar
+seus Castellos, se n„o a elle, de cuja m„o os receberam, ou por seu
+especial mandado, e do Papa, nem por outro algum temor, os n„o haviam de
 entregar, em cazo, que sobresso fossem excommungados, e padecessem
-cercos, e quaesquer outras fadigas, e tormentos¬ª.
+cercos, e quaesquer outras fadigas, e tormentosª.
 
-Pelo qual vendo o Conde sua t√£o firme determina√ß√£o, e que pera o que
-dezejava n√£o aproveitavam muito suas repricas brandas, que fez,
+Pelo qual vendo o Conde sua t„o firme determinaÁ„o, e que pera o que
+dezejava n„o aproveitavam muito suas repricas brandas, que fez,
 detreminou cerca-los, e poz logo cerco em pessoa sobre Celorico, ca este
-por ser mais junto √° frontaria de Castella houve por melhor cobrar-se
+por ser mais junto · frontaria de Castella houve por melhor cobrar-se
 logo, e este mandou combater muitas vezes, mas por sua fortaleza, e por
-a boa gente que o defendia, n√£o se podia cobrar por for√ßa, e durou o
-cerco tanto tempo, que por o Castello n√£o ter soccorro, nem lhe poder
-vir proviz√£o de mantimentos de f√≥ra, foram os de dentro postos em tanta
-estreiteza de fome, e doutras necessidades que por n√£o morrerem, t√£o
+a boa gente que o defendia, n„o se podia cobrar por forÁa, e durou o
+cerco tanto tempo, que por o Castello n„o ter soccorro, nem lhe poder
+vir proviz„o de mantimentos de fÛra, foram os de dentro postos em tanta
+estreiteza de fome, e doutras necessidades que por n„o morrerem, t„o
 cruas e dezesperadas mortes, como se lhes ofereciam, estavam pera se
-dar, e entregar o Castello, e n√£o sofrer mais apertos de t√£o perversa
+dar, e entregar o Castello, e n„o sofrer mais apertos de t„o perversa
 lealdade.
 
-E estando nesta afronta se diz, que Dom Fern√£o Rodrigues Pacheco se
-alevantou um dia muito cedo, e andando pelo muro cuidando na pre√ßa, em
+E estando nesta afronta se diz, que Dom Fern„o Rodrigues Pacheco se
+alevantou um dia muito cedo, e andando pelo muro cuidando na preÁa, em
 que estava, e sobresso posto em desvairados pensamentos sem
 determinadamente saber o que faria, lembrando-se de Deos, lhe pedia
-muito de cora√ß√£o, que por sua misericordia por alguma maneira lhe
-socorresse, por tal, que n√£o cahisse em tamanha mingoa de sua honra,
-como seria dar aquelle Castello se n√£o a El-Rei, que lho dera, e porque
-lhe tinha feita menagem, e que durando nesta magina√ß√£o, e ora√ß√£o, que
-vio vir contra a ribeira do Mondego, que √© ahi junto, uma Aguia, que
+muito de coraÁ„o, que por sua misericordia por alguma maneira lhe
+socorresse, por tal, que n„o cahisse em tamanha mingoa de sua honra,
+como seria dar aquelle Castello se n„o a El-Rei, que lho dera, e porque
+lhe tinha feita menagem, e que durando nesta maginaÁ„o, e oraÁ„o, que
+vio vir contra a ribeira do Mondego, que È ahi junto, uma Aguia, que
 trazia nas unhas uma grande truita, e que voando por sima do Castello
 lhe cahio dentro, ainda mui fresca, com que algum tanto logo se alegrou,
-e que a mesma truita, e com desse melhor p√£o, que no Castello se pode
+e que a mesma truita, e com desse melhor p„o, que no Castello se pode
 haver, e aparelhar, mandou todo em prezente ao Conde no arraial, que
-tinha cercado, e lhe mandou dizer: ¬´Que bem o poderia ter cercado quanto
-fosse sua merc√™, mas que se por fome o esperava tomar, que visse se os
-homens, que daquella vianda eram bem bastecidos, se teriam rez√£o de
-entregar-lhe contra suas honras o Castello¬ª. Da qual couza o Conde, e
-estes a que do prezente deu parte, foram ass√°s maravilhados, e vendo,
-que por longar mais o cerco alli, n√£o aproveitava, e em outras muitas
-partes danaria, alevantou o cerco sobre Celorico, e o foi p√¥r sobre
+tinha cercado, e lhe mandou dizer: ´Que bem o poderia ter cercado quanto
+fosse sua mercÍ, mas que se por fome o esperava tomar, que visse se os
+homens, que daquella vianda eram bem bastecidos, se teriam rez„o de
+entregar-lhe contra suas honras o Castelloª. Da qual couza o Conde, e
+estes a que do prezente deu parte, foram ass·s maravilhados, e vendo,
+que por longar mais o cerco alli, n„o aproveitava, e em outras muitas
+partes danaria, alevantou o cerco sobre Celorico, e o foi pÙr sobre
 Coimbra.
 
 
@@ -1028,77 +1028,77 @@ CAPITULO XI
 
 
 O Conde como chegou a Coimbra antes de fazer grandes aparelhos pera o
-cerco e combates mandou dizer a Dom Martim de Freitas: ¬´Que lhe
-entregasse a Cidade, e o Castello, como por muitas vezes j√° lhe mandara
-requerer, e por esso lhe faria muita merc√™, porque se o assi n√£o
-fizesse, que o combateria, e o cobraria tudo com sua perda, e dano¬ª. E
-Dom Martim de Freitas lhe respondeo: ¬´Que sua merc√™ poderia comprir sua
-vontade, e fazer o que quizesse, por√©m que fosse certo, que em quanto
-soubesse que El-Rei Dom Sancho seu Rei, e Senhor, era vivo, que lho n√£o
-entregaria sem seu mandado, ou sabendo, que era morto, e que o n√£o
-amea√ßasse com morte, nem perigos, porque tudo padeceria com bom cora√ß√£o
-por inteiramente comprir com sua lealdade¬ª. Pelo qual o Conde assentou
+cerco e combates mandou dizer a Dom Martim de Freitas: ´Que lhe
+entregasse a Cidade, e o Castello, como por muitas vezes j· lhe mandara
+requerer, e por esso lhe faria muita mercÍ, porque se o assi n„o
+fizesse, que o combateria, e o cobraria tudo com sua perda, e danoª. E
+Dom Martim de Freitas lhe respondeo: ´Que sua mercÍ poderia comprir sua
+vontade, e fazer o que quizesse, porÈm que fosse certo, que em quanto
+soubesse que El-Rei Dom Sancho seu Rei, e Senhor, era vivo, que lho n„o
+entregaria sem seu mandado, ou sabendo, que era morto, e que o n„o
+ameaÁasse com morte, nem perigos, porque tudo padeceria com bom coraÁ„o
+por inteiramente comprir com sua lealdadeª. Pelo qual o Conde assentou
 seu cerco sobre o Castello, e ordenou seus combates, com que logo, e
 depois o combateo muitas vezes, em que de uma parte, e da outra houve
 mortos e feridos.
 
-Mas o alcaide, e os que por sua defen√ß√£o comsigo tinha eram taes, que os
-cometimentos do Conde n√£o aproveitavam pera cobrar o Castello por for√ßa,
+Mas o alcaide, e os que por sua defenÁ„o comsigo tinha eram taes, que os
+cometimentos do Conde n„o aproveitavam pera cobrar o Castello por forÁa,
 da qual cauza anojado o Conde fez juramento a Deos de nunca se alevantar
-de sobre elle at√© o tomar por for√ßa, ou por fome, e assi o fez porque o
-cerco foi t√£o porlongado, que os de dentro por falecimento dagoa, e de
-proviz√µes, que j√° n√£o tinham, como desesperados comiam, e bebiam couzas
-mui contrairas, e descostumadas da natureza humana, que n√£o fic√°ram
-bestas, c√£es, gatos vivos, nem os couros das alimarias mortas. E sendo o
-Conde desto certificado os mandava afrontar, e requerer cada dia: ¬´Que
-se dessem, e n√£o padecessem sem cauza, e por contumacia t√£o asperas
-cruezas, que a sua tal fa√ßanha era v√£, que n√£o podia, nem devia levar ao
-diante¬ª.
+de sobre elle atÈ o tomar por forÁa, ou por fome, e assi o fez porque o
+cerco foi t„o porlongado, que os de dentro por falecimento dagoa, e de
+provizıes, que j· n„o tinham, como desesperados comiam, e bebiam couzas
+mui contrairas, e descostumadas da natureza humana, que n„o fic·ram
+bestas, c„es, gatos vivos, nem os couros das alimarias mortas. E sendo o
+Conde desto certificado os mandava afrontar, e requerer cada dia: ´Que
+se dessem, e n„o padecessem sem cauza, e por contumacia t„o asperas
+cruezas, que a sua tal faÁanha era v„, que n„o podia, nem devia levar ao
+dianteª.
 
-Ao que Dom Martim de Freitas por sua honra, e fama n√£o queria obedecer,
-e dice, que durando este cerco, padecendo j√° de dentro grande, e mortal
+Ao que Dom Martim de Freitas por sua honra, e fama n„o queria obedecer,
+e dice, que durando este cerco, padecendo j· de dentro grande, e mortal
 necessidade de sede, que porque viram um Cavalleiro do Conde cavalgado
-pelo rio do Mondego passar, e que o cavallo de farto n√£o provou agoa, e
-que os de dentro magoados por sua mingoa, e envejozos da bemaventuran√ßa
-da alimaria, fizeram sobresso grandes lamenta√ß√µes, com que alguns
-parentes, e amigos do Alcaide lhe aconselhavam: ¬´Que pois os
-padecimentos incomportaveis que sofriam sem esperan√ßa de ajuda, nem
-soccorro estranho eram taes, que j√° se n√£o podiam comportar, e elle no
-Regno era s√≥ o que sostinha tal profia, que por dar a elle, e aos seus
-as vidas, d√©sse o Castello ao Conde¬ª.
+pelo rio do Mondego passar, e que o cavallo de farto n„o provou agoa, e
+que os de dentro magoados por sua mingoa, e envejozos da bemaventuranÁa
+da alimaria, fizeram sobresso grandes lamentaÁıes, com que alguns
+parentes, e amigos do Alcaide lhe aconselhavam: ´Que pois os
+padecimentos incomportaveis que sofriam sem esperanÁa de ajuda, nem
+soccorro estranho eram taes, que j· se n„o podiam comportar, e elle no
+Regno era sÛ o que sostinha tal profia, que por dar a elle, e aos seus
+as vidas, dÈsse o Castello ao Condeª.
 
-Dom Martim de Freitas lhes respondeo: ¬´Parentes, e meus amigos, que aqui
+Dom Martim de Freitas lhes respondeo: ´Parentes, e meus amigos, que aqui
 estaes, nunca Deos queira, que obedecendo a esse vosso concelho eu ponha
-t√£o grande magoa sobre minha limpeza, nem consinta tamanha trai√ß√£o sobre
+t„o grande magoa sobre minha limpeza, nem consinta tamanha traiÁ„o sobre
 minha honra, e lealdade, nas quaes todas encorreria se desse este
-Castello sen√£o a quem por minha menagem mo deu, em quanto elle for vivo,
-e ami n√£o fica por ver, e conhecer craramente as grandes tribula√ß√µes que
-v√≥s, e eu, e todos aqui padecemos, mas se v√≥s quizerdes trazer a vossas
+Castello sen„o a quem por minha menagem mo deu, em quanto elle for vivo,
+e ami n„o fica por ver, e conhecer craramente as grandes tribulaÁıes que
+vÛs, e eu, e todos aqui padecemos, mas se vÛs quizerdes trazer a vossas
 memorias, e poer ante estas vossas necessidades outras muito maiores
-fomes, e males, que muitos sendo cercados j√° padeceram, achareis que por
+fomes, e males, que muitos sendo cercados j· padeceram, achareis que por
 manterem suas lealdades depois que todalas couzas lhe faleciam a comerem
 as raizes das viz ervas, se sostiveram, pelo qual deste temor e afronta
-prazer√° a Deos por sua piedade, que bom nome, e seguran√ßa nossa sedo nos
-livrar√°, e em algum tempo vos alegrareis contardes a vossos filhos e
-amigos estes males que padeceis, com que n√£o acrecentareis pouco em
-vosso louvor e merecimento, e obriga√ß√£o de bondade, e lealdade, que a
+prazer· a Deos por sua piedade, que bom nome, e seguranÁa nossa sedo nos
+livrar·, e em algum tempo vos alegrareis contardes a vossos filhos e
+amigos estes males que padeceis, com que n„o acrecentareis pouco em
+vosso louvor e merecimento, e obrigaÁ„o de bondade, e lealdade, que a
 outros em semelhantes cazos confrangeo, e essa mesma neste cazo nosso
-nos n√£o desobriga, ca em outra maneira as vidas, que salvamos, durar√£o
-poucos dias, e a infamia, e deshonra, que por esso recebemos, durar√£o
-pera sempre, pelo qual vos rogo, que em quanto poderdes n√£o fale√ßais, e
-me ajudeis, ca Deos nos acorrer√°, e este mal prazendo a elle n√£o durar√°
-muito, e por ventura se algum de v√≥s pera seu servi√ßo, ou pera outra sua
-deleita√ß√£o tiverem dezejos de molheres dizei-mo, que aqui est√° minha
-filha, que √© boa donzella, e que muito amo a que eu mandarei que em tudo
+nos n„o desobriga, ca em outra maneira as vidas, que salvamos, durar„o
+poucos dias, e a infamia, e deshonra, que por esso recebemos, durar„o
+pera sempre, pelo qual vos rogo, que em quanto poderdes n„o faleÁais, e
+me ajudeis, ca Deos nos acorrer·, e este mal prazendo a elle n„o durar·
+muito, e por ventura se algum de vÛs pera seu serviÁo, ou pera outra sua
+deleitaÁ„o tiverem dezejos de molheres dizei-mo, que aqui est· minha
+filha, que È boa donzella, e que muito amo a que eu mandarei que em tudo
 vos sirva de boamente, porque com melhor vontade consentirei, e menos me
-doer√°, que ella perca a vertude de sua virgindade, que por mingoa de v√≥s
+doer·, que ella perca a vertude de sua virgindade, que por mingoa de vÛs
 outros, perder eu minha lealdade, e ser constrangido a fazer tamanha
-trai√ß√£o, como seria dar como n√£o devo este Castello a quem mo n√£o deu¬ª.
+traiÁ„o, como seria dar como n„o devo este Castello a quem mo n„o deuª.
 
 Com estas palavras, que Dom Martim de Freitas dice, ficaram todos muito
-maravilhados, e louvando muito sua bondade, se esfor√ßaram, e lhe
-prometeram, que ora fosse com rez√£o, ou sem ella, elles por satisfazer a
-seu dezejo por algum cazo, e afronta, que sobreviesse, o n√£o leixariam,
+maravilhados, e louvando muito sua bondade, se esforÁaram, e lhe
+prometeram, que ora fosse com rez„o, ou sem ella, elles por satisfazer a
+seu dezejo por algum cazo, e afronta, que sobreviesse, o n„o leixariam,
 antes todos morreriam primeiro com elle.
 
 
@@ -1112,65 +1112,65 @@ CAPITULO XII
      por limpeza de sua rigorosa lealdade_
 
 
-Estando Dom Martim de Freitas nesta afronta com El-Rei, e havendo j√° um
+Estando Dom Martim de Freitas nesta afronta com El-Rei, e havendo j· um
 anno e quatro mezes, que El-Rei Dom Sancho fora pera Castella, prouve a
 Deos de o levar deste mundo, e faleceo em Toledo, como adiante direi, e
-sendo de sua morte certificado o Conde seu irm√£o, tendo ainda o cerco
+sendo de sua morte certificado o Conde seu irm„o, tendo ainda o cerco
 sobre Coimbra, como Principe em que havia muita prudencia, e grande
-piedade, mandou logo ajuntar muito p√£o, e vinho, e carnes, e pescados, e
+piedade, mandou logo ajuntar muito p„o, e vinho, e carnes, e pescados, e
 outras maneiras de refrescos, e mandou levar tudo ao Castello, enviando
-dizer ao Alcaide: ¬´Que fosse certo, que El Rei Dom Sancho seu irm√£o era
-j√° falecido, e que lhe daria tempo, em que por elle em pessoa, ou por
-outrem, podesse haver desso verdadeira certid√£o, com a qual entregasse o
-Castello¬ª.
+dizer ao Alcaide: ´Que fosse certo, que El Rei Dom Sancho seu irm„o era
+j· falecido, e que lhe daria tempo, em que por elle em pessoa, ou por
+outrem, podesse haver desso verdadeira certid„o, com a qual entregasse o
+Castelloª.
 
 Dom Martim escolheo certificar-se por si mesmo. E o Conde o segurou da
-hida e estada, e ser livre at√© tornar ao dito Castello, que ent√£o se n√£o
+hida e estada, e ser livre atÈ tornar ao dito Castello, que ent„o se n„o
 combateria. Dom Martim de Freitas chegou a Toledo, e como quer que por
 muitos fosse certificado da morte del-Rei Dom Sancho, que no Moimento
-que mostraram o viram sepultar, elle o n√£o quiz crer, mas por m√≥r
+que mostraram o viram sepultar, elle o n„o quiz crer, mas por mÛr
 certeza fez tirar a campa que o cobria, e como o vio, e achou que em
 certo era aquelle, se diz, que prezente muitas testemunhas, que trouxe
 por comprir com sua menagem poz as chaves do Castello de Coimbra, que
-levava, no proprio bra√ßo direito del-Rei Dom Sancho, e depois de lhe
+levava, no proprio braÁo direito del-Rei Dom Sancho, e depois de lhe
 fazer por ellas entrega do dito Castello lhas tirou, e trouxe comsigo a
 Portugal, e desso tomou escrituras pubricas, e fez cerrar o Moimento, e
 se tornou a Coimbra, e dentro entrou secretamente no Castello, e ao
-outro dia mandou logo dizer ao Conde que o fosse receber, porque j√° lho
-podia entregar, e lhe devia obedecer: e que a elle, e n√£o a outro algum
+outro dia mandou logo dizer ao Conde que o fosse receber, porque j· lho
+podia entregar, e lhe devia obedecer: e que a elle, e n„o a outro algum
 o entregaria com boa vontade.
 
 O Conde foi logo ao Castello, e o Alcaide abrio logo as portas delle, e
-tomou a molher, e a filha, e as poz f√≥ra dizendo: ¬´Leixemos este
-Castello a cujo √©¬ª. E com esso se poz de joelhos diante o Conde, e com
-as chaves delle nas m√£os alevantadas lhe dice: ¬´Senhor, pois a Deos
-prouve que El-Rei Dom Sancho, vosso irm√£o falecesse tomai vossas chaves,
+tomou a molher, e a filha, e as poz fÛra dizendo: ´Leixemos este
+Castello a cujo Èª. E com esso se poz de joelhos diante o Conde, e com
+as chaves delle nas m„os alevantadas lhe dice: ´Senhor, pois a Deos
+prouve que El-Rei Dom Sancho, vosso irm„o falecesse tomai vossas chaves,
 e vosso Castello, e daqui por diante eu vos servirei, e haverei por Rei,
-e Senhor¬ª. E logo amostrou ao Conde, e √° nobre gente que era com elle as
+e Senhorª. E logo amostrou ao Conde, e · nobre gente que era com elle as
 escrituras das deligencias, que em Toledo por sua honra, e descargo
 fizera, e acertou-se que um Cavalleiro do Conde, que era prezente dice a
-Dom Martim de Freitas: ¬´Que porque n√£o pedia perd√£o ao Conde, por quanto
-nojo e desservi√ßo lhe fizera, e por lhe ferir, e matar tanta gente,
+Dom Martim de Freitas: ´Que porque n„o pedia perd„o ao Conde, por quanto
+nojo e desserviÁo lhe fizera, e por lhe ferir, e matar tanta gente,
 denegando-lhe tanto tempo a entrega e obediencia do Castello, que era
-seu¬ª.
+seuª.
 
-E Dom Martim em se querendo escuzar pera n√£o dever de pedir tal perd√£o,
-acudio mui prestes o Conde, e dice ao fidalgo, que o reprendia: ¬´Que
-semelhante perd√£o em tal cazo Dom Martim n√£o era obrigado de pedir,
-porque elle n√£o fizera erro, mas tinha feita boa fa√ßanha dina de bom
-Cavalleiro, e leal fidalgo¬ª. E por ella lhe tornava a dar o dito
+E Dom Martim em se querendo escuzar pera n„o dever de pedir tal perd„o,
+acudio mui prestes o Conde, e dice ao fidalgo, que o reprendia: ´Que
+semelhante perd„o em tal cazo Dom Martim n„o era obrigado de pedir,
+porque elle n„o fizera erro, mas tinha feita boa faÁanha dina de bom
+Cavalleiro, e leal fidalgoª. E por ella lhe tornava a dar o dito
 Castello pera elle, e pera todos os que delle decendessem, fazendo
 menagem a elle, e a todos seus herdeiros. E Dom Martim lhe respondeo:
-¬´Que lho tinha muito em merc√™; mas que elle por alguma maneira n√£o
-tomaria o dito Castello, antes lan√ßava maldi√ß√£o a seus filhos, e netos,
-e a todolos que delle descendessem at√© o quarto grao se por Castello
-fizessem menagem a Rei, nem a outra pessoa de qualquer condi√ß√£o que
-fosse¬ª.
+´Que lho tinha muito em mercÍ; mas que elle por alguma maneira n„o
+tomaria o dito Castello, antes lanÁava maldiÁ„o a seus filhos, e netos,
+e a todolos que delle descendessem atÈ o quarto grao se por Castello
+fizessem menagem a Rei, nem a outra pessoa de qualquer condiÁ„o que
+fosseª.
 
 E com esto assi concertado o Conde leixou o Castello de Coimbra, como
-devia, e se tornou outra vez a Celorico, onde Dom Fern√£o Rodrigues
-estava, porque da morte del-Rei Dom Sancho era j√° bem certificado, e
-assi sabia que o Castello de Coimbra j√° era entregue, deu logo ao Conde
+devia, e se tornou outra vez a Celorico, onde Dom Fern„o Rodrigues
+estava, porque da morte del-Rei Dom Sancho era j· bem certificado, e
+assi sabia que o Castello de Coimbra j· era entregue, deu logo ao Conde
 o Castello sem mais resistencia, nem cautella. Estes dous foram os
 derradeiros Castellos de Portugal que ao Conde obedeceram.
 
@@ -1186,40 +1186,40 @@ CAPITULO XIII
 
 El-Rei Dom Sancho depois da segunda vez que tornou a Toledo nunca dahi
 mais se partio onde com sua vida, e costumes passados em grandes
-virtudes, e com sinaes de bom, e Catholico Christ√£o acabou sua vida em
+virtudes, e com sinaes de bom, e Catholico Christ„o acabou sua vida em
 idade de quarenta annos, na era de mil duzentos quarenta e sete annos
 (1247) que dos quaes Reinou vinte e quatro, a saber vinte e dous em
 Portugal, e dous estando em Castella, e seu corpo foi sepultado na
-Capella dos Rex da S√© de Toledo, que elle mandou fazer √° sua propria
-custa, e assi deu grandes ajudas pera o acabamento da dita S√©, que se
-ent√£o fazia por El Rei Dom Fernando, que de mesquita, que era a mandou
-refazer em f√≥rma das outras Igrejas, como agora est√°, porque quando
+Capella dos Rex da SÈ de Toledo, que elle mandou fazer · sua propria
+custa, e assi deu grandes ajudas pera o acabamento da dita SÈ, que se
+ent„o fazia por El Rei Dom Fernando, que de mesquita, que era a mandou
+refazer em fÛrma das outras Igrejas, como agora est·, porque quando
 El-Rei Dom Sancho se foi pera Castella, levou comsigo muitas joias, e
 grandes riquezas, que ficaram del-Rei Dom Affonso seu padre, e del-Rei
-Dom Sancho seu av√¥; das quaes algumas n√£o tornaram a Portugal, e todas
-se gast√°ram em Castella.
+Dom Sancho seu avÙ; das quaes algumas n„o tornaram a Portugal, e todas
+se gast·ram em Castella.
 
-Este Rei Dom Sancho no come√ßo de seu Regnado deu √° Ordem de San Tiago em
-desvairados tempos, e por apertadas doa√ß√µes, as Villas de Mertola e
+Este Rei Dom Sancho no comeÁo de seu Regnado deu · Ordem de San Tiago em
+desvairados tempos, e por apertadas doaÁıes, as Villas de Mertola e
 Daljustrel, as quaes Villas tomou aos Mouros Dom Payo Correa, Mestre de
 San Tiago de Castella, e porque eram da conquista de Portugal as tornou
-a El-Rei Dom Sancho, que dellas fez as ditas doa√ß√µes √° dita Ordem. E
+a El-Rei Dom Sancho, que dellas fez as ditas doaÁıes · dita Ordem. E
 como estas Villas se ganharam, na Coronica del-Rei Dom Affonso Conde de
-Bolonha, se dir√° mais largo, e El Rei Dom Sancho povorou de fogo morto a
+Bolonha, se dir· mais largo, e El Rei Dom Sancho povorou de fogo morto a
 Cidade da Idanha a velha, sendo de todo destroida dos Mouros, e depois
-que El-Rei Dom Sancho seu av√¥ a leixou √° Ordem do Templo, e o dito Rei
+que El-Rei Dom Sancho seu avÙ a leixou · Ordem do Templo, e o dito Rei
 Dom Sancho faleceo sem filho, nem filha legitimos, nem bastardos, que se
 soubesse.
 
-E dahi a um anno, em dia de S√£o Clemente a vinte e tres dias de Novembro
+E dahi a um anno, em dia de S„o Clemente a vinte e tres dias de Novembro
 do anno de mil duzentos e quarenta e oito annos, El-Rei Dom Fernando
 tomou por cerco a Cidade de Sevilha aos Mouros, e dahi a tres annos e
 meio, nella faleceo, e ahi jaz sepultado, e havia treze annos que tambem
-tom√°ra Cordova salteada primeiro, e entrada por certos Christ√£os
+tom·ra Cordova salteada primeiro, e entrada por certos Christ„os
 Almogaveis, e foi socorrida, e mantida por o mesmo Rei Dom Fernando.
 
 E em Regnando este Rei Dom Sancho faleceram de suas vidas por muitos, e
-grandes milagres S√£o Domingos, que faleceo em Bolonha, no anno de mil
+grandes milagres S„o Domingos, que faleceo em Bolonha, no anno de mil
 duzentos e vinte sete (1227) e Sancto Antonio, natural da Cidade de
 Lisboa, em Padua, os quaes suas mui sanctas vidas foram em seu tempo
 deste Rei Dom Sancho, todos Canonizados, e referidos ao numero dos
@@ -1238,29 +1238,29 @@ A
 
 Affonso II (El Rei D.) de Portugal, em que anno morreo, pag. 19
 
-Affonso (D.) Conde de Bolonha √© nomeado pelo Papa Innocencio IV para
-Governador do Reino de Portugal, pela incapacidade de seu irm√£o D.
-Sancho II, pag. 28. Na Cidade de Pariz na prezen√ßa de muitos Prelados e
+Affonso (D.) Conde de Bolonha È nomeado pelo Papa Innocencio IV para
+Governador do Reino de Portugal, pela incapacidade de seu irm„o D.
+Sancho II, pag. 28. Na Cidade de Pariz na prezenÁa de muitos Prelados e
 Cavalleiros, toma o juramento do Governo do Reino, e de que forma o fez,
-pag. 28. Deixa sua mulher a Condessa Dona Matilde em Fran√ßa, e parte
+pag. 28. Deixa sua mulher a Condessa Dona Matilde em FranÁa, e parte
 para Portugal, e do modo como se intitulava pag. 32. Cerca o Castello de
-Celorico, que governava Fern√£o Rodrigues Pacheco, e o levanta por cauza
-de um celebre estratagema de que este uzou, pag. 42. P√µe cerco ao
+Celorico, que governava Fern„o Rodrigues Pacheco, e o levanta por cauza
+de um celebre estratagema de que este uzou, pag. 42. Pıe cerco ao
 Castello de Coimbra, e da resistencia que lhe fez Martim de Freitas, que
-o governava, at√© que sabendo da morte del-Rei D. Sancho II lho entregou,
+o governava, atÈ que sabendo da morte del-Rei D. Sancho II lho entregou,
 pag. 42 a 47.
 
-Affonso de Molina (D.) irm√£o de D. Fernando Rei de Li√£o, acompanhado de
-muitos Cavalleiros, e Soldados, entram por Portugal √° peti√ß√£o del-Rei D.
-Sancho II para lan√ßar f√≥ra delle a seu irm√£o o Conde de Bolonha, pag.
+Affonso de Molina (D.) irm„o de D. Fernando Rei de Li„o, acompanhado de
+muitos Cavalleiros, e Soldados, entram por Portugal · petiÁ„o del-Rei D.
+Sancho II para lanÁar fÛra delle a seu irm„o o Conde de Bolonha, pag.
 34. Volta com os que o acompanhavam para Castella temerozo das censuras
 da Igreja, pag. 36.
 
 Aljustrel. Foi tomada aos Mouros por D. Payo Correa, e dada por El-Rei
-D. Sancho II √° Ordem de San-Tiago, pag. 48.
+D. Sancho II · Ordem de San-Tiago, pag. 48.
 
 Alvaro Pires de Castro, (D.) filho de D. Pedro Fernandes de Castro o
-Castel√£o, foi cazado com D. Mecia Lopes, que depois cazou com El-Rei Dom
+Castel„o, foi cazado com D. Mecia Lopes, que depois cazou com El-Rei Dom
 Sancho II, pag. 21.
 
 Antonio, (Santo) em que anno foi Canonizado por Gregorio IX, pag. 49.
@@ -1268,22 +1268,22 @@ Antonio, (Santo) em que anno foi Canonizado por Gregorio IX, pag. 49.
 
 B
 
-Beringella (D.) mulher del-Rei D. Affonso de Li√£o. tia del-Rei D. Sancho
+Beringella (D.) mulher del-Rei D. Affonso de Li„o. tia del-Rei D. Sancho
 II, de Portugal, o aconselha muitas vezes a que caze, por ser muito
-conveniente ao seu Reino, e elle o n√£o executa, pag. 20.
+conveniente ao seu Reino, e elle o n„o executa, pag. 20.
 
 
 C
 
-Celorico. √â cercado o seu Castello por D. Affonso Conde de Bolonha, e
-levanta o sitio por um estratagema de que uzou D. Fern√£o Rodrigues
+Celorico. … cercado o seu Castello por D. Affonso Conde de Bolonha, e
+levanta o sitio por um estratagema de que uzou D. Fern„o Rodrigues
 Pacheco, que o governava, pag. 42.
 
 
 D
 
-Desiderio (Fr.) √© delegado do Papa Innocencio IV, para que entregue os
-Castellos, e Fortalezas de Portugal √° obediencia de D. Affonso Conde de
+Desiderio (Fr.) È delegado do Papa Innocencio IV, para que entregue os
+Castellos, e Fortalezas de Portugal · obediencia de D. Affonso Conde de
 Bolonha, pag. 32.
 
 Domingos, (S.) donde, e quando falleceo, pag. 49.
@@ -1291,16 +1291,16 @@ Domingos, (S.) donde, e quando falleceo, pag. 49.
 
 F
 
-Fernando (D.) Rei de Li√£o, em que dia, e anno conquistou Sevilha, pag.
+Fernando (D.) Rei de Li„o, em que dia, e anno conquistou Sevilha, pag.
 49. Faleceo nesta Cidade ibi.
 
-Fern√£o Garcia de Souza, filho de D. Garcia Mendes de Souza, e neto do
-Conde D. Mendo o Souz√£o, offerece a El-Rei D. Sancho II, quando voltava
-para Castella sem esperan√ßa de governar em Portugal, que se recolhe-se a
+Fern„o Garcia de Souza, filho de D. Garcia Mendes de Souza, e neto do
+Conde D. Mendo o Souz„o, offerece a El-Rei D. Sancho II, quando voltava
+para Castella sem esperanÁa de governar em Portugal, que se recolhe-se a
 Trancozo, e da pratica que fez a El-Rei em Moreira contra Martim Gil,
 pag. 36 e 37.
 
-Fern√£o Rodrigues Pacheco, governando Celorico, e sendo sitiado por D.
+Fern„o Rodrigues Pacheco, governando Celorico, e sendo sitiado por D.
 Affonso Conde de Bolonha levanta o sitio por cauza de um celebre
 estratagema de que uzou, pag. 42.
 
@@ -1309,22 +1309,22 @@ H
 
 Honorio III expede uma Bulla a Sancho II de Portugal, em que lhe adverte
 queira emendar os absurdos que se cometem no seu Reino, e o excomunga se
-n√£o obedecer, sendo executor destas censuras o Arcebispo de Braga, pag.
+n„o obedecer, sendo executor destas censuras o Arcebispo de Braga, pag.
 22. Segunda vez o notifica com palavras de maior severidade, e rigor,
-at√© que El-Rei obedece, pag. 23.
+atÈ que El-Rei obedece, pag. 23.
 
 
 I
 
 Idanha a Velha foi povoada por Sancho II. pag. 49.
 
-Innocencio IV convoca Concilio em Li√£o, e nelle √° peti√ß√£o dos Prelados e
+Innocencio IV convoca Concilio em Li„o, e nelle · petiÁ„o dos Prelados e
 Conselheiros de Portugal nomea por Governador do Reino a D. Affonso
-Conde de Bolonha pela incapacidade de seu irm√£o D. Sancho II, pag. 25 e
+Conde de Bolonha pela incapacidade de seu irm„o D. Sancho II, pag. 25 e
 26.
 
-Jo√£o (D.) Arcebispo de Braga com D. Tibur√ßo Bispo de Coimbra, e outros
-Cavalleiros Portuguezes, v√£o ao Concilio de Li√£o onde reprezentam a
+Jo„o (D.) Arcebispo de Braga com D. TiburÁo Bispo de Coimbra, e outros
+Cavalleiros Portuguezes, v„o ao Concilio de Li„o onde reprezentam a
 Innocencio IV, que lhe nomeie Governador do Reino pela incapacidade de
 D. Sancho II, pag. 27.
 
@@ -1334,11 +1334,11 @@ L
 Lopo (D.) senhor de Biscaia, foi pai de D. Mecia Lopes mulher de D.
 Sancho II, de Portugal, pag. 21.
 
-Luis (S.), rei de Fran√ßa primo del-Rei D. Sancho II, de Portugal
-assistio no Concilio de Li√£o, que convocou Innocencio IV, pag. 26. Foi
+Luis (S.), rei de FranÁa primo del-Rei D. Sancho II, de Portugal
+assistio no Concilio de Li„o, que convocou Innocencio IV, pag. 26. Foi
 conquistar a Terra Santa, levando comsigo sua espoza a Rainha Dona
 Margarida, ibi. Conquista a Cidade de Damiata, ibi. Morre no sitio da
-Cidade de Tunes, e seu filho D. Jo√£o e √© Canonizado pelo Papa Bonifacio
+Cidade de Tunes, e seu filho D. Jo„o e È Canonizado pelo Papa Bonifacio
 VIII, pag. 27.
 
 
@@ -1348,30 +1348,30 @@ Martim de Freitas Governando o Castello de Coimbra, e sendo cercado por
 D. Affonso Conde de Bolonha animosamente o defende, pag. 43 a 45. Parte
 a Toledo para se certificar da morte del-Rei Dom Sancho II e achando ser
 certa lhe entregou as chaves do Castello de Coimbra, e depois voltando a
-ella o entrega a D. Affonso irm√£o do dito Rei defunto, pag. 46 e 47.
+ella o entrega a D. Affonso irm„o do dito Rei defunto, pag. 46 e 47.
 
-Martim Gil, cavalleiro honrado teve ten√ß√£o de matar a D. Fern√£o Garcia
+Martim Gil, cavalleiro honrado teve tenÁ„o de matar a D. Fern„o Garcia
 de Souza, pelo que disse da sua pessoa a D. Sancho II em Moreira, pag.
 38.
 
 Mecia Lopes (D.) filha de D. Lopo Senhor de Biscaia, viuva de D. Alvaro
-Pires de Castro caza com D. Sancho II, pag. 21. √â separada violentamente
+Pires de Castro caza com D. Sancho II, pag. 21. … separada violentamente
 del Rei, e levada ao Castello de Ourem por estar nullamente cazada com
 elle, pag. 25.
 
-Mertola foi conquistada dos Mouros por D. Payo Correa, e dada √° Ordem de
+Mertola foi conquistada dos Mouros por D. Payo Correa, e dada · Ordem de
 San-Tiago por Sancho II, pag. 48.
 
 
 O
 
-Orraca (D.) m√£i del-Rei Dom Sancho II de Portugal, foi irm√£ de D.
-Beringela Rainha de Li√£o, pag. 20.
+Orraca (D.) m„i del-Rei Dom Sancho II de Portugal, foi irm„ de D.
+Beringela Rainha de Li„o, pag. 20.
 
 
 R
 
-Reym√£o Viegas de Porto Carreiro, em companhia de D. Martim Gil de
+Reym„o Viegas de Porto Carreiro, em companhia de D. Martim Gil de
 Soveroza, e de outros Cavalleiros levaram para o Castello de Ourem a D.
 Mecia, contra a vontade del-Rei D. Sancho II, pag. 25.
 
@@ -1379,28 +1379,28 @@ Mecia, contra a vontade del-Rei D. Sancho II, pag. 25.
 S
 
 Sancho II, (D.) de Portugal em que idade foi levantado Rei, pag. 19.
-Porque lhe cham√°ram Capello n√£o se sabe certamente, mas infere-se, ibi.
+Porque lhe cham·ram Capello n„o se sabe certamente, mas infere-se, ibi.
 Pela sua enercia padeceo o Reino repetidas perdas no tempo, que o
 governou, pag. 20. Caza com D. Mecia Lopes, filha de D. Lopo Senhor de
-Biscaya, ibi. √â admoestado pelos Prelados, e povos do Reino a que se
-aparte de D. Mecia, e o n√£o executa, ibi. O Papa Honorio III, o exorta a
-que emende os absurdos de que √© author, ali√°s que o excomungar√°, pag.
-22. √â advertido por Gregorio IX a que largue a D. Mecia por estar
-nullamente cazado com ella, pag. 23. Tendo noticia de que seu irm√£o D.
+Biscaya, ibi. … admoestado pelos Prelados, e povos do Reino a que se
+aparte de D. Mecia, e o n„o executa, ibi. O Papa Honorio III, o exorta a
+que emende os absurdos de que È author, ali·s que o excomungar·, pag.
+22. … advertido por Gregorio IX a que largue a D. Mecia por estar
+nullamente cazado com ella, pag. 23. Tendo noticia de que seu irm„o D.
 Affonso entrara no Reino para o governar parte a Castella para pedir
-soccorro a seu primo D. Fernando, pera que o lan√ßasse f√≥ra, e lho
-concede, pag. 33 e 34. Donde morreo, em que idade, e onde est√°
-enterrado, pag. 48. Deu √° Ordem de San-Tiago as Villas de Mertola, e
-Aljustrel, que conquist√°ra D. Payo Correa, pag. 48.
+soccorro a seu primo D. Fernando, pera que o lanÁasse fÛra, e lho
+concede, pag. 33 e 34. Donde morreo, em que idade, e onde est·
+enterrado, pag. 48. Deu · Ordem de San-Tiago as Villas de Mertola, e
+Aljustrel, que conquist·ra D. Payo Correa, pag. 48.
 
 Sevilha. Em que dia e anno foi conquistada por El-Rei D. Fernando de
-Li√£o, pag. 49. Nella morreo, e est√° sepultado o mesmo Rei ibi.
+Li„o, pag. 49. Nella morreo, e est· sepultado o mesmo Rei ibi.
 
 
 T
 
-Tibur√ßo (D.) bispo de Coimbra com D. Jo√£o Arcebispo de Braga, e outros
-Cavalleiros Portuguezes v√£o ao Concilio de Li√£o, onde representam a
+TiburÁo (D.) bispo de Coimbra com D. Jo„o Arcebispo de Braga, e outros
+Cavalleiros Portuguezes v„o ao Concilio de Li„o, onde representam a
 Innocencio IV a necessidade que tem de que lhes nomeie Governador do
 Reino por ser incapaz D. Sancho II, pag. 25 e 26.
 
@@ -1413,30 +1413,30 @@ INDICE DOS CAPITULOS
 
 
 I--Como o Ifante D. Sancho Capelo, foi alevantado por Rei, e das
-condi√ß√µes fracas que teve, e como cazou, e n√£o como a sua honra e estado
+condiÁıes fracas que teve, e como cazou, e n„o como a sua honra e estado
 Real compria e se devia      19
 
 II--Do que o Papa a requerimento dos Prelados, e povo de Portugal
 escreveo, e requereo a El-Rei Dom Sancho por sua Bulla      22
 
-III--Como El-Rei Dom Sancho por amoesta√ß√µes do Papa se n√£o quiz apartar
+III--Como El-Rei Dom Sancho por amoestaÁıes do Papa se n„o quiz apartar
 de Dona Mecia Lopes sua molher, e como lhe foi tomada      24
 
-IV--Do Concilio que o Papa Innocencio IV fez em Li√£o de Fran√ßa, onde os
+IV--Do Concilio que o Papa Innocencio IV fez em Li„o de FranÁa, onde os
 Prelados, e os Senhores de Portugal, se foram querelar del-Rei Dom
 Sancho, e lhe pediram novo Regedor para o Regno, que por mingoa da
-justi√ßa se perdia, e lhe outorgou o Ifante Dom Affonso Conde de Bolonha,
-irm√£o do dito Rei Dom Sancho      25
+justiÁa se perdia, e lhe outorgou o Ifante Dom Affonso Conde de Bolonha,
+irm„o do dito Rei Dom Sancho      25
 
-V--Como o Conde de Bolonha, depois de asseitar a governan√ßa de Portugal
-fez sobre esso juramento com algumas condi√ß√µes declaradas      28
+V--Como o Conde de Bolonha, depois de asseitar a governanÁa de Portugal
+fez sobre esso juramento com algumas condiÁıes declaradas      28
 
-VI--Das Bullas e Proviz√µes do Papa, que o Conde trouxe a Portugal pera
-os do Regno sobre sua governan√ßa, e assi outra Bulla que sobre o mesmo
+VI--Das Bullas e Provizıes do Papa, que o Conde trouxe a Portugal pera
+os do Regno sobre sua governanÁa, e assi outra Bulla que sobre o mesmo
 caso enviou aos Frades de S. Francisco      31
 
 VII--De como o Conde de Bolonha chegou a Portugal, e com elle um
-delegado do Papa, e das notifica√ß√µes que logo fizeram a El-Rei D. Sancho
+delegado do Papa, e das notificaÁıes que logo fizeram a El-Rei D. Sancho
       31
 
 VIII--Como El-Rei Dom Sancho mal aconselhado se foi com os de sua valia
@@ -1447,8 +1447,8 @@ IX---Como pelas deligencias do Conde de Bolonha El-Rei D. Sancho se
 tornou a Castella, e do que se passou no caminho com os cavalleiros de
 Trancozo      35
 
-X--Como o Conde cercou em Celorico da Beira a Dom Fern√£o Rodrigues
-Pacheco, que lhe n√£o quiz obedecer, e como por causa de uma truita se
+X--Como o Conde cercou em Celorico da Beira a Dom Fern„o Rodrigues
+Pacheco, que lhe n„o quiz obedecer, e como por causa de uma truita se
 alevantou o cerco      40
 
 XI--Como o Conde foi cercar o Castello de Coimbra, que tinha Martim de
@@ -1470,28 +1470,28 @@ OBRAS PUBLICADAS
 I--Historia do Cerco de Diu, por _Lope de Sousa Coutinho_, 1 volume
 (esgotada)      400
 
-II--Historia do Cerco de Mazag√£o, por _Agostinho Gavy de Mendon√ßa_, 1
+II--Historia do Cerco de Mazag„o, por _Agostinho Gavy de MendonÁa_, 1
 volume (esgotada)      400
 
-III--Ethiopia Oriental, por _Fr. Jo√£o dos Santos_, 2 grossos volumes
+III--Ethiopia Oriental, por _Fr. Jo„o dos Santos_, 2 grossos volumes
 (esgotada)      1$500
 
-IV--O Infante D. Pedro, chronica in√©dita por _Gaspar Dias de Landim_, 3
+IV--O Infante D. Pedro, chronica inÈdita por _Gaspar Dias de Landim_, 3
 volumes      700
 
-V--Chronica d'El-Rei D. Pedro I, (o Cru ou Justiceiro) por _Fern√£o
+V--Chronica d'El-Rei D. Pedro I, (o Cru ou Justiceiro) por _Fern„o
 Lopes_, 1 volume      400
 
-VI--Chronica d'El-Rei D. Fernando, por _Fern√£o Lopes_, 3 volumes      1$200
+VI--Chronica d'El-Rei D. Fernando, por _Fern„o Lopes_, 3 volumes      1$200
 
-VII--Chronica d'El-Rei D. Jo√£o I, por _Fern√£o Lopes_, 7 volumes      2$800
+VII--Chronica d'El-Rei D. Jo„o I, por _Fern„o Lopes_, 7 volumes      2$800
 
-VIII--Chronica d'El-Rei D. Jo√£o I, _por Gomes Eannes d'Azurara_, vol. I,
+VIII--Chronica d'El-Rei D. Jo„o I, _por Gomes Eannes d'Azurara_, vol. I,
 II e III (VIII, IX e X).      1$200
 
-IX--Dois Capit√£es da India, por _Luciano Cordeiro_, 1 volume      400
+IX--Dois Capit„es da India, por _Luciano Cordeiro_, 1 volume      400
 
-X--Arte da Ca√ßa de Altenaria, por _Diogo Fernandes Ferreira_, 2 volumes
+X--Arte da CaÁa de Altenaria, por _Diogo Fernandes Ferreira_, 2 volumes
       800
 
 XI--Apologos Dialogaes, por _D. Francisco Manuel de Mello_, 3 volumes
@@ -1501,23 +1501,23 @@ XII--Chronica d'El-Rei D. Duarte, por _Ruy de Pina_, 1 volume      400
 
 XIII--Chronica d'El-Rei D. Affonse V, por _Ruy de Pina_, 3 volumes    1$200
 
-XIV--Chronica d'El-Rei D. Jo√£o II, por _Garcia de Resende_, 3 volumes
+XIV--Chronica d'El-Rei D. Jo„o II, por _Garcia de Resende_, 3 volumes
       1$500
 
 XV--Vida de D. Paulo de Lima Pereira, por _Diogo do Couto_, 1 volume    500
 
-XVI--Chronica d'El-Rei D. Sebasti√£o, por _Fr. Bernardo da Cruz_, 2
+XVI--Chronica d'El-Rei D. Sebasti„o, por _Fr. Bernardo da Cruz_, 2
 volumes.      1$000
 
-XVII--Jornada de Africa, por _Jeronymo de Mendo√ßa_, 2 volumes      800
+XVII--Jornada de Africa, por _Jeronymo de MendoÁa_, 2 volumes      800
 
 XVIII--Historia Tragico-Maritima, por _Bernardo Gomes de Brito_, vol. I
 a X      3$800
 
-XIX--Jornada de Antonio d'Albuquerque Coelho, por _Jo√£o Tavares de Vellez
+XIX--Jornada de Antonio d'Albuquerque Coelho, por _Jo„o Tavares de Vellez
 Guerreiro_, 1 volume      600
 
-XX--Chronica d'El-Rei D. Affonso Henriques, por _Duarte Galv√£o_, 1
+XX--Chronica d'El-Rei D. Affonso Henriques, por _Duarte Galv„o_, 1
 volume      600
 
 XXI--Chronica D'el-Rei D. Sancho I, por _Ruy de Pina_, 1 volume      400
@@ -1526,7 +1526,7 @@ XXII--Chronica d'El-Rei D. Affonso II e de El-Rei D. Sancho II, por Ruy
 de Pina, 1 volume      400
 
 
-EM PUBLICA√á√ÉO
+EM PUBLICA«√O
 
 Historia Tragico-Maritima, _por Bernardo Gomes de Brito_, vol. XI.
 
@@ -1540,21 +1540,21 @@ Aqui encontram-se listados todos os erros encontrados e corrigidos:
 
 
   +----------+---------------------+----------------------+
-  |          |      Original       |      Correc√ß√£o       |
+  |          |      Original       |      CorrecÁ„o       |
   +----------+---------------------+----------------------+
-  |#p√°g.   15| _Theogia_           | _Theologia_          |
-  |#p√°g.   16| cencura             | censura              |
-  |#p√°g.   16| ontros              | outros               |
-  |#p√°g.   23| Apostoilcam         | Apostolicam          |
-  |#p√°g.   23| parttcularmente     | particularmente      |
-  |#p√°g.   32| sm que              | em que               |
-  |#p√°g.   50| Convernador         | Governador           |
-  |#p√°g.   50| Coudessa            | Condessa             |
-  |#p√°g.   51| Saucho              | Sancho               |
-  |#p√°g.   51| Affonos             | Affonso              |
-  |#p√°g.   51| doPapa              | do Papa              |
-  |#p√°g.   52| palaras             | palavras             |
-  |#p√°g.   52| Saneho              | Sancho               |
+  |#p·g.   15| _Theogia_           | _Theologia_          |
+  |#p·g.   16| cencura             | censura              |
+  |#p·g.   16| ontros              | outros               |
+  |#p·g.   23| Apostoilcam         | Apostolicam          |
+  |#p·g.   23| parttcularmente     | particularmente      |
+  |#p·g.   32| sm que              | em que               |
+  |#p·g.   50| Convernador         | Governador           |
+  |#p·g.   50| Coudessa            | Condessa             |
+  |#p·g.   51| Saucho              | Sancho               |
+  |#p·g.   51| Affonos             | Affonso              |
+  |#p·g.   51| doPapa              | do Papa              |
+  |#p·g.   52| palaras             | palavras             |
+  |#p·g.   52| Saneho              | Sancho               |
   +----------+---------------------+----------------------+
 
 

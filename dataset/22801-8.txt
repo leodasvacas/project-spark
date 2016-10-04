@@ -1,4 +1,4 @@
-Project Gutenberg's A Inven√ß√£o do Dia Claro, by Jos√© de Almada Negreiros
+Project Gutenberg's A InvenÁ„o do Dia Claro, by JosÈ de Almada Negreiros
 
 This eBook is for the use of anyone anywhere at no cost and with
 almost no restrictions whatsoever.  You may copy it, give it away or
@@ -6,9 +6,9 @@ re-use it under the terms of the Project Gutenberg License included
 with this eBook or online at www.gutenberg.net
 
 
-Title: A Inven√ß√£o do Dia Claro
+Title: A InvenÁ„o do Dia Claro
 
-Author: Jos√© de Almada Negreiros
+Author: JosÈ de Almada Negreiros
 
 Release Date: September 29, 2007 [EBook #22801]
 
@@ -16,7 +16,7 @@ Language: Portuguese
 
 Character set encoding: ISO-8859-1
 
-*** START OF THIS PROJECT GUTENBERG EBOOK A INVEN√á√ÉO DO DIA CLARO ***
+*** START OF THIS PROJECT GUTENBERG EBOOK A INVEN«√O DO DIA CLARO ***
 
 
 
@@ -39,15 +39,15 @@ TODOS OS DIREITOS RESERVADOS
 [Nota do Transcritor: Aqui surge a assinatura do autor.]
 
 
-+A INVEN√á√ÉO
++A INVEN«√O
 DO DIA CLARO+
 
 
-Escripta de uma s√≥ maneira para todas as esp√©cies de orgulho,
-seguida das d√©marches para a Inven√ß√£o e acompanhada das confidencias
+Escripta de uma sÛ maneira para todas as espÈcies de orgulho,
+seguida das dÈmarches para a InvenÁ„o e acompanhada das confidencias
 mais intimas e geraes.
 
-Ensaios para a inicia√ß√£o de portuguezes na revela√ß√£o da pintura
+Ensaios para a iniciaÁ„o de portuguezes na revelaÁ„o da pintura
 
 Com um retrato do autor por elle-proprio
 
@@ -55,7 +55,7 @@ Com um retrato do autor por elle-proprio
 primeiro milhar
 
 
-LISB√îA
+LISB‘A
 "OLISIPO", APARTADO 145
 
 1921
@@ -63,14 +63,14 @@ LISB√îA
 
 
 
-  NOUS SAVONS DONNER NOTRE VIE TOUTE ENTI√âRE TOUS LES JOURS.
-  B√âNNISSONS LA VIE!
+  NOUS SAVONS DONNER NOTRE VIE TOUTE ENTI…RE TOUS LES JOURS.
+  B…NNISSONS LA VIE!
   SALUONS LA NAISSANCE DU TRAVAIL NOUVEAU.
-  LE MONDE N'A PAS D'√ÇGES, L'HUMANIT√â SE D√âPLACE TOUT SIMPLEMENT.
+  LE MONDE N'A PAS D'¬GES, L'HUMANIT… SE D…PLACE TOUT SIMPLEMENT.
   JE NE SUIS PAS PRISONNIER DE MA RAISON.
   DIEU FAIT MA FORCE ET JE LOUE DIEU.
   SPLENDEURS DES VILLES.
-  POINT DE CANTIQUE--TENIR TOUJOURS LE PAS GAGN√â.
+  POINT DE CANTIQUE--TENIR TOUJOURS LE PAS GAGN….
 
 
           _Rimbaud_
@@ -78,7 +78,7 @@ LISB√îA
 
 
 
-[Nota do Transcritor: Aqui surge o retrato do autor por ele pr√≥prio.]
+[Nota do Transcritor: Aqui surge o retrato do autor por ele prÛprio.]
 
 
 
@@ -97,33 +97,33 @@ FERNANDO AMADO
 
 
 Entrei numa livraria. Puz-me a contar os livros que ha para
-ler e os anos que terei de vida. N√£o chegam, n√£o duro nem para
+ler e os anos que terei de vida. N„o chegam, n„o duro nem para
 metade da livraria.
 
 Deve certamente haver outras maneiras de se salvar uma pessoa,
-sen√£o estou perdido.
+sen„o estou perdido.
 
 No entanto, as pessoas que entravam na livraria estavam todas
 muito bem vestidas de quem precisa salvar-se.
 
        *       *       *       *       *
 
-Comprei um livro de filosofia. Filosofia √© a sciencia que trata
-da vida; era justamente do que eu necessitava--p√¥r sciencia na minha
+Comprei um livro de filosofia. Filosofia È a sciencia que trata
+da vida; era justamente do que eu necessitava--pÙr sciencia na minha
 vida.
 
-Li o livro de filosofia, n√£o ganhei nada, M√£e! n√£o ganhei nada.
+Li o livro de filosofia, n„o ganhei nada, M„e! n„o ganhei nada.
 
-Disseram-me que era necessario estar j√° iniciado, ora eu s√≥
-tenho uma inicia√ß√£o, √© esta de ter sido posto neste mundo √° imagem
-e semelhan√ßa de Deus. N√£o basta?
+Disseram-me que era necessario estar j· iniciado, ora eu sÛ
+tenho uma iniciaÁ„o, È esta de ter sido posto neste mundo · imagem
+e semelhanÁa de Deus. N„o basta?
 
        *       *       *       *       *
 
-Imaginava eu que hav√≠a tratados da vida das pessoas, como
-ha tratados da vida das plantas, com tudo t√£o bem explicado, assim
+Imaginava eu que havÌa tratados da vida das pessoas, como
+ha tratados da vida das plantas, com tudo t„o bem explicado, assim
 parecidos com o tratamento que ha para os animaes domesticos,
-n√£o √©? Como os cavalos t√£o bem feitos que ha!
+n„o È? Como os cavalos t„o bem feitos que ha!
 
 Imaginava eu que havia um livro para as pessoas, como ha
 hostias para cuidar da febre. Um livro com tanta certeza como uma
@@ -133,24 +133,24 @@ a morada e o dia.
 
        *       *       *       *       *
 
-N√£o achas, M√£e? Por exemplo. Ha um c√£o vadio, sujo e com fome,
-cuida-se deste c√£o e ele deixa de ser vadio, deixa de estar
-sujo e deixa de ter fome. At√© as crian√ßas j√° lhe fazem festas.
+N„o achas, M„e? Por exemplo. Ha um c„o vadio, sujo e com fome,
+cuida-se deste c„o e ele deixa de ser vadio, deixa de estar
+sujo e deixa de ter fome. AtÈ as crianÁas j· lhe fazem festas.
 
-Cuidaram do c√£o porque o c√£o n√£o sabe cuidar de si--n√£o saber
-cuidar de si √© ser c√£o.
+Cuidaram do c„o porque o c„o n„o sabe cuidar de si--n„o saber
+cuidar de si È ser c„o.
 
-Ora eu n√£o queria que cuidassem de mim, mas gostava que me
-ajudassem, para eu n√£o estar assim, para que fosse eu o dono
+Ora eu n„o queria que cuidassem de mim, mas gostava que me
+ajudassem, para eu n„o estar assim, para que fosse eu o dono
 de mim, para que os que me vissem dissessem: Que bem que aquele
 soube cuidar de si!
 
        *       *       *       *       *
 
 Eu queria que os outros dissessem de mim: Olha um homem! Como se
-diz: Olha um c√£o! quando passa um c√£o; como se diz: olha uma
+diz: Olha um c„o! quando passa um c„o; como se diz: olha uma
 arvore! quando ha uma arvore. Assim, inteiro, sem adjectivos,
-s√≥ de uma pe√ßa: Um homem!
+sÛ de uma peÁa: Um homem!
 
        *       *       *       *       *
 
@@ -158,56 +158,56 @@ Mas eu andei a procurar por todas as vidas uma para copiar
 e nenhuma era para copiar.
 
 Como o livro, as pessoas tinham principio, meio e fim. A principio
-o livro chamava-me, no meio o livro deu-me a m√£o, no fim fiquei
-com a m√£o suada do livro de me ter estendido a m√£o.
+o livro chamava-me, no meio o livro deu-me a m„o, no fim fiquei
+com a m„o suada do livro de me ter estendido a m„o.
 
-Talvez que nos outros livros... mas os titulos dos livros s√£o
-como os nomes das pessoas--n√£o quere dizer nada, √© s√≥ para n√£o
+Talvez que nos outros livros... mas os titulos dos livros s„o
+como os nomes das pessoas--n„o quere dizer nada, È sÛ para n„o
 se confundir...
 
        *       *       *       *       *
 
-Na montra estava um livro chamado ¬´O lial conselheiro¬ª. Escrito
-antigamente por um Rei dos Portuguezes! Escrito de uma s√≥
+Na montra estava um livro chamado ´O lial conselheiroª. Escrito
+antigamente por um Rei dos Portuguezes! Escrito de uma sÛ
 maneira para todas as especies de seus vassalos!
 
 Bemdito homem que foi na verdade Rei! O Mestre que quere que eu
 seja Mestre!
 
-Eu acho que todos os livros deviam chamar-se assim: ¬´O lial
-conselheiro¬ª! N√£o achas, M√£e?
+Eu acho que todos os livros deviam chamar-se assim: ´O lial
+conselheiroª! N„o achas, M„e?
 
 O Mestre escreveu o que sabia--por isso ele foi Mestre. As palavras
-tornaram presentes como o Mestre fazia aten√ß√£o. Estas palavras
+tornaram presentes como o Mestre fazia atenÁ„o. Estas palavras
 ficaram escritas por causa dos outros tambem. Os outros aprendiam
-a ler para chegarem a Mestres--era com esta inten√ß√£o que se
+a ler para chegarem a Mestres--era com esta intenÁ„o que se
 aprendia a ler antigamente.
 
        *       *       *       *       *
 
-Sonhei com um pa√≠z onde todos chegavam a Mestres. Come√ßava
-cada qual por fazer a caneta e o aparo com que se punha √°
+Sonhei com um paÌz onde todos chegavam a Mestres. ComeÁava
+cada qual por fazer a caneta e o aparo com que se punha ·
 escuta do universo; em seguida, fabricava desde a materia prima o
 papel onde ia assentando as confidencias que recebia directamente
-do universo; depois, descia at√© ao fundo dos rochedos por causa da
-tinta negra dos ch√≥cos; gravava letra por letra o tipo com que compunha
+do universo; depois, descia atÈ ao fundo dos rochedos por causa da
+tinta negra dos chÛcos; gravava letra por letra o tipo com que compunha
 as suas palavras; e arrancava da arvore a prensa onde apertava
-com seguran√ßa as descobertas para irem ter com os outros. Era
-assim que neste pa√≠s todos chegavam a Mestres. Era assim que
-os Mestres iam escrevendo as frases que h√£o-de salvar a humanidade.
+com seguranÁa as descobertas para irem ter com os outros. Era
+assim que neste paÌs todos chegavam a Mestres. Era assim que
+os Mestres iam escrevendo as frases que h„o-de salvar a humanidade.
 
        *       *       *       *       *
 
-Quando eu nasci, as frases que h√£o-de salvar a humanidade j√°
-estavam todas escritas, s√≥ faltava uma coisa--salvar a humanidade.
+Quando eu nasci, as frases que h„o-de salvar a humanidade j·
+estavam todas escritas, sÛ faltava uma coisa--salvar a humanidade.
 
 
 
 
-  --O pequeno √© como o grande.
-  --O que est√° em cima √© analogo ao que est√° em baixo.
-  --O interior √© como o exterior das coisas.
-  --Tudo est√° em tudo.
+  --O pequeno È como o grande.
+  --O que est· em cima È analogo ao que est· em baixo.
+  --O interior È como o exterior das coisas.
+  --Tudo est· em tudo.
 
 
           HERMES TRIMEGISTA
@@ -218,7 +218,7 @@ estavam todas escritas, s√≥ faltava uma coisa--salvar a humanidade.
 
 +I PARTE+
 
-+ANDAIMES E V√âSPERAS+
++ANDAIMES E V…SPERAS+
 
 
 
@@ -228,47 +228,47 @@ estavam todas escritas, s√≥ faltava uma coisa--salvar a humanidade.
 
 Minhas Senhoras e meus Senhores:
 
-Mulheres e homens s√£o as duas metades da humanidade--a metade
+Mulheres e homens s„o as duas metades da humanidade--a metade
 masculina e a metade feminina.
 
-Ha coisas inteiras feitas de duas metades e aonde n√£o se pode
+Ha coisas inteiras feitas de duas metades e aonde n„o se pode
 cortar ao meio para separar essas duas metades. Exemplo: a humanidade
-com a metade masculina e a metade feminina. S√£o duas metades
-que deixam, cada uma, de ser uma metade se n√£o houver a outra metade.
+com a metade masculina e a metade feminina. S„o duas metades
+que deixam, cada uma, de ser uma metade se n„o houver a outra metade.
 
-A linha que passa por entre estas duas metades √© parecidissima
-com o ar por dentro de uma esponja do mar, s√™ca.
-
-
+A linha que passa por entre estas duas metades È parecidissima
+com o ar por dentro de uma esponja do mar, sÍca.
 
 
-+√ÅCERCA DO HOMEM E DA MULHER+
+
+
++¡CERCA DO HOMEM E DA MULHER+
 
 
 Lembro-me de uma oleografia que havia em minha casa. A
 oleografia estava cheia de amarello do Deserto. O amarello do Deserto
-era mais comprido do que a vida de um homem se n√£o f√¥sse o
+era mais comprido do que a vida de um homem se n„o fÙsse o
 galope do cavallo onde o arabe rapta a menina loira.
 
-Na oleografia havia uma palmeira. A palmeira era t√£o pequena
+Na oleografia havia uma palmeira. A palmeira era t„o pequena
 como a esmeralda do anel da menina loira. A palmeira era
-assim t√£o pequena porque estava muitissimo longe.
+assim t„o pequena porque estava muitissimo longe.
 
-Era em direc√ß√£o √† palmeira que √≠a a correr o cavallo.
+Era em direcÁ„o ‡ palmeira que Ìa a correr o cavallo.
 
 
-Havia outra oleografia quando j√° tinham chegado √† sombra
-da palmeira. O cavallo estava como morto por terra. O arabe, √™sse,
-ainda nunca tinha estado can√ßado--tinha a menina loira nos bra√ßos,
+Havia outra oleografia quando j· tinham chegado ‡ sombra
+da palmeira. O cavallo estava como morto por terra. O arabe, Ísse,
+ainda nunca tinha estado canÁado--tinha a menina loira nos braÁos,
 como a esmeralda estava no anel.
 
-Eram trez as oleografias. Na terceira oleografia estava s√≥sinha
+Eram trez as oleografias. Na terceira oleografia estava sÛsinha
 a menina loira a dar de mamar a um menino verdadeiro.
 
 
 
 
-+√ÅCERCA DAS TRES OLEOGRAFIAS+
++¡CERCA DAS TRES OLEOGRAFIAS+
 
 
 Estas trez oleografias explicam muito bem como se pode ser
@@ -286,20 +286,20 @@ loira para que haja o arabe.
 
 
 
-+ATEN√á√ÉO+
++ATEN«√O+
 
 
-Mas n√£o fall√™mos sem alicerces. N√≥s n√£o estamos alg√∫res.
+Mas n„o fallÍmos sem alicerces. NÛs n„o estamos alg˙res.
 
-N√≥s estamos aqui dentro d'esta sala, onde eu estou a dizer
-a conferencia--o ch√£o, o tecto, e quatro paredes. Voc√™s e eu.
+NÛs estamos aqui dentro d'esta sala, onde eu estou a dizer
+a conferencia--o ch„o, o tecto, e quatro paredes. VocÍs e eu.
 
 Para nos orientarmos melhor, aqui onde estou fica sendo o
-Norte, l√° no fundo da sala o Sul, √âste ali e O√©ste d'aquelle lado.
+Norte, l· no fundo da sala o Sul, …ste ali e OÈste d'aquelle lado.
 
-Que isto fique assim bem combinado entre n√≥s, de tal maneira
-que, quando eu chamar Sul aqui ao logar onde estou, voc√™s
-se levantem, protestem, e digam que n√£o, que o Sul √© l√° no fundo
+Que isto fique assim bem combinado entre nÛs, de tal maneira
+que, quando eu chamar Sul aqui ao logar onde estou, vocÍs
+se levantem, protestem, e digam que n„o, que o Sul È l· no fundo
 da sala.
 
 
@@ -308,9 +308,9 @@ da sala.
 +AS PALAVRAS+
 
 
-O pre√ßo de uma pess√¥a v√™-se na maneira como gosta de usar as
-palavras. L√™-se nos olhos das pess√¥as. As palavras dan√ßam nos
-olhos das pess√¥as conforme o palco dos olhos de cada um.
+O preÁo de uma pessÙa vÍ-se na maneira como gosta de usar as
+palavras. LÍ-se nos olhos das pessÙas. As palavras danÁam nos
+olhos das pessÙas conforme o palco dos olhos de cada um.
 
 
 
@@ -318,14 +318,14 @@ olhos das pess√¥as conforme o palco dos olhos de cada um.
 +VIAGENS DAS PALAVRAS+
 
 
-As palavras teem moda. Quando acaba a moda para umas come√ßa a
-moda para outras. As que se v√£o embora voltam depois. Voltam
+As palavras teem moda. Quando acaba a moda para umas comeÁa a
+moda para outras. As que se v„o embora voltam depois. Voltam
 sempre, e mudadas de cada vez. De cada vez mais viajadas.
 
 Depois dizem-nos adeus e ainda voltam depois de nos terem dito
-adeus. Emfim--toda essa tourn√©e maravilhosa que nos p√µe a
-cabe√ßa em agua at√© ao dia em que j√° s√¥mos n√≥s quem d√° corda
-√°s palavras para ellas estarem a dan√ßar.
+adeus. Emfim--toda essa tournÈe maravilhosa que nos pıe a
+cabeÁa em agua atÈ ao dia em que j· sÙmos nÛs quem d· corda
+·s palavras para ellas estarem a danÁar.
 
 
 
@@ -334,34 +334,34 @@ cabe√ßa em agua at√© ao dia em que j√° s√¥mos n√≥s quem d√° corda
 
 
 As mulheres e os homens estavam espalhados pela Terra. Uns estavam
-maravilhados, outros tinham-se can√ßado. Os que estavam maravilhados
-abriam a bocca, os que se tinham can√ßado tambem abriam a bocca. Ambos
+maravilhados, outros tinham-se canÁado. Os que estavam maravilhados
+abriam a bocca, os que se tinham canÁado tambem abriam a bocca. Ambos
 abriam a bocca.
 
-Houve um homem s√≥sinho que se poz a espreitar esta diferen√ßa--havia
-pessoas maravilhadas e outras que estavam can√ßadas.
+Houve um homem sÛsinho que se poz a espreitar esta diferenÁa--havia
+pessoas maravilhadas e outras que estavam canÁadas.
 
 Depois ainda espreitou melhor: Todas as pessoas estavam maravilhadas,
-depois n√£o sabiam aguentar-se maravilhadas e ficavam can√ßadas.
+depois n„o sabiam aguentar-se maravilhadas e ficavam canÁadas.
 
 As pessoas estavam tristes ou alegres conforme a luz para cada um--mais
 luz, alegres--menos luz, tristes.
 
-O homem s√≥sinho ficou a pensar n'esta diferen√ßa. Para n√£o esquecer
+O homem sÛsinho ficou a pensar n'esta diferenÁa. Para n„o esquecer
 fez uns signaes n'uma pedra.
 
-Este homem s√≥sinho era da minha ra√ßa--era um Egypcio!
+Este homem sÛsinho era da minha raÁa--era um Egypcio!
 
 Os signaes que elle gravou na pedra para medir a luz por dentro das
-pess√¥as, chamaram-se hieroglifos.
+pessÙas, chamaram-se hieroglifos.
 
-Mais tarde veiu outro homem s√≥sinho que tornou estes signaes
+Mais tarde veiu outro homem sÛsinho que tornou estes signaes
 ainda mais faceis. Fez vinte e dois signaes que bastavam para
-todas as combina√ß√µes que ha ao Sol.
+todas as combinaÁıes que ha ao Sol.
 
-Este homem s√≥sinho era da minha ra√ßa--era um Phenicio!
+Este homem sÛsinho era da minha raÁa--era um Phenicio!
 
-Cada um dos vinte e dois signaes era uma lettra. Cada combina√ß√£o
+Cada um dos vinte e dois signaes era uma lettra. Cada combinaÁ„o
 de lettras uma palavra.
 
 
@@ -372,7 +372,7 @@ de lettras uma palavra.
 
 Todos os dias faz annos que foram inventadas as palavras.
 
-√â preciso festejar todos os dias o centenario das palavras.
+… preciso festejar todos os dias o centenario das palavras.
 
 
 
@@ -380,12 +380,12 @@ Todos os dias faz annos que foram inventadas as palavras.
 +VALOR DAS PALAVRAS+
 
 
-Ha palavras que fazem bater mais depressa o cora√ß√£o--todas
+Ha palavras que fazem bater mais depressa o coraÁ„o--todas
 as palavras--umas mais do que outras, qualquer mais do que
-todas. Conforme os logares e as posi√ß√µes das palavras. Segundo o
-lado d'onde se ouvem--do lado do Sol ou do lado onde n√£o d√° o Sol.
+todas. Conforme os logares e as posiÁıes das palavras. Segundo o
+lado d'onde se ouvem--do lado do Sol ou do lado onde n„o d· o Sol.
 
-Cada palavra √© um peda√ßo do universo. Um peda√ßo que faz falta
+Cada palavra È um pedaÁo do universo. Um pedaÁo que faz falta
 ao universo. Todas as palavras juntas formam o Universo.
 
 
@@ -394,12 +394,12 @@ As palavras querem estar nos seus logares!
 
 
 
-+N√ìS E AS PALAVRAS+
++N”S E AS PALAVRAS+
 
 
-N√≥s n√£o somos do seculo d'inventar as palavras. As palavras
-j√° foram inventadas. N√≥s somos do seculo d'inventar outra vez as
-palavras que j√° foram inventadas.
+NÛs n„o somos do seculo d'inventar as palavras. As palavras
+j· foram inventadas. NÛs somos do seculo d'inventar outra vez as
+palavras que j· foram inventadas.
 
 
 
@@ -407,27 +407,27 @@ palavras que j√° foram inventadas.
 +AS PALAVRAS E EU+
 
 
-G√°sto os dias a experimentar logares e posi√ß√µes para as palavras.
-√â uma paciencia de que eu g√≥sto. √â o meu g√¥sto.
+G·sto os dias a experimentar logares e posiÁıes para as palavras.
+… uma paciencia de que eu gÛsto. … o meu gÙsto.
 
-Tudo se passa aqui pelas palavras--todos os g√¥stos.
+Tudo se passa aqui pelas palavras--todos os gÙstos.
 
 
-Collei algumas d'estas paciencias com palavras. S√£o estas as
-palavras que trago aqui. Ainda n√£o est√£o promptas--s√£o peda√ßos
+Collei algumas d'estas paciencias com palavras. S„o estas as
+palavras que trago aqui. Ainda n„o est„o promptas--s„o pedaÁos
 de coisas, aqui e alli, como um rapaz novo, como uma rapariga
-nova. Como os cavallos quando ainda s√£o petizes--v√™-se j√° que se
-trata de um cavallo, mas tambem se v√™ que ainda n√£o est√° concluido.
-As pernas cresceram mais depressa do que a espinha. A cabe√ßa
-muito grande √© que j√° est√° do tamanho em que ha-de ficar. Tudo
-se aguenta de p√© provisoriamente--ainda n√£o est√° prompto, v√™-se
-perfeitamente que ainda n√£o √© tudo.
+nova. Como os cavallos quando ainda s„o petizes--vÍ-se j· que se
+trata de um cavallo, mas tambem se vÍ que ainda n„o est· concluido.
+As pernas cresceram mais depressa do que a espinha. A cabeÁa
+muito grande È que j· est· do tamanho em que ha-de ficar. Tudo
+se aguenta de pÈ provisoriamente--ainda n„o est· prompto, vÍ-se
+perfeitamente que ainda n„o È tudo.
 
 
 
 
 Agarrei uma mancheia de palavras e espalhei-as em cima da
-meza. Ficaram n'esta posi√ß√£o:
+meza. Ficaram n'esta posiÁ„o:
 
 
 
@@ -436,38 +436,38 @@ meza. Ficaram n'esta posi√ß√£o:
 
 
 A humanidade abriu alas--as duas grandes alas da humanidade.
-Uma √° direita, a outra √° esquerda. Em baixo a Terra, em
+Uma · direita, a outra · esquerda. Em baixo a Terra, em
 cima o Sol.
 
 
-Vae acontecer qualquer coisa--os que passam v√£o mais depressa,
-os outros j√° est√£o √° espreita.
+Vae acontecer qualquer coisa--os que passam v„o mais depressa,
+os outros j· est„o · espreita.
 
 
-As duas grandes alas da humanidade l√° est√£o as duas em frente
-uma da outra. N√£o levantem os bra√ßos! n√£o virem as cabe√ßas!
+As duas grandes alas da humanidade l· est„o as duas em frente
+uma da outra. N„o levantem os braÁos! n„o virem as cabeÁas!
 
 Em baixo a Terra, em cima o Sol!
 
-Ainda n√£o chegou o homem-que-sabe-viver!
+Ainda n„o chegou o homem-que-sabe-viver!
 
 As duas grandes alas da humanidade querem ver com olhos
 da cara o homem-que-sabe-viver!
 
-As duas grandes alas da humanidade n√£o querem sen√£o ver
+As duas grandes alas da humanidade n„o querem sen„o ver
 com os olhos da cara o homem-que-sabe-viver!
 
 Em baixo a Terra, em cima o Sol!
 
 
-Jesus-Christo desce s√≥sinho por entre as duas grandes alas
+Jesus-Christo desce sÛsinho por entre as duas grandes alas
 da humanidade. As duas grandes alas da humanidade estendem os
-bra√ßos para Jesus-Christo.
+braÁos para Jesus-Christo.
 
 Uma das duas alas accusa a outra ala, e esta accusa aquella.
 
 
-Jesus-Christo desce s√≥sinho por entre as duas grandes alas
+Jesus-Christo desce sÛsinho por entre as duas grandes alas
 da humanidade, sem se approximar de uma nem da outra.
 
 
@@ -497,62 +497,62 @@ Havia uma cruz na encruzilhada.
 A cada um que passava dizia o Christo de pedra:
 
 
-¬´Em vez de ter morrido n'uma cruz, por ti, antes tivesse pegado
-na lan√ßa que me abriu o peito, para com ella te rasgar os olhos
+´Em vez de ter morrido n'uma cruz, por ti, antes tivesse pegado
+na lanÁa que me abriu o peito, para com ella te rasgar os olhos
 da cara. Para deixar entrar claridade para dentro de ti pelos
 buracos dos teus olhos rasgados.
 
-¬´Tudo quanto eu te disse ficou escrito e √© tudo ainda hoje
+´Tudo quanto eu te disse ficou escrito e È tudo ainda hoje
 tenho para te dizer.
 
-¬´Se me fiz crucificar para t'o dizer porque n√£o te deixas crucificar
-para sab√™res como eu t'o disse?
+´Se me fiz crucificar para t'o dizer porque n„o te deixas crucificar
+para sabÍres como eu t'o disse?
 
-¬´N√£o posso, por mais que tente, livrar uma das m√£os, pregaram-m'as
-bem, como se prega um crucificado; n√£o posso, por mais que tente,
-livrar uma das m√£os, para te sacudir a cabe√ßa quando vi√©res
-ajoelhar-te aqui aos p√©s da minha cruz.
+´N„o posso, por mais que tente, livrar uma das m„os, pregaram-m'as
+bem, como se prega um crucificado; n„o posso, por mais que tente,
+livrar uma das m„os, para te sacudir a cabeÁa quando viÈres
+ajoelhar-te aqui aos pÈs da minha cruz.
 
-¬´Se f√¥sse o teu orgulho de joelhos, ainda era o teu orgulho,
-mas s√£o as tuas pernas dobradas com o pezo do ar.
+´Se fÙsse o teu orgulho de joelhos, ainda era o teu orgulho,
+mas s„o as tuas pernas dobradas com o pezo do ar.
 
-¬´N√£o tenho uma das m√£os livre para te empurrar d'aqui da minha
-cruz at√© ao teu logar l√° em baixo na terra.
+´N„o tenho uma das m„os livre para te empurrar d'aqui da minha
+cruz atÈ ao teu logar l· em baixo na terra.
 
-¬´Levanta-te, homem! No dia em que tu nasc√™ste, nasceu no mesmo
-dia um logar para ti, l√° em baixo na terra. Esse logar √© o
-teu! o teu logar √© a tua fortuna! o teu logar √© a tua gloria. N√£o
-deixes o teu logar vazio, nem te deixes pr'√°hi sem logar.
+´Levanta-te, homem! No dia em que tu nascÍste, nasceu no mesmo
+dia um logar para ti, l· em baixo na terra. Esse logar È o
+teu! o teu logar È a tua fortuna! o teu logar È a tua gloria. N„o
+deixes o teu logar vazio, nem te deixes pr'·hi sem logar.
 
-¬´N√£o te aleijes a procurar outras fortunas que n√£o ter√°s,--ha uma
-s√≥ para ti--√© a unica que ha para ti, n√£o serve sen√£o para ti, n√£o
-serve para os outros,--√© por isto que ella √© a tua fortuna!
+´N„o te aleijes a procurar outras fortunas que n„o ter·s,--ha uma
+sÛ para ti--È a unica que ha para ti, n„o serve sen„o para ti, n„o
+serve para os outros,--È por isto que ella È a tua fortuna!
 
-¬´Porque vi√©ste ajoelhar-te aqui aos p√©s da minha cruz? Foi
-porque a tua cabe√ßa se encheu de duvida?...
+´Porque viÈste ajoelhar-te aqui aos pÈs da minha cruz? Foi
+porque a tua cabeÁa se encheu de duvida?...
 
 Tanto melhor! Aproveita agora que tens a duvida dentro da tua
-cabe√ßa, aproveita a sorte de t√™res a duvida dentro da tua cabe√ßa.
-N√£o te cances de ter esta sorte!
+cabeÁa, aproveita a sorte de tÍres a duvida dentro da tua cabeÁa.
+N„o te cances de ter esta sorte!
 
-¬´N√£o tenhas m√™do de estares a ver a tua cabe√ßa a ir directamente
-para a loucura, n√£o tenhas m√™do! Deixa-a ir at√© √° loucura!
-ajuda-a a ir at√© √° loucura. Vae tu tambem pessoalmente, co'a tua
-cabe√ßa at√© √° loucura! Vem ler a loucura escripta na palma da tua
-m√£o. Fecha a tua m√£o, com for√ßa. Agarra bem a loucura dentro da
-tua m√£o!
+´N„o tenhas mÍdo de estares a ver a tua cabeÁa a ir directamente
+para a loucura, n„o tenhas mÍdo! Deixa-a ir atÈ · loucura!
+ajuda-a a ir atÈ · loucura. Vae tu tambem pessoalmente, co'a tua
+cabeÁa atÈ · loucura! Vem ler a loucura escripta na palma da tua
+m„o. Fecha a tua m„o, com forÁa. Agarra bem a loucura dentro da
+tua m„o!
 
-¬´Sen√£o... se tens m√™do da duvida e te p√µes a fugir d'ella por
-m√¥r da loucura que j√° est√° √° vista, se n√£o come√ßas desde j√° a
-desbastar a fantasia que cresceu no logar marcado para ti, l√° em
-baixo na terra; se n√£o pretendes transformar essa fantasia em
-imagina√ß√£o tranquilla e creadora...
+´Sen„o... se tens mÍdo da duvida e te pıes a fugir d'ella por
+mÙr da loucura que j· est· · vista, se n„o comeÁas desde j· a
+desbastar a fantasia que cresceu no logar marcado para ti, l· em
+baixo na terra; se n„o pretendes transformar essa fantasia em
+imaginaÁ„o tranquilla e creadora...
 
-... um dia a loucura vir√° plo seu proprio p√© bater √° tua porta, e
-tu, desprevenido, e tu sem m√£os para a esganar, porque a loucura
-j√° ser√° maior do que na palma da tua m√£o, porque a loucura ser√°
-maior do que as tuas m√£os, porque a loucura poder√° mais do que tu
-com as tuas m√£os; e ella far√° de ti o pior de todos, por n√£o teres
+... um dia a loucura vir· plo seu proprio pÈ bater · tua porta, e
+tu, desprevenido, e tu sem m„os para a esganar, porque a loucura
+j· ser· maior do que na palma da tua m„o, porque a loucura ser·
+maior do que as tuas m„os, porque a loucura poder· mais do que tu
+com as tuas m„os; e ella far· de ti o pior de todos, por n„o teres
 sabido servir-te d'ella como tu devias sabe-lo querer!
 
 
@@ -565,31 +565,31 @@ Um por um, toda a humanidade ouviu a Cruz da encruzilhada, e a
 cada um parecia-lhe reconhecer aquelle modo de fallar.
 
 
-Havia oliveiras √° beira da estrada para a gente se encostar.
+Havia oliveiras · beira da estrada para a gente se encostar.
 
 
-Antes de cada um chegar a casa havia um chafariz para matar a s√™de.
+Antes de cada um chegar a casa havia um chafariz para matar a sÍde.
 
-Eu n√£o sabia que o chafariz tinha tanto que v√™r--havia muitos
+Eu n„o sabia que o chafariz tinha tanto que vÍr--havia muitos
 soldados por causa das raparigas a encher as bilhas!
 
-Depois o Sol come√ßou a ficar muito encarnado e cada vez maior
-por detraz das dunas, muito encarnado, e deixou-me s√≥sinho em
+Depois o Sol comeÁou a ficar muito encarnado e cada vez maior
+por detraz das dunas, muito encarnado, e deixou-me sÛsinho em
 cima do muro.
 
-Do lado do mar ouvia-se uma n√≥ra a puxar agua. O boi tinha
-os olhos guardados para n√£o entontecer. Os alcatruzes da n√≥ra
+Do lado do mar ouvia-se uma nÛra a puxar agua. O boi tinha
+os olhos guardados para n„o entontecer. Os alcatruzes da nÛra
 subiam por um lado e desciam plo outro lado--como hontem!
 
-A musica da n√≥ra s√≥ tem uma volta. Todos os dias. √Åmanh√£
-tambem, os alcatruzes da n√≥ra v√£o subir por aqui e descer por
-l√°. Todos os dias. Em baixo a Terra, em cima o Sol.
+A musica da nÛra sÛ tem uma volta. Todos os dias. ¡manh„
+tambem, os alcatruzes da nÛra v„o subir por aqui e descer por
+l·. Todos os dias. Em baixo a Terra, em cima o Sol.
 
 
-Quando olharam para traz, a Cruz da encruzilhada j√° estava muito
+Quando olharam para traz, a Cruz da encruzilhada j· estava muito
 longe. Era necessario acertar a vista para a reconhecer. Mas, era
 sem duvida ella, a cruz inconfundivel--aquella onde cabe um
-homem inteiro e de p√©!
+homem inteiro e de pÈ!
 
 
 +FIM DA PRIMEIRA PARTE+
@@ -601,96 +601,96 @@ homem inteiro e de p√©!
 +CONFIDENCIAS+
 
 
-M√£e! a oleografia est√° a entornar o amarello do Deserto por cima da
-minha vida. O amarello do Deserto √© mais comprido do que um dia todo!
+M„e! a oleografia est· a entornar o amarello do Deserto por cima da
+minha vida. O amarello do Deserto È mais comprido do que um dia todo!
 
-M√£e! eu queria ser o arabe! Eu queria raptar a menina loira! Eu queria
+M„e! eu queria ser o arabe! Eu queria raptar a menina loira! Eu queria
 saber raptar.
 
-D√°-me um cavallo, m√£e! At√© √° palmeira verde esmeralda! E o anel?!
+D·-me um cavallo, m„e! AtÈ · palmeira verde esmeralda! E o anel?!
 
 
-A minha cabe√ßa amollece ao sol sobre a areia movedi√ßa do Deserto! A
-minha cabe√ßa est√° molle como a minha almofada!
+A minha cabeÁa amollece ao sol sobre a areia movediÁa do Deserto! A
+minha cabeÁa est· molle como a minha almofada!
 
-Ha uns signaes dentro da minha cabe√ßa, como os signaes do Egypcio,
-como os signaes do Phenicio. Os signaes d'estes j√° teem antecedentes
+Ha uns signaes dentro da minha cabeÁa, como os signaes do Egypcio,
+como os signaes do Phenicio. Os signaes d'estes j· teem antecedentes
 e eu ainda vou para a vida.
 
 
-N√£o ha muros para que haja estrada! N√£o ha muros para p√¥r cartazes! N√£o
-est√° a m√£o de tinta preta a apontar--por aqui!
+N„o ha muros para que haja estrada! N„o ha muros para pÙr cartazes! N„o
+est· a m„o de tinta preta a apontar--por aqui!
 
-S√≥ ha sombra do Sol nas larangeiras da outra margem; e todas as noites
+SÛ ha sombra do Sol nas larangeiras da outra margem; e todas as noites
 o somno chega roubado!
 
 
-M√£e! As estrellas est√£o a mentir. Luzem quando mentem. Mentem quando
-luzem. Est√£o a luzir, ou mentem?
+M„e! As estrellas est„o a mentir. Luzem quando mentem. Mentem quando
+luzem. Est„o a luzir, ou mentem?
 
-J√° ia a cuspir para o ceu!
-
-
-M√£e! a minha estrella √© doida! Coube-me nas sortes a Estrella-doida!
+J· ia a cuspir para o ceu!
 
 
-M√£e! d√°-me um cavallo! Eu j√° sou o gallope! Ha uma palmeira, M√£e!
+M„e! a minha estrella È doida! Coube-me nas sortes a Estrella-doida!
+
+
+M„e! d·-me um cavallo! Eu j· sou o gallope! Ha uma palmeira, M„e!
 O que quer dizer um anel? Tem uma esmeralda.
 
 
-M√£e! eu quero ser as trez oleografias!
+M„e! eu quero ser as trez oleografias!
 
        *       *       *       *       *
 
-M√£e!
+M„e!
 
-Em cima das estatuas est√° o verbo ganhar, M√£e! ser√° para mim?
+Em cima das estatuas est· o verbo ganhar, M„e! ser· para mim?
 
 Quando passo pelas estatuas fico parado. A olhar para cima das
-estatuas. Fico parado a subir. N√£o sei quem me agarra para me
-levantar ao ar. Agarram-me por debaixo dos bra√ßos para me levantar
+estatuas. Fico parado a subir. N„o sei quem me agarra para me
+levantar ao ar. Agarram-me por debaixo dos braÁos para me levantar
 ao ar. Para eu ver o verbo ganhar em cima das estatuas.
 
        *       *       *       *       *
 
-M√£e! eu n√£o sei nada! Eu n√£o me lembro de nada!
+M„e! eu n„o sei nada! Eu n„o me lembro de nada!
 
 
 Ah! lembro-me!
 
 Lembro-me de ter ajudado a levar pedras para as pyramides do Egypto!
 
-Tambem me lembro de me ter chamado Jos√©, antigamente, com meus irm√£os
+Tambem me lembro de me ter chamado JosÈ, antigamente, com meus irm„os
 e uma mulher!
 
 
-M√£e!
+M„e!
 
-Estou a lembrar-me! Tu j√° f√¥ste a menina loira! Eu j√° fui o menino
-verdadeiro a quem tu davas de mamar! Eu j√° estive comtigo na terceira
+Estou a lembrar-me! Tu j· fÙste a menina loira! Eu j· fui o menino
+verdadeiro a quem tu davas de mamar! Eu j· estive comtigo na terceira
 oleografia!
 
-Lembro-me exactamente! Quando tu me beijavas, o sol n√£o do√≠a tanto
+Lembro-me exactamente! Quando tu me beijavas, o sol n„o doÌa tanto
 na minha pelle!
 
 
-M√£e!
+M„e!
 
 Estou a lembrar-me!
 
-E as tardes quando iamos todos juntos soltar palavras no caes e v√™r
+E as tardes quando iamos todos juntos soltar palavras no caes e vÍr
 chegar mais laranjas!
 
 Outras vezes juntavamo-nos na praia para nadar melhor do que os
-outros e deixar o sol queimar quem mais merec√™sse. J√° as laranjas
+outros e deixar o sol queimar quem mais merecÍsse. J· as laranjas
 estavam contentes com o que chegasse primeiro! O melhor jovem ganhava
 a melhor rapariga. Os outros sabiam aquella que tinham ganhado. Eu
 tinha ganho a minha!
 
 
-De uma vez, quando deixavamos o caes, entornou-se o c√™sto das
-tangerinas. Foi a alegria! E uma das raparigas p√¥z-se a cantar
-o succedido √°s tangerinas a rolar pr√≥ mar:
+De uma vez, quando deixavamos o caes, entornou-se o cÍsto das
+tangerinas. Foi a alegria! E uma das raparigas pÙz-se a cantar
+o succedido ·s tangerinas a rolar prÛ mar:
 
 
   tam
@@ -701,51 +701,51 @@ o succedido √°s tangerinas a rolar pr√≥ mar:
   tangerina boia
   tangerina ina
   tangerininha
-  pacote r√¥to
-  batuque n√∫
-  quintal da n√≥ra
+  pacote rÙto
+  batuque n˙
+  quintal da nÛra
   e o dique
   e o Duque
   e o acqueducto
-  do C√∫co
+  do C˙co
   Rei Carmim
   e tamarindos
   e amarellos
   de Mahomet
   alli
-  e l√°
-  e acol√°
+  e l·
+  e acol·
   ...
 
        *       *       *       *       *
 
-M√£e!
+M„e!
 
-Vem ouvir a minha cabe√ßa a contar historias ricas que ainda n√£o
+Vem ouvir a minha cabeÁa a contar historias ricas que ainda n„o
 viageie. Traze tinta encarnada para escrever estas coisas! Tinta
-c√¥r de sangue, sangue! verdadeiro, encarnado!
+cÙr de sangue, sangue! verdadeiro, encarnado!
 
-M√£e! passa a tua m√£o pela minha cabe√ßa!
+M„e! passa a tua m„o pela minha cabeÁa!
 
-Eu ainda n√£o fiz viagens e a minha cabe√ßa n√£o se lembra sen√£o de
-viagens! Eu vou viajar. Tenho s√™de! Eu prometo saber viajar.
+Eu ainda n„o fiz viagens e a minha cabeÁa n„o se lembra sen„o de
+viagens! Eu vou viajar. Tenho sÍde! Eu prometo saber viajar.
 
 
-Quando voltar √© para subir os degraus da tua casa, um por um. Eu
-vou aprender de c√≥r os degraus da nossa casa. Depois venho sentar-me
-a teu lado. Tu a cos√™res e eu a contar-te as minhas viagens, aquellas
-que eu viagei, t√£o parecidas com as que n√£o viagei, escritas ambas
+Quando voltar È para subir os degraus da tua casa, um por um. Eu
+vou aprender de cÛr os degraus da nossa casa. Depois venho sentar-me
+a teu lado. Tu a cosÍres e eu a contar-te as minhas viagens, aquellas
+que eu viagei, t„o parecidas com as que n„o viagei, escritas ambas
 com as mesmas palavras.
 
-M√£e! ata as tuas m√£os √†s minhas e d√° um n√≥-cego muito apertado!
+M„e! ata as tuas m„os ‡s minhas e d· um nÛ-cego muito apertado!
 Eu quero ser qualquer coisa da nossa casa. Como a meza. Eu tambem
 quero ter um feitio, um feitio que sirva exactamente para a nossa
 casa, como a meza.
 
 
-M√£e! passa a tua m√£o pela minha cabe√ßa!
+M„e! passa a tua m„o pela minha cabeÁa!
 
-Quando passas a tua m√£o na minha cabe√ßa √© tudo t√£o verdade!
+Quando passas a tua m„o na minha cabeÁa È tudo t„o verdade!
 
 
 
@@ -757,12 +757,12 @@ Quando passas a tua m√£o na minha cabe√ßa √© tudo t√£o verdade!
 
 OU
 
-O QUE N√ÉO SE PODE PREV√äR+
+O QUE N√O SE PODE PREV R+
 
 
 
 
-  A Eternidade existe mas n√£o t√£o devagar!
+  A Eternidade existe mas n„o t„o devagar!
 
   (QUADRADO AZUL, 1917).
 
@@ -773,20 +773,20 @@ O QUE N√ÉO SE PODE PREV√äR+
 
 
 Um dia foi a minha vez de ir a Paris. Foi necessario um passaporte.
-Pediram a minha profiss√£o. Fiquei atrapalhado! Pensei um pouco para
+Pediram a minha profiss„o. Fiquei atrapalhado! Pensei um pouco para
 responder verdade e disse a verdade: Poeta!
 
-N√£o acceitaram.
+N„o acceitaram.
 
 
 Tambem pediram o meu estado. Fiquei atrapalhado. Pensei um pouco
 para responder verdade e disse a verdade: Menino!
 
-Tambem n√£o acceitaram.
+Tambem n„o acceitaram.
 
 E para ter o passaporte tive de dizer o que era necessario para
-ter o passaporte, isto √©--uma profiss√£o que houv√©sse! e um estado
-que houv√©sse!
+ter o passaporte, isto È--uma profiss„o que houvÈsse! e um estado
+que houvÈsse!
 
 
 
@@ -794,7 +794,7 @@ que houv√©sse!
 +PARTIDA PARA PARIS+
 
 
-√Å despedida os vizinhos deram-me o melhor conselho: Juizo!
+¡ despedida os vizinhos deram-me o melhor conselho: Juizo!
 
 
 
@@ -802,10 +802,10 @@ que houv√©sse!
 +PARIS+
 
 
-Em Paris √© tudo de carne e osso,--O Sacr√©-Coeur, O S√™na e a Torre
+Em Paris È tudo de carne e osso,--O SacrÈ-Coeur, O SÍna e a Torre
 Eiffel--as casas, as pessoas, os domingos e os outros dias.
 
-Ha em Paris uma Rocha Tarpeia que n√£o √© feita de rocha, √© feita
+Ha em Paris uma Rocha Tarpeia que n„o È feita de rocha, È feita
 de domingos e dos outros dias.
 
 
@@ -814,9 +814,9 @@ de domingos e dos outros dias.
 +EU+
 
 
-Quando digo Eu n√£o me refiro apenas a mim mas a todo aquelle que
-coub√©r dentro do geito em que est√° empregado o verbo na primeira
-pess√¥a.
+Quando digo Eu n„o me refiro apenas a mim mas a todo aquelle que
+coubÈr dentro do geito em que est· empregado o verbo na primeira
+pessÙa.
 
 
 
@@ -824,56 +824,56 @@ pess√¥a.
 +LIBERDADE+
 
 
-Quando entrei na cidade fiquei s√≥sinho no meio da multid√£o.
+Quando entrei na cidade fiquei sÛsinho no meio da multid„o.
 
-Em redor as portas estavam abertas. A multid√£o entrava naturalmente
-pelas portas abertas. Por cima das portas havia tabol√™tas onde
-estava collada aquella palavra que s√≥be--Liberdade!
+Em redor as portas estavam abertas. A multid„o entrava naturalmente
+pelas portas abertas. Por cima das portas havia tabolÍtas onde
+estava collada aquella palavra que sÛbe--Liberdade!
 
 Entrei por uma porta. Entrei como uma farpa!
 
-Era uma ratoeira, M√£e! era uma ratoeira! Se eu tivesse entrado
+Era uma ratoeira, M„e! era uma ratoeira! Se eu tivesse entrado
 como uma agulha podia ter sahido como uma agulha, mas entrei como
-uma farpa, fiz sangue verdadeiro, j√° n√£o me esquece. Aconteceu
+uma farpa, fiz sangue verdadeiro, j· n„o me esquece. Aconteceu
 exactamente. Dei um mau geito nos rins por causa da ratoeira! Ainda
 me lembro da palavra--Liberdade!
 
 
-M√£e! Vou contar-te como foi.
+M„e! Vou contar-te como foi.
 
 Havia dois vazos iguaes. Um tinha um licor bonito. O outro
-parecia ter agua simples. Um tinha a felicidade, o outro n√£o tinha
-a felicidade. Era √° sorte. A casa estava cheia de gente. Ninguem
-queria ser o primeiro a come√ßar.
+parecia ter agua simples. Um tinha a felicidade, o outro n„o tinha
+a felicidade. Era · sorte. A casa estava cheia de gente. Ninguem
+queria ser o primeiro a comeÁar.
 
 
-Depois, come√ßaram a beber o licor. Diziam coisas t√£o felizes! Coisas
-quentes que enchem a cabe√ßa toda e deixam os olhos escancarados! Eu
-vi-os, M√£e! estavam a augmentar a olhos vistos, juro-te!
+Depois, comeÁaram a beber o licor. Diziam coisas t„o felizes! Coisas
+quentes que enchem a cabeÁa toda e deixam os olhos escancarados! Eu
+vi-os, M„e! estavam a augmentar a olhos vistos, juro-te!
 
-Os que beberam do outro vazo n√£o divertiam ninguem. Iam-se logo
-embora. E ninguem j√° se lembrava d'elles.
+Os que beberam do outro vazo n„o divertiam ninguem. Iam-se logo
+embora. E ninguem j· se lembrava d'elles.
 
-S√≥ ficaram os que gostavam do licor. Eu fiquei com estes. Eu tambem
-bebi do licor. N√£o imaginas, M√£e! nunca subi t√£o alto! Ainda mais
+SÛ ficaram os que gostavam do licor. Eu fiquei com estes. Eu tambem
+bebi do licor. N„o imaginas, M„e! nunca subi t„o alto! Ainda mais
 alto do que o verbo ganhar!
 
 
-Havia uma r√£ que tinha entrado comigo ao mesmo tempo. A r√£ tambem
+Havia uma r„ que tinha entrado comigo ao mesmo tempo. A r„ tambem
 estava a augmentar.
 
-Depois, quando j√° estava quasi do tamanho de um boi, a r√£
+Depois, quando j· estava quasi do tamanho de um boi, a r„
 estoirou. Coitada! Como antigamente, em latim.
 
-Ent√£o, puz-me logo a escorregar desde l√° de cima, at√© aonde
-eu j√° tinha amarinhado; desde mais alto do que o verbo ganhar.
+Ent„o, puz-me logo a escorregar desde l· de cima, atÈ aonde
+eu j· tinha amarinhado; desde mais alto do que o verbo ganhar.
 
-A escorregar, a ser necessario escorregar, a querer por for√ßa
+A escorregar, a ser necessario escorregar, a querer por forÁa
 escorregar, a custar immenso escorregar, a fazer doer escorregar, a
 escorregar.--O verbo desinchar!
 
 O verbo desinchar dura muito tempo. No fim do verbo desinchar
-√© outra vez a terra, c√° em baixo.
+È outra vez a terra, c· em baixo.
 
 
 +FIM DA SEGUNDA PARTE+
@@ -885,82 +885,82 @@ O verbo desinchar dura muito tempo. No fim do verbo desinchar
 +CONFIDENCIAS+
 
 
-M√£e! doe-me o peito. Bati com o peito contra a estatua que tem em
-cima o verbo ganhar. Ainda n√£o sei como foi. Eu ia t√£o contente! eu
+M„e! doe-me o peito. Bati com o peito contra a estatua que tem em
+cima o verbo ganhar. Ainda n„o sei como foi. Eu ia t„o contente! eu
 ia a pensar em ti e no verbo saber e no verbo ganhar. Estava tudo
-a ser t√£o facil! J√° estava a imaginar a tua alegria quando eu volt√°sse
-a casa com o verbo saber e o verbo ganhar, um em cada m√£o!
+a ser t„o facil! J· estava a imaginar a tua alegria quando eu volt·sse
+a casa com o verbo saber e o verbo ganhar, um em cada m„o!
 
-Doe-me muito o peito, M√£e! passa a tua m√£o pela minha cabe√ßa!
-
-
-M√£e!
-
-J√° n√£o volto √° cidade sem ir comtigo! para a cidade ser bonita. Irmos
-os dois juntos de bra√ßo-dado, e andarmos assim a passear; para ver
-como tudo est√† p√¥sto na cidade por causa de ti e de mim e por causa
-dos outros que andam de bra√ßo-dado.
+Doe-me muito o peito, M„e! passa a tua m„o pela minha cabeÁa!
 
 
-M√£e! dize essa metade que tu sabes do que √© necessario saber, dize
-essa metade que tu sabes t√£o bem! para eu pensar na outra metade.
+M„e!
 
-Se n√£o houv√©sse sen√£o homens e saltimbancos eu ia buscar a outra
-metade, mas os saltimbancos est√£o vestidos como os homens, e os
-homens est√£o vestidos como os saltimbancos, ambos est√£o vestidos
-de uma s√≥ maneira, n√£o sei quaes s√£o os homens nem os saltimbancos,
-elles tambem n√£o o sabem,--n√£o ha sen√£o losangos de arlequim!
+J· n„o volto · cidade sem ir comtigo! para a cidade ser bonita. Irmos
+os dois juntos de braÁo-dado, e andarmos assim a passear; para ver
+como tudo est‡ pÙsto na cidade por causa de ti e de mim e por causa
+dos outros que andam de braÁo-dado.
 
 
-M√£e!
+M„e! dize essa metade que tu sabes do que È necessario saber, dize
+essa metade que tu sabes t„o bem! para eu pensar na outra metade.
 
-Quando eu vinha para casa a multid√£o ia na outra direc√ß√£o. Tive de
-me fazer ainda mais pequeno e escorregad√≠o, para n√£o ir na onda.
+Se n„o houvÈsse sen„o homens e saltimbancos eu ia buscar a outra
+metade, mas os saltimbancos est„o vestidos como os homens, e os
+homens est„o vestidos como os saltimbancos, ambos est„o vestidos
+de uma sÛ maneira, n„o sei quaes s„o os homens nem os saltimbancos,
+elles tambem n„o o sabem,--n„o ha sen„o losangos de arlequim!
 
-Perguntei para onde iam t√£o unidos, assim, com tanto balan√ßo.
+
+M„e!
+
+Quando eu vinha para casa a multid„o ia na outra direcÁ„o. Tive de
+me fazer ainda mais pequeno e escorregadÌo, para n„o ir na onda.
+
+Perguntei para onde iam t„o unidos, assim, com tanto balanÁo.
 Responderam-me: Para deante! para a frente!
 
 Iam para deante! iam para a frente!
 
-Fiquei a pensar na multid√£o.
+Fiquei a pensar na multid„o.
 
 
-O meu anjo da guarda disse-me: Prompto! A multid√£o j√° passou, levou um
-quarto d'hora a passar. A multid√£o n√£o √© sen√£o aquillo que levou um
-quarto d'hora a passar. Prompto! j√° est√° vista! anda d'ahi!
+O meu anjo da guarda disse-me: Prompto! A multid„o j· passou, levou um
+quarto d'hora a passar. A multid„o n„o È sen„o aquillo que levou um
+quarto d'hora a passar. Prompto! j· est· vista! anda d'ahi!
 
 
-O meu anjo da guarda est√° sempre dizer-me: De que est√°s √° espera? V√°,
-anda! Come√ßa j√°! Come√ßa j√° a cuidar da tua presen√ßa!
+O meu anjo da guarda est· sempre dizer-me: De que est·s · espera? V·,
+anda! ComeÁa j·! ComeÁa j· a cuidar da tua presenÁa!
 
-N√£o sei o que o meu anjo da guarda quer que eu advinhe em taes palavras.
+N„o sei o que o meu anjo da guarda quer que eu advinhe em taes palavras.
 
 Outras vezes, o meu anjo da guarda pede-me para que seja eu o anjo da
 guarda d'elle.
 
 
-M√£e!
+M„e!
 
 Hoje acordei todo virado para deante. Assim, como tu o compreendes,
-M√£e!
+M„e!
 
 Vi as coisas do ar que havia, as coisas que estavam focadas com o ar
-de hoje. As lembran√ßas j√° est√£o inteiras, muito poucos os minutos falsos.
+de hoje. As lembranÁas j· est„o inteiras, muito poucos os minutos falsos.
 
 Fiz todas as horas do Sol e as da sombra. Ao chegar a noite estive de
-accordo com o Sol no que houve desde manh√£ at√© ser bastante a luz por
+accordo com o Sol no que houve desde manh„ atÈ ser bastante a luz por
 hoje. Depois veiu o somno. E o somno chegou a horas. Antes do somno
-ainda houve uma imagem--um le√£o a dormir!
+ainda houve uma imagem--um le„o a dormir!
 
-Na verdade, n√£o ha somno mais bem ganho do que o de um le√£o a dormir
-com restos de sangue ainda no focinho, como os le√µes de pedra que ha
+Na verdade, n„o ha somno mais bem ganho do que o de um le„o a dormir
+com restos de sangue ainda no focinho, como os leıes de pedra que ha
 nas escadarias por onde se sobe depois da batalha!
 
 
 
 
 
-+RETRATO DA ESTRELLA QUE GUIOU O FILHO PRODIGO NA VOLTA √Å CASA PATERNA+
++RETRATO DA ESTRELLA QUE GUIOU O FILHO PRODIGO NA VOLTA ¡ CASA PATERNA+
 
 
 Na praia uma menina perguntou-me se eu era rico. Estava de gatas e
@@ -968,8 +968,8 @@ muito longe, a perguntar-me se eu era rico.
 
        *       *       *       *       *
 
-Todas as manh√£s ia brincar com os vizinhos para a sombra da egreja.
-Depois do almo√ßo a sombra era do outro lado.
+Todas as manh„s ia brincar com os vizinhos para a sombra da egreja.
+Depois do almoÁo a sombra era do outro lado.
 
        *       *       *       *       *
 
@@ -979,36 +979,36 @@ para traz.
        *       *       *       *       *
 
 A rapariga das laranjas tinha uma linda voz para vender laranjas. As
-pessoas ficavam co'as laranjas na m√£o a ouv√≠-la.
+pessoas ficavam co'as laranjas na m„o a ouvÌ-la.
 
        *       *       *       *       *
 
-A larangeira ao p√© da n√≥ra j√° me conhecia--punha-se a fingir que era
+A larangeira ao pÈ da nÛra j· me conhecia--punha-se a fingir que era
 o vento que a fazia mexer.
 
        *       *       *       *       *
 
-Acho mais sinceros os dias de chuva. Nos dias em que chove ponho¬≠me
-a pensar que n√£o sou eu s√≥ que vivo arreliado. Depois, o cheiro da
-terra molhada √© que me faz de novo animar.
+Acho mais sinceros os dias de chuva. Nos dias em que chove ponho≠me
+a pensar que n„o sou eu sÛ que vivo arreliado. Depois, o cheiro da
+terra molhada È que me faz de novo animar.
 
        *       *       *       *       *
 
-√Ås vezes ponho-me a pensar em coisas que eu nunca vi. Naturalmente
-s√≥ ha muito longe, nas outras terras!
+¡s vezes ponho-me a pensar em coisas que eu nunca vi. Naturalmente
+sÛ ha muito longe, nas outras terras!
 
        *       *       *       *       *
 
-Estou a espera de ser grande para ver se o que eu penso √© verdade ou
-n√£o. Se n√£o f√¥r, mato-me!
+Estou a espera de ser grande para ver se o que eu penso È verdade ou
+n„o. Se n„o fÙr, mato-me!
 
        *       *       *       *       *
 
-G√≥sto mais dos bois de barro que dos bois verdadeiros.
+GÛsto mais dos bois de barro que dos bois verdadeiros.
 
        *       *       *       *       *
 
-O gab√£o do jardineiro era forrado d'azul!
+O gab„o do jardineiro era forrado d'azul!
 
        *       *       *       *       *
 
@@ -1016,7 +1016,7 @@ A rosa encarnada cheira a branco.
 
        *       *       *       *       *
 
-Quando vejo o c√¥r-de-rosa parece que se referem a mim.
+Quando vejo o cÙr-de-rosa parece que se referem a mim.
 
 
 
@@ -1025,56 +1025,56 @@ Quando vejo o c√¥r-de-rosa parece que se referem a mim.
 +CONFIDENCIAS+
 
 
-Bom-Dia, M√£e!
+Bom-Dia, M„e!
 
-Bem nos tinham dito!--Esp√©rem! foi o que nos tinham dito. E n√≥s
-esper√°mos. Ah! que sempre tive a certeza que havia de chegar ¬´o
-descerrar do escuro¬ª! (ANTHERO, Sonetos.)
+Bem nos tinham dito!--EspÈrem! foi o que nos tinham dito. E nÛs
+esper·mos. Ah! que sempre tive a certeza que havia de chegar ´o
+descerrar do escuroª! (ANTHERO, Sonetos.)
 
 
-  A eternidade e um instante √© a mesma coisa.
+  A eternidade e um instante È a mesma coisa.
 
           SANTO AGOSTINHO.
 
 
-Bom-Dia, M√£e!
+Bom-Dia, M„e!
 
-Senta-te ao meu lado, que eu vou contar-te a viagem que eu fiz. D√°¬≠me
-a tua m√£o para que eu a conte bem!
+Senta-te ao meu lado, que eu vou contar-te a viagem que eu fiz. D·≠me
+a tua m„o para que eu a conte bem!
 
 Dei a volta ao mundo, fiz o itinerario universal. Tudo consta do meu
-diario intimo onde √© memoravel a viagem que eu fiz desde e universo at√©
-ao meu peito quotidiano. Vim de muito longe at√© ficar dentro do meu
+diario intimo onde È memoravel a viagem que eu fiz desde e universo atÈ
+ao meu peito quotidiano. Vim de muito longe atÈ ficar dentro do meu
 proprio peito e defendido pelo meu proprio corpo.
 
-Durante a viagem encontrei tudo disposto de antem√£o para que nunca
+Durante a viagem encontrei tudo disposto de antem„o para que nunca
 me apartasse dos meus sentidos. E assim aconteceu sempre desde aquelle
 dia inolvidavel em que reparei que tinha olhos na minha propria cara. Foi
 precisamente n'esse dia inolvidavel que eu soube que tudo o que ha no
-universo podia ser visto com os dois olhos que est√£o na nossa propria
-cara. N√£o foi, portanto, sem orgulho que constatei que era precisamente
-por causa de cada um de n√≥s que havia o universo.
+universo podia ser visto com os dois olhos que est„o na nossa propria
+cara. N„o foi, portanto, sem orgulho que constatei que era precisamente
+por causa de cada um de nÛs que havia o universo.
 
-E assim foi que, todas as coisas que a principio me pareciam t√£o
-estranhas, come√ßaram logo desde esse dia inolvidavel a dirigirem-se-me
+E assim foi que, todas as coisas que a principio me pareciam t„o
+estranhas, comeÁaram logo desde esse dia inolvidavel a dirigirem-se-me
 e a interrogarem-me, quando ainda hontem era eu que lhes preguntava
 tudo. Foi-me facil comprehender que o universo era precisamente o
 resultado de haver quem tivesse olhos na propria cara. Muito maior
 foi o meu orgulho, portanto, quando tive a certeza de que hoje o
-universo esperava anciosamente por cada um de n√≥s. Hontem, cada um
-de n√≥s viajava por todas as partes do universo, com aquelle desejo
+universo esperava anciosamente por cada um de nÛs. Hontem, cada um
+de nÛs viajava por todas as partes do universo, com aquelle desejo
 legitimo de se encontrar, e se a viagem demorou mais do que devia
-√© porque n√£o seria facil acreditar immediatamente que cada um de n√≥s
-estava, na verdade, em todas as partes do universo. Confesso que n√£o
-pude sup√¥r logo d'entrada que o papel de que seriamos incumbidos c√°
-na terra f√¥sse precisamente o mais importante de todos.
+È porque n„o seria facil acreditar immediatamente que cada um de nÛs
+estava, na verdade, em todas as partes do universo. Confesso que n„o
+pude supÙr logo d'entrada que o papel de que seriamos incumbidos c·
+na terra fÙsse precisamente o mais importante de todos.
 
 Ainda hontem o universo me parecia um gigante colossal capaz de me
-atropellar sem querer; e emquanto eu procurava a maneira de n√£o
-ficar espesinhado plo gigante, quem poderia, M√£e, ter-me convencido
-de que eramos n√≥s-proprios o gigante?
+atropellar sem querer; e emquanto eu procurava a maneira de n„o
+ficar espesinhado plo gigante, quem poderia, M„e, ter-me convencido
+de que eramos nÛs-proprios o gigante?
 
-Todas as coisas do universo aonde, por tanto tempo, me procurei, s√£o
+Todas as coisas do universo aonde, por tanto tempo, me procurei, s„o
 as mesmas que encontrei dentro do peito no fim da viagem que fiz
 pelo universo.
 
@@ -1093,54 +1093,54 @@ O HOMEM SENTADO+
 
 
 
-AO JOAQUIM GRA√áA
+AO JOAQUIM GRA«A
 
 
 +A FLOR+
 
-  --¬´Je travaille tant que je peux et le mieux que je peux, toute
-  la journ√©e. Je donne toute ma mesure, tous mes moyens. Et apr√®s,
+  --´Je travaille tant que je peux et le mieux que je peux, toute
+  la journÈe. Je donne toute ma mesure, tous mes moyens. Et aprËs,
   si ce que j'ai fait n'est pas bon, je n'en suis plus responsable;
-  c'est que je ne peux vraiement pas faire mieux.¬ª
+  c'est que je ne peux vraiement pas faire mieux.ª
 
           _Henri Matisse._
 
 
-Pede-se a uma crean√ßa. Desenhe uma flor! Da-se-lhe papel e
-lapis. A crean√ßa vae sentar-se no outro canto da sala onde n√£o ha
+Pede-se a uma creanÁa. Desenhe uma flor! Da-se-lhe papel e
+lapis. A creanÁa vae sentar-se no outro canto da sala onde n„o ha
 mais ninguem.
 
-Passado algum tempo o papel est√° cheio de linhas. Umas n'uma
-direc√ß√£o, outras n'outras; umas mais carregadas, outras mais
-leves; umas mais faceis, outras mais custosas. A crean√ßa quiz
-tanta for√ßa em certas linhas que o papel quasi que n√£o resistiu.
+Passado algum tempo o papel est· cheio de linhas. Umas n'uma
+direcÁ„o, outras n'outras; umas mais carregadas, outras mais
+leves; umas mais faceis, outras mais custosas. A creanÁa quiz
+tanta forÁa em certas linhas que o papel quasi que n„o resistiu.
 
-Outras eram t√£o delicadas que apenas o pezo do lapis j√° era demais.
+Outras eram t„o delicadas que apenas o pezo do lapis j· era demais.
 
-Depois a crean√ßa vem mostrar essas linhas √°s pess√¥as: Uma fl√¥r!
+Depois a creanÁa vem mostrar essas linhas ·s pessÙas: Uma flÙr!
 
-As pess√¥as n√£o acham parecidas estas linhas com as de uma fl√¥r!
+As pessÙas n„o acham parecidas estas linhas com as de uma flÙr!
 
-Comtudo, a palavra fl√¥r andou por dentro da crean√ßa, da cabe√ßa
-para o cora√ß√£o e do cora√ß√£o para a cabe√ßa, √° procura das linhas
-com que se faz uma fl√¥r, e a crean√ßa p√¥z no papel algumas d'essas
-linhas, ou todas. Talvez as tivesse p√¥sto f√≥ra dos seus logares,
-mas, s√£o aquellas as linhas com que Deus faz uma fl√¥r!
-
-
+Comtudo, a palavra flÙr andou por dentro da creanÁa, da cabeÁa
+para o coraÁ„o e do coraÁ„o para a cabeÁa, · procura das linhas
+com que se faz uma flÙr, e a creanÁa pÙz no papel algumas d'essas
+linhas, ou todas. Talvez as tivesse pÙsto fÛra dos seus logares,
+mas, s„o aquellas as linhas com que Deus faz uma flÙr!
 
 
-√ÅCERCA DA PINTURA DE C√âZANNE E DE MATISSE:
 
 
-  ¬´Elle vous donne la s√©curit√©.¬ª
-
-          _Charles P√©quin._
+¡CERCA DA PINTURA DE C…ZANNE E DE MATISSE:
 
 
-  _S√©curit√©_--M. f. (lat. securitas) Confiance, tranquilit√© d'esprit
-  resultant de l'id√©e, qu'il n'ya de p√©ril √† craindre: l'industrie a
-  besoin de s√©curit√©.
+  ´Elle vous donne la sÈcuritÈ.ª
+
+          _Charles PÈquin._
+
+
+  _SÈcuritÈ_--M. f. (lat. securitas) Confiance, tranquilitÈ d'esprit
+  resultant de l'idÈe, qu'il n'ya de pÈril ‡ craindre: l'industrie a
+  besoin de sÈcuritÈ.
 
           _Petit Larousse._
 
@@ -1149,28 +1149,28 @@ mas, s√£o aquellas as linhas com que Deus faz uma fl√¥r!
 
 +A MINHA VEZ+
 
-  Tu separeras la terre du feu, le subtil de l'√©pais--doucement-¬≠avec
+  Tu separeras la terre du feu, le subtil de l'Èpais--doucement-≠avec
   grande industrie.
 
           HERMES TRIMEGISTA
 
 
-O desenho das crean√ßas √© como o das pess√¥as que n√£o sabem desenhar--ambos
-dizem, mas n√£o sabem o que dizem. N√£o sabem desembara√ßar as linhas de
+O desenho das creanÁas È como o das pessÙas que n„o sabem desenhar--ambos
+dizem, mas n„o sabem o que dizem. N„o sabem desembaraÁar as linhas de
 uma coisa das linhas das outras coisas que veem ao mesmo tempo dentro
-da mesma palavra. A prova √© que n√£o s√£o capazes de imitar o que da
-primeira vez lhes escorregou do corpo pela m√£o para o papel.
+da mesma palavra. A prova È que n„o s„o capazes de imitar o que da
+primeira vez lhes escorregou do corpo pela m„o para o papel.
 
-Eu-proprio, apenas agora come√ßo a saber recordar o que foram
-os meus desenhos de ha dez e vinte annos, quando fiz uns tra√ßos
-em peda√ßos de papeis que guardaram.
+Eu-proprio, apenas agora comeÁo a saber recordar o que foram
+os meus desenhos de ha dez e vinte annos, quando fiz uns traÁos
+em pedaÁos de papeis que guardaram.
 
 Escuto estes desenhos como a um homem, do campo que diz, sem
-querer, coisas mais importantes do que o que est√° a contar,
-e que p√µe tudo √° mostra sem dar por isso. Atravez d'estes desenhos
-sigo grafologicamente o meu instincto √° espera da minha vontade,--a
+querer, coisas mais importantes do que o que est· a contar,
+e que pıe tudo · mostra sem dar por isso. Atravez d'estes desenhos
+sigo grafologicamente o meu instincto · espera da minha vontade,--a
 minha querida ignorancia a aquecer ao sol e a transformar-se na
-minha vez c√° na terra.
+minha vez c· na terra.
 
 
 +FIM DA TERCEIRA PARTE+
@@ -1182,19 +1182,19 @@ minha vez c√° na terra.
 +UMA FRASE QUE SOBEJOU+
 
 
-Quando copiei pela ultima vez a Inven√ß√£o do Dia Claro, sobejou uma
-frase que n√£o me recordo a que alturas pertence. A frase √© esta:
+Quando copiei pela ultima vez a InvenÁ„o do Dia Claro, sobejou uma
+frase que n„o me recordo a que alturas pertence. A frase È esta:
 
 
-Ha systemas para todas as coisas que nos ajudam a saber amar, s√≥
-n√£o ha systemas para saber amar!
+Ha systemas para todas as coisas que nos ajudam a saber amar, sÛ
+n„o ha systemas para saber amar!
 
 
-NOTA--Seguem-se as d√©marches para a Inven√ß√£o. Foi-nos completamente
-impossivel incluir na presente edi√ß√£o as d√©marches. No entanto,
+NOTA--Seguem-se as dÈmarches para a InvenÁ„o. Foi-nos completamente
+impossivel incluir na presente ediÁ„o as dÈmarches. No entanto,
 reproduzimos como specimen a mais antiga de todas para que o leitor
-se conven√ßa do seu interesse quotidiano e imediato. N'esta, como
-em todas as outras d√©marches para a Inven√ß√£o √© flagrante a maneira
+se convenÁa do seu interesse quotidiano e imediato. N'esta, como
+em todas as outras dÈmarches para a InvenÁ„o È flagrante a maneira
 como se representa a fortuna que nos rodeia todos os dias.
 
 
@@ -1203,49 +1203,49 @@ como se representa a fortuna que nos rodeia todos os dias.
 
 +A VERDADE+
 
-  Je ne crois que les histoires dont les t√©moins se feraient √©gorger!
+  Je ne crois que les histoires dont les tÈmoins se feraient Ègorger!
 
-          PENS√âES, PASCAL.
+          PENS…ES, PASCAL.
 
 
-Eu tinha chegado tarde √° escola. O mestre quiz, por for√ßa, saber
-porqu√™. E eu tive que dizer: Mestre! quando sahi de casa tomei um
+Eu tinha chegado tarde · escola. O mestre quiz, por forÁa, saber
+porquÍ. E eu tive que dizer: Mestre! quando sahi de casa tomei um
 carro para vir mais depressa mas, por infelicidade, deante do carro
 cahiu um cavalo com um ataque que durou muito tempo.
 
-O mestre zangou-se comigo: N√£o minta! diga a verdade!
+O mestre zangou-se comigo: N„o minta! diga a verdade!
 
-E eu tive de dizer: Mestre! quando sahi de casa... minha m√£e tinha um
-irm√£o no extrangeiro e, por infelicidade, morreu hontem de repente e
-n√≥s fic√°mos de luto carregado.
+E eu tive de dizer: Mestre! quando sahi de casa... minha m„e tinha um
+irm„o no extrangeiro e, por infelicidade, morreu hontem de repente e
+nÛs fic·mos de luto carregado.
 
-O mestre ainda se zangou mais comigo: N√£o minta! diga a verdade!!
+O mestre ainda se zangou mais comigo: N„o minta! diga a verdade!!
 
 E eu tive de dizer: Mestre! quando sahi de casa ... estava a
-pensar no irm√£o de minha m√£e que est√° no extrangeiro ha tantos
-annos, sem escrever. Ora isto ainda √© peor do que se elle tivesse
-morrido de repente porque n√≥s n√£o sabemos se estamos de lucto
-carregado ou n√£o.
+pensar no irm„o de minha m„e que est· no extrangeiro ha tantos
+annos, sem escrever. Ora isto ainda È peor do que se elle tivesse
+morrido de repente porque nÛs n„o sabemos se estamos de lucto
+carregado ou n„o.
 
-Ent√£o o mestre perdeu a cabe√ßa comigo: N√£o minta, ouviu? diga a
-verdade, j√° lh'o disse!
+Ent„o o mestre perdeu a cabeÁa comigo: N„o minta, ouviu? diga a
+verdade, j· lh'o disse!
 
-Fiquei muito tempo calado. De repente, n√£o sei o que me passou
-pela cabe√ßa que acreditei que o mestre queria effectivamente que
-lhe dissesse a verdade. E, crean√ßa como eu era, puz todo o pezo
-do corpo em cima das pontas dos p√©s, e com o cora√ß√£o √° solta
-confessei a verdade: Mestre! antes de chegar √° Escola ha uma casa
-que vende bonecas. Na montra estava uma boneca vestida de c√¥r¬≠de-rosa!
-Mestre! a boneca estava vestida de c√¥r-de-rosa! A boneca tinha
-a pelle de c√©ra. Como as meninas! A boneca tinha os olhos de
-vidro. Como as meninas! A boneca tinha as tran√ßas cahidas. Como
+Fiquei muito tempo calado. De repente, n„o sei o que me passou
+pela cabeÁa que acreditei que o mestre queria effectivamente que
+lhe dissesse a verdade. E, creanÁa como eu era, puz todo o pezo
+do corpo em cima das pontas dos pÈs, e com o coraÁ„o · solta
+confessei a verdade: Mestre! antes de chegar · Escola ha uma casa
+que vende bonecas. Na montra estava uma boneca vestida de cÙr≠de-rosa!
+Mestre! a boneca estava vestida de cÙr-de-rosa! A boneca tinha
+a pelle de cÈra. Como as meninas! A boneca tinha os olhos de
+vidro. Como as meninas! A boneca tinha as tranÁas cahidas. Como
 as meninas! A boneca tinha os dedos finos. Como as meninas!
 Mestre! A boneca tinha os dedos finos...
 
 
 
 
-JOS√â DE ALMADA-NEGREIROS
+JOS… DE ALMADA-NEGREIROS
 
        *       *       *       *       *
 
@@ -1255,7 +1255,7 @@ O MOINHO
 23, 2.^O ANDAR
 3 ACTOS
 
-ANTES DE COME√áAR
+ANTES DE COME«AR
 1 ACTO
 
 OS OUTROS
@@ -1267,15 +1267,15 @@ O MENDES--A ENGOMADEIRA--HERCULES DA SILVA
 
 A SCENA DO ODIO
 
-SALTIMBANCOS--MIMA FAT√ÅXA--LA FEMME √âLECTRIQUE
+SALTIMBANCOS--MIMA FAT¡XA--LA FEMME …LECTRIQUE
 
 O QUADRADO AZUL
 
        *       *       *       *       *
 
-D√âMARCHES PARA A INVEN√á√ÉO DO DIA CLARO
+D…MARCHES PARA A INVEN«√O DO DIA CLARO
 
-DA ARTE DE ATRAVESSAR A MULTID√ÉO, COM APONTAMENTOS SOBRE O QUE EU
+DA ARTE DE ATRAVESSAR A MULTID√O, COM APONTAMENTOS SOBRE O QUE EU
 QUIZ DIZER.
 
 POBREZA VOLUNTARIA
@@ -1286,7 +1286,7 @@ DADOS ARBITRARIOS PARA A FUTFURA ARISTOCRACIA
 
 AS TREZ IDADES DE CADA UM
 
-  --¬´AS TREZ IDADES DE CADA UM¬ª √â O OVO DE COLOMBO!
+  --´AS TREZ IDADES DE CADA UMª … O OVO DE COLOMBO!
 
           _Dr. F. Alves de Azevedo._
 
@@ -1294,9 +1294,9 @@ AS TREZ IDADES DE CADA UM
 
 O MENINO D'OLHOS DE GIGANTE
 
-FEITO COM A PRETEN√á√ÉO DE POEMA UNIVERSAL.
+FEITO COM A PRETEN«√O DE POEMA UNIVERSAL.
 
-COM UMA POSI√á√ÉO GEOGRAFICA PORTUGUEZA NA FORMA POETICA DA TONTERIA
+COM UMA POSI«√O GEOGRAFICA PORTUGUEZA NA FORMA POETICA DA TONTERIA
 POPULAR.
 
 
@@ -1308,17 +1308,17 @@ MIL NOVECENTOS E VINTE E UM,
 NAS OFICINAS DA SOCIEDADE NACIONAL
 DE TIPOGRAFIA, RUA DO
 SECULO, 59, FICANDO DEPOSITARIA
-¬´PORTUGAL E BRAZIL¬ª, RUA
+´PORTUGAL E BRAZILª, RUA
 --GARRETT, 58, 60, LISBOA.--
 
 
 
 
 
-End of the Project Gutenberg EBook of A Inven√ß√£o do Dia Claro, by 
-Jos√© de Almada Negreiros
+End of the Project Gutenberg EBook of A InvenÁ„o do Dia Claro, by 
+JosÈ de Almada Negreiros
 
-*** END OF THIS PROJECT GUTENBERG EBOOK A INVEN√á√ÉO DO DIA CLARO ***
+*** END OF THIS PROJECT GUTENBERG EBOOK A INVEN«√O DO DIA CLARO ***
 
 ***** This file should be named 22801-8.txt or 22801-8.zip *****
 This and all associated files of various formats will be found in:

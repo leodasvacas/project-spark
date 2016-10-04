@@ -1,5 +1,5 @@
 The Project Gutenberg EBook of Portugal enfermo por vicios, e abusos de
-ambos os sexos, by Jos√© Daniel Rodrigues da Costa
+ambos os sexos, by JosÈ Daniel Rodrigues da Costa
 
 This eBook is for the use of anyone anywhere at no cost and with
 almost no restrictions whatsoever.  You may copy it, give it away or
@@ -9,7 +9,7 @@ with this eBook or online at www.gutenberg.net
 
 Title: Portugal enfermo por vicios, e abusos de ambos os sexos
 
-Author: Jos√© Daniel Rodrigues da Costa
+Author: JosÈ Daniel Rodrigues da Costa
 
 Release Date: March 23, 2010 [EBook #31743]
 
@@ -36,13 +36,13 @@ of public domain material from Google Book Search)
 
                             DEDICADO AO SENHOR
 
-                            JOS√â LUIZ GUERNER,
+                            JOS… LUIZ GUERNER,
 
                         CONSUL DE S. M. SICILIANNA,
 
                                    POR
 
-                      JOS√â DANIEL RODRIGUES DA COSTA,
+                      JOS… DANIEL RODRIGUES DA COSTA,
 
                          ENTRE OS PASTORES DO TEJO
 
@@ -50,10 +50,10 @@ of public domain material from Google Book Search)
 
 
                                   LISBOA:
-                            NA IMPRESS√ÉO REGIA.
+                            NA IMPRESS√O REGIA.
                                  ANNO 1819
 
-                              _Com Licen√ßa._
+                              _Com LicenÁa._
 
 
 
@@ -62,25 +62,25 @@ SENHOR JOSE LUIZ GUERNER:
 
 
 _Quando comecei a compor esta Obra, intitulada=Portugal Enfermo por
-vicios, e abusos=logo me veio √° lembran√ßa o dedicar-lha. E approveitando
-estas primeiras id√©as, foi tal o prazer, que concebi, por huma t√£o
+vicios, e abusos=logo me veio · lembranÁa o dedicar-lha. E approveitando
+estas primeiras idÈas, foi tal o prazer, que concebi, por huma t„o
 acertada escolha, que parecia que com mais facilidade, e affluencia me
-occori√£o pensamentos para a ultimar._
+occori„o pensamentos para a ultimar._
 
-_Eu faria huma injuria √° Gratid√£o, se me lembrasse de outra pessoa para
+_Eu faria huma injuria · Gratid„o, se me lembrasse de outra pessoa para
 esta Dedicatoria; quando por experiencia tenho conhecido quanto a sua
-curiosidade, applica√ß√£o, e talentos ambicion√£o as minhas Produc√ß√µes._
+curiosidade, applicaÁ„o, e talentos ambicion„o as minhas ProducÁıes._
 
-_Aqui me offerecia agora a minha imagina√ß√£o hum vasto assumpto, para
+_Aqui me offerecia agora a minha imaginaÁ„o hum vasto assumpto, para
 tecer-lhe o Elogio, que merece hum homem amador das Bellas Letras, e ornado
-d'aquellas virtudes moraes, que tanto caracteriz√£o o verdadeiro homem de
-bem. Mas fazer das suas apreciaveis qualidades huma extensa narra√ß√£o, seria
+d'aquellas virtudes moraes, que tanto caracteriz„o o verdadeiro homem de
+bem. Mas fazer das suas apreciaveis qualidades huma extensa narraÁ„o, seria
 dar por nova huma pintura ao mesmo Pintor, que a desenhou._
 
-_O C√©o dilate a sua estimavel vida para consola√ß√£o dos seus amigos;
+_O CÈo dilate a sua estimavel vida para consolaÁ„o dos seus amigos;
 sendo hum dos que mais o preza, e respeita_
 
-                                        _Jos√© Daniel Rodrigues da Costa_
+                                        _JosÈ Daniel Rodrigues da Costa_
 
 
 
@@ -88,48 +88,48 @@ sendo hum dos que mais o preza, e respeita_
 PROLOGO.
 
 
-Nem a vaidade de ser Author, nem a presump√ß√£o de exceder os Escriptores
+Nem a vaidade de ser Author, nem a presumpÁ„o de exceder os Escriptores
 do meu tempo, nem o desvanecimento dos repetidos elogios, que muitas
-Pessoas me fazem, seri√£o incentivos bastantes para eu escrever com tanta
-assiduidade, como escrevo. N√£o me ufan√£o semelhantes apavona√ß√µes; porque
-o deixar-me possuir destes f√¥fos sentimentos seria em mim huma bem
+Pessoas me fazem, seri„o incentivos bastantes para eu escrever com tanta
+assiduidade, como escrevo. N„o me ufan„o semelhantes apavonaÁıes; porque
+o deixar-me possuir destes fÙfos sentimentos seria em mim huma bem
 notada mania.
 
 Devem capacitar-se os meus amabilissimos Leitores que o meu genio, hum
-pouco propenso √°s Bellas Letras, e mais que tudo, o muito, que prezo
-quanto he honesto, e civ√≠l, he que me desafia a desembainhar a espada da
+pouco propenso ·s Bellas Letras, e mais que tudo, o muito, que prezo
+quanto he honesto, e civÌl, he que me desafia a desembainhar a espada da
 Critica contra os vicios em todas as minhas Obras, acutilando estes, e
 poupando com tudo os seus adoradores.
 
-He por tanto que exponho ao P√∫blico esta Obra dos achaques chr√≥nicos,
+He por tanto que exponho ao P˙blico esta Obra dos achaques chrÛnicos,
 com que o tempo tem contaminado os antigos, memoraveis, e bem acceitos
 costumes do nosso Portugal; que quanto mais se reprehendem os
 d'agora, tanto maiores elogios se fazem aos passados.
 
-Tem os vicios, e os abusos chegado ao maior auge na presente √©poca em
-ambos os sexos. N√£o se lhes acha mediania; e neste labyrintho de cousas
-n√£o fica ao homem, que bem pensa, mais que os dois refrigerios: ou de
+Tem os vicios, e os abusos chegado ao maior auge na presente Època em
+ambos os sexos. N„o se lhes acha mediania; e neste labyrintho de cousas
+n„o fica ao homem, que bem pensa, mais que os dois refrigerios: ou de
 chorar, ou de rir dos destemperos deste Seculo nos excessos, que se
-observ√£o no luxo, nas educa√ß√µes, e no viver de agora.
+observ„o no luxo, nas educaÁıes, e no viver de agora.
 
-Com effeito eu vejo os tempos bem desgra√ßados para composi√ß√µes de
+Com effeito eu vejo os tempos bem desgraÁados para composiÁıes de
 qualquer natureza. Nos principios do Seculo dezoito houve muito quem
-escrevesse, porque havia muito quem l√™sse; depois ainda houve muito quem
-l√™sse, e menos quem escrevesse; mas presentemente nem ha quem escreva,
-nem quem l√™a; porque as minimas cousas, que apparecem, nem essas mesmas
-se gast√£o.
+escrevesse, porque havia muito quem lÍsse; depois ainda houve muito quem
+lÍsse, e menos quem escrevesse; mas presentemente nem ha quem escreva,
+nem quem lÍa; porque as minimas cousas, que apparecem, nem essas mesmas
+se gast„o.
 
-Vamos por√©m sempre compondo alguma cousa para huma parte da mocidade bem
+Vamos porÈm sempre compondo alguma cousa para huma parte da mocidade bem
 morigerada, que ainda se encontra tanto nesta Cidade, como por essas
-Provincias; Rapazes applicados, de perfeita educa√ß√£o, e que faz gosto
+Provincias; Rapazes applicados, de perfeita educaÁ„o, e que faz gosto
 ouvillos na sociedade: com estes me entenderei; em quanto os outros
-entregues √°s desenfreadas paix√µes, que os illudem, se fazem verdugos de
+entregues ·s desenfreadas paixıes, que os illudem, se fazem verdugos de
 si mesmos. Sobre estes he que recahe a critica desta pequena
-composi√ß√£o, que desenvolve os achaques de Portugal, causados pela
+composiÁ„o, que desenvolve os achaques de Portugal, causados pela
 epidemia dos vicios, e abusos de huma grande parte de gente.
 
-Leitor, perd√¥a aos defeitos da Obra; mas n√£o perd√¥es aos teus, para n√£o
-seres contado no catalogo dos viciosos: compra, e l√™, que he o melhor
+Leitor, perdÙa aos defeitos da Obra; mas n„o perdÙes aos teus, para n„o
+seres contado no catalogo dos viciosos: compra, e lÍ, que he o melhor
 modo de saberes quanto isto
 
                                                                   Vale.
@@ -139,8 +139,8 @@ modo de saberes quanto isto
 
 PORTUGAL ENFERMO PELOS VICIOS, E ABUSOS.
 
-            _Os escritos que sa√™ da m√£o f√≥ra
-            Tantas Senten√ßas tem, tantos Ledores,
+            _Os escritos que saÍ da m„o fÛra
+            Tantas SentenÁas tem, tantos Ledores,
             Assim Miranda o canta, assim o chora.
             Sempre a verdade achou murmuradores;
             A mentira que damna, e lisongea
@@ -152,57 +152,57 @@ PORTUGAL ENFERMO PELOS VICIOS, E ABUSOS.
     Portugal, Portugal! Eu te lastimo!
     E bem que velho sou inda me animo
     A mostrar-te os defeitos, e os excessos
-    Dos costumes, que tens j√° t√£o avessos
+    Dos costumes, que tens j· t„o avessos
     Dos costumes, que tinhas algum dia,
-    Quando mais reflex√£o na gente havia.
-    Tu de estranhas Na√ß√µes foste invejado;
-    Hoje faz compaix√£o teu pobre estado:
-    Cada vez te v√£o mais enfraquecendo,
+    Quando mais reflex„o na gente havia.
+    Tu de estranhas NaÁıes foste invejado;
+    Hoje faz compaix„o teu pobre estado:
+    Cada vez te v„o mais enfraquecendo,
     Todo o brilho, que tinhas, vais perdendo:
-    Paraiso do Mundo te chamav√£o;
-    As mais Na√ß√µes com tigo se animav√£o;
-    Ellas por√©m fic√°r√£o sans, e fortes;
-    E tu a todo o instante exposto aos c√≥rtes
-    Da usura, da ambi√ß√£o, da falsidade,
+    Paraiso do Mundo te chamav„o;
+    As mais NaÁıes com tigo se animav„o;
+    Ellas porÈm fic·r„o sans, e fortes;
+    E tu a todo o instante exposto aos cÛrtes
+    Da usura, da ambiÁ„o, da falsidade,
     Do egoismo, da fuga, da impiedade:
-    Males, que aos que bem pens√£o caus√£o tedio,
-    A que apenas descubro hum s√≥ remedio,
-    Que outro melhor n√£o ha, a que se apelle,
+    Males, que aos que bem pens„o caus„o tedio,
+    A que apenas descubro hum sÛ remedio,
+    Que outro melhor n„o ha, a que se apelle,
     E muita gente chora a falta d'Elle[1]....
 
     Portugal, Portugal! Eu te lastimo!
     E o pezar, que me causas, mal reprimo!
-    Est√°s presentemente na figura
-    Do enfermo, que n√£o p√≥de com a cura,
-    Por ter molestias taes t√£o complicadas,
-    Que parte das receitas s√£o baldadas.
+    Est·s presentemente na figura
+    Do enfermo, que n„o pÛde com a cura,
+    Por ter molestias taes t„o complicadas,
+    Que parte das receitas s„o baldadas.
 
     Vai aos banhos do mar a Dama bella,
     Porque delles precisa, ou por cautela;
     O Velho busca estuporado as Caldas,
     E alli da mocidade purga as baldas,
-    Consegue movimento em bra√ßo, e perna,
-    E a perdida cabe√ßa j√° governa;
+    Consegue movimento em braÁo, e perna,
+    E a perdida cabeÁa j· governa;
     Frouxo Taful, que tem debilidade,
     Por excessos de toda a qualidade
-    Recorre √°s infus√µes d'aquacia, e quina;
+    Recorre ·s infusıes d'aquacia, e quina;
     Mas tambem pouco e pouco se defina,
-    Se n√£o acautelou mais a saude,
-    E n√£o tem depois disto quem o ajude;
-    Todos a tempo busc√£o curativo,
-    Para v√™r se em seu mal tem lenitivo:
-    E s√≥ tu, Portugal, chegaste a estado
+    Se n„o acautelou mais a saude,
+    E n„o tem depois disto quem o ajude;
+    Todos a tempo busc„o curativo,
+    Para vÍr se em seu mal tem lenitivo:
+    E sÛ tu, Portugal, chegaste a estado
     De seres paralitico entrevado!
-    Todos de f√≥ra vem sangue tirar-te;
-    Porisso nada p√≥de aproveitar-te.
-    Os Estrangeiros, que a Lisboa cheg√£o,
-    Te vem bichas deitar, e todas peg√£o,
+    Todos de fÛra vem sangue tirar-te;
+    Porisso nada pÛde aproveitar-te.
+    Os Estrangeiros, que a Lisboa cheg„o,
+    Te vem bichas deitar, e todas peg„o,
     Sempre em proveito seu com abundancia,
-    T√© ficares de todo sem sustancia.
-    Medicina n√£o sei, mas tenho lido
+    TÈ ficares de todo sem sustancia.
+    Medicina n„o sei, mas tenho lido
     Dois Livros, que me tem muito instruido,
     Hum da propria exp'riencia, outro do mundo,
-    E s√≥ nesta li√ß√£o he que me fundo,
+    E sÛ nesta liÁ„o he que me fundo,
     Para bem conhecer por estes meios
     Tanto os achaques meus, como os alheios.
     Ora antes que de todo a vida exhales,
@@ -211,30 +211,30 @@ PORTUGAL ENFERMO PELOS VICIOS, E ABUSOS.
     Eu vejo de alguns homens apartados
     Os deveres mais puros, e sagrados;
     Atropellada a honra, a probidade,
-    A raz√£o, a decencia, a s√£a verdade:
+    A raz„o, a decencia, a s„a verdade:
     Isto por homens, que apparencias tem
-    De honrados, de Christ√£os, de homens de bem
+    De honrados, de Christ„os, de homens de bem
 
-    Eu vejo o feroz crime a garra al√ßando,
-    Os tr√™fegos viventes subjugando,
-    S√≥ a fim de os trazer ao seu partido,
+    Eu vejo o feroz crime a garra alÁando,
+    Os trÍfegos viventes subjugando,
+    SÛ a fim de os trazer ao seu partido,
     Deixando o bom caracter corrompido.
 
-    Eu vejo huns indiv√≠duos mui sagazes,
+    Eu vejo huns indivÌduos mui sagazes,
     De transtornar os outros bem capazes;
     Porque com o systema de egoistas
-    Ao que os outros possuem bot√£o vistas.
-    Lan√ß√£o-lhes rede, rede que n√£o falha,
+    Ao que os outros possuem bot„o vistas.
+    LanÁ„o-lhes rede, rede que n„o falha,
     Peixe grosso, e miudo cahe na malha,
     Dizendo-nos depois, como em resposta:
-    Eu por aqui me sirvo, ou dei √° costa.
+    Eu por aqui me sirvo, ou dei · costa.
     Que em limpo Portuguez, nada confuso,
     He fugir, ou quebrar, como hoje he uso.
     Eu sei que hum Guarda-Livros foi chamado,
     Para as Contas fazer de hum Ex-quebrado;
     E como aquella quebra era segunda,
-    N√£o podia acertar-lhe bem a funda.
-    T√© que lhe perguntou com desengano:
+    N„o podia acertar-lhe bem a funda.
+    TÈ que lhe perguntou com desengano:
     Com quanto quer quebrar, Senhor Fulano?
     Esta pergunta prova que ha bicheiro,
     Que inda que quebre, fica sempre inteiro.
@@ -242,310 +242,310 @@ PORTUGAL ENFERMO PELOS VICIOS, E ABUSOS.
     Eu vejo hoje os amigos desfrutantes,
     Palradores de officio, e bem fallantes,
     Muito promptos em toda a patuscada;
-    Por√©m, em se occupando, tudo he nada,
-    De fun√ß√£o em fun√ß√£o, em bons jantares,
-    Por n√£o ficarem vagos os lugares;
+    PorÈm, em se occupando, tudo he nada,
+    De funÁ„o em funÁ„o, em bons jantares,
+    Por n„o ficarem vagos os lugares;
     Mas que, se alguem lhes pede algum soccorro,
-    Vir√°r√£o logo a pe√ßa para f√¥rro,
+    Vir·r„o logo a peÁa para fÙrro,
     Fugindo de valer por amizade
-    Aos que f√¥r√£o da sua sociedade:
-    Vileza sem igual, que achar n√£o pensa
-    O que tem hum vexame, ou tem doen√ßa,
+    Aos que fÙr„o da sua sociedade:
+    Vileza sem igual, que achar n„o pensa
+    O que tem hum vexame, ou tem doenÁa,
     Que em banquetes largou bastante a pelle,
     Para nutrir os que hoje fogem delle.
 
-    Vejo homens, que de seu muito tiver√£o,
-    Que de tudo o que tinh√£o, conta der√£o
+    Vejo homens, que de seu muito tiver„o,
+    Que de tudo o que tinh„o, conta der„o
     No teimoso valete, sota, e az,
     Nos trez dados, que o copo saltar faz,
     No grande tratamento afidalgado,
     Na sege, no jardim, luzido estado,
-    Banquetes, sociedades, manceb√≠as,
+    Banquetes, sociedades, mancebÌas,
     E outras taes, e quejandas bizarrias:
     Tudo feito sem calculo seguro,
-    Sem minima lembran√ßa do futuro,
-    Para agora se v√™rem sem ter nada
-    N'huma vida bem triste, e desgra√ßada.
+    Sem minima lembranÁa do futuro,
+    Para agora se vÍrem sem ter nada
+    N'huma vida bem triste, e desgraÁada.
 
     Eu vejo outros mesquinhos, e forretas,
-    Que n√£o pass√£o de velhas meias pretas,
-    Sua casaca eterna, j√° virada
-    No anno, em que a n√°o Cabrea foi queimada;
-    Ferrolhando o dinheiro no bah√∫,
-    Para que n√£o lho leve belzebu;
+    Que n„o pass„o de velhas meias pretas,
+    Sua casaca eterna, j· virada
+    No anno, em que a n·o Cabrea foi queimada;
+    Ferrolhando o dinheiro no bah˙,
+    Para que n„o lho leve belzebu;
     Contado, e recontado na alta noite,
     Porque a pedir algum ninguem se affoite.
-    Tudo √° porta fechada s√≥s vivendo,
+    Tudo · porta fechada sÛs vivendo,
     Vestindo muito mal, peior comendo;
     E que vive assim bem hum destes pensa,
-    Ou seja na saude, ou na doen√ßa;
-    T√© que toda a reserva finaliza
-    Nas garras de hum irm√£o l√° de Galliza.
-    Eis aqui hum dinheiro que n√£o gira,
-    E por isso a outra gente n√£o respira,
+    Ou seja na saude, ou na doenÁa;
+    TÈ que toda a reserva finaliza
+    Nas garras de hum irm„o l· de Galliza.
+    Eis aqui hum dinheiro que n„o gira,
+    E por isso a outra gente n„o respira,
     Isto he que faz que toda a casa gema;
     Pois outros ricos ha de igual systema.
 
-    Vejo huns homens, que s√£o muito abastados,
+    Vejo huns homens, que s„o muito abastados,
     E de semblantes sempre carregados;
     Caras _de sum es fui_, mas _por causar_,
     Hum bom modo a ninguem sabem mostrar:
     Eu bem sei que quem tem muito dinheiro,
     Grosseiro fica sempre, se he grosseiro;
     Porque pejada burra de riqueza
-    N√£o emenda o que vem de natureza.
+    N„o emenda o que vem de natureza.
     Eu chamo a huns homens taes _verbos de encher_,
-    Vivem s√≥ de ajuntar, e de comer,
-    De cabe√ßa mais leve do que a escuma,
-    Gosto n√£o sabem ter por cousa alguma;
+    Vivem sÛ de ajuntar, e de comer,
+    De cabeÁa mais leve do que a escuma,
+    Gosto n„o sabem ter por cousa alguma;
     Para valer aos mais nunca tem geito,
-    Para si s√£o _Dativo de proveito_
+    Para si s„o _Dativo de proveito_
     Taes pinturas; a mal nunca se tomem
-    O que l√™r, e apontar he que he m√°o homem.
+    O que lÍr, e apontar he que he m·o homem.
 
     Portugal, Portugal! eu te lastimo!
     E teus flagellos na memoria imprimo!
     Eu vejo homens solteiros, sem emprego,
-    Por√©m tendo de m√¥√ßas bom conchego;
-    Parece que por magica he que pass√£o;
-    Pois sem que diligencia alguma fa√ß√£o
+    PorÈm tendo de mÙÁas bom conchego;
+    Parece que por magica he que pass„o;
+    Pois sem que diligencia alguma faÁ„o
     Por grangear a vida, a tudo acodem;
-    N√£o sei como nutrir os vicios podem!
-    Eu trabalho, e n√£o vivo satisfeito;
-    E elles and√£o de corpo mui direito,
-    Mil aproxes fazendo √° bolsa alheia,
+    N„o sei como nutrir os vicios podem!
+    Eu trabalho, e n„o vivo satisfeito;
+    E elles and„o de corpo mui direito,
+    Mil aproxes fazendo · bolsa alheia,
     Sem acharem tal vida indigna e feia.
-    Hum lhes diz: _Eu n√£o posso; outro: n√£o tenho:_
-    E a concluir d'aqui s√≥mente venho
+    Hum lhes diz: _Eu n„o posso; outro: n„o tenho:_
+    E a concluir d'aqui sÛmente venho
     Que tem esta comedia por final
-    Cad√™a, Portaria, ou Hospital.
+    CadÍa, Portaria, ou Hospital.
 
     Eu vejo outros sem rendas, nem officio,
     Do Matrimonio entrar no sacrificio:
-    Marido pobret√£o, mulher sem nada;
+    Marido pobret„o, mulher sem nada;
     Em crescendo dos filhos a manada,
     O mesmo he que ter sella sem cavallo,
     Casa sem tecto, e sino sem badalo.
-    Acabou-se huma cousa, falt√£o mil,
-    De dinheiro n√£o ha nem hum ceitil:
-    Olha hum para o outro, as raz√µes crescem;
-    Os filhos n√∫s, de fome desfalecem;
-    T√© que o Marido toma o desaf√¥go
-    De se ir metter na casa que d√° jogo.
+    Acabou-se huma cousa, falt„o mil,
+    De dinheiro n„o ha nem hum ceitil:
+    Olha hum para o outro, as razıes crescem;
+    Os filhos n˙s, de fome desfalecem;
+    TÈ que o Marido toma o desafÙgo
+    De se ir metter na casa que d· jogo.
     Alli se perde a noite quasi toda,
-    A v√™r se de huma vez desanda a roda,
+    A vÍr se de huma vez desanda a roda,
     Com as iscas de emprestimos de Amigos,
-    Que s√≥ em casos taes servem de abrigos;
+    Que sÛ em casos taes servem de abrigos;
     E a familia em cuidados, em tormento,
     Que inda he peior que a falta de sustento.
 
     Eu vejo, nestes tempos desditosos,
     Povos empobrecidos, e chorosos;
-    Pois quando v√©m hum mal, outros se seguem,
-    Que os Mortaes aten√∫√£o, e perseguem.
+    Pois quando vÈm hum mal, outros se seguem,
+    Que os Mortaes aten˙„o, e perseguem.
     Mas a pezar da falta de dinheiro,
     Apparece nos bairros o gaiteiro,
     As bandeiras nas cordas penduradas,
-    Por onde as festas s√£o annunciadas,
+    Por onde as festas s„o annunciadas,
     Tudo feito com lustre, e com grandeza,
     Foi Juiza a Senhora Dona Andreza.
-    Os festeiros n√£o tem nada de seu;
+    Os festeiros n„o tem nada de seu;
     Mas a festa da rua tudo deu.
-    Anda o velho engra√ßado co' os Leil√µes
-    Dos cargos, que cust√°r√£o bons tost√µes.
+    Anda o velho engraÁado co' os Leilıes
+    Dos cargos, que cust·r„o bons tostıes.
     Temos fogo de vistas, vistas raras,
     N'hum beco, que de largo tem tres varas;
     Que huma roda, que salta em Fogo ardendo,
-    Vem desordens fazer nos que est√£o vendo;
-    E p√≥de muito bem a propriedade
+    Vem desordens fazer nos que est„o vendo;
+    E pÛde muito bem a propriedade
     Com fogo reduzir-se em ametade.
-    Estes p'rigos n√£o s√£o muito pequenos,
-    E j√° tem succedido mais, ou menos.
+    Estes p'rigos n„o s„o muito pequenos,
+    E j· tem succedido mais, ou menos.
     Nunca vi de dinheiro tanta fome,
     Nem tantas festas de despeza, e nome.
-    Eu louvo, e n√£o crimino a devo√ß√£o;
-    Haja festa de Igreja, e bom Serm√£o;
+    Eu louvo, e n„o crimino a devoÁ„o;
+    Haja festa de Igreja, e bom Serm„o;
     Tenha a festividade do arrayal
-    Cousas, que fa√ß√£o bem, e nunca mal.
-    O dinheiro de m√°scaras, e fogo
-    V√° gastar-se com outro desafogo
+    Cousas, que faÁ„o bem, e nunca mal.
+    O dinheiro de m·scaras, e fogo
+    V· gastar-se com outro desafogo
     Mais util, mais vistoso, mais louvavel
     Em acudir a tanto miseravel.
-    Dem ra√ß√µes √° pobreza dessa rua,
-    E a festa christ√£mente se conclua.
+    Dem raÁıes · pobreza dessa rua,
+    E a festa christ„mente se conclua.
     No lugar, em que o fogo armar se havia,
     Haja comprida meza neste dia;
-    Hum, ou dois caldeir√µes de mantimento,
-    Que sirv√£o aos mendigos de sustento,
+    Hum, ou dois caldeirıes de mantimento,
+    Que sirv„o aos mendigos de sustento,
     Ministrados por esses bons festeiros,
-    Que se fa√ß√£o da meza dispenseiros,
+    Que se faÁ„o da meza dispenseiros,
     Sem tumulto, em socego, e com cuidado
-    No c√©go, na crian√ßa, no aleijado.
-    Isto he que d√° exemplo, he que edifica;
-    Deste modo a fun√ß√£o completa fica;
-    E n√£o com fogo, m√°scaras, e bulhas,
+    No cÈgo, na crianÁa, no aleijado.
+    Isto he que d· exemplo, he que edifica;
+    Deste modo a funÁ„o completa fica;
+    E n„o com fogo, m·scaras, e bulhas,
     Tornando-se as esmolas em fagulhas.
-    Na terra, e C√©o nada ha mais relevante,
+    Na terra, e CÈo nada ha mais relevante,
     Que acudirmos ao nosso semelhante.
-    Se n√£o querem na rua estar com isto,
-    Fa√ß√£o o que eu a muitos tenho visto:
-    V√£o √°s Cad√™as, que isto d√° bom nome,
-    Repart√£o de comer por quem tem fome:
+    Se n„o querem na rua estar com isto,
+    FaÁ„o o que eu a muitos tenho visto:
+    V„o ·s CadÍas, que isto d· bom nome,
+    Repart„o de comer por quem tem fome:
     Arme-se em gravidade a Confraria,
-    V√° consummar esta obra santa, e pia;
+    V· consummar esta obra santa, e pia;
     Que disto inda se tira hum bom partido;
     O mais tudo he trabalho desluzido,
     Motivos de desordens, e de insultos,
     Indecentes tornando aquelles cultos;
-    Porque destas func√ß√µes he raro o brinco,
-    Em que n√£o sai√£o prezos quatro, ou cinco.
+    Porque destas funcÁıes he raro o brinco,
+    Em que n„o sai„o prezos quatro, ou cinco.
 
     He bem digno tambem de se notar
     Andarem hoje os pobres a cantar,
-    De guitarra, ou viola m√°, ou boa
+    De guitarra, ou viola m·, ou boa
     Por todas essas ruas de Lisboa.
-    Parece que festej√£o a pobreza,
-    Ou que ella, lhes n√£o d√° muita tristeza!
+    Parece que festej„o a pobreza,
+    Ou que ella, lhes n„o d· muita tristeza!
     Eu bem sei o ditado, de quem canta,
     Seus males mais, ou menos sempre espanta;
-    Mas co' a Musica, a fome n√£o se cura;
-    E he s√≥ (bemdito Deos) de que ha fartura!
+    Mas co' a Musica, a fome n„o se cura;
+    E he sÛ (bemdito Deos) de que ha fartura!
 
     Portugal, Portugal, eu te lastimo!
-    E de sentir comtigo n√£o me eximo!
+    E de sentir comtigo n„o me eximo!
     Eu vejo velhos Pais cheios de vicios,
     Pondo os filhos nos mesmos precipicios.
-    Co' os exemplos, que d√£o em casa, e f√≥ra,
+    Co' os exemplos, que d„o em casa, e fÛra,
     Sem pejo, sem cautela, e sem melhora.
-    Quando hum Pai deve ser (ou mo√ßo, ou velho),
+    Quando hum Pai deve ser (ou moÁo, ou velho),
     Da familia de casa hum vivo espelho;
     Mas se elle he o primeiro em se infamar,
-    Como p√≥de a seus filhos doutrinar!
-    Filho houve j√°, que entrando no Oratorio
+    Como pÛde a seus filhos doutrinar!
+    Filho houve j·, que entrando no Oratorio
     Aos Padres fez primeiro hum peditorio:
     Que chamassem seu Pai, porque queria;
-    Beijar-lhe a m√£o por fim, pois que morria,
-    E que s√≥ acabava descan√ßado
-    Se fosse por seu Pai aben√ßoado.
+    Beijar-lhe a m„o por fim, pois que morria,
+    E que sÛ acabava descanÁado
+    Se fosse por seu Pai abenÁoado.
     Chegou o Pai gemendo, sem conforto,
     Em lagrimas banhado, e quasi morto.
-    Ent√£o o filho, dando-lhe hum abra√ßo,
-    Desconjuntou-lhe os ossos do espinha√ßo,
+    Ent„o o filho, dando-lhe hum abraÁo,
+    Desconjuntou-lhe os ossos do espinhaÁo,
     Dizendo-lhe: Receba o pago seu
-    Da crea√ß√£o perversa, que me deo;
+    Da creaÁ„o perversa, que me deo;
     Quando nos armazens se embebedava;
-    Se tres c√≥pos bebia, tres me dava;
+    Se tres cÛpos bebia, tres me dava;
     Humas vezes em paz, outras em guerra.
     Fazendo bordos hiamos a terra.
-    √Ås casas, em que jogo sempre havia;
+    ¡s casas, em que jogo sempre havia;
     Levava-me na sua companhia;
     Eu pois n'hum vicio tal sempre embebido,
     Me vi por muitas vezes bem perdido;
     Jogava o que era meu, e mais o alheio,
-    At√© que j√° sem brio, e sem receio,
-    Achando que de meu n√£o tinha nada,
-    Voltei-me para ser ladr√£o de estrada.
-    Ficar deve em memoria esta li√ß√£o,
-    Que o bem, e o mal prov√©m da educa√ß√£o.
+    AtÈ que j· sem brio, e sem receio,
+    Achando que de meu n„o tinha nada,
+    Voltei-me para ser ladr„o de estrada.
+    Ficar deve em memoria esta liÁ„o,
+    Que o bem, e o mal provÈm da educaÁ„o.
     Banida deve ser da Sociedade
     Perdida, e viciosa mocidade:
     Bem como nas searas acontece,
     Que toda a herva inutil, que alli cresce,
-    Pela raiz se corta, aos p√©s se deita,
-    Por n√£o damnar o gr√£o, que se aproveita.
+    Pela raiz se corta, aos pÈs se deita,
+    Por n„o damnar o gr„o, que se aproveita.
 
     Eu vejo a mocidade brava, e louca,
-    Vaporando fuma√ßas pela boca,
+    Vaporando fumaÁas pela boca,
     Mostrando da doudice o sobrescrito
     No queimado xaruto por palito.
-    Eu vi, n√£o me cont√°r√£o, isto he certo,
-    Ir √° Loja da Neve muito esperto
-    Hum taful√£o Gigante pela altura,
+    Eu vi, n„o me cont·r„o, isto he certo,
+    Ir · Loja da Neve muito esperto
+    Hum taful„o Gigante pela altura,
     Mas bem proporcionado na figura,
     Fumando com excesso de tal sorte,
-    Que lan√ßava da boca hum fumo forte:
+    Que lanÁava da boca hum fumo forte:
     Pedio carapinhada, e foi fumando,
     Alimpando o suor de quando em quando,
     O fogo com a neve a hum tempo unindo,
     Pelo mesmo canal tudo embutindo:
-    Sahia huma fuma√ßa l√° do centro,
+    Sahia huma fumaÁa l· do centro,
     Hia hum gole de neve para dentro.
-    Mas n√£o posso acertar bem na raz√£o
-    Do fogo, e neve ter combina√ß√£o!
-    No que se alcan√ßa bem, sem muito estudo,
+    Mas n„o posso acertar bem na raz„o
+    Do fogo, e neve ter combinaÁ„o!
+    No que se alcanÁa bem, sem muito estudo,
     Que hum taful tem guelas para tudo.
 
     Eu vejo rapazinhos enfeitados
     Mui bem nascidos, muito mal creados,
-    Que fic√£o sem estudos, e sem bens,
-    Taf√∫es de quarteir√£o a dois vintens,
+    Que fic„o sem estudos, e sem bens,
+    Taf˙es de quarteir„o a dois vintens,
     Com hum procedimento escandaloso,
     Envolto no calote attencioso,
-    Que com boas palavras disfar√ßado,
+    Que com boas palavras disfarÁado,
     Depois de conseguido, he declarado.
-    N√£o fallemos nas bellas qualidades
+    N„o fallemos nas bellas qualidades
     De tomarem bastantes amizades;
     E nas casas de bem entrada tendo,
-    Pouco e pouco se v√£o desenvolvendo,
+    Pouco e pouco se v„o desenvolvendo,
     As innocentes filhas illudindo,
     Requestando, escrevendo, persuadindo;
     E ellas acreditando os rendimentos,
-    Nas vozes, que se d√£o de casamentos,
+    Nas vozes, que se d„o de casamentos,
     Com fantasticos teres, e promessas,
-    T√© irem de cand√™as √°s avessas;
-    Porque o pai presentio, a m√£i espreita;
+    TÈ irem de candÍas ·s avessas;
+    Porque o pai presentio, a m„i espreita;
     Leva o Senhor fulano huma desfeita.
     E em este penetrando o contratempo,
     Cuida logo em mudar-se antes de tempo;
     E vai com esta mesma synfonia
     Dar Trevas para outra freguezia.
-    Da m√° educa√ß√£o lhe prov√©m tudo;
-    Pais, que deix√£o seus filhos sem estudo,
-    Ou n√£o escolhem Mestres com recato,
-    Porque s√≥ querem ir ao mais barato!
+    Da m· educaÁ„o lhe provÈm tudo;
+    Pais, que deix„o seus filhos sem estudo,
+    Ou n„o escolhem Mestres com recato,
+    Porque sÛ querem ir ao mais barato!
 
-    Eu vejo huns f√¥fos Mestres de Collegios,
+    Eu vejo huns fÙfos Mestres de Collegios,
     Inculcando sciencia, e privilegios,
-    Por√©m jogando a Ronda co' os Meninos
+    PorÈm jogando a Ronda co' os Meninos
     Nas horas vagas dos seus bons ensinos;
-    Que por estas raz√µes bem se conhece
+    Que por estas razıes bem se conhece
     Que entre tanto Collegio, que apparece,
-    N√£o obstante haver Mestres a cardumes,
-    V√£o de mal em peior nossos costumes.
+    N„o obstante haver Mestres a cardumes,
+    V„o de mal em peior nossos costumes.
     Os rapazes mimosos de algum dia
-    Apreciav√£o Musica, e Poesia,
-    S√©ria Dan√ßa, discreta Sociedade,
+    Apreciav„o Musica, e Poesia,
+    SÈria DanÁa, discreta Sociedade,
     Mostrando sempre certa gravidade.
-    N√£o digo que n√£o ha inda hoje disto;
+    N„o digo que n„o ha inda hoje disto;
     Mas destas prendas poucos tenho visto.
     Hoje ha muitos tafues com outras prendas,
     Morgados de Pantana, mas sem rendas.
-    S√≥ presump√ß√£o de sabios tem comsigo,
-    E obrigallos a l√™r he hum castigo,
-    At√© parece j√°, por desvario,
-    Que a muita discri√ß√£o lhes faz fastio:
-    Prez√£o mais hum cavallo, que ande bem,
+    SÛ presumpÁ„o de sabios tem comsigo,
+    E obrigallos a lÍr he hum castigo,
+    AtÈ parece j·, por desvario,
+    Que a muita discriÁ„o lhes faz fastio:
+    Prez„o mais hum cavallo, que ande bem,
     Que o melhor Livro, que hum Livreiro tem;
-    E o que escapa de ter esta paix√£o,
-    Vai a ser hum ac√©rrimo Glot√£o
+    E o que escapa de ter esta paix„o,
+    Vai a ser hum acÈrrimo Glot„o
     Quer biffes a _lamoda_ de _planchetas_,
-    Cabe√ßa de vitella, e costeletas,
-    A gel√©a da boa m√£o de vacca
+    CabeÁa de vitella, e costeletas,
+    A gelÈa da boa m„o de vacca
     Que isto he que fortalece a gente fraca:
     Desmancha-se depois com misturadas,
     Em merendas, e outras patuscadas;
     Com ranchos de solteiras, e viuvas,
     Manda vir aves, hervas, ovos, uvas,
-    Melancias, mel√µes, ma√ß√£s, morangos,
-    Nisto larg√£o a penna os novos frangos;
-    Donde a c√≥lica vem, e a indigest√£o,
-    Que, de fraqueza, os p√µe √° Santa Un√ß√£o:
-    Julg√£o que tem estomago de ferro;
+    Melancias, melıes, maÁ„s, morangos,
+    Nisto larg„o a penna os novos frangos;
+    Donde a cÛlica vem, e a indigest„o,
+    Que, de fraqueza, os pıe · Santa UnÁ„o:
+    Julg„o que tem estomago de ferro;
     Mas tarde a conhecer vem o seu erro:
     Depois de relaxados, sem vigor,
     E alguns co' seu raminho de estupor,
-    Ent√£o com mais cautela se procura
-    Onde a pinga haver√°, que seja pura;
+    Ent„o com mais cautela se procura
+    Onde a pinga haver·, que seja pura;
     Vinho de Lavradio, ou Carcavellos,
     Bucellas, ou Chamusca, vinhos bellos;
     Porque esta Livraria fortifica,
@@ -553,196 +553,196 @@ PORTUGAL ENFERMO PELOS VICIOS, E ABUSOS.
     Entenda-me o Leitor, como quizer,
     No resto que a saude faz perder:
     E para o bom patusca[3] ter dinheiro,
-    V√™ se p√≥de encontrar farto banqueiro.
-    Assenta que he melhor, e lhe conv√©m
+    VÍ se pÛde encontrar farto banqueiro.
+    Assenta que he melhor, e lhe convÈm
     Partidas de lucrar algum vintem;
     Nascendo excessos taes, e tal doudice,
-    Da escacez do dinheiro, que j√° disse,
+    Da escacez do dinheiro, que j· disse,
     Huma escacez que faz damnos immensos,
     Que os calotes, e crimes traz appensos.
-    Na gente m√°, ou boa, m√¥√ßa, e idosa,
+    Na gente m·, ou boa, mÙÁa, e idosa,
     A penuria geral se faz penosa:
     Cada qual anda vendo o melhor meio
-    De achar √° sua casa algum esteio;
-    E quando se v√™ muito desgra√ßado,
-    Lan√ßa-se aos vicios j√° desesperado;
+    De achar · sua casa algum esteio;
+    E quando se vÍ muito desgraÁado,
+    LanÁa-se aos vicios j· desesperado;
     Porque os tempos de muita Loteria,
-    Sortes, rifas, e j√¥go em demasia,
-    S√£o tempos de miseria, em cuja lida
-    Se perde pouco e pouco o amor √° vida.
+    Sortes, rifas, e jÙgo em demasia,
+    S„o tempos de miseria, em cuja lida
+    Se perde pouco e pouco o amor · vida.
 
     Eu vejo mil Bilhares por Lisboa,
-    Outros tantos Caf√©s com gente boa,
+    Outros tantos CafÈs com gente boa,
     Rapazes gigantescos, e corados,
     Sem ter algum defeito de aleijados;
-    Tem estes mocet√µes o mesmo gasto
+    Tem estes mocetıes o mesmo gasto
     Pelas casas das Sortes, Neve, e Pasto;
-    E as simples Legi√µes na sua al√ßada
-    Apenas ach√£o gente estropeada.
+    E as simples Legiıes na sua alÁada
+    Apenas ach„o gente estropeada.
 
     Eu vejo alguns modernos falladores,
-    Que em todas as sciencias s√£o Doutores;
-    Fall√£o de Leis, sem nellas se formarem,
+    Que em todas as sciencias s„o Doutores;
+    Fall„o de Leis, sem nellas se formarem,
     E de guerra, sem nunca millitarem,
-    Mathematicos s√£o por nigromancia,
-    Porque nelles n√£o ha sen√£o jactancia;
+    Mathematicos s„o por nigromancia,
+    Porque nelles n„o ha sen„o jactancia;
     Com Filosofos querem ter parelha,
-    Mas com Filosofia s√≥ de orelha;
+    Mas com Filosofia sÛ de orelha;
     E com taes espertezas sem mais fundo,
-    Resolvem pela son√ßa meio mundo.
-    Se v√£o em Gabinetes discorrer,
+    Resolvem pela sonÁa meio mundo.
+    Se v„o em Gabinetes discorrer,
     Sabem tudo o que ha feito, e por fazer:
-    Nos governos dos Reinos d√£o pennada,
-    Mas and√£o sempre em vida desgra√ßada;
-    N√£o sabem governar a casa sua,
-    E v√£o governar Reinos pela rua,
+    Nos governos dos Reinos d„o pennada,
+    Mas and„o sempre em vida desgraÁada;
+    N„o sabem governar a casa sua,
+    E v„o governar Reinos pela rua,
     Dando planos, fingindo descubertas,
-    Pondo discursos v√£os em regras certas,
+    Pondo discursos v„os em regras certas,
     Mettendo de Latim palavras finas,
     Que mais parecem Mouras, que Latinas;
-    Que a tanto os pantal√µes se deliber√£o,
-    Quando nem _Musa musae_ conhec√™r√£o.
-    Mas se alguem, com raz√£o, lhes vai ao fato,
+    Que a tanto os pantalıes se deliber„o,
+    Quando nem _Musa musae_ conhecÍr„o.
+    Mas se alguem, com raz„o, lhes vai ao fato,
     Em nada se tornou tanto apparato.
 
     Outros, vejo, que querem ser fidalgos,
-    Por irem atr√°s delles, como galgos;
+    Por irem atr·s delles, como galgos;
     E com justas, e herdadas Excellencias,
     Querem estes tambem ter preferencias,
-    Enthusiasmados tanto na man√≠a,
-    Que n√£o pass√£o sem huma Senhoria;
+    Enthusiasmados tanto na manÌa,
+    Que n„o pass„o sem huma Senhoria;
     Por virem de Friellas, e Frieiras,
-    Seus Avos de Melga√ßos, e Melgeiras,
+    Seus Avos de MelgaÁos, e Melgeiras,
     Que ainda destes fumos ha sinaes
     Em huma sege velha sem varaes,
     Que no canto da loja se conserva,
-    Com hum braz√£o pintado, de reserva.
-    Por√©m sempre he preciso ser mui tonto
-    Quem n√£o v√™ que hoje ha nisto algum desconto;
+    Com hum braz„o pintado, de reserva.
+    PorÈm sempre he preciso ser mui tonto
+    Quem n„o vÍ que hoje ha nisto algum desconto;
     Que altivos pensamentos, qualidades,
     Alicerces de antigas fatuidades,
-    Hoje consistem s√≥ em ser herdeiro,
+    Hoje consistem sÛ em ser herdeiro,
     Ou a torto, e direito ter dinheiro.
 
-    Eu vejo papel√µes, que n√£o pass√°r√£o
-    Das linhas para l√°, nem encarar√£o
-    Sequer com o inimigo n'hum s√≥ ponto,
-    Mas em tudo o que fall√£o vem hum conto
-    Do muito, que soffr√™r√£o pela guerra,
-    Nadando em rios, avan√ßando terra
-    Com tal fome, que atr√°s de tres galinhas
-    Os Pyren√©os sub√≠r√£o de gatinhas:
-    Que depois l√° n'hum choque, que tiver√£o,
-    A hum batalh√£o Francez a morte der√£o;
-    Que o do zabumba s√≥ livrou a pelle,
+    Eu vejo papelıes, que n„o pass·r„o
+    Das linhas para l·, nem encarar„o
+    Sequer com o inimigo n'hum sÛ ponto,
+    Mas em tudo o que fall„o vem hum conto
+    Do muito, que soffrÍr„o pela guerra,
+    Nadando em rios, avanÁando terra
+    Com tal fome, que atr·s de tres galinhas
+    Os PyrenÈos subÌr„o de gatinhas:
+    Que depois l· n'hum choque, que tiver„o,
+    A hum batalh„o Francez a morte der„o;
+    Que o do zabumba sÛ livrou a pelle,
     Porque escapou mettido dentro delle.
     Destas, e outras basofias apparecem:
     Quando sabemos de outros, que merecem
     Hum eterno louvor, eterna fama,
     A quem a Patria dignos filhos chama,
     Portuguezes honrados, valorosos,
-    Do inimigo terror, var√µes briosos,
-    Que as cicatrizes mostr√£o pelo peito
-    Com que attest√£o melhor quanto tem feito.
+    Do inimigo terror, varıes briosos,
+    Que as cicatrizes mostr„o pelo peito
+    Com que attest„o melhor quanto tem feito.
 
     Portugal, Portugal! eu te lastimo!
-    Com pena de te v√™r, meus versos rimo!
-    Eu agora he que bem tenho alcan√ßado
-    Quanto de tudo est√°s necessitado!
+    Com pena de te vÍr, meus versos rimo!
+    Eu agora he que bem tenho alcanÁado
+    Quanto de tudo est·s necessitado!
     Pois perdeste a sciencia, engenho, e arte,
     Que te deo sempre fama em toda a parte.
-    Hoje vejo o teu mal, que n√£o melhora,
-    Se tudo o que precisas vem de f√≥ra.
+    Hoje vejo o teu mal, que n„o melhora,
+    Se tudo o que precisas vem de fÛra.
     Tens nos Collegios Mestres Estrangeiros,
-    Tens de muitas Na√ß√µes cem mezinheiros,
-    Que com p√≥s, e com balsamos subidos
-    V√£o as bocas limpando aos presumidos;
-    E ainda n√£o se dando por contentes,
-    T√© nos querem levar da boca os dentes;
-    Equilibrios, Bal√µes, e Peloticas,
+    Tens de muitas NaÁıes cem mezinheiros,
+    Que com pÛs, e com balsamos subidos
+    V„o as bocas limpando aos presumidos;
+    E ainda n„o se dando por contentes,
+    TÈ nos querem levar da boca os dentes;
+    Equilibrios, Balıes, e Peloticas,
     Urso, e Macacos com trezentas nicas,
     Figurinhas gesso, outras de cera,
     Nynfa, que n'harpa em dedilhar se esmera;
     A Menina, que falla pendurada,
-    A boa Dan√ßarina escripturada,
+    A boa DanÁarina escripturada,
     Que hum par de mil cruzados vem buscar;
-    E n√≥s he que ficamos a dan√ßar!
+    E nÛs he que ficamos a danÁar!
     Outra, que tem a voz quasi divina,
-    Como j√° se chamou √° Zamparina;
+    Como j· se chamou · Zamparina;
     Outro, que engole espadas brancas, pretas,
-    Como n√≥s engulimos estas petas;
+    Como nÛs engulimos estas petas;
     E outras mil subtilezas deste lote;
-    Vistas de pra√ßa, ou sala, ou camarote,
+    Vistas de praÁa, ou sala, ou camarote,
     Com armadilhas taes vem esta gente
     Na vagante esperar a grossa enchente,
-    E carregando v√£o, como as formigas,
+    E carregando v„o, como as formigas,
     Quanto podem tirar destas fadigas!
-    S√≥ Portuguezes nunca tenho visto,
-    Que v√£o aos outros Reinos fazer disto.
-    Estrangeiras Modistas se apresent√£o,
-    Com letreiro √° janella do que invent√£o;
-    Que as Modistas de c√°, bem que trabalh√£o,
-    √Å vista das de f√≥ra j√° n√£o calh√£o.
+    SÛ Portuguezes nunca tenho visto,
+    Que v„o aos outros Reinos fazer disto.
+    Estrangeiras Modistas se apresent„o,
+    Com letreiro · janella do que invent„o;
+    Que as Modistas de c·, bem que trabalh„o,
+    ¡ vista das de fÛra j· n„o calh„o.
     A si se accolhe o pobre aventureiro;
     Porque lhe basta o nome de Estrangeiro,
     Para abrir loja, e ser afortunado.
     Veio do seu paiz esporeado,
     Chegou aqui, poz loja de vestidos;
-    E fic√£o os tafues mui bem sortidos.
+    E fic„o os tafues mui bem sortidos.
     Tem fato para magro, e para gordo,
-    T√© desapparecer, pondo-se a bordo:
+    TÈ desapparecer, pondo-se a bordo:
     Caridade em tal gente sempre luz,
-    Pois vem a Portugal vestir os n√∫s.
+    Pois vem a Portugal vestir os n˙s.
     Mas dizem muitas lingoas mal dizentes
-    Que elles n√£o vestem; vem despir as gentes.
+    Que elles n„o vestem; vem despir as gentes.
     Nada tem escapado, ou esquecido,
     Para o metal, que tinhas, ser sumido.
-    N√≥s gememos em quanto os outros luzem;
-    T√© barricas de pinos se introduzem;
-    Porque o pino de f√≥ra, por mais duro,
-    Deixa o tac√£o mais forte, e mais seguro.
-    Se at√© vejo substancias combinadas,
+    NÛs gememos em quanto os outros luzem;
+    TÈ barricas de pinos se introduzem;
+    Porque o pino de fÛra, por mais duro,
+    Deixa o tac„o mais forte, e mais seguro.
+    Se atÈ vejo substancias combinadas,
     Nos paizes estranhos preparadas,
-    Para p√¥r bom cherume nas panellas,
-    E fazer hum bom molho √°s cabidellas:
+    Para pÙr bom cherume nas panellas,
+    E fazer hum bom molho ·s cabidellas:
     E disto haverem lojas em Lisboa,
-    Que por caixeira tem Madama Gr√¥a!
-    Eu inda espero v√™r na Barra entrados
-    Navios com almo√ßos j√° temp'rados;
+    Que por caixeira tem Madama GrÙa!
+    Eu inda espero vÍr na Barra entrados
+    Navios com almoÁos j· temp'rados;
     Que ha de ser huma cousa bem acceita
-    Vir j√° prompto o Caf√©, torrada feita!
-    Por√©m n√≥s he que disto culpa temos,
-    Porque de n√≥s apre√ßo n√£o fazemos.
-    At√© he riso v√™r, termos trocado
-    O traje, que entre n√≥s foi sempre usado,
-    Pelos trajes de todas as Na√ß√µes,
-    Que abandon√£o √ßapatos, e cal√ß√µes.
-    Nem a meia comprida j√° governa,
+    Vir j· prompto o CafÈ, torrada feita!
+    PorÈm nÛs he que disto culpa temos,
+    Porque de nÛs apreÁo n„o fazemos.
+    AtÈ he riso vÍr, termos trocado
+    O traje, que entre nÛs foi sempre usado,
+    Pelos trajes de todas as NaÁıes,
+    Que abandon„o Áapatos, e calÁıes.
+    Nem a meia comprida j· governa,
     Anda dentro da bota nua a perna,
     Como eu a boa gente tenho visto;
     Os Mouros pouco mais fazem do que isto.
     Vejo entrar em lugares mui sisudos
-    Velhos, e mo√ßos, quaes pintos cal√ßudos,
+    Velhos, e moÁos, quaes pintos calÁudos,
     Pantalonas; polainas de Galegos;
-    S√≥ resta usarem cal√ßas, como os Gregos.
+    SÛ resta usarem calÁas, como os Gregos.
     Confessemos que he este o nosso fraco;
     Que arremedar he o uso do macaco.
 
     Eu vejo pela classe dos Livreiros
-    Lucros tirarem s√≥ os Estranjeiros.
-    Que direi de Edi√ß√µes, que vem de f√≥ra?
-    Fa√ßamos aqui pausa por agora.
-    S√≥ sei que a mocidade, com deleite,
+    Lucros tirarem sÛ os Estranjeiros.
+    Que direi de EdiÁıes, que vem de fÛra?
+    FaÁamos aqui pausa por agora.
+    SÛ sei que a mocidade, com deleite,
     Bebe em taes livros venenoso leite;
-    E os Livreiros de c√° postos √°s moscas;
-    Que as obras Portuguezas s√£o mui toscas;
-    O sainete n√£o tem, nem a belleza,
+    E os Livreiros de c· postos ·s moscas;
+    Que as obras Portuguezas s„o mui toscas;
+    O sainete n„o tem, nem a belleza,
     Que mostra qualquer obra, se he Franceza.
     Arte de cortar callos sem tisoura,
     Modo de conservar a barba loura,
     As Cartas de Madama Patulher,
     A Novella da Meza sem Talher:
-    Instruc√ß√µes, e Preceitos de Dentistas,
+    InstrucÁıes, e Preceitos de Dentistas,
     Invento de crear galos sem cristas.
     O caso he ser Francez o tal livrinho,
     Que he da meza d'agora o melhor vinho.
@@ -752,128 +752,128 @@ PORTUGAL ENFERMO PELOS VICIOS, E ABUSOS.
     Outros de Enterro, que he que mais gastamos,
     Letras de Cambio, Pautas, Taboada,
     Roteiros de Pilotos, e mais nada.
-    Parece que ninguem j√° hoje estima
-    Composi√ß√µes em Prosa, nem em Rima.
+    Parece que ninguem j· hoje estima
+    ComposiÁıes em Prosa, nem em Rima.
     Acabou todo o gosto da Leitura,
     Tudo vejo mudado de figura.
-    Nas obras, que se imprimem, (n√£o se cr√™)
-    Ha tal, que assigna, accoita, e n√£o as l√™!
+    Nas obras, que se imprimem, (n„o se crÍ)
+    Ha tal, que assigna, accoita, e n„o as lÍ!
     N'hum destes o trabalho se perdeo,
-    Que n√£o p√≥de achar gosto ao que n√£o l√™o.
+    Que n„o pÛde achar gosto ao que n„o lÍo.
 
     Portugal, Portugal! tu tens comtigo
-    Immensa gente, de quem √©s abrigo,
-    Que devendo-te mil obriga√ß√µes,
-    Mostrar-te sabem s√≥ ingratid√µes.
+    Immensa gente, de quem Ès abrigo,
+    Que devendo-te mil obrigaÁıes,
+    Mostrar-te sabem sÛ ingratidıes.
     A primeira, que vejo praticar-se,
     He nada, do que he teu, hoje estimar-se.
-    Fabricantes de c√° morrem de fome;
+    Fabricantes de c· morrem de fome;
     A sedinha estrangeira he que tem nome.
-    N√£o valem nada Artistas Portuguezes;
-    Os de f√≥ra s√£o s√≥ as boas rezes.
-    As obras do Paiz n√£o s√£o perfeitas,
-    N√£o tem fama, ou valor, s√£o mal acceitas;
-    Mas a quinquilheria de arma√ß√£o,
-    Se he de f√≥ra, tem logo estima√ß√£o,
+    N„o valem nada Artistas Portuguezes;
+    Os de fÛra s„o sÛ as boas rezes.
+    As obras do Paiz n„o s„o perfeitas,
+    N„o tem fama, ou valor, s„o mal acceitas;
+    Mas a quinquilheria de armaÁ„o,
+    Se he de fÛra, tem logo estimaÁ„o,
     E serve para o luxo, e para a moda,
-    Que Damas, e Taf√∫es tudo se engoda
+    Que Damas, e Taf˙es tudo se engoda
     Com estas bugiarias de tecidos
     De pedraria falsa, ouros fingidos;
-    T√© vemos entre tantas bagatellas
+    TÈ vemos entre tantas bagatellas
     Os Mouros com caixotes de chinelas,
-    E t√£o bem feitas como os seus narizes,
-    Que bem mostr√£o ser obra de aprendizes.
+    E t„o bem feitas como os seus narizes,
+    Que bem mostr„o ser obra de aprendizes.
     Todos tem aqui seu manancial,
-    At√© ficarmos todos sem real.
-    N'outro tempo hum Fidalgo desta C√¥rte,
+    AtÈ ficarmos todos sem real.
+    N'outro tempo hum Fidalgo desta CÙrte,
     Homem de bom pensar, e de bom porte,
     Puxou por huma caixa rica, e boa,
     Feita por certo Ourives de Lisboa.
-    Todos os circumstantes, que se achav√£o
-    Sentados ao jantar, vendo-a, pasmav√£o
-    Por tanta perfei√ß√£o, lavor, e arte,
+    Todos os circumstantes, que se achav„o
+    Sentados ao jantar, vendo-a, pasmav„o
+    Por tanta perfeiÁ„o, lavor, e arte,
     Que se lhe descobria em toda a parte.
     Na mente de ser obra estrangeirada,
     Foi por todos a caixa elogiada.
     Logo o dono da casa mui gostoso,
     Porque ficasse o Ourives mais famoso,
     Conhecer mesmo alli a todos fez
-    M√£o d'obra ser de Ourives Portuguez.
+    M„o d'obra ser de Ourives Portuguez.
     Apenas semelhante voz se larga,
     Como quem prova cousa, que lhe amarga,
     Hum notava d'alli certo defeito,
     Outro lhe achava falta de preceito.
-    Ent√£o o bom Fidalgo decisivo
+    Ent„o o bom Fidalgo decisivo
     Os reprehendeo dizendo: Eis o motivo,
-    Porque a nossa Na√ß√£o tanto padece,
-    E entre as outras Na√ß√µes nunca florece;
-    N√≥s he que assim fazemos desgra√ßados
+    Porque a nossa NaÁ„o tanto padece,
+    E entre as outras NaÁıes nunca florece;
+    NÛs he que assim fazemos desgraÁados
     Homens, que devem ser eternizados;
-    E estes devem queixar-se com raz√£o,
-    Vendo dos seus o premio, que lhes d√£o.
+    E estes devem queixar-se com raz„o,
+    Vendo dos seus o premio, que lhes d„o.
 
     Portugal, Portugal! eu te lastimo!
-    Porque sou pr√≥le tua mais te estimo!
-    Pois n√£o entro no rol das almas fracas,
-    Que a tudo, e a todos v√≠r√£o as casacas!
+    Porque sou prÛle tua mais te estimo!
+    Pois n„o entro no rol das almas fracas,
+    Que a tudo, e a todos vÌr„o as casacas!
     Eu vejo formigueiros de usurarios,
-    Que v√£o muito subt√≠s por modos varios
+    Que v„o muito subtÌs por modos varios
     Movendo sagazmente a real mola,
-    At√© tudo ficar pedindo esmola.
+    AtÈ tudo ficar pedindo esmola.
     Some-se pouco a pouco o numerario,
-    Todos v√£o lendo o mesmo breviario;
-    Para a vida mui poucas cousas bast√£o,
-    As superfluas s√£o as que mais gast√£o;
+    Todos v„o lendo o mesmo breviario;
+    Para a vida mui poucas cousas bast„o,
+    As superfluas s„o as que mais gast„o;
     O luxo, os appetites, as vaidades,
-    A grande emula√ß√£o das amizades:
-    S√≥ porque usa Fulana, e traja assim,
-    Quer√™llas desbancar he logo o fim:
-    Isto em todas as cousas se est√° vendo,
+    A grande emulaÁ„o das amizades:
+    SÛ porque usa Fulana, e traja assim,
+    QuerÍllas desbancar he logo o fim:
+    Isto em todas as cousas se est· vendo,
     Donde nasce o calote, e empenho horrendo;
-    Que inda vendo que os lucros n√£o acodem,
+    Que inda vendo que os lucros n„o acodem,
     Todos querem fazer mais do que podem:
-    Por isso hoje bons trastes s√£o vendidos,
-    Que se herd√°r√£o de Av√≥s mais comedidos;
+    Por isso hoje bons trastes s„o vendidos,
+    Que se herd·r„o de AvÛs mais comedidos;
     Se estes das sepulturas resurgissem,
     Talvez ficassem doudos do que vissem!
-    Destruindo-se assim, sem reflex√£o,
-    Cousas que tinh√£o tanta estima√ß√£o;
+    Destruindo-se assim, sem reflex„o,
+    Cousas que tinh„o tanta estimaÁ„o;
     Que antes do que as penhoras as escalem,
-    V√£o pela ter√ßa parte do que valem;
+    V„o pela terÁa parte do que valem;
     E ainda compradoras custa a achar,
-    Porque todos est√£o a jejuar.
+    Porque todos est„o a jejuar.
     Grande cousa he viver hoje demente,
-    Para n√£o dar valor ao que se sente!
-    Inquieta√ß√µes, costumes, tempo, e mundo,
+    Para n„o dar valor ao que se sente!
+    InquietaÁıes, costumes, tempo, e mundo,
     Tudo atira c'os os homens para o fundo
-    Porque por mais que nadem na desgra√ßa,
-    Velhice, Doen√ßa, e Morte, os amea√ßa:
+    Porque por mais que nadem na desgraÁa,
+    Velhice, DoenÁa, e Morte, os ameaÁa:
     No que passamos, temos o presagio
     De ninguem escapar deste naufragio:
-    Por√©m no mar dos damnos a tormenta,
+    PorÈm no mar dos damnos a tormenta,
     Nem o Ceo, nem a terra he que a fomenta:
-    Huns aos outros n√≥s mesmos atormentamos,
-    Com cora√ß√£o de bronze, flagellamos:
-    S√≥ o proprio interesse he que nos guia
+    Huns aos outros nÛs mesmos atormentamos,
+    Com coraÁ„o de bronze, flagellamos:
+    SÛ o proprio interesse he que nos guia
     E pene quem penar nesta ingrezia.
     Assim dando se vai cabo de tudo,
-    T√© acabarmos todos em agudo:
+    TÈ acabarmos todos em agudo:
     Todos vamos ficando como espetos,
     Em tristes descarnados esqueletos,
-    Huns de calvas √° mostra, outros tapadas,
-    Que a urgencia faz cabe√ßas escalvadas;
+    Huns de calvas · mostra, outros tapadas,
+    Que a urgencia faz cabeÁas escalvadas;
     Seguem-se os estupores, e malinas,
     Paralysias, mortes repentinas.
     Nunca vi tantos homens com achaques
-    Pelas repeti√ß√µes destes ataques.
-    Nestes tempos s√≥ vive satisfeito
+    Pelas repetiÁıes destes ataques.
+    Nestes tempos sÛ vive satisfeito
     O homem de baixa esfera, porque o peito
-    N√£o toma nem fortuna, nem desgra√ßa;
+    N„o toma nem fortuna, nem desgraÁa;
     Com o pouco, que tem, com isso passa;
-    Pois n√£o pez√£o sobre elle obriga√ß√µes
-    De familias com certas sujei√ß√µes.
+    Pois n„o pez„o sobre elle obrigaÁıes
+    De familias com certas sujeiÁıes.
     O homem de bens, de honrados sentimentos
-    Vive sem ter resur√ßa hoje em tormentos;
+    Vive sem ter resurÁa hoje em tormentos;
     Vive, mas hum viver apouquentado,
     Com a fome, e miseria sempre ao lado.
     Porque hum pai de familias com despeza,
@@ -881,87 +881,87 @@ PORTUGAL ENFERMO PELOS VICIOS, E ABUSOS.
     Se nas faltas, que sente, mais discorre,
     Chora, pasma, esmorece, abate, e morre.
     Ora seja em desconto de peccados,
-    Irmos todos √° cova entisicados!
-    Para n√£o carregarmos aos irm√£os,
-    Que and√£o tambem (coitados!) pouco s√£os.
+    Irmos todos · cova entisicados!
+    Para n„o carregarmos aos irm„os,
+    Que and„o tambem (coitados!) pouco s„os.
 
     Eu vejo cambiar, vender dinheiro,
-    Que p√µe quem compra, e vende de poleiro;
+    Que pıe quem compra, e vende de poleiro;
     E os pobres opprimidos, arrastados,
-    Que estes s√£o quasi sempre os cambiados.
+    Que estes s„o quasi sempre os cambiados.
     E pegou em Lisboa o novo officio,
     Com a capa de ser hum beneficio:
-    Tudo especula√ß√µes destes Senhores
-    Compassivos, civ√≠s rebatedores,
-    Que pud√©r√£o achar seguro meio
-    De mostrar n√£o querer suor alheio;
+    Tudo especulaÁıes destes Senhores
+    Compassivos, civÌs rebatedores,
+    Que pudÈr„o achar seguro meio
+    De mostrar n„o querer suor alheio;
     Porque _in verbo_ papel a conta he justa,
     Pois o vendem por menos que lhes custa;
     E mostra na consciencia ser exacto
     Quem compra caro, e vende mais barato.
-    Disto nossos Av√≥s nunca tiver√£o;
-    For√£o-se, n√£o sabendo o que perd√™r√£o.
+    Disto nossos AvÛs nunca tiver„o;
+    For„o-se, n„o sabendo o que perdÍr„o.
     Parece que por manha, ou por estudo,
     Se esconde o ouro, e prata, cobre, e tudo,
     A fim de com tal fome, e taes empates,
-    N√£o se acabar a praga dos rebates.
+    N„o se acabar a praga dos rebates.
     Lembro-me que na minha mocidade
     Tinha o dinheiro a mesma validade;
     Hoje o Papel Moeda dominante
     Sempre o recebo em quarto minguante;
-    Pois se em metal o quero v√™r tornado,
+    Pois se em metal o quero vÍr tornado,
     Logo he por _manos limpias_ maquiado.
-    Por√©m do mal o menos, feliz eu,
-    Se alcan√ßasse em Papel tudo o que he meu.
+    PorÈm do mal o menos, feliz eu,
+    Se alcanÁasse em Papel tudo o que he meu.
     Se o dinheiro se vende assim patente,
-    Tambem se vende gente √° mesma gente.
-    O Commercio afrouxou, todos se chor√£o,
-    Vendo que de fortuna n√£o melhor√£o.
-    Tem atacado a Pra√ßa em viva guerra
+    Tambem se vende gente · mesma gente.
+    O Commercio afrouxou, todos se chor„o,
+    Vendo que de fortuna n„o melhor„o.
+    Tem atacado a PraÁa em viva guerra
     Tantos Piratas, que ha por mar, e terra.
-    S√£o entre n√≥s fazendas genuinas.
+    S„o entre nÛs fazendas genuinas.
     Chinelas, suspensorios, lamparinas,
-    Papeis de casti√ßaes, graixa a tost√£o,
-    Caixas de obr√™as, bolas de carv√£o.
-    As esc√¥vas, que d√£o lustros mimosos,
-    Porque inda n√£o estamos bem lustrosos.
-    S√≥ nisto he que se faz algum negocio,
+    Papeis de castiÁaes, graixa a tost„o,
+    Caixas de obrÍas, bolas de carv„o.
+    As escÙvas, que d„o lustros mimosos,
+    Porque inda n„o estamos bem lustrosos.
+    SÛ nisto he que se faz algum negocio,
     Tudo o mais pede chuva posto em ocio.
 
-    Eu vejo homens hyp√≥critas tratando
+    Eu vejo homens hypÛcritas tratando
     Negocios de ir os outros depennando
     Com fallas divinas, astutas manhas,
     Com Deos na boca, e o demo nas entranhas.
-    N√£o querem encarregos para a morte,
-    Por isso se regul√£o desta sorte.
+    N„o querem encarregos para a morte,
+    Por isso se regul„o desta sorte.
     He desta gente o calculo seguinte;
     Tudo que vale cem, comprar por vinte.
-    Alminhas boas, que and√£o entre n√≥s!
-    Que do dinheiro s√£o sempre hum cadoz.
+    Alminhas boas, que and„o entre nÛs!
+    Que do dinheiro s„o sempre hum cadoz.
     Eu rio quando vejo estes beatos,
     Sanguisugas, e esponjas de contratos;
     De olhos meios fechados a fallarem,
-    At√© os seus int'resses ultimarem;
+    AtÈ os seus int'resses ultimarem;
     Mas depois dos ajustes serem feitos,
     Abrem os olhos tortos, ou direitos,
-    Ora pondo-os no ch√£o, ora no C√©o,
-    Que este he da hypocrisia o grande v√©o:
-    T√© que lhe chega √°s vezes neste estudo
-    Rev√©z, em que o diabo leva tudo.
+    Ora pondo-os no ch„o, ora no CÈo,
+    Que este he da hypocrisia o grande vÈo:
+    TÈ que lhe chega ·s vezes neste estudo
+    RevÈz, em que o diabo leva tudo.
 
     Portugal, Portugal! eu te lastimo!
     E quando te analyso, desanimo!
     Destes estratagemas, e usos novos
-    Prov√©m os muitos damnos dos teus Povos,
+    ProvÈm os muitos damnos dos teus Povos,
     Eu vejo certos homens presumidos,
-    E nos cargos, que tem, t√£o embebidos,
-    Que por viverem fartos sem desgra√ßa,
-    Assent√£o que s√£o feitos de outra massa,
-    E mostr√£o se a fallar todos inchados,
-    Que parecem per√∫s enchouri√ßados,
+    E nos cargos, que tem, t„o embebidos,
+    Que por viverem fartos sem desgraÁa,
+    Assent„o que s„o feitos de outra massa,
+    E mostr„o se a fallar todos inchados,
+    Que parecem per˙s enchouriÁados,
     As palavras soltando, como Oraculo,
     Decidindo por si em todo o obstaculo:
-    Tratando os que lhes s√£o inferiores,
+    Tratando os que lhes s„o inferiores,
     Com soberba, impostura, e dissabores,
     Sem verem que huma falla mais ardente
     Dobra o flagello ao triste dependente;
@@ -970,44 +970,44 @@ PORTUGAL ENFERMO PELOS VICIOS, E ABUSOS.
 
     Eu vejo homens de grandes ordenados,
     Que fazem os dos outros ser quartados;
-    Os que elles tem, sempre ach√£o ser pequenos,
+    Os que elles tem, sempre ach„o ser pequenos,
     Mas querem que o dos outros fique em menos;
-    Que o triste p√£o, que o empregado come,
+    Que o triste p„o, que o empregado come,
     He que augmenta a despesa, e que faz nome;
-    Mas o que elles desfrut√£o inda occulto
-    He huma bagatella, n√£o faz vulto.
-    N√£o maculo ninguem, por√©m ha disto,
+    Mas o que elles desfrut„o inda occulto
+    He huma bagatella, n„o faz vulto.
+    N„o maculo ninguem, porÈm ha disto,
     Como eu por muitas vezes tenho visto.
-    Isto com alvo certo n√£o se entende;
+    Isto com alvo certo n„o se entende;
     Quem tiver este vicio, que se emende,
-    E singular fazer-se n√£o intente
-    √Å custa do flagello da outra gente.
+    E singular fazer-se n„o intente
+    ¡ custa do flagello da outra gente.
 
-    Eu vejo t√© nas mesmas Irmandades
+    Eu vejo tÈ nas mesmas Irmandades
     Disputarem-se em meza qualidades;
-    E nos p√∫blicos actos distinc√ß√µes,
-    Como se a Deos servissem gera√ß√µes;
-    Quando a Igreja √© a M√£i do rico, e pobre,
-    Do velho, e mo√ßo, do pleb√©o, e nobre.
-    Por√©m assombrar isto me n√£o deve;
+    E nos p˙blicos actos distincÁıes,
+    Como se a Deos servissem geraÁıes;
+    Quando a Igreja È a M„i do rico, e pobre,
+    Do velho, e moÁo, do plebÈo, e nobre.
+    PorÈm assombrar isto me n„o deve;
     Se ha Juiz de irmandade, que se atreve
     A separar na Igreja o challe, e a manta
-    Da capa e len√ßo; isto mais espanta.
+    Da capa e lenÁo; isto mais espanta.
 
     Eu vejo gente mui temente a Deos,
-    Que at√© quer penetrar segredos seus.
-    Prognosticando est√° tremor de terra,...[4]
+    Que atÈ quer penetrar segredos seus.
+    Prognosticando est· tremor de terra,...[4]
     Bem como se o tremor fosse huma guerra,
     Que os homens entre si movem, se querem,
-    S√≥ pelos seus caprichos defenderem.
-    Se o Repertorio d√©sse hum tremor certo,
+    SÛ pelos seus caprichos defenderem.
+    Se o Repertorio dÈsse hum tremor certo,
     Tinhamos hum Profeta descuberto;
     Que os fundos mineraes em quem bem pensa,
-    P√≥dem casar co' os astros sem dispensa;
+    PÛdem casar co' os astros sem dispensa;
     Nem Deos castigo algum ao mundo envia
     Por calculos geraes d'Astrologia.
-    Mas he para pasmar v√™r que houve gente
-    T√£o cr√©dula, t√£o frouxa, t√£o demente,
+    Mas he para pasmar vÍr que houve gente
+    T„o crÈdula, t„o frouxa, t„o demente,
     Que para o campo grande se ausentava
     Com susto do tremor, que se esperava!
     Como se taes estragos, e ruinas
@@ -1018,121 +1018,121 @@ PORTUGAL ENFERMO PELOS VICIOS, E ABUSOS.
     Onde a gente passou a noite inteira
     Em huma companhia historiada.
     A noite das fogueiras em Almada
-    N√£o se passa com mais satisfa√ß√£o!
-    Foi huma noite mais de S√£o Jo√£o!
-    Com medo do tremor, que n√£o havia,
-    Na vespera fugi√£o j√° de dia
+    N„o se passa com mais satisfaÁ„o!
+    Foi huma noite mais de S„o Jo„o!
+    Com medo do tremor, que n„o havia,
+    Na vespera fugi„o j· de dia
     Para o campo lindissimas mochachas
     Com os seus taboleiros de bolachas.
-    Homens de quartas de agoa se ajunt√°r√£o,
-    Que apezar do seu medo, inda lucr√°r√£o.
-    De guitarras s√≥mente havia falta,
+    Homens de quartas de agoa se ajunt·r„o,
+    Que apezar do seu medo, inda lucr·r„o.
+    De guitarras sÛmente havia falta,
     Que he com que nas Gavotas mais se salta.
-    N√£o se fazia Ter√ßo, ou Ora√ß√£o,
-    Porque o susto p√¥z tudo em confus√£o.
+    N„o se fazia TerÁo, ou OraÁ„o,
+    Porque o susto pÙz tudo em confus„o.
     Se viesse instrumento, tarde, ou cedo,
-    Perdi√£o as meninas mais o medo.
-    De acabar com os homens j√° s√£o horas;
-    Vamos ajustar contas √°s Senhoras.
+    Perdi„o as meninas mais o medo.
+    De acabar com os homens j· s„o horas;
+    Vamos ajustar contas ·s Senhoras.
 
     Eu vejo o luxo as bolsas devorando,
     E as Fabricas estranhas sustentando,
-    Pondo a nossa Na√ß√£o empobrecida
+    Pondo a nossa NaÁ„o empobrecida
     Co' appetite das modas illudida.
     Cada mez huma cousa de outro gosto,
-    Que a maridos, e pais lhes d√° de rosto.
+    Que a maridos, e pais lhes d· de rosto.
     E as tafulas cahindo a todo o risco,
     Bem como o passarinho cahe no visco:
     Vestidos de magnifico valor,
-    Chailes, e mantas de mimosa c√¥r.
-    Muitas diversidades de fil√≥s,
-    E outras taes tenta√ß√µes: pobres de n√≥s!
-    Eu vejo muita cousa vir de Fran√ßa,
-    Enfeites, que de os v√™r a vista can√ßa;
-    T√© cabelleiras vem para Senhoras,
-    A quem as calvas s√£o mui devedoras,
+    Chailes, e mantas de mimosa cÙr.
+    Muitas diversidades de filÛs,
+    E outras taes tentaÁıes: pobres de nÛs!
+    Eu vejo muita cousa vir de FranÁa,
+    Enfeites, que de os vÍr a vista canÁa;
+    TÈ cabelleiras vem para Senhoras,
+    A quem as calvas s„o mui devedoras,
     Feitas de coifa elastica, e mui preta,
-    Com hum mon√™te, em ar de ma√ßaneta:
-    Por√©m estes modernos penteados.
+    Com hum monÍte, em ar de maÁaneta:
+    PorÈm estes modernos penteados.
     De cabellos puxados, repuxados,
-    As cabe√ßas v√£o pondo em tal figura,
+    As cabeÁas v„o pondo em tal figura,
     Que fazem seja calva a formosura.
-    De Fran√ßa nos vem outra corriola,
-    De que us√£o as Senhoras como estola:
+    De FranÁa nos vem outra corriola,
+    De que us„o as Senhoras como estola:
     He numa tira elastica de rufos,
-    De espa√ßo a espa√ßo tem tambem seus tufos,
-    E cham√£o-lhes da moda as inventoras
+    De espaÁo a espaÁo tem tambem seus tufos,
+    E cham„o-lhes da moda as inventoras
     Os modernos caprichos das Senhoras:
-    Cust√£o a tres mil r√©is, outros a mais;
+    Cust„o a tres mil rÈis, outros a mais;
     E assim com estas cousas, e outras tais,
     Vem o sagaz, e o lepido estrangeiro,
     A trocar aqui trapos, por dinheiro.
-    Resta virem de Fran√ßa bem bordados,
+    Resta virem de FranÁa bem bordados,
     Elasticos cueiros perfumados,
     Que ha de ser hum aceio bem acceito
-    Para tanta crian√ßa que ha de peito.
+    Para tanta crianÁa que ha de peito.
     A filha da arrastada vendedeira
-    Quer trajar √° fidalga, e ser primeira.
+    Quer trajar · fidalga, e ser primeira.
     Leiteiras, e outras taes eu tenho visto,
-    Que de todas as modas s√£o hum misto;
-    Atr√°s de hum burro de ceir√£o can√ßadas,
+    Que de todas as modas s„o hum misto;
+    Atr·s de hum burro de ceir„o canÁadas,
     De rufos, e de folhos enfeitadas,
-    Que v√£o com estas v√£s tafularias
+    Que v„o com estas v„s tafularias
     Vendendo leite, nabos, melancias;
     Mas no que esta gentalha tem errado
-    He n√£o conhecer bem o seu estado;
-    Querendo co'a mais louca presump√ß√£o
-    Huns, e outros mostrar o que n√£o s√£o:
+    He n„o conhecer bem o seu estado;
+    Querendo co'a mais louca presumpÁ„o
+    Huns, e outros mostrar o que n„o s„o:
     Procedendo huma tal desigualdade
     Da falta de juizo, e honestidade.
-    E porque n√£o ha nisto meio termo,
+    E porque n„o ha nisto meio termo,
     Te vejo, Portugal, bastante enfermo!
-    Da f√≥rma que isto indico, n√£o insulto;
-    Mas p√≥de percebello o mais estulto.
+    Da fÛrma que isto indico, n„o insulto;
+    Mas pÛde percebello o mais estulto.
 
     As nossas circumstancias, nosso estado
     Pedem hum viver hoje acautelado.
     Os tempos para o rico, e para o pobre
-    J√° s√£o de pouca prata, e muito cobre.
-    Ninguem p√≥de fazer hoje thesouro,
-    He hum milagre o v√™r quartinho em ouro:
+    J· s„o de pouca prata, e muito cobre.
+    Ninguem pÛde fazer hoje thesouro,
+    He hum milagre o vÍr quartinho em ouro:
     Muito faz quem com boa economia
     Se sustentar hum dia, e outra dia;
     Que se entrudos fizer amiudados,
     Ha de ter muitos dias de finados.
-    Luxo na m√™za, luxo no vestido,
-    Pelas fun√ß√µes hum luxo desmedido,
+    Luxo na mÍza, luxo no vestido,
+    Pelas funÁıes hum luxo desmedido,
     No fim se lhe acha o erro que desgosta;
-    Por isso tantas n√°os tem dado √° costa!
+    Por isso tantas n·os tem dado · costa!
 
     Eu vejo reviver nos nossos dias
     Das velhas as ridiculas manias
-    De verem cousas m√°s, pregando pe√ßas,
+    De verem cousas m·s, pregando peÁas,
     A pedir Missas, a ultimar Promessas,
-    Deixando-as as vis√µes, que lhes fall√°r√£o,
-    T√£o doentes do susto, que mam√°r√£o,
-    Que se queix√£o de dores nas barrigas,
+    Deixando-as as visıes, que lhes fall·r„o,
+    T„o doentes do susto, que mam·r„o,
+    Que se queix„o de dores nas barrigas,
     Talvez por hemorroides, ou lombrigas.
     Huma diz que observou, outra que vio,
-    Outra que at√© na cama lhe bolio.
+    Outra que atÈ na cama lhe bolio.
     Ha pouco em certa casa huma donzella
     Levantou por medrosa huma balella,
-    Porque sentio √° roda do seu leito
-    Andar hum ermit√£o muito direito.
+    Porque sentio · roda do seu leito
+    Andar hum ermit„o muito direito.
     Logo huma desdentada velha tia
     Respondeo, que de noite ella sentia
     Jogar-se pela salla muito a bola,
     E outras vezes tambem tocar viola:
     Que guardava comsigo este segredo,
-    Porque a familia n√£o tomasse medo.
+    Porque a familia n„o tomasse medo.
     Acudio a criada delampeira,
     Levantando na casa igual poeira,
-    Dizendo que ella vio na chamin√©
-    Hum pretinho pequeno posto em p√©:
+    Dizendo que ella vio na chaminÈ
+    Hum pretinho pequeno posto em pÈ:
     Que vira fora de horas na cosinha
     A cantar, como gallo, huma gallinha,
-    E que lhe for√£o p√¥r o seu capote,
-    E c√¥co de esfregar dentro do pote.
+    E que lhe for„o pÙr o seu capote,
+    E cÙco de esfregar dentro do pote.
     Mas tudo isto fazia hum tal criado,
     Que andava da criada namorado;
     Porque o dono da casa com disfarce,
@@ -1140,160 +1140,160 @@ PORTUGAL ENFERMO PELOS VICIOS, E ABUSOS.
     Foi-se na carvoeira introduzir
     De noite, sem ninguem o presumir;
     E vendo na alta noite bem a fundo
-    Duas almas, que inda er√£o deste mundo,
-    Que era o mo√ßo co' a mo√ßa conversando,
+    Duas almas, que inda er„o deste mundo,
+    Que era o moÁo co' a moÁa conversando,
     Ao encontro sahio, mas perguntando:
-    Que queri√£o d'alli, ou a que vinh√£o?
-    Ou se restitui√ß√µes algumas tinh√£o?
+    Que queri„o d'alli, ou a que vinh„o?
+    Ou se restituiÁıes algumas tinh„o?
     Que trazia hum arrocho exp'rimentado,
     Para lhes acabar aquelle fado.
     E depois de molhar a sua sopa,
-    Impoz pela manh√£, com vento em p√¥pa,
-    As duas cousas m√°s, e nesse dia
-    √Å familia pagou igual quantia.
+    Impoz pela manh„, com vento em pÙpa,
+    As duas cousas m·s, e nesse dia
+    ¡ familia pagou igual quantia.
 
     Tambem em Campolide hoje acontece
     Hum caso, que aos das velhas se parece.
-    Pois houve hum pobre alarve, que morr√™o,
+    Pois houve hum pobre alarve, que morrÍo,
     E a seu filho em fantasma appareceo,
     Determinando a venda de huma vacca,
     Para pagar o panno da borjaca,
     Que escava ao mercador inda devendo,
     Por cuja causa andava padecendo.
     O filho foi fallar-lhe, por esperto,
-    Por√©m veio de l√° de horror cuberto;
-    Cahio na cama tr√©mulo, e doente,
-    Que inda concorre a ir v√™llo muita gente.
+    PorÈm veio de l· de horror cuberto;
+    Cahio na cama trÈmulo, e doente,
+    Que inda concorre a ir vÍllo muita gente.
 
-    As cousas m√°s ser√£o cousa mui boa,
-    Huma vez que appare√ß√£o por Lisboa;
+    As cousas m·s ser„o cousa mui boa,
+    Huma vez que appareÁ„o por Lisboa;
     Porque havendo nas casas esta fama,
     Foi-se dos Senhorios a derrama,
-    Que v√£o a excesso tal subindo a renda,
-    Que n√£o ha j√° com casas quem se entenda;
+    Que v„o a excesso tal subindo a renda,
+    Que n„o ha j· com casas quem se entenda;
     E se o inquilino pede huma equidade,
-    Tir√£o-lhe seis tost√µes por caridade.
-    Por√©m motins de noite nos sobrados,
-    Fantasmas de len√ßoes pelos telhados,
+    Tir„o-lhe seis tostıes por caridade.
+    PorÈm motins de noite nos sobrados,
+    Fantasmas de lenÁoes pelos telhados,
     Deitada a fama destas pataratas,
-    S√≥ assim se achar√£o casas baratas.
+    SÛ assim se achar„o casas baratas.
 
     Eu vejo das Tafulas a mania
-    No luxo, com t√£o grande bizarria,
-    Que parece, que perdem da lembran√ßa
-    Da vida √° morte a funebre mudan√ßa;
+    No luxo, com t„o grande bizarria,
+    Que parece, que perdem da lembranÁa
+    Da vida · morte a funebre mudanÁa;
     Engolfadas na moda dos vestidos,
-    Nas guarni√ß√µes, nos f√¥lhos, e franzidos,
-    N√£o lhes vem hum instante ao pensamento
+    Nas guarniÁıes, nos fÙlhos, e franzidos,
+    N„o lhes vem hum instante ao pensamento
     Da guerra, fome, e peste o abatimento.
-    Quem v√™, que pelo mundo ha destes p'rigos,
+    Quem vÍ, que pelo mundo ha destes p'rigos,
     Deve temellos mais, como castigos
     Das vaidades, caprichos, soberbias,
     Desmazelos, excessos, fantasias;
-    E p√¥r a tanto luxo hum meio termo,
+    E pÙr a tanto luxo hum meio termo,
     Que serve de enfeitar hum corpo enfermo.
     O tempo em consumir-nos he veloz,
-    N√£o respeita Toukins, Rendas, Fil√≥s;
+    N„o respeita Toukins, Rendas, FilÛs;
     He preciso pensar, com seriedade,
     N'um tempo de huma tal calamidade!
     Reformando-se vidas, e costumes,
-    Que este tempo n√£o he de antigos Numes,
-    Huns fabulosos Deoses, que illudi√£o
-    Os povos, que a seu gosto he que os fazi√£o.
-    Vigia sobre n√≥s a M√ÉO ETERNA,
+    Que este tempo n„o he de antigos Numes,
+    Huns fabulosos Deoses, que illudi„o
+    Os povos, que a seu gosto he que os fazi„o.
+    Vigia sobre nÛs a M√O ETERNA,
     Que nos castiga, ampara, e nos governa;
-    Escandaliza aos olhos da raz√£o,
-    Tanta desenvoltura, e perdi√ß√£o.
+    Escandaliza aos olhos da raz„o,
+    Tanta desenvoltura, e perdiÁ„o.
 
-    Tocando nas que s√£o de baixa esfera,
-    Esta gente tambem n√£o se modera;
+    Tocando nas que s„o de baixa esfera,
+    Esta gente tambem n„o se modera;
     Raparigas de brutos o retrato,
-    Nutridas s√≥, de vicios, sem recato,
+    Nutridas sÛ, de vicios, sem recato,
     Criadas sem algum regulamento,
     Nem querem trabalhar para o sustento;
-    N√£o busc√£o de servir decentes meios,
-    N√£o querem aturar genios alheios;
+    N„o busc„o de servir decentes meios,
+    N„o querem aturar genios alheios;
     Quando muitas, que em casas tem servido.
     Fortunas tem achado, e bom marido;
     Mas querem exceder os seus limites,
     Sustentar luzimentos, e appetites,
-    Nos p√©ssimos int'resses embebidas,
-    Se fazem desgra√ßadas, e perdidas,
-    M√°os exemplos de M√£is, Pais inhumanos,
-    He que p√µem estas tristes em taes damnos;
-    A M√£i, que a filha achar por manha tonta,
-    Huma tunda lhe d√™, por minha conta.
+    Nos pÈssimos int'resses embebidas,
+    Se fazem desgraÁadas, e perdidas,
+    M·os exemplos de M„is, Pais inhumanos,
+    He que pıem estas tristes em taes damnos;
+    A M„i, que a filha achar por manha tonta,
+    Huma tunda lhe dÍ, por minha conta.
 
     Vejo muitas Senhoras pela rua,
     Como se andassem pela casa sua,
-    De s√°ia, e de jaleco sem mais nada,
-    A cabe√ßa composta de palhada,
-    Na m√£o o indispensavel, n'outra o leque,
-    Andando como doudas, t√©que t√©que:
-    E isto sempre com tal desembara√ßo,
-    Que hum passo n√£o alcan√ßa o outro passo.
+    De s·ia, e de jaleco sem mais nada,
+    A cabeÁa composta de palhada,
+    Na m„o o indispensavel, n'outra o leque,
+    Andando como doudas, tÈque tÈque:
+    E isto sempre com tal desembaraÁo,
+    Que hum passo n„o alcanÁa o outro passo.
     Sem chaile, manta, capa, nem capote,
     Tendo a desenvoltura por hum dote:
     Perdida assim aquella gravidade
-    Das s√©rias Portuguezas d'outra idade.
-    N√£o digo, nem direi que he uso em todas
+    Das sÈrias Portuguezas d'outra idade.
+    N„o digo, nem direi que he uso em todas
     Os excessos ridiculos das modas,
     Inda ha muitas familias commedidas,
-    Honestas, s√©rias, graves, bem regidas.
-    Fallo da que na rua encontro s√≥,
-    Sem M√£i, tia, cunhada, nem av√≥:
+    Honestas, sÈrias, graves, bem regidas.
+    Fallo da que na rua encontro sÛ,
+    Sem M„i, tia, cunhada, nem avÛ:
     Bem como a expatriada taverneira,
     Que partio do seu reino aventureira,
-    Para p√¥r em Lisboa em qualquer parte
-    Tasca com hum fog√£o, e hum estandarte;
+    Para pÙr em Lisboa em qualquer parte
+    Tasca com hum fog„o, e hum estandarte;
     E que sem mais decencia, nem reparo,
-    Vai √°s pra√ßas comprar o seu preparo,
-    Com vestido de chita, n√∫s os bra√ßos,
-    Touca de folhos liza, ou com seus la√ßos.
+    Vai ·s praÁas comprar o seu preparo,
+    Com vestido de chita, n˙s os braÁos,
+    Touca de folhos liza, ou com seus laÁos.
     Por isto os homens todos mais se atrevem,
-    Quando fallando est√£o, ou quando escrevem
+    Quando fallando est„o, ou quando escrevem
     Contra hum sexo, que sempre foi perfeito,
     Mas que em parte vai tendo algum defeito
-    Nos trajes, que adoptou √° estrangeira,
-    Com a capa de ser tudo √° ligeira.
+    Nos trajes, que adoptou · estrangeira,
+    Com a capa de ser tudo · ligeira.
 
-    Ah mantos, mantos! tempo aben√ßoado,
+    Ah mantos, mantos! tempo abenÁoado,
     Em que tudo se via respeitado!
-    Inda que ou√ßo dizer a alguns espertos,
-    Que os olhos est√£o hoje muito abertos.
-    Tom√°ra perguntar-lhes: Que tivemos
+    Inda que ouÁo dizer a alguns espertos,
+    Que os olhos est„o hoje muito abertos.
+    Tom·ra perguntar-lhes: Que tivemos
     Desta grande esperteza, que hoje vemos?
-    Andarem raparigas pelas pra√ßas
-    De noite, e dia expostas a desgra√ßas?
-    M√£is, e filhas chegando a tal estado,
-    Que n√£o temem do mundo o m√°o olhado?
+    Andarem raparigas pelas praÁas
+    De noite, e dia expostas a desgraÁas?
+    M„is, e filhas chegando a tal estado,
+    Que n„o temem do mundo o m·o olhado?
     Agourar os cometas, que apparecem?
-    V√™r Bal√µes, que no ar desapparecem?
-    N√£o dar credito a nada, que se l√™;
-    Por√©m dos Repertorios fazer f√©?
-    Viver de muitas tramas, e illus√µes?
-    Usar-se pantalonas por cal√ß√µes?
-    O cabello sem p√≥s, chap√©o redondo?
+    VÍr Balıes, que no ar desapparecem?
+    N„o dar credito a nada, que se lÍ;
+    PorÈm dos Repertorios fazer fÈ?
+    Viver de muitas tramas, e illusıes?
+    Usar-se pantalonas por calÁıes?
+    O cabello sem pÛs, chapÈo redondo?
     Fallar, sem fundamento, com estrondo
-    Nos Barcos de vap√¥r, e seu destino?
-    No rap√© ordinario, grosso, e fino?
-    N√£o me devo metter n'outras materias;
-    A decencia me pede lhes d√™ ferias.
-    E viviamos n√≥s t√£o atrazados?
+    Nos Barcos de vapÙr, e seu destino?
+    No rapÈ ordinario, grosso, e fino?
+    N„o me devo metter n'outras materias;
+    A decencia me pede lhes dÍ ferias.
+    E viviamos nÛs t„o atrazados?
     Traziamos os olhos bem fechados!
-    Por√©m n√£o sei de que he que quando havi√£o
-    Esses olhos, que d'antes n√£o se abri√£o,
-    Havia a boa f√©, humanidade,
+    PorÈm n„o sei de que he que quando havi„o
+    Esses olhos, que d'antes n„o se abri„o,
+    Havia a boa fÈ, humanidade,
     Consciencia, moral, honestidade,
-    Nos Officios Divinos devo√ß√£o,
-    S√©rio, respeito, boa educa√ß√£o:
-    Disto nasci√£o genios de ternura,
-    Juizo, compaix√£o, amor, candura;
-    Hoje not√£o-se, como raridades
+    Nos Officios Divinos devoÁ„o,
+    SÈrio, respeito, boa educaÁ„o:
+    Disto nasci„o genios de ternura,
+    Juizo, compaix„o, amor, candura;
+    Hoje not„o-se, como raridades
     Encontrarem-se destas qualidades.
     Por todo o mundo espiritos inquietos
-    And√£o-se levantando como insectos,
-    N√£o abra√ß√£o a paz, nem o socego,
+    And„o-se levantando como insectos,
+    N„o abraÁ„o a paz, nem o socego,
     O de olhos mais abertos anda cego,
     Sendo desta mania o fim primeiro
     O saciar de sangue, e de dinheiro.
@@ -1301,114 +1301,114 @@ PORTUGAL ENFERMO PELOS VICIOS, E ABUSOS.
     Portugal, Portugal! eu te lastimo,
     Porque he tudo verdade quanto exprimo!
     Eu vejo homens casados namorando,
-    Que se v√£o por solteiros inculcando;
-    √Ås mulheres dos mais arrast√£o aza,
+    Que se v„o por solteiros inculcando;
+    ¡s mulheres dos mais arrast„o aza,
     E ardem se o mesmo mal lhes vai por casa,
     Sem se lembrarem que estas influencias
     Trazem comsigo tristes consequencias,
     E que fazer aos mais nunca devemos
-    O que para n√≥s outros n√£o queremos.
+    O que para nÛs outros n„o queremos.
 
     Eu vejo huma menina das d'agora,
-    Que por casar n√£o quer estar hum' hora,
-    E que inda que naufrague, e v√° ao fundo
-    Parece-lhe fugir-lhe j√° o mundo;
-    Que at√© j√° de doze annos vejo muitas
-    Fazendo aos chichisb√©os certas perguntas,
-    Dirigidas s√≥mente a casamento,
-    Que √°s vezes se converte n'hum tormento;
-    Quando algum dia poucas se casav√£o,
-    Em quanto os dezenove n√£o contav√£o.
-    Mas que ha de ser, se a m√£i de pequeninas
+    Que por casar n„o quer estar hum' hora,
+    E que inda que naufrague, e v· ao fundo
+    Parece-lhe fugir-lhe j· o mundo;
+    Que atÈ j· de doze annos vejo muitas
+    Fazendo aos chichisbÈos certas perguntas,
+    Dirigidas sÛmente a casamento,
+    Que ·s vezes se converte n'hum tormento;
+    Quando algum dia poucas se casav„o,
+    Em quanto os dezenove n„o contav„o.
+    Mas que ha de ser, se a m„i de pequeninas
     Quer que pisquem os olhos as meninas!
-    E fica por gracinha da crian√ßa
-    O saber namorar muito em lembran√ßa.
-    Com esta educa√ß√£o se desenvolvem,
-    T√© que de gra√ßa a s√©rio se resolvem,
+    E fica por gracinha da crianÁa
+    O saber namorar muito em lembranÁa.
+    Com esta educaÁ„o se desenvolvem,
+    TÈ que de graÁa a sÈrio se resolvem,
     E sem que esperem ser fruta do tarde,
-    V√£o sujeitar-se ao jugo (Deos as guarde.)
+    V„o sujeitar-se ao jugo (Deos as guarde.)
 
     Eu vejo certos genios de Senhoras,
-    Que variando est√£o todas as horas,
+    Que variando est„o todas as horas,
     Muito doudas no modo de pensar,
-    Por isso bem n√£o podem acertar.
+    Por isso bem n„o podem acertar.
     Se adormecem mui fixas n'hum intento,
-    Acord√£o j√° com outro pensamento:
+    Acord„o j· com outro pensamento:
     Fazem desta inconstancia mesmo alarde,
-    O que s√£o de manh√£, n√£o s√£o de tarde.
+    O que s„o de manh„, n„o s„o de tarde.
     Em muitas se descobre este defeito,
-    O qual tom√£o os homens muito a peito;
-    Porque n√£o sabem, vendo esta incerteza,
+    O qual tom„o os homens muito a peito;
+    Porque n„o sabem, vendo esta incerteza,
     Quando a mulher he falsa, ou tem firmeza,
     Quando zomba, entretem, ou falla serio,
-    Ou se anda louca, de juizo a√©rio.
+    Ou se anda louca, de juizo aÈrio.
 
     Vejo algumas de genio impertinente,
-    Que postas a fallar matar√£o gente
+    Que postas a fallar matar„o gente
     Com gritos, que se mettem nos ouvidos,
     Que muitas ensurdecem os maridos.
-    Surdos devi√£o elles todos ser,
+    Surdos devi„o elles todos ser,
     Para o luxo das filhas, e mulher,
     Prendas, e dotes n'huma Dama boa
-    No luxo n√£o est√£o, sim na pessoa.
-    Nossas av√≥s, que em mo√ßas se cas√°r√£o,
-    De luxo com excesso n√£o us√°r√£o;
+    No luxo n„o est„o, sim na pessoa.
+    Nossas avÛs, que em moÁas se cas·r„o,
+    De luxo com excesso n„o us·r„o;
     E se alguma comsigo mais gastava,
     Lindas sedas do Reino he que comprava:
     Das quaes, inda depois de ser usadas,
-    Se fazi√£o cubertas aceadas;
-    E n√£o podre fil√≥ com bordadura,
-    Que tres, quatro lavagens s√≥ atura,
+    Se fazi„o cubertas aceadas;
+    E n„o podre filÛ com bordadura,
+    Que tres, quatro lavagens sÛ atura,
     Comprado por hum mimo rico e guapo,
     Que no fim de seis mezes he hum trapo;
-    E o dinheiro a cahir pela inven√ß√£o,
-    Apezar da barriga n√£o ter p√£o.
+    E o dinheiro a cahir pela invenÁ„o,
+    Apezar da barriga n„o ter p„o.
     Luxo no frontespicio he que apparece,
     Em tudo o mais pobreza se conhece.
 
     Tambem do compromisso he a partida:
     E porque a gente seja bem servida,
-    V√™m o opio do ch√° tambem por luxo,
+    VÍm o opio do ch· tambem por luxo,
     Ou agoa quente de enxagoar o buxo;
-    Que n√£o passando de agoa, e de fatia,
-    Leva hum par de tost√µes: quem tal diria!
+    Que n„o passando de agoa, e de fatia,
+    Leva hum par de tostıes: quem tal diria!
     E para que se bote a conta a tudo,
-    Vamos v√™r o que leva por miudo.
+    Vamos vÍr o que leva por miudo.
     Aparelho aceado, igual bandeja,
     Porque o brio da casa alli se veja:
-    Perola, Alj√¥far, ou Hisson, e Uxim;
-    Carv√£o, manteiga, e assucar n√£o ruim;
+    Perola, AljÙfar, ou Hisson, e Uxim;
+    Carv„o, manteiga, e assucar n„o ruim;
     Criadas de trazer, e de levar;
-    Agoa a ferver at√© isto acabar.
-    Anda a Dona da casa sem descan√ßo
-    Dando por toda a copa o seu balan√ßo;
+    Agoa a ferver atÈ isto acabar.
+    Anda a Dona da casa sem descanÁo
+    Dando por toda a copa o seu balanÁo;
     Se de humas cousas tem, ha de outras falta;
-    No aparelho o gatinho √°s vezes salta;
+    No aparelho o gatinho ·s vezes salta;
     O estrondo, que elle faz, ouve-se fora,
-    Parte √° cozinha em sustos a Senhora:
-    V√™ seis, ou sete chavanas quebradas,
-    E por desgra√ßa s√£o das emprestadas.
-    D√° co'hum p√°o na criada, e mais no gato;
-    P√µe-se a mo√ßa a chorar, juntando o fato.
+    Parte · cozinha em sustos a Senhora:
+    VÍ seis, ou sete chavanas quebradas,
+    E por desgraÁa s„o das emprestadas.
+    D· co'hum p·o na criada, e mais no gato;
+    Pıe-se a moÁa a chorar, juntando o fato.
     Este o risco, este o trem, he esta a lida,
-    Para p√£o com manteiga, agoa fervida!
+    Para p„o com manteiga, agoa fervida!
     Ah tempos, tempos! Como estaes mudados!
-    Onde est√£o as merendas dos estrados?
+    Onde est„o as merendas dos estrados?
     Onde a crespa salada, e a ella junto
     O saboroso paio, o bom presunto?
     Perdeste, Portugal, costumes taes,
     E com elles perdeste os cabedaes!
-    Querendo s√≥ com ch√° em abundancia,
-    Que he tudo f√≥rma, e nada de substancia,
+    Querendo sÛ com ch· em abundancia,
+    Que he tudo fÛrma, e nada de substancia,
     Crear todo o vigor, de que careces
     Nestas enfermidades, que padeces.
 
     Vejo tambem Senhoras mui teimosas,
-    E nas teimas, que tem, t√£o caprichosas,
-    Que por levarem s√≥ a sua avante,
-    Levant√£o testemunhos n'hum instante.
-    Acceler√£o-se, grit√£o, e esbravej√£o,
-    S√≥ porque accreditadas melhor sej√£o.
+    E nas teimas, que tem, t„o caprichosas,
+    Que por levarem sÛ a sua avante,
+    Levant„o testemunhos n'hum instante.
+    Acceler„o-se, grit„o, e esbravej„o,
+    SÛ porque accreditadas melhor sej„o.
     Se alguem as desmentio, temos historia,
     He offensa, que fica de memoria;
     Porque quem commetter tal attentado,
@@ -1417,107 +1417,107 @@ PORTUGAL ENFERMO PELOS VICIOS, E ABUSOS.
     Compassiva, amoravel, carinhosa,
     Como tem de raivosa, e vingativa,
     Delirante, indomavel, cega, e altiva,
-    Se offendida se v√™, ou tem ciume,
+    Se offendida se vÍ, ou tem ciume,
     Parece que dos olhos lhe sahe lume,
     E n'hum tal frenesi a pobre cai,
     Que d'alli a morrer mui pouco vai.
-    Tambem as modas lhes v√£o dando a morte;
-    Pois vejo-as em Janeiro √°spero, e forte,
+    Tambem as modas lhes v„o dando a morte;
+    Pois vejo-as em Janeiro ·spero, e forte,
     De panninho, e de chitas armadinhas,
-    De ca√ßas, de fil√≥s, ou de sedinhas:
-    De dia em dia pass√£o constipadas,
+    De caÁas, de filÛs, ou de sedinhas:
+    De dia em dia pass„o constipadas,
     Por isso vemos tantas descoradas,
-    Com d√¥r de peito, com tossinha secca,
+    Com dÙr de peito, com tossinha secca,
     Com pertinazes dores de enxaqueca.
-    O homem no anno tem quatro esta√ß√µes;
-    As Senhoras n√£o tem sen√£o ver√µes.
-    Elles abaf√£o-se, ellas p√µem-se √° fresca;
+    O homem no anno tem quatro estaÁıes;
+    As Senhoras n„o tem sen„o verıes.
+    Elles abaf„o-se, ellas pıem-se · fresca;
     Que he quando o reumatismo mais se pesca.
-    Algum dia o baet√£o, panno, ou veludo
+    Algum dia o baet„o, panno, ou veludo
     Da Senhora era o trajo mais sisudo,
     Com que de inverno andava reparada
-    Dos grandes frios, e √°spera geada;
-    E inda, al√©m de ser isto uso decente,
+    Dos grandes frios, e ·spera geada;
+    E inda, alÈm de ser isto uso decente,
     Raras vezes se via huma doente,
     Hoje agoas ferreas, ares de Bemfica,
     Banhos de mar, remedios de botica,
-    V√£o as Senhoras pondo em tal frescura,
-    Que v√£o fartas de fresco √° sepultura.
+    V„o as Senhoras pondo em tal frescura,
+    Que v„o fartas de fresco · sepultura.
 
     Ora pois, Portugal, eu te lastimo!
-    E s√≥ para teu bem he que te intimo,
-    Visto haver j√° mui pouco quem te entenda,
+    E sÛ para teu bem he que te intimo,
+    Visto haver j· mui pouco quem te entenda,
     Que tenhas nos abusos mais emenda.
     Quem a qualquer faisca acode logo,
-    N√£o v√™ arder em casa hum grande fogo.
+    N„o vÍ arder em casa hum grande fogo.
     Talvez por eu dizer isto, que sinto,
-    Apezar de saber-se que n√£o minto,
-    Muita gente dir√° que cuide em mim:
+    Apezar de saber-se que n„o minto,
+    Muita gente dir· que cuide em mim:
     Que deixe Portugal, e o Mundo assim;
     Que por mais que me empenhe na reforma,
-    O Mundo n√£o se afasta desta norma.
-    Eu isso lhe concedo, n√£o lho nego;
-    Por√©m se em verso, e prosa assim lhe pr√©go,
-    He para no serm√£o fazer-lhe certo
+    O Mundo n„o se afasta desta norma.
+    Eu isso lhe concedo, n„o lho nego;
+    PorÈm se em verso, e prosa assim lhe prÈgo,
+    He para no serm„o fazer-lhe certo
     Que o sei conhecer bem, e bem de perto.
 
-    E tu, √≥ Portugal, se inda te illudes,
+    E tu, Û Portugal, se inda te illudes,
     Os vicios confundindo co'as virtudes,
     Enlevado na moda, e nos abusos,
     Esquecido dos teus antigos usos,
-    Filosofias novas n√£o abraces,
-    Com estes modernismos n√£o te enlaces;
-    Modifica os costumes, que te arrast√£o,
-    Que inda o pouco, que tens, isso te gast√£o:
+    Filosofias novas n„o abraces,
+    Com estes modernismos n„o te enlaces;
+    Modifica os costumes, que te arrast„o,
+    Que inda o pouco, que tens, isso te gast„o:
     Faze que resuscite de huma vez
     O honrado, e bom caracter Portuguez:
-    Faze que as Bellas Letras poss√£o inda
+    Faze que as Bellas Letras poss„o inda
     Mostrar aos nacionaes a face linda,
     Que raiando de novo, como a Aurora,
-    D√™m aos genios enfermos a melhora.
-    E talvez possa ent√£o a mocidade
+    DÍm aos genios enfermos a melhora.
+    E talvez possa ent„o a mocidade
     Criar-lhes mais amor, mais amizade;
-    Que n'hum espasmo tal, nesta ina√ß√£o
-    De t√£o perniciosa educa√ß√£o,
+    Que n'hum espasmo tal, nesta inaÁ„o
+    De t„o perniciosa educaÁ„o,
     A tudo, quanto he bom, se perde o gosto,
-    Nem de hum livro se l√™ sequer o rosto.
+    Nem de hum livro se lÍ sequer o rosto.
 
     A mesma encantadora alta Poesia
-    Appre√ßo j√° n√£o tem, como algum dia:
-    Ent√£o era por todos estimada;
-    Hoje est√°, como tudo, desgra√ßada.
+    AppreÁo j· n„o tem, como algum dia:
+    Ent„o era por todos estimada;
+    Hoje est·, como tudo, desgraÁada.
     Feliz tempo de antigos Portuguezes!
-    Cam√µes, S√° de Miranda, S√° Menezes;
+    Camıes, S· de Miranda, S· Menezes;
     Hum Castilho, huns Andrades, hum Ferreira,
     Castro, Teive, Bernardes, e Silveira;
-    George de Monte-M√≥r, Franco Barreto,
+    George de Monte-MÛr, Franco Barreto,
     Do almo Virgilio Traductor completo;
     Candido Lisitano Mestre da Arte,
     Hum Bacellar, que em meu louvor tem parte;
     Hum Matos Traductor do grande Tasso,
-    Educado das Musas no rega√ßo;
+    Educado das Musas no regaÁo;
     Homens de gosto, de arte, e natureza,
     Honra da Lingoagem Portugueza!
-    Nos escriptos de ent√£o se descobria
-    A senten√ßa, a do√ßura co' a harmonia.
-    Mais proximos a n√≥s muitos respeit√£o
-    Outros mil, cujas obras nos deleit√£o:
+    Nos escriptos de ent„o se descobria
+    A sentenÁa, a doÁura co' a harmonia.
+    Mais proximos a nÛs muitos respeit„o
+    Outros mil, cujas obras nos deleit„o:
     Hum Tarouca, hum Penalva, hum Ericeira,
     De quem a alada Fama he pregoeira;
     Hum Gregorio de Matos bem sabido,
     Hum Alexandre, hum Pinto Renascido,
-    Frei Sim√£o, nos seus versos implicado
+    Frei Sim„o, nos seus versos implicado
     Com este Renascido mal fadado;
     Hum Lobo Leiriense, Cunha, e Pina,
-    Hum Padre Bras, que em gra√ßa n√£o declina;
-    Hum Duarte Ferr√£o muito erudito,
+    Hum Padre Bras, que em graÁa n„o declina;
+    Hum Duarte Ferr„o muito erudito,
     Que produzio o Metrico Palito;
-    (Se delle o proprio nome este n√£o he,
-    Conhe√ßa-se em Reitor da Nazar√©;)
+    (Se delle o proprio nome este n„o he,
+    ConheÁa-se em Reitor da NazarÈ;)
     Hum Brito de Vianna, hum Meliseu,
     Pimenta jovial no que escreveu;
     Hum Vilella, hum Basilio, hum Paradiz,
-    Hum Gonzaga, hum Gar√ß√£o, douto Diniz;
+    Hum Gonzaga, hum GarÁ„o, douto Diniz;
     Claudio, Quita, Alvarenga, Hum Amaral,
     Hum Bandeira bastante social;
     O Sabio, e inimitavel Tolentino,
@@ -1527,7 +1527,7 @@ PORTUGAL ENFERMO PELOS VICIOS, E ABUSOS.
     Hum Padre Nascimento, hum Quintanilha,
     Com quem Apollo fez igual partilha;
     Dias em Bellas Letras eminente,
-    Figueiredo no C√≥mico eloquente;
+    Figueiredo no CÛmico eloquente;
     Hum Torres, hum Massuellos, Lara, Azedo,
     Moraes, e outro estimavel Figueiredo:
     Cujos Nomes a Febo enchem de gloria,
@@ -1537,106 +1537,106 @@ PORTUGAL ENFERMO PELOS VICIOS, E ABUSOS.
     Se casou com a Musa Pastoril:
     Tudo quanto escreveo hoje se preza;
     Por mostrar huma rara natureza.
-    Dois Ribeiros, Brand√£o, hum vago Lobo,
-    Que de critico a fama lhe n√£o roubo;
+    Dois Ribeiros, Brand„o, hum vago Lobo,
+    Que de critico a fama lhe n„o roubo;
     O celebrado Abbade de Jacente,
     Hum Theodoro com elle contendente;
     Hum Caldas Brazileiro, no improviso
-    Engra√ßado, modesto, e com juizo:
+    EngraÁado, modesto, e com juizo:
     Sempre em qualquer assumpto discorria,
     Deixando, satisfeita a companhia:
-    Se delle algum rival ha por desgra√ßa,
-    Aponte-me segundo, que isto fa√ßa!
+    Se delle algum rival ha por desgraÁa,
+    Aponte-me segundo, que isto faÁa!
 
     Dois Barunchos, Otone, e mais Coutinho,
-    Que acert√°r√£o das Musas no caminho;
+    Que acert·r„o das Musas no caminho;
     Hum Medina, hum Novaes, Maya, e Delgado;
     Hum Bersane no Lirico affamado,
     Severino, e Soares Portuense,
-    Hum Maximo, que o iguala, se o n√£o vence;
+    Hum Maximo, que o iguala, se o n„o vence;
     Hum engenhoso Barros, que em viveza
     Prodigio mostra ser da natureza;
-    Hum Cabral Transmontano √°s Musas dado,
-    Nobrega, que viveo t√£o desgra√ßado;
+    Hum Cabral Transmontano ·s Musas dado,
+    Nobrega, que viveo t„o desgraÁado;
     Hum Guerreiro, e Belmiro, que honra o Douro:
-    Todos a C'r√¥a tem do Febeo Louro.
+    Todos a C'rÙa tem do Febeo Louro.
 
     Mais tres Vates, a quem faltou a vista,
-    (Que remedio n√£o ha, que lhe resista.)
+    (Que remedio n„o ha, que lhe resista.)
     Hum Thomaz, hum Martins, novo Castilho,
     Qualquer delles de Apollo digno filho.
-    Mas se dos olhos toda a luz perd√™r√£o,
-    No juizo outras luzes accend√™r√£o.
+    Mas se dos olhos toda a luz perdÍr„o,
+    No juizo outras luzes accendÍr„o.
     Hum Araujo, hum Lopes, hum Moniz,
-    Mayo e Lima, que j√° ferir me quiz:
+    Mayo e Lima, que j· ferir me quiz:
     Que inda apezar do ataque, que me fez,
     Jamais de o elogiar perderei vez;
     Que ataques de Poeta, inda os maiores,
-    Como foguetes s√£o de jogadores.
+    Como foguetes s„o de jogadores.
     Estes Genios harmonicos, que pinto,
-    L√° no Premesse tem lugar distinto,
+    L· no Premesse tem lugar distinto,
 
-    Hum Dur√£o Padre Mestre Graciano
+    Hum Dur„o Padre Mestre Graciano
     Com Estro divertido Americano.
     Serra, Ferreira Lobo, o bom Forjaz,
     E o Beneficiado Velho Vaz
     (O consoante aqui me deo conselho,
-    Para p√¥r Velho Vaz, e n√£o Vaz Velho.)
-    O Conego Jos√© S√£o Bernardino,
+    Para pÙr Velho Vaz, e n„o Vaz Velho.)
+    O Conego JosÈ S„o Bernardino,
     Filho tambem de Apollo, homem de tino;
-    Campello, os dois Malh√µes, Mello, e Raposo,
+    Campello, os dois Malhıes, Mello, e Raposo,
     Carvalho, igual ao jovial Barroso;
-    H[~u] Costa, h[~u] Bingre, h[~u] Camera, h[~u] Vern√©,
+    H[~u] Costa, h[~u] Bingre, h[~u] Camera, h[~u] VernÈ,
     Quintella, Xavier, Padre Soye.
     Dois Botelhos Professo, e Secular,
     Hum Antonio Ricardo, hum Aguiar.
     Estes Vates, que aponto, se conhecem,
     E huma eterna saudade nos merecem:
-    Qualquer delles cr√©dor de melhor sorte,
-    ¬´E outros, em quem poder n√£o teve a morte.¬ª
-    Quasi todos nas obras, que deix√°r√£o,
-    Seus Nomes sem vaidade eterniz√°r√£o.
-    Destes Vates mui poucos vivos s√£o,
-    E todos elles honr√£o a Na√ß√£o.
+    Qualquer delles crÈdor de melhor sorte,
+    ´E outros, em quem poder n„o teve a morte.ª
+    Quasi todos nas obras, que deix·r„o,
+    Seus Nomes sem vaidade eterniz·r„o.
+    Destes Vates mui poucos vivos s„o,
+    E todos elles honr„o a NaÁ„o.
     Confesso que hoje tenho a maior gloria
-    Em trazer estes Genios √° memoria.
+    Em trazer estes Genios · memoria.
     Mas que serve escrever grandes volumes,
-    Se est√£o prevaricados os costumes!
-    Quatro velhos, que l√™m estes Authores,
-    S√£o os que inda lhes d√£o justos louvores;
+    Se est„o prevaricados os costumes!
+    Quatro velhos, que lÍm estes Authores,
+    S„o os que inda lhes d„o justos louvores;
     Que estes meninos de hoje (coitadinhos!)
-    Estud√£o n'outras classes de livrinhos,
+    Estud„o n'outras classes de livrinhos,
     Livrinhos, com que o demo quiz campar,
     Para as bolsas de todo entisicar.
     Pouca gente conhece, ou avalia
-    O trabalho, que d√° qualquer Poesia.
-    L√™r, e rir bem se v√™ n√£o custar nada;
+    O trabalho, que d· qualquer Poesia.
+    LÍr, e rir bem se vÍ n„o custar nada;
     Compor empreza foi sempre arriscada;
     E por isso estimar-se mais se deve
     A penna, que em qualquer assumpto escreve.
 
     Portugal, Portugal! eu te lastimo,
-    Se com verdades taes te n√£o animo!
-    Sem se l√™r, nada bom p√≥de fazer-se;
-    Edificios n√£o ha sem alicer-se.
-    Quem l√™, e estuda a fundo sem jactancia,
+    Se com verdades taes te n„o animo!
+    Sem se lÍr, nada bom pÛde fazer-se;
+    Edificios n„o ha sem alicer-se.
+    Quem lÍ, e estuda a fundo sem jactancia,
     Dissipa as densas nuvens da ignorancia.
-    Se j√° puzeste as Armas em descanco,
-    Vai dar nas Livrarias hum balan√ßo:
-    Escolhe, compra, e l√™; porque a li√ß√£o
-    Ha de accender-te as luzes da raz√£o:
+    Se j· puzeste as Armas em descanco,
+    Vai dar nas Livrarias hum balanÁo:
+    Escolhe, compra, e lÍ; porque a liÁ„o
+    Ha de accender-te as luzes da raz„o:
     Ella ensina, interessa, ella diverte,
-    E p√≥de dar ju√≠zo ao mais inerte.
+    E pÛde dar juÌzo ao mais inerte.
     E se, seguindo a ordem, que me espera,
-    ¬´Eu nunca mais serei quem d'antes era,¬ª
+    ´Eu nunca mais serei quem d'antes era,ª
     Recordando o que eu digo alguns instantes,
-    Portugal, tu ser√°s qual eras d'antes.
+    Portugal, tu ser·s qual eras d'antes.
 
 
       *      *      *      *      *
 
     _As cousas todas veja aqui mudadas
-    Em tristes as que ledas ser soy√£o
+    Em tristes as que ledas ser soy„o
     As tristes muito mais tristes tornadas._
              Bernard. Cart. VI.
 
@@ -1644,19 +1644,19 @@ PORTUGAL ENFERMO PELOS VICIOS, E ABUSOS.
 SONETO.
 
     Soffreo Lysia hum Tremor de terra horrendo,[5]
-       Seguio-se-lhe depois Trai√ß√£o ferina,[6]
-       Rebateo de hum Le√£o furia, e rapina,[7]
+       Seguio-se-lhe depois TraiÁ„o ferina,[6]
+       Rebateo de hum Le„o furia, e rapina,[7]
        E pouco a pouco foi a fronte erguendo:[8]
     Por morte do seu Rei ficou gemendo,[9]
-       E o C√©o, por consolalla, lhe destina
+       E o CÈo, por consolalla, lhe destina
        Soberana immortal quasi divina,[10]
        Que em paz o Povo seu ficou regendo:
-    Hum Monstro de ambi√ß√£o, e de vingan√ßa[11]
+    Hum Monstro de ambiÁ„o, e de vinganÁa[11]
        Surge do centro do sulfureo Averno,
-       Perde a Europa o equilibrio da balan√ßa:
+       Perde a Europa o equilibrio da balanÁa:
     Restaura Portugal seu bom Governo;
-       Mas n√£o v√™r o seu Rei!.. Esta lembran√ßa[12]
-       O p√µe banhado em pranto, e em luto eterno.
+       Mas n„o vÍr o seu Rei!.. Esta lembranÁa[12]
+       O pıe banhado em pranto, e em luto eterno.
 
 
 
@@ -1664,10 +1664,10 @@ SONETO.
 Ao Author se mandou pelo Correio carta sem nome, datada de 22 de Julho
 do presente anno de 1819, na qual se lhe pedia, com o maior empenho,
 quizesse decifrar o seguinte Epitaphio enigmatico; e que na primeira
-Obra, que d√©sse √° luz, puzesse a sua defini√ß√£o.
+Obra, que dÈsse · luz, puzesse a sua definiÁ„o.
 
-Suspeita-se por√©m que a carta veio de pessoa gorda; e ou fosse escrita
-por basof√≠a, ou por divertido ataque ao Author, seja qual for o motivo,
+Suspeita-se porÈm que a carta veio de pessoa gorda; e ou fosse escrita
+por basofÌa, ou por divertido ataque ao Author, seja qual for o motivo,
 elle vai a satisfazer.
 
     _Epitaphio Enigmatico._
@@ -1679,22 +1679,22 @@ elle vai a satisfazer.
     Et ne sont que trois corps ici.
 
 Responde o Author: Que logo que o filho seja hermaphrodito, temos neste
-aborto da natureza filho, e filha, irm√£o, e irm√£ em hum corpo s√≥. No
-pai, e m√£i temos marido, e mulher, que s√£o dois corpos: por morte de
-todos, jazem s√≥ tres no tumulo.
+aborto da natureza filho, e filha, irm„o, e irm„ em hum corpo sÛ. No
+pai, e m„i temos marido, e mulher, que s„o dois corpos: por morte de
+todos, jazem sÛ tres no tumulo.
 
-Por outra: Tendo hum homem huma filha, e de√≠xando-a ainda crian√ßa, para
+Por outra: Tendo hum homem huma filha, e deÌxando-a ainda crianÁa, para
 ir viajar, quando voltou, casou com ella, por hum acaso, ignorando
 ser a mesma, que deixou de pequenina; e vindo a ter hum filho della, e a
-morrer todos tres pela ordem do tempo, indo todos √° mesma sepultura,
-fica bem claro que alli se ach√£o filho, e m√£i, filha, e pai, irm√£o, e
-irm√£, mulher, e marido, tudo em tres corpos.
+morrer todos tres pela ordem do tempo, indo todos · mesma sepultura,
+fica bem claro que alli se ach„o filho, e m„i, filha, e pai, irm„o, e
+irm„, mulher, e marido, tudo em tres corpos.
 
-Estimar√° o Author ter acertado, ou que algum dos seus curiosos Leitores
-descubr√£o melhor intelligencia, com tanto que n√£o seja a que vem
+Estimar· o Author ter acertado, ou que algum dos seus curiosos Leitores
+descubr„o melhor intelligencia, com tanto que n„o seja a que vem
 explicada no primeiro tomo do Divertimento de Estudiosos pag. 59, onde
 se acha este mesmo Enigma mais resumido; porque aponta, seis pessoas, e
-d√° enterrados s√≥ dois corpos, como se v√™ no seguinte:
+d· enterrados sÛ dois corpos, como se vÍ no seguinte:
 
     Cy gist le pere, cy gist la mere,
     Cy gist la soeur, cy gist le frere:
@@ -1704,15 +1704,15 @@ d√° enterrados s√≥ dois corpos, como se v√™ no seguinte:
            _Divertim. de Estud. Tom. I. pag. 59._
 
 Agora roga o Author ao Amigo, que lhe escreveo a mencionada carta,
-queira decifrar-lhe tambem os Enigmas, Advinha√ß√£o, e Charades, que se
-seguem, e que se n√£o tir√°r√£o de Livros.
+queira decifrar-lhe tambem os Enigmas, AdvinhaÁ„o, e Charades, que se
+seguem, e que se n„o tir·r„o de Livros.
 
 
-_1.¬∫ Enigma._
+_1.∫ Enigma._
 
     Eu sou hum Mundo sem gente,
     Figuro em qualquer trabalho;
-    Humas vezes n√£o sou nada,
+    Humas vezes n„o sou nada,
     Outras vezes muito valho:
     Eu entro no Purgatorio,
     E tambem vou ao Inferno,
@@ -1723,15 +1723,15 @@ _1.¬∫ Enigma._
     No Mundo, sem ser aranha,
     Ando sempre pelos cantos.
 
-        O que isto ser√° *
-        O Leitor o dir√°. *
+        O que isto ser· *
+        O Leitor o dir·. *
 
 
-_2.¬∫ Enigma._
+_2.∫ Enigma._
 
-    Vinte e hum homens se embarc√°r√£o,
+    Vinte e hum homens se embarc·r„o,
     Temporal os apanhou;
-    Morr√™r√£o vinte afogados,
+    MorrÍr„o vinte afogados,
     Temos hum, que se salvou:
     Este seguio a viagem;
     Mas comsigo sempre achou
@@ -1739,23 +1739,23 @@ _2.¬∫ Enigma._
     Com que na praia embarcou;
     Que por sinal de amizade,
     Que sempre se praticou,
-    Alguns as m√£os apertav√£o
+    Alguns as m„os apertav„o
     Aos socios do que escapou.
 
         Desejava-se saber *
         Dos vinte quaes vem a ser. *
 
 
-_3.¬∫ Enigma._
+_3.∫ Enigma._
 
-    Compr√°r√£o-se doze,
+    Compr·r„o-se doze,
     Mas seis estruidos,
-    E for√£o por doze,
+    E for„o por doze,
     Os seis repartidos:
     Com partes iguaes
-    Os doze fic√°r√£o;
-    Por√©m os perdidos
-    Aqui n√£o entr√°r√£o:
+    Os doze fic·r„o;
+    PorÈm os perdidos
+    Aqui n„o entr·r„o:
     E faz esta conta
     Ser certa, e ser boa,
     Caber huma inteira,
@@ -1764,65 +1764,65 @@ _3.¬∫ Enigma._
         Para melhor perceberes *
         Resta saber soletrar; *
         Depois disto conheceres, *
-        Luzes podes alcan√ßar *
+        Luzes podes alcanÁar *
         Vastas, para me entenderes. *
 
 
-_Adivinha√ß√£o._
+_AdivinhaÁ„o._
 
-    Julg√£o-me todos riqueza,
-    Por√©m ando esfrangalhado;
-    E quem me v√™ neste estado,
+    Julg„o-me todos riqueza,
+    PorÈm ando esfrangalhado;
+    E quem me vÍ neste estado,
     He que mais me estima, e preza:
     Minha mulher, sem benzer
     De quebranto, os mais defende;
-    E quem de m√≥fas se offende,
+    E quem de mÛfas se offende,
     A vai a outro off'recer:
     O ser branco, ou ser vermelho,
-    N√£o me faz algum destr√¥√ßo;
-    Tanto me estim√£o em mo√ßo
+    N„o me faz algum destrÙÁo;
+    Tanto me estim„o em moÁo
     Como depois que sou velho.
 
         Fita os olhos no que digo, *
-        Gostar√°s disto comigo. *
+        Gostar·s disto comigo. *
 
 
-1.¬™ Charade.
+1.™ Charade.
 
     Se o principio do meu nome
     Vem d'Astro de claridade,
     He bem, que, sendo celeste,
     Seja o meio a caridade:
-    E que o fim, de igual raz√£o,
-    Vos denote a compaix√£o;
+    E que o fim, de igual raz„o,
+    Vos denote a compaix„o;
     Vindo unido a defender,
     Vossa vida, e vosso ter.
 
         Solta as redeas ao discurso, *
-        D√° combina√ß√£o, √°s cousas; *
+        D· combinaÁ„o, ·s cousas; *
         Do Sabio he este o recurso. *
 
 
-2.¬™ Charade.
+2.™ Charade.
 
     A primeira, e segunda he mui veloz;
     Sendo aguda a terceira afflige, e mata;
-    E quem re√∫ne as tres, faz-se hum algoz.
+    E quem re˙ne as tres, faz-se hum algoz.
 
         Cabe na mente do esperto *
         Saber o quanto te digo; *
-        Dorme, sahir√°s deste ap√™rto. *
+        Dorme, sahir·s deste apÍrto. *
 
                 ======
 
-    Amigo, escusas can√ßar-te;
-    Por ter de ti compaix√£o,
+    Amigo, escusas canÁar-te;
+    Por ter de ti compaix„o,
     Nos versos, que tem estrella,
-    Achar√°s a explica√ß√£o.
+    Achar·s a explicaÁ„o.
 
-    Se Acrosticos n√£o entendes,
-    (O que n√£o he natural,)
-    He por que tens a cabe√ßa
+    Se Acrosticos n„o entendes,
+    (O que n„o he natural,)
+    He por que tens a cabeÁa
     Formada de pedra, e cal.
 
 
@@ -1830,25 +1830,25 @@ _Adivinha√ß√£o._
 
 CATALOGO
 
-_Das Obras impressas de Jos√© Daniel Rodrigues da Costa._
+_Das Obras impressas de JosÈ Daniel Rodrigues da Costa._
 
     * Rimas I. e II. Tomo.
-    * Theatro C√≥mico de pequenas Pe√ßas.
-    * Almocreve de Petas, dividido na 2.¬™ impress√£o, em 3 Tomos.
+    * Theatro CÛmico de pequenas PeÁas.
+    * Almocreve de Petas, dividido na 2.™ impress„o, em 3 Tomos.
     * Comboi de mentiras.
     * Espreitador do Mundo novo, em que vem as 6 partes dos Opios.
-    * Barco da Carreira dos t√¥los.
-    * J√¥go dos Dotes.
+    * Barco da Carreira dos tÙlos.
+    * JÙgo dos Dotes.
     * Hospital do Mundo.
     * Camera Optica.
-    * Tribunal da Raz√£o.
+    * Tribunal da Raz„o.
     * Revista dos Genios.
     * Roda da Fortuna.
     * Os Enjeitados da Fortuna.
-    * O Poema do Bal√£o aos Habitantes da Lua.
+    * O Poema do Bal„o aos Habitantes da Lua.
     * E esta de Portugal enfermo por vicios, e abusos.
 
-_Do mesmo Author se imprim√≠r√£o avulsos os Folhetos seguintes._
+_Do mesmo Author se imprimÌr„o avulsos os Folhetos seguintes._
 
     * Quadras alegres aos Annos do Serenissimo Senhor D. Pedro Carlos,
       em 1804.
@@ -1859,19 +1859,19 @@ _Do mesmo Author se imprim√≠r√£o avulsos os Folhetos seguintes._
       dos Genios.
 
 _Obras do mesmo Author, impressas do anno de 1808 por diante, ao vasto,
-e calamitoso assumpto da invas√£o dos Francezes em Portugal._
+e calamitoso assumpto da invas„o dos Francezes em Portugal._
 
-    * Protec√ß√£o √° Franceza I. e II. Parte.
+    * ProtecÁ„o · Franceza I. e II. Parte.
     * Partidista contra Partidistas.
-    * Resposta √° Proclama√ß√£o, que em Hespanha fez o General Augereau.
+    * Resposta · ProclamaÁ„o, que em Hespanha fez o General Augereau.
     * Cantigas Patrioticas.
     * Surriada a Massena I. e II. Parte.
-    * Conversa√ß√£o Nocturna das Esquinas do Roc√≠o de Lisboa.
+    * ConversaÁ„o Nocturna das Esquinas do RocÌo de Lisboa.
     * Carta de parabens, com hum Dialogo dos dois Generaes Francezes
       Filippon, e Bertier.
     * Encontro na Eternidade dos dois Generaes Francezes Marmont, e Bonnet.
     * Silva ao memoravel Lord Wellington.
-    * Testamento engenhoso do Dom Quixote da Fran√ßa, ao partir para a
+    * Testamento engenhoso do Dom Quixote da FranÁa, ao partir para a
       Russia.
     * Canto funebre na sentida Morte da nossa Soberana a Senhora D.
       MARIA I.
@@ -1880,21 +1880,21 @@ e calamitoso assumpto da invas√£o dos Francezes em Portugal._
       *      *      *      *      *
 
 As pessoas curiosas podem esperar pela Parte II. desta Obra, para
-poderem ent√£o mandalla encadernar, junta com o Poema do Bal√£o aos
-Habitantes da Lua, que assim lhes ficar√° hum Livro de 8.¬∫ completo.
+poderem ent„o mandalla encadernar, junta com o Poema do Bal„o aos
+Habitantes da Lua, que assim lhes ficar· hum Livro de 8.∫ completo.
 
 _Vende-se esta Obra na Loja de Francisco Xavier de Carvalho, defronte da
 Rua de S. Francisco da Cidade; na de Antonio Manoel Polycarpo da Silva,
-junto ao Senado; na de Antonio Xavier Moreira, da Impress√£o Regia
-debaixo da Arcada; na de Jo√£o Henriques, no principio da Rua Augusta; na
-de Antonio Pedro, na Rua do Ouro; na de Luiz Jos√© de Carvalho, aos
-Paulistas; e em Bel√©m, na da Viuva de Jos√© Tiburcio. Pre√ßo 240 r√©is._
+junto ao Senado; na de Antonio Xavier Moreira, da Impress„o Regia
+debaixo da Arcada; na de Jo„o Henriques, no principio da Rua Augusta; na
+de Antonio Pedro, na Rua do Ouro; na de Luiz JosÈ de Carvalho, aos
+Paulistas; e em BelÈm, na da Viuva de JosÈ Tiburcio. PreÁo 240 rÈis._
 
       *      *      *      *      *
 
     [1] ... A desejada vinda dos nossos Soberanos.
 
-    [2] _Ameijoadas_, s√£o noites perdidas: tirada esta palavra do
+    [2] _Ameijoadas_, s„o noites perdidas: tirada esta palavra do
     Diccionario novo dos Tafues.
 
     [3] _Patusca_, palavra tirada do mencionado Diccionario apenso.
@@ -1910,31 +1910,31 @@ Paulistas; e em Bel√©m, na da Viuva de Jos√© Tiburcio. Pre√ßo 240 r√©is._
 
     [7] A guerra da Hespanha contra Portugal em 1761.
 
-    [8] A reedifica√ß√£o da Cidade de Lisboa.
+    [8] A reedificaÁ„o da Cidade de Lisboa.
 
-    [9] A morte do sempre memoravel Rei o Senhor D. JOS√â I.
+    [9] A morte do sempre memoravel Rei o Senhor D. JOS… I.
 
     [10] O feliz Reinado da Fidelissima Senhora D. MARIA I.
 
-    [11] O Tyranno do Mundo, assollador dos Povos, Napole√£o Bonaparte.
+    [11] O Tyranno do Mundo, assollador dos Povos, Napole„o Bonaparte.
 
-    [12] O nosso amabilissimo Monarcha o Senhor D. JO√ÉO VI.
-
-
+    [12] O nosso amabilissimo Monarcha o Senhor D. JO√O VI.
 
 
-Notas de transcri√ß√£o:
 
-O texto aqui transcrito, √© uma c√≥pia integral e inalterada do livro
+
+Notas de transcriÁ„o:
+
+O texto aqui transcrito, È uma cÛpia integral e inalterada do livro
 impresso em 1819.
 
-Mantivemos a grafia usada na edi√ß√£o impressa, tendo sido corrigidos alguns
-pequenos erros tipogr√°ficos evidentes, que n√£o alteram a leitura do texto,
-e que por isso n√£o consider√°mos necess√°rio assinal√°-los. Mantivemos
-inclusivamente as eventuais incoer√™ncias de grafia de algumas palavras, em
-particular quanto √† acentua√ß√£o.
+Mantivemos a grafia usada na ediÁ„o impressa, tendo sido corrigidos alguns
+pequenos erros tipogr·ficos evidentes, que n„o alteram a leitura do texto,
+e que por isso n„o consider·mos necess·rio assinal·-los. Mantivemos
+inclusivamente as eventuais incoerÍncias de grafia de algumas palavras, em
+particular quanto ‡ acentuaÁ„o.
 
-Nesta vers√£o electr√≥nica, em texto simples, n√£o √© poss√≠vel representar
+Nesta vers„o electrÛnica, em texto simples, n„o È possÌvel representar
 alguns caracteres usados no livro impresso. Usamos como substituto desses
 caracteres os seguintes marcadores:
 
@@ -1947,7 +1947,7 @@ caracteres os seguintes marcadores:
 
 
 End of the Project Gutenberg EBook of Portugal enfermo por vicios, e abusos
-de ambos os sexos, by Jos√© Daniel Rodrigues da Costa
+de ambos os sexos, by JosÈ Daniel Rodrigues da Costa
 
 *** END OF THIS PROJECT GUTENBERG EBOOK PORTUGAL ENFERMO POR VICIOS ***
 

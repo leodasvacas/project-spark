@@ -1,5 +1,5 @@
-The Project Gutenberg EBook of S√° de Miranda, by 
-Antero Tarqu√≠nio de Quental and Camilo Ferreira Botelho Castelo Branco and Joaquim de Araujo
+The Project Gutenberg EBook of S· de Miranda, by 
+Antero TarquÌnio de Quental and Camilo Ferreira Botelho Castelo Branco and Joaquim de Araujo
 
 This eBook is for the use of anyone anywhere at no cost and with
 almost no restrictions whatsoever.  You may copy it, give it away or
@@ -7,10 +7,10 @@ re-use it under the terms of the Project Gutenberg License included
 with this eBook or online at www.gutenberg.net
 
 
-Title: S√° de Miranda
-       Com uma carta √°cerca da
+Title: S· de Miranda
+       Com uma carta ·cerca da
 
-Author: Antero Tarqu√≠nio de Quental
+Author: Antero TarquÌnio de Quental
         Camilo Ferreira Botelho Castelo Branco
         Joaquim de Araujo
 
@@ -20,7 +20,7 @@ Language: Portuguese
 
 Character set encoding: ISO-8859-1
 
-*** START OF THIS PROJECT GUTENBERG EBOOK S√Å DE MIRANDA ***
+*** START OF THIS PROJECT GUTENBERG EBOOK S¡ DE MIRANDA ***
 
 
 
@@ -36,10 +36,10 @@ of public domain material from Google Book Search)
 Anthero de Quental & C. Castello Branco
 
 
-S√° de Miranda
+S· de Miranda
 
 
-Com uma carta √°cerca da "Bibliographia Camilliana" de Henrique Marques
+Com uma carta ·cerca da "Bibliographia Camilliana" de Henrique Marques
 
 por
 
@@ -49,13 +49,13 @@ Joaquim de Araujo
 
 LISBOA
 Typ. da Companhia Nacional Editora
-LARGO DO CONDE BAR√ÉO, 50
+LARGO DO CONDE BAR√O, 50
 1894
 
 
 
 
-S√° de Miranda
+S· de Miranda
 
 
 
@@ -64,10 +64,10 @@ S√° de Miranda
 Anthero de Quental & C. Castello Branco
 
 
-S√° de Miranda
+S· de Miranda
 
 
-Com uma carta √°cerca da "Bibliographia Camilliana" de Henrique Marques
+Com uma carta ·cerca da "Bibliographia Camilliana" de Henrique Marques
 
 por
 
@@ -77,7 +77,7 @@ Joaquim de Araujo
 
 LISBOA
 Typ. da Companhia Nacional Editora
-LARGO DO CONDE BAR√ÉO, 50
+LARGO DO CONDE BAR√O, 50
 1894
 
 
@@ -85,260 +85,260 @@ LARGO DO CONDE BAR√ÉO, 50
 
 POESIAS
 DE
-S√Å DE MIRANDA
+S¡ DE MIRANDA
 
-Edi√ß√£o feita sobre cinco manuscritos ineditos e todas as edi√ß√µes impressas,
+EdiÁ„o feita sobre cinco manuscritos ineditos e todas as ediÁıes impressas,
 acompanhada de um estudo sobre o Poeta, variantes, notas, glossario, e um
-retrato, por Carolina Micha√´lis de Vasconcellos; Halle, Max Niemeyer, 1885.
+retrato, por Carolina MichaÎlis de Vasconcellos; Halle, Max Niemeyer, 1885.
 
 
-√â esta a primeira edi√ß√£o critica das Poesias de Francisco de S√° Miranda,
+… esta a primeira ediÁ„o critica das Poesias de Francisco de S· Miranda,
 o Horacio e o Seneca portuguez, como lhe chamaram os contemporaneos, o
 reformador do Parnaso portuguez no seculo XVI.
 
 Foi necessario que se passassem mais de 300 annos (Miranda morreu em
-1558: a primeira impress√£o de parte das suas obras tem a data de 1595)
-para que apparecesse uma edi√ß√£o critica, indispensavel todavia desde o
-primeiro dia. E ainda assim n√£o a devemos a nenhum dos nossos--como a
-nenhum dos nossos devemos a admiravel edi√ß√£o do Cancioneiro de Garcia de
-Resende (de Stuttgard), a edi√ß√£o diplomatica do Cancioneiro do Vaticano
+1558: a primeira impress„o de parte das suas obras tem a data de 1595)
+para que apparecesse uma ediÁ„o critica, indispensavel todavia desde o
+primeiro dia. E ainda assim n„o a devemos a nenhum dos nossos--como a
+nenhum dos nossos devemos a admiravel ediÁ„o do Cancioneiro de Garcia de
+Resende (de Stuttgard), a ediÁ„o diplomatica do Cancioneiro do Vaticano
 (publicada em Halle pelo italiano Monaci) e tantos outros valiosissimos
 trabalhos sobre a nossa lingua e literatura, publicados, no decurso dos
-ultimos 50 annos, em Allemanha, Holanda e Fran√ßa. Uma senhora alleman,
-hoje portugueza pelo casamento, pessoa t√£o modesta como intelligente e
+ultimos 50 annos, em Allemanha, Holanda e FranÁa. Uma senhora alleman,
+hoje portugueza pelo casamento, pessoa t„o modesta como intelligente e
 laboriosa, e a quem a historia da lingua e literatura portuguezas tinha
-j√° a agradecer trabalhos, que, por passarem desapercebidos nesta
-verdadeira Caverna do Esquecimento, que √© o Portugal de hoje, nem por
+j· a agradecer trabalhos, que, por passarem desapercebidos nesta
+verdadeira Caverna do Esquecimento, que È o Portugal de hoje, nem por
 isso deixam de ser de primeira ordem, emprehendeu e levou a cabo a
-restaura√ß√£o do texto do grande poeta moralista do seculo XVI, que at√©
+restauraÁ„o do texto do grande poeta moralista do seculo XVI, que atÈ
 agora andava, mais do que o de nenhum outro dos seus contemporaneos,
 incerto, obscuro e deturpado. O trabalho corresponde plenamente ao muito
-que havia a esperar do saber e penetra√ß√£o da autora daquella notavel
-s√©rie de Estudos camonianos, que come√ßaram a lan√ßar alguma luz sobre o
+que havia a esperar do saber e penetraÁ„o da autora daquella notavel
+sÈrie de Estudos camonianos, que comeÁaram a lanÁar alguma luz sobre o
 estado cahotico do texto do nosso grande lirico.
 
 Dez annos de aturado trabalho; estudo comparativo escrupolosissimo das
-edi√ß√µes impressas e dos manuscritos ineditos; conhecimento profundo e
+ediÁıes impressas e dos manuscritos ineditos; conhecimento profundo e
 quasi topographico da epocha, dos costumes, dos personagens, da lingua,
 das tendencias intellectuaes, uma extraordinaria familiaridade com todas
 as _fontes_ do grande seculo; um grande e seguro sentimento da realidade
 historica; criterio penetrante e elevado, ainda no meio das minudencias
-a que tem de descer--eis o que representa esta edi√ß√£o critica, que n√£o
+a que tem de descer--eis o que representa esta ediÁ„o critica, que n„o
 encarecerei chamando-lhe um modelo.
 
-N√£o sei se entre os _romanistas_ da Allemanha (penso sobretudo no sabio
-Storck) haver√° algum que tivesse podido desempenhar-se do encargo, como
-se desempenhou a sr.¬™ D. Carolina Micha√´lis: mas creio que afoutamente
-se p√≥de affirmar que em Portugal, com excep√ß√£o desta senhora, ninguem
-mais o poderia fazer, com igual exito. N√£o √© este um facto bem singular?
+N„o sei se entre os _romanistas_ da Allemanha (penso sobretudo no sabio
+Storck) haver· algum que tivesse podido desempenhar-se do encargo, como
+se desempenhou a sr.™ D. Carolina MichaÎlis: mas creio que afoutamente
+se pÛde affirmar que em Portugal, com excepÁ„o desta senhora, ninguem
+mais o poderia fazer, com igual exito. N„o È este um facto bem singular?
 
-Hoje, s√£o os estrangeiros que estudam e estimam a nossa antiga
-literatura: n√≥s n√£o. A crescente e hoje quasi total desnacionalisa√ß√£o do
-espirito publico √© o facto mais consideravel da nossa psychologia
-collectiva, nos ultimos 50 annos. Os da actual gera√ß√£o, pode dizer-se
-que, pelo pensar, pelo sentir, deixaram j√° de ser portuguezes. Ha por
+Hoje, s„o os estrangeiros que estudam e estimam a nossa antiga
+literatura: nÛs n„o. A crescente e hoje quasi total desnacionalisaÁ„o do
+espirito publico È o facto mais consideravel da nossa psychologia
+collectiva, nos ultimos 50 annos. Os da actual geraÁ„o, pode dizer-se
+que, pelo pensar, pelo sentir, deixaram j· de ser portuguezes. Ha por
 ahi muito rapaz intelligente e, a seu modo, instruido, que conhece mais
-ou menos Moli√®re, Racine, Voltaire e at√© Rabelais e Ronsard, e que nunca
-leu um auto de Gil Vicente, uma can√ß√£o de Cam√µes, uma eglogla de
-Bernardim Ribeiro ou de Bernardes, uma carta de Ferreira ou de S√° de
+ou menos MoliËre, Racine, Voltaire e atÈ Rabelais e Ronsard, e que nunca
+leu um auto de Gil Vicente, uma canÁ„o de Camıes, uma eglogla de
+Bernardim Ribeiro ou de Bernardes, uma carta de Ferreira ou de S· de
 Miranda.
 
-Os que conhecem um pouco intimamente a historia das revolu√ß√µes
-portuguezas neste seculo (n√£o fallo s√≥ das politicas) e t√™em reflectido
-sobre ella, achar√£o facilmente a explica√ß√£o deste facto e, mais do que a
-explica√ß√£o, a necessidade delle. Mas nem por isso deixa de ser cousa
+Os que conhecem um pouco intimamente a historia das revoluÁıes
+portuguezas neste seculo (n„o fallo sÛ das politicas) e tÍem reflectido
+sobre ella, achar„o facilmente a explicaÁ„o deste facto e, mais do que a
+explicaÁ„o, a necessidade delle. Mas nem por isso deixa de ser cousa
 triste de considerar este abysmo de esquecimento, que se abre cada vez
 mais largo, entre o pallido, anemico e inexpressivo Portugal de hoje e
 aquelle seu grande ascendente, o heroico, o pittoresco e inspirado
-seculo XVI. A falta de sentimento nacional poderia, at√© certo ponto (no
+seculo XVI. A falta de sentimento nacional poderia, atÈ certo ponto (no
 que diz respeito ao estudo da nossa antiga literatura) ser supprimida
 pelo sentimento historico, pela curiosidade critica e _philologica_,
-como dizem os allem√£es: mas a decadencia dos estudos historicos tem
+como dizem os allem„es: mas a decadencia dos estudos historicos tem
 vindo acompanhando _pari passu_ a decadencia do sentimento nacional sem
 que um ponto de vista mais largo, puramente scientifico, viesse, como em
-Fran√ßa, por exemplo, substituil-o efficazmente, para compensar aquella
+FranÁa, por exemplo, substituil-o efficazmente, para compensar aquella
 falta, pelo menos na esphera da intelligencia e do gosto.
 
-Esse sentimento _philologico_ (geral, humano, critico, n√£o restricto e
-nacional) √© o que caracterisa, entre todas as na√ß√µes cultas, o espirito
-allem√£o. Na sua imparcial sympathia, t√£o vasta como a natureza humana,
-abra√ßa ao mesmo tempo a antiguidade e os tempos modernos, as edades
+Esse sentimento _philologico_ (geral, humano, critico, n„o restricto e
+nacional) È o que caracterisa, entre todas as naÁıes cultas, o espirito
+allem„o. Na sua imparcial sympathia, t„o vasta como a natureza humana,
+abraÁa ao mesmo tempo a antiguidade e os tempos modernos, as edades
 classicas e os periodos barbaros, o Oriente e o Occidente, todas as
-ra√ßas e todas as culturas. Essa sympathia exige uma s√≥ condi√ß√£o: a
+raÁas e todas as culturas. Essa sympathia exige uma sÛ condiÁ„o: a
 originalidade. Tudo quanto foi realmente vivo, quanto manifestou uma
 maneira _sui generis_ de ser e de sentir, tudo quanto revelou uma face
-distincta da complexa natureza humana, tem direito √° sua atten√ß√£o. E √©
-por isso que a erudi√ß√£o alleman se distingue por uma fei√ß√£o unica: √© uma
-erudi√ß√£o viva. Houve erudi√ß√£o e eruditos: a curiosidade pelas cousas
-passadas √© uma das func√ß√µes da intelligencia. Mas uma erudi√ß√£o que sente
+distincta da complexa natureza humana, tem direito · sua attenÁ„o. E È
+por isso que a erudiÁ„o alleman se distingue por uma feiÁ„o unica: È uma
+erudiÁ„o viva. Houve erudiÁ„o e eruditos: a curiosidade pelas cousas
+passadas È uma das funcÁıes da intelligencia. Mas uma erudiÁ„o que sente
 ao mesmo tempo que indaga, que critica e juntamente sympathisa,
-minuciosa e enthusiasta, indagadora e poetica; uma erudi√ß√£o que revolve
-montanhas de textos, datas, documentos, para descobrir, n√£o factos
-seccos e mortos, mas a alma e a vida das cousas extinctas; uma erudi√ß√£o,
-se assim se p√≥de dizer, inspirada, tal como nos apparece nesses heroes
+minuciosa e enthusiasta, indagadora e poetica; uma erudiÁ„o que revolve
+montanhas de textos, datas, documentos, para descobrir, n„o factos
+seccos e mortos, mas a alma e a vida das cousas extinctas; uma erudiÁ„o,
+se assim se pÛde dizer, inspirada, tal como nos apparece nesses heroes
 da philologia, os Boeckh, Welcker, Hermann, F. A. Wolf, Winckelmann,
 Grimm, Niebuhr, Creuzer, Otfried Muller, Ritschl e tantos outros; uma
-tal erudi√ß√£o era cousa desusada, e sem precedentes. Ella transformou a
-comprehens√£o da historia, fazendo circular uma vida nova atravez dessas
-cryptas dos seculos sepultos, onde a candeia fumosa da velha erudi√ß√£o
-academica apenas espalha uma claridade phantastica, quasi t√£o morta como
+tal erudiÁ„o era cousa desusada, e sem precedentes. Ella transformou a
+comprehens„o da historia, fazendo circular uma vida nova atravez dessas
+cryptas dos seculos sepultos, onde a candeia fumosa da velha erudiÁ„o
+academica apenas espalha uma claridade phantastica, quasi t„o morta como
 as cinzas que ali repousam.
 
-E ahi est√° porque vemos uma senhora alleman publicar estudos magistraes
-sobre o texto de Cam√µes, publicar uma edi√ß√£o critica das Poesias de S√°
+E ahi est· porque vemos uma senhora alleman publicar estudos magistraes
+sobre o texto de Camıes, publicar uma ediÁ„o critica das Poesias de S·
 de Miranda, preparando-se assim, durante annos, com toda a casta de
 subsidios linguisticos, historicos e archeologicos, para nos dar (ou
-antes, para dar √° Allemanha) uma historia da literatura portugueza.
-Outros lhe dar√£o a historia da literatura indiana, ou da chineza, da
+antes, para dar · Allemanha) uma historia da literatura portugueza.
+Outros lhe dar„o a historia da literatura indiana, ou da chineza, da
 grega, da hebraica, da poesia dos Trovadores, das epopeias da Edade
-Media, que sei eu? pois n√£o ha um canto do vasto mundo da historia, que
-escape √° curiosidade ardente e penetrante da erudi√ß√£o alleman. A sr.¬™ D.
-Carolina Micha√´lis internou-se pelo reino semi-classico do Romanismo e
+Media, que sei eu? pois n„o ha um canto do vasto mundo da historia, que
+escape · curiosidade ardente e penetrante da erudiÁ„o alleman. A sr.™ D.
+Carolina MichaÎlis internou-se pelo reino semi-classico do Romanismo e
 ahi conquistou para si uma provincia, bem mais famosa do que conhecida,
 ainda dos mesmos nacionaes: a lingua e literatura portuguezas.
 
-Mas, dir√£o muitos, que necessidade havia de uma edi√ß√£o critica de S√° de
-Miranda? pois n√£o ha por ahi tantas edi√ß√µes dos poetas Quinhentistas,
-desses famosos _classicos_, que pouquissimos l√™em, √© certo, mas que
-ninguem que se preze deve deixar de citar com venera√ß√£o, e at√© p√≥de
+Mas, dir„o muitos, que necessidade havia de uma ediÁ„o critica de S· de
+Miranda? pois n„o ha por ahi tantas ediÁıes dos poetas Quinhentistas,
+desses famosos _classicos_, que pouquissimos lÍem, È certo, mas que
+ninguem que se preze deve deixar de citar com veneraÁ„o, e atÈ pÛde
 romper no excesso de ter na sua bibliotheca?
 
-Estes ignoram (nem admira) que esses veneraveis _classicos_ s√£o, at√©
+Estes ignoram (nem admira) que esses veneraveis _classicos_ s„o, atÈ
 certo ponto, um mytho. Excepto o de Ferreira, nada ha mais duvidoso do
-que o texto desses desgra√ßados poetas. Das suas obras, a maior parte s√≥
+que o texto desses desgraÁados poetas. Das suas obras, a maior parte sÛ
 se imprimiram depois da morte dos autores, nalguns casos vinte, trinta,
 ou mais annos depois. Imprimiram-se sobre copias manuscritas e
-geralmente copias de copias, e os editores n√£o se esqueceram de juntar
+geralmente copias de copias, e os editores n„o se esqueceram de juntar
 aos erros dos copistas, ou suppostos erros, as suas proprias _emendas_.
-A mesma paternidade das obras √© em muitos casos duvidosa. Dos sonetos
-attribuidos a Cam√µes pelo seu mais recente editor, o sr. T. Braga, boa
-ter√ßa parte n√£o lhe pertencem ou s√£o duvidosos. Tres eglogas de
-Bernardes s√£o dadas geralmente como de Cam√µes. Ha autos de Gil Vicente
+A mesma paternidade das obras È em muitos casos duvidosa. Dos sonetos
+attribuidos a Camıes pelo seu mais recente editor, o sr. T. Braga, boa
+terÁa parte n„o lhe pertencem ou s„o duvidosos. Tres eglogas de
+Bernardes s„o dadas geralmente como de Camıes. Ha autos de Gil Vicente
 que pertencem muito provavelmente a outros autores. Poderiam
 multiplicar-se estes exemplos. Em geral, os poetas de maior nomeada
-absorveram pouco a pouco as composi√ß√µes dos menos famosos. E ainda se
-fosse s√≥ isso! Mas o proprio texto de cada uma das composi√ß√µes n√£o
+absorveram pouco a pouco as composiÁıes dos menos famosos. E ainda se
+fosse sÛ isso! Mas o proprio texto de cada uma das composiÁıes n„o
 offerece, em geral, a authenticidade sufficiente: a linguagem foi
 retocada pelos copistas ou editores; muitos versos foram substituidos.
-Junte-se a isto a variedade de li√ß√µes, de edi√ß√£o para edi√ß√£o, de
-manuscrito para manuscrito (dos que ainda existem, e s√£o bastantes) e
+Junte-se a isto a variedade de liÁıes, de ediÁ„o para ediÁ„o, de
+manuscrito para manuscrito (dos que ainda existem, e s„o bastantes) e
 comprehender-se-ha o que quiz dizer com a palavra _mytho_. Quiz dizer
-que quando cuidamos l√™r Cam√µes, por exemplo, podemos muito bem estar
+que quando cuidamos lÍr Camıes, por exemplo, podemos muito bem estar
 lendo Bernardes, ou Caminha, ou Bernardim Ribeiro, ou _vice versa_
 podemos tambem estar lendo alguns daquelles _minores_, que foram
 absorvidos na aureola dos cinco ou seis astros de primeira grandeza--ou
 podemos simplesmente estar admirando o parto engenhoso do editor do
 seculo XVII.
 
-Os antigos editores portuguezes nunca primaram por criticos: se ainda √©
-t√£o raro encontrar um que o seja! O editor portuguez era, antes de tudo
-um _devoto_: elle sahia √° estacada, n√£o para apurar um texto, o texto
+Os antigos editores portuguezes nunca primaram por criticos: se ainda È
+t„o raro encontrar um que o seja! O editor portuguez era, antes de tudo
+um _devoto_: elle sahia · estacada, n„o para apurar um texto, o texto
 preciso, com as suas lacunas, defeitos ou erros, se os tinha, mas para
 levantar o _seu poeta_ acima de todos os outros, attribuindo-lhe o maior
-numero possivel de composi√ß√µes e com a forma mais perfeita possivel. Se
+numero possivel de composiÁıes e com a forma mais perfeita possivel. Se
 encontrava um papel velho, no canto de alguma bibliotheca devia ser do
-_seu poeta_: publicava-o. Se os versos eram maus, √© porque a copia
-estava errada: emendava-os. E √© assim que, de edi√ß√£o para edi√ß√£o, foi
-crescendo o numero de composi√ß√µes duvidosas, crescendo o numero de
-interpeta√ß√µes e emendas, com que o texto cada vez mais se ia depurando.
+_seu poeta_: publicava-o. Se os versos eram maus, È porque a copia
+estava errada: emendava-os. E È assim que, de ediÁ„o para ediÁ„o, foi
+crescendo o numero de composiÁıes duvidosas, crescendo o numero de
+interpetaÁıes e emendas, com que o texto cada vez mais se ia depurando.
 
-Dos poetas do seculo XVI, os dois mais maltrados pela _devo√ß√£o_
-impertinente dos editores s√£o sem duvida S√° de Miranda e Cam√µes. Para
-este ultimo n√£o sabemos quando chegar√° o dia da justi√ßa (da justi√ßa
+Dos poetas do seculo XVI, os dois mais maltrados pela _devoÁ„o_
+impertinente dos editores s„o sem duvida S· de Miranda e Camıes. Para
+este ultimo n„o sabemos quando chegar· o dia da justiÁa (da justiÁa
 philologica, entenda-se) mas deve estar longe, a avaliar pela maneira
-porque os seus dois mais recentes editores, ali√°s benemeritos pelo
+porque os seus dois mais recentes editores, ali·s benemeritos pelo
 trabalho e grande amor ao poeta, os srs. Visconde de Juromenha e
-Theophilo Braga, se houveram nas suas edi√ß√µes, que, em pontos de
+Theophilo Braga, se houveram nas suas ediÁıes, que, em pontos de
 critica, correm parelhas com as dos mais _devotos_ editores do seculo
-XVII. Talvez nunca chegue, a n√£o ser que se metta nisso algum allem√£o.
-S√° de Miranda, ao menos, p√≥de l√™r-se com seguran√ßa no texto critico,
-admiravelmente discutido e apurado, da edi√ß√£o de Halle.
+XVII. Talvez nunca chegue, a n„o ser que se metta nisso algum allem„o.
+S· de Miranda, ao menos, pÛde lÍr-se com seguranÁa no texto critico,
+admiravelmente discutido e apurado, da ediÁ„o de Halle.
 
 Sou pouco erudito, nem estou escrevendo um artigo para alguma Revista
 philologica, mas uma simples noticia para um jornal diario: por estas
-duas raz√µes, n√£o me posso alargar pela analyse do trabalho da sr.¬™ D.
-Carolina Micha√´lis, entrando pela parte technica delle. Quero s√≥
-observar ainda uma cousa: √© que este volume de mais de 1000 paginas, e
-carregado de notas, √© um livro interessantissimo. Porque? pelo que acima
+duas razıes, n„o me posso alargar pela analyse do trabalho da sr.™ D.
+Carolina MichaÎlis, entrando pela parte technica delle. Quero sÛ
+observar ainda uma cousa: È que este volume de mais de 1000 paginas, e
+carregado de notas, È um livro interessantissimo. Porque? pelo que acima
 disse do caracter da philologia alleman. O sentimento historico anima
-toda aquella erudi√ß√£o; a comprehens√£o da epocha d√° relevo e interesse √°s
-indaga√ß√µes apparentemente aridas de datas, genealogias, etc. A cada
+toda aquella erudiÁ„o; a comprehens„o da epocha d· relevo e interesse ·s
+indagaÁıes apparentemente aridas de datas, genealogias, etc. A cada
 passo encontramos uma circumstancia, um facto biographico, pormenores de
 costumes, que abrem repentinamente uma nesga do horisonte sobre aquella
-vida extincta e a fazem resurgir para a nossa imagina√ß√£o. Quanto saber,
+vida extincta e a fazem resurgir para a nossa imaginaÁ„o. Quanto saber,
 mas saber intelligente, saber que diz e ensina, enterrado modestamente
 naquellas notas, que occupam as ultimas 200 paginas do volume! Essas
-notas, juntas com a magistral Introduc√ß√£o, constituem uma verdadeira
-monographia de S√° de Miranda. Com aquelles elementos poderia a auctora
+notas, juntas com a magistral IntroducÁ„o, constituem uma verdadeira
+monographia de S· de Miranda. Com aquelles elementos poderia a auctora
 ter feito propriamente um livro de _literatura_, que se contaria entre
 os melhores e seria lido, citado e festejado. Preferiu a essas vaidades
 o cumprimento quasi religioso de um encargo, ha tres seculos por
-cumprir, fazendo ao velho Poeta o maior servi√ßo que elle imploraria, se
-podesse erguer a voz do seu tumulo: a restaura√ß√£o do texto das obras. _O
-bom S√°_ (como lhe chamavam no seculo XVI e depois) encontrou afinal um
+cumprir, fazendo ao velho Poeta o maior serviÁo que elle imploraria, se
+podesse erguer a voz do seu tumulo: a restauraÁ„o do texto das obras. _O
+bom S·_ (como lhe chamavam no seculo XVI e depois) encontrou afinal um
 nobre espirito, que piedosamente e quasi filialmente escutou aquelle
 queixume de uma pobre larva e consagrou dez annos da sua vida para a
-satisfazer. O _bom S√°_ deve agora dormir descan√ßado no seu tumulo.
+satisfazer. O _bom S·_ deve agora dormir descanÁado no seu tumulo.
 
-Bom S√°! Diz o velho biographo que, nos seus ultimos tempos, "com a magoa
+Bom S·! Diz o velho biographo que, nos seus ultimos tempos, "com a magoa
 do que lhe revelava o espirito dos infortunios da sua terra se affligia
 tanto, que muitas vezes se suspendia e derramava lagrymas sem o sentir."
 Tenho scismado muitas vezes nestas lagrymas do poeta humanista da
-Renascen√ßa. E, n√£o sei como, a minha imagina√ß√£o approxima-as logo da
+RenascenÁa. E, n„o sei como, a minha imaginaÁ„o approxima-as logo da
 tragica melancholia de Miguel Angelo, da nobre tristeza de Vittoria
 Collona, da misanthropia incuravel de Machiavel, da nuvem de desgosto e
 desalento que envolveu a velhice de quasi todos os grandes espiritos da
-Renascen√ßa. Tinha motivo de chorar o nosso S√° de Miranda, como tinham
-motivo de se entristecerem os seus illustres congeneres. √â que elles
-presentiam todos, uma cousa sinistra: o abortamento da Renascen√ßa.
-√Åquella immensa aurora succedia, quasi sem transi√ß√£o, o crepusculo
+RenascenÁa. Tinha motivo de chorar o nosso S· de Miranda, como tinham
+motivo de se entristecerem os seus illustres congeneres. … que elles
+presentiam todos, uma cousa sinistra: o abortamento da RenascenÁa.
+¡quella immensa aurora succedia, quasi sem transiÁ„o, o crepusculo
 nocturno: e elles, os videntes, devisavam naquelle crepusculo
 inquietador os movimentos de formas estranhas e sombrias, como de
 monstros desconhecidos, e ouviam passar vozes mais assustadoras ainda,
 vozes que cresciam formidaveis de todos os pontos do horisonte, sem se
 ver quem as soltava.
 
-Ahi por 1550, o abortamento da Renascen√ßa era j√° visivel aos olhos dos
-que ainda restavam daquellas duas incomparaveis gera√ß√µes dos promotores
-della. O Concilio de Trento entrara j√° na sua 6.¬™ sess√£o e era agora
-irremediavel a scis√£o do mundo latino com a Reforma germanica. Come√ßavam
-as guerras da religi√£o, que iam durar, numa furia crescente, perto de
-cem annos, destruindo na√ß√µes inteiras. Os Jesuitas abriam os seus
-Collegios, onde o espirito da Renascen√ßa, sophismado, amesquinhado,
-pervertido, servia de capa √° reac√ß√£o. Por toda a Peninsula, fumavam e
-crepitavam as fogueiras da Inquisi√ß√£o. O Humanismo alado transformava-se
-em erudi√ß√£o plumbea, inerte. A Arte cahia da crea√ß√£o no amaneiramento.
-Um furor indiscriptivel, furor de disputas, furor de matan√ßas,
+Ahi por 1550, o abortamento da RenascenÁa era j· visivel aos olhos dos
+que ainda restavam daquellas duas incomparaveis geraÁıes dos promotores
+della. O Concilio de Trento entrara j· na sua 6.™ sess„o e era agora
+irremediavel a scis„o do mundo latino com a Reforma germanica. ComeÁavam
+as guerras da religi„o, que iam durar, numa furia crescente, perto de
+cem annos, destruindo naÁıes inteiras. Os Jesuitas abriam os seus
+Collegios, onde o espirito da RenascenÁa, sophismado, amesquinhado,
+pervertido, servia de capa · reacÁ„o. Por toda a Peninsula, fumavam e
+crepitavam as fogueiras da InquisiÁ„o. O Humanismo alado transformava-se
+em erudiÁ„o plumbea, inerte. A Arte cahia da creaÁ„o no amaneiramento.
+Um furor indiscriptivel, furor de disputas, furor de matanÁas,
 apossava-se da Europa e o pensamento livre, os sentimentos largos e
 humanos, a alta cultura pareciam prestes a desapparecer da face da terra.
 
 Tudo isto viam ou previam aquelles grandes espiritos. Tinham sonhado
-salvar o mundo pela raz√£o, e a raz√£o parecera impotente, e o mundo
-desesperado appellava definitivamente para a sem-raz√£o. Dahi aquellas
+salvar o mundo pela raz„o, e a raz„o parecera impotente, e o mundo
+desesperado appellava definitivamente para a sem-raz„o. Dahi aquellas
 incuraveis melancholias de uns, aquella desdenhosa misanthropia de
-outros; dahi as lagrymas do nosso S√°. Este antevia ainda outra cousa: a
-morte da patria. Aquelle ouro do Oriente parecia-lhe j√° (como depois se
-viu bem que era) um caustico sobre o corpo da na√ß√£o, que lhe queimava,
-que lhe roia as carnes, at√© a deixar secca de todo, um esqueleto. Tinha
+outros; dahi as lagrymas do nosso S·. Este antevia ainda outra cousa: a
+morte da patria. Aquelle ouro do Oriente parecia-lhe j· (como depois se
+viu bem que era) um caustico sobre o corpo da naÁ„o, que lhe queimava,
+que lhe roia as carnes, atÈ a deixar secca de todo, um esqueleto. Tinha
 motivo sobejo de chorar, o pobre poeta!
 
 Sim, lembram-me muitas vezes aquellas lagrymas. Descubro mais de uma
-analogia entre aquella idade e a nossa. A raz√£o n√£o morreu, afinal.
-Soterrada, respirando apenas, resurgiu todavia. S√≥mente mudou de trajo e
-de nome: j√° n√£o √© Humanismo, como no seculo XVI: chama-se agora
-Philosophia, mas √© sempre a mesma, √© sempre a ras√£o. E n√≥s tambem,
-filhos da Philosophia, sonhamos salvar o mundo pela ras√£o, dar-lhe ordem
+analogia entre aquella idade e a nossa. A raz„o n„o morreu, afinal.
+Soterrada, respirando apenas, resurgiu todavia. SÛmente mudou de trajo e
+de nome: j· n„o È Humanismo, como no seculo XVI: chama-se agora
+Philosophia, mas È sempre a mesma, È sempre a ras„o. E nÛs tambem,
+filhos da Philosophia, sonhamos salvar o mundo pela ras„o, dar-lhe ordem
 e paz com as leis eternas por ella reveladas. Mas o mundo parece
 novamente atacado de vertigem, parece appellar mais uma vez para a
-sem-ras√£o, para os instinctos bestiaes e para uma supersti√ß√£o mais
-monstruosa ainda do que as passadas: a supersti√ß√£o da for√ßa. A
-democracia √° maneira que triumpha, perverte-se, parecendo preparar-se
-para marcar um despotismo sem nome, o despotismo anonymo da multid√£o, o
+sem-ras„o, para os instinctos bestiaes e para uma superstiÁ„o mais
+monstruosa ainda do que as passadas: a superstiÁ„o da forÁa. A
+democracia · maneira que triumpha, perverte-se, parecendo preparar-se
+para marcar um despotismo sem nome, o despotismo anonymo da multid„o, o
 achatamento universal.
 
-Lembram-me as lagrymas de S√° de Miranda. Se teremos tambem de as chorar
-na nossa velhice? Esperemos que n√£o, ou digamol-o, pelo menos, para n√£o
-desanimar ninguem--para n√£o desanimarmos tambem n√≥s.
+Lembram-me as lagrymas de S· de Miranda. Se teremos tambem de as chorar
+na nossa velhice? Esperemos que n„o, ou digamol-o, pelo menos, para n„o
+desanimar ninguem--para n„o desanimarmos tambem nÛs.
 
 Junho de 1886.
 
@@ -347,56 +347,56 @@ Junho de 1886.
 
 
 
-UMA SATYRA DE S√Å DE MIRANDA
+UMA SATYRA DE S¡ DE MIRANDA
 
 Alguns jornaes provincianos, quando o sr. visconde de Lindoso, ha dois
-mezes, foi promovido a conde, disseram que na gera√ß√£o de s. exc.¬™ havia
-dezenove alcaides-m√≥res de Lindoso, a contar desde o reinado de D.
-Diniz. Se ha erro na contagem, n√£o serei eu que o corrija. O leitor n√£o
+mezes, foi promovido a conde, disseram que na geraÁ„o de s. exc.™ havia
+dezenove alcaides-mÛres de Lindoso, a contar desde o reinado de D.
+Diniz. Se ha erro na contagem, n„o serei eu que o corrija. O leitor n„o
 hade, desta vez, exultar com a certeza de que o sr. conde de Lindoso tem
 dezenove alcaides na sua arvore genealogica.
 
-O meu proposito √© averiguar se algum d√™sses dezenove praticou fa√ßanha
-que o immortalisasse na chronica ou na epop√©a.
+O meu proposito È averiguar se algum dÍsses dezenove praticou faÁanha
+que o immortalisasse na chronica ou na epopÈa.
 
-Effectivamente, deparou-se-me um, cujo nome est√° identificado a uma
-poesia de Francisco de S√° de Miranda. Dos outros, por emquanto, apenas
-sei os nomes e as tradi√ß√µes provaveis dumas existencias obscuramente e
-honradamente pacatas em Guimar√£es, no transcurso de quatro seculos.
+Effectivamente, deparou-se-me um, cujo nome est· identificado a uma
+poesia de Francisco de S· de Miranda. Dos outros, por emquanto, apenas
+sei os nomes e as tradiÁıes provaveis dumas existencias obscuramente e
+honradamente pacatas em Guimar„es, no transcurso de quatro seculos.
 
-A celebridade que S√° de Miranda, commendador das Duas Egrejas, deu ao
-alcaide seu contemporaneo e visinho, n√£o √© nada √©pica.
+A celebridade que S· de Miranda, commendador das Duas Egrejas, deu ao
+alcaide seu contemporaneo e visinho, n„o È nada Èpica.
 
-Chamava-se o alcaide-m√≥r de Lindoso, Christov√£o do Valle, e residia no
-seu castello. S√° de Miranda morava na sua casa commendataria da Tapada,
-n√£o longe de Lindoso. Tinha o poeta um criado gallego que o alcaide,
+Chamava-se o alcaide-mÛr de Lindoso, Christov„o do Valle, e residia no
+seu castello. S· de Miranda morava na sua casa commendataria da Tapada,
+n„o longe de Lindoso. Tinha o poeta um criado gallego que o alcaide,
 especie de administrador de concelho e commissario de policia do seculo
-XVI, prendeu por motivos insignificantes. S√° de Miranda, escrevendo em
+XVI, prendeu por motivos insignificantes. S· de Miranda, escrevendo em
 _Redondilhas_ a seu cunhado Manuel Machado, Senhor d'Entre-Homem e
-Cavado, conta-lhe a pris√£o do gallego, lardeando a noticia de axiomas
+Cavado, conta-lhe a pris„o do gallego, lardeando a noticia de axiomas
 sentenciosos que muito lhe abonam a antonomasia de Seneca portuguez.
 Principia assim:
 
     Inda que eu ria, e me cale,
-    Que me eu fa√ßa surdo e cego,
+    Que me eu faÁa surdo e cego,
     Bem vejo eu por que o do Vale
     Correu tanto ao meu galego.
 
 Em quanto o do Valle lhe corre o gallego, diz elle que uns
 
-    Ladr√µes de seiscentas c√¥res
+    Ladrıes de seiscentas cÙres
     Andam por aqui seguros,
-    N√£o lhe sahem taes corredores.
+    N„o lhe sahem taes corredores.
 
-E a causa dessa impunidade √© que o alcaide n√£o fazia caso dos
-malfeitores que lhe amea√ßassem o physico:
+E a causa dessa impunidade È que o alcaide n„o fazia caso dos
+malfeitores que lhe ameaÁassem o physico:
 
-    Ap√≥s quem torna a si
+    ApÛs quem torna a si
     E primeiro mata ou morre
-    N√£o corre o do Vale assi,
-    Que ap√≥s um tolo assim corre.
+    N„o corre o do Vale assi,
+    Que apÛs um tolo assim corre.
 
-E vae nomeando uns patifes que andavam a salvo, um Basti√£o, um Ribeiro,
+E vae nomeando uns patifes que andavam a salvo, um Basti„o, um Ribeiro,
 personagens que se faziam respeitar pela valentia ou pelo dinheiro.
 
 Depois de muitas maximas de san moral, o poeta volta-se para o governo e
@@ -407,277 +407,277 @@ exclama:
     Este chama: Aqui dei rei!
     Este outro chama a valia.
 
-Ora o fecho da satyra, que √© o mais pungente della, est√° deturpado na
-composi√ß√£o negligente das impress√µes que conhe√ßo, d√™ste feitio:
+Ora o fecho da satyra, que È o mais pungente della, est· deturpado na
+composiÁ„o negligente das impressıes que conheÁo, dÍste feitio:
 
     Outro chama: Portugal!
-    De varas n√£o ha e mingua.
+    De varas n„o ha e mingua.
     Desata a bolsa, que val.
     Traze sempre alada a lingua.
 
-Com esta construc√ß√£o, assim aleijada, a satyra penetrante fica de todo
+Com esta construcÁ„o, assim aleijada, a satyra penetrante fica de todo
 deslusida e estragada. Para que os equivocos flagelladores resaltem do
-jogo das palavras de accep√ß√£o dupla, a reconstruc√ß√£o deve ser esta:
+jogo das palavras de accepÁ„o dupla, a reconstrucÁ„o deve ser esta:
 
     Outro diz: em Portugal[1]
-    De varas n√£o ha hi mingua;
+    De varas n„o ha hi mingua;
     Desata a bolsa, que Val
     Traz sempre atada a lingua.
 
       [1]Neste verso adoptei uma variante que se encontra na ultima
-      edi√ß√£o das poesias de S√° de Miranda.
+      ediÁ„o das poesias de S· de Miranda.
 
-√â claro o intuito mordaz do poeta. Manda _desatar a bolsa_. Procede uns
+… claro o intuito mordaz do poeta. Manda _desatar a bolsa_. Procede uns
 bons cincoenta annos o _Put money in thy purse_ de Shakespeare. O poeta
-inglez, pela b√¥cca perversa do _honest Iago_, mandava encher a bolsa; o
-portuguez manda desatal-a depois de cheia; √© a mesma ideia. _Desata a
+inglez, pela bÙcca perversa do _honest Iago_, mandava encher a bolsa; o
+portuguez manda desatal-a depois de cheia; È a mesma ideia. _Desata a
 bolsa_, diz elle, porque o Valle, o alcaide de Lindoso, quando o
-amorda√ßam com dinheiro,
+amordaÁam com dinheiro,
 
     Traz sempre atada a lingua.
 
-O verso √© m√°u; mas S√° de Miranda visava principalmente a fazer boa
+O verso È m·u; mas S· de Miranda visava principalmente a fazer boa
 philosophia, e contentava-se em alinhavar versos conceituosos em prosa
 chan; por isso mofava delle o Camacho, na _Jornada do Parnaso_,
 taxando-o de
 
-    Poeta at√© o umbigo, e os baixos prosa.
+    Poeta atÈ o umbigo, e os baixos prosa.
 
-Seja como f√¥r, dos dezenove alcaides de Lindoso nenhum outro se gaba de
-ter o seu nome registado na obra do grande mestre da Renascen√ßa lyrica
+Seja como fÙr, dos dezenove alcaides de Lindoso nenhum outro se gaba de
+ter o seu nome registado na obra do grande mestre da RenascenÁa lyrica
 da Peninsula.
 
       *      *      *      *      *
 
-N√£o sei se √© notorio em Portugal e nomeadamente no Chiado e Clerigos que
-uma senhora, nascida e educada na Allemanha, e residente n√£o ha muitos
-annos no Porto, publicou em 1885 uma edi√ß√£o das _Poesias de Francisco de
-S√° de Miranda_, impressa em Halle. √â um volume em 8.¬∫ fr. de 1085 pag.;
+N„o sei se È notorio em Portugal e nomeadamente no Chiado e Clerigos que
+uma senhora, nascida e educada na Allemanha, e residente n„o ha muitos
+annos no Porto, publicou em 1885 uma ediÁ„o das _Poesias de Francisco de
+S· de Miranda_, impressa em Halle. … um volume em 8.∫ fr. de 1085 pag.;
 a saber CXXXVI que comprehendem a biographia do poeta, a topographia de
 Carrazedo de Bouro, da quinta da Tapada, do solar de Crasto, e a noticia
-particularisada dos codices manuscritos e das edi√ß√µes impressas que a
+particularisada dos codices manuscritos e das ediÁıes impressas que a
 illustre escritora manuseou. As 946 paginas restantes comprehendem as
 poesias conhecidas e as ineditas colhidas de varios manuscritos,
-repartidas em quatro sec√ß√µes; e na sec√ß√£o ou _parte 5.¬™_ encontram-se
-todos os poemas dedicados a S√° de Miranda. Na margem inferior de cada
-pagina inscreve a sr.¬™ D. Carolina Micha√´lis de Vasconcellos as
-variantes dos codices conferidos, e nas _Notas_, que come√ßam a pag. 739,
-entra s. ex.¬™ na parte critica do seu valioso trabalho, desenvolvendo
+repartidas em quatro secÁıes; e na secÁ„o ou _parte 5.™_ encontram-se
+todos os poemas dedicados a S· de Miranda. Na margem inferior de cada
+pagina inscreve a sr.™ D. Carolina MichaÎlis de Vasconcellos as
+variantes dos codices conferidos, e nas _Notas_, que comeÁam a pag. 739,
+entra s. ex.™ na parte critica do seu valioso trabalho, desenvolvendo
 raros e copiosos conhecimentos da literatura portugueza dos seculos XV e
 XVI, e da vida intima dos seus poetas.
 
-Referindo-se √° satyra de S√° de Miranda, cujos fragmentos trasladei,
-escreve a illustrada senhora a pag. 754: _As allus√µes a um_ da Vale...
-_j√° n√£o podem ser decifradas_. Seria assombroso que s. ex.¬™ conseguisse
-exhumar da poeira dos cartapacios genealogicos de Guimar√£es aquelle
-Christov√£o do Valle, alcaide infesto ao servi√ßal do poeta. Quantas
-gera√ß√µes de leitores da carta do commendador das Duas Egrejas ter√£o
-passado inconscientes por sobre aquellas allus√µes!
+Referindo-se · satyra de S· de Miranda, cujos fragmentos trasladei,
+escreve a illustrada senhora a pag. 754: _As allusıes a um_ da Vale...
+_j· n„o podem ser decifradas_. Seria assombroso que s. ex.™ conseguisse
+exhumar da poeira dos cartapacios genealogicos de Guimar„es aquelle
+Christov„o do Valle, alcaide infesto ao serviÁal do poeta. Quantas
+geraÁıes de leitores da carta do commendador das Duas Egrejas ter„o
+passado inconscientes por sobre aquellas allusıes!
 
-Nas notas, por√©m, da sr.¬™ D. Carolina de Vasconcellos ha lances de
-investiga√ß√£o historica t√£o penetrantes e intuitivos que d√£o muito a
+Nas notas, porÈm, da sr.™ D. Carolina de Vasconcellos ha lances de
+investigaÁ„o historica t„o penetrantes e intuitivos que d„o muito a
 esperar, se os seus estudos nos baldios ingratos da archeologia
-literaria n√£o desanimarem arrefecidos pelo desaffecto que os portuguezes
+literaria n„o desanimarem arrefecidos pelo desaffecto que os portuguezes
 manifestam pelo archaismo.
 
-Aqui se me offerece um exemplo de lucida explora√ß√£o investigadora no
-livro admiravel desta senhora. Na _Carta V_ de S√° de Miranda a _Antonio
+Aqui se me offerece um exemplo de lucida exploraÁ„o investigadora no
+livro admiravel desta senhora. Na _Carta V_ de S· de Miranda a _Antonio
 Pereira_ (pag. 237), o poeta, referindo-se ao solar dos Pereiras, escreve:
 
-    Do qual ir√£o ha muitos annos
+    Do qual ir„o ha muitos annos
     Um que aqui Braga regeu,
     Pondo aparte os longos panos,
     O passo dos castelhanos
-    √Å espada o defendeu.
+    ¡ espada o defendeu.
 
-Commentando estes versos, explana a sr.¬™ D. Carolina de Vasconcellos
-(pag. 806): _Julgamos que se trata do av√¥ do grande condestavel, i. √©
-de D. Gon√ßalo Pereira que regeu Braga como arcebispo no meado do seculo
+Commentando estes versos, explana a sr.™ D. Carolina de Vasconcellos
+(pag. 806): _Julgamos que se trata do avÙ do grande condestavel, i. È
+de D. GonÁalo Pereira que regeu Braga como arcebispo no meado do seculo
 XIV. Quando o infante D. Pedro invadiu em 1354 as provincias de Entre
 Douro e Minho e Traz-os-Montes acompanhado de seus cunhados D. Ruy de
-Castro e D. Jo√£o de Castro foi ao seu encontro o arcebispo de Braga, que
+Castro e D. Jo„o de Castro foi ao seu encontro o arcebispo de Braga, que
 o havia advertido em tempo dos sinistros projectos de D. Affonso IV. O
 prelado apresentou-se como medianeiro para acalmar a contenda, e desviou
 o colerico infante do Porto..._
 
-Esta exposi√ß√£o tem equivoca√ß√µes. S. ex.¬™ como logo veremos, corrige
-alguns enganos com muita boa critica historica; outros, por√©m, que n√£o
-emenda, pedirei licen√ßa para os apontar. O infante D. Pedro n√£o invadiu
+Esta exposiÁ„o tem equivocaÁıes. S. ex.™ como logo veremos, corrige
+alguns enganos com muita boa critica historica; outros, porÈm, que n„o
+emenda, pedirei licenÁa para os apontar. O infante D. Pedro n„o invadiu
 a provincia de Entre Douro e Minho em 1354. Ignez de Castro foi
-assassinada em 7 de janeiro de 1355. A rebelli√£o do filho contra o pae
-come√ßou nesta ultima data e terminou em 6 de agosto do mesmo anno, pelas
-pazes feitas em Canavezes. Quanto aos irm√£os de Ignez: ella n√£o teve
-algum que se chamasse _Jo√£o_ ou _Ruy_. Teve dous: um, seu irm√£o inteiro,
+assassinada em 7 de janeiro de 1355. A rebelli„o do filho contra o pae
+comeÁou nesta ultima data e terminou em 6 de agosto do mesmo anno, pelas
+pazes feitas em Canavezes. Quanto aos irm„os de Ignez: ella n„o teve
+algum que se chamasse _Jo„o_ ou _Ruy_. Teve dous: um, seu irm„o inteiro,
 chamou-se D. Alvaro Pires de Castro, que foi conde de Arrayolos e
-condestavel; o outro, seu meio irm√£o, chamou-se D. Fernando Rodrigues de
-Castro. Al√©m destes irm√£os, teve uma meia irman, D. Joanna de Castro,
+condestavel; o outro, seu meio irm„o, chamou-se D. Fernando Rodrigues de
+Castro. AlÈm destes irm„os, teve uma meia irman, D. Joanna de Castro,
 que, depois de viuva de D. Diogo, senhor de Biscaia, casou com D. Pedro,
 _o Cruel_, rei de Castella, depois da morte de Maria Padilha.
 
-Quanto ao arcebispo D. Gon√ßalo Pereira, considerado por todos os
+Quanto ao arcebispo D. GonÁalo Pereira, considerado por todos os
 escritores nacionaes e estranhos que ha mais de dois seculos tratam a
 historia portugueza no seculo XIV, pacificador na guerra civil
-consecutiva √° morte de Ignez de Castro, emenda a sr.¬™ D. Carolina de
-Vasconcellos (pag. 882): _O arcebispo de Braga, D. Gon√ßalo Pereira, jaz
-sepultado numa capella annexa √° S√© de Braga, onde na inscrip√ß√£o tumular
-se l√™ ter elle morrido no anno de 1348. √â, pois, impossivel que a lenda
-sobre a sua interven√ß√£o nas luctas de D. Pedro, o Justiceiro, e de
+consecutiva · morte de Ignez de Castro, emenda a sr.™ D. Carolina de
+Vasconcellos (pag. 882): _O arcebispo de Braga, D. GonÁalo Pereira, jaz
+sepultado numa capella annexa · SÈ de Braga, onde na inscripÁ„o tumular
+se lÍ ter elle morrido no anno de 1348. …, pois, impossivel que a lenda
+sobre a sua intervenÁ„o nas luctas de D. Pedro, o Justiceiro, e de
 Affonso IV (1354) seja veridica._
 
-Conjectura depois a reflexiva escritora se o poeta alludiria √°
-interven√ß√£o do arcebispo nas pazes entre o infante D. Affonso IV e seu
-pae D. Diniz, ou √° concordia que o mesmo prelado restabeleceu entre
+Conjectura depois a reflexiva escritora se o poeta alludiria ·
+intervenÁ„o do arcebispo nas pazes entre o infante D. Affonso IV e seu
+pae D. Diniz, ou · concordia que o mesmo prelado restabeleceu entre
 Affonso XI de Castella e Affonso IV de Portugal.
 
 Estas hypotheses suggeriu-lh'as o _Nobiliario do Conde D. Pedro_,
-editado por A. Herculano, pag. 285. N√£o p√≥de, todavia, prevalecer alguma
-dessas conjecturas da excellente commentarista; porquanto S√° de Miranda,
-nas suas trovas, n√£o trata de pazes; √© de guerra, e √° ponta da espada
+editado por A. Herculano, pag. 285. N„o pÛde, todavia, prevalecer alguma
+dessas conjecturas da excellente commentarista; porquanto S· de Miranda,
+nas suas trovas, n„o trata de pazes; È de guerra, e · ponta da espada
 com castelhanos:
 
     Um que aqui Braga regeu
     Pondo aparte os longos panos
     O passo dos castelhanos
-    √Å espada o defendeu.
+    ¡ espada o defendeu.
 
-Daqui a pouco, espero conseguir que s. ex.¬™ acceite o facto historico,
-desembara√ßada de hypotheses, como elle se acha escrito nos antigos
+Daqui a pouco, espero conseguir que s. ex.™ acceite o facto historico,
+desembaraÁada de hypotheses, como elle se acha escrito nos antigos
 livros portuguezes.
 
-Quanto √° morte de D. Gon√ßalo Pereira emendou s. ex.¬™ um descuido
+Quanto · morte de D. GonÁalo Pereira emendou s. ex.™ um descuido
 repetido por todos os historiadores desde Manuel de Faria e Sousa e D.
-Rodrigo da Cunha, que tambem faz D. Gon√ßalo contemporaneo de D. Pedro I,
-j√° reinante.
+Rodrigo da Cunha, que tambem faz D. GonÁalo contemporaneo de D. Pedro I,
+j· reinante.
 
-A data da morte do arcebispo em 1348 n√£o era extranha para mim, quando
-em 1874 escrevi: "Em 1347 foi D. Gon√ßalo visitar a provincia
+A data da morte do arcebispo em 1348 n„o era extranha para mim, quando
+em 1874 escrevi: "Em 1347 foi D. GonÁalo visitar a provincia
 transmontana. Chegando a Villa Flor com grande sequito, travaram-se alli
 os seus criados com os moradores da terra, e de ambas as partes
 belligerantes morreram quatro homens e sahiram doze mal-feridos.
-Tangeram os sinos a rebate. Levantou-se a povoa√ß√£o armada. Cercaram a
+Tangeram os sinos a rebate. Levantou-se a povoaÁ„o armada. Cercaram a
 residencia do arcebispo, mataram-lhe seis homens, e matariam o proprio
-prelado, se n√£o fugisse, pendurando-se de uma corda, que lhe n√£o evitou
-cahir de costas no terreiro e contundir-se gravemente. N√£o contentes os
+prelado, se n„o fugisse, pendurando-se de uma corda, que lhe n„o evitou
+cahir de costas no terreiro e contundir-se gravemente. N„o contentes os
 de Villa Flor com a fuga do seu arcebispo, tomaram-lhe as malas, de
-envolta com parte dos capell√£es e seis criados. Protegido por atalhos, o
-contuso prelado chegou a Carrazeda de Anci√£es, povoa√ß√£o importante
+envolta com parte dos capell„es e seis criados. Protegido por atalhos, o
+contuso prelado chegou a Carrazeda de Anci„es, povoaÁ„o importante
 naquelle tempo, fortificou-se no castello, fez lavrar instrumento
 publico, e enviou-o a D. Affonso IV. O rei, poucos dias depois, mandou a
-Villa Flor uma al√ßada com dois algozes bem escoltados, e fez enforcar os
-sacrilegos que poude colher na devassa. Esta vingan√ßa nem por isso
-alliviou os incommodos do arcebispo descadeirado na qu√©da. Transferido a
+Villa Flor uma alÁada com dois algozes bem escoltados, e fez enforcar os
+sacrilegos que poude colher na devassa. Esta vinganÁa nem por isso
+alliviou os incommodos do arcebispo descadeirado na quÈda. Transferido a
 Braga, deitou-se para nunca mais se erguer. Quatro mezes depois
-adormeceu no Senhor." (_Noites de insomnia_, n.¬∫ 5, pag. 91 e 92).
+adormeceu no Senhor." (_Noites de insomnia_, n.∫ 5, pag. 91 e 92).
 
-Neste mesmo artigo, commemorando as proezas do av√¥ do condestavel D.
-Nuno Alvares, escrevi: _F√¥ra elle ainda quem acaudilh√°ra a hoste de
-portuguezes, quando uma invas√£o de hespanhoes, em desapoderada fuga,
-deixou o sangue de tresentas vidas nas lan√ßas dos alabardeiros do
+Neste mesmo artigo, commemorando as proezas do avÙ do condestavel D.
+Nuno Alvares, escrevi: _FÙra elle ainda quem acaudilh·ra a hoste de
+portuguezes, quando uma invas„o de hespanhoes, em desapoderada fuga,
+deixou o sangue de tresentas vidas nas lanÁas dos alabardeiros do
 arcebispo._ (_Ib._ pag. 92).
 
-Aqui tem s. ex.¬™ a fa√ßanha que o S√° de Miranda celebrou na sua carta a
+Aqui tem s. ex.™ a faÁanha que o S· de Miranda celebrou na sua carta a
 um dos descendentes do prelado guerreiro; e para que a illustre
-escritora a conhe√ßa de melhor auctoridade que a minha, aqui lhe dou o
+escritora a conheÁa de melhor auctoridade que a minha, aqui lhe dou o
 traslado de chronista antigo: "Por estes annos, entraram por ordem de
-el-rei D. Affonso onzeno de Castella pelo reino de Portugal, com m√£o
-armada, D. Fernando Rodrigues de Castro e D. Jo√£o de Castro seu irm√£o,
-capit√£es do reino de Galliza, roubando, desbaratando quanto achavam, com
-muita gente de armas, at√© chegarem √° cidade do Porto, e fazendo todo
+el-rei D. Affonso onzeno de Castella pelo reino de Portugal, com m„o
+armada, D. Fernando Rodrigues de Castro e D. Jo„o de Castro seu irm„o,
+capit„es do reino de Galliza, roubando, desbaratando quanto achavam, com
+muita gente de armas, atÈ chegarem · cidade do Porto, e fazendo todo
 estrago que podiam sem acharem resistencia, estando juntos nella o bispo
-D. Vasco, e D. Gon√ßalo Pereira, arcebispo de Braga, que antes f√¥ra De√£o
-do Porto, e o Mestre de Christo D. Frei Estev√£o Gon√ßalves refizeram
-1:400 homens entre infantes e cavallos, com os quaes os contrarios n√£o
+D. Vasco, e D. GonÁalo Pereira, arcebispo de Braga, que antes fÙra De„o
+do Porto, e o Mestre de Christo D. Frei Estev„o GonÁalves refizeram
+1:400 homens entre infantes e cavallos, com os quaes os contrarios n„o
 quizeram cometer peleja; e voltando as costas se foram recolhendo com a
 preza que levavam; mas seguindo-lhe os portuguezes o alcance lhe fizeram
-largar tudo, e custar a retirada mais do que cuidavam, at√© que com morte
-de D. Jo√£o de Castro e outros muitos soldados se foram recolhendo a
+largar tudo, e custar a retirada mais do que cuidavam, atÈ que com morte
+de D. Jo„o de Castro e outros muitos soldados se foram recolhendo a
 Galliza: foi isto na Era de 1374, anno de Christo 1336..." (D. RODRIGO
-DA CUNHA, _Cathalogo dos B. do Porto_, pag. 96, edi√ß. de 1742).
+DA CUNHA, _Cathalogo dos B. do Porto_, pag. 96, ediÁ. de 1742).
 
-N√£o nos restam, pois, incertezas quanto ao feito de armas encomiado por
-S√° de Miranda; e de todo em todo, √° vista do anno em que falleceu o
-arcebispo, irrefutavelmente fixado pela sr.¬™ D. Carolina Micha√´lis, √©
-excluido aquelle prelado da interven√ß√£o que os historiadores e at√©
-modernos dramaturgos lhe d√£o nos successos posteriores √° morte de Ignez
+N„o nos restam, pois, incertezas quanto ao feito de armas encomiado por
+S· de Miranda; e de todo em todo, · vista do anno em que falleceu o
+arcebispo, irrefutavelmente fixado pela sr.™ D. Carolina MichaÎlis, È
+excluido aquelle prelado da intervenÁ„o que os historiadores e atÈ
+modernos dramaturgos lhe d„o nos successos posteriores · morte de Ignez
 de Castro.
 
-Mas, donde procede essa confus√£o dos historiadores? Quem √© o sacerdote
-Pereira que defendeu o Porto da invas√£o do infante D. Pedro em 1355?
+Mas, donde procede essa confus„o dos historiadores? Quem È o sacerdote
+Pereira que defendeu o Porto da invas„o do infante D. Pedro em 1355?
 Vamos conhecel-o.
 
-Assim como leu a pag. 285 do _Nobiliario do Conde D. Pedro_, se a sr.¬™
-D. Carolina de Vasconcellos lesse a pag. 286, achava a decifra√ß√£o do
+Assim como leu a pag. 285 do _Nobiliario do Conde D. Pedro_, se a sr.™
+D. Carolina de Vasconcellos lesse a pag. 286, achava a decifraÁ„o do
 enigma. Ahi nos conta o continuador do conde de Barcellos (digo
-_continuador_, porque D. Pedro fallecido em 1354, n√£o podia referir
-factos occorridos em 1355) que o defensor da _Villa do Porto_, n√£o
-fortificada, foi D. Alvaro Gon√ßalves Pereira, filho do arcebispo D.
-Gon√ßalo. N√£o foi portanto, o pai; foi seu filho, o prior do Crato, pai
+_continuador_, porque D. Pedro fallecido em 1354, n„o podia referir
+factos occorridos em 1355) que o defensor da _Villa do Porto_, n„o
+fortificada, foi D. Alvaro GonÁalves Pereira, filho do arcebispo D.
+GonÁalo. N„o foi portanto, o pai; foi seu filho, o prior do Crato, pai
 do condestavel D. Nuno. E por que o texto do _Nobiliario_ tem uma
-concis√£o engra√ßada e pittoresca n√£o ser√° desagradavel ao leitor
+concis„o engraÁada e pittoresca n„o ser· desagradavel ao leitor
 conhecel-o. Vai textualmente: _Este Prior D. Alvaro foi o que pos os
-pend√µes por muro, estando na villa do Porto para a guardar por mandado
-del-rei D. Affonso IV, porque o Infante D. Pedro andava al√ßado del,
+pendıes por muro, estando na villa do Porto para a guardar por mandado
+del-rei D. Affonso IV, porque o Infante D. Pedro andava alÁado del,
 queimando e destruindo muitos logares do Reino, fazendo mal e danando a
 Diogo Lopes Pacheco, a D. Gil Vasques de Rezende e a Pero Coelho e a
 todos os que el culpava que foram conselheiros na morte da infanta D.
-Ignez de Castro, que citei seu padre matou, e a villa do Porto n√£o era
-murada em aquelle tempo, sen√£o em poucos logares de m√°o muro, e o Prior
-D. Alvaro fez muros de pend√µes das n√°os que ahi estavam, chantando as
+Ignez de Castro, que citei seu padre matou, e a villa do Porto n„o era
+murada em aquelle tempo, sen„o em poucos logares de m·o muro, e o Prior
+D. Alvaro fez muros de pendıes das n·os que ahi estavam, chantando as
 hastes delles pelo campo a redor da villa, e percebendo_ (industriando)
 _suas gentes como defendessem os pendoens. O Infante D. Pedro esteve ahi
 em cerca da villa 16 dias com grande poder de fidalgos portuguezes e de
 Galiza. Estes fidalgos desejavam muito cobrar a villa por a riqueza
-della. Isto durou at√© que chegou El-Rei D. Affonso IV, e o Prior D.
+della. Isto durou atÈ que chegou El-Rei D. Affonso IV, e o Prior D.
 Alvaro entregou-lhe sua villa, e alguns disseram que o Infante se
 soffreu de combater a villa por honra do Prior D. Alvaro. A verdade
 assim pareceu, que o Prior D. Alvaro, como entregou a villa a seu senhor
-El-Rei come√ßou de andar em preitezias_ (negocia√ß√µes) _entre El-Rei seu
-padre e aveo-os_ (aven√ßou-os) _e fez-lhe dar a sua quantia de maravedis
-que seu padre lhe tinha al√ßada_ (suspensa) _e fez-lhe dar o condado ao
-Infante D. Jo√£o seu filho, e outras muitas merc√™s... etc._
+El-Rei comeÁou de andar em preitezias_ (negociaÁıes) _entre El-Rei seu
+padre e aveo-os_ (avenÁou-os) _e fez-lhe dar a sua quantia de maravedis
+que seu padre lhe tinha alÁada_ (suspensa) _e fez-lhe dar o condado ao
+Infante D. Jo„o seu filho, e outras muitas mercÍs... etc._
 
-Ahi est√° o facto historico. A correc√ß√£o reconstituinte da sr.¬™ D.
+Ahi est· o facto historico. A correcÁ„o reconstituinte da sr.™ D.
 Carolina de Vasconcellos e os esclarecimentos que ouso offerecer-lhe
-ser√£o bastantes para expungir das historias patrias que por ahi correm a
-interven√ß√£o lendaria do arcebispo de Braga na guerra civil de 1355?
-Talvez n√£o. Ha erros enkistados que nenhum bisturi de critica desarreiga.
+ser„o bastantes para expungir das historias patrias que por ahi correm a
+intervenÁ„o lendaria do arcebispo de Braga na guerra civil de 1355?
+Talvez n„o. Ha erros enkistados que nenhum bisturi de critica desarreiga.
 
       *      *      *      *      *
 
-Recopilando as impress√µes que recebi do livro da illustrada alleman: a
-biographia de S√° de Miranda, expurgada de inveterados erros, est√°
-primorosamente redigida. A minudenciosa visita de s. ex.¬™ ao Castro e √°
+Recopilando as impressıes que recebi do livro da illustrada alleman: a
+biographia de S· de Miranda, expurgada de inveterados erros, est·
+primorosamente redigida. A minudenciosa visita de s. ex.™ ao Castro e ·
 quinta da Tapada revellam o amor com que a auctora estava possuida do
-seu assumpto. As reflex√µes philologicas rescendem um sabor germanico de
-que em Portugal decerto n√£o achou exemplos. A linguagem, a despeito de
-quasi imperceptiveis incorrec√ß√µes, parece ter sido estudada nos melhores
-mestres desde os primeiros alvores da sua educa√ß√£o literaria. Desata
+seu assumpto. As reflexıes philologicas rescendem um sabor germanico de
+que em Portugal decerto n„o achou exemplos. A linguagem, a despeito de
+quasi imperceptiveis incorrecÁıes, parece ter sido estudada nos melhores
+mestres desde os primeiros alvores da sua educaÁ„o literaria. Desata
 problemas invencilhados de genealogias; restitue a uns poetas obras
 attribuidas a outros; gradua o quilate dos diamantes que lapida sob o
 esmeril da critica mais esclarecida. Cotteja factos contemporaneos dos
 poemas, para lhes averiguar a ideia ou a allegoria. Prodigiosa paciencia
-e rara voca√ß√£o por tanta maneira divergente da nossa indole superficial
-em averigua√ß√µes desta natureza!
+e rara vocaÁ„o por tanta maneira divergente da nossa indole superficial
+em averiguaÁıes desta natureza!
 
-Devemos, portanto, √° insigne escritora a primeira edi√ß√£o digna do grande
-e quasi olvidado poeta. Devemos-lhe al√©m disso ter feito mais conhecido
+Devemos, portanto, · insigne escritora a primeira ediÁ„o digna do grande
+e quasi olvidado poeta. Devemos-lhe alÈm disso ter feito mais conhecido
 e apreciado do que era em Allemanha o grande luminar donde promanaram
 discipulos como Antonio Ferreira, Diogo Bernardes, Andrade Caminha, e a
-pleiade de seiscentistas que formam com Luiz de Cam√µes a idade aurea da
+pleiade de seiscentistas que formam com Luiz de Camıes a idade aurea da
 literatura portugueza.
 
-Com o livro estimavel da illustrada escritora ser√° mais lido em Portugal
-S√° de Miranda? Envergonho-me de confessar que n√£o. S. ex.¬™ achou-me
-exaggerado quando eu disse, que na minha terra se conhecia o poeta _S√°_
+Com o livro estimavel da illustrada escritora ser· mais lido em Portugal
+S· de Miranda? Envergonho-me de confessar que n„o. S. ex.™ achou-me
+exaggerado quando eu disse, que na minha terra se conhecia o poeta _S·_
 pelas charadas. "Sou poeta portuguez-I. Poeta portuguez com uma syllaba?
-√â por for√ßa S√°."
+… por forÁa S·."
 
 Insisto em teimar, minha senhora, que, quando a transcendente idiotia
 das charadas cahir no abysmo do ridiculo, apagar-se-ha de todo o nome do
-poeta. E, quando isso succeder, folgar√° grandemente a alma rancorosa de
-Christov√£o do Valle, ex-alcaide de Lindoso, que est√°, pelo menos, no
-purgatorio expiando a persegui√ß√£o que fez ao innocente gallego, vingado
-pela satyra do seu immortal patr√£o uzurariamente.
+poeta. E, quando isso succeder, folgar· grandemente a alma rancorosa de
+Christov„o do Valle, ex-alcaide de Lindoso, que est·, pelo menos, no
+purgatorio expiando a perseguiÁ„o que fez ao innocente gallego, vingado
+pela satyra do seu immortal patr„o uzurariamente.
 
 S. Miguel de Seide, 1887.
 
@@ -694,113 +694,113 @@ BIBLIOGRAPHIA CAMILLIANA
                                             _Meu prezado Henrique Marques_:
 
 Revia eu as ultimas provas de um modesto livrinho de homenagem, por mim
-offerecido √° insigne escriptora e minha excellente amiga D. Carolina
-Micha√´lis de Vasconcellos, quando me chegou √°s m√£os o precioso exemplar
-do monumento, que a perseveran√ßa de V. soube alevantar √° memoria de
-Camillo. Compunha-se o meu preito, √° alta intelligencia e ao nobre
-caracter da senhora D. Carolina Micha√´lis, da reuni√£o dos artigos, que
-em Portugal saudaram a portentosa edi√ß√£o das _Obras de S√° de Miranda_,
-na ordem chronologica do seu apparecimento: s√£o dois apenas, que mais
-n√£o conhe√ßo, mas com serem dois, teem a impol-os respectivamente a
+offerecido · insigne escriptora e minha excellente amiga D. Carolina
+MichaÎlis de Vasconcellos, quando me chegou ·s m„os o precioso exemplar
+do monumento, que a perseveranÁa de V. soube alevantar · memoria de
+Camillo. Compunha-se o meu preito, · alta intelligencia e ao nobre
+caracter da senhora D. Carolina MichaÎlis, da reuni„o dos artigos, que
+em Portugal saudaram a portentosa ediÁ„o das _Obras de S· de Miranda_,
+na ordem chronologica do seu apparecimento: s„o dois apenas, que mais
+n„o conheÁo, mas com serem dois, teem a impol-os respectivamente a
 auctoridade de Anthero de Quental e do Visconde de Correia Botelho, no
 unico logar em que Camillo rubricou, com o seu nome transformado, um
-escrito literario. √â ver o folhetim do n.¬∫ 91 do _Commercio do Porto_ de
-13 de abril de 1887. Ali, Camillo presta voto de homenagem ao saber e √°
-honestidade, com que S√° de Miranda foi evocado, em um espirito critico a
-que andavamos deshabituados, e a que por egual fizeram justi√ßa, nas
-cita√ß√µes dos seus livros, Theophilo Braga, Adolpho Coelho, Oliveira
+escrito literario. … ver o folhetim do n.∫ 91 do _Commercio do Porto_ de
+13 de abril de 1887. Ali, Camillo presta voto de homenagem ao saber e ·
+honestidade, com que S· de Miranda foi evocado, em um espirito critico a
+que andavamos deshabituados, e a que por egual fizeram justiÁa, nas
+citaÁıes dos seus livros, Theophilo Braga, Adolpho Coelho, Oliveira
 Martins, etc.
 
-Neste lan√ßo, e uma vez em meu poder a _Bibliographia Camilliana_,
-rebusquei a individua√ß√£o do estudo de Camillo, que bem interessante √©,
-por signal. O n.¬∫ 573 do seu livro n√£o o menciona, nem indica, donde me
-pareceu que lhe √© desconhecido na f√≥rma primeira de folhetim; que, de
-resto, V. l√° o aponta ao memorar dos trechos componentes do _Obulo √°s
-crean√ßas_. Junte-o, pois, agora, em f√≥rma autonoma, √° sua esplendida
+Neste lanÁo, e uma vez em meu poder a _Bibliographia Camilliana_,
+rebusquei a individuaÁ„o do estudo de Camillo, que bem interessante È,
+por signal. O n.∫ 573 do seu livro n„o o menciona, nem indica, donde me
+pareceu que lhe È desconhecido na fÛrma primeira de folhetim; que, de
+resto, V. l· o aponta ao memorar dos trechos componentes do _Obulo ·s
+creanÁas_. Junte-o, pois, agora, em fÛrma autonoma, · sua esplendida
 Camilliana--por certo a mais notavel que ainda se reuniu em Portugal e
-no Brazil--e consinta que neste lugar, que j√° agora tenho pelo mais
+no Brazil--e consinta que neste lugar, que j· agora tenho pelo mais
 opportuno, e numa cavaqueira amiga, o mais obscuro admirador da sua
-monographia, carreie duas ou tres annota√ß√µes, que sirvam de
-aperfei√ßoamento √° tra√ßa de um edificio, nobremente cimentado por
-trabalho improbo, como √© o seu. Acaso vale a pena de consignal-as neste
-opusculo, √° sombra do nome illustre da doutissima escritora alleman, que
-tirou carta de naturalisa√ß√£o entre os mais consideraveis publicistas do
-nosso paiz, e sob a √©gide dos dois grandes homens que firmam as paginas,
+monographia, carreie duas ou tres annotaÁıes, que sirvam de
+aperfeiÁoamento · traÁa de um edificio, nobremente cimentado por
+trabalho improbo, como È o seu. Acaso vale a pena de consignal-as neste
+opusculo, · sombra do nome illustre da doutissima escritora alleman, que
+tirou carta de naturalisaÁ„o entre os mais consideraveis publicistas do
+nosso paiz, e sob a Ègide dos dois grandes homens que firmam as paginas,
 precedentes a estas linhas corridas, de palestra amiga.
 
-√â de mais rapida mon√ß√£o ir inscrevendo as notas em rela√ß√£o a numeros, e
-na ordem de sec√ß√µes. Para aqui as traslado, pois, redigindo os
+… de mais rapida monÁ„o ir inscrevendo as notas em relaÁ„o a numeros, e
+na ordem de secÁıes. Para aqui as traslado, pois, redigindo os
 hierogliphicos, com que marginei o seu presente de nababo, numas horas
 rapidas de exame:
 
-N.¬∫ 10.--_O Clero e o sr. Alexandre Herculano._--D√™ste curioso folheto
-extrahiram-se exemplares em papel azul, meio cart√£o. Vi ha annos um, na
-loja do sr. Jo√£o V. da Silva Coelho, √° rua Augusta. Vem a p√™llo referir
+N.∫ 10.--_O Clero e o sr. Alexandre Herculano._--DÍste curioso folheto
+extrahiram-se exemplares em papel azul, meio cart„o. Vi ha annos um, na
+loja do sr. Jo„o V. da Silva Coelho, · rua Augusta. Vem a pÍllo referir
 que Latino Coelho inseriu anonimamente, num dos primeiros volumes da
-Revista Popular, uns valiosos tra√ßos de aprecia√ß√£o d√™ste opusculo.
+Revista Popular, uns valiosos traÁos de apreciaÁ„o dÍste opusculo.
 
-N.¬∫ 95.--_Divindade de Jesus._ Este livro reune artigos publicados
+N.∫ 95.--_Divindade de Jesus._ Este livro reune artigos publicados
 muitos annos antes, e teve como fim immediato facilitar ao auctor a
-acquisi√ß√£o de um exemplar rarissimo dos _Amusements p√©riodiques_ do
-Cavalleiro de Oliveyra, que Jos√© Gomes Monteiro possuia e que Camillo
-namorava desde muito. Esse exemplar ajudou √° elabora√ß√£o do _Judeu_, da
+acquisiÁ„o de um exemplar rarissimo dos _Amusements pÈriodiques_ do
+Cavalleiro de Oliveyra, que JosÈ Gomes Monteiro possuia e que Camillo
+namorava desde muito. Esse exemplar ajudou · elaboraÁ„o do _Judeu_, da
 _Caveira da Martyr_, das _Noites de Insomnia_, e, mais tarde, de algumas
-sec√ß√µes da _Historia de Portugal_ de Oliveira Martins. Possuo-o eu
-actualmente, tendo successivamente pertencido a Augusto Soromenho, Jos√©
-Gomes, Camillo e Annibal Fernandes Thomaz. Numa das guardas do 1.¬∫ vol.,
-lan√ßou Camillo a seguinte cota: "Dei por este livro o mss. da Divindade
-de Jesus, reputado em 14 libras, a Jos√© Gomes Monteiro".
+secÁıes da _Historia de Portugal_ de Oliveira Martins. Possuo-o eu
+actualmente, tendo successivamente pertencido a Augusto Soromenho, JosÈ
+Gomes, Camillo e Annibal Fernandes Thomaz. Numa das guardas do 1.∫ vol.,
+lanÁou Camillo a seguinte cota: "Dei por este livro o mss. da Divindade
+de Jesus, reputado em 14 libras, a JosÈ Gomes Monteiro".
 
-N.¬∫ 146.--_O Condemnado._--√â, effectivamente, uma contrafac√ß√£o. Basta
-que o meu presado Henrique Marques se d√™ ao incommodo de reflectir que
-em 1871 a casa Mor√© se achava ainda num periodo de relativa actividade e
-que nada tinha que ver com a loja de Jo√£o Coutinho. Pelo mesmo motivo,
-applico esta observa√ß√£o ao numero immediato, (147).
+N.∫ 146.--_O Condemnado._--…, effectivamente, uma contrafacÁ„o. Basta
+que o meu presado Henrique Marques se dÍ ao incommodo de reflectir que
+em 1871 a casa MorÈ se achava ainda num periodo de relativa actividade e
+que nada tinha que ver com a loja de Jo„o Coutinho. Pelo mesmo motivo,
+applico esta observaÁ„o ao numero immediato, (147).
 
-N.¬∫ 174.--_A Caveira da Martyr._--Da queima do 1.¬∫ volume--feita por
+N.∫ 174.--_A Caveira da Martyr._--Da queima do 1.∫ volume--feita por
 motivos de consciencia,--salvaram-se uns quarenta exemplares, por se
-acharem deslocados nos depositos do editor. S√£o esses os que teem sido
-vendidos. N√£o ha, nem houve reimpress√£o daquelle tomo. O editor recusou
+acharem deslocados nos depositos do editor. S„o esses os que teem sido
+vendidos. N„o ha, nem houve reimpress„o daquelle tomo. O editor recusou
 mesmo vender a propriedade da obra, quando traspassou a Pedro Correia a
 de todas as demais livros de Camillo, que havia adquirido. A nota de H.
-Marques √© absolutamente injusta. Conhe√ßo o sr. Tavares Cardoso, o
+Marques È absolutamente injusta. ConheÁo o sr. Tavares Cardoso, o
 bastante para tomar a responsabilidade desta affirmativa, que o seu
 caracter me garante e abona.
 
-N.¬∫ 176.--_Curso de litteratura._--Numa das cartas publicadas no
-opusculo adiante descrito, sob n.¬∫ 289, acha-se, a breve trecho, uma
-curiosa e incisiva aprecia√ß√£o da parte d√™ste trabalho, redigida por
+N.∫ 176.--_Curso de litteratura._--Numa das cartas publicadas no
+opusculo adiante descrito, sob n.∫ 289, acha-se, a breve trecho, uma
+curiosa e incisiva apreciaÁ„o da parte dÍste trabalho, redigida por
 Andrade Ferreira.
 
-N.¬∫ 221.--_Bohemia do Espirito._--O estudo sobre Luis de Cam√µes tem,
-pelo menos, uma passagem, que se n√£o l√™ nas impress√µes anteriores, e que
-se refere ao S√° de Miranda da sr.¬™ D. Carolina Micha√´lis.
+N.∫ 221.--_Bohemia do Espirito._--O estudo sobre Luis de Camıes tem,
+pelo menos, uma passagem, que se n„o lÍ nas impressıes anteriores, e que
+se refere ao S· de Miranda da sr.™ D. Carolina MichaÎlis.
 
-N.¬∫ 237.--_Delictos da mocidade._--Al√©m da edi√ß√£o especial que ficou
-apontada, ha uma outra, em papel Jap√£o tambem, mas sem as letras
-capitaes a c√¥res. Possue um exemplar o meu amigo dr. A. A. de Carvalho
+N.∫ 237.--_Delictos da mocidade._--AlÈm da ediÁ„o especial que ficou
+apontada, ha uma outra, em papel Jap„o tambem, mas sem as letras
+capitaes a cÙres. Possue um exemplar o meu amigo dr. A. A. de Carvalho
 Monteiro.
 
-N.¬∫ 263.--_Am√¥r de perdi√ß√£o._--Fui eu quem tra√ßou o plano da edi√ß√£o.
-Pertence-me a reda√ß√£o do prospecto e a escolha dos individuos que
-tiveram de escrever a parte critica. Camillo tinha em grande atten√ß√£o o
+N.∫ 263.--_AmÙr de perdiÁ„o._--Fui eu quem traÁou o plano da ediÁ„o.
+Pertence-me a redaÁ„o do prospecto e a escolha dos individuos que
+tiveram de escrever a parte critica. Camillo tinha em grande attenÁ„o o
 meu enthusiasmo por este admiravel livro, a que todavia antepunha o
 _Romance de um homem rico_ e o _Retrato de Ricardina_. Dois ou tres dias
-depois de uma das muitas conversas que tivemos, sobre o th√™ma do _Am√¥r
-de Perdi√ß√£o_, vinha-me da residencia amiga de S. Miguel de Seide um
+depois de uma das muitas conversas que tivemos, sobre o thÍma do _AmÙr
+de PerdiÁ„o_, vinha-me da residencia amiga de S. Miguel de Seide um
 exemplar da extraordinaria novella, com o seguinte _envoi_ do notavel
 romancista:--"_Para fazer chorar de novo Joaquim de Araujo--essa suprema
-express√£o das almas boas, chorar._ C. C. Branco". Henrique Marques cita
-um exemplar especial da 1.¬™ edi√ß√£o. P√≥de addicionar-lhe o que deve
+express„o das almas boas, chorar._ C. C. Branco". Henrique Marques cita
+um exemplar especial da 1.™ ediÁ„o. PÛde addicionar-lhe o que deve
 existir na Biblioteca particular de El-rei, o que foi presenteado a
 Fontes e o que recentemente adquiriu o meu amigo Joaquim Gomes de
 Macedo. Esta tiragem especial foi de 12 exemplares, com destino a
-brindes, que por ent√£o se effectuaram a individuos e sociedades de
-Portugal e do Brazil, sob indicativa de Camillo e de Jos√© Gomes Monteiro.
+brindes, que por ent„o se effectuaram a individuos e sociedades de
+Portugal e do Brazil, sob indicativa de Camillo e de JosÈ Gomes Monteiro.
 
-N.¬∫ 289.--_Cartas de Camillo Castello Branco a Joaquim de Araujo._ Entre
+N.∫ 289.--_Cartas de Camillo Castello Branco a Joaquim de Araujo._ Entre
 os meus papeis, encontro mais a seguinte missiva de Camillo, bastante
-curiosa para a historia do n.¬∫ 189:
+curiosa para a historia do n.∫ 189:
 
                                                              _Meu amigo:_
 
@@ -809,14 +809,14 @@ cerebro em lama. Vou ver se os ares de Braga e a ausencia de livros me
 restauram.
 
 Anna Placido vae ler os seus versos. Conhece os que appareceram
-dispersos nas folhas. Diz ella que a linguagem dos poetas lhe est√° sendo
-hoje um dialecto oriental. Accrescenta que est√° muito velha, muito
+dispersos nas folhas. Diz ella que a linguagem dos poetas lhe est· sendo
+hoje um dialecto oriental. Accrescenta que est· muito velha, muito
 materialisada pela vida rural e pelas enormes tristezas da sua vida.
 Entretanto, as suas poesias alumiam escuridoens.
 
 Logo que volte de Braga participo-lh'o.
 
-                                                        De V. Ex.¬™
+                                                        De V. Ex.™
 
                                                     Admirador e amigo
 
@@ -826,51 +826,51 @@ S. C. 2 de junho de 1882.
 
 Nunca vi exemplares em _grand papier_ do _Perfil do Marquez de Pombal_,
 mas o editor Manuel Malheiro asseverou-me que fizera imprimir uns tres
-ou quatro. S√≥ a sr.¬™ viscondessa de Correia Botelho, minha muito
-estimada e querida amiga, poder√° desenvincilhar hoje este pequeno
+ou quatro. SÛ a sr.™ viscondessa de Correia Botelho, minha muito
+estimada e querida amiga, poder· desenvincilhar hoje este pequeno
 problema bibliographico.
 
-N.¬∫ 291--_Genio do Christianismo_--Embora o frontispicio das quatro
-edi√ß√µes publicadas atribua esta vers√£o a Camillo Castello Branco, o
-facto √© que a interferencia do grande escritor s√≥ tem rela√ß√£o com os
+N.∫ 291--_Genio do Christianismo_--Embora o frontispicio das quatro
+ediÁıes publicadas atribua esta vers„o a Camillo Castello Branco, o
+facto È que a interferencia do grande escritor sÛ tem relaÁ„o com os
 primeiros capitulos; os demais foram vertidos por Augusto Soromenho.
 Para compensar o editor Coutinho, Camillo derivou o cumprimento do seu
-contracto para um romance original--_Como Deus castiga!_ cuja ac√ß√£o se
-desenrolava pelos tumultos, a que no Porto deu origem a crea√ß√£o da
+contracto para um romance original--_Como Deus castiga!_ cuja acÁ„o se
+desenrolava pelos tumultos, a que no Porto deu origem a creaÁ„o da
 Companhia das Vinhas do Alto Douro. Existem escritos cinco capitulos, um
-dos quaes se acha menos correctamente mencionado, sob n.¬∫ 607 da
-_Bibliographia_. A elabora√ß√£o d√™ste romance data de 1861; abandonando o
+dos quaes se acha menos correctamente mencionado, sob n.∫ 607 da
+_Bibliographia_. A elaboraÁ„o dÍste romance data de 1861; abandonando o
 assumpto, Camillo saldou noutro volume as suas contas com o editor.
 _Como Deus castiga!_ deve ser citado entre os n.os 49 e 55, no grupo de
 obras originaes.
 
-N.¬∫ 300--_A Freira no subterraneo._--Nenhuma das edi√ß√µes traz nome de
+N.∫ 300--_A Freira no subterraneo._--Nenhuma das ediÁıes traz nome de
 autor; ouvi que Camillo redigira elle proprio o romance, aproveitando
 alguns dados de promenorisadas noticias, alludentes ao sequestro de uma
 emparedada em um convento russo.
 
-N.os 333 e 373--_Catalogos etc._--A serem verdadeiras, como s√£o, para
-mim, as indica√ß√µes de Henrique Marques, o logar d√™stes numeros deve
+N.os 333 e 373--_Catalogos etc._--A serem verdadeiras, como s„o, para
+mim, as indicaÁıes de Henrique Marques, o logar dÍstes numeros deve
 marcar-se entre a serie das obras originaes do autor.
 
-N.¬∫ 470--_Obulo √°s crean√ßas_--As duas prociss√µes, dos _Mortos e dos
-moribundos_, correram mundo em jornaes diversos, que n√£o vejo designados
-no 5.¬∫ grupo da _Bibliographia_. A proposito, escreveu Camillo a Bulh√£o
+N.∫ 470--_Obulo ·s creanÁas_--As duas procissıes, dos _Mortos e dos
+moribundos_, correram mundo em jornaes diversos, que n„o vejo designados
+no 5.∫ grupo da _Bibliographia_. A proposito, escreveu Camillo a Bulh„o
 Pato uma eloquente carta, que este distinctissimo poeta engastou num
-commovido folhetim do _Diario Popular_, referente √° loucura de Freitas e
-Oliveira. Camillo convidava Bulh√£o Pato a enfileirar tambem
+commovido folhetim do _Diario Popular_, referente · loucura de Freitas e
+Oliveira. Camillo convidava Bulh„o Pato a enfileirar tambem
 processionalmente os seus mortos queridos. Com um talento extraordinario
-de vis√£o das idades transcorridas, com o inestimavel estilo que Oliveira
+de vis„o das idades transcorridas, com o inestimavel estilo que Oliveira
 Martins considerava impressionavelmente consolador e unico, nessas
-evoca√ß√µes, j√°, antes do convite de Camillo, Bulh√£o Pato fundira o
+evocaÁıes, j·, antes do convite de Camillo, Bulh„o Pato fundira o
 inimitavel tomo _Sob os Ciprestes_. Pelo corrente deste livro, as suas
-recentes _Memorias_ pertencem √° cathegoria dos trabalhos de primeira
-ordem, que, entre n√≥s, se teem produzido, na segunda metade deste
-seculo. Admiro sem restri√ß√µes o autor de t√£o altos primores, como os que
+recentes _Memorias_ pertencem · cathegoria dos trabalhos de primeira
+ordem, que, entre nÛs, se teem produzido, na segunda metade deste
+seculo. Admiro sem restriÁıes o autor de t„o altos primores, como os que
 se revelam nas nobres paginas consagradas a Anthero de Quental.
 
 Entre os livros que conteem escritos de Camillo, por certo que ainda
-falta--e at√© quando?--accentuar bastantes, embora V. apresente uma
+falta--e atÈ quando?--accentuar bastantes, embora V. apresente uma
 soberba lista; lembra-me indicar-lhe a _A Propriedade intellectual_ do
 meu querido amigo e eminente publicista Visconde de Faria Maya, impresso
 num limitadissimo numero de exemplares, em Ponta Delgada; os _Homens e
@@ -878,52 +878,52 @@ letras_ de Candido de Figueiredo; _A Sciencia e probidade_ de Francisco
 Adolpho Coelho; o _Fausto de Castilho julgado pelo elogio mutuo_ de
 Joaquim de Vasconcellos; e um dos _Catalogos_ do sr. Lima Calheiros:
 sendo possivel que neste capitulo se possam inscrever os trabalhos
-philologicos de Manuel de Mello e os opusculos faustianos de Gra√ßa
-Barreto. Escrevendo estas linhas longe dos meus livros, n√£o posso jurar
-nas ultimas indica√ß√µes, que registro, apenas, a beneficio de inventario.
+philologicos de Manuel de Mello e os opusculos faustianos de GraÁa
+Barreto. Escrevendo estas linhas longe dos meus livros, n„o posso jurar
+nas ultimas indicaÁıes, que registro, apenas, a beneficio de inventario.
 
-Quanto √° sec√ß√£o de jornaes e revistas, ha que ter em conta os numeros do
+Quanto · secÁ„o de jornaes e revistas, ha que ter em conta os numeros do
 _Primeiro de Janeiro_, em que Camillo publicou a _Necrologia do
 commendador Vieira de Castro_, as cartas a Germano de Meyrelles por
-motivo do processo do grande tribuno d√™ste nome, e a Jo√£o de Oliveira
-Ramos, em occasi√µes varias; o _Circulo Camoniano_; o _Diario da Tarde_,
-onde a collabora√ß√£o de Camillo foi extensa, e onde se acha reproduzida a
-materia do _Bico de gaz_ (n.¬∫ 504), sem a menor obediencia √°s sete
+motivo do processo do grande tribuno dÍste nome, e a Jo„o de Oliveira
+Ramos, em occasiıes varias; o _Circulo Camoniano_; o _Diario da Tarde_,
+onde a collaboraÁ„o de Camillo foi extensa, e onde se acha reproduzida a
+materia do _Bico de gaz_ (n.∫ 504), sem a menor obediencia ·s sete
 chaves com que, annos depois (!), na Bibliotheca Municipal do Porto
 intelligentemente lhe vedaram, a V., o direito de copiar o exemplar, que
-l√° se guarda; o _Diario Nacional_ que revelou em primeira m√£o alguns dos
-promenores historicos de _D. Luis de Portugal_. Muitos outros haver√°
+l· se guarda; o _Diario Nacional_ que revelou em primeira m„o alguns dos
+promenores historicos de _D. Luis de Portugal_. Muitos outros haver·
 decerto. E por se fallar em jornaes, lembro-lhe a utilidade de nos
-indices finaes do seu trabalho, mencionar √° parte os periodicos, de
+indices finaes do seu trabalho, mencionar · parte os periodicos, de
 qualquer indole, que tiveram Camillo como redactor ou editor exclusivo,
-e bem assim os volumes que devem a sua impress√£o ou reedi√ß√£o ao grande
+e bem assim os volumes que devem a sua impress„o ou reediÁ„o ao grande
 escritor, embora com o concurso de livreiros. Dada a lucidissima
-organisa√ß√£o dos seus numeros de recorrencia, √© facil esmiu√ßar toda a
+organisaÁ„o dos seus numeros de recorrencia, È facil esmiuÁar toda a
 casta de indices. Um dos mais curiosos seria o de todas as pessoas
 citadas na _Bibliographia Camilliana_.
 
-Uma observa√ß√£o ainda: diz respeito a tiragens especiaes. Ha, que eu
+Uma observaÁ„o ainda: diz respeito a tiragens especiaes. Ha, que eu
 saiba, dos seguintes numeros: 368 (poucos exemplares em papel Whatman);
 401 (oitenta a cem exemplares em velino e linho nacional); 409 (1
 exemplar em China, 2 em velino, e 38 em linho) 458 (6 exemplares em
 Whatman); 462 (diversos exemplares em linho); 488 (8 exemplares em
-China); 494 (6 exemplares em papel cart√£o amarello.) Das _Poesias e
-prosas de Soropita_ fez-se tambem uma impress√£o √° parte, de pouquissimos
+China); 494 (6 exemplares em papel cart„o amarello.) Das _Poesias e
+prosas de Soropita_ fez-se tambem uma impress„o · parte, de pouquissimos
 exemplares, menos talvez ainda do que os que o editor Chardron mandou
-tirar das _Escava√ß√µes bibliographicas_, folhetim do _Diario Mercantil_,
+tirar das _EscavaÁıes bibliographicas_, folhetim do _Diario Mercantil_,
 em que Theophilo Braga analisou severamente o apparecimerito daquelle
 volume.
 
-Clareia a manhan, e tempo √© de ensaiar um termo a esta carta, do tamanho
-classico das legoas da Povoa. Infelizmente, n√£o lhe posso dar mais alta
-prova da minha considera√ß√£o pelo seu livro, digno, em tudo, do grande
-escritor a quem √© consagrado, e quasi pagamento de uma divida nacional.
+Clareia a manhan, e tempo È de ensaiar um termo a esta carta, do tamanho
+classico das legoas da Povoa. Infelizmente, n„o lhe posso dar mais alta
+prova da minha consideraÁ„o pelo seu livro, digno, em tudo, do grande
+escritor a quem È consagrado, e quasi pagamento de uma divida nacional.
 Por mim, registro-o como um dos mais valiosos subsidios para a nossa
 moderna historia literaria, e as pequenas minucias que lhe addito
 testemunham exhuberantemente ao meu amigo o applauso mais sincero e o
 parabem mais enthusiastico. Do seu editor, e meu excellente amigo A. M.
-Pereira, t√£o s√≥mente lhe digo que, na publica√ß√£o da _Bibliographia
-Camilliana_, praticou uma das mais bellas ac√ß√µes da sua brilhantissima
+Pereira, t„o sÛmente lhe digo que, na publicaÁ„o da _Bibliographia
+Camilliana_, praticou uma das mais bellas acÁıes da sua brilhantissima
 carreira.
 
 S. c. Lisboa, 25 de agosto, 94.
@@ -935,16 +935,16 @@ S. c. Lisboa, 25 de agosto, 94.
 
 
 
-Pre√ßo 200 r√©is
+PreÁo 200 rÈis
 
 
 
 
 
-End of the Project Gutenberg EBook of S√° de Miranda, by 
-Antero Tarqu√≠nio de Quental and Camilo Ferreira Botelho Castelo Branco and Joaquim de Araujo
+End of the Project Gutenberg EBook of S· de Miranda, by 
+Antero TarquÌnio de Quental and Camilo Ferreira Botelho Castelo Branco and Joaquim de Araujo
 
-*** END OF THIS PROJECT GUTENBERG EBOOK S√Å DE MIRANDA ***
+*** END OF THIS PROJECT GUTENBERG EBOOK S¡ DE MIRANDA ***
 
 ***** This file should be named 25845-8.txt or 25845-8.zip *****
 This and all associated files of various formats will be found in:

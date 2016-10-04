@@ -1,4 +1,4 @@
-The Project Gutenberg EBook of A funda√ß√£o da monarchia portugueza, by 
+The Project Gutenberg EBook of A fundaÁ„o da monarchia portugueza, by 
 A. A. Teixeira de Vasconcellos
 
 This eBook is for the use of anyone anywhere at no cost and with
@@ -7,8 +7,8 @@ re-use it under the terms of the Project Gutenberg License included
 with this eBook or online at www.gutenberg.org
 
 
-Title: A funda√ß√£o da monarchia portugueza
-       narra√ß√£o anti-iberica
+Title: A fundaÁ„o da monarchia portugueza
+       narraÁ„o anti-iberica
 
 Author: A. A. Teixeira de Vasconcellos
 
@@ -18,12 +18,12 @@ Language: Portuguese
 
 Character set encoding: ISO-8859-1
 
-*** START OF THIS PROJECT GUTENBERG EBOOK A FUNDA√á√ÉO DA MONARCHIA PORTUGUEZA ***
+*** START OF THIS PROJECT GUTENBERG EBOOK A FUNDA«√O DA MONARCHIA PORTUGUEZA ***
 
 
 
 
-Produced by Pedro Saborano. Para coment√°rios √† transcri√ß√£o
+Produced by Pedro Saborano. Para coment·rios ‡ transcriÁ„o
 visite http://pt-scriba.blogspot.com/ (This book was
 produced from scanned images of public domain material
 from the Google Print project.)
@@ -39,9 +39,9 @@ LIVROS PARA O POVO
 II
 
 
-A FUNDA√á√ÉO DA MONARCHIA PORTUGUEZA
+A FUNDA«√O DA MONARCHIA PORTUGUEZA
 
-NARRA√á√ÉO ANTI-IBERICA
+NARRA«√O ANTI-IBERICA
 
 
 POR
@@ -68,22 +68,22 @@ Meus caros senhores:
 
 A bondade com que v. s.^as me offereceram no seu periodico uma tarefa
 effectiva, e bem remunerada, deu-me o descanso necessario para continuar os
-trabalhos litterarios, que eu come√ßara mais rico de inten√ß√µes patrioticas
+trabalhos litterarios, que eu comeÁara mais rico de intenÁıes patrioticas
 que de cabedaes para os levar a cabo.
 
-√Å imprensa de toda a Europa e de uma parte da America devo as maiores
-finezas, e quanta protec√ß√£o e auxilio ella p√≥de dar. √Å imprensa portugueza
-tambem estou em grandes obriga√ß√µes, mas entre os que militam n'ella s√£o v.
+¡ imprensa de toda a Europa e de uma parte da America devo as maiores
+finezas, e quanta protecÁ„o e auxilio ella pÛde dar. ¡ imprensa portugueza
+tambem estou em grandes obrigaÁıes, mas entre os que militam n'ella s„o v.
 s.^as dos que mais efficazmente se esmeraram em me ajudar e favorecer.
 
-Ao amor de m√£e, com que toda a imprensa me tratou, correspondo eu com o
-affecto filial, que sempre lhe tive; e a v. s.^as offere√ßo o primeiro livro
+Ao amor de m„e, com que toda a imprensa me tratou, correspondo eu com o
+affecto filial, que sempre lhe tive; e a v. s.^as offereÁo o primeiro livro
 que publico n'este anno.
 
-Aceitem-o como testemunho da minha estima e agradecimento. √â a primeira
-dedicatoria que fa√ßo.
+Aceitem-o como testemunho da minha estima e agradecimento. … a primeira
+dedicatoria que faÁo.
 
-Sou com a maior considera√ß√£o
+Sou com a maior consideraÁ„o
 
 De v. s.^as
 
@@ -92,7 +92,7 @@ Amigo e venerador obrigado
 _A. A. Teixeira de Vasconcellos._
 
 
-Lisboa, rua du Santo Antonio, √° Estrella, n.^o 66,
+Lisboa, rua du Santo Antonio, · Estrella, n.^o 66,
 
 21 de julho de 1860.
 
@@ -102,128 +102,128 @@ Lisboa, rua du Santo Antonio, √° Estrella, n.^o 66,
 *PALAVRAS NECESSARIAS*
 
 
-O livrinho que hoje s√°e √° luz, devia ter sido escripto e publicado ha um
-anno, e ap√≥s elle muitos outros do mesmo genero. N√£o aconteceu por√©m assim,
-porque n√£o era negocio dependente s√≥ da minha vontade.
+O livrinho que hoje s·e · luz, devia ter sido escripto e publicado ha um
+anno, e apÛs elle muitos outros do mesmo genero. N„o aconteceu porÈm assim,
+porque n„o era negocio dependente sÛ da minha vontade.
 
-Desde que o foi, peguei na penna e n√£o a tornei a p√¥r no tinteiro sem ter
+Desde que o foi, peguei na penna e n„o a tornei a pÙr no tinteiro sem ter
 acabado o livro. Tenho para mim que as classes populares carecem de uma
-bibliotheca composta de livros uteis, de doutrina s√£, de li√ß√£o curiosa, e
-baratos, e ando a ver se cabe nas minhas for√ßas √≠r-lh'a preparando com
+bibliotheca composta de livros uteis, de doutrina s„, de liÁ„o curiosa, e
+baratos, e ando a ver se cabe nas minhas forÁas Ìr-lh'a preparando com
 estes volumes.
 
-A tal empenho, assim como ao de revelar √° Europa na lingua franceza o que
-ainda valemos como na√ß√£o independente, espero poder consagrar o resto dos
-meus dias, apesar dos obstaculos que j√° me t√™em apparecido, e √°s vezes da
+A tal empenho, assim como ao de revelar · Europa na lingua franceza o que
+ainda valemos como naÁ„o independente, espero poder consagrar o resto dos
+meus dias, apesar dos obstaculos que j· me tÍem apparecido, e ·s vezes da
 parte d'aquelles a quem incumbia afasta-los; sem embargo das difficuldades
 inseparaveis d'estas duas emprezas, e sem me affligir com as
 miserias--muito miseraveis--que tenho encontrado no meu caminho. Tudo isso
 vou arredando e vencendo alegremente.
 
 Alegremente digo eu, e digo bem. Quem combate pela verdade contra o erro,
-pela energia contra a pregui√ßa, pelo bom senso contra a toleima, e pela
-patria contra os que a calumniam, tem occasi√µes de grande contentamento.
+pela energia contra a preguiÁa, pelo bom senso contra a toleima, e pela
+patria contra os que a calumniam, tem occasiıes de grande contentamento.
 Com isso me animo e conforto para continuar.
 
-Este √© pois o segundo volume dos _Livros para o povo_. Trata da
-funda√ß√£o da monarchia portugueza, como estava indicado no programma d'esta
-publica√ß√£o, e √© pelo que pertence aos factos um resumo do que a tal
+Este È pois o segundo volume dos _Livros para o povo_. Trata da
+fundaÁ„o da monarchia portugueza, como estava indicado no programma d'esta
+publicaÁ„o, e È pelo que pertence aos factos um resumo do que a tal
 respeito escreveu o nosso illustre historiador o sr. Alexandre Herculano no
 tom. I da sua Historia geral de Portugal.
 
-Parece-nos que s√°e √° luz em occasi√£o opportuna. Agora que nos andam a dizer
-que a nossa nacionalidade e independencia n√£o podem durar muito, √© justo
+Parece-nos que s·e · luz em occasi„o opportuna. Agora que nos andam a dizer
+que a nossa nacionalidade e independencia n„o podem durar muito, È justo
 que o povo saiba ou se recorde como ambas principiaram e nasceram de
 elementos, de certo, bem inferiores aos que temos hoje para as defender e
 sustentar.
 
-N√£o √© uma quest√£o de dynastias. Os portuguezes j√° eram livres antes de
-fabricarem a cor√¥a que puzeram na cabe√ßa de D. Affonso Henriques. √â uma
-quest√£o de liberdade e de brio nacional.
+N„o È uma quest„o de dynastias. Os portuguezes j· eram livres antes de
+fabricarem a corÙa que puzeram na cabeÁa de D. Affonso Henriques. … uma
+quest„o de liberdade e de brio nacional.
 
-Para que o povo a resolva com conhecimento de causa, √© conveniente que
+Para que o povo a resolva com conhecimento de causa, È conveniente que
 saiba o que faz, e quanto vale o que falsos amigos lhe aconselham que
-destrua. Se ainda depois tiver em pouco a sua nacionalidade, √© que j√° n√£o
+destrua. Se ainda depois tiver em pouco a sua nacionalidade, È que j· n„o
 merece conserva-la.
 
-A minha voz n√£o √© suspeita. Acato muito os reis porque s√£o os
+A minha voz n„o È suspeita. Acato muito os reis porque s„o os
 representantes do principio monarchico o qual me parece garantir a
-liberdade mais duravelmente do que qualquer outro, mas tratar a quest√£o da
-independencia nacional em rela√ß√£o a uma familia, diminuiria a grandeza do
+liberdade mais duravelmente do que qualquer outro, mas tratar a quest„o da
+independencia nacional em relaÁ„o a uma familia, diminuiria a grandeza do
 assumpto, por elevada e nobre que essa familia seja.
 
-Tambem n√£o sou cortez√£o do povo. √â peior que ser cortez√£o dos reis. √â
-mister disfar√ßar mais, mentir sempre, e soffrer tudo. A popularidade vem
-com difficuldade e desvanece-se em um volver de olhos. N√£o vale o que
-custa. Nunca a procurei. N'estes livros, que s√£o para o povo, escrevo o que
+Tambem n„o sou cortez„o do povo. … peior que ser cortez„o dos reis. …
+mister disfarÁar mais, mentir sempre, e soffrer tudo. A popularidade vem
+com difficuldade e desvanece-se em um volver de olhos. N„o vale o que
+custa. Nunca a procurei. N'estes livros, que s„o para o povo, escrevo o que
 me parece justo e util sem curar de lhe conquistar o affecto. Sei mesmo que
-terei occasi√µes de lhe desagradar.
+terei occasiıes de lhe desagradar.
 
-As minhas opini√µes acerca da quest√£o iberica s√£o conhecidas em Portugal e
-f√≥ra do reino. N√£o s√£o de hoje. A occasi√£o de as manifestar mais
-extensamente √© que veiu agora sem que eu a procurasse. Pareceu-me que a
+As minhas opiniıes acerca da quest„o iberica s„o conhecidas em Portugal e
+fÛra do reino. N„o s„o de hoje. A occasi„o de as manifestar mais
+extensamente È que veiu agora sem que eu a procurasse. Pareceu-me que a
 podia e devia aproveitar em beneficio publico, e assim o fiz, como qualquer
-outro portuguez o teria feito, escrevendo √°cerca da funda√ß√£o da monarchia.
+outro portuguez o teria feito, escrevendo ·cerca da fundaÁ„o da monarchia.
 
-A id√©a da uni√£o de Portugal com Hespanha √© antiga, mas sempre nasceu de
-despeito ou de ambi√ß√£o quer dos homens de l√°, quer dos de c√°. Ora v√£o
-fundar o futuro dos povos sobre duas m√°s paix√µes e ver√£o que resultados
-alcan√ßam!
+A idÈa da uni„o de Portugal com Hespanha È antiga, mas sempre nasceu de
+despeito ou de ambiÁ„o quer dos homens de l·, quer dos de c·. Ora v„o
+fundar o futuro dos povos sobre duas m·s paixıes e ver„o que resultados
+alcanÁam!
 
-Os hespanhoes quando est√£o poderosos, querem arredondar o territorio, e
+Os hespanhoes quando est„o poderosos, querem arredondar o territorio, e
 quando andam mal governados, querem quem os governe bem. Em ambos os casos
-tem sempre olhado para Portugal com cobi√ßa. Triste remedio para elles e
-para n√≥s!
+tem sempre olhado para Portugal com cobiÁa. Triste remedio para elles e
+para nÛs!
 
-Eu tenho muita affei√ß√£o aos hespanhoes. √â uma grande na√ß√£o. Quero-os para
-visinhos, para irm√£os, para amigos, para alliados, para confrades no
-trabalho da civilisa√ß√£o, para tudo emfim, menos para darem cabo do que
+Eu tenho muita affeiÁ„o aos hespanhoes. … uma grande naÁ„o. Quero-os para
+visinhos, para irm„os, para amigos, para alliados, para confrades no
+trabalho da civilisaÁ„o, para tudo emfim, menos para darem cabo do que
 tanto nos custou a estabelecer e firmar.
 
-Eu bem sei que se diz que n√≥s ficaremos sendo os senhores, que a c√¥rte ha
-de vir para Lisboa, e que at√© as armas portuguezas ter√£o no escudo iberico
-o melhor logar antes das de Le√£o, de Castella e de Granada. Muito obrigado
-pela honra que nos fazem. N√≥s somos pequenos para tanto.
+Eu bem sei que se diz que nÛs ficaremos sendo os senhores, que a cÙrte ha
+de vir para Lisboa, e que atÈ as armas portuguezas ter„o no escudo iberico
+o melhor logar antes das de Le„o, de Castella e de Granada. Muito obrigado
+pela honra que nos fazem. NÛs somos pequenos para tanto.
 
-A respeito da uni√£o de Portugal a Hespanha cada um diz o que lhe occorre √°
-id√©a; qual nos designa para sermos victimas de uma organisa√ß√£o geral de
-nacionalidades; qual nos imagina desejosos de pertencer √° na√ß√£o visinha;
-este pretende preparar-nos para a annexa√ß√£o pelo receio da possibilidade
+A respeito da uni„o de Portugal a Hespanha cada um diz o que lhe occorre ·
+idÈa; qual nos designa para sermos victimas de uma organisaÁ„o geral de
+nacionalidades; qual nos imagina desejosos de pertencer · naÁ„o visinha;
+este pretende preparar-nos para a annexaÁ„o pelo receio da possibilidade
 della; aquelle para utilidade propria avisa-nos do perigo que talvez
 inventou.
 
-Tudo isto p√≥de ser verdade e tambem p√≥de ser mentira. Acreditemos que √©
+Tudo isto pÛde ser verdade e tambem pÛde ser mentira. Acreditemos que È
 verdade; sejamos cada vez mais zelosos da nossa nacionalidade; procedamos
 de modo que a Europa nos julgue dignos de continuar a ser independentes, e
-n√£o deixemos arreigar a id√©a de que a fus√£o √© inevitavel.
+n„o deixemos arreigar a idÈa de que a fus„o È inevitavel.
 
-No fim de tudo, dos portuguezes a quem a id√©a da uni√£o iberica agradou pela
+No fim de tudo, dos portuguezes a quem a idÈa da uni„o iberica agradou pela
 grandeza das consequencias que parecia resultarem d'ella, nenhum ha que na
 hora extrema seja capaz de renegar a patria. Nem dos hespanhoes sensatos
-haver√° muitos que sonhem com a conquista e annexa√ß√£o do territorio
-portuguez contra nossa vontade. A quest√£o √© pois unicamente theorica.
+haver· muitos que sonhem com a conquista e annexaÁ„o do territorio
+portuguez contra nossa vontade. A quest„o È pois unicamente theorica.
 
 O resto da Europa pouco se importa das nossas cousas. Olha para o mappa, e
 resolve o negocio geographicamente. Em vez de dividir o territorio em dois
 estados iguaes, dando-nos a a metade occidental da peninsula, apaga a
-historia de sete seculos, e annexa-nos √° Hespanha, j√° se sabe, para nosso
+historia de sete seculos, e annexa-nos · Hespanha, j· se sabe, para nosso
 bem.
 
-Contra este modo de sentencear devemos n√≥s todos protestar por palavras e
-obras--_verbo et opere_.--Por palavras, indicando os dotes de na√ß√£o
+Contra este modo de sentencear devemos nÛs todos protestar por palavras e
+obras--_verbo et opere_.--Por palavras, indicando os dotes de naÁ„o
 forte e independente, que realmente possuimos; e por obras, dispondo-nos
-sem precipita√ß√£o nem negligencia para sustentar o nosso bom direito.
+sem precipitaÁ„o nem negligencia para sustentar o nosso bom direito.
 
 Possa este modesto livro contribuir para esse fim e ajudar a conservar
-vivas na lembran√ßa do povo, as tradi√ß√µes da nossa gloria e das nossas
+vivas na lembranÁa do povo, as tradiÁıes da nossa gloria e das nossas
 virtudes antigas.
 
-Esse √© o meu sincero desejo.
+Esse È o meu sincero desejo.
 
 
 
 
-A FUNDA√á√ÉO DA MONARCHIA PORTUGUEZA
+A FUNDA«√O DA MONARCHIA PORTUGUEZA
 
 
     ..............e venceram:
@@ -236,18 +236,18 @@ A FUNDA√á√ÉO DA MONARCHIA PORTUGUEZA
 
 I
 
-INTRODUC√á√ÉO
+INTRODUC«√O
 
 
-A independencia de Portugal dura ha sete seculos. O bra√ßo leonez n√£o p√¥de
-suffoca-la ao nascer, e os arabes tiveram que ceder os territorios do sul √°
-energia dos cavalleiros e pe√µes do conde D. Henrique, e ao esfor√ßo dos
+A independencia de Portugal dura ha sete seculos. O braÁo leonez n„o pÙde
+suffoca-la ao nascer, e os arabes tiveram que ceder os territorios do sul ·
+energia dos cavalleiros e peıes do conde D. Henrique, e ao esforÁo dos
 primeiros reis da dynastia affonsina.
 
 As fraquezas do formoso rei D. Fernando, os planos da rainha D. Leonor
-Telles, as ambi√ß√µes desleaes de alguns fidalgos e prelados, e as armas de
-D. Jo√£o I de Castella n√£o conseguiram sujeitar os portuguezes √° domina√ß√£o
-estrangeira. O povo n√£o quiz ser castelhano.
+Telles, as ambiÁıes desleaes de alguns fidalgos e prelados, e as armas de
+D. Jo„o I de Castella n„o conseguiram sujeitar os portuguezes · dominaÁ„o
+estrangeira. O povo n„o quiz ser castelhano.
 
 Bem lhe andaram a dizer que mais valia ser provincia de uma grande
 monarchia do que reino independente, mas pequeno e fraco. O povo quiz antes
@@ -255,176 +255,176 @@ ficar pequeno em sua casa, do que ir ser grande na casa alheia.
 
 Com um mancebo por chefe combateu contra os castelhanos, conteve os
 naturaes que propendiam para o dominio estrangeiro, e depois de ter vencido
-as hostes inimigas, poz a cor√¥a portugueza na cabe√ßa do mestre de Aviz.
+as hostes inimigas, poz a corÙa portugueza na cabeÁa do mestre de Aviz.
 
-Este principe era bastardo e clerigo. Que importava isso? A na√ß√£o adoptou-o
+Este principe era bastardo e clerigo. Que importava isso? A naÁ„o adoptou-o
 por seu filho legitimo; e elle proprio em Aljubarrota, escreveu com a
-espada nas costas dos castelhanos a sua carta de legitima√ß√£o. O papa
-dispensou nos votos ecclesiasticos, e deu-lhe licen√ßa para casar. E ficou
-t√£o bom rei como se filho legitimo tivera nascido, e t√£o bem casado como se
+espada nas costas dos castelhanos a sua carta de legitimaÁ„o. O papa
+dispensou nos votos ecclesiasticos, e deu-lhe licenÁa para casar. E ficou
+t„o bom rei como se filho legitimo tivera nascido, e t„o bem casado como se
 nunca houvera sido clerigo.
 
 Reis, como aquelle, houve poucos. Filhos, como elle teve, raras vezes
-nascem nos pa√ßos dos soberanos. Nobre ra√ßa foi aquella dynastia de Aviz!
-Aben√ßoada posteridade de D. Jo√£o I e de D. Filippa de Alencastro! Esta
+nascem nos paÁos dos soberanos. Nobre raÁa foi aquella dynastia de Aviz!
+AbenÁoada posteridade de D. Jo„o I e de D. Filippa de Alencastro! Esta
 familia nasceu na batalha de Aljubarrota, e extinguiu-se na de
-Alcacerquivir. Come√ßou a 14 de agosto de 1385, e acabou a 4 de agosto de
-1578. Fundou-a um mancebo de vinte e sete annos! Sacrificou-a um mo√ßo de
+Alcacerquivir. ComeÁou a 14 de agosto de 1385, e acabou a 4 de agosto de
+1578. Fundou-a um mancebo de vinte e sete annos! Sacrificou-a um moÁo de
 vinte e quatro!
 
-Nunca entrei na admiravel egreja de Santa Maria da Batalha, que me n√£o
+Nunca entrei na admiravel egreja de Santa Maria da Batalha, que me n„o
 sentisse melhorado pelo ar patriotico que se respira sob aquellas
-venerandas abobodas. Qual ser√° o portuguez que passe com indifferen√ßa
-diante do tumulo de D. Jo√£o I e de sua virtuosa mulher? N'aquella
-atmosphera de patriotismo, de coragem, e de dedica√ß√£o pela causa popular,
+venerandas abobodas. Qual ser· o portuguez que passe com indifferenÁa
+diante do tumulo de D. Jo„o I e de sua virtuosa mulher? N'aquella
+atmosphera de patriotismo, de coragem, e de dedicaÁ„o pela causa popular,
 n'aquelle recinto onde a memoria recorda exemplos de todas as virtudes
 publicas e particulares, os fracos animam-se, confortam-se os tibios, e as
 almas generosas exaltam-se, extasiam-se e fortalecem-se mais ainda.
 
 Junto d'aquelles marmores mudamente eloquentes, vi eu um dos homens de mais
-nobre e elevado cora√ß√£o entre os que n'esta terra j√° houve, chorar sobre as
-nossas calamidades civis, e ouvi-lhe derramar em jorros de inspira√ß√£o
+nobre e elevado coraÁ„o entre os que n'esta terra j· houve, chorar sobre as
+nossas calamidades civis, e ouvi-lhe derramar em jorros de inspiraÁ„o
 poetica a saudade d'esses tempos gloriosos, e o amor da patria a que foi
-fiel at√© √° morte![1] Triste morte por vergonha nossa!
+fiel atÈ · morte![1] Triste morte por vergonha nossa!
 
 Ali na capella chamada do Fundador jazem tambem os illustres filhos do
-mestre de Aviz. Quem n√£o rogar√° a Deus pelo descan√ßo eterno de taes
-principes? At√© os estrangeiros curvam a cabe√ßa diante do monumento que
+mestre de Aviz. Quem n„o rogar· a Deus pelo descanÁo eterno de taes
+principes? AtÈ os estrangeiros curvam a cabeÁa diante do monumento que
 encerra os despojos mortaes do infante D. Henrique, porque as descobertas e
-viagens, que elle dirigiu e favoreceu, aproveitaram √° humanidade inteira.
+viagens, que elle dirigiu e favoreceu, aproveitaram · humanidade inteira.
 
 E D. Fernando, o santo, o triste principe captivo que Portugal deixou
-morrer em poder dos mouros para salvar a honra da patria, como se n√£o f√¥ra
-irm√£o de El-Rei? E D. Pedro, o malfadado duque de Coimbra, a victima de
-Alfarrobeira, de cuja regencia aben√ßoada anda a memoria entre n√≥s na
-tradic√ß√£o agradecida? Esclarecidos principes!
+morrer em poder dos mouros para salvar a honra da patria, como se n„o fÙra
+irm„o de El-Rei? E D. Pedro, o malfadado duque de Coimbra, a victima de
+Alfarrobeira, de cuja regencia abenÁoada anda a memoria entre nÛs na
+tradicÁ„o agradecida? Esclarecidos principes!
 
-Os portuguezes quizeram sobreviver √° familia real. N√£o poderam. O povo
+Os portuguezes quizeram sobreviver · familia real. N„o poderam. O povo
 ainda fez muito em favor de D. Antonio, prior do Crato, mas este principe
-n√£o era para tomar sobre os seus hombros a empreza do mestre de Aviz. S√≥ se
+n„o era para tomar sobre os seus hombros a empreza do mestre de Aviz. SÛ se
 parecia com elle em ser bastardo e clerigo.
 
-Os tempos eram outros; lamentavel o estado do reino; o povo descor√ßoado e
-pobre; a alta nobreza e o clero mais ricos de ambi√ß√£o que de virtudes; o
+Os tempos eram outros; lamentavel o estado do reino; o povo descorÁoado e
+pobre; a alta nobreza e o clero mais ricos de ambiÁ„o que de virtudes; o
 rei de Castella muito poderoso, astuto e munificente; o cardeal rei caduco
 e tonto.
 
-Quem venceu ent√£o os portuguezes n√£o foi o duque de Alva. A batalha chamada
-de Alcantara foi um insignificante feito de armas. Vencidos j√° elles
-estavam pelo concurso de mil circumstancias desgra√ßadas. At√© o duque de
-Bragan√ßa D. Jo√£o, que n√£o quiz√©ra em 1579 ser rei do Brazil, recebeu em
-1581 nas cortes de Thomar o tos√£o de oiro contra o costume dos seus
+Quem venceu ent„o os portuguezes n„o foi o duque de Alva. A batalha chamada
+de Alcantara foi um insignificante feito de armas. Vencidos j· elles
+estavam pelo concurso de mil circumstancias desgraÁadas. AtÈ o duque de
+BraganÁa D. Jo„o, que n„o quizÈra em 1579 ser rei do Brazil, recebeu em
+1581 nas cortes de Thomar o tos„o de oiro contra o costume dos seus
 passados que nunca tinham aceitado ordem nacional ou estrangeira. Este era
-por sua mulher, a infanta D. Catharina, o legitimo herdeiro da cor√¥a. O
-povo n√£o podia resistir s√≥.
+por sua mulher, a infanta D. Catharina, o legitimo herdeiro da corÙa. O
+povo n„o podia resistir sÛ.
 
-Todos julgaram que Portugal acab√°ra. Enganaram-se. A enfermidade de
-Alcacerquivir teve uma convalescen√ßa de sessenta annos, mas o doente
-recobrou as for√ßas, e quando menos o esperavam, voltou √° sua invencivel
+Todos julgaram que Portugal acab·ra. Enganaram-se. A enfermidade de
+Alcacerquivir teve uma convalescenÁa de sessenta annos, mas o doente
+recobrou as forÁas, e quando menos o esperavam, voltou · sua invencivel
 teima de ser independente e livre.
 
-Eu n√£o sei, se os duques, marquezes e condes antes queriam ser grandes da
-Hespanha do que pertencer √° c√¥rte portugueza. N√£o sei, se os capit√£es e
+Eu n„o sei, se os duques, marquezes e condes antes queriam ser grandes da
+Hespanha do que pertencer · cÙrte portugueza. N„o sei, se os capit„es e
 generaes preferiam commandar em Italia ou em Flandres, se os homens de
-estado sacrificavam a id√©a nacional √° grandeza da monarchia, e se o alto
-clero dava mais valor √° mitra de Toledo que √° de Braga.
+estado sacrificavam a idÈa nacional · grandeza da monarchia, e se o alto
+clero dava mais valor · mitra de Toledo que · de Braga.
 
 Talvez que assim fosse pelo que mais tarde se viu, quando o novo rei teve
-de mandar cortar a cabe√ßa a um duque, a um marquez e a um conde, e metter
-em uma masmorra um grande prelado. O que eu sei √© que o povo n√£o queria ser
+de mandar cortar a cabeÁa a um duque, a um marquez e a um conde, e metter
+em uma masmorra um grande prelado. O que eu sei È que o povo n„o queria ser
 castelhano, e tanto fez que depois de vinte e oito annos de trabalhos
 conseguiu que o deixassem ser portuguez e livre.
 
 Dos fidalgos alguns ficaram em Castella, onde serviam. Padres tambem houve
-que se fizeram castelhanos. O povo esse, n√£o. Em Braga havia um homem,
+que se fizeram castelhanos. O povo esse, n„o. Em Braga havia um homem,
 cujos bens eram todos em Galliza. Pois deixou-os confiscar, mas veiu para
 Braga, e morreu portuguez. Bom povo!
 
-J√° as pazes estavam feitas com Castella e ainda os castelhanos nos andavam
-a mostrar os dentes. E assim fizeram sempre, at√© que com o exercito francez
-vieram para repartirem esta terra em 1807, Mas o povo c√° estava com os
+J· as pazes estavam feitas com Castella e ainda os castelhanos nos andavam
+a mostrar os dentes. E assim fizeram sempre, atÈ que com o exercito francez
+vieram para repartirem esta terra em 1807, Mas o povo c· estava com os
 mesmos dotes do tempo passado, e com a mesma mania de independencia e de
 liberdade.
 
-Por mais que lhe fallassem do grande genio e do poder immenso de Napole√£o
+Por mais que lhe fallassem do grande genio e do poder immenso de Napole„o
 I, por mais que lhe mostrassem os granadeiros de Marengo e de Austrelitz e
 por mais que lhe dissessem que os vinham proteger, o povo teimava. Bem
-amigos de Cam√µes s√£o os portuguezes. O general Junot promettia um Cam√µes
-para a Beira. Pois nem com isso ganhou os animos dos beir√µes.
-Contentaram-se com o seu Braz Garcia de Mascarenhas[2], e n√£o quizeram o
-Cam√µes francez.
+amigos de Camıes s„o os portuguezes. O general Junot promettia um Camıes
+para a Beira. Pois nem com isso ganhou os animos dos beirıes.
+Contentaram-se com o seu Braz Garcia de Mascarenhas[2], e n„o quizeram o
+Camıes francez.
 
 Nunca este bom povo portuguez faltou aos seus principes em prol da patria,
 qualquer que fosse a conjunctura, e por grande que parecesse o poder dos
-adversarios. Lealdade, perseveran√ßa, coragem, dedica√ß√£o e desinteresse eram
+adversarios. Lealdade, perseveranÁa, coragem, dedicaÁ„o e desinteresse eram
 qualidades antigas dos portuguezes. Nem virtudes se lhes chamava. O nosso
-povo era assim. Fazia o seu dever. Do arado √° b√©sta, ao mosquete ou √°
-escopeta havia a distancia do comprimento do bra√ßo. Louvado Deus! O bra√ßo
-ainda √© o mesmo! E a distancia tambem!
+povo era assim. Fazia o seu dever. Do arado · bÈsta, ao mosquete ou ·
+escopeta havia a distancia do comprimento do braÁo. Louvado Deus! O braÁo
+ainda È o mesmo! E a distancia tambem!
 
 No empenho de reconstituir a independencia portugueza, vieram os inglezes
-ajudar-nos, e aproveitar as nossas boas disposi√ß√µes contra a Fran√ßa. C√°
-ficaram por fim a governar como se o reino fosse d'elles. O povo n√£o os
-podia supportar. Em uma linda manh√£ do mez de agosto de 1820, ergueu-se de
-mau humor, e mandou os inglezes para Inglaterra. Fez bem. L√° √© o logar
+ajudar-nos, e aproveitar as nossas boas disposiÁıes contra a FranÁa. C·
+ficaram por fim a governar como se o reino fosse d'elles. O povo n„o os
+podia supportar. Em uma linda manh„ do mez de agosto de 1820, ergueu-se de
+mau humor, e mandou os inglezes para Inglaterra. Fez bem. L· È o logar
 d'elles.
 
-Pois ainda c√° voltaram em 1826, mas foram-se embora sem fazerem cousa
+Pois ainda c· voltaram em 1826, mas foram-se embora sem fazerem cousa
 alguma, porque para vencer o Silveira bastaram as tropas portuguezas. O
-caso foi que d'ahi ficou sempre aos realistas a id√©a de dizerem que as
-institui√ß√µes liberaes tinham sido sustentadas pelas bayonetas estrangeiras.
+caso foi que d'ahi ficou sempre aos realistas a idÈa de dizerem que as
+instituiÁıes liberaes tinham sido sustentadas pelas bayonetas estrangeiras.
 
-Deus perdoe a quem lhes poz nas m√£os esta pedra para quebrarem a cabe√ßa aos
+Deus perdoe a quem lhes poz nas m„os esta pedra para quebrarem a cabeÁa aos
 liberaes.
 
-Os inglezes vieram outra vez em 1847 de bra√ßo dado com os castelhanos.
-Ninguem sabe quem os chamou, ou quem o sabe, n√£o o quer dizer. Melhor √© que
-nunca o diga. Bem farto de malqueren√ßas anda o mundo. N√£o precisa que lhe
+Os inglezes vieram outra vez em 1847 de braÁo dado com os castelhanos.
+Ninguem sabe quem os chamou, ou quem o sabe, n„o o quer dizer. Melhor È que
+nunca o diga. Bem farto de malquerenÁas anda o mundo. N„o precisa que lhe
 acrescentem o numero dos odios.
 
 E a todos esses attentados directos e indirectos resistiu constantemente o
-povo portuguez. Vigorosa nacionalidade √© aquella que nem o poder de
+povo portuguez. Vigorosa nacionalidade È aquella que nem o poder de
 visinhos ambiciosos, nem os erros ou deslealdades dos naturaes poderam
-ainda destruir. Curiosa historia a da funda√ß√£o d'este pequeno estado que
-desde o seculo XII at√© aos nossos dias tem sabido annullar, mais pela
+ainda destruir. Curiosa historia a da fundaÁ„o d'este pequeno estado que
+desde o seculo XII atÈ aos nossos dias tem sabido annullar, mais pela
 energia do caracter popular do que por outros meios, multiplicados
-elementos de destrui√ß√£o e de morte.
+elementos de destruiÁ„o e de morte.
 
-Este estudo √© talvez mais proveitoso hoje do que nunca o foi, porque depois
+Este estudo È talvez mais proveitoso hoje do que nunca o foi, porque depois
 de termos circumnavegado o globo, e arvorado a nossa bandeira em tantas
-partes do mundo, parece que caminh√¢mos agora para uma situa√ß√£o t√£o critica
+partes do mundo, parece que caminh‚mos agora para uma situaÁ„o t„o critica
 e arriscada, como aquella em que inscrevemos o nome portuguez no livro de
 oiro dos povos livres e independentes. Ao menos assim o dizem os politicos,
-e p√≥de ser que o perigo venha √° for√ßa de chamarem por elle. Tem-se visto.
+e pÛde ser que o perigo venha · forÁa de chamarem por elle. Tem-se visto.
 
 O conhecimento do modo pelo qual nos constituimos em nacionalidade
-distincta e forte, poder√° convencer-nos de que s√≥ depende de n√≥s mesmos a
-sustenta√ß√£o d'este heroico feito de nossos maiores. J√° n√£o √© pouco.
+distincta e forte, poder· convencer-nos de que sÛ depende de nÛs mesmos a
+sustentaÁ„o d'este heroico feito de nossos maiores. J· n„o È pouco.
 
-As na√ß√µes que t√™em perdido a independencia, sofrem na historia a accusa√ß√£o
-de a n√£o terem sabido defender ou de j√° n√£o serem dignas de a possuir. F√≥ra
-d'esta triste alternativa as na√ß√µes ou n√£o morrem ou ressurgem.
+As naÁıes que tÍem perdido a independencia, sofrem na historia a accusaÁ„o
+de a n„o terem sabido defender ou de j· n„o serem dignas de a possuir. FÛra
+d'esta triste alternativa as naÁıes ou n„o morrem ou ressurgem.
 
-Vamos √° narra√ß√£o.
+Vamos · narraÁ„o.
 
 
 
 
 II
 
-O REINO DE LE√ÉO
+O REINO DE LE√O
 
 
-Bermudo III subiu ao throno de Le√£o depois da morte de seu pae Affonso V,
-fallecido de molestia quando intentava tomar Vizeu. Bermudo tinha uma irm√£
+Bermudo III subiu ao throno de Le„o depois da morte de seu pae Affonso V,
+fallecido de molestia quando intentava tomar Vizeu. Bermudo tinha uma irm„
 chamada D. Sancha, e os fidalgos de Castella desejavam que casasse com ella
-o conde Garcia, seu joven soberano. O conde j√° era, pelo casamento de uma
-de suas irm√£s, cunhado do rei de Le√£o. A outra era mulher de D. Sancho, rei
+o conde Garcia, seu joven soberano. O conde j· era, pelo casamento de uma
+de suas irm„s, cunhado do rei de Le„o. A outra era mulher de D. Sancho, rei
 de Navarra.
 
-Os magnates castelhanos, dirigiram-se com o joven conde para Le√£o, por√©m
-Bermudo estava em Oviedo. Resolveram ent√£o ir ter com elle √° c√¥rte, mas
-antes de come√ßarem a jornada, o mo√ßo Garcia foi assassinado por uma
+Os magnates castelhanos, dirigiram-se com o joven conde para Le„o, porÈm
+Bermudo estava em Oviedo. Resolveram ent„o ir ter com elle · cÙrte, mas
+antes de comeÁarem a jornada, o moÁo Garcia foi assassinado por uma
 familia, inimiga declarada da sua. Chamava-se esta familia _Vigila_.
 Outros lhe chamam _Vela_.
 
@@ -434,222 +434,222 @@ hespanhola, principalmente para o ramo primogenito da dynastia leoneza.
 Sancho, rei de Navarra, tomou o encargo de vingar a morte de seu cunhado
 Garcia, e succedeu-lhe na soberania das terras de Castella. Apesar da
 innocencia de Bermudo no attentado dos Velas, elle foi quem pagou mais caro
-esse triste acontecimento. √â sorte dos principes expiarem os erros de quem
-os c√©rca e aconselha ou de quem em nome d'elles preocede mal.
+esse triste acontecimento. … sorte dos principes expiarem os erros de quem
+os cÈrca e aconselha ou de quem em nome d'elles preocede mal.
 
 Um pretexto de pouca valia fez dentro em breve romper a guerra entre
-Navarra e Le√£o, e Bermudo, pouco feliz nos feitos militares contra Sancho,
-teve de dar a Fernando, filho do rei de Navarra, sua irm√£ Sancha por
-mulher. Cedeu tambem ent√£o todo o territorio entre os rios Cea e Pizuerga,
-com o que ficaram mui dilatados os dominios de Sancho j√° soberano de
-Navarra e de Arag√£o, agora senhor de Castella, e de uma boa parte das
-terras de Le√£o. Esta cedencia foi feita em 1032.
+Navarra e Le„o, e Bermudo, pouco feliz nos feitos militares contra Sancho,
+teve de dar a Fernando, filho do rei de Navarra, sua irm„ Sancha por
+mulher. Cedeu tambem ent„o todo o territorio entre os rios Cea e Pizuerga,
+com o que ficaram mui dilatados os dominios de Sancho j· soberano de
+Navarra e de Arag„o, agora senhor de Castella, e de uma boa parte das
+terras de Le„o. Esta cedencia foi feita em 1032.
 
-T√£o vastos estados n√£o passaram unidos ao primogenito de Sancho. O bravo
-rei de Navarra deu o Arag√£o a seu filho Ramiro; a Castella e as terras
+T„o vastos estados n„o passaram unidos ao primogenito de Sancho. O bravo
+rei de Navarra deu o Arag„o a seu filho Ramiro; a Castella e as terras
 entre o Cea e o Pizuerga a Fernando. Garcia, tambem filho de Sancho,
-succedeu na cor√¥a de Navarra. Talvez cuidou o velho rei que o parentesco de
-cunhados entre Fernando de Castella e Bermudo de Le√£o os faria amigos, e
-bons visinhos. Enganou-se. Os reis s√£o mais parentes pelos la√ßos da
+succedeu na corÙa de Navarra. Talvez cuidou o velho rei que o parentesco de
+cunhados entre Fernando de Castella e Bermudo de Le„o os faria amigos, e
+bons visinhos. Enganou-se. Os reis s„o mais parentes pelos laÁos da
 politica e dos interesses do que pelos do sangue.
 
-O desventuroso Bermudo n√£o p√¥de resignar-se a possuir unicamente uma
-pequena por√ß√£o do reino que lhe transmittira Affonso V seu pae. Em breve
-come√ßou a guerra entre os dois cunhados, e se bastasse a boa vontade dos
+O desventuroso Bermudo n„o pÙde resignar-se a possuir unicamente uma
+pequena porÁ„o do reino que lhe transmittira Affonso V seu pae. Em breve
+comeÁou a guerra entre os dois cunhados, e se bastasse a boa vontade dos
 fidalgos, e a energia do rei para reconquistar as terras cedidas cinco
 annos antes, de certo que assim teria acontecido.
 
-Foi-lhes por√©m contraria a fortuna das armas. A batalha de Carrion tinha de
-ser o ultimo feito militar de Bermudo III. Ali perdeu a vida √°s m√£os de seu
-proprio cunhado Fernando de Castella, e a varonia da ra√ßa real de Le√£o
+Foi-lhes porÈm contraria a fortuna das armas. A batalha de Carrion tinha de
+ser o ultimo feito militar de Bermudo III. Ali perdeu a vida ·s m„os de seu
+proprio cunhado Fernando de Castella, e a varonia da raÁa real de Le„o
 extinguiu-se inteiramente. Os historiadores dizem que o tragico fim de
-Bermudo acontec√™ra no anno de 1037.
+Bermudo acontecÍra no anno de 1037.
 
-Fernando I rei de Castella succedeu ao cunhado na cor√¥a de Le√£o. A morte de
-Bermudo chamava ao throno a rainha de Castella D. Sancha, sua irm√£, e
-mulher de Fernando; a prole de ambos continuava a success√£o da familia de
-que Bermudo f√¥ra o ultimo representante var√£o. O novo soberano era dotado
-de grandes qualidades, e sabia temperar a ambi√ß√£o com a prudencia e
+Fernando I rei de Castella succedeu ao cunhado na corÙa de Le„o. A morte de
+Bermudo chamava ao throno a rainha de Castella D. Sancha, sua irm„, e
+mulher de Fernando; a prole de ambos continuava a success„o da familia de
+que Bermudo fÙra o ultimo representante var„o. O novo soberano era dotado
+de grandes qualidades, e sabia temperar a ambiÁ„o com a prudencia e
 espirito moderado, que mais seguram e firmam o poder dos reis.
 
-A ambi√ß√£o demasiada √© quasi sempre funesta aos thronos e √°s na√ß√µes, por√©m o
-defeito contrario p√≥de tambem produzir graves inconvenientes. Napole√£o I
-foi victima da sua ambi√ß√£o insensata, e arruinou a Fran√ßa. Victor Manuel,
-se n√£o fosse ambicioso poria em risco a propria cor√¥a, a sorte do Piemonte,
+A ambiÁ„o demasiada È quasi sempre funesta aos thronos e ·s naÁıes, porÈm o
+defeito contrario pÛde tambem produzir graves inconvenientes. Napole„o I
+foi victima da sua ambiÁ„o insensata, e arruinou a FranÁa. Victor Manuel,
+se n„o fosse ambicioso poria em risco a propria corÙa, a sorte do Piemonte,
 e o destino da Italia.
 
-Ha um regulador para a ambi√ß√£o dos reis, √© o interesse das na√ß√µes. Por este
-cumpre-lhes arriscar-se a tudo. O principe que s√≥ vive para si ou para a
-sua dinastia n√£o √© completamente soberano; √© meio rei. D. Fernando de
+Ha um regulador para a ambiÁ„o dos reis, È o interesse das naÁıes. Por este
+cumpre-lhes arriscar-se a tudo. O principe que sÛ vive para si ou para a
+sua dinastia n„o È completamente soberano; È meio rei. D. Fernando de
 Castella soube, apesar dos tempos em que viveu, achar o meio termo entre
 esses dois extremos.
 
-Seu irm√£o Garcia morreu pouco depois em uma batalha contra o exercito de
-Fernando. A cor√¥a de Navarra podia ent√£o reunir-se com as de Castella e de
-Le√£o. Era muito. Fernando soube resistir √° tenta√ß√£o, e voltou as suas armas
-contra os arabes, tomando-lhes largos territorios at√© ao fim do anno de
-1065 em que morreu na cidade de Le√£o.
+Seu irm„o Garcia morreu pouco depois em uma batalha contra o exercito de
+Fernando. A corÙa de Navarra podia ent„o reunir-se com as de Castella e de
+Le„o. Era muito. Fernando soube resistir · tentaÁ„o, e voltou as suas armas
+contra os arabes, tomando-lhes largos territorios atÈ ao fim do anno de
+1065 em que morreu na cidade de Le„o.
 
 Deixou tres filhos e duas filhas. O primogenito que se chamava Sancho,
-subiu ao throno de Castella: Affonso foi proclamado rei de Le√£o e das
-Asturias, Garcia poz na cabe√ßa a cor√¥a de Galliza e da terra portucalense
-at√© ao rio Mondego. Urraca governou Samora; e Elvira foi soberana de Toro;
-ambas com o titulo de rainhas, como era de uso ent√£o.
+subiu ao throno de Castella: Affonso foi proclamado rei de Le„o e das
+Asturias, Garcia poz na cabeÁa a corÙa de Galliza e da terra portucalense
+atÈ ao rio Mondego. Urraca governou Samora; e Elvira foi soberana de Toro;
+ambas com o titulo de rainhas, como era de uso ent„o.
 
-A paz entre Castella e Le√£o n√£o foi duradoura. Os dois irm√£os Affonso e
+A paz entre Castella e Le„o n„o foi duradoura. Os dois irm„os Affonso e
 Sancho tiveram dentro em pouco que pelejar um contra o outro, e o rei de
-Le√£o depois de uma victoria ficou prisioneiro de seu irm√£o por um
-estratagema d'aquelle grande capit√£o que a Hespanha ainda hoje celebra com
+Le„o depois de uma victoria ficou prisioneiro de seu irm„o por um
+estratagema d'aquelle grande capit„o que a Hespanha ainda hoje celebra com
 o simples nome de Cid. Foi no anno de 1071.
 
 N'aquelles tempos um rei prisioneiro era presa de difficil guarda.
 Matavam-o as mais das vezes. Outras contentavam-se de o cegar. Rapar-lhe a
-cabe√ßa e obriga-lo a entrar em uma clausura monastica era um acto de
-brandura e de modera√ß√£o.
+cabeÁa e obriga-lo a entrar em uma clausura monastica era um acto de
+brandura e de moderaÁ„o.
 
-Sancho n√£o quiz abusar da victoria, e mandou seu irm√£o para o mosteiro de
-Sahagun; por√©m este, ou porque se enfastiava da clausura ou porque receiava
+Sancho n„o quiz abusar da victoria, e mandou seu irm„o para o mosteiro de
+Sahagun; porÈm este, ou porque se enfastiava da clausura ou porque receiava
 que alguma circumstancia fortuita lhe viesse aggravar a pena, fugiu da
-pris√£o e foi pedir hospitalidade a Al-Mamum, emir de Toledo.
+pris„o e foi pedir hospitalidade a Al-Mamum, emir de Toledo.
 
-Os arabes nem sempre andavam a pelejar com os christ√£os. At√© √°s vezes uns e
-outros eram amigos e companheiros de armas. Em muitas occasi√µes as tropas
-arabes batalharam nos exercitos christ√£os, e os cavalleiros da cruz
-combateram nas hostes infieis. Interesses mundanos! Transac√ß√µes politicas!
-Era como hoje, como foi hontem, e como amanh√£ ha de tornar a ser!
+Os arabes nem sempre andavam a pelejar com os christ„os. AtÈ ·s vezes uns e
+outros eram amigos e companheiros de armas. Em muitas occasiıes as tropas
+arabes batalharam nos exercitos christ„os, e os cavalleiros da cruz
+combateram nas hostes infieis. Interesses mundanos! TransacÁıes politicas!
+Era como hoje, como foi hontem, e como amanh„ ha de tornar a ser!
 
-O chefe musulmano deu ao rei christ√£o desthronado a hospitalidade
+O chefe musulmano deu ao rei christ„o desthronado a hospitalidade
 proverbial dos arabes, de que a historia da peninsula hespanhola offerece
-repetidos exemplos. Affonso ficou em Toledo at√© o anno de 1072 em que
-Sancho rei de Castella foi morto com uma lan√ßada por Bellido Arnulfes
+repetidos exemplos. Affonso ficou em Toledo atÈ o anno de 1072 em que
+Sancho rei de Castella foi morto com uma lanÁada por Bellido Arnulfes
 diante dos muros de Samora.
 
 Altos juizos de Deus! O prisioneiro de Sancho de Castella, o clausurado de
 Sahagun, o principe desthronado e fugitivo, e o hospede tranquillo dos
-adversarios mais encarni√ßados da sua ra√ßa, estava destinado para ser um dos
+adversarios mais encarniÁados da sua raÁa, estava destinado para ser um dos
 mais poderosos soberanos do seu tempo. Tambem na nossa idade o prisioneiro
 de Strasburgo e de Bolonha, o encarcerado de Ham, o principe desherdado e
-fugitivo, e o hospede paciente dos inglezes, n√£o parecia fadado para
-governar uma das maiores na√ß√µes da terra, e para vencer a aguia russa na
-Crim√™a, e a austriaca em Solferino; Napole√£o III e Affonso VI podem
+fugitivo, e o hospede paciente dos inglezes, n„o parecia fadado para
+governar uma das maiores naÁıes da terra, e para vencer a aguia russa na
+CrimÍa, e a austriaca em Solferino; Napole„o III e Affonso VI podem
 comparar-se n'este ponto, apesar dos oito seculos que os separam.
 
-Affonso VI sa√≠u de Toledo para voltar ao governo dos seus estados e para
-reunir sob o seu dominio a Castella, Le√£o, as Asturias, a Rioja e a
-Biscaia. A Galliza, descontente de Garcia, contra quem j√° se tinham
-revoltado os de Entre Douro e Minho, n√£o se oppoz √° pris√£o do seu soberano,
+Affonso VI saÌu de Toledo para voltar ao governo dos seus estados e para
+reunir sob o seu dominio a Castella, Le„o, as Asturias, a Rioja e a
+Biscaia. A Galliza, descontente de Garcia, contra quem j· se tinham
+revoltado os de Entre Douro e Minho, n„o se oppoz · pris„o do seu soberano,
 e deixou-se encorporar na grande monarchia de Fernando Magno, reconstituida
-agora por seu filho Affonso. Garcia morreu na pris√£o.
+agora por seu filho Affonso. Garcia morreu na pris„o.
 
 Dizem de D. Affonso VI que depois de sair de Toledo para tornar a reinar, o
-obrig√°ra o Cid a jurar que n√£o f√¥ra cumplice de Bellido Arnulfes na morte
+obrig·ra o Cid a jurar que n„o fÙra cumplice de Bellido Arnulfes na morte
 de D. Sancho. Deus sabe se o bom do Cid teve tal escrupulo.
 
 No fim de tudo taes patranhas se contam do Cid que nem a gente sabe o que
-ha de acreditar! √â certo por√©m que D. Garcia perdeu a cor√¥a da Galliza mas
-foi bem tratado na pris√£o onde ficou at√© morrer apesar de ser irm√£o do rei.
-Ras√µes de estado! D'estas j√° por c√° se viram!
+ha de acreditar! … certo porÈm que D. Garcia perdeu a corÙa da Galliza mas
+foi bem tratado na pris„o onde ficou atÈ morrer apesar de ser irm„o do rei.
+Rasıes de estado! D'estas j· por c· se viram!
 
-Se os principes christ√£os andavam sempre em guerra, que por muitas ras√µes
-se poderia chamar guerra civil, os arabes n√£o viviam entre si em uni√£o mais
-intima. A queda dos Beni-Umeyas foi seguida de graves dissens√µes ao cabo
-das quaes a cidade de Toledo veiu em 1085 a ca√≠r nas m√£os de Affonso VI,
-c√™rca de quatro seculos depois d'aquelle dia em que Rodrigo, o ultimo rei
-dos wisigodos, sa√≠ra dos muros da capital para ir acabar os seus dias na
+Se os principes christ„os andavam sempre em guerra, que por muitas rasıes
+se poderia chamar guerra civil, os arabes n„o viviam entre si em uni„o mais
+intima. A queda dos Beni-Umeyas foi seguida de graves dissensıes ao cabo
+das quaes a cidade de Toledo veiu em 1085 a caÌr nas m„os de Affonso VI,
+cÍrca de quatro seculos depois d'aquelle dia em que Rodrigo, o ultimo rei
+dos wisigodos, saÌra dos muros da capital para ir acabar os seus dias na
 batalha do Chrissus.
 
 Affonso VI soube sacrificar os designios ambiciosos de soberano visinho, e
-de guerreiro christ√£o, aos deveres da amisade agradecida. Nas guerras entre
+de guerreiro christ„o, aos deveres da amisade agradecida. Nas guerras entre
 o emir de Toledo e o de Sevilha, Al-Mamum teve sempre por alliado a Affonso
-VI seu antigo hospede, e s√≥ depois da morte do generoso arabe, e da
-expuls√£o de seu filho, √© que o estandarte christ√£o tremulou na velha
+VI seu antigo hospede, e sÛ depois da morte do generoso arabe, e da
+expuls„o de seu filho, È que o estandarte christ„o tremulou na velha
 capital da monarchia wisigothica.
 
 A posse de Toledo, e as victorias successivas de Affonso VI, atemorisaram
-Ibn-Abed, emir de Sevilha, e inspiraram-lhe a id√©a de chamar de Africa os
+Ibn-Abed, emir de Sevilha, e inspiraram-lhe a idÈa de chamar de Africa os
 almoravides commandados por Abu-Yacub. Foram elles que no dia 23 de outubro
-de 1086 destro√ßaram na batalha de Zalaka junto a Badajoz os esquadr√µes do
-rei de Le√£o e de Castella.
+de 1086 destroÁaram na batalha de Zalaka junto a Badajoz os esquadrıes do
+rei de Le„o e de Castella.
 
-Dezesete annos depois, o emir el-moslemym Iussuf era j√° senhor de todo o
-territorio desde Sarago√ßa at√© √° margem esquerda do Tejo, e Affonso VI,
-apesar do titulo pomposo de imperador, que a vasta √°rea dos seus estados
-lhe grange√°ra, apenas tinha alcan√ßado algumas victorias na parte occidental
+Dezesete annos depois, o emir el-moslemym Iussuf era j· senhor de todo o
+territorio desde SaragoÁa atÈ · margem esquerda do Tejo, e Affonso VI,
+apesar do titulo pomposo de imperador, que a vasta ·rea dos seus estados
+lhe grange·ra, apenas tinha alcanÁado algumas victorias na parte occidental
 da peninsula hespanhola. Santarem, Lisboa e Cintra tinham sido tomadas por
 elle em 1093, e o governo d'esse novo territorio confiado a Sueiro Mendes
-irm√£o do _lidador_.
+irm„o do _lidador_.
 
-O imperador era ent√£o um dos mais poderosos principes da christandade. Dos
-outros soberanos da Europa pouco tinha que receiar. Na peninsula por√©m n√£o
+O imperador era ent„o um dos mais poderosos principes da christandade. Dos
+outros soberanos da Europa pouco tinha que receiar. Na peninsula porÈm n„o
 podia ter descanso, emquanto os arabes conservassem n'ella um imperio,
-grande pela extens√£o de terreno, vigoroso pelo valor dos musulmanos, forte
+grande pela extens„o de terreno, vigoroso pelo valor dos musulmanos, forte
 pela facilidade de receber soccorros enviados de Africa, tranquillo pela
-modera√ß√£o e brandura do governo, e n√£o menos importante pela cultura das
+moderaÁ„o e brandura do governo, e n„o menos importante pela cultura das
 sciencias, das letras e das artes, e pelo desenvolvimento da agricultura,
 da industria e do commercio.
 
-O imperio arabe na peninsula hespanhola era j√° um estado florescente,
-quando os christ√£os sa√≠ram das montanhas √° voz de Pelagio, e come√ßaram a
-organisar mesmo nas cidades e na c√¥rte uma existencia mais de acampamento
-militar que de sociedade constituida. A miss√£o de Affonso VI era pois a
+O imperio arabe na peninsula hespanhola era j· um estado florescente,
+quando os christ„os saÌram das montanhas · voz de Pelagio, e comeÁaram a
+organisar mesmo nas cidades e na cÙrte uma existencia mais de acampamento
+militar que de sociedade constituida. A miss„o de Affonso VI era pois a
 guerra incessante contra os arabes.
 
-Estas circumstancias attrahiam √° c√¥rte castelhana um grande numero de
+Estas circumstancias attrahiam · cÙrte castelhana um grande numero de
 fidalgos estrangeiros. Instigava-os a tendencia militar e aventureira da
-epocha; impellia-os a id√©a religiosa, e o desejo do triumpho completo da
-cruz contra o crescente; e a estes nobres pensamentos juntava-se a ambi√ß√£o
-n√£o menos elevada de ganhar pela for√ßa do proprio bra√ßo terras e dominios
+epocha; impellia-os a idÈa religiosa, e o desejo do triumpho completo da
+cruz contra o crescente; e a estes nobres pensamentos juntava-se a ambiÁ„o
+n„o menos elevada de ganhar pela forÁa do proprio braÁo terras e dominios
 conquistados aos infieis. Estes fidalgos eram pela maior parte francezes;
-n√£o s√≥ pela proximidade das duas na√ß√µes, mas porque de Fran√ßa viera a
-rainha D. Constan√ßa, esposa do imperador Affonso VI, e filha da illustre
+n„o sÛ pela proximidade das duas naÁıes, mas porque de FranÁa viera a
+rainha D. ConstanÁa, esposa do imperador Affonso VI, e filha da illustre
 casa de Borgonha.
 
-Dois parentes da rainha avultavam na c√¥rte mais do que os outros
+Dois parentes da rainha avultavam na cÙrte mais do que os outros
 cavalleiros. Eram Raymundo, filho do conde Guilherme de Borgonha, e
 Henrique, filho de Henrique de Borgonha e de sua mulher Sybilla, prima
-co-irm√£ de Raymundo. Henrique por seu av√¥ Roberto, o velho, duque de
-Borgonha, era descendente de Roberto, o pio, rei de Fran√ßa, e de Hugo
-Capeto, e por consequencia sobrinho de Henrique I, rei de Fran√ßa. Estes
+co-irm„ de Raymundo. Henrique por seu avÙ Roberto, o velho, duque de
+Borgonha, era descendente de Roberto, o pio, rei de FranÁa, e de Hugo
+Capeto, e por consequencia sobrinho de Henrique I, rei de FranÁa. Estes
 dois fidalgos borgonheses deviam privar com a rainha com quem tinham
-parentesco proximo, e com o soberano a cujo servi√ßo andavam.
+parentesco proximo, e com o soberano a cujo serviÁo andavam.
 
 Com effeito Affonso VI deu a Raymundo sua filha Urraca, com o governo de
 Galliza e da terra portucalense, e Henrique casou com D. Tareja, filha
-natural do rei e de Ximena Nunes ou Muniones, obtendo com esta allian√ßa o
+natural do rei e de Ximena Nunes ou Muniones, obtendo com esta allianÁa o
 governo do districto de Braga sob o commando de Raymundo. O casamento foi
 celebrado antes do anno de 1095.
 
-N√£o chegaram ao nosso tempo documentos √°cerca das condi√ß√µes com que se
-concluiu o casamento de Henrique de Borgonha com D. Tareja, por√©m sabe-se
-que em 1097 j√° o territorio que se estende desde o rio Minho at√© ao Tejo
-era governado por D. Henrique, sem opposi√ß√£o alguma do conde Raymundo de
-Galliza. O marido de D. Tareja possuia tambem todos os bens pertencentes √°
-cor√¥a de Le√£o, que estavam situados dentro dos limites designados. Devia
-ser concess√£o de Affonso VI.
+N„o chegaram ao nosso tempo documentos ·cerca das condiÁıes com que se
+concluiu o casamento de Henrique de Borgonha com D. Tareja, porÈm sabe-se
+que em 1097 j· o territorio que se estende desde o rio Minho atÈ ao Tejo
+era governado por D. Henrique, sem opposiÁ„o alguma do conde Raymundo de
+Galliza. O marido de D. Tareja possuia tambem todos os bens pertencentes ·
+corÙa de Le„o, que estavam situados dentro dos limites designados. Devia
+ser concess„o de Affonso VI.
 
 O territorio portucalense coube a Henrique de Borgonha como dote de sua
 mulher? Foi-lhe dado como governo ou como estado expressamente separado da
-cor√¥a de Le√£o em favor dos noivos? Houve desde logo conloio entre Henrique
+corÙa de Le„o em favor dos noivos? Houve desde logo conloio entre Henrique
 e Raymundo para assegurar a plena soberania de ambos, sob a apparencia de
-sujei√ß√£o ao sogro commum? A extens√£o das terras conquistadas aos arabes
-contribuiu para firmar mais a separa√ß√£o, e para augmentar a importancia do
-conde D. Henrique? Estas quest√µes pedem larga escriptura, e fazem pouco ao
-assumpto d'este livro. O facto √© que no fim do XI seculo a terra
+sujeiÁ„o ao sogro commum? A extens„o das terras conquistadas aos arabes
+contribuiu para firmar mais a separaÁ„o, e para augmentar a importancia do
+conde D. Henrique? Estas questıes pedem larga escriptura, e fazem pouco ao
+assumpto d'este livro. O facto È que no fim do XI seculo a terra
 portucalense obedecia a D. Henrique, sem que todavia este principe deixasse
-de reconhecer a supremacia do rei de Le√£o.
+de reconhecer a supremacia do rei de Le„o.
 
 O conde borgonhez oriundo de uma das mais poderosas casas da Europa,
-sobrinho do rei de Fran√ßa, genro do imperador, e primo do conde de Galliza,
-com quem o ligavam tambem os la√ßos da affinidade, reunia em si todos os
+sobrinho do rei de FranÁa, genro do imperador, e primo do conde de Galliza,
+com quem o ligavam tambem os laÁos da affinidade, reunia em si todos os
 requisitos necessarios para obter, dentro em breve, preponderancia
 consideravel em todos os negocios da peninsula hespanhola. Conservar e
-desenvolver essa influencia, dependia s√≥ dos dotes pessoaes do principe.
+desenvolver essa influencia, dependia sÛ dos dotes pessoaes do principe.
 
-A auctoridade moral do conde D. Henrique na c√¥rte de D. Affonso VI de certo
+A auctoridade moral do conde D. Henrique na cÙrte de D. Affonso VI de certo
 se baseava principalmente n'estas circumstancias, pois que a qualidade
-illegitima de D. Tareja n√£o impoz ao principe borgonhez nenhuma
+illegitima de D. Tareja n„o impoz ao principe borgonhez nenhuma
 inferioridade que lhe diminuisse o poder ou que restringisse as suas
-perten√ß√µes ambiciosas.
+pertenÁıes ambiciosas.
 
 
 
@@ -661,62 +661,62 @@ A TERRA PORTUCALENSE
 
 A terra chamada portucalense era conhecida com este nome desde o meado do
 seculo XI. Tinha por limites ao norte o rio Minho, e ao sul o Mondego,
-comquanto as armas christ√£s j√° tivessem por mais do que uma vez chegado ao
+comquanto as armas christ„s j· tivessem por mais do que uma vez chegado ao
 Tejo, e mesmo tomado Lisboa, como fica dito. Lamego, Vizeu e Ceia eram as
 terras mais consideraveis da fronteira oriental. Ao sueste acabava o
 territorio na serra da Estrella, e ao oeste no oceano.
 
-O districto de Coimbra ou condado colimbriense, come√ßava no Douro, e
-acabava no Mondego. Um mosarabe da Beira, chamado Sesnando, deix√°ra o
-servi√ßo do emir de Sevilha Ibn-Abed, e f√¥ra prop√¥r ao rei Fernando Magno a
+O districto de Coimbra ou condado colimbriense, comeÁava no Douro, e
+acabava no Mondego. Um mosarabe da Beira, chamado Sesnando, deix·ra o
+serviÁo do emir de Sevilha Ibn-Abed, e fÙra propÙr ao rei Fernando Magno a
 conquista d'este territorio. A tentativa foi coroada de exito feliz, e
 Sesnando recebeu do soberano leonez o governo d'esta nova provincia,
 acrescentada com a terra portucalense ao sul do Douro.
 
-Esta regi√£o desde o Douro at√© ao Mondego, n√£o era a Lusitania de Strab√£o, a
-qual chegava at√© ao mar no norte e no occidente, e ao Tejo pelo lado do
-sul; nem t√£o pouco se p√≥de confundir com a Lusitania do imperador Augusto,
-divis√£o geographica limitada ao norte pelo Douro, e ao sul pelo Guadiana.
-Era uma regi√£o conquistada, reunida e disposta pelos incansaveis
-pelejadores christ√£os.
+Esta regi„o desde o Douro atÈ ao Mondego, n„o era a Lusitania de Strab„o, a
+qual chegava atÈ ao mar no norte e no occidente, e ao Tejo pelo lado do
+sul; nem t„o pouco se pÛde confundir com a Lusitania do imperador Augusto,
+divis„o geographica limitada ao norte pelo Douro, e ao sul pelo Guadiana.
+Era uma regi„o conquistada, reunida e disposta pelos incansaveis
+pelejadores christ„os.
 
-Estavamos t√£o acostumados a dar a Portugal o nome de Lusitania, e a
-tomarmos a denomina√ß√£o latina de lusitanos, que chegamos a julgar-nos
-deca√≠dos do esplendor genealogico da nossa ra√ßa, quando o sr. Alexandre
-Herculano escreveu que s√≥ no seculo XV tinhamos come√ßado a usurpar essas
-qualifica√ß√µes. Parece que foi em 1481, diante da santidade de Sixto IV, que
+Estavamos t„o acostumados a dar a Portugal o nome de Lusitania, e a
+tomarmos a denominaÁ„o latina de lusitanos, que chegamos a julgar-nos
+decaÌdos do esplendor genealogico da nossa raÁa, quando o sr. Alexandre
+Herculano escreveu que sÛ no seculo XV tinhamos comeÁado a usurpar essas
+qualificaÁıes. Parece que foi em 1481, diante da santidade de Sixto IV, que
 o bispo de Evora D. Garcia de Menezes deu pela primeira vez o nome de
-lusitanos aos habitantes de Portugal. At√© ent√£o foramos sempre
+lusitanos aos habitantes de Portugal. AtÈ ent„o foramos sempre
 portucalenses desde tempos remotissimos.
 
-A origem d'este nome est√° hoje bem averiguada. Na margem esquerda do Douro,
-onde hoje se chama Gaia, havia uma povoa√ß√£o com o nome de _Cale_.
-Pequena ou grande, era a unica povoa√ß√£o da entrada do rio, e por isso o
+A origem d'este nome est· hoje bem averiguada. Na margem esquerda do Douro,
+onde hoje se chama Gaia, havia uma povoaÁ„o com o nome de _Cale_.
+Pequena ou grande, era a unica povoaÁ„o da entrada do rio, e por isso o
 porto se chamou _Portus Cale_, porto de Cale. Querem alguns que a
 terra tivesse sido povoada por gaulezes que deram ao porto o nome de
-_Portus Gallorum_, ou _Portus Galli√¶_. Eu n√£o creio que esse
-intrincado ponto mere√ßa a pena de ser resolvido.
+_Portus Gallorum_, ou _Portus GalliÊ_. Eu n„o creio que esse
+intrincado ponto mereÁa a pena de ser resolvido.
 
-A verdade √© que o nome de _Cale_ figura no itinerario de Antonino, que
-a designa√ß√£o _Portucale_ data do seculo V, e que a aldeia de Gaia
+A verdade È que o nome de _Cale_ figura no itinerario de Antonino, que
+a designaÁ„o _Portucale_ data do seculo V, e que a aldeia de Gaia
 ainda em 912 se chamava assim. O territorio visinho e dependente de
 _Portucale_ foi-lhe a pouco e pouco tomando o nome, deixando ao burgo
-primitivo a denomina√ß√£o de Cale, que tambem insensivelmente se converteu na
+primitivo a denominaÁ„o de Cale, que tambem insensivelmente se converteu na
 de Gaia.
 
-Os christ√£os aproveitaram a inexpugnavel posi√ß√£o fronteira, e
-fortificaram-a. Desde ent√£o houve na margem direita o _Portucale Castrum
+Os christ„os aproveitaram a inexpugnavel posiÁ„o fronteira, e
+fortificaram-a. Desde ent„o houve na margem direita o _Portucale Castrum
 novum_, e na outra o _Portucale Castrum antiquum_, ou por outra
 fortaleza velha, e fortaleza nova, ambas com o nome de _Portucale_. De
-nome de cidadella passou a designa√ß√£o de districto, d'ahi a condado, e mais
-tarde a reino, segundo a conquista christ√£ se alargou mais, e √° medida que
-a administra√ß√£o e governo deram a esse tracto de territorio alguma
+nome de cidadella passou a designaÁ„o de districto, d'ahi a condado, e mais
+tarde a reino, segundo a conquista christ„ se alargou mais, e · medida que
+a administraÁ„o e governo deram a esse tracto de territorio alguma
 homogeneidade.
 
 Deixemos pois o nome latino de lusitanos, mesmo com o risco de
-desagradarmos a tres ou quatro idolatras das tradic√ß√µes romanas, e fiquemos
-portucalenses, j√° que d'ahi nos transform√°mos em portuguezes. √â melhor
-guardar o nome que √© feitura nossa, do que andarmos a torcer a geographia e
+desagradarmos a tres ou quatro idolatras das tradicÁıes romanas, e fiquemos
+portucalenses, j· que d'ahi nos transform·mos em portuguezes. … melhor
+guardar o nome que È feitura nossa, do que andarmos a torcer a geographia e
 a historia para amontoar fabula sobre fabula.
 
 
@@ -727,184 +727,184 @@ IV
 O CONDE BORGONHEZ
 
 
-O conde D. Henrique n√£o se entreteve por muito tempo nos cuidados do
-governo. Em 1103 estava na Palestina, d'onde o encontr√¢mos de volta dois
-annos depois, e na c√¥rte do sogro em 1106.
+O conde D. Henrique n„o se entreteve por muito tempo nos cuidados do
+governo. Em 1103 estava na Palestina, d'onde o encontr‚mos de volta dois
+annos depois, e na cÙrte do sogro em 1106.
 
-N√£o se sabe quaes foram os motivos que resolveram D. Henrique a deixar o
-seu governo, e a separar-se da esposa com quem havia pouco se cas√°ra, para
+N„o se sabe quaes foram os motivos que resolveram D. Henrique a deixar o
+seu governo, e a separar-se da esposa com quem havia pouco se cas·ra, para
 se associar ao empenho dos cruzados, em resgatar o tumulo do Redemptor.
 
-As causas d'esta determina√ß√£o deviam ser poderosas: n√≥s n√£o as conhecemos.
-Dos hespanhoes s√≥ alguns cavalleiros isolados foram √°s primeiras cruzadas.
-Que melhor e mais santa guerra podia achar na Palestina, quem tinha √° porta
+As causas d'esta determinaÁ„o deviam ser poderosas: nÛs n„o as conhecemos.
+Dos hespanhoes sÛ alguns cavalleiros isolados foram ·s primeiras cruzadas.
+Que melhor e mais santa guerra podia achar na Palestina, quem tinha · porta
 de casa os inimigos da cruz? O proprio pontifice Paschoal II veiu a
 prohibir aos cavalleiros hespanhoes, que se alistassem entre os cruzados, e
 em Italia obrigavam-os a embarcar de novo para Hespanha.
 
-O conde D. Henrique obedeceu talvez √° id√©a geral de sacrificar todos os
-interesses √°s cren√ßas e deveres religiosos, e porventura a instiga√ß√µes e
-convite dos seus parentes de Fran√ßa, de cujo auxilio elle porventura
-contava tirar proveito mais tarde. Supp√µem-se que o conde partira na armada
+O conde D. Henrique obedeceu talvez · idÈa geral de sacrificar todos os
+interesses ·s crenÁas e deveres religiosos, e porventura a instigaÁıes e
+convite dos seus parentes de FranÁa, de cujo auxilio elle porventura
+contava tirar proveito mais tarde. Suppıem-se que o conde partira na armada
 genoveza que em 1104 prestou auxilio ao conde de Flandres Balduino na
 conquista de Ptolemaida.
 
-De volta do oriente o conde borgonhez entregou-se inteiramente √° governa√ß√£o
-dos seus estados, empenhando-se dev√©ras em fortalecer o proprio poder,
+De volta do oriente o conde borgonhez entregou-se inteiramente · governaÁ„o
+dos seus estados, empenhando-se devÈras em fortalecer o proprio poder,
 acrescentando o territorio nas guerras contra os arabes, a preparando-se
 para acabar com qualquer especie de supremacia estrangeira.
 
 Estes intuitos deviam mais do que uma vez occasionar guerra no norte com os
-leoneses, e no sul com os musulmanos. Para aquella a base de opera√ß√µes era
-Guimar√£es, c√¥rte e residencia do D. Henrique e de D. Tareja. Para a guerra
-do sul a base de opera√ß√µes era Coimbra.
+leoneses, e no sul com os musulmanos. Para aquella a base de operaÁıes era
+Guimar„es, cÙrte e residencia do D. Henrique e de D. Tareja. Para a guerra
+do sul a base de operaÁıes era Coimbra.
 
-De Coimbra deviam partir as expedi√ß√µes destinadas a libertar de novo os
+De Coimbra deviam partir as expediÁıes destinadas a libertar de novo os
 territorios do sul, e ali sabia-se, melhor do que em qualquer outra parte,
-a occasi√£o em que mais desprevenidos andavam os infieis, e em que se podia
+a occasi„o em que mais desprevenidos andavam os infieis, e em que se podia
 contar com um triumpho menos disputado.
 
-Em Guimar√£es agitavam-se quest√µes de natureza mais complicada; quest√µes
-diplomaticas de success√£o ao throno de Affonso VI, de allian√ßas
-estrangeiras, de independencia do territorio separado da monarchia de Le√£o,
+Em Guimar„es agitavam-se questıes de natureza mais complicada; questıes
+diplomaticas de success„o ao throno de Affonso VI, de allianÁas
+estrangeiras, de independencia do territorio separado da monarchia de Le„o,
 e de tudo quanto podia favorecer os planos ambiciosos de Henrique de
 Borgonha.
 
-Os dois primos Raymundo e Henrique fizeram entre si, em 1106 ou no come√ßo
-de 1107, um tratado secreto √°cerca da reparti√ß√£o dos estados do sogro,
-ent√£o ainda vivo; por√©m, Deus que muitas vezes zomba dos melhores calculos
+Os dois primos Raymundo e Henrique fizeram entre si, em 1106 ou no comeÁo
+de 1107, um tratado secreto ·cerca da repartiÁ„o dos estados do sogro,
+ent„o ainda vivo; porÈm, Deus que muitas vezes zomba dos melhores calculos
 dos homens, permittiu que Raymundo morresse em 1107, sem herdar de Affonso
-VI, que todavia lhe n√£o sobreviveu muito tempo.
+VI, que todavia lhe n„o sobreviveu muito tempo.
 
 O convenio entre os dois condes tinha por fim evitar que a coroa de Affonso
 VI passasse para o infante D. Sancho filho de Zaida Ibn-Abed, que alguns
-tratavam como esposa do imperador. A filha do emir de Sevilha n√£o podia ser
-mulher de Affonso VI, ent√£o casado com a rainha D. Constan√ßa, mas o amor de
-pae para com o infante, seu unico filho var√£o, inspirava receios aos
+tratavam como esposa do imperador. A filha do emir de Sevilha n„o podia ser
+mulher de Affonso VI, ent„o casado com a rainha D. ConstanÁa, mas o amor de
+pae para com o infante, seu unico filho var„o, inspirava receios aos
 maridos das duas princezas Urraca e Tareja.
 
-Este temor n√£o agitava s√≥mente os animos de Raymundo e de Henrique: tambem
-l√° de longe o celebre Hugo, abbade de Cluni, e parente dos condes, meditava
-n'este caso, e entrava no trama, se o n√£o promovera elle proprio. √â certo
-que o tratado foi jurado pelos dois primos e concunhados nas m√£os de
+Este temor n„o agitava sÛmente os animos de Raymundo e de Henrique: tambem
+l· de longe o celebre Hugo, abbade de Cluni, e parente dos condes, meditava
+n'este caso, e entrava no trama, se o n„o promovera elle proprio. … certo
+que o tratado foi jurado pelos dois primos e concunhados nas m„os de
 Dalmacio Veget, agente de Hugo.
 
 O imperador morreu em Toledo no mez de junho de 1109, pouco depois de ter
-perdido seu filho e herdeiro D. Sancho, que elle mand√°ra com o conde Gomes
-de Cabra a soccorrer o castello de Ucl√©s.
+perdido seu filho e herdeiro D. Sancho, que elle mand·ra com o conde Gomes
+de Cabra a soccorrer o castello de UclÈs.
 
-O tratado entre os dois primos n√£o teve execu√ß√£o. Urraca, viuva de
-Raymundo, succedeu, segundo o testamento de Affonso VI, na cor√¥a de Le√£o e
-de Castella, e deixando em Galliza seu filho D. Affonso entregue √° tutela
-dos condes de Trava, casou em segundas nupcias com Affonso I rei de Arag√£o.
+O tratado entre os dois primos n„o teve execuÁ„o. Urraca, viuva de
+Raymundo, succedeu, segundo o testamento de Affonso VI, na corÙa de Le„o e
+de Castella, e deixando em Galliza seu filho D. Affonso entregue · tutela
+dos condes de Trava, casou em segundas nupcias com Affonso I rei de Arag„o.
 
-Este segundo casamento foi celebrado mais a exigencias dos bar√µes
+Este segundo casamento foi celebrado mais a exigencias dos barıes
 castelhanos e leonezes, do que por vontade de D. Urraca. Queriam um homem
-para commanda-los, e que fosse pelo seu esfor√ßo e valentia digno de tal
-encargo. Affonso de Arag√£o era j√° ent√£o nomeado como batalhador. Por essa
+para commanda-los, e que fosse pelo seu esforÁo e valentia digno de tal
+encargo. Affonso de Arag„o era j· ent„o nomeado como batalhador. Por essa
 qualidade o escolheram.
 
-Mas a pobre rainha n√£o p√¥de accommodar-se ao caracter aspero e violento do
-aragonez, D'ahi provieram muitas occasi√µes de guerra e de desordem e d'ahi
-tambem come√ßou a surgir a possibilidade de Portugal vir a ser um estado
-independente, e separado para sempre da cor√¥a leoneza.
+Mas a pobre rainha n„o pÙde accommodar-se ao caracter aspero e violento do
+aragonez, D'ahi provieram muitas occasiıes de guerra e de desordem e d'ahi
+tambem comeÁou a surgir a possibilidade de Portugal vir a ser um estado
+independente, e separado para sempre da corÙa leoneza.
 
-Entretanto o conde Henrique n√£o estava ocioso. Apenas soube da morte do
-sogro com quem j√° andava mal avindo, partiu para Fran√ßa a reunir ali os
+Entretanto o conde Henrique n„o estava ocioso. Apenas soube da morte do
+sogro com quem j· andava mal avindo, partiu para FranÁa a reunir ali os
 meios necessarios para se apoderar dos estados de Affonso VI, ou para
-colher o maior proveito possivel das altera√ß√µes e dificuldades, que
+colher o maior proveito possivel das alteraÁıes e dificuldades, que
 necessariamente deviam seguir a morte do imperador.
 
-Esta viagem n√£o teve bom exito. D. Henrique foi preso em Fran√ßa por motivos
-que a historia se esqueceu de registrar, fugiu da pris√£o, e recolheu a
-Portugal pelo Arag√£o cujo rei j√° separado de D. Urraca se alliou facilmente
+Esta viagem n„o teve bom exito. D. Henrique foi preso em FranÁa por motivos
+que a historia se esqueceu de registrar, fugiu da pris„o, e recolheu a
+Portugal pelo Arag„o cujo rei j· separado de D. Urraca se alliou facilmente
 com elle.
 
-Desde o seu regresso de Fran√ßa, que foi em 1111, o conde Henrique mudou de
+Desde o seu regresso de FranÁa, que foi em 1111, o conde Henrique mudou de
 politica, provavelmente porque a falta do auxilio esperado lhe impunha a
-obriga√ß√£o de ser mais circumspecto, e de certo tambem porque a morte de
+obrigaÁ„o de ser mais circumspecto, e de certo tambem porque a morte de
 Raymundo, e o casamento de D. Urraca tinham dado aos negocios da peninsula
-uma direc√ß√£o muito differente.
+uma direcÁ„o muito differente.
 
 A rainha D. Urraca pouco depois de casada, separou-se do segundo marido
-Affonso[NT] rei de Arag√£o, e passou o resto de seus dias em reconcilia√ß√µes
-e separa√ß√µes successivas, sempre precedidas, acompanhadas e seguidas dos
-disturbios e agita√ß√µes que resultam das discordias internas das familias
-soberanas, a cujo exemplo se comp√µem os costumes dos povos.
+Affonso[NT] rei de Arag„o, e passou o resto de seus dias em reconciliaÁıes
+e separaÁıes successivas, sempre precedidas, acompanhadas e seguidas dos
+disturbios e agitaÁıes que resultam das discordias internas das familias
+soberanas, a cujo exemplo se compıem os costumes dos povos.
 
-Esta situa√ß√£o das monarchias leoneza, castelhana e aragoneza, que o
+Esta situaÁ„o das monarchias leoneza, castelhana e aragoneza, que o
 casamento de D. Urraca e de D. Affonso tinha unido, e que o caracter dos
 dois conjuges separava a cada instante, aggravava-se com desintelligencias
-repetidas entre Castella e Galliza. Os fidalgos gallegos, sob a direc√ß√£o do
+repetidas entre Castella e Galliza. Os fidalgos gallegos, sob a direcÁ„o do
 conde de Trava, tutor do joven filho de Raymundo, complicaram frequentes
-vezes as difficuldades da cor√¥a de Le√£o e Castella, querendo realisar a
-separa√ß√£o decretada no testamento do imperador em proveito do principe
+vezes as difficuldades da corÙa de Le„o e Castella, querendo realisar a
+separaÁ„o decretada no testamento do imperador em proveito do principe
 Affonso Raymundes.
 
-D. Henrique soube valer-se habilmente das desaven√ßas alheias, alliando-se
-ora com D. Urraca, ora com D. Affonso de Arag√£o, e mesmo com os magnates de
-Galliza. Desinteressado dessas quest√µes, o seu principal fim era
+D. Henrique soube valer-se habilmente das desavenÁas alheias, alliando-se
+ora com D. Urraca, ora com D. Affonso de Arag„o, e mesmo com os magnates de
+Galliza. Desinteressado dessas questıes, o seu principal fim era
 prolonga-las, collocando-se do lado de quem menos probabilidades tinha de
 resistir ao poder do outro. Assim, o vencedor de hoje podia facilmente ser
-o vencido de √°manh√£, e nenhum dos belligerantes ficaria nunca t√£o poderoso,
+o vencido de ·manh„, e nenhum dos belligerantes ficaria nunca t„o poderoso,
 que se lembrasse de attentar contra a soberania de Henrique.
 
-Entretanto brotavam e floresc√≠am na terra portucalense os elementos de
-independencia, que mais tarde deviam produzir a forma√ß√£o da nacionalidade
-portugueza. A cada guerra civil a allian√ßa de Henrique era solicitada com
-empenho e ninguem ousava regatear-lhe as concess√µes, ou p√¥r cobro √°s
+Entretanto brotavam e florescÌam na terra portucalense os elementos de
+independencia, que mais tarde deviam produzir a formaÁ„o da nacionalidade
+portugueza. A cada guerra civil a allianÁa de Henrique era solicitada com
+empenho e ninguem ousava regatear-lhe as concessıes, ou pÙr cobro ·s
 demasias do seu poder. A sua supremacia era incontestavel, reconheciam
 agora uns, logo outros, e a final todos.
 
 N'aquellas epochas de preponderancia feudal e militar, a politica sagaz de
-D. Henrique n√£o dependia s√≥ da sua ambi√ß√£o e do seu espirito elevado. Era
+D. Henrique n„o dependia sÛ da sua ambiÁ„o e do seu espirito elevado. Era
 indispensavel que os cavalleiros portuguezes seguissem de boa vontade as
-modifica√ß√µes da politica do conde borgonhez e de D. Tareja, e que
-sacrificassem a um principio geral as affei√ß√µes e os interesses que
+modificaÁıes da politica do conde borgonhez e de D. Tareja, e que
+sacrificassem a um principio geral as affeiÁıes e os interesses que
 podessem liga-los a D. Urraca, a D. Affonso, ou aos fidalgos gallegos.
 
 Essa necessidade reconhecida por todos dominava o animo dos portuguezes.
 Unia-os o desejo da propria independencia, sentimento especial da nossa
-ra√ßa, que o decurso de tantos seculos ainda n√£o p√¥de destruir, nem a
-unidade da civilisa√ß√£o moderna conseguiu modificar. Os portuguezes do
-come√ßo do seculo XII seguiram o conde Henrique em todas as suas mudan√ßas
-politicas e diplomaticas com tal confian√ßa e tenacidade, que ambas se podem
+raÁa, que o decurso de tantos seculos ainda n„o pÙde destruir, nem a
+unidade da civilisaÁ„o moderna conseguiu modificar. Os portuguezes do
+comeÁo do seculo XII seguiram o conde Henrique em todas as suas mudanÁas
+politicas e diplomaticas com tal confianÁa e tenacidade, que ambas se podem
 enumerar entre as causas mais energicas da independencia de Portugal.
 
-Sem esta uni√£o intima entre o chefe do estado e os seus magnates, a gente
-portugueza ter-se-√≠a dividido nos differentes bandos em que frequentemente
-se separava a familia hespanhola, e d'essa divis√£o resultaria o
-enfraquecimento do poder material e da for√ßa moral de D. Henrique, bem como
-a impossibilidade de resistir aos esfor√ßos do monarcha de Le√£o, quando este
+Sem esta uni„o intima entre o chefe do estado e os seus magnates, a gente
+portugueza ter-se-Ìa dividido nos differentes bandos em que frequentemente
+se separava a familia hespanhola, e d'essa divis„o resultaria o
+enfraquecimento do poder material e da forÁa moral de D. Henrique, bem como
+a impossibilidade de resistir aos esforÁos do monarcha de Le„o, quando este
 principe tentasse encorporar de novo nos seus dominios a terra portugueza.
 
-O desejo de possuir a maior por√ß√£o possivel dos estados de Affonso VI
+O desejo de possuir a maior porÁ„o possivel dos estados de Affonso VI
 prevalecia sobre qualquer outro pensamento no animo do conde de Portugal.
-Por isso talvez n√£o acudiu a Santarem e √°s outras terras do sul, que os
-arabes tomaram de novo, e apenas p√¥de empregar-se em socegar os habitantes
+Por isso talvez n„o acudiu a Santarem e ·s outras terras do sul, que os
+arabes tomaram de novo, e apenas pÙde empregar-se em socegar os habitantes
 de Coimbra, que irritados pelo procedimento de Munio Barroso e de Ebraldo
 chegaram a recusar a D. Henrique a entrada na cidade.
 
-O conde andava ent√£o inteiramente entregue √° id√©a de se aproveitar das
-dissens√µes entre sua cunhada D. Urraca e Affonso[NT] I de Arag√£o,
-servindo-se para esse fim de allian√ßas contra√≠das e desfeitas segundo a
+O conde andava ent„o inteiramente entregue · idÈa de se aproveitar das
+dissensıes entre sua cunhada D. Urraca e Affonso[NT] I de Arag„o,
+servindo-se para esse fim de allianÁas contraÌdas e desfeitas segundo a
 malicia dos seus intuitos lhe aconselhava.
 
 O conde D. Henrique morreu em Astorga no 1.^o de maio de 1114, transformado
-j√° de simples governador do districto de Braga em soberano quasi
-independente. N√£o era rei, posto que D. Tareja usasse √°s vezes o titulo de
-rainha, n√£o era principe, nem infante, mas desde a morte do sogro, era
-senhor na rigorosa accep√ß√£o da palavra quanto ao facto, embora o direito
-publico da epocha o sujeitasse ao rei de Le√£o.
+j· de simples governador do districto de Braga em soberano quasi
+independente. N„o era rei, posto que D. Tareja usasse ·s vezes o titulo de
+rainha, n„o era principe, nem infante, mas desde a morte do sogro, era
+senhor na rigorosa accepÁ„o da palavra quanto ao facto, embora o direito
+publico da epocha o sujeitasse ao rei de Le„o.
 
 Os portuguezes devem venerar a memoria do principe borgonhez, porque desde
-a sua volta do Oriente n√£o teve em vista sen√£o a independencia d'esta terra
-e soube empregar em t√£o nobre empenho grande sagacidade, invencivel
+a sua volta do Oriente n„o teve em vista sen„o a independencia d'esta terra
+e soube empregar em t„o nobre empenho grande sagacidade, invencivel
 firmeza, e consummada prudencia.
 
-Quando os restos mortaes do conde D. Henrique entraram na s√© de Braga a
+Quando os restos mortaes do conde D. Henrique entraram na sÈ de Braga a
 repousar no tumulo onde inda jazem, as bases da independencia portugueza
-estavam lan√ßadas, e por m√£o de mestre.
+estavam lanÁadas, e por m„o de mestre.
 
 Este foi o verdadeiro fundador da nossa nacionalidade. Os portuguezes
 chamados a intervir nas guerras civis de Hespanha ora a favor de D.
@@ -913,7 +913,7 @@ foram-se separando insensivelmente de cada uma d'essas parcialidades, e
 adquirindo as qualidades de povo independente.
 
 A monarchia appareceu mais tarde. Era a consequencia necessaria da
-existencia da na√ß√£o, e dos costumes e tradi√ß√µes d'aquelle tempo.
+existencia da naÁ„o, e dos costumes e tradiÁıes d'aquelle tempo.
 
 
 
@@ -923,36 +923,36 @@ V
 GOVERNO DE D. TAREJA
 
 
-D. Affonso Henriques, filho primogenito do conde, era de menor idade √°
+D. Affonso Henriques, filho primogenito do conde, era de menor idade ·
 morte do pae. D. Tareja teve pois de tomar o governo, e com elle o difficil
-encargo de continuar a obra politica do marido, de quem ella f√¥ra talvez o
+encargo de continuar a obra politica do marido, de quem ella fÙra talvez o
 conselheiro mais intimo.
 
-A nobre viuva de D. Henrique mostrou no cumprimento de t√£o delicada miss√£o
-muita habilidade, e grande pertinacia, qualidades contra as quaes n√£o
-prevaleceram nem o poder da monarchia de Le√£o, nem as correrias incessantes
+A nobre viuva de D. Henrique mostrou no cumprimento de t„o delicada miss„o
+muita habilidade, e grande pertinacia, qualidades contra as quaes n„o
+prevaleceram nem o poder da monarchia de Le„o, nem as correrias incessantes
 dos arabes do sul de Portugal.
 
-Ella soube dirigir astutamente as dissen√ß√µes dos sempre mal avindos
-soberanos de Le√£o, de Castella e de Arag√£o, para acrescentar o territorio
-portuguez por meio de cess√µes effectivas ou de promessas solemnemente
-estipuladas, bem que √°s vezes inuteis pelas reconcilia√ß√µes amiudadas e
-repentinas de D. Urraca com D. Affonso de Arag√£o.
+Ella soube dirigir astutamente as dissenÁıes dos sempre mal avindos
+soberanos de Le„o, de Castella e de Arag„o, para acrescentar o territorio
+portuguez por meio de cessıes effectivas ou de promessas solemnemente
+estipuladas, bem que ·s vezes inuteis pelas reconciliaÁıes amiudadas e
+repentinas de D. Urraca com D. Affonso de Arag„o.
 
-A auctoridade moral do governo n√£o diminuiu nas m√£os delicadas de D.
-Tareja. Cercada dos bar√µes portuguezes, identificada com o espirito que os
-animava, e decidida a seguir o systema do conde Henrique, a m√£e de D.
+A auctoridade moral do governo n„o diminuiu nas m„os delicadas de D.
+Tareja. Cercada dos barıes portuguezes, identificada com o espirito que os
+animava, e decidida a seguir o systema do conde Henrique, a m„e de D.
 Affonso mostrou rara firmeza de caracter, e astuciosa prudencia.
 
-No intento de desenvolver as for√ßas do seu pequeno estado, e de o separar
-inteiramente da monarchia leoneza, foi invariavel; por√©m nas manifesta√ß√µes
+No intento de desenvolver as forÁas do seu pequeno estado, e de o separar
+inteiramente da monarchia leoneza, foi invariavel; porÈm nas manifestaÁıes
 exteriores d'este nobre pensamento, regulou-se cautelosamente pelas
 circumstancias accidentaes da peninsula.
 
-D. Urrava rainha de Le√£o, irm√£ legitima de D. Tareja, vendo esta princeza
+D. Urrava rainha de Le„o, irm„ legitima de D. Tareja, vendo esta princeza
 viuva e com um filho de menor idade, devia frequentes vezes lembrar-se de
-reunir √° sua cor√¥a o territorio portuguez, melhorado pelas conquistas e
-esfor√ßos do conde D. Henrique. Esta era pois a mais forte inimiga dos
+reunir · sua corÙa o territorio portuguez, melhorado pelas conquistas e
+esforÁos do conde D. Henrique. Esta era pois a mais forte inimiga dos
 portuguezes, e contra ella se voltaram quasi incessantemente as armas de D.
 Tareja, sob pretextos differentes.
 
@@ -961,219 +961,219 @@ multiplicados combates, sentimentos de invencivel hostilidade contra os
 leonezes no animo dos seus vassallos. Preparava-os assim para a grande luta
 da completa independencia de Portugal.
 
-E com tal habilidade se soube D. Tareja dirigir nas rela√ß√µes politicas com
-os seus adversarios externos, que obteve a confirma√ß√£o do tratado antigo
-√°cerca de Samora, que uma das reconcilia√ß√µes conjugaes de D. Urraca
-invalid√°ra. O districto d'esta cidade passou a ser portuguez.
+E com tal habilidade se soube D. Tareja dirigir nas relaÁıes politicas com
+os seus adversarios externos, que obteve a confirmaÁ„o do tratado antigo
+·cerca de Samora, que uma das reconciliaÁıes conjugaes de D. Urraca
+invalid·ra. O districto d'esta cidade passou a ser portuguez.
 
 O negocio mais difficultoso nos conselhos politicos de D. Tareja foi
 sempre, por certo a escolha do melhor arbitrio para sustentar a posse dos
-dominios do conde D. Henrique, sem ficar inteiramente na sujei√ß√£o da cor√¥a
+dominios do conde D. Henrique, sem ficar inteiramente na sujeiÁ„o da corÙa
 leoneza, e sem se revoltar abertamente contra ella. Este parece ter sido o
-alvo constante da politica da m√£e de Affonso Henriques.
+alvo constante da politica da m„e de Affonso Henriques.
 
-√Å morte do conde D. Henrique, D. Tareja partiu para Astorga, onde estava a
-c√¥rte, e cr√™-se que f√¥ra por suggest√£o sua que Affonso I de Arag√£o
-repell√≠ra de si, e expuls√°ra da cidade D. Urraca, sua mulher, por suspeitas
-de envenenamento, negando-lhe at√© a prova do combate ou juizo de Deus com
+¡ morte do conde D. Henrique, D. Tareja partiu para Astorga, onde estava a
+cÙrte, e crÍ-se que fÙra por suggest„o sua que Affonso I de Arag„o
+repellÌra de si, e expuls·ra da cidade D. Urraca, sua mulher, por suspeitas
+de envenenamento, negando-lhe atÈ a prova do combate ou juizo de Deus com
 que ella queria para logo justificar-se.
 
-A opini√£o dos bar√µes de Le√£o e Castella foi favoravel √° esposa ultrajada, a
-quem se tolh√™ra a defeza. Affonso I viu-se obrigado a regressar ao Arag√£o,
-mas D. Tareja n√£o succumbiu a este desastre. Sua irm√£ D. Urraca entendeu
-talvez, que n√£o podia lutar com uma princeza cujos cavalleiros e homens de
-armas s√≥ a ella obedeciam em negocios de politica externa, e que alem
-d'esta vantagem tinha rela√ß√µes intimas com os principaes senhores da
+A opini„o dos barıes de Le„o e Castella foi favoravel · esposa ultrajada, a
+quem se tolhÍra a defeza. Affonso I viu-se obrigado a regressar ao Arag„o,
+mas D. Tareja n„o succumbiu a este desastre. Sua irm„ D. Urraca entendeu
+talvez, que n„o podia lutar com uma princeza cujos cavalleiros e homens de
+armas sÛ a ella obedeciam em negocios de politica externa, e que alem
+d'esta vantagem tinha relaÁıes intimas com os principaes senhores da
 Galliza e com o astuto Gelmires, poderoso bispo de Compostela. Apesar das
-intrigas de Astorga as duas irm√£s fizeram pazes entre si.
+intrigas de Astorga as duas irm„s fizeram pazes entre si.
 
 N'este convenio a superioridade estava do lado de D. Urraca, que era de
 direito soberana da terra governada per D. Tareja, e que esquecia injurias
 e offensas gravissimas. A viuva de D. Henrique teve de reconhecer a
-supremacia da irm√£, e nas c√¥rtes reunidas em 1115 em Oviedo assignou como
+supremacia da irm„, e nas cÙrtes reunidas em 1115 em Oviedo assignou como
 infanta em seu nome e de seus filhos.
 
-A ausencia dos bar√µes portuguezes; a falta de men√ß√£o de que Tareja os
-representava n'aquella assembl√©a, e por elles fazia preito √° irm√£, indicam
-qual era j√° ent√£o o espirito dos portuguezes, e qu√£o graves as
-circumstancias a que D. Tareja se via for√ßada a obedecer.
+A ausencia dos barıes portuguezes; a falta de menÁ„o de que Tareja os
+representava n'aquella assemblÈa, e por elles fazia preito · irm„, indicam
+qual era j· ent„o o espirito dos portuguezes, e qu„o graves as
+circumstancias a que D. Tareja se via forÁada a obedecer.
 
-Esta submiss√£o pessoal n√£o durou muito. Na primeira discordia entre D.
+Esta submiss„o pessoal n„o durou muito. Na primeira discordia entre D.
 Urraca e os fidalgos de Galliza, D. Tareja declarou-se em favor d'estes e
-aggrediu vivamente a irm√£. N'essa luta ganharam os portuguezes a posse de
+aggrediu vivamente a irm„. N'essa luta ganharam os portuguezes a posse de
 uma grande parte dos districtos de Tuy e Orense, que conservaram bastante
 tempo.
 
 Os combates incessantes no norte foram interrompidos em 1116 pelos arabes
-do sul, que tomaram Miranda para l√° do Mondego, passaram este rio,
-appossaram-se do castello de Santa Eulalia junto a Montem√≥r, e no ver√£o do
+do sul, que tomaram Miranda para l· do Mondego, passaram este rio,
+appossaram-se do castello de Santa Eulalia junto a MontemÛr, e no ver„o do
 anno seguinte vieram durante vinte dias atacar Coimbra, onde estava D.
-Tareja. A infanta dos portuguezes, como est√£o lhe chamavam, soube defender
+Tareja. A infanta dos portuguezes, como est„o lhe chamavam, soube defender
 a cidade de modo que os arabes levantaram o cerco.
 
-√Å necessidade de resistir √°s invas√µes dos infieis correspondia sempre menor
-arrogancia na manifesta√ß√£o dos sentimentos de independencia para com a
-rainha de Le√£o. A supremacia de D. Urraca era t√£o pouco contestada que o
-arcebispo de Braga D. Paio, irm√£o do Lidador e dos Mendes da Maia, que
-tanto fizeram depois pela liberdade d'esta terra, pediu em 1121 √° soberana
-de Le√£o e de Castella a confirma√ß√£o do couto da cidade archiepiscopal.
+¡ necessidade de resistir ·s invasıes dos infieis correspondia sempre menor
+arrogancia na manifestaÁ„o dos sentimentos de independencia para com a
+rainha de Le„o. A supremacia de D. Urraca era t„o pouco contestada que o
+arcebispo de Braga D. Paio, irm„o do Lidador e dos Mendes da Maia, que
+tanto fizeram depois pela liberdade d'esta terra, pediu em 1121 · soberana
+de Le„o e de Castella a confirmaÁ„o do couto da cidade archiepiscopal.
 
-As duas irm√£s eram inimigas. A paz entre ellas podia ser dictada por
-motivos politicos; do cora√ß√£o n√£o vinha. Os designios de D. Tareja e dos
-seus subditos eram manifestos. A necessidade de sujeitar Portugal n√£o
+As duas irm„s eram inimigas. A paz entre ellas podia ser dictada por
+motivos politicos; do coraÁ„o n„o vinha. Os designios de D. Tareja e dos
+seus subditos eram manifestos. A necessidade de sujeitar Portugal n„o
 esquecia a D. Urraca. D'ahi resultou a guerra de 1121 na qual a rainha de
-Le√£o atravessou o Minho, chegou at√© √°s margens do Douro, obrigou D. Tareja
+Le„o atravessou o Minho, chegou atÈ ·s margens do Douro, obrigou D. Tareja
 a encerrar-se no castello de Lanhoso, e ali a foi cercar.
 
-D'esta penosa situa√ß√£o p√¥de sa√≠r sem grande esfor√ßo, gra√ßas √°s intrigas que
+D'esta penosa situaÁ„o pÙde saÌr sem grande esforÁo, graÁas ·s intrigas que
 se urdiam em segredo na propria comitiva de D. Urraca. Tratava-se de
 proclamar o principe de Galliza, filho d'esta rainha e de seu primeiro
 marido o conde Raymundo, e n'este empenho andavam os senhores de Galliza, o
 bispo de Compostella, e todos quantos se diziam cansados das discordias
-continuas entre D. Urraca e seu segundo marido Affonso de Arag√£o, bem como
+continuas entre D. Urraca e seu segundo marido Affonso de Arag„o, bem como
 os que detestavam o conde Pedro de Lara, poderoso amante da soberana de
-Le√£o.
+Le„o.
 
-D. Tareja f√¥ra sempre ligada com esta parcialidade, como D. Henrique o f√¥ra
+D. Tareja fÙra sempre ligada com esta parcialidade, como D. Henrique o fÙra
 com Raymundo no intento da reciproca independencia, e se ficasse
-prisioneira da irm√£, perder-se-√≠a um alliado importante para a execu√ß√£o dos
+prisioneira da irm„, perder-se-Ìa um alliado importante para a execuÁ„o dos
 planos contra D. Urraca. Soberanos e potentados estrangeiros, parentes da
-casa de Borgonha entravam na conspira√ß√£o contra a esposa de Affonso de
-Arag√£o.
+casa de Borgonha entravam na conspiraÁ„o contra a esposa de Affonso de
+Arag„o.
 
 Fernando Peres de Trava, antigo official do prelado de Compostella, parente
 e amigo dos primeiros fidalgos de Galliza, era amante de D. Tareja, e
-governava por merc√™ sua o Porto e Coimbra. As rela√ß√µes d'este fidalgo na
-c√¥rte de D. Urraca s√≥ podiam ser favoraveis √° mulher que elle amava.
+governava por mercÍ sua o Porto e Coimbra. As relaÁıes d'este fidalgo na
+cÙrte de D. Urraca sÛ podiam ser favoraveis · mulher que elle amava.
 
-D'este conjuncto de circumstancias, e talvez de outras que ignor√¢mos,
+D'este conjuncto de circumstancias, e talvez de outras que ignor‚mos,
 nasceu a paz, na qual D. Tareja conservou as terras de Galliza, cuja posse
-havia dado causa √° guerra, e obteve varias terras e aldeias nos districtos
+havia dado causa · guerra, e obteve varias terras e aldeias nos districtos
 de Samora, Toro, Salamanca, Avila, Valhadolid e Toledo, como tenencia da
-irm√£.
+irm„.
 
 A quem a viuva de D. Henrique deveu estas vantagens, apesar das victorias
-de D. Urraca, p√≥de conjecturar-se pelos successos posteriores. A Galliza
-dentro em pouco revoltou-se contra a rainha de Le√£o, e D. Tareja sem tomar
-activamente parte nas contendas que se seguiram at√© mar√ßo de 1126 em que
-morreu a irm√£, protegeu os revoltosos por todos os modos ao seu alcance,
+de D. Urraca, pÛde conjecturar-se pelos successos posteriores. A Galliza
+dentro em pouco revoltou-se contra a rainha de Le„o, e D. Tareja sem tomar
+activamente parte nas contendas que se seguiram atÈ marÁo de 1126 em que
+morreu a irm„, protegeu os revoltosos por todos os modos ao seu alcance,
 conseguindo conservar os territorios que possuia na Galliza, segundo o
 tratado de paz de 1121.
 
-Algumas palavras do sr. Alexandre Herculano explicar√£o, melhor de que n√≥s o
+Algumas palavras do sr. Alexandre Herculano explicar„o, melhor de que nÛs o
 poderiamos fazer, as causas d'esta inconstancia politica da infanta dos
-portuguezes. ¬´Cada um dos personagens que figurava n'aquelle drama, diz o
-nosso illustre historiador, quer principes, quer senhores s√≥ pensava em
-tirar das desgra√ßas publicas a maior vantagem possivel. As allian√ßas
+portuguezes. ´Cada um dos personagens que figurava n'aquelle drama, diz o
+nosso illustre historiador, quer principes, quer senhores sÛ pensava em
+tirar das desgraÁas publicas a maior vantagem possivel. As allianÁas
 faziam-se, e desfaziam-se rapidamente; porque nenhuma sinceridade havia no
 procedimento dos individuos. Os interesses particulares dos nobres e
-prelados cruzavam-se com as quest√µes politicas, o modificavam-nas
-diversamente.¬ª As ac√ß√µes de D. Tareja devem ser apreciadas n'este sentido.
-Ella obedecia √° tradic√ß√£o conjugal da independencia, ao proprio sentimento
-de liberdade, e √°s tendencias e espirito dos bar√µes e homens de armas de
+prelados cruzavam-se com as questıes politicas, o modificavam-nas
+diversamente.ª As acÁıes de D. Tareja devem ser apreciadas n'este sentido.
+Ella obedecia · tradicÁ„o conjugal da independencia, ao proprio sentimento
+de liberdade, e ·s tendencias e espirito dos barıes e homens de armas de
 Portugal.
 
 As qualidades incontestaveis de D. Tareja fizeram-a geralmente respeitada,
 tanto nas terras que governava, como em toda a peninsula hespanhola e mesmo
-nos paizes afastados. O papa mais do que uma vez a trat√°ra como rainha,
-qualifica√ß√£o que s√≥ era legal ou de costume dar-se √°s filhas legitimas dos
+nos paizes afastados. O papa mais do que uma vez a trat·ra como rainha,
+qualificaÁ„o que sÛ era legal ou de costume dar-se ·s filhas legitimas dos
 reis, e ella propria tomou este titulo nos documentos publicos,
 promiscuamente com o de filha de D. Affonso, ou de infanta dos portuguezes.
 
-Portugal come√ßou tambem cerca de 1117 a ser designado como reino,
-manifesta√ß√£o nominal de independencia, anterior √° eleva√ß√£o da dynastia
-real. Antes que o principe fosse independente no exercicio da soberania, j√°
-a opini√£o geral attribuia ao territorio essa qualidade, Portugal era reino
-sem ter ainda escolhido rei. O povo livre n√£o podia tardar em proclamar um
-chefe que sustentando as ambi√ß√µes patrioticas dos portuguezes, acabasse com
-a supremacia politica do rei de Le√£o.
+Portugal comeÁou tambem cerca de 1117 a ser designado como reino,
+manifestaÁ„o nominal de independencia, anterior · elevaÁ„o da dynastia
+real. Antes que o principe fosse independente no exercicio da soberania, j·
+a opini„o geral attribuia ao territorio essa qualidade, Portugal era reino
+sem ter ainda escolhido rei. O povo livre n„o podia tardar em proclamar um
+chefe que sustentando as ambiÁıes patrioticas dos portuguezes, acabasse com
+a supremacia politica do rei de Le„o.
 
 D. Urraca morreu em 1126, e seu filho Affonso VII fez tregoas com D.
-Tareja. Duraram pouco, porque ella recusou sugeitar-se √°s obriga√ß√µes da
+Tareja. Duraram pouco, porque ella recusou sugeitar-se ·s obrigaÁıes da
 tenencia dos territorios que recebera em 1121. Na nova campanha Portugal
-n√£o p√¥de esquivar-se a reconhecer a suzerania de Le√£o, e perdeu as terras
+n„o pÙde esquivar-se a reconhecer a suzerania de Le„o, e perdeu as terras
 de que pertendia o dominio absoluto.
 
 D. Affonso Henriques foi durante esta guerra cercado pelo filho de D.
-Urraca em Guimar√£es, onde estava talvez j√° quasi revoltado contra a m√£e, e
+Urraca em Guimar„es, onde estava talvez j· quasi revoltado contra a m„e, e
 para que o cerco fosse levantado, teve de prometter a seu primo Affonso
 VII, que lhe faria preito e homenagem das terras de Portugal.
 
 Egas Moniz, poderoso fidalgo de Entre Douro e Minho, e aio do principe
 portuguez, ficou por fiador da palavra de Affonso Henriques; e o rei de
-Le√£o aceitando a fian√ßa do mais honrado cavalleiro d'aquelles tempos,
-levantou o cerco, e retirou-se de Guimar√£es.
+Le„o aceitando a fianÁa do mais honrado cavalleiro d'aquelles tempos,
+levantou o cerco, e retirou-se de Guimar„es.
 
-A palavra do joven principe n√£o foi cumprida. Fosse que o animo de D.
-Affonso Henriques repugnasse a come√ßar a vida politica pelo reconhecimento
+A palavra do joven principe n„o foi cumprida. Fosse que o animo de D.
+Affonso Henriques repugnasse a comeÁar a vida politica pelo reconhecimento
 da supremacia estrangeira, ou fosse que os proceres do reino obrigassem o
-infante a faltar √°s promessas de Guimar√£es, e a sacrificar a propria honra
-√° independencia de Portugal, √© certo que o filho de D. Tareja n√£o cumpriu
+infante a faltar ·s promessas de Guimar„es, e a sacrificar a propria honra
+· independencia de Portugal, È certo que o filho de D. Tareja n„o cumpriu
 os ajustes do aio.
 
-Ent√£o Egas Moniz reuniu a sua familia, e partiu com ella para a c√¥rte de D.
-Affonso VII, n√£o a fazer-lhe o preito que Affonso Henriques recus√°ra, mas
-de corda ao pesco√ßo e descal√ßo, a prostrar-se aos p√©s do rei de Le√£o, e a
+Ent„o Egas Moniz reuniu a sua familia, e partiu com ella para a cÙrte de D.
+Affonso VII, n„o a fazer-lhe o preito que Affonso Henriques recus·ra, mas
+de corda ao pescoÁo e descalÁo, a prostrar-se aos pÈs do rei de Le„o, e a
 offerecer-lhe o proprio sangue, o da mulher, e o dos filhos, para lavar a
-nodoa que a falta de cumprimento da palavra dada lan√ßava na reputa√ß√£o de um
+nodoa que a falta de cumprimento da palavra dada lanÁava na reputaÁ„o de um
 cavalleiro.
 
-T√£o primorosa lealdade maravilhou a c√¥rte, e captivou o animo de Affonso
+T„o primorosa lealdade maravilhou a cÙrte, e captivou o animo de Affonso
 VII. O fidalgo portuguez voltou em liberdade para o reino, e o soberano de
-Le√£o declarou illibada a honra de Egas Moniz. Depois que os ossos do aio de
-D. Affonso Henriques, foram repousar no mosteiro de Pa√ßo de Sousa,
-pozeram-lhe no tumulo, em esculturas grosseiras, a representa√ß√£o d'esta
-gloriosa fa√ßanha, que ali se v√™ ainda hoje servindo de eloquentissimo
-epitaphio √°s cinzas do velho fidalgo de Riba-Douro.
+Le„o declarou illibada a honra de Egas Moniz. Depois que os ossos do aio de
+D. Affonso Henriques, foram repousar no mosteiro de PaÁo de Sousa,
+pozeram-lhe no tumulo, em esculturas grosseiras, a representaÁ„o d'esta
+gloriosa faÁanha, que ali se vÍ ainda hoje servindo de eloquentissimo
+epitaphio ·s cinzas do velho fidalgo de Riba-Douro.
 
-Estes feitos heroicos s√≥ se manifestam nas epochas em que as na√ß√µes est√£o
+Estes feitos heroicos sÛ se manifestam nas epochas em que as naÁıes est„o
 dispostas para commettimentos generosos e sublimes, porque do conjuncto das
-virtudes particulares √© que se f√≥rma o caracter geral da na√ß√£o.
+virtudes particulares È que se fÛrma o caracter geral da naÁ„o.
 
-Nos tempos de abatimento e de decadencia nacional, n√£o se encontram taes
+Nos tempos de abatimento e de decadencia nacional, n„o se encontram taes
 exemplos, e se apparecem excepcionalmente, provocam a escarneo, em vez de
-conseguirem louvor e admira√ß√£o. Na√ß√£o, cujos proceres tinham sentimentos
-t√£o elevados, era digna de ser livre, e por isso o foi.
+conseguirem louvor e admiraÁ„o. NaÁ„o, cujos proceres tinham sentimentos
+t„o elevados, era digna de ser livre, e por isso o foi.
 
-A nobre ac√ß√£o de D. Egas Moniz foi praticada durante o anno de 1127, tempo
-em que D. Tareja tinha j√° perdido no animo dos portuguezes a influencia que
-soubera conquistar. A que f√¥ra sempre varonil na governa√ß√£o do estado, n√£o
-p√¥de evitar as tenta√ß√µes da fraqueza humana, e o seu cora√ß√£o de mulher
+A nobre acÁ„o de D. Egas Moniz foi praticada durante o anno de 1127, tempo
+em que D. Tareja tinha j· perdido no animo dos portuguezes a influencia que
+soubera conquistar. A que fÙra sempre varonil na governaÁ„o do estado, n„o
+pÙde evitar as tentaÁıes da fraqueza humana, e o seu coraÁ„o de mulher
 deixou-se captivar do conde Fernando Peres de Trava, da nobre familia de
-Galliza, √° qual f√¥ra confiada por D. Urraca a tutella de Affonso VII.
+Galliza, · qual fÙra confiada por D. Urraca a tutella de Affonso VII.
 
 O conde, amante e valido, intervinha nos negocios publicos. Nenhum acto
-indic√°ra que essa interven√ß√£o fosse desleal, nem a politica de D. Tareja se
-desvi√°ra do caminho tra√ßado pelo conde D. Henrique; mas os portuguezes eram
-j√° ciosos da sua independencia, e avessos a toda a influencia estrangeira.
+indic·ra que essa intervenÁ„o fosse desleal, nem a politica de D. Tareja se
+desvi·ra do caminho traÁado pelo conde D. Henrique; mas os portuguezes eram
+j· ciosos da sua independencia, e avessos a toda a influencia estrangeira.
 
-O filho de D. Tareja, que se cre√°ra com fidalgos portuguezes, e que devia
+O filho de D. Tareja, que se cre·ra com fidalgos portuguezes, e que devia
 ter a peito a honra e bom nome da sua casa, odiava o conde de Trava, e
 preparava-se para lhe destruir o poder, embora para isso fosse necessario
-arrancar √° propria m√£e o governo do reino. Com effeito a rainha D. Tareja
+arrancar · propria m„e o governo do reino. Com effeito a rainha D. Tareja
 teve de abandonar o poder em 1128, em virtude de acontecimentos em que seu
 filho tomou a mais energica iniciativa.
 
 A viuva do conde D. Henrique contribuiu vigorosamente para facilitar a
 independencia de Portugal. Teve qualidades politicas de grande quilate, e
-os effeitos d'essas virtudes chegaram at√© √° nossa idade. Das fraquezas da
-sua vida particular s√≥ ella foi victima; fraquezas que eram vulgares
+os effeitos d'essas virtudes chegaram atÈ · nossa idade. Das fraquezas da
+sua vida particular sÛ ella foi victima; fraquezas que eram vulgares
 n'aquella epocha, e que infelizmente nem raras foram nos seculos
 posteriores.
 
-A historia n√£o levou em conta a D. Tareja nem a fragilidade da natureza
-humana, nem os costumes do seculo em que ella viveu, nem a expia√ß√£o
+A historia n„o levou em conta a D. Tareja nem a fragilidade da natureza
+humana, nem os costumes do seculo em que ella viveu, nem a expiaÁ„o
 infligida por seu proprio filho, privando-a do governo e prendendo-a, nem o
-abandono em que morreu, malquista d'aquelles, a cujas vantagens consagr√°ra
-a vida, e em favor de quem soubera tirar partido at√© dos proprios erros. D.
-Tareja morreu no 1.^o de novembro de 1130 e repousa em Braga, junto √°s
+abandono em que morreu, malquista d'aquelles, a cujas vantagens consagr·ra
+a vida, e em favor de quem soubera tirar partido atÈ dos proprios erros. D.
+Tareja morreu no 1.^o de novembro de 1130 e repousa em Braga, junto ·s
 cinzas de seu marido.
 
-A historia foi ingrata. N√£o o sejamos n√≥s. Aben√ßoemos a memoria da soberana
+A historia foi ingrata. N„o o sejamos nÛs. AbenÁoemos a memoria da soberana
 que ajudou a crear-nos para sermos independentes e livres, e perdoemos-lhe
-esses desvios. As idades futuras ter√£o de nos perdoar outros bem mais
-criminosos, e que nem sempre poder√£o desculpar-se com t√£o gloriosas
-compensa√ß√µes.
+esses desvios. As idades futuras ter„o de nos perdoar outros bem mais
+criminosos, e que nem sempre poder„o desculpar-se com t„o gloriosas
+compensaÁıes.
 
 
 
@@ -1185,108 +1185,108 @@ D. AFFONSO HENRIQUES
 
 Affonso Henriques tinha quatorze annos, quando no domingo de Pentecostes do
 anno de 1125 se armou cavalleiro na cathedral de Samora, terra que
-pertencia ent√£o ao reino de Portugal por cess√£o da rainha D. Urraca.
+pertencia ent„o ao reino de Portugal por cess„o da rainha D. Urraca.
 
-O modo pelo qual esta cerimonia f√¥ra disposta, indicava de sobejo as
-inten√ß√µes do principe, mesmo no caso em que este acto se n√£o pudesse julgar
-sen√£o imita√ß√£o exacta do que, em dia igual do anno anterior, pratic√°ra em
+O modo pelo qual esta cerimonia fÙra disposta, indicava de sobejo as
+intenÁıes do principe, mesmo no caso em que este acto se n„o pudesse julgar
+sen„o imitaÁ„o exacta do que, em dia igual do anno anterior, pratic·ra em
 Compostella seu primo Affonso VII.
 
 As armas com que devia armar-se o joven filho do conde Henrique tinham sido
 collocadas sobre o altar de S. Salvador na cathedral de Samora. Antes que
-come√ßasse a festa do Espirito Santo, o mo√ßo Affonso Henriques entrou na
+comeÁasse a festa do Espirito Santo, o moÁo Affonso Henriques entrou na
 igreja, caminhou para o altar, tomou as armas, e cingiu-as elle proprio
-para n√£o conceder a pessoa alguma a supremacia de lhe ter conferido o grau
+para n„o conceder a pessoa alguma a supremacia de lhe ter conferido o grau
 de cavalleiro.
 
 Dos velhos guerreiros de seu pae havia muitos que mereciam esta honra.
-Seguido d'elles entrou no templo convidando-os a assistir √°quelle acto
+Seguido d'elles entrou no templo convidando-os a assistir ·quelle acto
 solemne, e a serem testemunhas da firmeza do principe, destinado a
-commanda-los; por√©m mostrou-lhes desde logo a energica vontade de n√£o
-depender sen√£o de si proprio.
+commanda-los; porÈm mostrou-lhes desde logo a energica vontade de n„o
+depender sen„o de si proprio.
 
 Esta solemnidade foi um preparativo para acabar com a influencia do conde
 de Trava. Com effeito tres annos depois de armado cavalleiro, Affonso
-Henriques declarou guerra a sua m√£e, ajudado do arcebispo D. Paio e de seus
-irm√£os, de Mendes Ermigio, de Garcia Soares e de Sancho Nunes que depois
+Henriques declarou guerra a sua m„e, ajudado do arcebispo D. Paio e de seus
+irm„os, de Mendes Ermigio, de Garcia Soares e de Sancho Nunes que depois
 foi seu cunhado, e primeiro senhor de Barboza.
 
-D. Tareja quiz resistir. Alguns portuguezes seguiram o seu partido; por√©m a
-maior parte das suas for√ßas eram gallegos da parcialidade e dependencia do
+D. Tareja quiz resistir. Alguns portuguezes seguiram o seu partido; porÈm a
+maior parte das suas forÁas eram gallegos da parcialidade e dependencia do
 conde de Trava, fracos defensores contra o principio da nacionalidade e da
-independencia de que o jovem principe se declar√°ra campe√£o. Os partidarios
-de D. Tareja foram derrotados no campo de S. Mamede perto de Guimar√£es, e a
-viuva do conde Henrique ca√≠u prisioneira em poder do filho.
+independencia de que o jovem principe se declar·ra campe„o. Os partidarios
+de D. Tareja foram derrotados no campo de S. Mamede perto de Guimar„es, e a
+viuva do conde Henrique caÌu prisioneira em poder do filho.
 
-A nacionalidade portugueza era j√° ent√£o t√£o vigorosamente distincta que os
+A nacionalidade portugueza era j· ent„o t„o vigorosamente distincta que os
 gallegos do exercito de D. Tareja eram chamados nas chronicas
 contemporaneas _indignos estrangeiros_, apesar de que a identidade de
-linguagem, de costumes, de religi√£o e de ra√ßa entre os habitantes de
+linguagem, de costumes, de religi„o e de raÁa entre os habitantes de
 Galliza e os de Entre Douro e Minho, devesse contribuir para que
-portuguezes e gallegos se reputassem mutuamente irm√£os. Esta notavel
-antipathia, inexplicavel √° primeira vista, era um dos mais importantes
+portuguezes e gallegos se reputassem mutuamente irm„os. Esta notavel
+antipathia, inexplicavel · primeira vista, era um dos mais importantes
 resultados da politica do conde Henrique e de D. Tareja.
 
-Mas a independencia de Portugal n√£o estava segura; nem proclamada sequer. O
-rei de Le√£o era mo√ßo, poderoso e valente. Affonso Henriques nem titulo
-tinha para designar o poder que de facto exercia. Conde n√£o queria elle
+Mas a independencia de Portugal n„o estava segura; nem proclamada sequer. O
+rei de Le„o era moÁo, poderoso e valente. Affonso Henriques nem titulo
+tinha para designar o poder que de facto exercia. Conde n„o queria elle
 chamar-se. Infante era um titulo commum aos filhos de estirpe real, e posto
-que Portugal se intitulasse reino, o nome de rei n√£o o podia o principe
+que Portugal se intitulasse reino, o nome de rei n„o o podia o principe
 tomar impunemente em face de um contendor como Affonso VII.
 
 Dizem os historiadores que D. Affonso Henriques era agil nos exercicios do
 corpo, dextro no manejo das armas, bom cavalleiro, bem apessoado de corpo e
-de gentil presen√ßa, intelligente, discreto, e dotado de singular
+de gentil presenÁa, intelligente, discreto, e dotado de singular
 eloquencia. Eram grandes estas qualidades, mas os deveres que o principe
 tinha a cumprir, careciam do concurso efficaz de todas ellas.
 
-A independencia de Portugal, preparada de t√£o longa m√£o pela tenacidade e
+A independencia de Portugal, preparada de t„o longa m„o pela tenacidade e
 astucia dos paes de Affonso Henriques, havia de trazer comsigo guerras
-amiudadas com o rei de Le√£o, e os arabes n√£o eram menos temiveis no sul do
-reino. Poucos mancebos tiveram aos dezesete annos t√£o pesados encargos
+amiudadas com o rei de Le„o, e os arabes n„o eram menos temiveis no sul do
+reino. Poucos mancebos tiveram aos dezesete annos t„o pesados encargos
 sobre os hombros!
 
-Affonso Henriques n√£o esperou que o atacassem. Impetuoso, como o pedia a
-sua idade, e a indole de uma na√ß√£o t√£o mo√ßa como elle, entrou por Galliza
-em 1130, e come√ßou a guerra contra os leonezes, talvez para recuperar os
-territorios que ali possu√≠ra sua m√£e.
+Affonso Henriques n„o esperou que o atacassem. Impetuoso, como o pedia a
+sua idade, e a indole de uma naÁ„o t„o moÁa como elle, entrou por Galliza
+em 1130, e comeÁou a guerra contra os leonezes, talvez para recuperar os
+territorios que ali possuÌra sua m„e.
 
-N'esta entrada ninguem lhe resistiu, por√©m voltando a Galliza foi derrotado
-por Fernando Peres e Rodrigo Vela. Affonso Henriques n√£o desanimou com o
+N'esta entrada ninguem lhe resistiu, porÈm voltando a Galliza foi derrotado
+por Fernando Peres e Rodrigo Vela. Affonso Henriques n„o desanimou com o
 desastre, e pela terceira vez levou a guerra ao paiz visinho: Affonso VII
-veiu em pessoa com um exercito numeroso obstar √°s correrias do primo, e
+veiu em pessoa com um exercito numeroso obstar ·s correrias do primo, e
 tomou Celmes que os portuguezes tinham fortificado. Ali acabou esta
 campanha no anno de 1134.
 
-Affonso VII estava ent√£o no maior auge do poder. A fortuna era-lhe propicia
-em toda a Hespanha. Affonso de Arag√£o seu padrasto j√° n√£o existia; o conde
-de Barcelona, e o rei de Navarra reconheciam a suzerania de Le√£o; a
-Castella era sua igualmente; o emir de Roda submett√™ra-se espontaneamente.
+Affonso VII estava ent„o no maior auge do poder. A fortuna era-lhe propicia
+em toda a Hespanha. Affonso de Arag„o seu padrasto j· n„o existia; o conde
+de Barcelona, e o rei de Navarra reconheciam a suzerania de Le„o; a
+Castella era sua igualmente; o emir de Roda submettÍra-se espontaneamente.
 
 Alem dos Pyreneos os condes de Tolosa e outros senhores prezavam-se de
-serem vassallos de D. Affonso. S√≥ uma pequena provincia cercada do lado do
+serem vassallos de D. Affonso. SÛ uma pequena provincia cercada do lado do
 meio dia pelos arabes, recusava aceitar de bom grado a preponderancia
-leoneza, e um mo√ßo de dezesete annos, chefe d'essa provincia, ousava entrar
-de m√£o armada pelas terras de t√£o vasta e poderosa monarchia!
+leoneza, e um moÁo de dezesete annos, chefe d'essa provincia, ousava entrar
+de m„o armada pelas terras de t„o vasta e poderosa monarchia!
 
-Este nobre exemplo de coragem mostra bem quanto p√≥de a energia de alma, e a
-for√ßa de vontade, ainda em combate contra for√ßas muito superiores. Nenhum
-povo teve mais numerosas occasi√µes de confirmar esta verdade, e nenhum
+Este nobre exemplo de coragem mostra bem quanto pÛde a energia de alma, e a
+forÁa de vontade, ainda em combate contra forÁas muito superiores. Nenhum
+povo teve mais numerosas occasiıes de confirmar esta verdade, e nenhum
 outro as aproveitou com mais efficacia do que o nosso.
 
-Para defender os proprios lares at√© as crean√ßas s√£o valentes, e t√£o forte √©
+Para defender os proprios lares atÈ as creanÁas s„o valentes, e t„o forte È
 cada qual em sua casa para o arrancarem d'ella depois de morto, dizia o
-marquez de Pombal a um embaixador de Hespanha, s√£o necessarios quatro
+marquez de Pombal a um embaixador de Hespanha, s„o necessarios quatro
 homens[3].
 
-Affonso VII reuniu c√¥rtes em Le√£o no anno de 1135 e n'ellas foi proclamado
-imperador. O mo√ßo Affonso Henriques, em vez de ir prestar homenagem ao
+Affonso VII reuniu cÙrtes em Le„o no anno de 1135 e n'ellas foi proclamado
+imperador. O moÁo Affonso Henriques, em vez de ir prestar homenagem ao
 poder do primo tratou de alliar-se com D. Garcia rei de Navarra, e
 accordou-se com alguns fidalgos de Castella, ambiciosos ou descontentes de
-D. Affonso VII. Firmadas estas allian√ßas, principiou de novo a guerra com
+D. Affonso VII. Firmadas estas allianÁas, principiou de novo a guerra com
 assignaladas victorias.
 
-Os arabes entretanto tomaram Leiria; por√©m Affonso Henriques correu a
+Os arabes entretanto tomaram Leiria; porÈm Affonso Henriques correu a
 reconquistar aquella cidade, e em pouco tempo voltou a continuar a guerra
 em Galliza onde o imperador viera em pessoa, como quem sabia que homem era
 o principe portuguez, e quanto valiam os cavalleiros e homens de armas, que
@@ -1294,143 +1294,143 @@ o seguiam.
 
 Os dois principes avistaram-se em Tuy no dia 4 de julho de 1137, e ali
 fizeram pazes, talvez porque as correrias dos arabes no sul traziam
-inquieto o animo de D. Affonso Henriques, cuja actividade se voltou ent√£o
+inquieto o animo de D. Affonso Henriques, cuja actividade se voltou ent„o
 para a guerra contra os infieis, indo ataca-los no territorio alem do Tejo.
 
 N'esta paz de Tuy o filho de D. Tareja reconheceu a supremacia feudal do
-rei de Le√£o, acto cujos effeitos na ordem politica do reino portuguez n√£o
+rei de Le„o, acto cujos effeitos na ordem politica do reino portuguez n„o
 foram importantes. Cento e cincoenta portuguezes assignaram com D. Affonso
 Henriques este preito e homenagem ao imperador.
 
 A guerra contra os arabes foi favoravel ao filho do conde D. Henrique, e da
-victoria alcan√ßada em Ourique no dia 25 de julho de 1139 chegou a noticia
-ao nosso tempo, acrescentada com exagera√ß√µes e milagres. A imagina√ß√£o
+victoria alcanÁada em Ourique no dia 25 de julho de 1139 chegou a noticia
+ao nosso tempo, acrescentada com exageraÁıes e milagres. A imaginaÁ„o
 patriotica e religiosa de alguns historiadores quiz dar assim maior relevo
 a esse feito de armas.
 
 Singular erro de gente sizuda e zelosa pelo bem da sua patria! De que serve
-alterar a historia, e inventar appari√ß√µes e milagres, quando se trata de
-referir ac√ß√µes para as quaes √© sufficiente o esfor√ßo humano?
+alterar a historia, e inventar appariÁıes e milagres, quando se trata de
+referir acÁıes para as quaes È sufficiente o esforÁo humano?
 
-Justo √© que todos creiam na protec√ß√£o divina, sem a qual n√£o ha verdadeira
-prosperidade sobre a terra; mas n√£o cuidemos por isso que a for√ßa do nosso
-bra√ßo √© inutil, que a nossa energia moral √© nulla, e que Deus ha de
+Justo È que todos creiam na protecÁ„o divina, sem a qual n„o ha verdadeira
+prosperidade sobre a terra; mas n„o cuidemos por isso que a forÁa do nosso
+braÁo È inutil, que a nossa energia moral È nulla, e que Deus ha de
 intervir directa e pessoalmente nos negocios mundanos a regular os
 interesses dos conquistadores, das dynastias e dos povos.
 
-Confiemos no poder de Deus e no triumpho da justi√ßa e da verdade; por√©m n√£o
+Confiemos no poder de Deus e no triumpho da justiÁa e da verdade; porÈm n„o
 abusemos do nome da divindade, embora seja para excitar sentimentos
-virtuosos e dignos. As pias fraudes n√£o fortificam o sentimento religioso,
+virtuosos e dignos. As pias fraudes n„o fortificam o sentimento religioso,
 antes o abalam e destroem.
 
-Da guerra contra os infieis voltou em breve Affonso Henriques √° antiga
+Da guerra contra os infieis voltou em breve Affonso Henriques · antiga
 pendencia com os leonezes, commandados outra vez em pessoa pelo imperador.
 O chefe de um dos corpos do exercito de Affonso VII, depois de ver
-derrotados os que o seguiam, ca√≠u prisioneiro dos portuguezes, e a final o
+derrotados os que o seguiam, caÌu prisioneiro dos portuguezes, e a final o
 grosso dos dois exercitos avistou-se perto de Val de Vez. Ali na planicie
 que separava os portuguezes e os leonezes havia todos os dias combates
-parciaes, e em um d'esses Affonso Furtado, irm√£o natural do imperador, e
+parciaes, e em um d'esses Affonso Furtado, irm„o natural do imperador, e
 outros fidalgos foram vencidos e prisioneiros.
 
 Emquanto estes successos se passavam, o arcebispo de Braga negociava as
-pazes entre os dois primos co-irm√£os, dos quaes nenhum ousava arriscar a
+pazes entre os dois primos co-irm„os, dos quaes nenhum ousava arriscar a
 fortuna da sua causa em uma batalha decisiva. D'esta vez ou porque a
 infelicidade de Affonso Furtado commovesse o imperador ou por outras causas
-politicas de maior alcance, foi Affonso VII quem solicitou a interven√ß√£o do
+politicas de maior alcance, foi Affonso VII quem solicitou a intervenÁ„o do
 arcebispo portuguez, que a final conseguiu trazer a termos de concordia os
 dois netos de Affonso VI.
 
-Affonso Henriques dizia-se ent√£o infante, mas desde 1113 intitulava-se
-tambem principe dos portuguezes. Esta denomina√ß√£o de principe do povo em
-vez de principe do territorio, j√° usada por D. Tareja e renovada nos nossos
-tempos em Fran√ßa para designar aquelles que por elei√ß√£o popular e n√£o por
+Affonso Henriques dizia-se ent„o infante, mas desde 1113 intitulava-se
+tambem principe dos portuguezes. Esta denominaÁ„o de principe do povo em
+vez de principe do territorio, j· usada por D. Tareja e renovada nos nossos
+tempos em FranÁa para designar aquelles que por eleiÁ„o popular e n„o por
 direito hereditario incontestavel sobem ao throno, foi talvez n'aquella
 epocha um meio de satisfazer os desejos de independencia dos portuguezes,
-sem contestar absolutamente o direito soberano da cor√¥a de Le√£o. Na terra
-para a qual a energia nacional ganh√°ra o titulo de reino, o nome de
+sem contestar absolutamente o direito soberano da corÙa de Le„o. Na terra
+para a qual a energia nacional ganh·ra o titulo de reino, o nome de
 principe dos portuguezes era de indubitavel legitimidade.
 
 Depois da paz de Val de Vez o filho de D. Tareja aceitou o titulo de rei, e
-come√ßou a usar d'esta designa√ß√£o, e quando em 1143 os dois primos renovaram
+comeÁou a usar d'esta designaÁ„o, e quando em 1143 os dois primos renovaram
 e confirmaram em Samora os ajustes de Val de Vez, Affonso VII reconheceu a
 realeza de Affonso I de Portugal.
 
-Este reconhecimento n√£o era absoluto. Affonso VII, como imperador de toda a
-Hespanha, n√£o lhe importava que o chefe dos portuguezes se chamasse rei,
-comtanto que se confessasse seu vassallo. √â de crer que este ponto delicado
+Este reconhecimento n„o era absoluto. Affonso VII, como imperador de toda a
+Hespanha, n„o lhe importava que o chefe dos portuguezes se chamasse rei,
+comtanto que se confessasse seu vassallo. … de crer que este ponto delicado
 fosse discutido nas conferencias de Samora, e que os mediadores andassem
 buscando um meio de conciliar os caracteres altivos e duros dos dois
 soberanos.
 
-O certo √© que Affonso I de Portugal recebeu do primo a investidura da
-cidade de Astorga, e p√¥de assim dizer-se vassallo do rei de Le√£o sem
+O certo È que Affonso I de Portugal recebeu do primo a investidura da
+cidade de Astorga, e pÙde assim dizer-se vassallo do rei de Le„o sem
 comprometter a independencia e a liberdade do novo reino, nem ferir a
 susceptibilidade dos portuguezes. O rei de Portugal ficou livre quanto o
 podia ficar perante o imperador das Hespanhas; o senhor de Astorga, esse
-reconheceu por soberano quem lhe dera aquella possess√£o.
+reconheceu por soberano quem lhe dera aquella possess„o.
 
 Affonso I conhecia o primo, e sabia que taes pazes, fundadas em arbitrios
-mais subtis que positivos, n√£o podiam ser duradouras. A sua clara
+mais subtis que positivos, n„o podiam ser duradouras. A sua clara
 intelligencia, e o conhecimento dos negocios da sua epocha, ensinavam-lhe
-que s√≥ havia um poder que os reis e os povos respeitavam, e que nenhuma
-institui√ß√£o era estavel sem a protec√ß√£o e ben√ß√£o d'esse poder supremo.
-Tratou pois de assegurar por meio da cren√ßa religiosa a realeza de que f√¥ra
+que sÛ havia um poder que os reis e os povos respeitavam, e que nenhuma
+instituiÁ„o era estavel sem a protecÁ„o e benÁ„o d'esse poder supremo.
+Tratou pois de assegurar por meio da crenÁa religiosa a realeza de que fÙra
 recentemente investido.
 
-Fez n'esse mesmo anno homenagem do reino ao pontifice nas m√£os do cardeal
-Guido, e prometteu pagar √° santa s√© de Roma quatro on√ßas de oiro cada anno,
-dar cem _aureos_ por uma s√≥ vez, e reconhecer-se vassallo de S. Pedro
-e do papa; sujei√ß√£o nominal bem mais commoda do que o preito ao imperador.
+Fez n'esse mesmo anno homenagem do reino ao pontifice nas m„os do cardeal
+Guido, e prometteu pagar · santa sÈ de Roma quatro onÁas de oiro cada anno,
+dar cem _aureos_ por uma sÛ vez, e reconhecer-se vassallo de S. Pedro
+e do papa; sujeiÁ„o nominal bem mais commoda do que o preito ao imperador.
 
 Pela sua parte o pontifice devia obrigar-se a ajudar o rei portuguez em
-tudo quanto podesse interessar o reino, e a n√£o reconhecer em Portugal
-nenhuma supremacia secular ou ecclesiastica que n√£o fosse a de Roma. A
+tudo quanto podesse interessar o reino, e a n„o reconhecer em Portugal
+nenhuma supremacia secular ou ecclesiastica que n„o fosse a de Roma. A
 dadiva de mil _morabitinos_ completava as vantagens offerecidas por D.
-Affonso I √° Santa S√©.
+Affonso I · Santa SÈ.
 
-Esta proposta era dirigida ao papa Innocencio II, por√©m foi Lucio II quem
-respondeu ao rei de Portugal nos principios de maio de 1144. A resposta n√£o
-era facil, porque o summo pontifice n√£o podia resolver este negocio, sem
-renunciar √° suzerania de um reino ou √° amizade de um dos soberanos mais
+Esta proposta era dirigida ao papa Innocencio II, porÈm foi Lucio II quem
+respondeu ao rei de Portugal nos principios de maio de 1144. A resposta n„o
+era facil, porque o summo pontifice n„o podia resolver este negocio, sem
+renunciar · suzerania de um reino ou · amizade de um dos soberanos mais
 poderosos do mundo.
 
 Lucio II soube conciliar estas difficuldades aceitando todas as propostas
-de D. Affonso, mas n√£o lhe dando sen√£o o titulo de duque de Portugal. A
+de D. Affonso, mas n„o lhe dando sen„o o titulo de duque de Portugal. A
 independencia do solo portuguez ficava assim reconhecida pelo pontifice; e
-o reino acceito como feudo da Santa S√©, embora o papa evitasse dar-lhe esse
-nome. A confirma√ß√£o do titulo de rei na pessoa de Affonso I n√£o podia
-tardar muito, at√© porque o proprio Affonso VII reconhec√™ra em Samora a
-legitimidade d'essa designa√ß√£o.
+o reino acceito como feudo da Santa SÈ, embora o papa evitasse dar-lhe esse
+nome. A confirmaÁ„o do titulo de rei na pessoa de Affonso I n„o podia
+tardar muito, atÈ porque o proprio Affonso VII reconhecÍra em Samora a
+legitimidade d'essa designaÁ„o.
 
-As consequencias d'estes actos come√ßaram a manifestar-se logo. Todos os
-principes e fidalgos da peninsula hespanhola acompanharam Affonso VI √°
-conquista de Almeria. D. Affonso I de Portugal n√£o foi, e conjectura-se que
+As consequencias d'estes actos comeÁaram a manifestar-se logo. Todos os
+principes e fidalgos da peninsula hespanhola acompanharam Affonso VI ·
+conquista de Almeria. D. Affonso I de Portugal n„o foi, e conjectura-se que
 essa ausencia do principe portuguez em um feito de armas contra os infieis,
-n√£o tivera outra causa que n√£o fosse o desejo de oppor √°s requisi√ß√µes do
-primo a nova situa√ß√£o independente, em que o feudo √° Santa S√© colloc√°ra os
+n„o tivera outra causa que n„o fosse o desejo de oppor ·s requisiÁıes do
+primo a nova situaÁ„o independente, em que o feudo · Santa SÈ colloc·ra os
 portuguezes e o seu rei.
 
 Affonso I aceitou de bom grado o arbitrio de Roma, contente de conseguir o
-cumprimento da miss√£o legada por seus paes, embora tivesse de caminhar como
+cumprimento da miss„o legada por seus paes, embora tivesse de caminhar como
 elles passo a passo, e por veredas tortuosas, que todavia levavam ao ponto
 a que desejava chegar.
 
 Finalmente no anno de 1179 o pontifice Alexandre III confirmou clara e
 abertamente o titulo de rei na pessoa do valente filho do conde D.
 Henrique, mediante o pagamento annual de dois marcos de oiro em
-substitui√ß√£o das quatro on√ßas do mesmo metal, anteriormente promettidas a
+substituiÁ„o das quatro onÁas do mesmo metal, anteriormente promettidas a
 Innocencio II.
 
 Assim se cumpriu, sessenta annos depois da morte de conde D. Henrique, a
 laboriosa empreza de fundar a independencia de Portugal e de dar a esta
 terra uma dynastia propria, e representada por um principe nascido entre o
 Minho e o Douro, creado entre os portuguezes, e experimentado nas lides da
-guerra, j√° combatendo pela liberdade dos seus contra os leonezes, j√°
+guerra, j· combatendo pela liberdade dos seus contra os leonezes, j·
 varrendo do solo nacional as phalanges dos arabes.
 
 A investidura religiosa da dignidade de rei, foi a ultima recompensa dos
-trabalhos e perseveran√ßa de D. Affonso em executar a id√©a do conde D.
-Henrique e de D. Tareja, e em satisfazer as gloriosas ambi√ß√µes dos
+trabalhos e perseveranÁa de D. Affonso em executar a idÈa do conde D.
+Henrique e de D. Tareja, e em satisfazer as gloriosas ambiÁıes dos
 portuguezes. Seis annos depois falleceu em Coimbra, aos 6 de dezembro de
 1185, tendo governado quarenta e cinco annos como rei, e doze como principe
 e infante.
@@ -1440,24 +1440,24 @@ II, conde de Mauriana e de Saboia, chefe d'aquella grande familia de
 heroes, cuja gloria a Europa inteira respeita ainda hoje em Victor Manuel
 II, valente rei da Sardenha, e libertador da Italia.
 
-A narra√ß√£o dos feitos de D. Affonso Henriques n√£o pertence a este livro
-sen√£o na parte que respeita √° funda√ß√£o da monarchia. A conquista de Lisboa,
-de Santarem, de Leiria e de outras terras importantes, a funda√ß√£o dos
-mosteiros de Alcoba√ßa, de Tarouca, de Santa Cruz de Coimbra e de S. Vicente
-de F√≥ra, a edifica√ß√£o da cathedral de Lisboa, e o desastre de Badajoz em
-que Affonso Henriques ficou prisioneiro do rei leonez, ter√£o o seu devido
-logar em outro livro d'esta collec√ß√£o, assim como todos os acontecimentos
+A narraÁ„o dos feitos de D. Affonso Henriques n„o pertence a este livro
+sen„o na parte que respeita · fundaÁ„o da monarchia. A conquista de Lisboa,
+de Santarem, de Leiria e de outras terras importantes, a fundaÁ„o dos
+mosteiros de AlcobaÁa, de Tarouca, de Santa Cruz de Coimbra e de S. Vicente
+de FÛra, a edificaÁ„o da cathedral de Lisboa, e o desastre de Badajoz em
+que Affonso Henriques ficou prisioneiro do rei leonez, ter„o o seu devido
+logar em outro livro d'esta collecÁ„o, assim como todos os acontecimentos
 importantes do seu reinado.
 
-Depois de tantos seculos, o nome de D. Affonso Henriques √© ainda
-pronunciado com respeito pelo povo portuguez, reconhecido √° memoria do
-soberano que, a despeito de adversarios t√£o poderosos, fundou a
-independencia de Portugal. ¬´Sem a menor sombra de vaidade nacional, diz o
-sr. Alexandre Herculano, parece-nos ser licito dizer, que o esfor√ßo e
-constancia dos portuguezes e do seu principe n'esta conjunctura √© um dos
-mais bellos exemplos d'aquella energia moral, de que t√£o rica era a idade
+Depois de tantos seculos, o nome de D. Affonso Henriques È ainda
+pronunciado com respeito pelo povo portuguez, reconhecido · memoria do
+soberano que, a despeito de adversarios t„o poderosos, fundou a
+independencia de Portugal. ´Sem a menor sombra de vaidade nacional, diz o
+sr. Alexandre Herculano, parece-nos ser licito dizer, que o esforÁo e
+constancia dos portuguezes e do seu principe n'esta conjunctura È um dos
+mais bellos exemplos d'aquella energia moral, de que t„o rica era a idade
 media, e a troco da qual a Europa moderna tem ido comprando a brandura do
-trato entre os homens, e os commodos da civilisa√ß√£o.[4]
+trato entre os homens, e os commodos da civilisaÁ„o.[4]
 
 
 
@@ -1467,18 +1467,18 @@ VII
 A MONARCHIA
 
 
-A historia da funda√ß√£o da monarchia portugueza est√° concluida. D. Affonso
+A historia da fundaÁ„o da monarchia portugueza est· concluida. D. Affonso
 VII reconheceu a qualidade real na pessoa do primo. O papa Lucio II aceitou
-o feudo da terra portugueza para a Santa S√©, e Alexandre III sagrou a
+o feudo da terra portugueza para a Santa SÈ, e Alexandre III sagrou a
 realeza de D. Affonso Henriques em nome de Deus, de cujo poder os
-jurisconsultos e theologos derivavam ent√£o directamente toda a especie de
+jurisconsultos e theologos derivavam ent„o directamente toda a especie de
 auctoridade.
 
-Esta empreza de separar da monarchia de Le√£o e de Castella o novo reino de
-Portugal p√≥de dizer-se, que foi um dos feitos mais extraordinarios do
-seculo XII, n√£o s√≥ em rela√ß√£o ao poder e esfor√ßo dos dois imperadores que
+Esta empreza de separar da monarchia de Le„o e de Castella o novo reino de
+Portugal pÛde dizer-se, que foi um dos feitos mais extraordinarios do
+seculo XII, n„o sÛ em relaÁ„o ao poder e esforÁo dos dois imperadores que
 successivamente occuparam o throno hespanhol, mas principalmente pelo modo
-com que se houve em t√£o delicado assumpto o conde D. Henrique, e depois
+com que se houve em t„o delicado assumpto o conde D. Henrique, e depois
 d'elle a sua energica viuva, e seu corajoso filho.
 
 A rapidez com que em menos de meio seculo surgiu a nacionalidade
@@ -1486,141 +1486,141 @@ portugueza, dotada de attributos e qualidades que logo separaram, e
 distinguiram os portuguezes dos gallegos e dos leonezes, a dexteridade com
 que a viuva e o filho do conde borgonhez souberam vencer todos os
 obstaculos, e fazer com que insensivelmente fossem legitimadas pelos
-proprios adversarios as pretens√µes mais contrarias aos direitos da cor√¥a de
-Le√£o, e finalmente a coragem com que lutaram nos campos de batalha contra a
-rainha D. Urraca e contra seu filho, s√£o na verdade admiraveis, mesmo
-attribuindo √°s discordias de Affonso de Arag√£o e de sua mulher a facilidade
-venturosa, com que t√£o ousados commettimentos se executaram!
+proprios adversarios as pretensıes mais contrarias aos direitos da corÙa de
+Le„o, e finalmente a coragem com que lutaram nos campos de batalha contra a
+rainha D. Urraca e contra seu filho, s„o na verdade admiraveis, mesmo
+attribuindo ·s discordias de Affonso de Arag„o e de sua mulher a facilidade
+venturosa, com que t„o ousados commettimentos se executaram!
 
 Todavia a malicia de D. Henrique, a flexibilidade astuciosa e a energia de
-D. Tareja, e o animo ousado de D. Affonso Henriques valeriam pouco--j√° o
-dissemos--se n'aquellas lutas entre os soberanos christ√£os de Hespanha, os
+D. Tareja, e o animo ousado de D. Affonso Henriques valeriam pouco--j· o
+dissemos--se n'aquellas lutas entre os soberanos christ„os de Hespanha, os
 portuguezes se decidissem parte em favor de uns, e parte em favor de
 outros.
 
-Felizmente o desejo da independencia nacional n√£o s√≥ abafou qualquer outro
-sentimento de parcialidade, mas at√© resistiu aos rogos, convites e
+Felizmente o desejo da independencia nacional n„o sÛ abafou qualquer outro
+sentimento de parcialidade, mas atÈ resistiu aos rogos, convites e
 promessas, com que de certo amiudadas vezes tentaria a rainha D. Urraca,
-seu segundo marido rei de Arag√£o ou o principe Affonso Raymundes de
-Galliza, attrahir √° sua causa os bar√µes e prelados portuguezes, sen√£o o
+seu segundo marido rei de Arag„o ou o principe Affonso Raymundes de
+Galliza, attrahir · sua causa os barıes e prelados portuguezes, sen„o o
 proprio povo.
 
-N√£o queremos diminuir de modo algum a gloria dos principes, em cujo nome se
-lan√ßaram as bases da independencia de Portugal. Oxal√° que podessemos honrar
-sempre a memoria de todos os principes, como nos √© grato faze-lo √°cerca dos
+N„o queremos diminuir de modo algum a gloria dos principes, em cujo nome se
+lanÁaram as bases da independencia de Portugal. Oxal· que podessemos honrar
+sempre a memoria de todos os principes, como nos È grato faze-lo ·cerca dos
 fundadores da nossa nacionalidade! Ganharia com isso o principio monarchico
-a que temos affei√ß√£o. Mas n'este caso f√¥ra injusti√ßa negar que, sem a
-constancia e lealdade dos portuguezes, a causa da nossa liberdade n√£o
-chegaria a obter t√£o assinalado triumpho.
+a que temos affeiÁ„o. Mas n'este caso fÙra injustiÁa negar que, sem a
+constancia e lealdade dos portuguezes, a causa da nossa liberdade n„o
+chegaria a obter t„o assinalado triumpho.
 
 Os nossos progenitores quizeram que esta terra fosse independente do rei de
-Le√£o, e perseveraram n'esse pensamento apesar de grandes contrariedades e
-revezes. Seguiram o conde D. Henrique no come√ßo d'esta nobre tentativa, e
-foram sempre dedicados e leaes √°quelle principe, √° sua mulher, e a seu
+Le„o, e perseveraram n'esse pensamento apesar de grandes contrariedades e
+revezes. Seguiram o conde D. Henrique no comeÁo d'esta nobre tentativa, e
+foram sempre dedicados e leaes ·quelle principe, · sua mulher, e a seu
 filho.
 
-A rudeza dos tempos, o desenvolvimento das paix√µes, e a barbaridade dos
-costumes, tornavam ent√£o raros estes exemplos que hoje poderiam ser
-resultado de simples bom senso, quando o n√£o fossem de grandes virtudes
+A rudeza dos tempos, o desenvolvimento das paixıes, e a barbaridade dos
+costumes, tornavam ent„o raros estes exemplos que hoje poderiam ser
+resultado de simples bom senso, quando o n„o fossem de grandes virtudes
 politicas.
 
-Os bar√µes portuguezes do duodecimo seculo n√£o eram melhores do que os
-demais senhores christ√£os de Hespanha ou dos outros paizes, mas nas
+Os barıes portuguezes do duodecimo seculo n„o eram melhores do que os
+demais senhores christ„os de Hespanha ou dos outros paizes, mas nas
 discordias civis, com que frequentes vezes ensanguentaram a terra
 portugueza, o principio da independencia nacional nunca deixou de ser
 acatado por todas as parcialidades.
 
-Esse era ent√£o o alvo das cogita√ß√µes geraes, o enlevo de todos os animos, e
+Esse era ent„o o alvo das cogitaÁıes geraes, o enlevo de todos os animos, e
 o incentivo dos feitos mais generosos. Honra a esses nobres senhores pelo
 que praticaram em beneficio da patria, e pelo virtuoso exemplo que deram!
 
 Os prelados portuguezes tambem contribuiram para amparar a nossa
-nacionalidade nascente, e para facilitar a realisa√ß√£o da independencia
-nacional. Pelas m√£os d'elles desceram sobre o primeiro rei portuguez as
-ben√ß√£os do ceo; e a media√ß√£o dos prelados, evitando combates
+nacionalidade nascente, e para facilitar a realisaÁ„o da independencia
+nacional. Pelas m„os d'elles desceram sobre o primeiro rei portuguez as
+benÁ„os do ceo; e a mediaÁ„o dos prelados, evitando combates
 sanguinolentos, e concertando pazes entre os belligerantes, desviou grandes
-males, e fez ao novo reino assignalados servi√ßos.
+males, e fez ao novo reino assignalados serviÁos.
 
-O povo esse deu vida e fazenda, como d√° sempre generosamente para sustentar
+O povo esse deu vida e fazenda, como d· sempre generosamente para sustentar
 as causas que tem por nacionaes. Na fronteira do norte combateu contra
-leonezes e gallegos; no sul pelejou contra os arabes, e √°s vezes no
-regresso √° sua pobre casa j√° a n√£o encontrou, que lh'a tinham destruido os
+leonezes e gallegos; no sul pelejou contra os arabes, e ·s vezes no
+regresso · sua pobre casa j· a n„o encontrou, que lh'a tinham destruido os
 inimigos com alguma das continuas correrias, em que levavam a ferro e fogo
-as povoa√ß√µes pacificas e inermes.
+as povoaÁıes pacificas e inermes.
 
 Outras vezes, onde cuidava refazer-se das fadigas e gastos da guerra, teve
-que abandonar o pouco, que lhe rest√°ra, √° cubi√ßosa exigencia do senhor
+que abandonar o pouco, que lhe rest·ra, · cubiÁosa exigencia do senhor
 feudal. E assim mesmo nunca descreu da possibilidade da independencia, nem
-faltou ao principe com o auxilio do seu bra√ßo!
+faltou ao principe com o auxilio do seu braÁo!
 
 Em todos os tempos, e em todas as circumstancias o povo portuguez foi
 sempre o mesmo! Nunca este bom povo attentou na quantidade dos adversarios,
 nem hesitou perante o poder d'elles! Era modelo de virtudes civicas ha sete
-seculos. Ainda hoje o √©. Indomavel na guerra, era na paz de condi√ß√£o branda
-e submissa, de direc√ß√£o facil, e de fidelidade heroica em ambos os casos. √â
+seculos. Ainda hoje o È. Indomavel na guerra, era na paz de condiÁ„o branda
+e submissa, de direcÁ„o facil, e de fidelidade heroica em ambos os casos. …
 o mesmo agora.
 
-A nossa independencia foi obra da coopera√ß√£o unanime de todos os
-portuguezes. Felicitemo-nos d'esta admiravel concordia, e reconhe√ßamos no
-come√ßo da nossa existencia politica os effeitos de um vigor popular, que a
-historia n√£o teve de mencionar com frequencia √°cerca de outros povos. A
-virilidade nacional era j√° t√£o forte na precoce juventude d'este povo, que
-mais impellia do que acompanhava os principes que a conjunc√ß√£o dos tempos
-prepar√°ra para chefes da na√ß√£o.
+A nossa independencia foi obra da cooperaÁ„o unanime de todos os
+portuguezes. Felicitemo-nos d'esta admiravel concordia, e reconheÁamos no
+comeÁo da nossa existencia politica os effeitos de um vigor popular, que a
+historia n„o teve de mencionar com frequencia ·cerca de outros povos. A
+virilidade nacional era j· t„o forte na precoce juventude d'este povo, que
+mais impellia do que acompanhava os principes que a conjuncÁ„o dos tempos
+prepar·ra para chefes da naÁ„o.
 
-√Å funda√ß√£o da monarchia seguiram-se guerras incessantes com os infieis,
-dessidencias com Castella, altera√ß√µes civis de grande momento entre os
-primeiros do reino, alguns governos fracos, e muitas occasi√µes de
+¡ fundaÁ„o da monarchia seguiram-se guerras incessantes com os infieis,
+dessidencias com Castella, alteraÁıes civis de grande momento entre os
+primeiros do reino, alguns governos fracos, e muitas occasiıes de
 engrandecimento e de gloria seguidas de tristes desastres e de funestos
-azares, dos quaes alguns pertencem √° nossa idade. A for√ßa dos animos
+azares, dos quaes alguns pertencem · nossa idade. A forÁa dos animos
 populares conservou-se intacta. Os portuguezes mostraram-se no Bussaco, na
-Roli√ßa e no Vimeiro, como outr'ora em Montes Claros, em Aljubarrota, e em
+RoliÁa e no Vimeiro, como outr'ora em Montes Claros, em Aljubarrota, e em
 Val de Vez ou em Ourique.
 
 O progresso social melhorou os nossos costumes, e alterou o modo da nossa
-existencia, mas n√£o enfraqueceu o caracter nacional, que j√° tinha resistido
-a outras transforma√ß√µes anteriores. A civilisa√ß√£o n√£o p√°ra no seu fecundo e
-incessante trabalho, por√©m onde encontra uma nacionalidade forte,
+existencia, mas n„o enfraqueceu o caracter nacional, que j· tinha resistido
+a outras transformaÁıes anteriores. A civilisaÁ„o n„o p·ra no seu fecundo e
+incessante trabalho, porÈm onde encontra uma nacionalidade forte,
 respeita-a, e sabe emprega-la utilmente.
 
-As nacionalidades que n√£o vivem da energia do caracter popular ou que n√£o
-souberam remo√ßar-se a tempo, caminham para a morte. As outras n√£o, porque
-volveram a ser jovens, e come√ßam agora a viver de novo. Aquellas
-dissolvem-se de podrid√£o, e corrompem as outras. Estas s√£o instrumentos de
+As nacionalidades que n„o vivem da energia do caracter popular ou que n„o
+souberam remoÁar-se a tempo, caminham para a morte. As outras n„o, porque
+volveram a ser jovens, e comeÁam agora a viver de novo. Aquellas
+dissolvem-se de podrid„o, e corrompem as outras. Estas s„o instrumentos de
 progresso, e como elementos da harmonia universal contribuem para o
-complemento dos fins da crea√ß√£o.
+complemento dos fins da creaÁ„o.
 
-Sejamos n√≥s assim.
+Sejamos nÛs assim.
 
-Entremos na confraternidade universal dos povos, mas n√£o queimemos por isso
-a nossa boa casa, porque em nenhuma outra estaremos tanto √° vontade como
+Entremos na confraternidade universal dos povos, mas n„o queimemos por isso
+a nossa boa casa, porque em nenhuma outra estaremos tanto · vontade como
 n'esta que nossos passados fizeram, amassando com o proprio sangue o barro
-de que lhe levantaram os muros. Amemos os hespanhoes. S√£o nossos irm√£os,
-mas juremos a n√≥s mesmos ficar portuguezes, como no-lo est√£o pedindo a
+de que lhe levantaram os muros. Amemos os hespanhoes. S„o nossos irm„os,
+mas juremos a nÛs mesmos ficar portuguezes, como no-lo est„o pedindo a
 honra e o interesse.
 
 Vergonha seria que n'este reino fossem mais patriotas os principes do que o
-povo, e que ninguem sentisse nas veias o sangue dos bar√µes e homens de
-armas de D. Affonso I. Do fundo do seu tumulo de Santa Cruz, est√£o os ossos
+povo, e que ninguem sentisse nas veias o sangue dos barıes e homens de
+armas de D. Affonso I. Do fundo do seu tumulo de Santa Cruz, est„o os ossos
 venerandos do nosso primeiro rei animando os portuguezes a sustentar a
-nobre empreza, em que elle lidou at√© √° morte, e pela qual tantos milhares
+nobre empreza, em que elle lidou atÈ · morte, e pela qual tantos milhares
 de filhos d'esta terra tem perecido heroicamente.
 
-Quem ousaria renunciar a esta heran√ßa gloriosissima? Ninguem.
+Quem ousaria renunciar a esta heranÁa gloriosissima? Ninguem.
 
-A nossa nacionalidade tem poderosas ras√µes de existencia, e n√£o p√≥de
-depender, sen√£o momentaneamente, do capricho de um conquistador ou das
-combina√ß√µes de um estadista. Nenhum d'elles poder√° contra este reino mais
+A nossa nacionalidade tem poderosas rasıes de existencia, e n„o pÛde
+depender, sen„o momentaneamente, do capricho de um conquistador ou das
+combinaÁıes de um estadista. Nenhum d'elles poder· contra este reino mais
 do que em favor nosso ha de valer sempre o caracter firme do povo, o
-desenvolvimento da civilisa√ß√£o, e a seriedade circumspecta do nosso
+desenvolvimento da civilisaÁ„o, e a seriedade circumspecta do nosso
 procedimento politico.
 
-Esses dotes s√£o os alliados mais fieis e poderosos do povo portuguez. Com
-elles, e s√≥ com elles, se salvou nas crises difficeis. D'elles depende
+Esses dotes s„o os alliados mais fieis e poderosos do povo portuguez. Com
+elles, e sÛ com elles, se salvou nas crises difficeis. D'elles depende
 tambem no presente e no futuro.
 
 Se por qualquer circumstancia infeliz vierem a faltar-nos essas qualidades
-na hora do perigo, ainda encontraremos na heran√ßa paterna um dever
+na hora do perigo, ainda encontraremos na heranÁa paterna um dever
 glorioso:
 
 Acabar com honra, escrevendo com o nosso sangue a derradeira pagina da
@@ -1634,8 +1634,8 @@ INDICE
 
     Dedicatoria
     Palavras necessarias
-    Introduc√ß√£o--I
-    O reino de Le√£o--II
+    IntroducÁ„o--I
+    O reino de Le„o--II
     A terra portucalense--III
     O conde borgonhez--IV
     Governo de D. Tareja--V
@@ -1652,14 +1652,14 @@ Torres Vedras nos fins do anno de 1846.
 
 [2] Autor de um poema intitulado _Viriato Tragico_.
 
-[3] Este dito do marquez de Pombal √© citado pelo sr. Rebello da Silva
+[3] Este dito do marquez de Pombal È citado pelo sr. Rebello da Silva
 em um excelente artigo publicado na Epocha e intitulado _A ultima
 corrida de toiros em Salvaterra_.
 
 [4] Hist. de Port. tom. I liv. II pag. 306.
 
 
-NOTAS DE TRANSCRI√á√ÉO
+NOTAS DE TRANSCRI«√O
 
 [NT] No original o autor colocou o nome de Fernando onde deveria estar
 Affonso
@@ -1669,16 +1669,16 @@ Affonso
 
 
 
-End of the Project Gutenberg EBook of A funda√ß√£o da monarchia portugueza, by 
+End of the Project Gutenberg EBook of A fundaÁ„o da monarchia portugueza, by 
 A. A. Teixeira de Vasconcellos
 
-*** END OF THIS PROJECT GUTENBERG EBOOK A FUNDA√á√ÉO DA MONARCHIA PORTUGUEZA ***
+*** END OF THIS PROJECT GUTENBERG EBOOK A FUNDA«√O DA MONARCHIA PORTUGUEZA ***
 
 ***** This file should be named 20998-8.txt or 20998-8.zip *****
 This and all associated files of various formats will be found in:
         http://www.gutenberg.org/2/0/9/9/20998/
 
-Produced by Pedro Saborano. Para coment√°rios √† transcri√ß√£o
+Produced by Pedro Saborano. Para coment·rios ‡ transcriÁ„o
 visite http://pt-scriba.blogspot.com/ (This book was
 produced from scanned images of public domain material
 from the Google Print project.)

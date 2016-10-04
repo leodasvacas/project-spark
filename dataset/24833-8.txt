@@ -7,7 +7,7 @@ with this eBook or online at www.gutenberg.org
 
 
 Title: Nova academia de pintura
-       dedicada Ã s senhoras portuguezas que amÃ£o ou se applicÃ£o
+       dedicada às senhoras portuguezas que amão ou se applicão
        ao estudo das Bellas Artes
 
 Author: Cirilo Volkmar Machado
@@ -33,10 +33,10 @@ Library of Portugal (Biblioteca Nacional de Portugal).)
 
 
 
-     *Nota de editor:* Devido Ã  quantidade de erros tipogrÃ¡ficos
-     existentes neste texto, foram tomadas vÃ¡rias decisÃµes quanto Ã 
-     versÃ£o final. Em caso de dÃºvida, a grafia foi mantida de acordo com
-     o original. No final deste livro encontrarÃ¡ a lista de erros
+     *Nota de editor:* Devido à quantidade de erros tipográficos
+     existentes neste texto, foram tomadas várias decisões quanto à
+     versão final. Em caso de dúvida, a grafia foi mantida de acordo com
+     o original. No final deste livro encontrará a lista de erros
      corrigidos.
 
      Rita Farinha (Mar. 2008)
@@ -52,9 +52,9 @@ PINTURA
 
 DEDICADA
 
-ÃS SENHORAS PORTUGUEZAS
+ÁS SENHORAS PORTUGUEZAS
 
-_Que amÃ£o ou se applicÃ£o ao estudo das Bellas Artes_.
+_Que amão ou se applicão ao estudo das Bellas Artes_.
 
 
 
@@ -66,12 +66,12 @@ Los Hombres han excedido.
 
 LISBOA:
 
-NA IMPRESSÃƒO REGIA.
+NA IMPRESSÃO REGIA.
 
 ANNO 1817.
 
 
-_Com LicenÃ§a_.
+_Com Licença_.
 
 
 
@@ -79,250 +79,250 @@ _Com LicenÃ§a_.
 PROEMIO.
 
 
-Quando vou discorrer sobre a Arte da Pintura, parece que deveria comeÃ§ar
-pelo seu elogio; mas nÃ£o o farei, por me parecer cousa superflua, e bem
-sabida de todos: observarei sÃ³mente, que a Arte por si sÃ³, inda que
-fosse levada a hum alto grÃ¡o de perfeiÃ§Ã£o, nÃ£o poderia fazer illustre, e
+Quando vou discorrer sobre a Arte da Pintura, parece que deveria começar
+pelo seu elogio; mas não o farei, por me parecer cousa superflua, e bem
+sabida de todos: observarei sómente, que a Arte por si só, inda que
+fosse levada a hum alto gráo de perfeição, não poderia fazer illustre, e
 estimavel aquelle que tivesse o odioso, ou ridiculo comportamento de hum
 Brouwer,[1] de hum Aleixo Transpadano,[2] ou de hum Bufalmaco;[3] mas se
-pelo contrario, algum soubesse ajuntar Ã¡ honra, e Ã¡ virtude os talentos
+pelo contrario, algum soubesse ajuntar á honra, e á virtude os talentos
 de Rafael, de Corregio, ou de outro grande Pintor, estas raras
-qualidades assim reunidas, constituiriÃ£o (diz Richardson) hum mortal
-Â«cujo esplendor poderia luzir mÃ¹ito, mesmo em hum mundo ainda melhor de
-que esteÂ». Na Poesia nÃ£o se admittem medianias; mas na Pintura ha tantas
-e taes difficuldades a vencer, que Â«O Pintor de segunda ou terceira
-classe merece o mesmo grÃ¡o de estimaÃ§Ã£o que hum homem de primeira ordem
-em qualquer outra Faculdade.Â»
+qualidades assim reunidas, constituirião (diz Richardson) hum mortal
+«cujo esplendor poderia luzir mùito, mesmo em hum mundo ainda melhor de
+que este». Na Poesia não se admittem medianias; mas na Pintura ha tantas
+e taes difficuldades a vencer, que «O Pintor de segunda ou terceira
+classe merece o mesmo gráo de estimação que hum homem de primeira ordem
+em qualquer outra Faculdade.»
 
 Mas se esta scientifica Arte, pela sua belleza e profundidade, tem sido
-digna da applicaÃ§Ã£o de muitos homens da mais alta esphera, nÃ£o deixa
+digna da applicação de muitos homens da mais alta esphera, não deixa
 ella tambem, de ser igualmente propria, ou talvez mais propria ainda,
-para as Senhoras; principalmente naquelles casos em que sÃ£o mais
-necessarias a graÃ§a, e a delicadeza: assim, tem feito as NaÃ§Ãµes
-conhecedoras o maior apreÃ§o das obras da Sirani, da Sophonisba, da
+para as Senhoras; principalmente naquelles casos em que são mais
+necessarias a graça, e a delicadeza: assim, tem feito as Nações
+conhecedoras o maior apreço das obras da Sirani, da Sophonisba, da
 Rosalba, e de muitas outras, cujos nomes fazem tanta honra ao bello
-Sexo, como Ã¡s suas patrias.
+Sexo, como ás suas patrias.
 
 A Musica he huma arte angelica, e pode entreter deliciosamente qualquer
-Senhora, huma ou duas horas cada dia; a leitura a divertirÃ¡ tres ou
+Senhora, huma ou duas horas cada dia; a leitura a divertirá tres ou
 quatro; mas a Pintura faz parecer pequenos os maiores dias de Junho, e
-torna amavel e apetecivel a mesma solidÃ£o: he huma arte nÃ£o sÃ³ imitadora
+torna amavel e apetecivel a mesma solidão: he huma arte não só imitadora
 de toda a Natureza, mas tambem creadora; arte emfim, que sympathisa
 grandemente com a vivacidade das pessoas espirituosas, e discretas,
-muitas das quaes desejÃ£o saber pintar, e nem sempre o conseguem; ou por
-viverem em terras aonde nÃ£o ha quem as ensine, ou por se limitarem nas
-liÃ§Ãµes a huma pratica mui superficial. A Pratica he de absoluta
-necessidade, e por ella se deve nÃ£o sÃ³ comeÃ§ar, mas avanÃ§ar muito, sem
-nunca a perder de vista; porÃ©m ha huma baliza, alÃ©m da qual senÃ£o podem
+muitas das quaes desejão saber pintar, e nem sempre o conseguem; ou por
+viverem em terras aonde não ha quem as ensine, ou por se limitarem nas
+lições a huma pratica mui superficial. A Pratica he de absoluta
+necessidade, e por ella se deve não só começar, mas avançar muito, sem
+nunca a perder de vista; porém ha huma baliza, além da qual senão podem
 fazer ulteriores progressos sem estudar a fundamento os preceitos
 theoricos.
 
 Os Poetas, e Oradores tem as suas regras fundamentaes, escritas por bons
-Authores; nÃ³s tambem temos as nossas: o numero dos Escriptores que as
-tratÃ£o he muito grande; os idiomas em que correm impressas sÃ£o mui
+Authores; nós tambem temos as nossas: o numero dos Escriptores que as
+tratão he muito grande; os idiomas em que correm impressas são mui
 diversos; e he assaz difficultoso poder fazer dellas huma sufficiente
-collecÃ§Ã£o; e quando se fizesse serviria talvez, mais para confundir a
+collecção; e quando se fizesse serviria talvez, mais para confundir a
 mente de hum principiante, que para a illustrar. Ha em taes livros
-muitas cousas inuteis, e outras que parecem, ou sÃ£o contradictorias; por
-tanto he preciso escolher, resumir, e concordar: he o que nÃ³s procurÃ¡mos
+muitas cousas inuteis, e outras que parecem, ou são contradictorias; por
+tanto he preciso escolher, resumir, e concordar: he o que nós procurámos
 fazer nesta pequena obra, extrahindo de muitas flores, como fazem as
-abelhas, sÃ³ o balsamo que he proprio para compor o mel; pondo de parte
+abelhas, só o balsamo que he proprio para compor o mel; pondo de parte
 quanto nos pareceo improprio, ou desnecessario.
 
 A Praxe, como dissemos, he indispensavel aos Artistas; mas a theoria he
-indispensavel Ã¡ perfeiÃ§Ã£o da mesma pratica. Ella nos manifesta em pouco
+indispensavel á perfeição da mesma pratica. Ella nos manifesta em pouco
 tempo as descobertas de muitos seculos.
 
-Desde que os restaudores da Arte comeÃ§Ã¡rÃ£o a fazer alguns progressos,
-cuidÃ¡rÃ£o logo em ir estabelecendo, como maximas fundamentaes, as
-verdades que forÃ£o descobrindo; e para que ellas fossem bem apuradas e
+Desde que os restaudores da Arte começárão a fazer alguns progressos,
+cuidárão logo em ir estabelecendo, como maximas fundamentaes, as
+verdades que forão descobrindo; e para que ellas fossem bem apuradas e
 debatidas, antes de se adoptarem, e bem interpretadas depois de
-estabelecidas, fundÃ¡rÃ£o Academias, compostas dos mais sabios Artistas
-daquelles tempos; e Ã¡s especulaÃ§Ãµes mais e mais apuradas dos seus
-Academicos, he que se deve a perfeiÃ§Ã£o a que chegou a Arte no tempo de
+estabelecidas, fundárão Academias, compostas dos mais sabios Artistas
+daquelles tempos; e ás especulações mais e mais apuradas dos seus
+Academicos, he que se deve a perfeição a que chegou a Arte no tempo de
 Raphael: e como a doutrina da nossa nova Academia he derivada, e
-recopilada das doutrinas de todas ellas, nÃ£o serÃ¡ fÃ³ra de proposito
+recopilada das doutrinas de todas ellas, não será fóra de proposito
 dizer de passagem alguma cousa a respeito das mais notaveis.
 
-Tendo-se perdido a Arte, nos seculos que as invasÃµes dos Godos fizerÃ£o
-barbaros, e infelices, sÃ³ em Constantinopla, aonde elles nÃ£o entrÃ¡rÃ£o,
-se conservou huma sombra della, que no seculo XI. comeÃ§ou a diffundir-se
-pela Italia. Pelos annos 1000 forÃ£o alguns daquelles chamados Pintores,
-fazer de Mosaico, o coro da Igreja de Santa Miniata em FlorenÃ§a: por
-1072, sendo Doge de Veneza, Domingos Contarino, forÃ£o outros Gregos de
+Tendo-se perdido a Arte, nos seculos que as invasões dos Godos fizerão
+barbaros, e infelices, só em Constantinopla, aonde elles não entrárão,
+se conservou huma sombra della, que no seculo XI. começou a diffundir-se
+pela Italia. Pelos annos 1000 forão alguns daquelles chamados Pintores,
+fazer de Mosaico, o coro da Igreja de Santa Miniata em Florença: por
+1072, sendo Doge de Veneza, Domingos Contarino, forão outros Gregos de
 Constantinopla ornar tambem de Mosaico a igreja de S. Marcos: hum seculo
 depois o Abbade Joaquim fez pintar sobre a porta do Thesouro, como por
-inspiraÃ§Ã£o, os retratos de S. Francisco, e S. Domingos, que ainda nÃ£o
-erÃ£o conhecidos: os Annaes de Sena fazem menÃ§Ã£o de alguns estatutos da
+inspiração, os retratos de S. Francisco, e S. Domingos, que ainda não
+erão conhecidos: os Annaes de Sena fazem menção de alguns estatutos da
 Arte no seculo XIII.; mas huma das mais antigas sociedades de Artistas,
-foi a dos Padres Gaudentes, em FlorenÃ§a, no fim do mesmo seculo; muitos
-dos quaes bordavÃ£o, escreviÃ£o bem, miniavÃ£o, e pintavÃ£o.
+foi a dos Padres Gaudentes, em Florença, no fim do mesmo seculo; muitos
+dos quaes bordavão, escrevião bem, miniavão, e pintavão.
 
 Gioto, no principio do seculo XIV. fundou a primeira Academia das tres
-Artes, em FlorenÃ§a; e Jacomo Casentino concorreo muito para se erigir a
+Artes, em Florença; e Jacomo Casentino concorreo muito para se erigir a
 Irmandade de S. Lucas em Santa Maria a Nova. A Pintura fazia progressos;
 e quando as Artes sobem, os discipulos excedem os mestres: Thaddeo Gaddi
-excedeo seu mestre Gioto, no colorido, e nas expressÃµes: Paulo UcÃ©llo
-fez grandes progressos na perspectiva: Pedro Cavallini, e Fr. JoÃ£o
-Angelico derÃ£o hum Ã¡r muito devoto Ã¡s Santas Imagens:[4] o Massolino[5]
-deu grande nobreza Ã¡s figuras, e huma certa vida aos olhos; mas o seu
+excedeo seu mestre Gioto, no colorido, e nas expressões: Paulo Ucéllo
+fez grandes progressos na perspectiva: Pedro Cavallini, e Fr. João
+Angelico derão hum ár muito devoto ás Santas Imagens:[4] o Massolino[5]
+deu grande nobreza ás figuras, e huma certa vida aos olhos; mas o seu
 discipulo Massacio excedeu-o tanto, quanto elle havia excedido os
-outros; porque deu muita forÃ§a de relevo, muita correcÃ§Ã£o, graÃ§a, e
-bellas attitudes Ã¡s personagens que pintava; e pÃ³de-se dizer que abrio o
+outros; porque deu muita força de relevo, muita correcção, graça, e
+bellas attitudes ás personagens que pintava; e póde-se dizer que abrio o
 templo da Immortalidade a Miguel Angelo, e a Raphael.
 
-LourenÃ§o de Medicis estabeleceo no seu Palacio, e Jardim, huma destas
-Universidades, ou Academias, bem provida de preciosos CartÃµes, desenhos,
-quadros, e estatuas; e dava premios, e pensÃµes aos estudantes mais
-aproveitados. Dalli sahio o Buonarota, o Torrigiani, o GhirlandÃ¡ro, e
+Lourenço de Medicis estabeleceo no seu Palacio, e Jardim, huma destas
+Universidades, ou Academias, bem provida de preciosos Cartões, desenhos,
+quadros, e estatuas; e dava premios, e pensões aos estudantes mais
+aproveitados. Dalli sahio o Buonarota, o Torrigiani, o Ghirlandáro, e
 outros sabios.
 
-Fr. JoÃ£o Angelo, que era bom Escultor, obteve o beneplacito, e a
-protecÃ§Ã£o do GrÃ£o Duque, para se restabelecer a antiga Academia, e a
-Irmandade de S. Lucas, jÃ¡ quasi extinctas, no Convento dos Anjos, e
-depois em S. LourenÃ§o.
+Fr. João Angelo, que era bom Escultor, obteve o beneplacito, e a
+protecção do Grão Duque, para se restabelecer a antiga Academia, e a
+Irmandade de S. Lucas, já quasi extinctas, no Convento dos Anjos, e
+depois em S. Lourenço.
 
-Em quanto isto se passava em Italia, tambem se fundÃ¡rÃ£o iguaes
-estabelecimentos Ã¡ quem dos seus montes, taes como o de Antuerpia, o de
+Em quanto isto se passava em Italia, tambem se fundárão iguaes
+estabelecimentos á quem dos seus montes, taes como o de Antuerpia, o de
 Nuremberg, o de Bruxellas, etc.; sendo hum dos mais antigos o de Bruges,
-aonde JoÃ£o Van-Eych no seculo XIV. inventou a pintura a oleo.
+aonde João Van-Eych no seculo XIV. inventou a pintura a oleo.
 
 No principio do seculo XVI. erigio em Roma, o divino Raphael, a mais
-douta Universidade da Pintura que virÃ£o os modernos; mas durou pouco
+douta Universidade da Pintura que virão os modernos; mas durou pouco
 tempo; porque faltou o Reitor della em 1520, e os alumnos todos se
-dispersÃ¡rÃ£o, sete annos depois, quando o exercito do Condestavel Carlos
-de Borbon saqueou aquella Capital: porÃ©m Gregorio XIII, fundou outra, em
-consideraÃ§Ã£o do Musiano, e do Zucaro, que a dotÃ¡rÃ£o. Os seus Academicos
-edificÃ¡rÃ£o o Templo de S. Lucas, e Santa Martinha, hum dos mais bellos e
+dispersárão, sete annos depois, quando o exercito do Condestavel Carlos
+de Borbon saqueou aquella Capital: porém Gregorio XIII, fundou outra, em
+consideração do Musiano, e do Zucaro, que a dotárão. Os seus Academicos
+edificárão o Templo de S. Lucas, e Santa Martinha, hum dos mais bellos e
 mais sumptuosos de Roma, pelos desenhos do famoso Pintor Pedro de
 Cortona; o qual lhe deixou 200$000 cruzados para se construir o Altar
-mÃ³r, de bronzes e marmores finos, e se lhe erigir hum mausolÃ©o.[6] O
-Painel da dita Capella mÃ³r, o qual representa S. Lucas retratando Nossa
+mór, de bronzes e marmores finos, e se lhe erigir hum mausoléo.[6] O
+Painel da dita Capella mór, o qual representa S. Lucas retratando Nossa
 Senhora, he de Raphael.
 
 Pela Lombardia fez a Arte grandes progressos, e teve boas Academias em
-MilÃ£o, Veneza, MÃ³dena, Parma, Bolonha, etc. A dos Caraches foi a mais
-cÃ©lebre, pela quantidade de grandes homens que della sahio. Alli se
-estudavÃ£o as tres Artes, a gravura, a perspectiva, e a anatomia: era
-provÃ®da de esqueletos, manequins, gessos originaes, vestidos, armas,
-arnezes, etc. Alli se distribuiÃ£o lugares, empregos, e premios, tudo
-debaixo da direcÃ§Ã£o de Luiz Carache. Depois desta houve tambem em
+Milão, Veneza, Módena, Parma, Bolonha, etc. A dos Caraches foi a mais
+célebre, pela quantidade de grandes homens que della sahio. Alli se
+estudavão as tres Artes, a gravura, a perspectiva, e a anatomia: era
+provîda de esqueletos, manequins, gessos originaes, vestidos, armas,
+arnezes, etc. Alli se distribuião lugares, empregos, e premios, tudo
+debaixo da direcção de Luiz Carache. Depois desta houve tambem em
 Bolonha a do Guido, que teve 200 discipulos, a do Albani, a do
 Pasinelli, a do Conde Cignani, as do Conde e do Senador Ghisiliere, e
-outras muitas; mas como todas erÃ£o de particulares, depressa se
-extinguiÃ£o. Em Julho de 1706, juntÃ¡rÃ£o-se 80 ou 90 Pintores (entre os
-quaes, diz Zanoti, havia alguns que tinhÃ£o o seu merecimento) na Galeria
-do Conde Fava, que sabia pintar, e tinha boa collecÃ§Ã£o de pinturas, a
+outras muitas; mas como todas erão de particulares, depressa se
+extinguião. Em Julho de 1706, juntárão-se 80 ou 90 Pintores (entre os
+quaes, diz Zanoti, havia alguns que tinhão o seu merecimento) na Galeria
+do Conde Fava, que sabia pintar, e tinha boa collecção de pinturas, a
 fim de buscarem meios para reprimir a ousadia de certos _artigiani_
 intrusos, que abusando da illimitada liberdade da Pintura, em hum paiz
-aonde nÃ£o havia Academia, se incumbiÃ£o da direcÃ§Ã£o de grandes emprezas,
-e reduziÃ£o os habeis artistas a huma abjecta servidÃ£o. O resultado foi
-que o dito Conde, o General Marsili, e Carlos Maratti obtiverÃ£o do Papa
+aonde não havia Academia, se incumbião da direcção de grandes emprezas,
+e reduzião os habeis artistas a huma abjecta servidão. O resultado foi
+que o dito Conde, o General Marsili, e Carlos Maratti obtiverão do Papa
 Clemente XI., que se estabelecesse a desejada Academia de Pintura, e
 fosse alojada, com a Filosofia, no Palacio do Instituto de Bolonha,
-debaixo da ProtecÃ§Ã£o de Santa Catharina de Vigri, religiosa de S.
+debaixo da Protecção de Santa Catharina de Vigri, religiosa de S.
 Domingos, e Pintora Bolonheza.
 
-Os Authores Francezes fallÃ£o em desenhos seus, feitos Ã¡ penna no seculo
+Os Authores Francezes fallão em desenhos seus, feitos á penna no seculo
 XII., com estylo nada inferior ao que depois usou Cimabue:[7] e nos
-tempos de Gioto, tinhÃ£o jÃ¡ muitos daquelles que alli se chamÃ£o
-_barbouilleurs_, formado huma corporaÃ§Ã£o, mecanica sim, mas muito
-privilegiada pelo Parlamento; e em virtude dos seus privilegios ousÃ¡rÃ£o
-incommodar os grandes Pintores, que apparecerÃ£o no tempo de Luiz XIV.
-Estes, indignados contra a sua audacia, fundÃ¡rÃ£o a Academia Real de
+tempos de Gioto, tinhão já muitos daquelles que alli se chamão
+_barbouilleurs_, formado huma corporação, mecanica sim, mas muito
+privilegiada pelo Parlamento; e em virtude dos seus privilegios ousárão
+incommodar os grandes Pintores, que apparecerão no tempo de Luiz XIV.
+Estes, indignados contra a sua audacia, fundárão a Academia Real de
 Pintura, e Esculptura, que em 1663 foi dotada com 4$ libras annuaes; mas
 Luiz XVI. lhe condeo 10$.
 
-Mr. Urry, director das obras Reaes, em 1737, inventou o chamado SalÃ£o;
-lugar aonde de dois em dois annos, os Artistas expÃµem ao Publico as
-melhores obras que vÃ£o fazendo; cousa que foi mui vantajosa Ã¡ Arte. NÃ£o
-lhe forÃ£o menos uteis os que se chamÃ£o quadros de Maio: os Ourives
-comeÃ§Ã¡rÃ£o em 1449 a offerecer a Nossa Senhora com grande solemnidade,
-hum ramo verde, a que chamavÃ£o o Maio: depois, juntÃ¡rÃ£o aos ramos certas
-maquinetas; e por fins, desde 1630 comeÃ§Ã¡rÃ£o a offerecer cada anno, hum
-painel, feito sempre por algum dos melhores Pintores da FranÃ§a.
+Mr. Urry, director das obras Reaes, em 1737, inventou o chamado Salão;
+lugar aonde de dois em dois annos, os Artistas expõem ao Publico as
+melhores obras que vão fazendo; cousa que foi mui vantajosa á Arte. Não
+lhe forão menos uteis os que se chamão quadros de Maio: os Ourives
+começárão em 1449 a offerecer a Nossa Senhora com grande solemnidade,
+hum ramo verde, a que chamavão o Maio: depois, juntárão aos ramos certas
+maquinetas; e por fins, desde 1630 começárão a offerecer cada anno, hum
+painel, feito sempre por algum dos melhores Pintores da França.
 
-Luiz XV. estabeleceo o grande Concurso da Academia Real em ParÃ­s, sendo
-o premio dos vencedores, a sustentaÃ§Ã£o em Roma (aonde tem outra
-Academia) por tempo de quatro annos, para se aperfeiÃ§oarem.
+Luiz XV. estabeleceo o grande Concurso da Academia Real em París, sendo
+o premio dos vencedores, a sustentação em Roma (aonde tem outra
+Academia) por tempo de quatro annos, para se aperfeiçoarem.
 
-Na Hespanha fundÃ¡rÃ£o-se tambem varias Academias; mas a mais famosa foi a
+Na Hespanha fundárão-se tambem varias Academias; mas a mais famosa foi a
 de Sevilha, aberta por Morilho em 1660. A de Madrid estabeleceo-se muito
-mais tarde pelas dissensÃµes dos mesmos Artistas. O partido dos menos
-habeis, que era muito maior, triumphou por mais de 120 annos, atÃ© o de
+mais tarde pelas dissensões dos mesmos Artistas. O partido dos menos
+habeis, que era muito maior, triumphou por mais de 120 annos, até o de
 1744; tempo em que Philippe V. mandou absolutamente que se fundasse.
 Fernando VI., dois annos depois, a dotou em 12$ pezos; e exaltou-a
 extraordinariamente, e aos seus professores.
 
-Inda que estas mimosas Artes sejÃ£o mui pouco fecundas nos climas frios,
+Inda que estas mimosas Artes sejão mui pouco fecundas nos climas frios,
 tem-se estabelecido as suas Academias na Dinamarca, na Russia, e por
-todo o Norte da Europa. Os Pintores Inglezes tambem se associÃ¡rÃ£o em _S.
+todo o Norte da Europa. Os Pintores Inglezes tambem se associárão em _S.
 Martin's-lane_ em 1750, a fim de deitarem os fundamentos n'huma especie
-de Academia: dez annos depois convierÃ£o em fazer huma exhibiÃ§Ã£o publica
-das suas melhores obras, em hum salÃ£o similhante ao de FranÃ§a, aonde se
-entraria por dinheiro. Em 65 obtiverÃ£o o beneplacito Regio para se
+de Academia: dez annos depois convierão em fazer huma exhibição publica
+das suas melhores obras, em hum salão similhante ao de França, aonde se
+entraria por dinheiro. Em 65 obtiverão o beneplacito Regio para se
 estabelecerem; e em 68 teve a Sociedade o titulo de Academia Real das
-tres Artes. O dote era o producto das exhibiÃ§Ãµes; mas como nos primeiros
-annos nÃ£o chegasse para as despezas, supprio o bolsinho Real a falta de
+tres Artes. O dote era o producto das exhibições; mas como nos primeiros
+annos não chegasse para as despezas, supprio o bolsinho Real a falta de
 45$ cruzados.
 
-Os Artistas expÃµem Ã¡ venda, ou Ã¡ censura pÃºblica, naquelle SalÃ£o, as
-obras que querem; e os curiosos que as pertendem ver, pagÃ£o pela entrada
-hum xelim cada hum: estas entradas produzirÃ£o 13 a 14$ cruzados annuaes
-atÃ© o anno 1779; mas no seguinte, que foi o primeiro da exhibiÃ§Ã£o em
-_Somerset-Palace_, subio a receita a 27$ cruzados; e dalli atÃ© o anno de
+Os Artistas expõem á venda, ou á censura pública, naquelle Salão, as
+obras que querem; e os curiosos que as pertendem ver, pagão pela entrada
+hum xelim cada hum: estas entradas produzirão 13 a 14$ cruzados annuaes
+até o anno 1779; mas no seguinte, que foi o primeiro da exhibição em
+_Somerset-Palace_, subio a receita a 27$ cruzados; e dalli até o anno de
 96 andou sempre por 22 a 23$ de sorte que excedendo a receita a despeza,
 comprou a Academia huma boa propriedade, e applicou os seus rendimentos
 em beneficio dos Artistas precisados. Este estabelecimento, soffreo
-tambem, como todos os mais, grandes opposiÃ§Ãµes; porque os nÃ£o admittidos
-em a nova Academia, fundÃ¡rÃ£o outra; e outra exhibiÃ§Ã£o; mas como nÃ£o
-tinhÃ£o grande credito, tudo desappareceo em pouco tempo.
+tambem, como todos os mais, grandes opposições; porque os não admittidos
+em a nova Academia, fundárão outra; e outra exhibição; mas como não
+tinhão grande credito, tudo desappareceo em pouco tempo.
 
-De todas estas, e outras famosas EschÃ³las, he que deriva a Doutrina, que
-em compendio vamos ensinar nesta nova Academia: mas antes de comeÃ§ar as
-liÃ§Ãµes, he preciso dar Ã¡s nossas illustres Academicas huma idea
+De todas estas, e outras famosas Eschólas, he que deriva a Doutrina, que
+em compendio vamos ensinar nesta nova Academia: mas antes de começar as
+lições, he preciso dar ás nossas illustres Academicas huma idea
 verdadeira da Arte.
 
-A Pintura pÃ³de ser considerada de duas sortes, ou como natural, ou como
+A Pintura póde ser considerada de duas sortes, ou como natural, ou como
 artificial. A Pintura natural he aquella que naturalmente se imprime na
-retina dos nossos olhos; e dalli, pelos nervos opticos, se communica Ã¡
-alma; e a Pintura artificial, he a imitaÃ§Ã£o da Pintura natural. A esta
-imitaÃ§Ã£o, se he bem feita, chama-se _Verdade_. A Verdade na Pintura, ou
+retina dos nossos olhos; e dalli, pelos nervos opticos, se communica á
+alma; e a Pintura artificial, he a imitação da Pintura natural. A esta
+imitação, se he bem feita, chama-se _Verdade_. A Verdade na Pintura, ou
 he simples, ou ideal, ou composta de huma e outra: Verdade simples he a
-imitaÃ§Ã£o exacta da Pintura natural, tal como ella se estampa dentro dos
+imitação exacta da Pintura natural, tal como ella se estampa dentro dos
 nossos olhos, com todas as suas bellezas, e defeitos: Verdade ideal, he
-a imitaÃ§Ã£o daquellas imagens, que se nos representÃ£o na imaginaÃ§Ã£o:
-Verdade mixta he a imitaÃ§Ã£o da Pintura natural, emendada nos seus
-defeitos, pelos modelos de perfeiÃ§Ã£o que o grande Artista concebe na sua
+a imitação daquellas imagens, que se nos representão na imaginação:
+Verdade mixta he a imitação da Pintura natural, emendada nos seus
+defeitos, pelos modelos de perfeição que o grande Artista concebe na sua
 mente. Esta verdade mixta, ou composta, he a que se acha nas obras de
 Raphael, e de outros grandes homens; mas principalmente no _Antigo_.[8]
 
-Os que estudÃ£o a Arte devem, primeiro que tudo, adquirir a pratica da
+Os que estudão a Arte devem, primeiro que tudo, adquirir a pratica da
 verdade simples, costumando-se a imitar perfeitamente tudo quanto se
 apresentar diante dos seus olhos; mas podem, e devem faze-lo de sorte
 que em virtude da boa escolha dos objectos, achem tambem nos seus
 exemplares a verdade composta. As Pinturas do Carache no palacio
-Farnesio, e as de Raphael no Vaticano sÃ£o as duas grandes eschÃ³las de
-Desenho. A terceira, e nÃ£o menos importante para os que estÃ£o mais
-adiantados, he a das boas estatuas antigas: os que nÃ£o puderem estudar
+Farnesio, e as de Raphael no Vaticano são as duas grandes eschólas de
+Desenho. A terceira, e não menos importante para os que estão mais
+adiantados, he a das boas estatuas antigas: os que não puderem estudar
 pelos originaes, basta que estudem por exactissimas copias.
 
-A Pintura comprehende tudo quanto se pÃ³de ver, e imaginar; e como he tÃ£o
-vasta, divide-se em muitas partes, e em muitos generos. Os generos, sÃ£o:
-1.^o o Historico, ou (como os authores lhe chamÃ£o) o grande Genero: 2.^o
+A Pintura comprehende tudo quanto se póde ver, e imaginar; e como he tão
+vasta, divide-se em muitas partes, e em muitos generos. Os generos, são:
+1.^o o Historico, ou (como os authores lhe chamão) o grande Genero: 2.^o
 o dos Retratos: 3.^o o das Batalhas: 4.^o o das Bambochatas: 5.^o o das
 Paizagens e Perspectivas: 6.^o o das Marinhas: 7.^o o dos Animaes: 8.^o
 o das cousas inanimadas, como flores, fructos, ornatos, quadraturas,
 etc.
 
-As partes de que se compÃµe a Pintura, sÃ£o: a InvenÃ§Ã£o; a ExpressÃ£o; a
-DistribuiÃ§Ã£o, ou DisposiÃ§Ã£o; o Desenho; o Colorido; o Clar'escuro; o
-Estylo, ou Pincel; a GraÃ§a; a Grandeza; o bello Ideal; etc. etc.: mas
+As partes de que se compõe a Pintura, são: a Invenção; a Expressão; a
+Distribuição, ou Disposição; o Desenho; o Colorido; o Clar'escuro; o
+Estylo, ou Pincel; a Graça; a Grandeza; o bello Ideal; etc. etc.: mas
 todas estas partes se podem reunir debaixo de tres principaes chefes,
-que vem a ser: _ComposiÃ§Ã£o, Desenho, e Colorido_. Na ordem dos estudos
-praticos, comeÃ§a-se pelo Desenho; mas na ordem da doutrina theorica
-principia-se pela ComposiÃ§Ã£o, por ser a primeira cousa que o pintor
-habil tem a fazer quando quer comeÃ§ar o seu painel; motivo porque
+que vem a ser: _Composição, Desenho, e Colorido_. Na ordem dos estudos
+praticos, começa-se pelo Desenho; mas na ordem da doutrina theorica
+principia-se pela Composição, por ser a primeira cousa que o pintor
+habil tem a fazer quando quer começar o seu painel; motivo porque
 principiaremos tambem por esta parte o nosso compendio.
 
 
@@ -333,511 +333,511 @@ NOVA ACADEMIA DE PINTURA
 
 PRIMEIRA PARTE.
 
-_ComposiÃ§Ã£o._
+_Composição._
 
 
-Â«Crear, ou para dizer melhor, reproduzir de novo as obras do Creador;
+«Crear, ou para dizer melhor, reproduzir de novo as obras do Creador;
 renovar e perpetuar sobre hum painel os feitos heroicos, os
 acontecimentos memoraveis, he o mais nobre emprego do genio pitoresco.
-DispÃ´r as idÃ©as em huma bella ordem, apresenta-las debaixo d'hum aspecto
-luminoso, he o grande primor da arte. Desta duplicada operaÃ§Ã£o, da Arte,
-e do Genio, nasce a ComposiÃ§Ã£o. Os pensamentos sÃ£o os seus membros. Mas
-assim como os materiaes de hum edificio nÃ£o o poderiÃ£o formar, se nÃ£o
-estivesse cada hum no seu lugar; assim as idÃ©as nÃ£o representariÃ£o bem
-huma passagem historica, senÃ£o estivessem distribuidas na composiÃ§Ã£o do
-quadro, com sabia economia, e com reflexÃ£o magistral. A composiÃ§Ã£o
-divide-se em InvenÃ§Ã£o, e DisposiÃ§Ã£o.Â»
+Dispôr as idéas em huma bella ordem, apresenta-las debaixo d'hum aspecto
+luminoso, he o grande primor da arte. Desta duplicada operação, da Arte,
+e do Genio, nasce a Composição. Os pensamentos são os seus membros. Mas
+assim como os materiaes de hum edificio não o poderião formar, se não
+estivesse cada hum no seu lugar; assim as idéas não representarião bem
+huma passagem historica, senão estivessem distribuidas na composição do
+quadro, com sabia economia, e com reflexão magistral. A composição
+divide-se em Invenção, e Disposição.»
 
 
-SECÃ‡ÃƒO I.^a
+SECÇÃO I.^a
 
-_InvenÃ§Ã£o._
+_Invenção._
 
 
-Â«A invenÃ§Ã£o he a combinaÃ§Ã£o dos pensamentos que concorrem para a
-composiÃ§Ã£o de qualquer assumpto: he huma Musa que sendo dotada de todas
-as bellas qualidades das suas irmÃ£s, as Musas das Bellas letras, e
+«A invenção he a combinação dos pensamentos que concorrem para a
+composição de qualquer assumpto: he huma Musa que sendo dotada de todas
+as bellas qualidades das suas irmãs, as Musas das Bellas letras, e
 inspirada pelo espirito de Apolo, vem por isso mesmo a ser mais elevada,
-e a resplandecer com mais viva flamma: he hum talento natural que se nÃ£o
-adquire pelo estudo, nem pela pratica; porque a fonte das invenÃ§Ãµes estÃ¡
-na faculdade imaginativa, e requer tres cousas, _imaginaÃ§Ã£o_,
-_prudencia_, _erudiÃ§Ã£o_.Â»
+e a resplandecer com mais viva flamma: he hum talento natural que se não
+adquire pelo estudo, nem pela pratica; porque a fonte das invenções está
+na faculdade imaginativa, e requer tres cousas, _imaginação_,
+_prudencia_, _erudição_.»
 
-Â«NÃ£o ha regras para a InvenÃ§Ã£o, porque a arte de imaginar nÃ£o se
+«Não ha regras para a Invenção, porque a arte de imaginar não se
 communica; mas podem haver conselhos uteis. Racine, quando compunha as
-suas tragedias fazia todos os esforÃ§os para entrar nos sentimentos que
-queria dar a Hippolito, a Phedra, a Athalia, e a Esther.Â»
+suas tragedias fazia todos os esforços para entrar nos sentimentos que
+queria dar a Hippolito, a Phedra, a Athalia, e a Esther.»
 
-Â«A InvenÃ§Ã£o he a poesia da Pintura, e a parte mais propria para
-descobrir o talento do artista: ella desenvolve a primeira idÃ©a de toda
-a obra; e o Pintor nÃ£o a deve perder de vista atÃ© a ultima pincelada.
-NÃ£o basta que elle encha hum painel com muitas e boas figuras, se estas
-nÃ£o servirem todas para explicar o principal objecto; e se a totalidade
-da obra nÃ£o declarar logo ao espectador qual he o assumpto de que se
-trata; preparando, e dispondo a mente de quem vÃª a pintura, para ser
-commovida com as expressÃµes, e affectos das figuras principaes: sem o
-que, de nada serviria dar-lhes expressÃµes violentas e exaggeradas, como
+«A Invenção he a poesia da Pintura, e a parte mais propria para
+descobrir o talento do artista: ella desenvolve a primeira idéa de toda
+a obra; e o Pintor não a deve perder de vista até a ultima pincelada.
+Não basta que elle encha hum painel com muitas e boas figuras, se estas
+não servirem todas para explicar o principal objecto; e se a totalidade
+da obra não declarar logo ao espectador qual he o assumpto de que se
+trata; preparando, e dispondo a mente de quem vê a pintura, para ser
+commovida com as expressões, e affectos das figuras principaes: sem o
+que, de nada serviria dar-lhes expressões violentas e exaggeradas, como
 fazem aquelles que querem affectar muito espirito. O excesso, ou
-affectaÃ§Ã£o he a cousa mais nociva Ã¡ boa invenÃ§Ã£o.Â»
+affectação he a cousa mais nociva á boa invenção.»
 
-Â«A Pintura sustenta-se, assim como a Poesia, pela fabula, e vive de
-ficÃ§Ãµes; cada virtude se transforma n'huma divindade: Minerva he a
-Prudencia; Venus a formosura; Diana a castidade; Ã‰cho nÃ£o he hum som, he
-huma nympha; o cabo das tormentas nÃ£o he hum promontorio, he o gigante
-Adamastor. Assim o Pintor, e o Poeta, ornÃ£o e elevÃ£o todas as cousas.Â»
+«A Pintura sustenta-se, assim como a Poesia, pela fabula, e vive de
+ficções; cada virtude se transforma n'huma divindade: Minerva he a
+Prudencia; Venus a formosura; Diana a castidade; Écho não he hum som, he
+huma nympha; o cabo das tormentas não he hum promontorio, he o gigante
+Adamastor. Assim o Pintor, e o Poeta, ornão e elevão todas as cousas.»
 
-Â«He tambem importante, associar Ã¡ escolha dos objectos todas as
+«He tambem importante, associar á escolha dos objectos todas as
 circumstancias, e todos os episodios, que podem augmentar o seu
-interesse; tendo porÃ©m muito cuidado em que os accessorios nÃ£o
-prejudiquem em cousa alguma a acÃ§Ã£o principal.Â»
+interesse; tendo porém muito cuidado em que os accessorios não
+prejudiquem em cousa alguma a acção principal.»
 
-Â«As particularidades relativas ao _costume_ devem ser exactamente
-observadas na InvenÃ§Ã£o: transportemo-nos em idÃ©a aos diversos paizes;
-chamemos Ã¡ nossa imaginaÃ§Ã£o os passados seculos; occupemo-nos dos usos,
-costumes, e trajes de todas as personagens, para nÃ£o cahir-mos naquelles
-anachronismos, que sÃ£o capazes de tirar o merecimento ao quadro mais
-felizmente concebido, e executado.Â»
+«As particularidades relativas ao _costume_ devem ser exactamente
+observadas na Invenção: transportemo-nos em idéa aos diversos paizes;
+chamemos á nossa imaginação os passados seculos; occupemo-nos dos usos,
+costumes, e trajes de todas as personagens, para não cahir-mos naquelles
+anachronismos, que são capazes de tirar o merecimento ao quadro mais
+felizmente concebido, e executado.»
 
-Â«Tudo o que se chama original he inventado; mas nem tudo o que he
-inventado merece o titulo de original; porque esta palavra nÃ£o sÃ³ dÃ¡
-idÃ©a de invenÃ§Ã£o, mas tambem de grande magisterio. Arrojar-se a inventar
-sem ter subido todos os degrÃ¡os da escada optica, he querer
-precipitar-se. Alguns desfigurÃ£o Ã¡s vezes os seus pensamentos querendo
-enriquece-los.Â»
+«Tudo o que se chama original he inventado; mas nem tudo o que he
+inventado merece o titulo de original; porque esta palavra não só dá
+idéa de invenção, mas tambem de grande magisterio. Arrojar-se a inventar
+sem ter subido todos os degráos da escada optica, he querer
+precipitar-se. Alguns desfigurão ás vezes os seus pensamentos querendo
+enriquece-los.»
 
-Â«LÃªa o Pintor muitas vezes a historia que ha de compÃ´r, e quando estiver
-bem senhor della imagine as personagens: faÃ§a o desenho interno na sua
-idÃ©a; porque sem isso rascunharÃ¡ muito, e nÃ£o farÃ¡ nada. Depois da
-composiÃ§Ã£o mental, querendo passar Ã¡ execuÃ§Ã£o da obra, retire-se do
-tumulto; porque entre rumores, e estrÃ©pitos nada se farÃ¡ com acerto. NÃ£o
-pinte senÃ£o quando se sentir excitado por hum certo impulso; porque a
-pezar das Musas nÃ£o se pÃ³de fazer obra louvavel.Â»
+«Lêa o Pintor muitas vezes a historia que ha de compôr, e quando estiver
+bem senhor della imagine as personagens: faça o desenho interno na sua
+idéa; porque sem isso rascunhará muito, e não fará nada. Depois da
+composição mental, querendo passar á execução da obra, retire-se do
+tumulto; porque entre rumores, e estrépitos nada se fará com acerto. Não
+pinte senão quando se sentir excitado por hum certo impulso; porque a
+pezar das Musas não se póde fazer obra louvavel.»
 
-Â«A _InvenÃ§Ã£o_ requer muito fogo, e muito genio; e a _DisposiÃ§Ã£o_ muita
-fleuma, e prudencia: e como estas cousas tÃ£o oppostas raras vezes se
-combinÃ£o, por isso tem sido raros os grandes Pintores. He porÃ©m mais
-facil moderar o genio de fogo, que escaldar o de gelo.Â»
+«A _Invenção_ requer muito fogo, e muito genio; e a _Disposição_ muita
+fleuma, e prudencia: e como estas cousas tão oppostas raras vezes se
+combinão, por isso tem sido raros os grandes Pintores. He porém mais
+facil moderar o genio de fogo, que escaldar o de gelo.»
 
-Â«Nem todos os pensamentos sÃ£o proprios para formar huma intelligivel e
-elegante composiÃ§Ã£o. Lucas JordÃ£o rejeitou as InvenÃ§Ãµes dos sabios que
-por ordem de Carlos II. lhe davÃ£o assumptos Theologicos para elle
-executar no Escurial. Todos erÃ£o orthodoxos, discretos, eruditos; mas
-nÃ£o erÃ£o capazes de fazer por elles huma bella e pittoresca composiÃ§Ã£o:
+«Nem todos os pensamentos são proprios para formar huma intelligivel e
+elegante composição. Lucas Jordão rejeitou as Invenções dos sabios que
+por ordem de Carlos II. lhe davão assumptos Theologicos para elle
+executar no Escurial. Todos erão orthodoxos, discretos, eruditos; mas
+não erão capazes de fazer por elles huma bella e pittoresca composição:
 portanto deve-se escolher hum assumpto nobre, e que seja susceptivel de
-bom colorido, graÃ§a, belleza, instrucÃ§Ã£o, recreio, etc.: escolhendo,
+bom colorido, graça, belleza, instrucção, recreio, etc.: escolhendo,
 para o compor, o mais bello de toda a Natureza, segundo o gosto dos
-antigos, e dos modernos que melhor os souberÃ£o imitar.Â»
+antigos, e dos modernos que melhor os souberão imitar.»
 
-Â«A escolha das InvenÃ§Ãµes deve ser analoga aos lugares que ellas vÃ£o
-ornar. Nas Casas Reaes convem as acÃ§Ãµes dos Principes, e dos grandes
-CapitÃ£es; convÃ©m triumphos, victorias, e outros assumptos capazes de
+«A escolha das Invenções deve ser analoga aos lugares que ellas vão
+ornar. Nas Casas Reaes convem as acções dos Principes, e dos grandes
+Capitães; convém triumphos, victorias, e outros assumptos capazes de
 levantar o nosso espirito a pensamentos heroicos, e a desejos de honra,
-e de gloria. O grande Artista pÃ³de, e deve ser grato aos beneficios que
+e de gloria. O grande Artista póde, e deve ser grato aos beneficios que
 recebe da Patria, dos Principes, e dos grandes Senhores: e se Virgilio
-immortalisou os Romanos, CamÃµes os Portuguezes, e Homero os Gregos;
-tambem Raphael teve poder para perpetuar a gloria de Julio II., e LeÃ£o
-X.; Lebrun a de Luiz XIV.; e o Ticiano a de Carlos V.Â»
+immortalisou os Romanos, Camões os Portuguezes, e Homero os Gregos;
+tambem Raphael teve poder para perpetuar a gloria de Julio II., e Leão
+X.; Lebrun a de Luiz XIV.; e o Ticiano a de Carlos V.»
 
-Â«Nos Consistorios ecclesiasticos, tem bom lugar a assemblÃ©a dos
+«Nos Consistorios ecclesiasticos, tem bom lugar a assembléa dos
 Filosofos, ou o concilio dos Theologos; como fez Raphael no palacio
-Pontificio: mas nos seculares, nÃ£o serÃ¡ impropria a pintura do conselho
-dos Gregos para a expediÃ§Ã£o de Troya: a de Licurgo, Demosthenes, etc.
-Nos templos claros pode-se pintar S. JoÃ£o prÃ©gando Ã¡ turba; a absolviÃ§Ã£o
-da Adultera; a conversÃ£o de S. Paulo; e outras passagens alegres: mas
-n'hum tribunal de JustiÃ§a serÃ¡ a proposito representar o juizo de
-SalomÃ£o; aquelles que se dedicÃ¡rÃ£o Ã¡ morte por amor das leis; e outros
-semelhantes.Â»
+Pontificio: mas nos seculares, não será impropria a pintura do conselho
+dos Gregos para a expedição de Troya: a de Licurgo, Demosthenes, etc.
+Nos templos claros pode-se pintar S. João prégando á turba; a absolvição
+da Adultera; a conversão de S. Paulo; e outras passagens alegres: mas
+n'hum tribunal de Justiça será a proposito representar o juizo de
+Salomão; aquelles que se dedicárão á morte por amor das leis; e outros
+semelhantes.»
 
-Â«Nos jardins, ao pÃ© das fontes, nÃ£o serÃ£o improprias as metamorphoses de
+«Nos jardins, ao pé das fontes, não serão improprias as metamorphoses de
 Acteon, Arethusa, Salmacis, Narciso, e Egeria; mas entre os bosques
 Hippomenes, Atalanta, Meleagro, Marsyas, Apollo; os quatro tempos, e os
 mezes do anno; bailes de nynfas, e satyros; e tambem algumas
-perspectivas, e paizagens, com Cephalo, etc.Â»
+perspectivas, e paizagens, com Cephalo, etc.»
 
-Â«Sobre as chaminÃ©s das salas pintar-se-ha Prometheu furtando o fogo do
+«Sobre as chaminés das salas pintar-se-ha Prometheu furtando o fogo do
 Ceo, Hercules na pyra, Ascanio com a flamma nos cabellos, Vulcano,
-Phaetonte, Perillo, Scevola, Curcio, MedÃ©a, Ceres procurando a filha, e
-outras. Os corredores ou galerias abertas, sendo nobres como sÃ£o as
+Phaetonte, Perillo, Scevola, Curcio, Medéa, Ceres procurando a filha, e
+outras. Os corredores ou galerias abertas, sendo nobres como são as
 lojas de Raphael, ou o Claustro do Escurial, podem ser enfeitados com
 elegantes ornatos, e arabescos, compostos de aves, flores, fructos,
 medalhas de estuque, paizagens, perspectivas, folhagens, animaes,
 insectos, monstros, figuras humanas, e tudo quanto cria a Natureza, e a
-idÃ©a pÃ³de imaginar.Â»
+idéa póde imaginar.»
 
-Â«As galerias interiores, bem pintadas, sÃ£o como preciosos volumes,
+«As galerias interiores, bem pintadas, são como preciosos volumes,
 sempre abertos, e escriptos em huma linguagem universal, que todos
-entendem; onde vemos descriptas as proezas de Luiz XIV.; a protecÃ§Ã£o
-efficaz que elle concedeo Ã¡s Artes e Sciencias; as acÃ§Ãµes de Francisco
+entendem; onde vemos descriptas as proezas de Luiz XIV.; a protecção
+efficaz que elle concedeo ás Artes e Sciencias; as acções de Francisco
 I.; e tantas outras cousas nobres, sublimes, e interessantes, executadas
 pelo Rosso, pelo Primaticio, pelo divino Raphael, por Le Brun, por
 Mignard, e por muitos outros sapientissimos Pintores. Rubens na Galeria
 do palacio de Luxemburgo, edificado por Maria de Medicis, tambem deixou
 em vinte e quatro paineis immortalisadada a vida daquella heroina. No
-primeiro, onde estÃ¡ representado o seu destino, apparecem as tres parcas
+primeiro, onde está representado o seu destino, apparecem as tres parcas
 fiando os bellos dias da futura Rainha, debaixo dos auspicios de Juno, e
-de Jupiter. No segundo estÃ¡ Lucina allumiando com a sua flamma as GraÃ§as
-da Princeza recem-nascida; e deposita-a entre as mÃ£os da Cidade de
-FlorenÃ§a: Os Destinos espalhÃ£o sobre ella flores Ã¡s mÃ£os cheias: o signo
+de Jupiter. No segundo está Lucina allumiando com a sua flamma as Graças
+da Princeza recem-nascida; e deposita-a entre as mãos da Cidade de
+Florença: Os Destinos espalhão sobre ella flores ás mãos cheias: o signo
 de Sagittario indica o tempo do seu nascimento: o Genio da felicidade,
 deixando ver a coroa, o sceptro, e as flores de liz, claramente
-manifesta que aquella menina nasce para ser Rainha de FranÃ§a.Â»
+manifesta que aquella menina nasce para ser Rainha de França.»
 
-Â«A InvenÃ§Ã£o dos outros quadros, que he igualmente poetica, e pittoresca,
-contÃ©m: a educaÃ§Ã£o da Rainha: o ajuste do seu casamento com Henrique
+«A Invenção dos outros quadros, que he igualmente poetica, e pittoresca,
+contém: a educação da Rainha: o ajuste do seu casamento com Henrique
 IV.: O casamento effectuado: o desembarque da Rainha em Marselha: a
-Cidade de LyÃ£o, que lhe sahe ao encontro: o nascimento do Delphim:
-Henrique IV. se dispÃµe a partir para a guerra d'Alemanha, em soccorro
-dos Marquezes de Brandeburgo, e de Neuburgo: coroaÃ§Ã£o da Rainha como
+Cidade de Lyão, que lhe sahe ao encontro: o nascimento do Delphim:
+Henrique IV. se dispõe a partir para a guerra d'Alemanha, em soccorro
+dos Marquezes de Brandeburgo, e de Neuburgo: coroação da Rainha como
 Regente: Apotheose de Henrique IV., e Regencia da Rainha: o seu governo:
-viagem militar da Rainha Ã¡ Ponte de CÃ©, para reprimir a guerra civil: a
-troca das duas Rainhas, Isabel de FranÃ§a, que casou com Filippe IV., e
+viagem militar da Rainha á Ponte de Cé, para reprimir a guerra civil: a
+troca das duas Rainhas, Isabel de França, que casou com Filippe IV., e
 Anna de Austria, com Luiz XIII., em 9 de Novembro de 1615: felicidade da
 Regencia: maioridade de Luiz XIII.: fugida da Rainha do Castello de
 Blois, onde seu filho a tinha presa: a Rainha acceita a paz, e a conclue
 com seu filho: a mesma paz confirmada no Ceo: o tempo descobrindo a
-Verdade. Alguns destes assumptos sÃ£o assaz triviaes, e parecem estereis;
+Verdade. Alguns destes assumptos são assaz triviaes, e parecem estereis;
 mas o grande e fecundissimo Genio de Rubens soube achar para todos as
-mais bellas imagens, que se podiÃ£o desejar.Â»
+mais bellas imagens, que se podião desejar.»
 
 
-SECÃ‡ÃƒO II.^a
+SECÇÃO II.^a
 
-_DisposiÃ§Ã£o._
+_Disposição._
 
 
-Â«A disposiÃ§Ã£o he pÃ´r em boa ordem as idÃ©as achadas pelo genio da
-InvenÃ§Ã£o, a fim de compÃ´r com magisterio a scena de hum painel. Toda a
-composiÃ§Ã£o he historica, allegorica, ou mixta: a que he historica tem
+«A disposição he pôr em boa ordem as idéas achadas pelo genio da
+Invenção, a fim de compôr com magisterio a scena de hum painel. Toda a
+composição he historica, allegorica, ou mixta: a que he historica tem
 por objecto representar hum facto, com as circumstancias allegadas pelos
-historiadores: a que he allegÃ³rica relata os acontecimentos
-metaforicamente; exprimindo debaixo d'hum vÃ©o figurado, hum sentido
-diverso da expressÃ£o literal: a mixta diz a verdade historica, ornada ou
+historiadores: a que he allegórica relata os acontecimentos
+metaforicamente; exprimindo debaixo d'hum véo figurado, hum sentido
+diverso da expressão literal: a mixta diz a verdade historica, ornada ou
 corroborada com alguma agudeza da allegoria, que lhe sirva de commento;
-e sem a qual nÃ£o se poderia entender bem o que se quiz dizer.Â»
+e sem a qual não se poderia entender bem o que se quiz dizer.»
 
 
 ARTIGO I.
 
-_Da DisposiÃ§Ã£o relativa ao Grande Genero._
+_Da Disposição relativa ao Grande Genero._
 
 
-Â«A InvenÃ§Ã£o, diz Du Fresnoy, acha os convenientes objectos; e a
-DisposiÃ§Ã£o os arranja; mas a distribuiÃ§Ã£o ha de fazer-se de sorte, que o
-tom, e a scena do quadro, Ã¡ primeira vista, inspirem a principal paixÃ£o
+«A Invenção, diz Du Fresnoy, acha os convenientes objectos; e a
+Disposição os arranja; mas a distribuição ha de fazer-se de sorte, que o
+tom, e a scena do quadro, á primeira vista, inspirem a principal paixão
 no animo dos espectadores: isto he, que inspire alegria se o assumpto
 for alegre; ou que infunda tristeza, e horror, se for triste, e
-horroroso.Â»
+horroroso.»
 
-Â«As composiÃ§Ãµes sejÃ£o conforme os textos dos bons escriptores, e segundo
-os tempos, costumes, e naÃ§Ãµes: a licenÃ§a que Horacio concede aos
+«As composições sejão conforme os textos dos bons escriptores, e segundo
+os tempos, costumes, e nações: a licença que Horacio concede aos
 pintores, e aos poetas, deve ter os limites, que elle mesmo prescreve;
 nada de sonhos, ou delirios extravagantes. Aquelles que quizerem fazer
-progressos na Pintura historica, deverÃ£o familiarisar-se com os livros,
-que podem elevar as suas idÃ©as; para, nos seus vÃ´os, nÃ£o se servirem de
-alheias azas, de que nÃ£o conheÃ§Ã£o bem o uso, nem a forÃ§a.Â»
+progressos na Pintura historica, deverão familiarisar-se com os livros,
+que podem elevar as suas idéas; para, nos seus vôos, não se servirem de
+alheias azas, de que não conheção bem o uso, nem a força.»
 
-Â«Quando se escolherem as attitudes das figuras, devem-se prever os
+«Quando se escolherem as attitudes das figuras, devem-se prever os
 effeitos e harmonia das luzes, e cores; para collocar tudo de hum modo
-natural, e vantajoso, e rejeitar o que pÃ³de fazer confusÃ£o: imitando a
-tragedia, irmÃ£ da pintura, a qual emprega todas as forÃ§as da sua arte
-onde recahe o forte da acÃ§Ã£o.Â»
+natural, e vantajoso, e rejeitar o que póde fazer confusão: imitando a
+tragedia, irmã da pintura, a qual emprega todas as forças da sua arte
+onde recahe o forte da acção.»
 
-Â«Para o Heroe, e para as principaes figuras, escolhÃ£-se attitudes cujos
-membros sejÃ£o grandiosos, amplos, e desiguaes nas suas posituras; de
-maneira que os de diante contrastem com os de traz, e todos sejÃ£o
+«Para o Heroe, e para as principaes figuras, escolhã-se attitudes cujos
+membros sejão grandiosos, amplos, e desiguaes nas suas posituras; de
+maneira que os de diante contrastem com os de traz, e todos sejão
 balanceados, ou equilibrados no seu centro commum. A principal figura
-appareÃ§a no meio do quadro, debaixo da mais viva luz, tendo alguma cousa
+appareça no meio do quadro, debaixo da mais viva luz, tendo alguma cousa
 notavel que a distinga de todas as outras; nem seja affrontada por
-alguma dellas.Â»
+alguma dellas.»
 
-Â«Os gruppos sejÃ£o separados por hum vacuo, para nÃ£o fazerem confusÃ£o;
-evitando nelles repetiÃ§Ãµes de fysionomias, e movimentos; ou tendencia
+«Os gruppos sejão separados por hum vacuo, para não fazerem confusão;
+evitando nelles repetições de fysionomias, e movimentos; ou tendencia
 para a mesma parte. Entre varias figuras de frente esteja tambem alguma
-de lado, ou de costas: advirta-se que o pezo da composiÃ§Ã£o nÃ£o penda
-para hum sÃ³ lado. Evite-se o grande numero de figuras; mas se o assumpto
-o pedir, attenda-se primeiramente Ã¡ harmonia do todo, e depois se
-cuidarÃ¡ em cada objecto; cedendo o interesse de cada hum em particular
-ao bem commum de todos.Â»
+de lado, ou de costas: advirta-se que o pezo da composição não penda
+para hum só lado. Evite-se o grande numero de figuras; mas se o assumpto
+o pedir, attenda-se primeiramente á harmonia do todo, e depois se
+cuidará em cada objecto; cedendo o interesse de cada hum em particular
+ao bem commum de todos.»
 
-Â«As figuras, que estiverem atraz de outras, nÃ£o terÃ£o graÃ§a se os
-movimentos das mÃ£os nÃ£o forem perfeitamente de acÃ´rdo com as expressÃµes
-dos semblantes. Evitem-se os escorÃ§os, as acÃ§Ãµes violentas, ou pouco
-naturaes, e tudo quanto for desagradavel Ã¡ vista; como linhas
-parallelas, ou figuras geometricas, que pela sua regularidade faÃ§Ã£o mÃ¡o
-effeito nas composiÃ§Ãµes; porque a boa composiÃ§Ã£o he huma bella
-desordem.Â»
+«As figuras, que estiverem atraz de outras, não terão graça se os
+movimentos das mãos não forem perfeitamente de acôrdo com as expressões
+dos semblantes. Evitem-se os escorços, as acções violentas, ou pouco
+naturaes, e tudo quanto for desagradavel á vista; como linhas
+parallelas, ou figuras geometricas, que pela sua regularidade fação máo
+effeito nas composições; porque a boa composição he huma bella
+desordem.»
 
-Â«NÃ£o vos sujeiteis tanto Ã¡ Natureza, que nÃ£o possais fazer cousa alguma
+«Não vos sujeiteis tanto á Natureza, que não possais fazer cousa alguma
 sem a ter diante dos olhos; nem a abandoneis de modo, que tudo pinteis
 de pratica, porque hum tal costume seria huma libertinagem
-anti-pittoresca.Â»
+anti-pittoresca.»
 
-Â«Quando o quadro tiver huma sÃ³ figura, deverÃ¡ ella ser bellissima, e
-realÃ§ada com vivas cores. As roupagens devem ter simplicidade, e
-natureza; tendo sempre attenÃ§Ã£o Ã¡s qualidades das pessoas que as vestem:
-as dos Senadores sejÃ£o amplas; as das donzellas leves, e suaves; as dos
-rusticos grossas e estreitas.Â»
+«Quando o quadro tiver huma só figura, deverá ella ser bellissima, e
+realçada com vivas cores. As roupagens devem ter simplicidade, e
+natureza; tendo sempre attenção ás qualidades das pessoas que as vestem:
+as dos Senadores sejão amplas; as das donzellas leves, e suaves; as dos
+rusticos grossas e estreitas.»
 
-Â«Para encadear as luzes, he preciso Ã¡s vezes, relevar algumas dobras
-sobre espaÃ§os mais profundos.Â»
+«Para encadear as luzes, he preciso ás vezes, relevar algumas dobras
+sobre espaços mais profundos.»
 
-Â«As divisas das virtudes, ou distinctivos das sciencias; os instrumentos
+«As divisas das virtudes, ou distinctivos das sciencias; os instrumentos
 de guerra, e dos sacrificios, pela sua nobreza, concorrem muito para o
-ornato das figuras; mas o ouro, e as joias sejÃ£o raros. Fuja-se dos
-ornamentos gÃ³ticos; porque sÃ£o outros tantos monstros produzidos nos
+ornato das figuras; mas o ouro, e as joias sejão raros. Fuja-se dos
+ornamentos góticos; porque são outros tantos monstros produzidos nos
 seculos infelices. As paizagens, ou architecturas nos fundos dos
-quadros, sejÃ£o executadas segundo o costume e natureza do seculo, naÃ§Ã£o,
-ou paiz da scena.Â»
+quadros, sejão executadas segundo o costume e natureza do seculo, nação,
+ou paiz da scena.»
 
-Â«He mui difficil exprimir bem as paixÃµes d'alma; nem ellas podem ser
-naturaes senÃ£o nas pessoas verdadeiramente apaixonadas: he onde o
-Artista as deve estudar.Â»
+«He mui difficil exprimir bem as paixões d'alma; nem ellas podem ser
+naturaes senão nas pessoas verdadeiramente apaixonadas: he onde o
+Artista as deve estudar.»
 
-Â«Fazei o maior esforÃ§o para dar a tudo muita graÃ§a, e muita nobreza; mas
-este dom dimana antes do Ceo, que dos estudos.Â»
+«Fazei o maior esforço para dar a tudo muita graça, e muita nobreza; mas
+este dom dimana antes do Ceo, que dos estudos.»
 
 Leonardo de Vinci tambem nos deixou muitos, e optimos documentos sobre a
-ComposiÃ§Ã£o. Â«Quando souberdes, diz elle, esboÃ§ar bem huma figura por
-todos os lados, aprendei a compÃ´r; e comeÃ§ai por dois combatentes de
+Composição. «Quando souberdes, diz elle, esboçar bem huma figura por
+todos os lados, aprendei a compôr; e começai por dois combatentes de
 igual valor, desenhando-os em varios aspectos, e em differentes
 attitudes; depois fazei o valente brigando com hum cobarde, tudo bem
 estudado: e aproveita-te das manchas casuaes das paredes, e dos
-marmores, que representem fÃ³rmas de batalhas, e de outras cousas. Estes
-acasos suggerem muitas invenÃ§Ãµes Ã¡ fertil imaginaÃ§Ã£o.Â»
+marmores, que representem fórmas de batalhas, e de outras cousas. Estes
+acasos suggerem muitas invenções á fertil imaginação.»
 
-Â«Depois de conheceres bem as partes de cada membro, e a totalidade dos
+«Depois de conheceres bem as partes de cada membro, e a totalidade dos
 corpos inteiros, nota, e observa com diligencia os seus particulares
-movimentos; mas de modo que as gentes nÃ£o entendÃ£o que as observas, para
-que nÃ£o mudem de affectos: assim podes estudar a cÃ³lera, a ira, a dor, a
-admiraÃ§Ã£o, etc.; e tudo apontarÃ¡s no livro de memoria, feito de papel
-gessado, com ponteiro de prata; e depois o tirarÃ¡s a limpo para ser o
-teu mestre nas composiÃ§Ãµes.Â»
+movimentos; mas de modo que as gentes não entendão que as observas, para
+que não mudem de affectos: assim podes estudar a cólera, a ira, a dor, a
+admiração, etc.; e tudo apontarás no livro de memoria, feito de papel
+gessado, com ponteiro de prata; e depois o tirarás a limpo para ser o
+teu mestre nas composições.»
 
-Â«Faze as figuras de modo, que entendamos pelas suas mÃ£os, olhos,
-sobrolhos, e por todos os gÃ©stos do corpo, o que nos querem dizer; como
-fariÃ£o os mudos, ou os pantomimos para se explicarem: attendendo porÃ©m Ã¡
-mais ou menos gravidade das pessoas que fallÃ£o, e Ã¡ natureza das cousas
-que nos dizem. O Principe, ou o sabio, tenhÃ£o differenÃ§a das gentes
-vulgares; com tanto, que os tristes sempre pareÃ§Ã£o mais ou menos
-tristes, e os alegres alegres.Â»
+«Faze as figuras de modo, que entendamos pelas suas mãos, olhos,
+sobrolhos, e por todos os géstos do corpo, o que nos querem dizer; como
+farião os mudos, ou os pantomimos para se explicarem: attendendo porém á
+mais ou menos gravidade das pessoas que fallão, e á natureza das cousas
+que nos dizem. O Principe, ou o sabio, tenhão differença das gentes
+vulgares; com tanto, que os tristes sempre pareção mais ou menos
+tristes, e os alegres alegres.»
 
-Â«Nos gruppos misturem-se objectos de todas as sortes; mulheres, homens,
-moÃ§os, velhos, animaes, arvores, montanhas, edificios, etc., etc.;
-observando com tudo, que os membros e gÃ©stos d'hum velho sejÃ£o de velho,
-e os de hum moÃ§o sejÃ£o de moÃ§o: os dos gordos ou magros; preguiÃ§osos ou
-diligentes, sejÃ£o como convem a cada hum. NÃ£o se misturem muitos rapazes
-com muitos velhos, nem moÃ§os com meninos, nem mulheres com homens, se a
-historia o nÃ£o pedir. Faze poucos velhos, porque os velhos sÃ£o mais
-raros; e separa-os dos moÃ§os, de cujo genio nÃ£o gostÃ£o; e onde nÃ£o ha
+«Nos gruppos misturem-se objectos de todas as sortes; mulheres, homens,
+moços, velhos, animaes, arvores, montanhas, edificios, etc., etc.;
+observando com tudo, que os membros e géstos d'hum velho sejão de velho,
+e os de hum moço sejão de moço: os dos gordos ou magros; preguiçosos ou
+diligentes, sejão como convem a cada hum. Não se misturem muitos rapazes
+com muitos velhos, nem moços com meninos, nem mulheres com homens, se a
+historia o não pedir. Faze poucos velhos, porque os velhos são mais
+raros; e separa-os dos moços, de cujo genio não gostão; e onde não ha
 uniformidade de costumes, falta a amizade, e esta falta motiva a
-separaÃ§Ã£o: mas se o assumpto for de conselho prudente, faÃ§Ã£o-se poucos
-moÃ§os, porque nÃ£o gostÃ£o de bons conselhos.Â»
+separação: mas se o assumpto for de conselho prudente, fação-se poucos
+moços, porque não gostão de bons conselhos.»
 
-Â«Se hum fallar a muitos, em materia persuasiva, sejÃ£o os seus gÃ©stos
-apropriados Ã¡ mesma materia; mas, se tratar de cousa demonstrativa, tome
-com dois dedos da mÃ£o direita hum da esquerda, tendo os dois menores
+«Se hum fallar a muitos, em materia persuasiva, sejão os seus géstos
+apropriados á mesma materia; mas, se tratar de cousa demonstrativa, tome
+com dois dedos da mão direita hum da esquerda, tendo os dois menores
 fechados: a boca esteja hum tanto aberta para parecer que falla; e o
-rosto voltado para o povo. Se estiver assentado, pareÃ§a que se eleva hum
-pouco, direito, e com a cabeÃ§a inclinada para diante; mas se estiver em
-pÃ©, tenha algum tanto o peito e a cabeÃ§a inclinados para o povo; o qual
-povo tacito e attento olhe para o orador com actos admirativos.Â»
+rosto voltado para o povo. Se estiver assentado, pareça que se eleva hum
+pouco, direito, e com a cabeça inclinada para diante; mas se estiver em
+pé, tenha algum tanto o peito e a cabeça inclinados para o povo; o qual
+povo tacito e attento olhe para o orador com actos admirativos.»
 
-Â«Se fizeres huma sÃ³ figura, para evitar a critica da ignorancia, foge
-nÃ£o sÃ³ do escorÃ§o total, mas tambem dos parciaes; porÃ©m na multidÃ£o, e
+«Se fizeres huma só figura, para evitar a critica da ignorancia, foge
+não só do escorço total, mas tambem dos parciaes; porém na multidão, e
 principalmente em batalhas, faze-os de todos os modos. As cousas que
-fizeres n'hum quadro, nÃ£o as repitas em outro. Faze tudo contraposto: o
-feio ao bello, o fraco ao forte, o velho ao moÃ§o. Observa o decÃ³ro; isto
+fizeres n'hum quadro, não as repitas em outro. Faze tudo contraposto: o
+feio ao bello, o fraco ao forte, o velho ao moço. Observa o decóro; isto
 he, a conveniencia da attitude, vestido, sitio, e as demais
-circumstancias das cousas que queres representar: hum Rei tenha o Ã¡r
-magestoso, e esteja n'huma scena bem ornada; e os circumstantes estejÃ£o
-com reverencia e admiraÃ§Ã£o: mas nos assumptos baixos seja tudo pelo
-contrario. As attitudes de hum menino, de hum velho, de hum moÃ§o, e de
-huma mulher, sejÃ£o todas diversas, e apropriadas, cada huma ao seu
-actor.Â»
+circumstancias das cousas que queres representar: hum Rei tenha o ár
+magestoso, e esteja n'huma scena bem ornada; e os circumstantes estejão
+com reverencia e admiração: mas nos assumptos baixos seja tudo pelo
+contrario. As attitudes de hum menino, de hum velho, de hum moço, e de
+huma mulher, sejão todas diversas, e apropriadas, cada huma ao seu
+actor.»
 
-O Cavalleiro Sir JosuÃ© Reynolds, grande Pintor de retratos, e tambem de
+O Cavalleiro Sir Josué Reynolds, grande Pintor de retratos, e tambem de
 historia, do ultimo seculo, ensinava aos seus discipulos que se em hum
-quadro de historia entrassem alguns retratos, devia ser de sorte que nÃ£o
-parecessem retratos. Â«Hum pintor retratista, lhes dizia elle, que quer
-fazer algum quadro de historia, e nÃ£o estÃ¡ bem costumado, entra
-insensivelmente nas minucias, e dÃ¡ hum certo Ã¡r de retratos Ã¡s suas
-cabeÃ§as, como faziÃ£o os pintores gÃ³thicos, antes que as grandes idÃ©as
+quadro de historia entrassem alguns retratos, devia ser de sorte que não
+parecessem retratos. «Hum pintor retratista, lhes dizia elle, que quer
+fazer algum quadro de historia, e não está bem costumado, entra
+insensivelmente nas minucias, e dá hum certo ár de retratos ás suas
+cabeças, como fazião os pintores góthicos, antes que as grandes idéas
 fossem bem entendidas, e praticadas. Hum pintor historico pinta o homem
 em geral; o retratista imita hum particular, e por consequencia
 defeictuoso modelo: por tanto, a pratica habitual em algum dos ramos
-menos elevados da Arte, pÃ³de ser hum obstaculo para possuir
-perfeitamente o mais sublime.Â»
+menos elevados da Arte, póde ser hum obstaculo para possuir
+perfeitamente o mais sublime.»
 
 A variedade he huma das cousas mais recommendadas pelos authores: com
-tudo, dizia Claudio Coelho, e dizia bem Â«_que estando jÃ¡ todas as bellas
+tudo, dizia Claudio Coelho, e dizia bem «_que estando já todas as bellas
 attitudes achadas, e executadas pelos melhores artistas, nem por isso
-deveriamos escolher as mÃ¡s, para evitar as repetiÃ§Ãµes_.Â»
+deveriamos escolher as más, para evitar as repetições_.»
 
 Gerardo Lairesse, chamado por antonomasia o Raphael Hollandez, diz que o
-Artista, para bem compÃ´r, deve ter a mÃ£o prompta, e obediente; boa
-memoria, e bem exercitada; juizo sÃ£o, e cultivado.
+Artista, para bem compôr, deve ter a mão prompta, e obediente; boa
+memoria, e bem exercitada; juizo são, e cultivado.
 
-Â«Quando occorrerem boas idÃ©as, nÃ£o se demÃ³re a execuÃ§Ã£o; para evitar o
-pesar do esquecimento.Â»
+«Quando occorrerem boas idéas, não se demóre a execução; para evitar o
+pesar do esquecimento.»
 
-Â«Em hum lugar tranquillo traÃ§aremos o plano, e o horisonte do painel, e
+«Em hum lugar tranquillo traçaremos o plano, e o horisonte do painel, e
 marcaremos com linhas os lugares, e as grandezas, que devem ter as
 figuras, e os outros objectos, que occuparem o primeiro e o segundo
-pavimento. RecomeÃ§aremos depois pela figura principal, considerando qual
-he a paixÃ£o que lhe compete, a attitude que deve ter, e o que devem
-fazer as outras; se voÃ£o, se correm, se andÃ£o, ou se estÃ£o quietas; como
-recebem a luz; de que sorte devem contrapÃ´r, e destacar; e tudo isto se
-delinearÃ¡ sobre outro papel.Â»
+pavimento. Recomeçaremos depois pela figura principal, considerando qual
+he a paixão que lhe compete, a attitude que deve ter, e o que devem
+fazer as outras; se voão, se correm, se andão, ou se estão quietas; como
+recebem a luz; de que sorte devem contrapôr, e destacar; e tudo isto se
+delineará sobre outro papel.»
 
-Â«ComeÃ§aremos terceira vez a examinar quaes corpos devem ser nÃºs, ou
-vestidos; quaes terÃ£o nobre caracter; quaes commum; para depois passar Ã¡
-eleiÃ§Ã£o das cÃ´res locaes.Â»
+«Começaremos terceira vez a examinar quaes corpos devem ser nús, ou
+vestidos; quaes terão nobre caracter; quaes commum; para depois passar á
+eleição das côres locaes.»
 
-Â«O Pintor nÃ£o deve ser plagiario; nem contentar-se com ser menos que
-Raphael.Â»
+«O Pintor não deve ser plagiario; nem contentar-se com ser menos que
+Raphael.»
 
-Â«FaÃ§a-se hum esquisso, bosquejo, ou rascunho da historia que se quer
-tratar; e depois leÃ£o-se os melhores historiadores, que sobre ella
-escreverÃ£o: e aponte-se no esquisso o que tiver esquecido. Note-se
-depois o paiz, o mez, e a hora em que se passou a acÃ§Ã£o, para abrir, ou
-apertar mais a luz, e enriquecer o fundo. O fim da acÃ§Ã£o deve-se
+«Faça-se hum esquisso, bosquejo, ou rascunho da historia que se quer
+tratar; e depois leão-se os melhores historiadores, que sobre ella
+escreverão: e aponte-se no esquisso o que tiver esquecido. Note-se
+depois o paiz, o mez, e a hora em que se passou a acção, para abrir, ou
+apertar mais a luz, e enriquecer o fundo. O fim da acção deve-se
 collocar no primeiro pavimento, e o principio della nos longes. Indicai
 tudo no esquisso, e tornai a ler vinte vezes o vosso assumpto. Cada dia
-pela manhÃ£ imaginai que sois algum dos actores, e que estaes
+pela manhã imaginai que sois algum dos actores, e que estaes
 transportado ao lugar da scena: marcai logo os gruppos, e as attitudes;
-escrevendo o nome de cada personagem.Â»
+escrevendo o nome de cada personagem.»
 
-Â«Ponde o herÃ³e no centro do quadro, e em lugar superior. O maior defeito
-que pÃ³de ter hum painel, he o de nÃ£o deixar ver logo qual he o assumpto
+«Ponde o heróe no centro do quadro, e em lugar superior. O maior defeito
+que póde ter hum painel, he o de não deixar ver logo qual he o assumpto
 que representa. Se hum orador que quizesse louvar Alexandre, empregasse
-as mais bellas figuras da Rhetorica para elogiar o BucÃ©falo, seria bem
-mÃ¡o compositor.Â»
+as mais bellas figuras da Rhetorica para elogiar o Bucéfalo, seria bem
+máo compositor.»
 
-Â«De ordinario ha no quadro tres pavimentos: no primeiro, que he
-luminoso, estÃ£o os principaes heroes; o segundo he sombrio; no terceiro,
-outra vez claro, estarÃ£o os objectos menos importantes: colloquem-se as
-grandes figuras atraz das pequenas: a luz opponha-se Ã¡ sombra, ou ao
-menos Ã¡ cÃ´r sombria.Â»
+«De ordinario ha no quadro tres pavimentos: no primeiro, que he
+luminoso, estão os principaes heroes; o segundo he sombrio; no terceiro,
+outra vez claro, estarão os objectos menos importantes: colloquem-se as
+grandes figuras atraz das pequenas: a luz opponha-se á sombra, ou ao
+menos á côr sombria.»
 
-Â«Isto feito, fazei novo esquisso: desenhai os nÃºs do natural, e as
-roupas de manequins, o mais acabado que fÃ´r possivel, dando a cada
+«Isto feito, fazei novo esquisso: desenhai os nús do natural, e as
+roupas de manequins, o mais acabado que fôr possivel, dando a cada
 objecto particular a mesma luz geral de todo o quadro, e os mesmos
-pontos de vista, e de distancia. Os desenhos, e estampas sÃ£o utilissimos
-para ver, e examinar como os grandes mestres souberÃ£o fecundar, e
-enriquecer os assumptos, que pareciÃ£o mais estereis, e pobres.Â»
+pontos de vista, e de distancia. Os desenhos, e estampas são utilissimos
+para ver, e examinar como os grandes mestres souberão fecundar, e
+enriquecer os assumptos, que parecião mais estereis, e pobres.»
 
-Â«O assumpto heroico deve ser nobre, e grave; o jocoso engraÃ§ado; as
+«O assumpto heroico deve ser nobre, e grave; o jocoso engraçado; as
 bambochatas carregadas. Em hum grande concurso devem haver diversas
-fÃ³rmas de corpos, e varias proporÃ§Ãµes. A paixÃ£o do herÃ³e faz nascer
+fórmas de corpos, e varias proporções. A paixão do heróe faz nascer
 muitas: quando hum Filosofo discorre, os discipulos attendem. Deve-se
-imaginar, e indicar em cada actor, a acÃ§Ã£o precedente, a actual, e a
-consequente.Â»
+imaginar, e indicar em cada actor, a acção precedente, a actual, e a
+consequente.»
 
-Â«Pinte-se o que he honesto, e capaz de inspirar virtude; e fuja-se do
-que for lascivo, e cruel.Â»
+«Pinte-se o que he honesto, e capaz de inspirar virtude; e fuja-se do
+que for lascivo, e cruel.»
 
-Entre os bons escriptores da Arte tem JoÃ£o Paulo Lomazo hum dos
-primeiros lugares; e lÃª-se nos seus escriptos que o famoso Leonardo de
+Entre os bons escriptores da Arte tem João Paulo Lomazo hum dos
+primeiros lugares; e lê-se nos seus escriptos que o famoso Leonardo de
 Vinci querendo pintar em hum painel muitas figuras rusticas, e alegres,
-convidou huns poucos de camponezes engraÃ§ados; e em quanto elles comiÃ£o
-e bebiÃ£o foi-lhes contando as cousas mais loucas e ridiculas do mundo;
+convidou huns poucos de camponezes engraçados; e em quanto elles comião
+e bebião foi-lhes contando as cousas mais loucas e ridiculas do mundo;
 de modo tal que os fez rir desatinadamente: elle observou tudo; e
-pintando-os depois com os mesmos gÃ©stos e attitudes, provocava tanto a
+pintando-os depois com os mesmos géstos e attitudes, provocava tanto a
 riso a pintura, como os mesmos originaes. Passando depois aos preceitos,
 diz.
 
-Â«O movimento interno he motivado pelas paixÃµes da alma; e o movimento
-externo, que exactamente lhe corresponde, faz conhecer que paixÃµes sÃ£o:
-por elle se conhece o que estÃ¡ triste ou alegre, morto ou vivo; por elle
+«O movimento interno he motivado pelas paixões da alma; e o movimento
+externo, que exactamente lhe corresponde, faz conhecer que paixões são:
+por elle se conhece o que está triste ou alegre, morto ou vivo; por elle
 se distinguem o louco e o sabio; o humilde, e o soberbo. O conhecimento
 deste movimento he tido na Arte por cousa mui difficil, e estimado como
 hum dom celeste: este he o furor pictorico com que deve nascer o Pintor;
-mas este furor ou enthusiasmo ha de ter huma medida tal, que nÃ£o toque
-no fogo da impaciencia, nem no gelo da extrema regularidade.Â»
+mas este furor ou enthusiasmo ha de ter huma medida tal, que não toque
+no fogo da impaciencia, nem no gelo da extrema regularidade.»
 
-Â«Os movimentos naturaes sÃ£o engraÃ§ados, e os contrafeitos sÃ£o
-desengraÃ§ados; mas as mesmas paixÃµes fazem effeitos varios em diversas
+«Os movimentos naturaes são engraçados, e os contrafeitos são
+desengraçados; mas as mesmas paixões fazem effeitos varios em diversas
 pessoas segundo os seus temperamentos: os movimentos do melancolico, que
-he tÃ©rreo, serÃ£o pendentes e acanhados; mas o colerico todo se retorce,
-como o fogo de que he composto. Todo o corpo concorre para a expressÃ£o
-das paixÃµes; mas principalmente os olhos, que sÃ£o como as janellas da
-alma: elles mostrÃ£o o prazer, o abatimento, o enfado, a severidade, a
-amenidade, a colera, a admiraÃ§Ã£o, etc. etc. Depois dos olhos e do rosto,
-as mÃ£os sÃ£o as servas, e as interpretes da alma: os seus infinitos
-movimentos explicÃ£o o desejo, a esperanÃ§a, a supplica, o horror, os
-ameaÃ§os, e tantas outras cousas: com as mÃ£os tememos, perguntamos,
+he térreo, serão pendentes e acanhados; mas o colerico todo se retorce,
+como o fogo de que he composto. Todo o corpo concorre para a expressão
+das paixões; mas principalmente os olhos, que são como as janellas da
+alma: elles mostrão o prazer, o abatimento, o enfado, a severidade, a
+amenidade, a colera, a admiração, etc. etc. Depois dos olhos e do rosto,
+as mãos são as servas, e as interpretes da alma: os seus infinitos
+movimentos explicão o desejo, a esperança, a supplica, o horror, os
+ameaços, e tantas outras cousas: com as mãos tememos, perguntamos,
 approvamos, recusamos, duvidamos; e podemos concluir que assim como as
-mÃ£os supprem nos mudos a falta da voz articulada, tambem nÃ£o devem
-contribuir pouco para fallar huma linguagem muda, qual a da Pintura.Â»
+mãos supprem nos mudos a falta da voz articulada, tambem não devem
+contribuir pouco para fallar huma linguagem muda, qual a da Pintura.»
 
-Â«NÃ£o se pÃ³dem dar regras precisas para exprimir todas as paixÃµes, e para
+«Não se pódem dar regras precisas para exprimir todas as paixões, e para
 as variar sempre; porque a obra seria infinita. Quintiliano he de
-parecer que, a pesar da sua difficuldade, pÃ³de-se achar hum caminho que
+parecer que, a pesar da sua difficuldade, póde-se achar hum caminho que
 nos conduza a esta parte importantissima da Pintura, e da Rhetorica; e
-que este caminho he, como jÃ¡ dissemos, o estudo da Natureza. _O
-Domenichino, que foi optimo nas expressÃµes, estudava-as diante do
-espelho, depois de entrar elle mesmo nas paixÃµes que queria imitar_.
-Horacio he tambem de parecer que os movimentos se exprimirÃ£o muito
-melhor, e serÃ£o mais naturaes, se o Poeta, (ou Pintor, que neste caso he
-o mesmo) imaginar que se acha no mesmo estado, em que se deveriÃ£o achar
+que este caminho he, como já dissemos, o estudo da Natureza. _O
+Domenichino, que foi optimo nas expressões, estudava-as diante do
+espelho, depois de entrar elle mesmo nas paixões que queria imitar_.
+Horacio he tambem de parecer que os movimentos se exprimirão muito
+melhor, e serão mais naturaes, se o Poeta, (ou Pintor, que neste caso he
+o mesmo) imaginar que se acha no mesmo estado, em que se deverião achar
 as pessoas verdadeiramente apaixonadas. He preciso, diz tambem
-Quintiliano, que sejamos os primeiros a sentir huma paixÃ£o, se quizermos
-commover os coraÃ§Ãµes alheios: mas como? Formando-se fantasmas, e imagens
+Quintiliano, que sejamos os primeiros a sentir huma paixão, se quizermos
+commover os corações alheios: mas como? Formando-se fantasmas, e imagens
 das cousas ausentes, como se effectivamente as tivessemos diante dos
-olhos; e aquelle que conceber mais vivamente aquellas imagens, exprimirÃ¡
-melhor as paixÃµes.Â»
+olhos; e aquelle que conceber mais vivamente aquellas imagens, exprimirá
+melhor as paixões.»
 
 Entre os mais celebres escriptores da Arte ha hum Portuguez, de quem os
-estrangeiros se tem aproveitado, e nÃ³s apenas conhecemos: he Francisco
-de Hollanda, que foi Pintor d'El-Rei D. JoÃ£o III. Queixava-se elle, no
-seu livro, de que em Portugal nÃ£o se dava a devida estimaÃ§Ã£o Ã¡ Pintura,
-por culpa talvez dos Pintores, que se contentavÃ£o sÃ³ com a mantenÃ§a, ou
-nÃ£o sabiÃ£o exerce-la com primor. Para remediar em parte aquelles
+estrangeiros se tem aproveitado, e nós apenas conhecemos: he Francisco
+de Hollanda, que foi Pintor d'El-Rei D. João III. Queixava-se elle, no
+seu livro, de que em Portugal não se dava a devida estimação á Pintura,
+por culpa talvez dos Pintores, que se contentavão só com a mantença, ou
+não sabião exerce-la com primor. Para remediar em parte aquelles
 inconvenientes, aponta algumas advertencias, e faz discretas
-observaÃ§Ãµes.
+observações.
 
-Â«O Pintor para ser perfeito ha de ter, diz elle, o genio dentro em si
-mesmo, como a semente tem o fructo. Na puericia o deixarÃ¡ ver; na
-adolescencia excederÃ¡ os outros, e sonharÃ¡ com pinturas. Deve ter
-espirito magnanimo; porque sem elle nunca farÃ¡ obras sublimes: ha de
-estudar muito o _Antigo_ para a grande invenÃ§Ã£o, graÃ§a, decÃ³ro; e
-escolher do melhor o optimo, sem confusÃ£o; ha de evitar os grandes
-defeitos, (que os pequenos passÃ£o bem) e fazer os erros com o maior
-acÃªrto possivel.Â»
+«O Pintor para ser perfeito ha de ter, diz elle, o genio dentro em si
+mesmo, como a semente tem o fructo. Na puericia o deixará ver; na
+adolescencia excederá os outros, e sonhará com pinturas. Deve ter
+espirito magnanimo; porque sem elle nunca fará obras sublimes: ha de
+estudar muito o _Antigo_ para a grande invenção, graça, decóro; e
+escolher do melhor o optimo, sem confusão; ha de evitar os grandes
+defeitos, (que os pequenos passão bem) e fazer os erros com o maior
+acêrto possivel.»
 
-Â«A nobreza, e propria casa da Pintura he saber reunir bem a natureza
-dispersa, e rejeitar o que nÃ£o convem; e se esta escolha for bem feita,
-terÃ¡ feito com isso a melhor parte da obra.Â»
+«A nobreza, e propria casa da Pintura he saber reunir bem a natureza
+dispersa, e rejeitar o que não convem; e se esta escolha for bem feita,
+terá feito com isso a melhor parte da obra.»
 
-Â«Antes de comeÃ§ar a empreza ha de ter a idÃ©a da obra, como vista em
-sonho, e pintada na fantasia.Â»
+«Antes de começar a empreza ha de ter a idéa da obra, como vista em
+sonho, e pintada na fantasia.»
 
-Â«As figuras nÃ£o occupem confusamente toda a taboa; mas fiquem
-intervallos para darem despejo e clareza Ã¡ obra; e para os olhos dos
-espectadores descanÃ§arem. As attitudes sejÃ£o graves e modestas; e que
-humas figuras nÃ£o damnem as outras, (antes se possa pÃ´r, que tirar
-alguma cousa) e todas faÃ§Ã£o com efficacia os seus officios. He
+«As figuras não occupem confusamente toda a taboa; mas fiquem
+intervallos para darem despejo e clareza á obra; e para os olhos dos
+espectadores descançarem. As attitudes sejão graves e modestas; e que
+humas figuras não damnem as outras, (antes se possa pôr, que tirar
+alguma cousa) e todas fação com efficacia os seus officios. He
 necessaria tanta arte para fazer bem as figuras ociosas, como as
-occupadas. O menimo seja roliÃ§o, o mancebo ousado, o velho prudente, o
-doente languido, o morto hirto; o que corre pareÃ§a que corre, e o que
-anda pareÃ§a que se move.Â»
+occupadas. O menimo seja roliço, o mancebo ousado, o velho prudente, o
+doente languido, o morto hirto; o que corre pareça que corre, e o que
+anda pareça que se move.»
 
-Â«FaÃ§a as idades, physionomias, cores de carnes, movimentos, mÃ£os, pÃ©s,
+«Faça as idades, physionomias, cores de carnes, movimentos, mãos, pés,
 tudo diverso e contraposto; hum de perfil, outro de costas; este voltado
-para baixo, aquelle para cima; aquell'outro deitado, escorÃ§ado, etc.
-Figuras escorÃ§adas sejÃ£o as menos possiveis. As roupas, os edificios, e
-os outros accessorios sejÃ£o os que competem ao assumpto; mas nÃ£o pareÃ§a
-que se poz alli todo o saber.Â»
+para baixo, aquelle para cima; aquell'outro deitado, escorçado, etc.
+Figuras escorçadas sejão as menos possiveis. As roupas, os edificios, e
+os outros accessorios sejão os que competem ao assumpto; mas não pareça
+que se poz alli todo o saber.»
 
-Â«Se o assumpto, ou imagem for triste, nÃ£o o representemos em jardins, ou
-scenas alegres; antes pareÃ§a que os mesmos brutos, arvores, penedos, e
-atÃ© os Ceos sentem a sua tristeza. A dÃ´r da pessoa aflicta nÃ£o se mostre
-com lagrimas; mas no semblante angustiado, no vestido, na solidÃ£o. O
-doente nÃ£o pareÃ§a sÃ£o, nem o morto semivivo, nem o que dorme acordado:
+«Se o assumpto, ou imagem for triste, não o representemos em jardins, ou
+scenas alegres; antes pareça que os mesmos brutos, arvores, penedos, e
+até os Ceos sentem a sua tristeza. A dôr da pessoa aflicta não se mostre
+com lagrimas; mas no semblante angustiado, no vestido, na solidão. O
+doente não pareça são, nem o morto semivivo, nem o que dorme acordado:
 escolha-se de tudo o mais formoso, e grave para se imitar; encostando-se
-sempre ao _Antigo_.Â»
+sempre ao _Antigo_.»
 
-Â«O primor da Pintura consiste tanto no que se faz, como no que senÃ£o
+«O primor da Pintura consiste tanto no que se faz, como no que senão
 quiz fazer; antes no que deixou de fazer se conhece melhor o grande
 pintor, assim como o ignorante em encher tudo de arvoredos, rios,
 caminhantes, castellos, cidades, e paizagens: o mais santo, e louvavel
@@ -845,524 +845,524 @@ he fazer poucas figuras, pouco rumor de paizes, menos ainda de
 edificios; mas o pouco seja tal que valha mais que o muito: porque este
 he o fazer de avisado e gravissimo mestre, e o outro de obreiro e
 aprendiz. O que dizemos do total, appliquemos tambem a cada particular
-objecto: nelle nÃ£o se faÃ§a cousa que se nÃ£o desejasse ver da maneira que
-estÃ¡ feita; porque esta he a admiravel doutrina da Arte.Â»
+objecto: nelle não se faça cousa que se não desejasse ver da maneira que
+está feita; porque esta he a admiravel doutrina da Arte.»
 
 O mesmo Author escreveo certas maximas sobre o que se deve seguir, e o
-que se deve evitar na Arte da ComposiÃ§Ã£o. Â«Para seguir: Despejo de pouca
-obra; formosura bem escolhida; decÃ³ro; deixar de fazer muitas cousas;
-bello Ã¡r em todas as cousas; diversidade nas figuras; ousadia nas
-sombras; antigas, e escolhidas novidades; escolha de architectura; nÃ»
-perfeito, e honesto; bons pannos; bom encaixe de pescoÃ§o; mÃ£os tÃ£o boas
-como o rosto; pÃ©s tÃ£o bons como a figura; bons animaes; bons cavallos;
-gravidade, e magestade; etc. Para evitar: AffectaÃ§Ã£o; confusÃ£o; muita
-obra; fealdade; desproporÃ§Ã£o; desÃ¡r nas figuras; rostos repetidos; o
-muito vulgar; mÃ¡os nÃ»s; muito panno; mÃ¡s mÃ£os; pouca reverencia;
-indiscriÃ§Ãµes; etc.Â»
+que se deve evitar na Arte da Composição. «Para seguir: Despejo de pouca
+obra; formosura bem escolhida; decóro; deixar de fazer muitas cousas;
+bello ár em todas as cousas; diversidade nas figuras; ousadia nas
+sombras; antigas, e escolhidas novidades; escolha de architectura; nû
+perfeito, e honesto; bons pannos; bom encaixe de pescoço; mãos tão boas
+como o rosto; pés tão bons como a figura; bons animaes; bons cavallos;
+gravidade, e magestade; etc. Para evitar: Affectação; confusão; muita
+obra; fealdade; desproporção; desár nas figuras; rostos repetidos; o
+muito vulgar; máos nûs; muito panno; más mãos; pouca reverencia;
+indiscrições; etc.»
 
-RugÃ©rio de Piles, amigo de Carlos du Fresnoy, e o melhor commentador do
+Rugério de Piles, amigo de Carlos du Fresnoy, e o melhor commentador do
 seu poema de _Artegraphica_, tambem enriqueceo a biblioteca da Arte com
-doutas observaÃ§Ãµes suas: Â«A boa disposiÃ§Ã£o, diz elle, forma os gruppos;
+doutas observações suas: «A boa disposição, diz elle, forma os gruppos;
 e o verdadeiro modo de gruppar acha-se em Raphael, Julio Romano,
 Polidoro, e outros grandes mestres. A escolha das bellas attitudes faz a
-maior parte das bellezas do gruppo: a contraposiÃ§Ã£o faz o resto. Deve
-haver contraste nÃ£o sÃ³ nas figuras, mas tambem nas cousas inanimadas;
-havendo em todos os objectos huma opposiÃ§Ã£o de linhas, e contornos, pela
-qual elles se faÃ§Ã£o valer huns os outros, e augmentem a graÃ§a, que he
-tÃ£o necessaria em tudo.Â»
+maior parte das bellezas do gruppo: a contraposição faz o resto. Deve
+haver contraste não só nas figuras, mas tambem nas cousas inanimadas;
+havendo em todos os objectos huma opposição de linhas, e contornos, pela
+qual elles se fação valer huns os outros, e augmentem a graça, que he
+tão necessaria em tudo.»
 
-Â«O modo de deitar as prÃ©gas tambem pertence Ã¡ composiÃ§Ã£o dos gruppos: o
+«O modo de deitar as prégas tambem pertence á composição dos gruppos: o
 primeiro requisito das roupas he que indiquem o que ellas cobrem, de
-sorte que se conheÃ§Ã£o as proporÃ§Ãµes, e a elegancia das fÃ³rmas das
+sorte que se conheção as proporções, e a elegancia das fórmas das
 pessoas, que as vestem; por tanto convem que antes de vestir a figura se
-desenhe toda nÃ»a. As dobras que se encruzÃ£o com os membros do corpo nÃ£o
-pareÃ§Ã£o, por fortes, tÃ£o profundas que possÃ£o penetrar as carnes. As
-pregas sejÃ£o poucas, e grandes; mas se alguma vez se fizerem miudas,
-siga-se a maxima dos antigos, que em tal caso as collocavÃ£o aos lados
-dos membros, e nÃ£o em cima delles. As grandes nÃ£o sÃ³ hÃ£o de contrastar o
-nÃ», mas tambem humas as outras, para terem vida, e movimento: a
-contraposiÃ§Ã£o he huma especie de guerra, que anima tudo; mas he
-necessaria muita prudencia, principalmente nas figuras em pÃ©, aonde as
-contraposiÃ§Ãµes sÃ£o muitas vezes inverosimeis, porque o peso da roupa a
-faz cahir direita.Â»
+desenhe toda nûa. As dobras que se encruzão com os membros do corpo não
+pareção, por fortes, tão profundas que possão penetrar as carnes. As
+pregas sejão poucas, e grandes; mas se alguma vez se fizerem miudas,
+siga-se a maxima dos antigos, que em tal caso as collocavão aos lados
+dos membros, e não em cima delles. As grandes não só hão de contrastar o
+nû, mas tambem humas as outras, para terem vida, e movimento: a
+contraposição he huma especie de guerra, que anima tudo; mas he
+necessaria muita prudencia, principalmente nas figuras em pé, aonde as
+contraposições são muitas vezes inverosimeis, porque o peso da roupa a
+faz cahir direita.»
 
-Â«A ordem das pregas, sendo hum effeito dos movimentos do corpo, tambem
-dÃ¡ vida aos mesmos membros, que parecem move-las: huma discreta
-repetiÃ§Ã£o de pregas, em ordem circular, ajuda muito o bom effeito dos
-escorÃ§os. As roupas devem-se sempre estudar do natural: as do manequim
+«A ordem das pregas, sendo hum effeito dos movimentos do corpo, tambem
+dá vida aos mesmos membros, que parecem move-las: huma discreta
+repetição de pregas, em ordem circular, ajuda muito o bom effeito dos
+escorços. As roupas devem-se sempre estudar do natural: as do manequim
 parecem immoveis, e he preciso que se lhes tire aquella apparencia: os
 pequenos figurinos vestidos de papel molhado podem servir para o todo de
-huma composiÃ§Ã£o, e nÃ£o para cada objecto de persi.Â»
+huma composição, e não para cada objecto de persi.»
 
-LeÃ£o Baptista Alberti affirma que no compÃ´r, ou distribuir bem os
-objectos consiste todo o engenho. Â«A varidade deleita tanto a vista,
+Leão Baptista Alberti affirma que no compôr, ou distribuir bem os
+objectos consiste todo o engenho. «A varidade deleita tanto a vista,
 como o ouvido, e o paladar. Os espectadores n'hum quadro, inda que
-estejÃ£o quietos, exprimÃ£o os seus sentimentos. A cabeÃ§a, a fronte, e
-todos os membros do que estÃ¡ triste descahem.Â»
+estejão quietos, exprimão os seus sentimentos. A cabeça, a fronte, e
+todos os membros do que está triste descahem.»
 
-Â«De sete modos se inovem os corpos: para cima, e para baixo; para a
+«De sete modos se inovem os corpos: para cima, e para baixo; para a
 direita, e para a esquerda; para diante, e para traz; e em fim girando
-ao redor: todos estes movimentos entrem nas composiÃ§Ãµes: huns vÃ£o,
-outros venhÃ£o. Os movimentos sejÃ£o naturaes e suaves: os artistas
-fogosos cuidÃ£o que as attitudes violentas sÃ£o mais vivas, e enganÃ£o-se.
-Os cabellos, e as roupas tenhÃ£o tambem os sete movimentos; mas os ramos
-das arvores, agitados pelo vento, correndo todos para a mesma parte, sÃ£o
-bellissimos. Quando quizeres compÃ´r, pensa, lÃª, esquissa, modÃ©la, e pede
-conselho aos amigosÂ» _e talvez aos inimigos, porque nÃ£o lisongeÃ£o_.
+ao redor: todos estes movimentos entrem nas composições: huns vão,
+outros venhão. Os movimentos sejão naturaes e suaves: os artistas
+fogosos cuidão que as attitudes violentas são mais vivas, e enganão-se.
+Os cabellos, e as roupas tenhão tambem os sete movimentos; mas os ramos
+das arvores, agitados pelo vento, correndo todos para a mesma parte, são
+bellissimos. Quando quizeres compôr, pensa, lê, esquissa, modéla, e pede
+conselho aos amigos» _e talvez aos inimigos, porque não lisongeão_.
 
-Â«O Pintor deve ser bom, honesto, civil, e douto nas bellas Artes; deve
-ler poetas, historiadores, oradores, e sabios, para poder bem inventar.Â»
+«O Pintor deve ser bom, honesto, civil, e douto nas bellas Artes; deve
+ler poetas, historiadores, oradores, e sabios, para poder bem inventar.»
 
-Â«A acÃ§Ã£o, diz o Raphael Francez NicolÃ¡o Pusinno, he a voz da Pintura;
-sem ella nÃ£o ha persuasÃ£o. A Arte sublime requer quatro cousas: 1.^a
-materia ou argumento: 2.^a conceito: 3.^a estructura ou composiÃ§Ã£o: 4.^a
+«A acção, diz o Raphael Francez Nicoláo Pusinno, he a voz da Pintura;
+sem ella não ha persuasão. A Arte sublime requer quatro cousas: 1.^a
+materia ou argumento: 2.^a conceito: 3.^a estructura ou composição: 4.^a
 estilo. O Argumento deve ser grande, heroico, e delle se devem desterrar
 as cousas miudas. Conceito he hum pensamento alto, elevado, como o de
-Homero para o seu Jupiter, que sÃ³ com o pensamento _movia a terra, o
-Ceo, e o mar irado_. A composiÃ§Ã£o seja natural, e nÃ£o exaggerada, ou
+Homero para o seu Jupiter, que só com o pensamento _movia a terra, o
+Ceo, e o mar irado_. A composição seja natural, e não exaggerada, ou
 extravagante. O Estilo he hum modo particular de pintar procedido do
 genio de cada hum, e que nasce naturalmente do seu engenho. Muito agrada
-a novidade na Pintura; mas esta novidade nÃ£o consiste em achar assumptos
-ou motivos novos, senÃ£o em compor os antigos por novo modo. Se o Pintor
-quizer que o admirem, nÃ£o se faÃ§a estranhamente singular; mas procure
-fazer tudo com prudencia, e perfeiÃ§Ã£o.Â»
+a novidade na Pintura; mas esta novidade não consiste em achar assumptos
+ou motivos novos, senão em compor os antigos por novo modo. Se o Pintor
+quizer que o admirem, não se faça estranhamente singular; mas procure
+fazer tudo com prudencia, e perfeição.»
 
-Â«A composiÃ§Ã£o de hum quadro (diz Richardson) he de grandissima
-consequencia; he a primeira cousa que se apresenta Ã¡ nossa vista, e que
-nos pÃ³de prevenir em seu favor, ou desgostar-nos delle; por tanto, as
-figuras de hum painel, e os seus fundos, devem compÃ´r massas de luz, e
-de sombra, que mesmo de longe, sejÃ£o gratas Ã¡ vista.Â»
+«A composição de hum quadro (diz Richardson) he de grandissima
+consequencia; he a primeira cousa que se apresenta á nossa vista, e que
+nos póde prevenir em seu favor, ou desgostar-nos delle; por tanto, as
+figuras de hum painel, e os seus fundos, devem compôr massas de luz, e
+de sombra, que mesmo de longe, sejão gratas á vista.»
 
-Â«Em cada painel ha de haver hum sitio mais rico, e brilhante; e alli he
-o lugar da principal personagem, e da acÃ§Ã£o mais notavel, aonde tudo
-deve ser mais bello, e bem acabado. Os outros objectos sejÃ£o todos
+«Em cada painel ha de haver hum sitio mais rico, e brilhante; e alli he
+o lugar da principal personagem, e da acção mais notavel, aonde tudo
+deve ser mais bello, e bem acabado. Os outros objectos sejão todos
 subordinados a este; mas cada hum delles ha de ter huma parte que domine
-as outras, e se deixe logo ver.Â»
+as outras, e se deixe logo ver.»
 
-Â«Se o Pintor fÃ´r obrigado a collocar alguma das figuras principaes a hum
-lado, e em meia luz, faÃ§a-a distinguir pela cÃ´r viva do vestido, como
+«Se o Pintor fôr obrigado a collocar alguma das figuras principaes a hum
+lado, e em meia luz, faça-a distinguir pela côr viva do vestido, como
 fez o Ticiano no Bacco e Ariana; ou de outra maneira discreta, e
-artificiosa.Â»
+artificiosa.»
 
-Â«O Pintor deve saber perfeitamente a historia que quer pintar, e meditar
-depois se pÃ³de accrescentar algum incidente de sua invenÃ§Ã£o, que nÃ£o
-seja inverosimil. PÃ³de tambem Ã¡s vezes (mas raras vezes) apartar-se da
+«O Pintor deve saber perfeitamente a historia que quer pintar, e meditar
+depois se póde accrescentar algum incidente de sua invenção, que não
+seja inverosimil. Póde tambem ás vezes (mas raras vezes) apartar-se da
 verdade natural, e historica, como fez Raphael, muito discretamente, no
-CartÃ£o da PÃ©sca miraculosa, onde pintou huma barca muito pequena, Ã¡
-proporÃ§Ã£o das figuras, a fim de nÃ£o encher o painel com hum barco, ou de
-nÃ£o fazer as figuras pequeninas; cousa que tornaria a composiÃ§Ã£o
+Cartão da Pésca miraculosa, onde pintou huma barca muito pequena, á
+proporção das figuras, a fim de não encher o painel com hum barco, ou de
+não fazer as figuras pequeninas; cousa que tornaria a composição
 mesquinha: tambem se apartou o mesmo author da verdade historica, no
-outro CartÃ£o do Paralytico, aonde a architectura da entrada para o
-Templo he de sua invenÃ§Ã£o, e nÃ£o como consta que ella era; mas aquella
-licenÃ§a foi muito feliz, porque deo hum Ã¡r mais nobre, e magestoso a
-todo o painel. Estas excepÃ§Ãµes da regra sÃ£o permittidas; mas poucas
-vezes.Â»
+outro Cartão do Paralytico, aonde a architectura da entrada para o
+Templo he de sua invenção, e não como consta que ella era; mas aquella
+licença foi muito feliz, porque deo hum ár mais nobre, e magestoso a
+todo o painel. Estas excepções da regra são permittidas; mas poucas
+vezes.»
 
-Â«Cada painel historico ha de representar hum unico instante de tempo, e
+«Cada painel historico ha de representar hum unico instante de tempo, e
 seja quelle que for mais vantajoso. Nenhum objecto, por excellente que
-seja, interrompa a attenÃ§Ã£o devida ao herÃ³e. NÃ£o se introduzÃ£o figuras,
+seja, interrompa a attenção devida ao heróe. Não se introduzão figuras,
 ou ornamentos superfluos; antes pelo contrario, conceda-se alguma cousa
-Ã¡ imaginaÃ§Ã£o, e ao desejo dos espectadores. Em tudo haja grande
-variedade.Â»
+á imaginação, e ao desejo dos espectadores. Em tudo haja grande
+variedade.»
 
-Â«Bardon affirma que o pittoresco de huma composiÃ§Ã£o consiste em huma
+«Bardon affirma que o pittoresco de huma composição consiste em huma
 singular, e exquisita escolha dos effeitos da Natureza, ajudada pelo
-gosto, e espirito sustentados pela razÃ£o. O Heroe do quadro deve brilhar
-alli, como hum monarca entre os seus cortezÃ£os, e attrahir as vistas do
-espectador por algum accidente de luz, ou particular effeito de cÃ´r; ou
-tambem por alguma privaÃ§Ã£o da mesma luz, manejada com arte.Â»
+gosto, e espirito sustentados pela razão. O Heroe do quadro deve brilhar
+alli, como hum monarca entre os seus cortezãos, e attrahir as vistas do
+espectador por algum accidente de luz, ou particular effeito de côr; ou
+tambem por alguma privação da mesma luz, manejada com arte.»
 
-Â«O Pusinno, e Paulo Veronez modelavÃ£o a composiÃ§Ã£o inteira, giravÃ£o ao
-redor della, e escolhiÃ£o o ponto de vista, e o aspecto mais vantajoso,
+«O Pusinno, e Paulo Veronez modelavão a composição inteira, giravão ao
+redor della, e escolhião o ponto de vista, e o aspecto mais vantajoso,
 para o seguir, e imitar. A luz principal deve ser unica; mas para que o
-effeito do quadro nÃ£o pareÃ§a de lanterna, ou luz de noite, hajÃ£o alguns
-reclamos della nas principaes partes da composiÃ§Ã£o; sempre em marchas
-diagonaes.Â»
+effeito do quadro não pareça de lanterna, ou luz de noite, hajão alguns
+reclamos della nas principaes partes da composição; sempre em marchas
+diagonaes.»
 
-AndrÃ© Felibien, tratando da composiÃ§Ã£o, inculca como o mais raro e
+André Felibien, tratando da composição, inculca como o mais raro e
 perfeito exemplo desta parte essencial da Arte, o precipicio dos
 gigantes pintado por Julio Romano no palacio do T. Como Julio era tambem
-o architecto daquelle palacio, mandou fazer o salÃ£o redondo, e lizo como
-hum forno: os mesmos alizares, e a chaminÃ©, erÃ£o feitos Ã¡ vontade da
-pintura. Toda a casa parecia hum sÃ³ painel representando huma vasta
-campina por onde muitos gigantes levÃ£o montanhas Ã¡s costas, e vÃ£o
-colloca-las em cima d'outras para dar hum assalto ao Olimpo. Â«A derrota
-comeÃ§a: os gigantes maiores estÃ£o no primeiro pavimento jÃ¡ prostrados
-por terra: alguns jazem debaixo das montanhas; e BriarÃªo estÃ¡ quasi todo
-soterrado. Pelo rÃ´to de huma gruta se avistÃ£o muitos ao longe, que fogem
-amedrontados, e sÃ£o colhidos pelos raios de Jupiter. No mesmo tempo, os
+o architecto daquelle palacio, mandou fazer o salão redondo, e lizo como
+hum forno: os mesmos alizares, e a chaminé, erão feitos á vontade da
+pintura. Toda a casa parecia hum só painel representando huma vasta
+campina por onde muitos gigantes levão montanhas ás costas, e vão
+colloca-las em cima d'outras para dar hum assalto ao Olimpo. «A derrota
+começa: os gigantes maiores estão no primeiro pavimento já prostrados
+por terra: alguns jazem debaixo das montanhas; e Briarêo está quasi todo
+soterrado. Pelo rôto de huma gruta se avistão muitos ao longe, que fogem
+amedrontados, e são colhidos pelos raios de Jupiter. No mesmo tempo, os
 templos, e os grandes edificios cahem arruinados em cima de outros;
-ficando a chaminÃ©, entre paredes e columnas precipitadas, fingindo parte
-da ruina; e tÃ£o artistamente executada, que quando se accende o lume,
+ficando a chaminé, entre paredes e columnas precipitadas, fingindo parte
+da ruina; e tão artistamente executada, que quando se accende o lume,
 parece que ardem os gigantes, e que he huma boca do inferno, por onde
-PlutÃ£o, em companhia das Furias, se vai precipitar no Tartaro.Â»
+Plutão, em companhia das Furias, se vai precipitar no Tartaro.»
 
-Â«Quando se compÃµe, deve-se deixar o genio em plena liberdade; e sÃ³
-depois de feita a composiÃ§Ã£o he que se ha de consultar a natureza; e
+«Quando se compõe, deve-se deixar o genio em plena liberdade; e só
+depois de feita a composição he que se ha de consultar a natureza; e
 depois o _Antigo_, para emendar por elle os defeitos do natural. He
-preciso variar todos os objectos, mas sem violencia nem affectaÃ§Ã£o: ha
-de parecer que as figuras se collocÃ¡rÃ£o por si mesmas; e nisto consiste
-a graÃ§a da _disposiÃ§Ã£o_.Â»
+preciso variar todos os objectos, mas sem violencia nem affectação: ha
+de parecer que as figuras se collocárão por si mesmas; e nisto consiste
+a graça da _disposição_.»
 
-Antonio Rafael Mengs, a quem os artistas modernos chamÃ£o o Raphael
-AlemÃ£o, ensina Â«que o Pintor, antes de comeÃ§ar qualquer composiÃ§Ã£o,
-deve-se fazer senhor nÃ£o sÃ³ daquella passagem historica que quer pintar,
+Antonio Rafael Mengs, a quem os artistas modernos chamão o Raphael
+Alemão, ensina «que o Pintor, antes de começar qualquer composição,
+deve-se fazer senhor não só daquella passagem historica que quer pintar,
 mas tambem de toda a historia que lhe he relativa, para conhecer
-perfeitamente as indoles de todas as personagens que ha de pÃ´r na scena;
-o que se nÃ£o poderia fazer com muito acerto sem as conhecer a fundo, e
-sem saber com quaes vistas se movÃªo a acÃ§Ã£o; por que se deve manifestar,
-na pessoa que a estÃ¡ fazendo, e na sua fysionomia, o seu proprio
+perfeitamente as indoles de todas as personagens que ha de pôr na scena;
+o que se não poderia fazer com muito acerto sem as conhecer a fundo, e
+sem saber com quaes vistas se movêo a acção; por que se deve manifestar,
+na pessoa que a está fazendo, e na sua fysionomia, o seu proprio
 caracter, e qual seja o motivo porque a faz. He preciso tambem
 transferir-se ao tempo, ao lugar, e aos usos das gentes que se
-representÃ£o; e dar-lhes os vestidos proprios das suas naÃ§Ãµes, e dos
-seculos em que viverÃ£o, ou senÃ£o constar bem, ao menos os das naÃ§Ãµes com
-quem tratavÃ£o, ou donde procediÃ£o.Â»
+representão; e dar-lhes os vestidos proprios das suas nações, e dos
+seculos em que viverão, ou senão constar bem, ao menos os das nações com
+quem tratavão, ou donde procedião.»
 
-Â«Em quanto Ã¡s contraposiÃ§Ãµes nas figuras, siga-se como regra geral, que,
-se hum braÃ§o avanÃ§ar, a perna daquella parte, e o outro braÃ§o devem
-recuar: os dois braÃ§os nunca hÃ£o de avanÃ§ar, porque ninguem poderÃ¡
-recuar ambas as pernas sem cahir: a cabeÃ§a incline-se para a parte do
-braÃ§o levantado, e volte-se para onde a mÃ£o estiver mais avanÃ§ada:
-nenhum membro deve formar angulo recto; nem dois membros hÃ£o de ser
-reciprocamente parallelos. Huma das mÃ£os nunca se deve achar defronte da
+«Em quanto ás contraposições nas figuras, siga-se como regra geral, que,
+se hum braço avançar, a perna daquella parte, e o outro braço devem
+recuar: os dois braços nunca hão de avançar, porque ninguem poderá
+recuar ambas as pernas sem cahir: a cabeça incline-se para a parte do
+braço levantado, e volte-se para onde a mão estiver mais avançada:
+nenhum membro deve formar angulo recto; nem dois membros hão de ser
+reciprocamente parallelos. Huma das mãos nunca se deve achar defronte da
 outra; e nenhuma extremidade esteja na mesma linha vertical, ou
-horisontal de outra; nem se encontrem duas mÃ£os e hum pÃ©, ou dois pÃ©s e
-huma mÃ£o, collocados em linha recta.Â»
+horisontal de outra; nem se encontrem duas mãos e hum pé, ou dois pés e
+huma mão, collocados em linha recta.»
 
-Â«O gruppo he huma uniÃ£o de figuras que se hÃ£o de encadear humas com
+«O gruppo he huma união de figuras que se hão de encadear humas com
 outras, e em numero impar; como 3, 5, 7, ou ao menos seja composto de
-dois numeros impares como 6, 10, 14.[9] A composiÃ§Ã£o do gruppo seja
+dois numeros impares como 6, 10, 14.[9] A composição do gruppo seja
 piramidal, mas de planta redonda, _como huma fogueira_: as grandes
-massas hÃ£o de estar no meio: os lugares das figuras formem linha curva,
-e nÃ£o recta: nÃ£o concorrÃ£o duas cabeÃ§as na mesma linha horisontal ou
-vertical: os dois braÃ§os ou as duas pernas da mesma figura nunca tenhÃ£o
-escorÃ§o igual; e a que nos mostra a palma de huma das mÃ£os, deixe ver a
-costa da outra.Â»
+massas hão de estar no meio: os lugares das figuras formem linha curva,
+e não recta: não concorrão duas cabeças na mesma linha horisontal ou
+vertical: os dois braços ou as duas pernas da mesma figura nunca tenhão
+escorço igual; e a que nos mostra a palma de huma das mãos, deixe ver a
+costa da outra.»
 
-Â«AppareÃ§Ã£o as partes mais bellas dos corpos, como as juntas, o pescoÃ§o,
+«Appareção as partes mais bellas dos corpos, como as juntas, o pescoço,
 as espaduas, os cotovelos, pulsos, joelhos, costas, e peitos; e isto por
-dois motivos; primeiro, porque nas extremidades, e articulaÃ§Ãµes pode-se
-deixar ver muita expressÃ£o, e muita sabedoria; segundo, porque os peitos
-e as espaduas sÃ£o as partes mais grandiosas do corpo, e as mais capazes,
-por isso mesmo, de reunir no gruppo grandes massas de luz, e de cÃ´r
-agradavel, qual he a das carnes.Â»
+dois motivos; primeiro, porque nas extremidades, e articulações pode-se
+deixar ver muita expressão, e muita sabedoria; segundo, porque os peitos
+e as espaduas são as partes mais grandiosas do corpo, e as mais capazes,
+por isso mesmo, de reunir no gruppo grandes massas de luz, e de côr
+agradavel, qual he a das carnes.»
 
-Â«Nas mulheres, todas as partes nuas, que se podem ver honestamente, sÃ£o
-mui gratas Ã¡ vista; mas algumas, como os peitos, parecem mais bellas nÃ£o
-estando de todo descubertas.Â»
+«Nas mulheres, todas as partes nuas, que se podem ver honestamente, são
+mui gratas á vista; mas algumas, como os peitos, parecem mais bellas não
+estando de todo descubertas.»
 
-Â«Quando se combinÃ£o varios gruppos tambem devem ser em numero impar, ou
+«Quando se combinão varios gruppos tambem devem ser em numero impar, ou
 hum inteiro no meio do quadro, e duas ametades aos lados. A figura mais
 nobre esteja sempre no do meio, e as mais notaveis aproximem-se ao
-herÃ³e; mas este esteja no segundo pavimento, e nÃ£o no primeiro, para ser
+heróe; mas este esteja no segundo pavimento, e não no primeiro, para ser
 como o centro no circulo dos espectadores. A tortuosidade na planta do
-gruppo, pÃ³de ser concava, ou convexa; porque de ambas as sortes se pÃ³de
+gruppo, póde ser concava, ou convexa; porque de ambas as sortes se póde
 collocar no meio o objecto principal, e o mais brilhante. Inda que se
 deva fazer alardo das mais bellas partes, evitem-se com grande cuidado
-as rÃ©plicas; porque sem a variedade nÃ£o ha agrado. Quando fÃ´r possivel,
-metÃ£o-se na composiÃ§Ã£o pessoas d'ambos os sexos, e de todas as idades; o
-que produzirÃ¡ huma varidade muito grata nas expressÃµes, e nas acÃ§Ãµes.Â»
+as réplicas; porque sem a variedade não ha agrado. Quando fôr possivel,
+metão-se na composição pessoas d'ambos os sexos, e de todas as idades; o
+que produzirá huma varidade muito grata nas expressões, e nas acções.»
 
-Â«Corregio distribuia assaz bem os gruppos; mas dispunha-os antes para
+«Corregio distribuia assaz bem os gruppos; mas dispunha-os antes para
 produzirem bellas massas de clar'escuro, que para exprimir quaesquer
-affectos. Foi admiravel nos escorÃ§os, e he de crer que fazia figurinos
-de cera para todas as composiÃ§Ãµes dos tÃ©ctos, a fim de poder observar
-bem os contornos, e o clar'escuro das figuras escorÃ§adas; e este era o
-forte da sua composiÃ§Ã£o. Fugia de deixar ver nos corpos que pintava, as
-partes rectas; e tanto, que raras vezes fez cabeÃ§as que nÃ£o fossem
-vistas debaixo, ou de cima; e nunca de frente.Â»
+affectos. Foi admiravel nos escorços, e he de crer que fazia figurinos
+de cera para todas as composições dos téctos, a fim de poder observar
+bem os contornos, e o clar'escuro das figuras escorçadas; e este era o
+forte da sua composição. Fugia de deixar ver nos corpos que pintava, as
+partes rectas; e tanto, que raras vezes fez cabeças que não fossem
+vistas debaixo, ou de cima; e nunca de frente.»
 
-Â«O mais egrÃ©gio Pintor cujas obras se conhecem, Raphael, foi nÃ£o sÃ³
-sublime, mas singular na composiÃ§Ã£o; e esta he a parte da Pintura em que
+«O mais egrégio Pintor cujas obras se conhecem, Raphael, foi não só
+sublime, mas singular na composição; e esta he a parte da Pintura em que
 foi mais sabio. Elle a inventou; porque nem entre os poucos quadros
-antigos que pÃ´de ver, nem entre os modernos, achou perfeito modÃ©lo para
+antigos que pôde ver, nem entre os modernos, achou perfeito modélo para
 imitar. A principal cousa que se deve observar em hum quadro he a
-invenÃ§Ã£o; isto he, a expressÃ£o verdadeira de hum assumpto: e nisto nÃ£o
+invenção; isto he, a expressão verdadeira de hum assumpto: e nisto não
 teve igual. Nenhuma das figuras que elle poz em scena poderia servir em
-assumpto de diversa expressÃ£o. O pensativo, o alegre, o melancolico, o
-colerico, todos se achÃ£o na sua competente situaÃ§Ã£o: nem a expressÃ£o
-perfeita se acha sÃ³ em cada figura; mas todas ellas, e os episodios,
-correspondem perfeitamente Ã¡ paixÃ£o da principal personagem. Mostrou
+assumpto de diversa expressão. O pensativo, o alegre, o melancolico, o
+colerico, todos se achão na sua competente situação: nem a expressão
+perfeita se acha só em cada figura; mas todas ellas, e os episodios,
+correspondem perfeitamente á paixão da principal personagem. Mostrou
 grandissimo talento na variedade com que soube exprimir huma grande
-paixÃ£o, fazendo Ã¡s vezes intervir muitas figuras em hum movimento
-parcial; e isto nÃ£o por acaso, ou por encher o quadro, mas pelo pedir
-assim a forÃ§a da expressÃ£o. Nos seus quadros ha de ordinario muita
-variedade de cousas, sem contradiÃ§Ãµes; paixÃµes violentas, sem
-deformidades; mostrando a expressÃ£o algumas vezes, atÃ© no movimento de
-hum dedo, e no effeito que fazem as paixÃµes sobre as partes tendinosas,
-e aponevroticas. Muitas cousas que em outros seriÃ£o defeitos, erÃ£o nelle
-grandes bellezas pelo modo com que as accommodava.Â»
+paixão, fazendo ás vezes intervir muitas figuras em hum movimento
+parcial; e isto não por acaso, ou por encher o quadro, mas pelo pedir
+assim a força da expressão. Nos seus quadros ha de ordinario muita
+variedade de cousas, sem contradições; paixões violentas, sem
+deformidades; mostrando a expressão algumas vezes, até no movimento de
+hum dedo, e no effeito que fazem as paixões sobre as partes tendinosas,
+e aponevroticas. Muitas cousas que em outros serião defeitos, erão nelle
+grandes bellezas pelo modo com que as accommodava.»
 
-Â«Entre hum quadro de Raphael, e o de qualquer outro Pintor ha a mesma
-differenÃ§a, que haveria entre hum herÃ³e como Alexandre, e hum comediante
-que o quizesse representar; e isto, porque os outros tocÃ£o algum dos
-extremos nas attitudes, e nas expressÃµes; mas Raphael dava Ã¡s suas
+«Entre hum quadro de Raphael, e o de qualquer outro Pintor ha a mesma
+differença, que haveria entre hum heróe como Alexandre, e hum comediante
+que o quizesse representar; e isto, porque os outros tocão algum dos
+extremos nas attitudes, e nas expressões; mas Raphael dava ás suas
 figuras os proprios movimentos da alma: para esse fim seguia huma
-pratica diversa do costume. Os Pintores pÃµem ordinariamente toda a sua
-attenÃ§Ã£o nos gruppos, e na composiÃ§Ã£o de cada figura, segundo as
-contraposiÃ§Ãµes, e as regras da Arte; porem elle comeÃ§ava por figurar na
-sua mente o total da sua historia, e todos os objectos que poderiÃ£o
-concorrer para a expressÃ£o geral, e depois he que tratava de cada figura
-em particular, elegendo os membros que haviÃ£o de cooperar, segundo as
-paixÃµes do animo; deixando mais ou menos quietos os que nellas nÃ£o
-tinhÃ£o parte: observando o caracter de cada figura; porque hum Apostolo,
-ou hum Filosofo nÃ£o se ha de mover como hum soldado, nem huma honesta
-donzella como huma meretriz. Assim he que demonstrava, tanto as paixÃµes
-internas que se indicÃ£o pela testa, olhos, nariz, boca, dedos; como as
-externas que movem o corpo todo; porque o seu excesso nÃ£o admitte
-moderaÃ§Ã£o. Nunca fazia as acÃ§Ãµes completas; porque, se hum homem que
-caminha nÃ£o tem acabado de formar o passo, estÃ¡ em movimento, tem vida,
-e sabemos o que faz; mas se tivesse acabado o passo nÃ£o saberiamos o que
+pratica diversa do costume. Os Pintores põem ordinariamente toda a sua
+attenção nos gruppos, e na composição de cada figura, segundo as
+contraposições, e as regras da Arte; porem elle começava por figurar na
+sua mente o total da sua historia, e todos os objectos que poderião
+concorrer para a expressão geral, e depois he que tratava de cada figura
+em particular, elegendo os membros que havião de cooperar, segundo as
+paixões do animo; deixando mais ou menos quietos os que nellas não
+tinhão parte: observando o caracter de cada figura; porque hum Apostolo,
+ou hum Filosofo não se ha de mover como hum soldado, nem huma honesta
+donzella como huma meretriz. Assim he que demonstrava, tanto as paixões
+internas que se indicão pela testa, olhos, nariz, boca, dedos; como as
+externas que movem o corpo todo; porque o seu excesso não admitte
+moderação. Nunca fazia as acções completas; porque, se hum homem que
+caminha não tem acabado de formar o passo, está em movimento, tem vida,
+e sabemos o que faz; mas se tivesse acabado o passo não saberiamos o que
 tinha feito nem o que hia fazer. O Pintor de Urbino tinha de mais a
-louvavel facilidade, e huma certa negligencia apparente, tÃ£o difficil de
+louvavel facilidade, e huma certa negligencia apparente, tão difficil de
 conseguir; como tambem a arte de occultar com felicidade hum membro,
-huma mÃ£o, hum pÃ©; ou para nÃ£o mostrar partes ociosas, ou para nÃ£o
-affrontar as partes principaes, ou em fim para evitar o mÃ¡o effeito que
-poderiÃ£o alli fazer.Â»
+huma mão, hum pé; ou para não mostrar partes ociosas, ou para não
+affrontar as partes principaes, ou em fim para evitar o máo effeito que
+poderião alli fazer.»
 
-Â«A composiÃ§Ã£o he em geral de duas especies; a expressiva, e a de grande
+«A composição he em geral de duas especies; a expressiva, e a de grande
 effeito: nesta, que he mais propria para as grandes maquinas, como
-cupulas, tectos, etc. forÃ£o excellentes o Corregio, o Lanfranco, Pedro
-de Cortona, e Lucas JordÃ£o; ella agrada muito, e a muitos. Em quanto Ã¡
+cupulas, tectos, etc. forão excellentes o Corregio, o Lanfranco, Pedro
+de Cortona, e Lucas Jordão; ella agrada muito, e a muitos. Em quanto á
 expressiva, que sem duvida he a mais sabia, bella, e difficultosa,
-nenhum chegou a Raphael; mas o Domeniquino, e o Pusinno approximarÃ£o-se
-muito. Se n'huma composiÃ§Ã£o Raphael fizesse as figuras, Pusino o fundo,
-e Domeniquino os rapazes, seria entÃ£o perfeitamente expressiva. Bem se
-vÃª que a parte principal toca a Raphael, e que elle por consequencia,
-foi na expressÃ£o o maior de todos os Pintores.Â»
+nenhum chegou a Raphael; mas o Domeniquino, e o Pusinno approximarão-se
+muito. Se n'huma composição Raphael fizesse as figuras, Pusino o fundo,
+e Domeniquino os rapazes, seria então perfeitamente expressiva. Bem se
+vê que a parte principal toca a Raphael, e que elle por consequencia,
+foi na expressão o maior de todos os Pintores.»
 
-O Abbade JoÃ£o Baptista DubÃ³s, nas suas _ReflexÃµes criticas sobre a
+O Abbade João Baptista Dubós, nas suas _Reflexões criticas sobre a
 Pintura_ deixa ver em muitos lugares, que pouco entendia da Arte; mas
 como era sabio, e tinha lido bons authores, diz tambem algumas cousas
-attendiveis. Â«Elle observa que ha assumptos excellentes para a Poesia,
-que nem por isso sÃ£o bons para a Pintura. A historia Sagrada, a Grega, e
+attendiveis. «Elle observa que ha assumptos excellentes para a Poesia,
+que nem por isso são bons para a Pintura. A historia Sagrada, a Grega, e
 a Romana fornecem assumptos pittorescos, e interessantes; assim como a
-historia Franceza serÃ¡ bem acceita em FranÃ§a, e a Portugueza em
-Portugal. O sacrificio de Efigenia nÃ£o he proprio para figurinhas de
-huma paizagem. Venus, e as GraÃ§as nÃ£o se devem fazer colossaes.Â»
+historia Franceza será bem acceita em França, e a Portugueza em
+Portugal. O sacrificio de Efigenia não he proprio para figurinhas de
+huma paizagem. Venus, e as Graças não se devem fazer colossaes.»
 
-Â«Le Brun servio-se bem da allegoria mixta quando pintou Luiz XIV. em hum
+«Le Brun servio-se bem da allegoria mixta quando pintou Luiz XIV. em hum
 carro, guiado pela Victoria, atropelando as Cidades e os Rios da
 fronteira Hollandeza. A Hespanha, querendo suspender-lhe a marcha;
 recebe alguns tiros, e deixa cahir a mascara. A prudencia em taes
-composiÃ§Ãµes he mui precisa; porque nada faz dizer tantas tolices como o
-excessivo desejo de parecer discreto, e sabio.Â»
+composições he mui precisa; porque nada faz dizer tantas tolices como o
+excessivo desejo de parecer discreto, e sabio.»
 
-Claudio Watelet compÃ´s hum elegante poema sobre a Pintura: PublicarÃ£o
+Claudio Watelet compôs hum elegante poema sobre a Pintura: Publicarão
 outros dois, o Abbade de Marsy, e o Panegyrista de Pedro Mignard: todos
-tres fallarÃ£o muito bem na _composiÃ§Ã£o_; mas como o que sobre ella
-discorrerÃ£o se encontra com o que jÃ¡ temos dito, ou vamos dizer, nÃ£o
-augmentaremos este volume com inuteis repetiÃ§Ãµes. Pelo mesmo motivo
-omittiremos tambem o que a este proposito disserÃ£o Le Comte, e outros
+tres fallarão muito bem na _composição_; mas como o que sobre ella
+discorrerão se encontra com o que já temos dito, ou vamos dizer, não
+augmentaremos este volume com inuteis repetições. Pelo mesmo motivo
+omittiremos tambem o que a este proposito disserão Le Comte, e outros
 muitos.
 
 Daniel Webb, era mais versado nas letras humanas, que practico nas boas
 artes: em Roma frequentou a casa de Mengs, e aproveitou-se dos seus
 dictames: apesar disso, a sua doutrina, inda que corroborada com
-sentenÃ§as de authores gravissimos, nÃ£o carece de sofismas. Â«Elle diz que
-a Historia pintada tendo muita correlaÃ§Ã£o com o Poema dramatico podemos
+sentenças de authores gravissimos, não carece de sofismas. «Elle diz que
+a Historia pintada tendo muita correlação com o Poema dramatico podemos
 alli considerar a scena, e a poesia. A excellencia da primeira consiste
-em huma agradavel disposiÃ§Ã£o das figuras que compÃµe a acÃ§Ã£o.Â»
+em huma agradavel disposição das figuras que compõe a acção.»
 
-Â«Se de noite, prosegue elle, levantarmos os olhos aos Ceos, a nossa
-attenÃ§Ã£o nÃ£o serÃ¡ attrahida por algumas estrellas espalhadas cÃ¡, e lÃ¡;
-mas recahirÃ¡ logo sobre aquellas que estÃ£o gruppadas em constellaÃ§Ãµes; e
-por esse motivo as composiÃ§Ãµes bem gruppadas de Lanfranco, e do Cortona,
-agradÃ£o muito mais, que as dispersas do Domeniquino; inda que este fosse
-maior Pintor que os outros.Â»
+«Se de noite, prosegue elle, levantarmos os olhos aos Ceos, a nossa
+attenção não será attrahida por algumas estrellas espalhadas cá, e lá;
+mas recahirá logo sobre aquellas que estão gruppadas em constellações; e
+por esse motivo as composições bem gruppadas de Lanfranco, e do Cortona,
+agradão muito mais, que as dispersas do Domeniquino; inda que este fosse
+maior Pintor que os outros.»
 
 Francisco Xavier Lobo, Pintor Lisbonense, do ultimo seculo, era amigo de
-pensar, e dado Ã¡ leitura e Ã¡ especulaÃ§Ã£o da Arte: elle escreveo alguns
+pensar, e dado á leitura e á especulação da Arte: elle escreveo alguns
 dialogos criticos sobre a Pintura pratica, e especulativa. Authorisa-se
 com Leonardo de Vinci para exigir que o Pintor historico nenhuma cousa
-ignore do que pertence Ã¡ Arte; porque no painel se ha de achar tudo;
+ignore do que pertence á Arte; porque no painel se ha de achar tudo;
 figura, architectura, paizagens, fructos, flores, etc.: e por isso aqui
-fallarei, diz elle, do que alguns estranharÃ£o que eu falle Â«Quando o
-Pintor distribuir as figuras na sua composiÃ§Ã£o deve lembrar-se logo das
-luzes, e cÃ´res que lhes ha de dar; dando-lhes attitudes, e movimentos
-taes, que nÃ£o embaracem o effeito do clar'escuro. He evidente que huma
-cabeÃ§a voltada contra a luz nÃ£o faz o mesmo effeito que voltada para
-ella. O objecto principal nÃ£o se ponha da parte da sombra. Nas figuras
-vestidas pareÃ§a sempre que ha algum Ã¡r entre a carne e as roupas; mas
-nas Santas Imagens deve-se usar isto com muita moderaÃ§Ã£o para que nÃ£o
-pareÃ§Ã£o danÃ§arinos; antes inspirem affectos de devoÃ§Ã£o.Â»
+fallarei, diz elle, do que alguns estranharão que eu falle «Quando o
+Pintor distribuir as figuras na sua composição deve lembrar-se logo das
+luzes, e côres que lhes ha de dar; dando-lhes attitudes, e movimentos
+taes, que não embaracem o effeito do clar'escuro. He evidente que huma
+cabeça voltada contra a luz não faz o mesmo effeito que voltada para
+ella. O objecto principal não se ponha da parte da sombra. Nas figuras
+vestidas pareça sempre que ha algum ár entre a carne e as roupas; mas
+nas Santas Imagens deve-se usar isto com muita moderação para que não
+pareção dançarinos; antes inspirem affectos de devoção.»
 
-Â«Tem muitos authores feito os seus paineis seguindo dois pensamentos,
+«Tem muitos authores feito os seus paineis seguindo dois pensamentos,
 ambos possiveis; hum de romper com claro por detras de algum corpo
 escuro que esteja no primeiro pavimento; isto he, logo na entrada do
-painel; outro de dar a forÃ§a da luz nesta mesma entrada, e hir por
+painel; outro de dar a força da luz nesta mesma entrada, e hir por
 degraos abatendo os claros para o fundo: o primeiro me parece bom; o
-segundo melhor; porque, nÃ£o affecta sabedoria de arte. Bento Coelho foi
-sem duvida hum grande compositor; e com tudo, sÃ£o raros os seus quadros
-que tenhÃ£o figuras tenebrosas na entrada, as quaes muitas vezes parece
-que furÃ£o e recortÃ£o o painel.Â» AtÃ©qui o nosso Lobo; mas a passagem
-parece-me digna de algumas observaÃ§Ãµes.
+segundo melhor; porque, não affecta sabedoria de arte. Bento Coelho foi
+sem duvida hum grande compositor; e com tudo, são raros os seus quadros
+que tenhão figuras tenebrosas na entrada, as quaes muitas vezes parece
+que furão e recortão o painel.» Atéqui o nosso Lobo; mas a passagem
+parece-me digna de algumas observações.
 
-O escuro, diz Mengs, he melhor que o claro para se pÃ´r adiante; porque,
-alÃ©m de outras razÃµes muito attendiveis, por muito claros que se faÃ§Ã£o
-os objectos pintados, sempre parecerÃ£o fracos, e pouco brilhantes, em
-comparaÃ§Ã£o da luz natural; e por isso, os habeis artistas sempre fizerÃ£o
-alguma massa escura no primeiro pavimento. Estas regras porÃ©m, tem como
-todas, bastantes excepÃ§Ãµes. A regra mais universal que se possa seguir,
-he, segundo me parece, que no primeiro pavimento ha de a forÃ§a da massa
+O escuro, diz Mengs, he melhor que o claro para se pôr adiante; porque,
+além de outras razões muito attendiveis, por muito claros que se fação
+os objectos pintados, sempre parecerão fracos, e pouco brilhantes, em
+comparação da luz natural; e por isso, os habeis artistas sempre fizerão
+alguma massa escura no primeiro pavimento. Estas regras porém, tem como
+todas, bastantes excepções. A regra mais universal que se possa seguir,
+he, segundo me parece, que no primeiro pavimento ha de a força da massa
 ser toda opposta ao tom do fundo do quadro: se o dito fundo for claro
-destacarÃ¡ bem, e parecerÃ¡ visinha a nÃ³s huma massa escura; com tanto que
+destacará bem, e parecerá visinha a nós huma massa escura; com tanto que
 seja moderada, e suave nos contornos; mas se o fundo fosse escuro, hum
 corpo tambem escuro, inda que estivesse no primeiro pavimento, pareceria
-estar mui longe, e nÃ£o faria effeito algum. Bento Coelho, que fazia os
+estar mui longe, e não faria effeito algum. Bento Coelho, que fazia os
 fundos quasi pretos, punha sempre o branco no primeiro pavimento, o
 vermelho ou amarello no segundo, e assim hia degradando. Raphael usou
-tambem pÃ´r os brancos, e os maiores claros adiante do painel, ainda
-mesmo quando os fundos nÃ£o erÃ£o muito escuros; o que se pÃ³de ver na
-TransfiguraÃ§Ã£o, na Batalha de Constantino, na EscÃ³la de Athenas, e em
-quasi todas as suas composiÃ§Ãµes; mas os Venezianos, e muitos Francezes,
+tambem pôr os brancos, e os maiores claros adiante do painel, ainda
+mesmo quando os fundos não erão muito escuros; o que se póde ver na
+Transfiguração, na Batalha de Constantino, na Escóla de Athenas, e em
+quasi todas as suas composições; mas os Venezianos, e muitos Francezes,
 como Le Brun, em algumas batalhas de Alexandre, e no Triunfo de
 Jerusalem, tem posto a diante corpos sombrios; o que sendo feito em
 paineis de muitas figuras, e com sabio artificio, facilita muito o bello
 effeito do todo.
 
-Â«D. JosÃ© NicolÃ¡o de Azara diz que a ComposiÃ§Ã£o he a arte de bem collocar
-as partes que compÃµe hum todo. O Poeta pÃ³de representar a sua acÃ§Ã£o em
-varios pontos; mas o Pintor sÃ³ pÃ³de escolher hum unico ponto em toda a
-acÃ§Ã£o, e nelle ha de representa-la precisamente e quasi concentra-la,
+«D. José Nicoláo de Azara diz que a Composição he a arte de bem collocar
+as partes que compõe hum todo. O Poeta póde representar a sua acção em
+varios pontos; mas o Pintor só póde escolher hum unico ponto em toda a
+acção, e nelle ha de representa-la precisamente e quasi concentra-la,
 sem tratar do que o precede, ou do que o segue. Este ponto deve ser o
 mais essencial da historia, pelo qual se entenda facilmente o resto; e,
-como dizia Mengs, a historia ha de se explicar pelo quadro, e nÃ£o o
-quadro pela historia.Â»
+como dizia Mengs, a historia ha de se explicar pelo quadro, e não o
+quadro pela historia.»
 
-Â«Por expressÃ£o entendo a arte de patentear convenientemente os affectos
-por meio de toda a sorte de sinaes exteriores. A uniÃ£o da alma com o
-corpo, he tal, que nÃ£o pÃ³de nella haver movimento algum, que nÃ£o excite
-nelle o seu movimento correspondente. Devendo pois o Pintor dar acÃ§Ã£o Ã¡s
+«Por expressão entendo a arte de patentear convenientemente os affectos
+por meio de toda a sorte de sinaes exteriores. A união da alma com o
+corpo, he tal, que não póde nella haver movimento algum, que não excite
+nelle o seu movimento correspondente. Devendo pois o Pintor dar acção ás
 suas figuras, estas devem exprimir nos seus semblantes, e em todo o
-resto dos seus corpos aquellas alteraÃ§Ãµes, que sÃ£o proprias das paixÃµes
-que lhes suppomos; rejeitando porÃ©m as que prejudicariÃ£o a graÃ§a e a
+resto dos seus corpos aquellas alterações, que são proprias das paixões
+que lhes suppomos; rejeitando porém as que prejudicarião a graça e a
 belleza, ou fazendo-as de hum modo agradavel, visto que, entre os
-extremos de todas, ha hum grande numero de gradaÃ§Ãµes mais ou menos
-violentas. O Laoconte, e seus filhos, exprimem a mais dolorosa situaÃ§Ã£o,
+extremos de todas, ha hum grande numero de gradações mais ou menos
+violentas. O Laoconte, e seus filhos, exprimem a mais dolorosa situação,
 que a humanidade possa soffrer, sem prejudicar com os seus gestos, e
-convulsÃµes a belleza das formas: deixando-se ver no pai, huma grande
-alma superior Ã¡ sua desgraÃ§a; e nos filhos, que sentem iguaes dores, e
+convulsões a belleza das formas: deixando-se ver no pai, huma grande
+alma superior á sua desgraça; e nos filhos, que sentem iguaes dores, e
 pedem soccorro ao pai sem movimentos, que desfigurem a belleza de seus
-corpos, e sem faltar no mesmo tempo Ã¡ forÃ§a da expressÃ£o. O gruppo da
-Niobe he outro exemplo da nobre maneira, com que os Gregos exprimiÃ£o as
-situaÃ§Ãµes mais violentas sem alterar a formosura dos seus objectos:
-cousa verdadeiramente grande, e difficil! Os Gregos possuiÃ£o esta arte
-com tal magisterio, que nas suas estatuas, parece que elles nÃ£o se
-occupavÃ£o com a expressÃ£o; porque lhes davÃ£o sempre hum tal repouso, que
-mostrÃ£o toda a belleza sem alguma alteraÃ§Ã£o; e com tudo, cada huma diz o
+corpos, e sem faltar no mesmo tempo á força da expressão. O gruppo da
+Niobe he outro exemplo da nobre maneira, com que os Gregos exprimião as
+situações mais violentas sem alterar a formosura dos seus objectos:
+cousa verdadeiramente grande, e difficil! Os Gregos possuião esta arte
+com tal magisterio, que nas suas estatuas, parece que elles não se
+occupavão com a expressão; porque lhes davão sempre hum tal repouso, que
+mostrão toda a belleza sem alguma alteração; e com tudo, cada huma diz o
 que deve dizer, pois que hum suave e doce movimento da boca, dos olhos,
-ou sÃ³mente a acÃ§Ã£o, exprime o affecto, encantando a alma, e os sentidos.
-Entre os modernos houverÃ£o muitos que sÃ³ tinhÃ£o por expressivas as
-figuras espritadas; fazendo com muito trabalho muito pouco effeito.Â»
+ou sómente a acção, exprime o affecto, encantando a alma, e os sentidos.
+Entre os modernos houverão muitos que só tinhão por expressivas as
+figuras espritadas; fazendo com muito trabalho muito pouco effeito.»
 
-Â«O celebre Winckelmann observou que os antigos tinhÃ£o adoptado duas
-regras principaes de _ComposiÃ§Ã£o_, das quaes nunca se affastavÃ£o,
-primeira a economia das figuras, segunda a moderaÃ§Ã£o nas suas attitudes.
-Em quanto Ã¡ primeira, parece que a regra de Sophocles de nunca pÃ´r na
+«O celebre Winckelmann observou que os antigos tinhão adoptado duas
+regras principaes de _Composição_, das quaes nunca se affastavão,
+primeira a economia das figuras, segunda a moderação nas suas attitudes.
+Em quanto á primeira, parece que a regra de Sophocles de nunca pôr na
 scena mais de tres figuras, era tambem a regra dos Pintores. Os Antigos
-sabiÃ£o exprimir muito com pouco. Theon pintou a lucta de hum sÃ³
-guerreiro contra muitos adversarios, sem pÃ´r no painel mais que o
-heroe.Â»
+sabião exprimir muito com pouco. Theon pintou a lucta de hum só
+guerreiro contra muitos adversarios, sem pôr no painel mais que o
+heroe.»
 
-Â«Do baixo-relevo de Meleagro, e de varias pinturas d'Herculano, consta
-que elles sabiÃ£o bem gruppar quando lhes convinha; mas nÃ£o gostavÃ£o da
-confusÃ£o: tambem conheciÃ£o o contraste ou contraposiÃ§Ã£o, como os poetas,
-e oradores conheciÃ£o a _antithesis_; mas faziÃ£o-a natural, como nascida
-do seu assumpto, e nÃ£o como filha de hum grande esforÃ§o do genio, como
+«Do baixo-relevo de Meleagro, e de varias pinturas d'Herculano, consta
+que elles sabião bem gruppar quando lhes convinha; mas não gostavão da
+confusão: tambem conhecião o contraste ou contraposição, como os poetas,
+e oradores conhecião a _antithesis_; mas fazião-a natural, como nascida
+do seu assumpto, e não como filha de hum grande esforço do genio, como
 fazem muitos artistas d'agora, para os quaes o contraste he tudo, e
-desculpa tudo.Â»
+desculpa tudo.»
 
-Â«As Personagens d'huma composiÃ§Ã£o devem, em primeiro lugar, ser
-discretas, e tranquillas; e nÃ£o hÃ£o de ter movimentos violentos, e
-convulsivos, como as do celebre La Fage: segundo nÃ£o se ha de nella
+«As Personagens d'huma composição devem, em primeiro lugar, ser
+discretas, e tranquillas; e não hão de ter movimentos violentos, e
+convulsivos, como as do celebre La Fage: segundo não se ha de nella
 introduzir cousa alguma que seja inutil, ou ociosa: terceiro tudo deve
-ser diversificado, sem repetiÃ§Ã£o de movimentos, attitudes, etc.Â»
+ser diversificado, sem repetição de movimentos, attitudes, etc.»
 
-Â«Aquelle que escrevendo ao seu amigo, lhe dizia Â«Eu nÃ£o tenho tempo para
-me exprimir mais laconicamenteÂ» sabia bem, que o pouco, e bom, he mais
+«Aquelle que escrevendo ao seu amigo, lhe dizia «Eu não tenho tempo para
+me exprimir mais laconicamente» sabia bem, que o pouco, e bom, he mais
 difficil, que a grande superabundancia. Tiepolo[10] fazia mais em hum
 dia, que Mengs em huma semana; mas a obra de Mengs, inda que menor em
-quantidade, valia mais.Â»
+quantidade, valia mais.»
 
-Â«O Juizo final de Miguel Angelo, e a Batalha de Constantino de Rafael,
-sÃ£o duas grandes escÃ³las de _ComposiÃ§Ã£o_.Â»
+«O Juizo final de Miguel Angelo, e a Batalha de Constantino de Rafael,
+são duas grandes escólas de _Composição_.»
 
-Â«A mÃ¡ distribuiÃ§Ã£o dos objectos conduzio o Caravagio, e o Hespanholeto a
-huma maneira negra, e mui desagradavel: os que se collocÃ£o com
-intelligencia, como recebem melhor as luzes, sÃ£o mais claros e mais
-distinctos; porÃ©m os mÃ¡os conhecedores daquelle tempo admiravÃ£o aquella
-maneira negra, e a preferiÃ£o Ã¡ dos Caraches, e Ã¡ do mesmo Guido, sÃ³
-porque erÃ£o claras.Â»
+«A má distribuição dos objectos conduzio o Caravagio, e o Hespanholeto a
+huma maneira negra, e mui desagradavel: os que se collocão com
+intelligencia, como recebem melhor as luzes, são mais claros e mais
+distinctos; porém os máos conhecedores daquelle tempo admiravão aquella
+maneira negra, e a preferião á dos Caraches, e á do mesmo Guido, só
+porque erão claras.»
 
-Â«Pedro Mignard examinando huma das Sagradas Familias de Raphael, da
-collecÃ§Ã£o Real de FranÃ§a, observou que sendo a grandeza da expressÃ£o a
-cousa mais admiravel daquelle Artista, e a que lhe dÃ©ra o titulo de
-Divino, comeÃ§aria por louvar a grande modestia, e respeito que se admira
-no rosto, e gesto de Nossa Senhora; o amor desta Santissima MÃ£i para seu
-filho, e a ternura do Filho para sua MÃ£i; a veneraÃ§Ã£o de Santa Isabel, e
-a profunda humildade de S. JoÃ£o; o repouso de S. JosÃ©, e o gosto
-acompanhado de admiraÃ§Ã£o tÃ£o bem exprimido nos semblantes dos dois
-Anjos. Elle disse que naquelle quadro se via bem a elevaÃ§Ã£o do espirito,
+«Pedro Mignard examinando huma das Sagradas Familias de Raphael, da
+collecção Real de França, observou que sendo a grandeza da expressão a
+cousa mais admiravel daquelle Artista, e a que lhe déra o titulo de
+Divino, começaria por louvar a grande modestia, e respeito que se admira
+no rosto, e gesto de Nossa Senhora; o amor desta Santissima Mãi para seu
+filho, e a ternura do Filho para sua Mãi; a veneração de Santa Isabel, e
+a profunda humildade de S. João; o repouso de S. José, e o gosto
+acompanhado de admiração tão bem exprimido nos semblantes dos dois
+Anjos. Elle disse que naquelle quadro se via bem a elevação do espirito,
 e o grande juizo do Author, considerando de que maneira elle se
 conduzira naquelle trabalho, e a escolha que fizera de quanto ha mais
-bello para ornar com decÃ³ro as suas Figuras.Â»
+bello para ornar com decóro as suas Figuras.»
 
-Â«Em quanto Ã¡ _DisposiÃ§Ã£o_, elle as collocou, segundo as suas dignidades.
+«Em quanto á _Disposição_, elle as collocou, segundo as suas dignidades.
 Poz o Menino Jesus no primeiro lugar, e Nossa Senhora no segundo: inda
-que todas as figuras estejÃ£o attentas a hum sÃ³ objecto, e occupadas em
-contemplar o Deos Menino, nÃ£o ha huma sÃ³, cujo rosto nÃ£o seja visto
-vantajosamente, e de que as partes todas nÃ£o estejÃ£o dispostas de huma
+que todas as figuras estejão attentas a hum só objecto, e occupadas em
+contemplar o Deos Menino, não ha huma só, cujo rosto não seja visto
+vantajosamente, e de que as partes todas não estejão dispostas de huma
 maneira a mais agradavel. Mignard fez tambem ver que pelo meio das
-luzes, e sombras, nÃ£o sÃ³mente dÃªo a forÃ§a, ou debilidade conveniente a
+luzes, e sombras, não sómente dêo a força, ou debilidade conveniente a
 todos os corpos; mas fez que a luz parecesse mais viva sobre as figuras
 principaes, tendo-a espalhado mais fortemente sobre o Corpo do Menino, e
-depois pelas outras, com tal discriÃ§Ã£o, que nÃ£o recebem senÃ£o a que lhes
+depois pelas outras, com tal discrição, que não recebem senão a que lhes
 he necessaria para fazer todo o effeito que o assumpto requer. Para
 illuminar superiormente o Menino evitou Raphael todos os incidentes que
 pudessem interromper os raios da luz, e fazer-lhe alguma sombra, a fim
-de nÃ£o haver a menor obscuridade naquelle, que he a fonte de toda a
-luz.Â»
+de não haver a menor obscuridade naquelle, que he a fonte de toda a
+luz.»
 
-Temos allegado bastantes authoridades, e trazido Ã¡ memoria hum numero de
-regras, e preceitos sobre a _ComposiÃ§Ã£o_, que parece sufficiente para
-encaminhar as Senhoras applicadas: resta-nos sÃ³mente dizer alguma cousa
+Temos allegado bastantes authoridades, e trazido á memoria hum numero de
+regras, e preceitos sobre a _Composição_, que parece sufficiente para
+encaminhar as Senhoras applicadas: resta-nos sómente dizer alguma cousa
 do que ensina D. Antonio Palomino. O officio de Polymnia, diz elle, he
-manifestar os conceitos que concebe o entendimento; o que o Pintor pÃ³de
-fazer, dando Ã¡s figuras pintadas tÃ£o viva expressÃ£o de paixÃµes e
-affectos, que pareÃ§a que estÃ£o fallando.
+manifestar os conceitos que concebe o entendimento; o que o Pintor póde
+fazer, dando ás figuras pintadas tão viva expressão de paixões e
+affectos, que pareça que estão fallando.
 
-Â«A composiÃ§Ã£o, seja de huma ou muitas figuras, deve ser honesta; mas a
-nudeza pÃ³de ser honesta, e mesmo edificante, como he em Jesus Christo,
+«A composição, seja de huma ou muitas figuras, deve ser honesta; mas a
+nudeza póde ser honesta, e mesmo edificante, como he em Jesus Christo,
 em Susana, nas Santas martyres, nas Almas do Purgatorio, e em muitas
 outras pinturas. O Padre Siguenza, na Historia da Ordem de S. Jeronymo,
-reprova muito o zelo indiscreto dos que mandÃ¡rÃ£o cobrir huma perna nÃ»a
+reprova muito o zelo indiscreto dos que mandárão cobrir huma perna nûa
 de Santa Margarida em hum quadro do Ticiano, que estava no Escurial;
 cousa, a que outro author chamou _sciochissima correzione_. A pintura de
-corpos nÃ»s he indifferente em grande numero de fabulas, ao mesmo tempo
-que em figuras vestidas encontrÃ£o-se Ã¡s vezes actos provocativos; e
-estas imagens sÃ£o obscenas sem serem nÃ»as.Â»
+corpos nûs he indifferente em grande numero de fabulas, ao mesmo tempo
+que em figuras vestidas encontrão-se ás vezes actos provocativos; e
+estas imagens são obscenas sem serem nûas.»
 
-Â«Palomino ensina tambem outros dois modos mais faceis de inventar: ao
+«Palomino ensina tambem outros dois modos mais faceis de inventar: ao
 primeiro chama elle fazer por estampa; porque consiste em pintar o
-painel todo por huma sÃ³ estampa, ou desenho alheio, pondo o colorido da
-sua invenÃ§Ã£o: ao segundo chamÃ£o os Pintores furtar; porque he furtado de
+painel todo por huma só estampa, ou desenho alheio, pondo o colorido da
+sua invenção: ao segundo chamão os Pintores furtar; porque he furtado de
 muitas estampas. O talento de bem furtar he pouco inferior ao da total
-invenÃ§Ã£o;[11] porque alÃ©m de ser original a composiÃ§Ã£o e colorido, he
+invenção;[11] porque além de ser original a composição e colorido, he
 preciso grande magisterio para arranjar os objectos furtados debaixo de
-huma sÃ³ e mesma luz, e de hum sÃ³ ponto de vista, e de distancia, de
-sorte que pareÃ§a que tudo foi feito para aquelle lugar;[12] e he muito
-melhor copiar bem, ou compÃ´r por estampas, que fazer mal de pura idÃ©a.
-Mas quem puder consultar o _natural_, e o souber imitar bem, esse serÃ¡
-mais applaudido. Tambem se pÃ³de seguir a composiÃ§Ã£o de hum quadro, ou
-estampa, em quanto Ã¡s massas de luz e de sombra, mudando todas, ou
-algumas figuras; estudando-as porÃ©m do _natural_, e nÃ£o fazer de pura
-pratica; porque conduz ao maneirado.Â»
+huma só e mesma luz, e de hum só ponto de vista, e de distancia, de
+sorte que pareça que tudo foi feito para aquelle lugar;[12] e he muito
+melhor copiar bem, ou compôr por estampas, que fazer mal de pura idéa.
+Mas quem puder consultar o _natural_, e o souber imitar bem, esse será
+mais applaudido. Tambem se póde seguir a composição de hum quadro, ou
+estampa, em quanto ás massas de luz e de sombra, mudando todas, ou
+algumas figuras; estudando-as porém do _natural_, e não fazer de pura
+pratica; porque conduz ao maneirado.»
 
 Temos reduzido a poucas paginas quanto se acha de maior interesse em
-muitos volumes sobre a _ComposiÃ§Ã£o_, relativa ao grande Genero; e se
+muitos volumes sobre a _Composição_, relativa ao grande Genero; e se
 este trabalho for bem acceito, proseguiremos com gosto o resto da obra,
-que serÃ¡ igualmente resumido e interessante. No fim daremos tambem hum
+que será igualmente resumido e interessante. No fim daremos tambem hum
 catalogo das insignes Pintoras Portuguezas, e Estrangeiras.
 
 
@@ -1378,52 +1378,52 @@ tambem hum grande bebedo. _De Piles vie des Peintres, Moreri,
 Houbraken,_ etc.
 
 [2] Homem facinoroso, que esteve preso na Torre de Civitavechia; e sendo
-perdoado pela sua pericia na Arte, em gratificaÃ§Ã£o pintou alli algumas
-casas, que os curiosos vÃ£o admirar. Falla nelle Vieira no Canto 7.^o
+perdoado pela sua pericia na Arte, em gratificação pintou alli algumas
+casas, que os curiosos vão admirar. Falla nelle Vieira no Canto 7.^o
 pag. 251.
 
-[3] Pintor facÃ©to, que se ridicularisava em pÃºblico com as suas
+[3] Pintor facéto, que se ridicularisava em público com as suas
 macaquices. Veja-se a sua vida em Vasari, De Piles, no Bocacio, etc.
 
-[4] O primeiro fez o famoso Crucifixo que se affirma fallÃ¡ra a Santa
+[4] O primeiro fez o famoso Crucifixo que se affirma fallára a Santa
 Brigida: o segundo era religioso de S. Domingos, muito estimado do Papa
-NicolÃ¡o V. a quem recusou o Arcebispado de FlorenÃ§a: ambos viverÃ£o e
-morrerÃ£o em cheiro de Santidade.
+Nicoláo V. a quem recusou o Arcebispado de Florença: ambos viverão e
+morrerão em cheiro de Santidade.
 
 [5] Massolino, he o mesmo que Thomazinho.
 
-[6] Alli jÃ¡ havia huma Igreja dedicada a Santa Martinha, que Xisto V. em
-1588 deo Ã¡ Academia dos Pintores, a qual a reedificou com grande
+[6] Alli já havia huma Igreja dedicada a Santa Martinha, que Xisto V. em
+1588 deo á Academia dos Pintores, a qual a reedificou com grande
 magnificencia, e a dedicou a S. Lucas, no tempo de Urbano VIII.
 
 [7] Cimabue, Florentino, he considerado como o pai da Pintura moderna,
-por ter sido o primeiro que deu alguma sombra de regularidade Ã¡s figuras
+por ter sido o primeiro que deu alguma sombra de regularidade ás figuras
 pintadas. Morreo em 1294 tendo 81 annos de idade.
 
 [8] Por _Antigo_ entendem os Artistas as mais bellas esculpturas, que
-nos restÃ£o dos antigos Gregos, e Romanos; taes como a Venus de Medicis,
+nos restão dos antigos Gregos, e Romanos; taes como a Venus de Medicis,
 o Apollo, o Laoconte, o Gladiador, etc.
 
-[9] Todas as regras geraes tem varias excepÃ§Ãµes.
+[9] Todas as regras geraes tem varias excepções.
 
-[10] JoÃ£o Baptista Tiepolo, grande Pintor a fresco, Veneziano, concorreo
+[10] João Baptista Tiepolo, grande Pintor a fresco, Veneziano, concorreo
 com Mengs, e Corado na pintura dos tectos do Palacio Real de Madrid. A
-sua composiÃ§Ã£o, e colorido encantavÃ£o; mas na correcÃ§Ã£o do desenho era
+sua composição, e colorido encantavão; mas na correcção do desenho era
 muito inferior a Mengs.
 
-[11] Era o talento de AndrÃ© GonÃ§alves, de Ignacio de Oliveira, do Rocha,
-do Bruno, de Negreiros, de Roque Vicente, do PadrÃ£o, e de quasi todos os
-nossos bons Pintores; porque entre nÃ³s he mui difficultoso poder-se o
-Artista servir do _natural_; nem o PÃºblico o exige.
+[11] Era o talento de André Gonçalves, de Ignacio de Oliveira, do Rocha,
+do Bruno, de Negreiros, de Roque Vicente, do Padrão, e de quasi todos os
+nossos bons Pintores; porque entre nós he mui difficultoso poder-se o
+Artista servir do _natural_; nem o Público o exige.
 
-[12] Depois que se inventÃ¡rÃ£o as estampas, alguns artistas, mesmo da
-primeira ordem, se servirÃ£o Ã¡s vezes dellas. Miguel Angelo gostou tanto
-d'huma invenÃ§Ã£o de Heemskerk, que a pintou. AndrÃ© del Sarto servio-se
-das de Alberto Durer. Muitos habeis Pintores do tempo do ParmasÃ£o
-pintavÃ£o pelas suas estampas: esta pintura agrada a muitos, porque he
-mais barata; mas toda a naÃ§Ã£o que se contentar com ella, nunca farÃ¡
-grandes progressos na perfeiÃ§Ã£o da Arte: terÃ¡ brilhantes crystaes; mas
-nÃ£o terÃ¡ diamantes.
+[12] Depois que se inventárão as estampas, alguns artistas, mesmo da
+primeira ordem, se servirão ás vezes dellas. Miguel Angelo gostou tanto
+d'huma invenção de Heemskerk, que a pintou. André del Sarto servio-se
+das de Alberto Durer. Muitos habeis Pintores do tempo do Parmasão
+pintavão pelas suas estampas: esta pintura agrada a muitos, porque he
+mais barata; mas toda a nação que se contentar com ella, nunca fará
+grandes progressos na perfeição da Arte: terá brilhantes crystaes; mas
+não terá diamantes.
 
 
 
@@ -1435,21 +1435,21 @@ Aqui encontram-se listados todos os erros encontrados e corrigidos:
 
 
   +----------+---------------------+----------------------+
-  |          |      Original       |      CorrecÃ§Ã£o       |
+  |          |      Original       |      Correcção       |
   +----------+---------------------+----------------------+
-  |#pÃ¡g.   19| Rephael             | Raphael              |
-  |#pÃ¡g.   32| Le Brnn             | Le Brun              |
-  |#pÃ¡g.   39| muito               | muita                |
-  |#pÃ¡g.   50| Quintiliauo         | Quintiliano          |
-  |#pÃ¡g.   54| afficta             | aflicta              |
-  |#pÃ¡g.   55| pou a               | pouca                |
-  |#pÃ¡g.   56| elless e            | elles se             |
-  |#pÃ¡g.   69| avariedade          | a variedade          |
+  |#pág.   19| Rephael             | Raphael              |
+  |#pág.   32| Le Brnn             | Le Brun              |
+  |#pág.   39| muito               | muita                |
+  |#pág.   50| Quintiliauo         | Quintiliano          |
+  |#pág.   54| afficta             | aflicta              |
+  |#pág.   55| pou a               | pouca                |
+  |#pág.   56| elless e            | elles se             |
+  |#pág.   69| avariedade          | a variedade          |
   +----------+---------------------+----------------------+
 
 
-Foram adicionadas aspas onde foram necessÃ¡rias (ex: quando se iniciavam
-e nÃ£o terminavam e vice-versa).
+Foram adicionadas aspas onde foram necessárias (ex: quando se iniciavam
+e não terminavam e vice-versa).
 
 
 

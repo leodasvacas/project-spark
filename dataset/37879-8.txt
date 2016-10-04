@@ -1,4 +1,4 @@
-Project Gutenberg's O culto do ch√°, by Wenceslau Jos√© de Sousa de Morais
+Project Gutenberg's O culto do ch·, by Wenceslau JosÈ de Sousa de Morais
 
 This eBook is for the use of anyone anywhere at no cost and with
 almost no restrictions whatsoever.  You may copy it, give it away or
@@ -6,9 +6,9 @@ re-use it under the terms of the Project Gutenberg License included
 with this eBook or online at www.gutenberg.net
 
 
-Title: O culto do ch√°
+Title: O culto do ch·
 
-Author: Wenceslau Jos√© de Sousa de Morais
+Author: Wenceslau JosÈ de Sousa de Morais
 
 Release Date: October 29, 2011 [EBook #37879]
 
@@ -16,7 +16,7 @@ Language: Portuguese
 
 Character set encoding: ISO-8859-1
 
-*** START OF THIS PROJECT GUTENBERG EBOOK O CULTO DO CH√Å ***
+*** START OF THIS PROJECT GUTENBERG EBOOK O CULTO DO CH¡ ***
 
 
 
@@ -30,10 +30,10 @@ http://http://almamater.uc.pt
 
 
 
-    *Nota de editor:* Devido √† exist√™ncia de erros tipogr√°ficos neste
-    texto, foram tomadas v√°rias decis√µes quanto √† vers√£o final. Em caso
-    de d√∫vida, a grafia foi mantida de acordo com o original. No final
-    deste livro encontrar√° a lista de erros corrigidos.
+    *Nota de editor:* Devido ‡ existÍncia de erros tipogr·ficos neste
+    texto, foram tomadas v·rias decisıes quanto ‡ vers„o final. Em caso
+    de d˙vida, a grafia foi mantida de acordo com o original. No final
+    deste livro encontrar· a lista de erros corrigidos.
 
                                           Rita Farinha (Outubro 2011)
 
@@ -53,9 +53,9 @@ http://http://almamater.uc.pt
 WENCESLAU DE MORAES
 
 
-O CULTO DO CH√Å
+O CULTO DO CH¡
 
-(ILLUSTRA√á√ïES DE YOSHIAKI)
+(ILLUSTRA«’ES DE YOSHIAKI)
 
 
 [Figura]
@@ -65,7 +65,7 @@ KOBE
 
 Typographia do "Kobe Herald"
 
-Gravuras de Got√¥ Seik√¥d√¥
+Gravuras de GotÙ SeikÙdÙ
 
 1905
 
@@ -73,14 +73,14 @@ Gravuras de Got√¥ Seik√¥d√¥
 
 
 A
-Vicente Almeida d'E√ßa,
-Sebasti√§o Peres Rodrigues,
+Vicente Almeida d'EÁa,
+Sebasti‰o Peres Rodrigues,
 Bento Carqueja,
 
-isto √©, √° _Trindade_ benevolente, que ainda ha pouco, de t√§o longe, me
-enviou dentro das folhas de um livro--as _Cartas do Jap√§o_,--o perfume
-ineffavel da sua amizade, offere√ßo este outro livro, exotico pela forma,
-exotico pelo texto, mas n√§o pelo sentimento de profunda gratid√§o, que
+isto È, · _Trindade_ benevolente, que ainda ha pouco, de t‰o longe, me
+enviou dentro das folhas de um livro--as _Cartas do Jap‰o_,--o perfume
+ineffavel da sua amizade, offereÁo este outro livro, exotico pela forma,
+exotico pelo texto, mas n‰o pelo sentimento de profunda gratid‰o, que
 inspirou esta primeira pagina.
 
 Kobe, Junho de 1905.
@@ -95,128 +95,128 @@ Kobe, Junho de 1905.
 
 
 
-O CULTO DO CH√Å.
+O CULTO DO CH¡.
 
 
-Falla-se do Jap√§o; nem, francamente, devera presumir-se que eu ia
-referir-me a um paiz qualquer occidental, onde a nossa ra√ßa branca
+Falla-se do Jap‰o; nem, francamente, devera presumir-se que eu ia
+referir-me a um paiz qualquer occidental, onde a nossa raÁa branca
 floresce.
 
-√â no Oriente, e em especial no Extremo-Oriente, que as coisas communs da
-crea√ß√§o ou os usos e costumes triviaes da vida s√§o susceptiveis de
+… no Oriente, e em especial no Extremo-Oriente, que as coisas communs da
+creaÁ‰o ou os usos e costumes triviaes da vida s‰o susceptiveis de
 merecer um tal requinte de solemnidade sentimental e de praxes de rito,
 que constituam um verdadeiro culto. No espirito do europeu, despoetizado
 pela chateza dos ideas da epoca, atribulado pelas multiplices exigencias
-da vida, pervertido pela febre do negocio, n√§o medram de ha muito os
-cultos. Especializando a observa√ß√§o ao ch√°, havemos de convir que este
-artigo de commercio, que de t√§o longe nos vem, propositadamente
+da vida, pervertido pela febre do negocio, n‰o medram de ha muito os
+cultos. Especializando a observaÁ‰o ao ch·, havemos de convir que este
+artigo de commercio, que de t‰o longe nos vem, propositadamente
 adulterado conforme o nosso gosto, no fim de contas se resume n'uma
-detestavel infus√§o que entrou em moda no _sport_ social, simples
-pretexto para repastos pelintras, para reuni√∂es banaes, para palestras
-v√§s.
+detestavel infus‰o que entrou em moda no _sport_ social, simples
+pretexto para repastos pelintras, para reuniˆes banaes, para palestras
+v‰s.
 
-A Asia √© outra coisa: a muitos propositos immersa ainda em barbarismo,
+A Asia È outra coisa: a muitos propositos immersa ainda em barbarismo,
 se assim se quer dizer; com mil defeitos e mil erros, que a sabia Europa
 aponta a dedo e algumas vezes corrige, quando pode, com a logica dos
-seus conho√´s de tiro rapido; o que ella retem ainda, indiscutivelmente,
-esta Asia, √© o caracter ancestral, nada vulgar, nada rasteiro,
-palpitante de orgulhos de ra√ßa, aprazendo-se em sonhos e em chimeras,
+seus conhoÎs de tiro rapido; o que ella retem ainda, indiscutivelmente,
+esta Asia, È o caracter ancestral, nada vulgar, nada rasteiro,
+palpitante de orgulhos de raÁa, aprazendo-se em sonhos e em chimeras,
 acariciando a lenda, divinizando as coisas, prodigalizando os cultos; o
-que √©, em todo o caso, uma maneira amavel, de ir comprehendendo a vida.
+que È, em todo o caso, uma maneira amavel, de ir comprehendendo a vida.
 
        *       *       *       *       *
 
 [Figura]
 
-Oh, f√© dos velhos tempos!... Oh, santos patriarchas de t√§o varios paizes
-e t√§o differentes seitas, tenazes campe√∂es, que fostes incutindo nos
-simples a cren√ßa, a esperan√ßa, o amor,--balsamos consoladores das duras
+Oh, fÈ dos velhos tempos!... Oh, santos patriarchas de t‰o varios paizes
+e t‰o differentes seitas, tenazes campeˆes, que fostes incutindo nos
+simples a crenÁa, a esperanÁa, o amor,--balsamos consoladores das duras
 miserias d'este mundo,--como eu vos amo, a todos!...
 
-Meus piedosos pensamentos elevam-se n'este momento a Darum√°. Segundo a
-tradi√ß√§o da gente japoneza, Darum√°, o grande apostolo indiano do
-buddhismo, veio √° China ahi pelo come√ßo do seculo VI da nossa era
-christ√§, e em terras chinezas pr√©gou em honra da verdade, illuminando o
+Meus piedosos pensamentos elevam-se n'este momento a Darum·. Segundo a
+tradiÁ‰o da gente japoneza, Darum·, o grande apostolo indiano do
+buddhismo, veio · China ahi pelo comeÁo do seculo VI da nossa era
+christ‰, e em terras chinezas prÈgou em honra da verdade, illuminando o
 espirito dos povos.
 
 [Figura]
 
 Consta que, por voluntaria desistencia das ephemeras alegrias terreaes,
-Darum√° votou-se a passar a vida de joelhos sobre o solo pedregoso,
-absorto em contempla√ß√∂es mysticas, sem mesmo permittir-se o simples
+Darum· votou-se a passar a vida de joelhos sobre o solo pedregoso,
+absorto em contemplaÁˆes mysticas, sem mesmo permittir-se o simples
 regalo de dormir. Tantos annos permaneceu de tal maneira, que as pernas
-se lhe gastaram, claro est√°; e √© assim, sem pernas, s√≥ com a cabe√ßa e
-com o tronco, envolto n'um manto carmezim, que ainda hoje √© figurado. A
-imagem tronou-se querida e popular entre esta boa gente japoneza; √©
-mesmo um brinquedo corriqueiro entre as m√§ositas das crean√ßas,--os
+se lhe gastaram, claro est·; e È assim, sem pernas, sÛ com a cabeÁa e
+com o tronco, envolto n'um manto carmezim, que ainda hoje È figurado. A
+imagem tronou-se querida e popular entre esta boa gente japoneza; È
+mesmo um brinquedo corriqueiro entre as m‰ositas das creanÁas,--os
 santos e os meninos vivem sempre em boa companhia;--lembrando o tal
 brinquedo o nosso _frade de sabugo_, pela teima em voltar, por mais
-voltas que lhe d√™em, √° sua postura habitual. Deve ainda saber-se que
-Darum√° tem dado assumpto, desde remotos tempos at√© hoje, a pintores da
-mais alta valia; Hokusai foi um d'elles, pintando um famoso Darum√° sobre
+voltas que lhe dÍem, · sua postura habitual. Deve ainda saber-se que
+Darum· tem dado assumpto, desde remotos tempos atÈ hoje, a pintores da
+mais alta valia; Hokusai foi um d'elles, pintando um famoso Darum· sobre
 uma folha de papel de cerca de duzentos metros quadrados de grandeza,
 empregando oitenta litros de tinta no desenho e servindo-se de cinco
-vassouras √° laia de pinceis; estendida a tela sobre o campo, no telhado
+vassouras · laia de pinceis; estendida a tela sobre o campo, no telhado
 de um templo a turba admirava a obra e applaudia o mestre.
 
-Mas volt√™mos ao que aqui mais nos interessa, respeitante ao venerando
+Mas voltÍmos ao que aqui mais nos interessa, respeitante ao venerando
 vulto que invoquei, ajoelhado sobre as pedras. Consta mais que, em certa
-noite, as palpebras se lhe cerraram de fadiga, e o bom Darum√° deixou-se
-adormecer, para s√≥ acordar pela manh√§. Ent√§o, pedindo a alguem uma
+noite, as palpebras se lhe cerraram de fadiga, e o bom Darum· deixou-se
+adormecer, para sÛ acordar pela manh‰. Ent‰o, pedindo a alguem uma
 tesoira ou instrumento parecido, cortou a si proprio as palpebras
-indignas e arreme√ßou-as ao solo, n'um gesto de despeito... As palpebras,
-por milagre, erraizaram, dando nascen√ßa o a um gracioso arbusto nunca
-visto, que medrou mui de prompto e cujas folhas, tratadas de infus√§o
-pela agua quente, f√¥ram um remedio precioso contra o somno e contra o
-can√ßa√ßo das vigilias. Estava conhecido o ch√°; tem pois na China a sua
-origem, e √© coisa santa, como se acava de provar. Cr√™ quem quer; mas
+indignas e arremeÁou-as ao solo, n'um gesto de despeito... As palpebras,
+por milagre, erraizaram, dando nascenÁa o a um gracioso arbusto nunca
+visto, que medrou mui de prompto e cujas folhas, tratadas de infus‰o
+pela agua quente, fÙram um remedio precioso contra o somno e contra o
+canÁaÁo das vigilias. Estava conhecido o ch·; tem pois na China a sua
+origem, e È coisa santa, como se acava de provar. CrÍ quem quer; mas
 devo advertir que este livro foi escripto para os crentes.
 
 [Figura]
 
        *       *       *       *       *
 
-Da China, veio o ch√° para as terras de Nippon, mas n√§o se sabe quando.
+Da China, veio o ch· para as terras de Nippon, mas n‰o se sabe quando.
 
 [Figura]
 
 Velhas chronicas mencionam (no dizer dos entendidos n'este caso
-melindroso), que em 729 da era Christ√§, durante uma festa religiosa de
-espavento, o imperador Shomu offerecia ch√° a bonzos de alta gerarchia;
-mas fica-se ignorando se j√° antes seria conhecido... Parece que um bom
+melindroso), que em 729 da era Christ‰, durante uma festa religiosa de
+espavento, o imperador Shomu offerecia ch· a bonzos de alta gerarchia;
+mas fica-se ignorando se j· antes seria conhecido... Parece que um bom
 abbade buddista, Dengyo Daishi, foi o primeiro que obteve a planta em
-solo japonez, em 805; o ch√° era ent√§o j√° uma beberagem favorita entre os
+solo japonez, em 805; o ch· era ent‰o j· uma beberagem favorita entre os
 bonzos chinezes, que d'ella se serviam durante as vigilias prolongadas
 das suas praticas nocturnas. Mais recentemente, ainda outro, bonzo,
-Eisei, tendo ido √° China, de l√° voltou, trazendo as sementes preciosas,
+Eisei, tendo ido · China, de l· voltou, trazendo as sementes preciosas,
 e no monte Sefuri, em Chikuzen, cuidou da sua sementeira. Pouco depois,
-ainda mais outro bonzo (sempre os bonzos!) de nome Mioy√©, colhendo de
+ainda mais outro bonzo (sempre os bonzos!) de nome MioyÈ, colhendo de
 Eisei os varios segredos de cultura, novas sementes adquiriu, e em
 Toga-no-o em Uji, logares visinhos de Kyoto, attentamente se entreve em
-cultivar o ch√°; em Uji, de preferencia, f√¥ram os resultados excellentes.
+cultivar o ch·; em Uji, de preferencia, fÙram os resultados excellentes.
 Dois seculos depois, cerca de 1400, o shogun (generalissimo) Ashikawa
-Yoshimitsu imprimiu vigoroso impulso √°s plantac√¥es de Uji, as quaes
-tanto f√¥ram prosperando, merc√™ da riqueza do torr√§o, que de ent√§o at√©
-hoje o ch√° d'aquelle sitio tem sido celebrado como o melhor de todo o
+Yoshimitsu imprimiu vigoroso impulso ·s plantacÙes de Uji, as quaes
+tanto fÙram prosperando, mercÍ da riqueza do torr‰o, que de ent‰o atÈ
+hoje o ch· d'aquelle sitio tem sido celebrado como o melhor de todo o
 imperio; d'elle exclusivamente se serve o Imperador.
 
        *       *       *       *       *
 
-O Jap√§o √© a terra das camelias: _camelia japonica_, l√° diz o latinorio
+O Jap‰o È a terra das camelias: _camelia japonica_, l· diz o latinorio
 dos botanicos.
 
 [Figura]
 
-Quando, por fins de novembro, come√ßam os frios e as geadas e pouco tarda
+Quando, por fins de novembro, comeÁam os frios e as geadas e pouco tarda
 que as neves alvejem nos dorsos das montanhas, quando cessam as ultimas
-florescencias dos jardins, √© ent√§o que comecam ostentando-se as bellas
-flores d'esta esplendida familia das camelias. V√©em primeiro as
+florescencias dos jardins, È ent‰o que comecam ostentando-se as bellas
+flores d'esta esplendida familia das camelias. VÈem primeiro as
 sazankas, umas brancas, cutras roseas, de mimosissimas petalas frisadas;
 seguem-se as camelias simples, sanguineas, surdindo da rama espessa de
-arvores gigantes, espalhadas pelos campos; e ap√≥s v√©em as flores
+arvores gigantes, espalhadas pelos campos; e apÛs vÈem as flores
 cuidadas, de luxo, variando em innumeras formas, variando em innumeros
-tons, desde o branco de leite ate ao roseo quasi negro. Ent√§o igualmente
-desabrocha a pequenina fl√¥r do ch√°, que tambem √© uma camelia,
+tons, desde o branco de leite ate ao roseo quasi negro. Ent‰o igualmente
+desabrocha a pequenina flÙr do ch·, que tambem È uma camelia,
 subtilmente perfumada, composta de cinco petalasinhas alvas contornando
 e protegendo o feixe aureo dos estames.
 
@@ -224,66 +224,66 @@ e protegendo o feixe aureo dos estames.
 
 [Figura]
 
-Passando, em horas de ocio, junto dos campos de ch√°, dos quaes sinto
-prazer em acercar-me, palestro com os alde√∂es e aprendo no√ß√∂es varias,
-respeitantes √° delicada planta. N√§o pode ser transplantada, nem se
-multiplica por estaca ou por enxerto, s√≥ por sementeira se propaga. Os
-paizes quentes, como os paizes frios, s√§o-lhe nocivos; prospera nos
+Passando, em horas de ocio, junto dos campos de ch·, dos quaes sinto
+prazer em acercar-me, palestro com os aldeˆes e aprendo noÁˆes varias,
+respeitantes · delicada planta. N‰o pode ser transplantada, nem se
+multiplica por estaca ou por enxerto, sÛ por sementeira se propaga. Os
+paizes quentes, como os paizes frios, s‰o-lhe nocivos; prospera nos
 climas temperados, nos sitios lavados de ar e luz, visinhos dos cursos
-de agua, convindo um ligeiro declive ao solo de cultura. Os arbustos s√§o
+de agua, convindo um ligeiro declive ao solo de cultura. Os arbustos s‰o
 dispostos em renques parallelos, de norte a sul, para que o sol lhes
-bata em cheio desde pela manh√§ at√© √° noite; as plantas mais cuidadas
+bata em cheio desde pela manh‰ atÈ · noite; as plantas mais cuidadas
 reclamam na primavera grandes toldos de palha, que abriguem das geadas
 as tenras folhas dos rebentos. Durante o primeiro anno, dispensam
 adubos, que depois se applicam em periodos frequentes. A guerra aos
 vermes, aos insectos, exige zelos incessantes. No fim de quatro annos,
-j√° o arbusto se presta √° primeira colheita; mas s√§o as velhas plantas,
+j· o arbusto se presta · primeira colheita; mas s‰o as velhas plantas,
 de cem annos, de duzentos annos, as que melhor produzem.
 
 [Figura]
 
        *       *       *       *       *
 
-Quem quizer tomar conhecimento com a planta de ch√°, nas melhores
-condi√ßo√´s de prosperidade e em mais bellas galas de aspecto pittoresco,
-tem de ir at√© Uji, distante quinze milhas de Kyoto; escolhendo de
-preferencia um dos primeiros d√Æas de maio, quando os rebentos novos
-come√ßam vicejando, o que marca o inicio da faina da colheita. Faina e
-festa: a povoa√ß√§o inteira acorda da sua modorra provinciana; desperta em
-esperan√ßas, em jubilos, em actividades incan√ßaveis, para votar-se aos
-cuidados da preciosa folha; dever√° presumir-se, em bom criterio, que a
-quadra remo√ßante da primavera em flores, com aromas nas brisas e
+Quem quizer tomar conhecimento com a planta de ch·, nas melhores
+condiÁoÎs de prosperidade e em mais bellas galas de aspecto pittoresco,
+tem de ir atÈ Uji, distante quinze milhas de Kyoto; escolhendo de
+preferencia um dos primeiros dÓas de maio, quando os rebentos novos
+comeÁam vicejando, o que marca o inicio da faina da colheita. Faina e
+festa: a povoaÁ‰o inteira acorda da sua modorra provinciana; desperta em
+esperanÁas, em jubilos, em actividades incanÁaveis, para votar-se aos
+cuidados da preciosa folha; dever· presumir-se, em bom criterio, que a
+quadra remoÁante da primavera em flores, com aromas nas brisas e
 quenturas creadoras, constitue tambem um forte estimulo para a alegria
 repentina que se pinta nos rostos de toda aquella gente.
 
-O quadro √© deveras aprazivel. Ap√≥s uma banal esta√ß√§o de linha ferrea,
+O quadro È deveras aprazivel. ApÛs uma banal estaÁ‰o de linha ferrea,
 estende-se a cidadesinha garrida, com as suas viella muito limpas e a
 fila de lojinhas abarrotadas de varia mercancia. Depois segue-se o rio,
-de aguas limpidas e frescas, rico de tradi√ß√∂es de gloria; galga-se a
+de aguas limpidas e frescas, rico de tradiÁˆes de gloria; galga-se a
 ponte em arco, entra-se no bairro das _chayas_, dos hoteis, em tal
 quadra povoados de freguezes galhofeiros e de gentis mulheres, as
-_gueishas_, que cantam ou dedilham no inseparavel _shamicen_; e v√©em
-depois os campos, vastos campos de ch√° a succederem-se pelo horisonte
-f√≥ra, cuidados como jardins, em longos alinhamentos de arbustos,
+_gueishas_, que cantam ou dedilham no inseparavel _shamicen_; e vÈem
+depois os campos, vastos campos de ch· a succederem-se pelo horisonte
+fÛra, cuidados como jardins, em longos alinhamentos de arbustos,
 copados, arredondados, lembrando enormes mangericos, de delicada rama de
 um verde esculro bronzeado; no azul distante, alguns famosos templos
 confusamente se recortam.
 
 [Figura]
 
-As mo√ßas de Uji estream _kimonos_ novos para o caso, arrega√ßando as
+As moÁas de Uji estream _kimonos_ novos para o caso, arregaÁando as
 mangas com fitas escarlates; amarram em turbante em volta dos cabellos
-toalhas de c√¥r azul e branca; e assim, esbeltas, graciosissimas, em
-ranchos de dez, de doze companheiras, dirigem-se ao trabalho. √â ent√§o um
+toalhas de cÙr azul e branca; e assim, esbeltas, graciosissimas, em
+ranchos de dez, de doze companheiras, dirigem-se ao trabalho. … ent‰o um
 encanto para os olhos ir a gente surprehendel-as no afan do seu mister,
-dispersas pelas campinas f√≥ra, como borboletas; indo de um ramo a outro
+dispersas pelas campinas fÛra, como borboletas; indo de um ramo a outro
 ramo, de um arbusto a outro arbusto, por vezes occultando-se entre o
 verde mais denso da folhagem. Os dedos roseos, miudinhos, a escorrerem
-de orvalho e multiplicando-se em gestos delicados, v√§o colhendo os
-rebentos tenros do ch√° e atirando-os a grandes ceiras dispostas pelo
-ch√§o; as boccas v√§o sorrindo, patenteando as enfiadas alvas dos
+de orvalho e multiplicando-se em gestos delicados, v‰o colhendo os
+rebentos tenros do ch· e atirando-os a grandes ceiras dispostas pelo
+ch‰o; as boccas v‰o sorrindo, patenteando as enfiadas alvas dos
 dentinhos; os olhos esbrazeam em juvenis amores inconfessados; as vozes
-unem-se √°s vozes, em rythmos commoventes de velhas can√ß√∂es locaes:
+unem-se ·s vozes, em rythmos commoventes de velhas canÁˆes locaes:
 
 [Figura]
 
@@ -293,20 +293,20 @@ Todas as aguas do rio
 Parecem memo um brazeiro!...
 
     "N'estas aguas do rio d'Uji
---Ta√∂ milagrosas que s√§o!--
+--Taˆ milagrosas que s‰o!--
 Lavam-se todos os males
-De que soffre o cora√ß√§o...
+De que soffre o coraÁ‰o...
 
 [Figura]
 
-No campo, as raparigas. Nas casas, os homens, as velhas, as crean√ßas.
-Ser√° rara a familia que n√§o tenha interesses na labuta; as grandes
-fabricas constituem excep√ß√§o, como em todas as primitivas industrias
+No campo, as raparigas. Nas casas, os homens, as velhas, as creanÁas.
+Ser· rara a familia que n‰o tenha interesses na labuta; as grandes
+fabricas constituem excepÁ‰o, como em todas as primitivas industrias
 japonezas; em cada albergue se improvisa uma manufactura, modesta,
-familial, onde todos trabalham, risonhos, palestrando. O ch√° √©
+familial, onde todos trabalham, risonhos, palestrando. O ch· È
 escolhido, escaldado, posto a seccar, grelhado em fornos, enroladas as
-folhas ou reduzido p√≥, depois empacotado, guardado em latas, em caixas,
-em boi√∂es; um melindroso amanho que requer m√§os incan√ßaveis, dedos
+folhas ou reduzido pÛ, depois empacotado, guardado em latas, em caixas,
+em boiˆes; um melindroso amanho que requer m‰os incanÁaveis, dedos
 prestimosos, cuidados inauditos, segredos de processo, meticulosidades
 devotas que espantam os profanos, nas quaes collabora a gente toda
 valida d'aquelles arredores.
@@ -315,74 +315,74 @@ valida d'aquelles arredores.
 
        *       *       *       *       *
 
-Tal √© a industria graciosa e tal √© o ch√° que os japonezes bebem. V√™de
-agora como a civiliza√ß√§o occidental contrasta com os usos d'estes
-asiaticos. T√©em os japonezes, para l√° do Pacifico, um grande consumidor
-do seu producto: √© o _Yankee_. Tanto mimo e tanto esmero na apanha da
-folha e preparo√ß√∂es que se succedem n√§o bastariam para o ch√° que os
-americanos v√§o beber. Vem de Uji e de outros pontos, tal como os
+Tal È a industria graciosa e tal È o ch· que os japonezes bebem. VÍde
+agora como a civilizaÁ‰o occidental contrasta com os usos d'estes
+asiaticos. TÈem os japonezes, para l· do Pacifico, um grande consumidor
+do seu producto: È o _Yankee_. Tanto mimo e tanto esmero na apanha da
+folha e preparoÁˆes que se succedem n‰o bastariam para o ch· que os
+americanos v‰o beber. Vem de Uji e de outros pontos, tal como os
 japonezes o preparam, para as firmas estrangeiras de Kobe e de Yokohama;
-√© ent√§o submetido a novas opera√ß√∂es, ao sabor do fino paladar de
-Nova-York e de Chicago. N√§o s√§o agora as camponezas, esbeltas e trajando
+È ent‰o submetido a novas operaÁˆes, ao sabor do fino paladar de
+Nova-York e de Chicago. N‰o s‰o agora as camponezas, esbeltas e trajando
 roupas novas, que acodem ao mister; trabalham machinas a vopor, fumegam
-chamin√©s e guincham engrenagens; e occupa-se no preparo um mundo
+chaminÈs e guincham engrenagens; e occupa-se no preparo um mundo
 feminino inqualificavel, escoria das cidades, esfarrapado, piolhoso,
-horripilante, que a gente v√™ sahir das fabricas √° tarde como uma leva de
-mendigas, cheias de p√≥, de pustulas, de miseria. O fabrico do ch√° ao
+horripilante, que a gente vÍ sahir das fabricas · tarde como uma leva de
+mendigas, cheias de pÛ, de pustulas, de miseria. O fabrico do ch· ao
 gosto americano consiste n'um segundo aquecimento em grandes fornos e na
-addi√ß√§o de varios productos, como o p√≥ de uma certa pedra, _soopstone_,
-e o azul da Prussia. Assim √© expedido.
+addiÁ‰o de varios productos, como o pÛ de uma certa pedra, _soopstone_,
+e o azul da Prussia. Assim È expedido.
 
        *       *       *       *       *
 
 [Figura]
 
-A introduc√ß√§o e vulgarisa√ß√§o do ch√° na terra japoneza deveu grande
+A introducÁ‰o e vulgarisaÁ‰o do ch· na terra japoneza deveu grande
 incremanto uma industria desde remotos tempos exercida, mas toscamente
-praticada,--a ceramica,--que havia de alcan√ßar com o correr dos tempos
-um supremo grau de perfei√ß√§o como arte nacional. A conserva√ß√§o da
+praticada,--a ceramica,--que havia de alcanÁar com o correr dos tempos
+um supremo grau de perfeiÁ‰o como arte nacional. A conservaÁ‰o da
 preciosa folha, exigindo escrupulos inauditos para reter o seu perfume,
 marcou o ponto de partida. Foi Toshiro, um oleiro da aldeia de Seto, na
-provincia de Owari, quem fabricou os primeiros boi√∂es para guardar o
-ch√°, empregando processos que aprendera na China, respeitantes √°
-perfei√ß√§o da pasta e dos esmaltes. Passava-se isto ha sete seculos; e √©
-curioso registar que _seto-mono_ (objecto de Seto) √© ainda hoje o nome
+provincia de Owari, quem fabricou os primeiros boiˆes para guardar o
+ch·, empregando processos que aprendera na China, respeitantes ·
+perfeiÁ‰o da pasta e dos esmaltes. Passava-se isto ha sete seculos; e È
+curioso registar que _seto-mono_ (objecto de Seto) È ainda hoje o nome
 consagrado para indicar qualquer artigo de ceramica.
 
-Dos boi√∂es, passou-se gradualmente √°s chavenas, aos bules, √° gentil e
-complicada baixella que a infus√§o foi reclamando e o luxo pondo em moda;
-e ora aqui est√° como a ceramica no Jap√§o,--faian√ßa ou porcellana,--que
-attingiu requintes de arte primorissima, deveu ao ch√° e √° agua morna os
+Dos boiˆes, passou-se gradualmente ·s chavenas, aos bules, · gentil e
+complicada baixella que a infus‰o foi reclamando e o luxo pondo em moda;
+e ora aqui est· como a ceramica no Jap‰o,--faianÁa ou porcellana,--que
+attingiu requintes de arte primorissima, deveu ao ch· e · agua morna os
 seus melhores progressos.
 
        *       *       *       *       *
 
-Quando comec√°ram a tomar ch√° os japonezes, era este reduzido a um
-impalpavel p√≥ e com elle se fazia a beberagem; depois veio o uso de
-empregar as folhas, apenas escolhidas e passadas pelos fornos; e √© esta,
+Quando comec·ram a tomar ch· os japonezes, era este reduzido a um
+impalpavel pÛ e com elle se fazia a beberagem; depois veio o uso de
+empregar as folhas, apenas escolhidas e passadas pelos fornos; e È esta,
 ainda hoje, a maneira mais commum de preparal-o.
 
 [Figura]
 
-No Jap√§o, toda a gente toma ch√°,--ricos e pobres, nobres e
-plebeus:--bebe-se na occasi√§o das refei√ß√∂es e a toda a hora, a
-pequeninos golos. No lar, quando entra o visitante, offerecese-lhe, ap√≥s
-as reverencias, uma almofada de regalo e uma chavena de ch√°. O mercador,
+No Jap‰o, toda a gente toma ch·,--ricos e pobres, nobres e
+plebeus:--bebe-se na occasi‰o das refeiÁˆes e a toda a hora, a
+pequeninos golos. No lar, quando entra o visitante, offerecese-lhe, apÛs
+as reverencias, uma almofada de regalo e uma chavena de ch·. O mercador,
 quando quer se amavel com o freguez, serve-lhe antes de tudo uma chavena
-de ch√°, palestra, falla da chuva e do bom tempo; s√≥ mais tarde se trata
+de ch·, palestra, falla da chuva e do bom tempo; sÛ mais tarde se trata
 do negocio. Nos templos famosos, em Kyoto por exemplo, o bonzo offerece
-ch√° ao peregrino antes de lhe mostrar as reliquias e os museus. Pelos
-caminhos mais agrestes, que v√§o serpeando pelas collinas arriba, ha
-rusticos poisos espa√ßados aqui e acol√°, onde o caminheiro descan√ßa
-alguns minutos, bebe uma chavena de ch√°, troca um sorriso, deixando em
+ch· ao peregrino antes de lhe mostrar as reliquias e os museus. Pelos
+caminhos mais agrestes, que v‰o serpeando pelas collinas arriba, ha
+rusticos poisos espaÁados aqui e acol·, onde o caminheiro descanÁa
+alguns minutos, bebe uma chavena de ch·, troca um sorriso, deixando em
 retorno um cobre sobre a esteira. Um restaurante, na pittoresca
 linguagem japoneza, diz-se uma _chaya_,--que quer dizer--casa de
-ch√°.--De sorte que a chavena de ch√°, que acompanha os _bons-dias_ dados
-a quem chega, n√§o constitue simplesmente uma norma rutineira, um habito
+ch·.--De sorte que a chavena de ch·, que acompanha os _bons-dias_ dados
+a quem chega, n‰o constitue simplesmente uma norma rutineira, um habito
 banal, tornou-se como que o symbolo da doce hospitalidade japoneza, um
 rito da bonhomia d'esta gente, exercido religiosamente entre amigos,
-entre estranhos tambem, porque ao estranho, que larga √° porta as
-sandalias, vem ao nosso lar e nos sa√∫da, deve-se ja um sorriso e a sua
+entre estranhos tambem, porque ao estranho, que larga · porta as
+sandalias, vem ao nosso lar e nos sa˙da, deve-se ja um sorriso e a sua
 parte de conforto.
 
 [Figura]
@@ -393,44 +393,44 @@ parte de conforto.
 
 Na casa, nua de moveis, porem mimosa de aceios requintados, figura
 sempre o brazeiro sobre a esteira, enas brazas vae fervilhando a
-chaleira de ferro cheia de agua; o _bon_ (uma bandeja) est√° cerca,
+chaleira de ferro cheia de agua; o _bon_ (uma bandeja) est· cerca,
 contendo o bule, as cinco chavenas (cinco, porque? talvez por serem
-cinco os dedos em cada m√§osinha japoneza), os cinco pires de madeira ou
-de metal, o cofre de estanho contendo o ch√° em folhas e ainda o
+cinco os dedos em cada m‰osinha japoneza), os cinco pires de madeira ou
+de metal, o cofre de estanho contendo o ch· em folhas e ainda o
 pequenino recipiente em porcellana chamado _yuzamashi_, cuja ordinaria
 serventia vae muito em breve conhecer-se. O sentimento artistico japonez
 deprava-se naturalmente na industria de hoje, em grande parte com
-destino √° exporta√ß√§o para a Europa e para a America; √© nos utensilios
-communs de uso indigena, onde n√§o intervem o modernismo, que ainda
+destino · exportaÁ‰o para a Europa e para a America; È nos utensilios
+communs de uso indigena, onde n‰o intervem o modernismo, que ainda
 reside o gosto esthetico, puro e inconfundivel, da gente japoneza,
 revelando por si o complicado conjuncto de esmeros, de elegancias, de
 chimeras, em que a alma d'este povo se deleita. No que respeita o
-servi√ßo de ch√°, √© innarravel a gentileza de todo este arsenal de
-bagatelas, minusculas, dando a impress√§o de serem destinadas a um
+serviÁo de ch·, È innarravel a gentileza de todo este arsenal de
+bagatelas, minusculas, dando a impress‰o de serem destinadas a um
 banquete de bonecas!...
 
 [Figura]
 
-A agua passa da chaleira para o _yuzamashi_, onde arrefece, pois √©
-preceito fazer-se o ch√° com agua que ferveu, mas ja n√§o ferve;
-prepara-se depois no bule a infus√§o, que √© offerecida aos hospedes nas
-pequeninas ta√ßas de fina porcellana.
+A agua passa da chaleira para o _yuzamashi_, onde arrefece, pois È
+preceito fazer-se o ch· com agua que ferveu, mas ja n‰o ferve;
+prepara-se depois no bule a infus‰o, que È offerecida aos hospedes nas
+pequeninas taÁas de fina porcellana.
 
-Eis a singela practica e eis a modesta offerta, actos da vida intima n√§o
-poucas vizes repetidos durante cada dia, desde pela manh√§ at√© √° noite.
+Eis a singela practica e eis a modesta offerta, actos da vida intima n‰o
+poucas vizes repetidos durante cada dia, desde pela manh‰ atÈ · noite.
 Poderiam julgar-se sem meritos que valessem do estranho um instante de
-atten√ß√§o e um commentario; mas n√§o succede assim. Para a alegria dos
-olhos, a simples prepara√ß√§o do ch√° imprime um relevo delicioso √°
-graciosidade innata na _musum√©_, na attitude que lhe √© mais habitual, de
-joelhos sobre a esteira, junto do seu brazeiro. A mimica √© impressiva,
+attenÁ‰o e um commentario; mas n‰o succede assim. Para a alegria dos
+olhos, a simples preparaÁ‰o do ch· imprime um relevo delicioso ·
+graciosidade innata na _musumÈ_, na attitude que lhe È mais habitual, de
+joelhos sobre a esteira, junto do seu brazeiro. A mimica È impressiva,
 unica; privilegio d'aquella figurinha meiga e ondulante e d'aquella
-buli√ßosa m√§o, de finissimos contornos, da japoneza, que √©, em summa, a
+buliÁosa m‰o, de finissimos contornos, da japoneza, que È, em summa, a
 Eva mais gentilmente pueril, mais captivantemente chimerica, mais
 feminina emfim, de todas as Evas d'este mundo. Parece certo que jamais o
-japonez, que ignora o beijo, haja poisado a bocca n'aquella m√§o que
-exhibe esplendores de gra√ßa para servir-lhe o ch√°; o forasteiro, em
+japonez, que ignora o beijo, haja poisado a bocca n'aquella m‰o que
+exhibe esplendores de graÁa para servir-lhe o ch·; o forasteiro, em
 intimidade serena, pode ensaiar o galenteio se a phantasia o tenta; e
-ent√§o ver√° talvez, que a m√§osita da _musum√©_, reconhecida ao afago, se
+ent‰o ver· talvez, que a m‰osita da _musumÈ_, reconhecida ao afago, se
 conchega de encontro aos labios, se demora, como uma rola docil gulosa
 de carinhos.
 
@@ -440,137 +440,137 @@ de carinhos.
 
 [Figura]
 
-O ch√° japonez, servido invariamente sem leite e sem assucar, que lhe
-prejudicariam o aroma, √© a bebida mais suavemente agradavel que possa
-offerecer-se ao nosso paladar (n√§o de todos porem, ams um paladar
-sentimental, um tanto sonhador... que n'isto dos nossos org√§os de sentir
-ha temperamentos, aptid√∂es affectivas caracteristicas...). O _guyokur√≥_,
-por exemplo, que √© o mais celebrado ch√° de Uji e de todo o Jap√§o,
+O ch· japonez, servido invariamente sem leite e sem assucar, que lhe
+prejudicariam o aroma, È a bebida mais suavemente agradavel que possa
+offerecer-se ao nosso paladar (n‰o de todos porem, ams um paladar
+sentimental, um tanto sonhador... que n'isto dos nossos org‰os de sentir
+ha temperamentos, aptidˆes affectivas caracteristicas...). O _guyokurÛ_,
+por exemplo, que È o mais celebrado ch· de Uji e de todo o Jap‰o,
 instilla taes subtilezas balsamicas de sabor, que mais parece um
 perfume; poderia dizer-se que uma maravilhosa alchimia conseguiu
 liquifazer os aromas de flores--flores dos jardins, flores
-silvestres,--transferido do olphato ao paladar a impress√§o do goso.
-Assim √© o _guyokur√≥_; claro est√° que as palavras n√§o podem traduzir
-sen√§o por compara√ß√§o as emo√ß√∂es sentidas; e esta, a do agradoce
+silvestres,--transferido do olphato ao paladar a impress‰o do goso.
+Assim È o _guyokurÛ_; claro est· que as palavras n‰o podem traduzir
+sen‰o por comparaÁ‰o as emoÁˆes sentidas; e esta, a do agradoce
 deliciosissimo que nos fica nos labios, persistindo, como na memoria
-persiste uma reminiscencia, uma saudade, √© imcomparavel...
+persiste uma reminiscencia, uma saudade, È imcomparavel...
 
-O ch√° joponez tem a virtude de mitigar a s√™de. Assi se explica o habito
-dos japonezes n√§o beberem agua; mesmo na for√ßa dos calores, em pleno
-agosto, a chavena de ch√°, saboreada a goles, lhes d√° pleno consolo.
-Aponta-se-lhe mais outros cond√∂es: excita ligeiramente o organismo,
-combate o can√ßa√ßo das vigilias, predisp√∂e ao bem estar, infiltra no
-cerebro n√§o sei que subtil embriaguez, lucida todavia, que nos torna
-mais affectivos √°s sensa√ß√∂es de agrado e mais aptos √°s elabora√ß√∂es do
+O ch· joponez tem a virtude de mitigar a sÍde. Assi se explica o habito
+dos japonezes n‰o beberem agua; mesmo na forÁa dos calores, em pleno
+agosto, a chavena de ch·, saboreada a goles, lhes d· pleno consolo.
+Aponta-se-lhe mais outros condˆes: excita ligeiramente o organismo,
+combate o canÁaÁo das vigilias, predispˆe ao bem estar, infiltra no
+cerebro n‰o sei que subtil embriaguez, lucida todavia, que nos torna
+mais affectivos ·s sensaÁˆes de agrado e mais aptos ·s elaboraÁˆes do
 pensamento
 
        *       *       *       *       *
 
 [Figura]
 
-A maneira de preparar a infus√§o do ch√° em p√≥ e a arte de servil-o
-constituem a t√§o famosa cerimonia chamada do _ch√°-no-yu_. Foi assim que
-o uso do ch√° se introduzio no Jap√§o, como uma pratica liturgica dos
+A maneira de preparar a infus‰o do ch· em pÛ e a arte de servil-o
+constituem a t‰o famosa cerimonia chamada do _ch·-no-yu_. Foi assim que
+o uso do ch· se introduzio no Jap‰o, como uma pratica liturgica dos
 frades buddhistas da seita de Daisu, exercida no proposito de
 prolongares as mysticas vigilhas preceituadas; servia ao mesmo tempo de
-pretexto para reuni√∂es intimas, que eram, imagina-se, um aprazivel
-desenfado √° proverbial monotonia do convento; sendo um meio efficaz de
-estreitar la√ßos de estima, pelas confidencias segredadas, pelos sorrisos
-beatificos que se cruzavam, em quanto que a unica ta√ßa ia passando, de
-m√§o em m√§o, de bocca em bocca, fraternalmente, at√© a esvaziar.
+pretexto para reuniˆes intimas, que eram, imagina-se, um aprazivel
+desenfado · proverbial monotonia do convento; sendo um meio efficaz de
+estreitar laÁos de estima, pelas confidencias segredadas, pelos sorrisos
+beatificos que se cruzavam, em quanto que a unica taÁa ia passando, de
+m‰o em m‰o, de bocca em bocca, fraternalmente, atÈ a esvaziar.
 
 [Figura]
 
-Mais tarde adoptou-se entre o povo o uso das folhas; mas o _ch√°-no-yu_
+Mais tarde adoptou-se entre o povo o uso das folhas; mas o _ch·-no-yu_
 persistiu nas bonzarias, propagando-se tambem nos costumes profanos,
-ent√§o com um exuberante luxo de apparato, que muito apaixonou a alta
-nobreza. Pelos dias que correm, ainda est√° em moda, sem distinc√ß√§o de
-classes; √© um habito gentil que ficou dos velhos tempos e a que todos
+ent‰o com um exuberante luxo de apparato, que muito apaixonou a alta
+nobreza. Pelos dias que correm, ainda est· em moda, sem distincÁ‰o de
+classes; È um habito gentil que ficou dos velhos tempos e a que todos
 podem entregar-se, tido em valia pela delicadeza esthetica do scenario e
-ainda n√§o despido do prestigio ortodoxo que lhe vem da remota tradi√ß√§o.
+ainda n‰o despido do prestigio ortodoxo que lhe vem da remota tradiÁ‰o.
 
-O _ch√°-do-yu_, se pode definir-se, √© a arte de preparar a infus√§o do ch√°
-em p√≥, com esses escrupulos de limpeza, com esses requintes de elegancia
-de que s√≥ √© capaz o japonez; sendo a bebida offerecida a alguns amigos
-de elei√ß√§o, a drede reunidos n'um recinto disposto para a paz do
+O _ch·-do-yu_, se pode definir-se, È a arte de preparar a infus‰o do ch·
+em pÛ, com esses escrupulos de limpeza, com esses requintes de elegancia
+de que sÛ È capaz o japonez; sendo a bebida offerecida a alguns amigos
+de eleiÁ‰o, a drede reunidos n'um recinto disposto para a paz do
 pensamento e para o agrado dos sentidos.
 
-Bom √© dizer agora que os codigos referenets a materia t√§o grave s√§o
-innumeros, diversas as escolas; e os grandes profissionaes, _ch√°jin_
-(homens do _ch√°_), de celebridade immoredoira, centenas de volumes
+Bom È dizer agora que os codigos referenets a materia t‰o grave s‰o
+innumeros, diversas as escolas; e os grandes profissionaes, _ch·jin_
+(homens do _ch·_), de celebridade immoredoira, centenas de volumes
 escreveram sobre o assumpto.
 
 [Figura]
 
-Tudo foi regulamentado e comporta um preceito, que n√§o √© licito
-esquecer. Non tempos aureos do _ch√°-no-yu_ o pavilh√§o que recebia os
+Tudo foi regulamentado e comporta um preceito, que n‰o È licito
+esquecer. Non tempos aureos do _ch·-no-yu_ o pavilh‰o que recebia os
 hospedes era construido n'um jardin e obedecia a uma architectura
-inconfundivel. No seu arranjo interno, para a c√¥r das paredes, para a
-disposi√ß√§o de luz, para o numero das esteiras, para a jarra com flores
+inconfundivel. No seu arranjo interno, para a cÙr das paredes, para a
+disposiÁ‰o de luz, para o numero das esteiras, para a jarra com flores
 ou com um ramo de arvore, havia praxes a seguir; o _kakemono_ (quadro
-suspenso da parede) devia representar uma paizagem que f√¥sse
-impressionar a pupilla com carinho; ou antes uma simples senten√ßa
+suspenso da parede) devia representar uma paizagem que fÙsse
+impressionar a pupilla com carinho; ou antes uma simples sentenÁa
 escripta por um pincel de mestre calligraphico, pois nada commove tanto
-a aguda sensibilidate d'esta gente como os seus caract√©res de estranha
-construc√ß√§o, cada um equivalendo j√° a uma synthese de ideas e
-predispondo, pela sentida contempla√ß√§o--ora por uma desenvoltura de
-tra√ßo, ora por uma ondula√ß√§o de curva,--ao vago discorrer da alma
+a aguda sensibilidate d'esta gente como os seus caractÈres de estranha
+construcÁ‰o, cada um equivalendo j· a uma synthese de ideas e
+predispondo, pela sentida contemplaÁ‰o--ora por uma desenvoltura de
+traÁo, ora por uma ondulaÁ‰o de curva,--ao vago discorrer da alma
 sonhadora...
 
 O plano do jardin submettia-se a regras determinadas, pelas quaes o
-engenho indigena se revelava em gra√ßas prodigiosas, aqui pelos contornos
+engenho indigena se revelava em graÁas prodigiosas, aqui pelos contornos
 do lago e pelas pontesinhas que o cruzavam, alem pela escolha dos
-arbustos e das pedras, na inten√ß√§o ingenua e amorosa de imp√¥r √° vista a
-illus√§o de uma paizagem rustica, reduzida a propor√ß√∂es minusculas. Mais
+arbustos e das pedras, na intenÁ‰o ingenua e amorosa de impÙr · vista a
+illus‰o de uma paizagem rustica, reduzida a proporÁˆes minusculas. Mais
 do que isto: a alma das coisas, o que de inexplicavel e de subtil parece
 emanar de um conjuncto qualquer onde os olhos se poisem,--tranquillidade
 das sombras, arrogancia de um tronco, ternura das relvas...--devia
 resaltar suggestivamente do jardinsinho japonez, imprimir-lhe um
 caracter, uma philosophia, acordando na mentalidade dos visitantes um
-sentimento de paz, de triumpho, de saudade... Claro est√° que as flores
+sentimento de paz, de triumpho, de saudade... Claro est· que as flores
 de luxo, como as rosas, como as camelias, como as peonias, eram
-excluidas, por improprias da inten√ß√§o de quadro agreste dada √° scena.
+excluidas, por improprias da intenÁ‰o de quadro agreste dada · scena.
 
 [Figura]
 
-√âra de estylo a monumental lanterna, tal como se encontra nos templos,
+…ra de estylo a monumental lanterna, tal como se encontra nos templos,
 de pedra, tanto mais valiora quanto mais esverdeada e roida de vetustos
 musgos, e espalhando pela noite vagas claridades coadas pelas suas
 frestasinhas cobertas de papel; os japonezes deleitam-se em contemplar,
-ap√≥s uma nevada, as amplas cupulas em unbella d'estas lanternas de
+apÛs uma nevada, as amplas cupulas em unbella d'estas lanternas de
 templos e de jardins, receptaculos onde a neve poisa e se demora, em
 fofos vello de formas extravagantes, de deslumbrante alvura. Um outro
-accessorio se encontrava, cerca do pavilh√§o: o peda√ßo de rocha bruta com
-uma pequena cavidade cheia de agua, onde os hospedes iam lavar as m√§os
-antes de entrarem, como em purifica√ß√§o liturgica.
+accessorio se encontrava, cerca do pavilh‰o: o pedaÁo de rocha bruta com
+uma pequena cavidade cheia de agua, onde os hospedes iam lavar as m‰os
+antes de entrarem, como em purificaÁ‰o liturgica.
 
-At√© a linguagem empregada entre os convivas obedecia a regras de
-pragmatica: os assumptos de religi√§o ou de politica eram banidos; a
+AtÈ a linguagem empregada entre os convivas obedecia a regras de
+pragmatica: os assumptos de religi‰o ou de politica eram banidos; a
 phrase devia modelar-se n'um agradavel discorrer, sem ferir melindres de
 ninguem. A cortezia impunha-se: preceituava-se que o hospede proferisse
-palavras de louvor pelo que via,--alfaias de servi√ßo, arranjo do
+palavras de louvor pelo que via,--alfaias de serviÁo, arranjo do
 aposento, horisontes em volta,--mas sem insistencia em demasia, que
 poderia parecer pouco sincera ou pelo menos importuna.
 
 [Figura]
 
 Variadissimos objectos devem encontrar-se no aposento, como o brazeiro,
-o carv√§o de reserva contido n'um cestinho, a chaleira, o abano de
+o carv‰o de reserva contido n'um cestinho, a chaleira, o abano de
 pennas, o cachimbo, o tabaco, o pincel, o papel e a escrevaninha. Os
-artigos destinados particularmente ao ch√°, muitas vezes contidos n'um
-estojo especial, s√§o os seguintes: a boceta com perfumes, que antes de
-tudo se lan√ßam sobre as brazas e embalsamam o ambiente; a jarra com agua
-fria e a competente colher feita de um peda√ßo de bambu; o ch√° em p√≥ n'am
-cofresinho de char√§o e a colherinha adjunta; duas ta√ßas, de barro ou de
-porcellana, uma usada no ver√§o, de c√¥r clara, e outra escura, usada no
+artigos destinados particularmente ao ch·, muitas vezes contidos n'um
+estojo especial, s‰o os seguintes: a boceta com perfumes, que antes de
+tudo se lanÁam sobre as brazas e embalsamam o ambiente; a jarra com agua
+fria e a competente colher feita de um pedaÁo de bambu; o ch· em pÛ n'am
+cofresinho de char‰o e a colherinha adjunta; duas taÁas, de barro ou de
+porcellana, uma usada no ver‰o, de cÙr clara, e outra escura, usada no
 inverno; um curioso utensilio feito de finas lascas de bambu reunidas em
-feixe, com que se agita na chavena a mistura do ch√° em p√≥ com a agua
-morna; finalmente a tigela onde se lavam e o peda√ßo de seda de finissimo
-tecido, com que se enxugam, as pe√ßas empregadas.
+feixe, com que se agita na chavena a mistura do ch· em pÛ com a agua
+morna; finalmente a tigela onde se lavam e o pedaÁo de seda de finissimo
+tecido, com que se enxugam, as peÁas empregadas.
 
-√â o dono da casa quem deve preparar o ch√°, solemnemente, prescindindo do
-mais ligeiro auxilio dos criados; √© elle que o offerece aos convidados.
-A m√§o executa setenta e cinco movimentos, n'um _ch√°-no-yu_ havido por
+… o dono da casa quem deve preparar o ch·, solemnemente, prescindindo do
+mais ligeiro auxilio dos criados; È elle que o offerece aos convidados.
+A m‰o executa setenta e cinco movimentos, n'um _ch·-no-yu_ havido por
 singelo... e trezentos, quandorequeridas todas as formalidade ortodoxas.
 
 [Figura]
@@ -579,186 +579,186 @@ singelo... e trezentos, quandorequeridas todas as formalidade ortodoxas.
 
 No tempo do generalismo do Imperio, chamado Toyotomi Hideyoshi, mais
 conhecido na historia pelo grande Taiko-sama, quasi todos os genesaes
-eram _chajin_, isto √©, ferventes apaixonados da ceremonia do
-_ch√°-no-yu_. Em 1585, o proprio Taiko-sama organisou um _ch√°-no-yu_
-colossal nas visinhan√ßas de Kyoto, ainda hoje memorado como festa de
-inigualavel esplendor: uma extens√§o de quinze kilometros quadrados era
-occupada por innumeros kiosques, aonde os generaes preparavam o ch√°;
+eram _chajin_, isto È, ferventes apaixonados da ceremonia do
+_ch·-no-yu_. Em 1585, o proprio Taiko-sama organisou um _ch·-no-yu_
+colossal nas visinhanÁas de Kyoto, ainda hoje memorado como festa de
+inigualavel esplendor: uma extens‰o de quinze kilometros quadrados era
+occupada por innumeros kiosques, aonde os generaes preparavam o ch·;
 todos, nobreza e plebe, os ricos e os mendigos,--um enxame
 humano!--tinham entrada; Hideyoshi visitou todos os poisos e por suas
-proprias m√§os proparou ch√§, que offereceo aos chefes favoritos.
+proprias m‰os proparou ch‰, que offereceo aos chefes favoritos.
 
 [Figura]
 
 Relembrando o passado, justamente n'um periodo de effervescencias
-guerreiras culminantes no Jap√§o, talvez pare√ßa estranho, talvez pare√ßa
-comico, que esses rudes her√≥is de t√§o grandes fa√ßanhas, os indomaveis
-veteranos das guerras na China e na Cor√©a, despissem armaduras, tirassem
+guerreiras culminantes no Jap‰o, talvez pareÁa estranho, talvez pareÁa
+comico, que esses rudes herÛis de t‰o grandes faÁanhas, os indomaveis
+veteranos das guerras na China e na CorÈa, despissem armaduras, tirassem
 os dois sabres da cintura, para virem votar horas chimericas a aquecer a
-agua sobre brazas e a preparar o ch√§... Mas o contraste, por si, explica
+agua sobre brazas e a preparar o ch‰... Mas o contraste, por si, explica
 o facto: era precisamente essa dura existencia de batalhas e de lances
 sangrentos, de inclemencias de vida nomada, de longo cogitar em
 extratagemas e em argucias, que impunha aos homens dirigentes a doce
-tregua do _ch√°-no-yu_. O convivio com os partidarios e os amigos, o
+tregua do _ch·-no-yu_. O convivio com os partidarios e os amigos, o
 desfilas do povo alegre a reverente, a verde paizagem de repoiso, a
 solemnidade hypnotica dos gestos, tudo contribuia para offerecer um
-curto aprazimento √°quella gente, que assim ia apagando da memoria os
-amorgores soffridos, estretando sympathias, retemperando for√ßas para as
+curto aprazimento ·quella gente, que assim ia apagando da memoria os
+amorgores soffridos, estretando sympathias, retemperando forÁas para as
 proximas luctas.
 
        *       *       *       *       *
 
 [Figura]
 
-O _ch√°-no-yu_ attingiu depois, durante a longa paz da dynastia shogunal
-dos Tokugawa, uma epocha de exaggeros faustuosos, de dissipa√ß√∂es
+O _ch·-no-yu_ attingiu depois, durante a longa paz da dynastia shogunal
+dos Tokugawa, uma epocha de exaggeros faustuosos, de dissipaÁˆes
 paradoxaes. Escolhiam-se as baixellas de entre objectos muitos antigos e
 firmados por um nome de fabricante prestigioso, e por isso rarissimos,
-preciosissimos; e estava ent√§o em moda offerecel-os, no momento das
-ruidosas despedidas, √°s bellas companheiras do festim, que haviam com as
-suas guitarras, com as suas can√ß√∂es, com as suas gra√ßas profissionaes,
-enfeiti√ßando os hospedes... Sorveram-se fortunas n'este abysmo.
+preciosissimos; e estava ent‰o em moda offerecel-os, no momento das
+ruidosas despedidas, ·s bellas companheiras do festim, que haviam com as
+suas guitarras, com as suas canÁˆes, com as suas graÁas profissionaes,
+enfeitiÁando os hospedes... Sorveram-se fortunas n'este abysmo.
 
-√â de ent√§o que se conta que um amador empregou n'um _ch√°-no-yu_
+… de ent‰o que se conta que um amador empregou n'um _ch·-no-yu_
 utensilios no valor de trinta e oito mil yens, o que passa de quatro mil
-libras esterlinas; um outro adquiria por trinta mil yens um s√≥ boi√§o de
-ch√°!...
+libras esterlinas; um outro adquiria por trinta mil yens um sÛ boi‰o de
+ch·!...
 
 [Figura]
 
-Ha cerca de tres ou quatro annos, em um leil√§o de Tokyo, um japonez
-comprou por tres mil yens uma chavena de _ch√°-no-yu_; prova isto que
+Ha cerca de tres ou quatro annos, em um leil‰o de Tokyo, um japonez
+comprou por tres mil yens uma chavena de _ch·-no-yu_; prova isto que
 ainda ha devotos _chajin_ presentemente. Com effeito, se o luxo sem
-limites que caracterizou o _ch√°-no-yu_ dos bons tempos feudaes
-desappareceu para sempre com a mudan√ßa de regimen e com a mudan√ßa de
+limites que caracterizou o _ch·-no-yu_ dos bons tempos feudaes
+desappareceu para sempre com a mudanÁa de regimen e com a mudanÁa de
 costumes, continuou todovia esta elegante pratica merecendo uma alta
 estima. Hoje, os dois sexos a ella se dedicam, e pode affirmar-se que
-faz parte da boa educa√ß√§o de uma menina, exigindo uns seis ou sete annos
+faz parte da boa educaÁ‰o de uma menina, exigindo uns seis ou sete annos
 a sua aprendizagem. As _gueishas_ tambem se instruem em tal culto; as
-celebres dan√ßas primaveraes da cidade de Kyoto, conhecidas pela
-denomina√ß√§o de _Miyako-odori_, s√§o sempre precedidas do _ch√°-no-yu_, em
-que √© officiante uma das mais gentil _gueishas_ do logar; e a multid√§o
-acode, com devota deligencia, a saborear o perfumado ch√°.
+celebres danÁas primaveraes da cidade de Kyoto, conhecidas pela
+denominaÁ‰o de _Miyako-odori_, s‰o sempre precedidas do _ch·-no-yu_, em
+que È officiante uma das mais gentil _gueishas_ do logar; e a multid‰o
+acode, com devota deligencia, a saborear o perfumado ch·.
 
        *       *       *       *       *
 
 [Figura]
 
-N√§o me pe√ßam agora, a mim, profano na materia e viageiro fatigado de t√§o
-multiplices impress√∂es que tenho vindo colhendo por este mundo f√≥ra, uma
-opini√§o pessoal sobre o _ch√°-no-yu_. Estive uma vez, √© certo, com dois
+N‰o me peÁam agora, a mim, profano na materia e viageiro fatigado de t‰o
+multiplices impressˆes que tenho vindo colhendo por este mundo fÛra, uma
+opini‰o pessoal sobre o _ch·-no-yu_. Estive uma vez, È certo, com dois
 ou tres amigos, em uma das _chayas_ de mais fama da cidade de Kobe; e
 Tama-Guiku (o Malmequer-Precioso) era a esplendida sacerdotiza da
-cerimonia. A impress√§o que d'aquella noite guardo √© indefinida, fugidia,
+cerimonia. A impress‰o que d'aquella noite guardo È indefinida, fugidia,
 como de um vago sonho que tivesse. Ficaram-me reminiscencias indecisas
 do luxo sombrio e harmonioso e do aceio extremo das coisas impregnadas
 de exotismo onde poisou o meu olhar. Na meia luz do placido aposento,
 amplo e silencioso como um templo, contornava-se, distante, um vulto de
-mulher, de joelhos, envolta em sedas magnificas. As attenc√∂es fixavam-se
-especialmente, como que por attrac√ß√§o hypnotica, nas suas m√§os
-finissimas, alvejando no espa√ßo como se fossem de marfim, tomando de
-estranhos utensilios, preparando n√§o sei que filtro de magia, poisando
-em mimicas hieraticas, quaes m√§os de mystica officiante de uma religi√§o
+mulher, de joelhos, envolta em sedas magnificas. As attencˆes fixavam-se
+especialmente, como que por attracÁ‰o hypnotica, nas suas m‰os
+finissimas, alvejando no espaÁo como se fossem de marfim, tomando de
+estranhos utensilios, preparando n‰o sei que filtro de magia, poisando
+em mimicas hieraticas, quaes m‰os de mystica officiante de uma religi‰o
 desconhecida. Por fim, convidado a partilhar no sacrificio, acceitava
-uma ta√ßa com ch√° que me era offerecida e levava-a aos labios commovido,
-com n√§o sei que subitos escrupulos de apostata mal firme...
+uma taÁa com ch· que me era offerecida e levava-a aos labios commovido,
+com n‰o sei que subitos escrupulos de apostata mal firme...
 
-Tama-Guiku concluira. Ergueu-se, deslumbrante de gra√ßas, de atavios, de
-magestade. O seu rostinho meigo illuminava-se ent√§o da exalta√ß√§o
-beatifica que lhe electrizava o espirito; dirigiu sobre n√≥s a ardencia
-negra dos seus olhos, saudou-nos reverente... reverente, n√§o porque uma
+Tama-Guiku concluira. Ergueu-se, deslumbrante de graÁas, de atavios, de
+magestade. O seu rostinho meigo illuminava-se ent‰o da exaltaÁ‰o
+beatifica que lhe electrizava o espirito; dirigiu sobre nÛs a ardencia
+negra dos seus olhos, saudou-nos reverente... reverente, n‰o porque uma
 imfima cortezia sequer lhe merecessemos,--pobres occidentais
 ignaros!--mas em estricta abediencia aos preceitos rituaes; e
 desappareceu da scena.
 
        *       *       *       *       *
 
-A proposito d'estas divaga√ß√∂es respeitantes ao ch√° e ao seu culto,
+A proposito d'estas divagaÁˆes respeitantes ao ch· e ao seu culto,
 vem-me agora ao pensamento e ainda me compunge um dramatico episodio da
 existencia intima japoneza, que contado me foi ha cerca de tres annos.
 Vou tentar descrevel-o.
 
-√âra no fim de maio. Eu achava-me em Kobe. Um meu amigo japonez, _chajin_
+…ra no fim de maio. Eu achava-me em Kobe. Um meu amigo japonez, _chajin_
 apaixonado, partira para Uji, onde devia assistir a umas costumadas
-reuni√∂es votadas ao _ch√°-no-yu_, em casa de um parente, cuja filha, a
-gentilissima O-Hana, era eximia na arte; entre n√≥s fic√°ra combinado que
+reuniˆes votadas ao _ch·-no-yu_, em casa de um parente, cuja filha, a
+gentilissima O-Hana, era eximia na arte; entre nÛs fic·ra combinado que
 eu iria encontral-o, passadas tres semanas, em Nara, a cujos velhos
 monumentos queriamos votar horas de estudo.
 
 Haviam decorrido apenas uns tres dias, quando do tal sujeito recebi um
 bilhete, pouco mais ou menos n'estes termos:--"Pode seguir para Nara,
-onde me encontrar√°. Falhou o _ch√°-no-yu_. O-Hana suicidou-se. Pesava
-sobre ella uma desdita igual √° pobre Hichi da lenda..."--
+onde me encontrar·. Falhou o _ch·-no-yu_. O-Hana suicidou-se. Pesava
+sobre ella uma desdita igual · pobre Hichi da lenda..."--
 
 Ora, eu conhecia O-Hana; e a lenda, que por signal constitue o thema de
-uma notavel pe√ßa de theatro, n√§o me era de todo estranha.
+uma notavel peÁa de theatro, n‰o me era de todo estranha.
 
        *       *       *       *       *
 
-Vamos por partes. A lenda √© como segue.
+Vamos por partes. A lenda È como segue.
 
-N√§o sei ha quantos seculos e nem sei em que logar,--nem importa
+N‰o sei ha quantos seculos e nem sei em que logar,--nem importa
 sabel-o,--havia em certa rua dois estabelecimentos de negocio, dos que
 se chamam _Yaoya_ em lingua do paiz, onde se vemdem variadas
-provis√∂es,--fructos, legumes, hortali√ßas, ovos, peixe e muitas coisas
+provisˆes,--fructos, legumes, hortaliÁas, ovos, peixe e muitas coisas
 mais.--Defrontavam um com o outro. N'um, habitava certo casal com uma
-filha unica, O-Hichi; n'outro, um outro casal com um s√≥ filho, Kichisa.
+filha unica, O-Hichi; n'outro, um outro casal com um sÛ filho, Kichisa.
 Quiz a mofina sorte que se enamorassem um do outro.
 
-Mofina sorte? Sim, embora, √° primeira vista, n√§o seja o caso concebivel,
+Mofina sorte? Sim, embora, · primeira vista, n‰o seja o caso concebivel,
 quando se saiba que ambos eram jovens, gentis e animados de doces
 enternecimentos amorosos. Eu me explico todavia. Os velhos codigos
-nipponicos, ainda hoje respeitados, imp√∂em aos filhos o preceito de
+nipponicos, ainda hoje respeitados, impˆem aos filhos o preceito de
 herdarem o appellido de seus paes; o filho mais velho herda a mais o
-encargo de chefe de familia, com a administra√ß√§o dos bens e a
-superintendencia no culto piedoso devido aos parentes fallecidos. √â por
-este processo que as genealogias n√§o offerecem mysterios e as familias
+encargo de chefe de familia, com a administraÁ‰o dos bens e a
+superintendencia no culto piedoso devido aos parentes fallecidos. … por
+este processo que as genealogias n‰o offerecem mysterios e as familias
 se eternizam, conservando religiosamente o mesmo appellido durante
 seculos sem conto; cessando apenas no caso excepcional de todos os
-descendentes acabarem, consanguineos ou n√§o, pois √© de uso corrente
-chamar ao lar, por adop√ß√§o, filhos alheios. O filho unico pode
+descendentes acabarem, consanguineos ou n‰o, pois È de uso corrente
+chamar ao lar, por adopÁ‰o, filhos alheios. O filho unico pode
 certamente casar, e a esposa recebe o appellido do marido. A filha unica
-pode igualmente casar e ent√§o o esposo recebe o appellido da mulher.
-Est√°-se agora percebendo como para O-Hichi e Kichisa o problema se
-complicava em demazia, por serem ambos filhos unicos. Um meio s√≥ se
+pode igualmente casar e ent‰o o esposo recebe o appellido da mulher.
+Est·-se agora percebendo como para O-Hichi e Kichisa o problema se
+complicava em demazia, por serem ambos filhos unicos. Um meio sÛ se
 apresentava, o de uma das familias adoptar um filho estranho, sobre quem
 recahissem os encargos de uma supposta primogenitude. Mas o alvitre era
 quasi impraticavel, por aquelles tempos feudaes que iam correndo,
-dependendo da sanc√ß√§o suprema do daimy√¥, que a negaria, por ser o caso
-novo; sem j√° contar com o orgulho revoltado dos paes da noiva, ou dos
+dependendo da sancÁ‰o suprema do daimyÙ, que a negaria, por ser o caso
+novo; sem j· contar com o orgulho revoltado dos paes da noiva, ou dos
 paes do noivo, da familia emfim que, para evitar de ser extincta,
 tivesse de investir um filho alheio nos deveres que competem ao
 legitimo.
 
 [Figura]
 
-√â certo que as duas familias se oppozeram com toda a vehemencia a taes
+… certo que as duas familias se oppozeram com toda a vehemencia a taes
 amores, e a casa se transformou para O-Hichi em duro encerro e a estima
-dos seus em aggress√∂es continuas. Foi ent√§o que a pobre _musum√©_,
-captiva n'uma alcova, desesperada, louca de amores, meditou em p√¥r fogo
-ao seu lar de tormentos, na cren√ßa de que as chammas lhe trariam a
-liberdade e o ensejo de reunir-se √°quelle a quem votara todo o seu
+dos seus em aggressˆes continuas. Foi ent‰o que a pobre _musumÈ_,
+captiva n'uma alcova, desesperada, louca de amores, meditou em pÙr fogo
+ao seu lar de tormentos, na crenÁa de que as chammas lhe trariam a
+liberdade e o ensejo de reunir-se ·quelle a quem votara todo o seu
 affecto. Errou porem nos calculos, como succede tantas vezes quando se
-tem quinze annos e o pensamento vo√™ja no mundo das chimeras: descoberto
-o seu crime apenas posto em pratica, foi trazida √° justi√ßa da cidade e
-condemnada √° morte.
+tem quinze annos e o pensamento voÍja no mundo das chimeras: descoberto
+o seu crime apenas posto em pratica, foi trazida · justiÁa da cidade e
+condemnada · morte.
 
 [Figura]
 
-Vem agora a proposito narrar um pormenor curioso, que √© de toda a
+Vem agora a proposito narrar um pormenor curioso, que È de toda a
 tragedia o que mais me enternece. A misera seguia, conforme o estylo,
 pelas ruas populosas, amarrada ao dorso de uma besta, para ignominia
-propria e para lic√ß√§o do povo; mais tarde seria executada. A meio da
-jornada expiatoria, os seus longos cabellos soltos, como at√© ent√§o eram
+propria e para licÁ‰o do povo; mais tarde seria executada. A meio da
+jornada expiatoria, os seus longos cabellos soltos, como atÈ ent‰o eram
 usados, cahiam-lhe em desalinho sobre a fronte, cheios da poeira dos
-caminhos, escorrendo de suor, fustigando-lhe as faces. Ent√§o, ou porque
+caminhos, escorrendo de suor, fustigando-lhe as faces. Ent‰o, ou porque
 quizesse poupar-se a um tormento a mais, ou--quem sabe?--por um resto de
 garridice deminia, viram-n'a rasgar com os bellos dedos tremulos um
-peda√ßo da seda carmezim do forro do vestido, com quem amarrou junto √°
-nuca, erguendo os bra√ßos, esses pobres cabellos... A idea pareceu
-graciosa √°s raparigas, que se iam juntando em grupos curiosos para
-observarem o cortejo; e desde ent√§o as japonezas come√ßaram de usar
-aquelle enfeite, que persiste at√© hoje e a que chamam
+pedaÁo da seda carmezim do forro do vestido, com quem amarrou junto ·
+nuca, erguendo os braÁos, esses pobres cabellos... A idea pareceu
+graciosa ·s raparigas, que se iam juntando em grupos curiosos para
+observarem o cortejo; e desde ent‰o as japonezas comeÁaram de usar
+aquelle enfeite, que persiste atÈ hoje e a que chamam
 _kikidashi_--litteralmente: farrapo--em memoria de O-Hichi, a triste
 namorada de Kichisa...
 
@@ -772,98 +772,98 @@ Quando em Nara deparei com o meu amigo japonez, o triste fim de O-Hana
 esclareceu-se em breve.
 
 Havia em Uji duas familias abastadas, Fukumoto e Yamaguchi, possuindo as
-mais bellas culturas de ch√° d'aquelles campos. Os Fukumoto juravam que o
-seu ch√° √©ra o melhor de todo o Imperio, e os Yamaguchi diziam do seu ch√°
+mais bellas culturas de ch· d'aquelles campos. Os Fukumoto juravam que o
+seu ch· Èra o melhor de todo o Imperio, e os Yamaguchi diziam do seu ch·
 a mesma coisa; eram no fim de contas uns caturras, professando um supino
 orgulho do seu nome e um culto pelo mister a que se davam; alem d'isto,
-ou por isto, pouco affei√ßoados entre si, confirmando a justi√ßa d'aquelle
+ou por isto, pouco affeiÁoados entre si, confirmando a justiÁa d'aquelle
 ditado portuguez, com curso em todas as longitudes do planeta... _dos
 officiaes do mesmo officio_.
 
 O casal Fukumoto tinha um filha unica, O-Hana; o casal Yamaguchi tinha
-um unico filho, Naotar√¥. Este era um perfeito rapazola, amavel,
-intelligente, segundo affirma quem o viu. O-Hana era uma _musum√©_ em
-plena fl√¥r da vida, educada em todos as gentis prendas do seu sexo.
+um unico filho, NaotarÙ. Este era um perfeito rapazola, amavel,
+intelligente, segundo affirma quem o viu. O-Hana era uma _musumÈ_ em
+plena flÙr da vida, educada em todos as gentis prendas do seu sexo.
 Ninguem como ella desprendia suavissimos sons do _koto_, a harpa
-nacional; nenhumas m√§os se mostravam t√§o habeis de pinheiro ou de lirios
-floridos trazidos do jardim; no _ch√°-no-yu_ era incomparavel.
+nacional; nenhumas m‰os se mostravam t‰o habeis de pinheiro ou de lirios
+floridos trazidos do jardim; no _ch·-no-yu_ era incomparavel.
 
 [Figura]
 
 [Figura]
 
-Eu vi O-Hana uma s√≥ vez, nos parques de Kyoto, quando em peregrina√ß√§o
-primaveral se vae contemplar, √° luz da lua, a celebre cerejeira de
+Eu vi O-Hana uma sÛ vez, nos parques de Kyoto, quando em peregrinaÁ‰o
+primaveral se vae contemplar, · luz da lua, a celebre cerejeira de
 Guion, toda vestida de pequeninas petalas.
 
-O-Hana √©ra uma d'essas japonezinhas embebidas de enlevo e de exotismo,
-taes como v√≥s as conheceis dos leques, dos biombos. Isto basta, √° falta
+O-Hana Èra uma d'essas japonezinhas embebidas de enlevo e de exotismo,
+taes como vÛs as conheceis dos leques, dos biombos. Isto basta, · falta
 de melhor, para definir-lhe o vulto em miniatura, esguio e ondulante,
 coberto de sedas preciosas; e para imaginar-lhe o rosto pallido em forma
-de pevide de mel√§o, os olhinhos cerrados, os finos tra√ßos das
+de pevide de mel‰o, os olhinhos cerrados, os finos traÁos das
 sobrancelhas em viez, a boquinha sorridente, rubra, lembrando uma
 cereja, e o penteado... o penteado colossal como uma enorme borboleta de
 azeviche, que lhe houvesse pousado, de azas abertas, sobre a nuca. Ria,
 curvava-se em mesuras, em meneios, agitando no ar as descommunaes mangas
-do _kimono_; e l√° ia seguindo o seu caminho entre um bando de amigas,
-antes ziquezagueando, a passos miudinhos, ind√©cisos, sem intuito. E eu
+do _kimono_; e l· ia seguindo o seu caminho entre um bando de amigas,
+antes ziquezagueando, a passos miudinhos, indÈcisos, sem intuito. E eu
 ia pensando que alli estava, em carne e osso, a companheira
-deliciosissima, anjo de gra√ßas e fada de sorrisos, para quem podesse
+deliciosissima, anjo de graÁas e fada de sorrisos, para quem podesse
 offerecer-lhe--japonez claramente,--uma casinha de papel em extremos de
-limpeza, com duas esteiras sobre o ch√§o, um bule com ch√°, um prato com
-confeitos, uma jarra com ramos vicejantes; e √° frente o
+limpeza, com duas esteiras sobre o ch‰o, um bule com ch·, um prato com
+confeitos, uma jarra com ramos vicejantes; e · frente o
 jadinsinho,--bambus tufados, azaleas em flor, pedras musgosas, o
-pequinono lago, onde peixes vermelhos nadassem pachorrentos e r√§s
+pequinono lago, onde peixes vermelhos nadassem pachorrentos e r‰s
 coaxassem em noites estivaes...--
 
 [Figura]
 
-O-Hana e Naotar√¥ amaram-se.. N√§o se sabe porque. Porque eram ambos
+O-Hana e NaotarÙ amaram-se.. N‰o se sabe porque. Porque eram ambos
 jovens, visinhos, conhecidos; e em circunstancias semelhantes a
 juventude attrahe a juventude...
 
-Quando esta inclina√ß√§o foi conhecida, as duas familias irromperam em n√§o
-dissimulados azedumes. O casamento era impossivel. Se a adop√ß√§o de um
+Quando esta inclinaÁ‰o foi conhecida, as duas familias irromperam em n‰o
+dissimulados azedumes. O casamento era impossivel. Se a adopÁ‰o de um
 filho alheio podia resolver em theoria o problema, quem vinha
 sujeitar-se ao sacrificio? Os Yamaguchi? Os Fukumoto? Mas nem uns nem
 outros, com os diabos!... Os nomes das duas familias, procedentes de uma
-linhagem t√§o remota que em v√§o se tentaria investigar-lhes a origem,
+linhagem t‰o remota que em v‰o se tentaria investigar-lhes a origem,
 gosavam em todo o Imperio de um prestigo inconfundivel, conquistado
 durante annos sem conto pela pobidade mercantil dos seus negocios, pela
-excellencia do ch√° da sua lavra, pela nobre chientela nos castelos;
-podendo apenas p√¥r-se em duvida, se o ch√° dos Yamaguchi preferival ao
-ch√° dos Fukumoto. Ora,--merc√™ de um capricho de estouvados,--investir,
-por uma adop√ß√§o do acaso, um estranho na posse de tal nome, e ungil-o
+excellencia do ch· da sua lavra, pela nobre chientela nos castelos;
+podendo apenas pÙr-se em duvida, se o ch· dos Yamaguchi preferival ao
+ch· dos Fukumoto. Ora,--mercÍ de um capricho de estouvados,--investir,
+por uma adopÁ‰o do acaso, um estranho na posse de tal nome, e ungil-o
 dos nobres encargos que competem a um futuro chefe de familia--Fukumoto
-ou Yamaguchi,--nem por brincadeira se propunha!... Que O-Hana e Naotar√¥
+ou Yamaguchi,--nem por brincadeira se propunha!... Que O-Hana e NaotarÙ
 se casassem, intendia-se; era esse mesmo o seu dever, de perpetuar pela
-prole os nomes dos av√≥s; mas confiassem no bom tacto dos paes, que
-saberiam escolher-lhes noivos do seu agrado e em condi√ß√∂es de n√§o virem
-parturbar a paz das familias e ferir o amor das tradi√ß√∂es.
+prole os nomes dos avÛs; mas confiassem no bom tacto dos paes, que
+saberiam escolher-lhes noivos do seu agrado e em condiÁˆes de n‰o virem
+parturbar a paz das familias e ferir o amor das tradiÁˆes.
 
 [Figura]
 
 Muito bem. Quando os dois namorados se convenceram da impossibilidade de
-viverem um para outro, tiveram certa noite uma furtiva entrevista √°
-beira do Ujigawa, a pittoresca ribeira, que ent√§o serpeava em grande
-cheia de aguas, resultado das ultimas chuvas copiosas. Deram-se as m√§os,
-parece; sorriam-se um para o outro; n√§o se sabe o que segredaram entre
+viverem um para outro, tiveram certa noite uma furtiva entrevista ·
+beira do Ujigawa, a pittoresca ribeira, que ent‰o serpeava em grande
+cheia de aguas, resultado das ultimas chuvas copiosas. Deram-se as m‰os,
+parece; sorriam-se um para o outro; n‰o se sabe o que segredaram entre
 si, porque ninguem esta alli para os ouvir...
 
-Quando, ao romper do dia, as mo√ßas de Uji seguiam para a apanha do ch√°,
+Quando, ao romper do dia, as moÁas de Uji seguiam para a apanha do ch·,
 em ranchos galhofeiros, quedaram-se de repente junto ao rio, cheias do
 espanto, de pavor, vendo a boiar dois corpos detidos na maranha dos
 juncos, rigidos, lividos, mortos, porem sorrindo ainda e dando-se ainda
-as m√§os...
+as m‰os...
 
        *       *       *       *       *
 
 .....................................................................
 
 "N'estas aguas do rio d'Uji,
---T√§o milagrosas que s√§o!--
+--T‰o milagrosas que s‰o!--
 Lavam-se todos os males
-De que soffre o cora√ß√§o...
+De que soffre o coraÁ‰o...
 
 [Figura]
 
@@ -879,31 +879,31 @@ Aqui encontram-se listados todos os erros encontrados e corrigidos:
 
 
   +----------+-----------------------+---------------------------+
-  |          |       Original        |         Correc√ß√£o         |
+  |          |       Original        |         CorrecÁ„o         |
   +----------+-----------------------+---------------------------+
-  |#p√°g.  19 | do outros             | de outros                 |
-  |#p√°g.  23 | ama norma             | uma norma                 |
-  |#p√°g.  24 | ua industria          | na industria              |
-  |#p√°g.  24 | a modernismo          | o modernismo              |
-  |#p√°g.  26 | da flores             | de flores                 |
-  |#p√°g.  33 | exteus√§o              | extens√§o                  |
-  |#p√°g.  33 | homeus                | homens                    |
-  |#p√°g.  37 | desappaeceu           | desappareceu              |
-  |#p√°g.  38 | appelldo              | appellido                 |
-  |#p√°g.  39 | dos familias          | das familias              |
-  |#p√°g.  39 | umo supposta          | uma supposta              |
-  |#p√°g.  45 | pela excellencias     | pela excellencia          |
-  |#p√°g.  45 | nobre encargos        | nobres encargos           |
+  |#p·g.  19 | do outros             | de outros                 |
+  |#p·g.  23 | ama norma             | uma norma                 |
+  |#p·g.  24 | ua industria          | na industria              |
+  |#p·g.  24 | a modernismo          | o modernismo              |
+  |#p·g.  26 | da flores             | de flores                 |
+  |#p·g.  33 | exteus‰o              | extens‰o                  |
+  |#p·g.  33 | homeus                | homens                    |
+  |#p·g.  37 | desappaeceu           | desappareceu              |
+  |#p·g.  38 | appelldo              | appellido                 |
+  |#p·g.  39 | dos familias          | das familias              |
+  |#p·g.  39 | umo supposta          | uma supposta              |
+  |#p·g.  45 | pela excellencias     | pela excellencia          |
+  |#p·g.  45 | nobre encargos        | nobres encargos           |
   +----------+-----------------------+---------------------------+
 
 
 
 
 
-End of the Project Gutenberg EBook of O culto do ch√°, by 
-Wenceslau Jos√© de Sousa de Morais
+End of the Project Gutenberg EBook of O culto do ch·, by 
+Wenceslau JosÈ de Sousa de Morais
 
-*** END OF THIS PROJECT GUTENBERG EBOOK O CULTO DO CH√Å ***
+*** END OF THIS PROJECT GUTENBERG EBOOK O CULTO DO CH¡ ***
 
 ***** This file should be named 37879-8.txt or 37879-8.zip *****
 This and all associated files of various formats will be found in:

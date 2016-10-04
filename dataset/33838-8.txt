@@ -1,5 +1,5 @@
-The Project Gutenberg EBook of DescripÃ§Ã£o de algumas especies novas ou
-pouco conhecidas de crustaceos e arachnidios de Portugal e possessÃµes
+The Project Gutenberg EBook of Descripção de algumas especies novas ou
+pouco conhecidas de crustaceos e arachnidios de Portugal e possessões
 portuguezas no Ultramar, by Felix Antonio de Brito Capello
 
 
@@ -9,8 +9,8 @@ re-use it under the terms of the Project Gutenberg License included
 with this eBook or online at www.gutenberg.org
 
 
-Title: DescripÃ§Ã£o de algumas especies novas ou pouco conhecidas de
-crustaceos e arachnidios de Portugal e possessÃµes portuguezas no Ultramar
+Title: Descripção de algumas especies novas ou pouco conhecidas de
+crustaceos e arachnidios de Portugal e possessões portuguezas no Ultramar
 
 Author: Felix Antonio de Brito Capello
 
@@ -21,7 +21,7 @@ Language: Portuguese & French
 Character set encoding: ISO-8859-1
 
 *** START OF THIS PROJECT GUTENBERG EBOOK
-DESCRIPÃ‡ÃƒO DE ALGUMAS ESPECIES NOVAS***
+DESCRIPÇÃO DE ALGUMAS ESPECIES NOVAS***
 
 
 
@@ -36,17 +36,17 @@ Biodiversity Heritage Library.)
 
 
 
-    *Nota de editor:* Devido Ã  existÃªncia de erros tipogrÃ¡ficos neste
-    texto, foram tomadas vÃ¡rias decisÃµes quanto Ã  versÃ£o final. Em caso
-    de dÃºvida, a grafia foi mantida de acordo com o original. No final
-    deste livro encontrarÃ¡ a lista de erros corrigidos.
+    *Nota de editor:* Devido à existência de erros tipográficos neste
+    texto, foram tomadas várias decisões quanto à versão final. Em caso
+    de dúvida, a grafia foi mantida de acordo com o original. No final
+    deste livro encontrará a lista de erros corrigidos.
 
                                            Rita Farinha (Outubro 2010)
 
 
 
 
-DESCRIPÃ‡ÃƒO DE ALGUMAS ESPECIES NOVAS
+DESCRIPÇÃO DE ALGUMAS ESPECIES NOVAS
 
 OU POUCO CONHECIDAS
 
@@ -54,13 +54,13 @@ DE
 
 CRUSTACEOS E ARACHNIDIOS DE PORTUGAL
 
-E POSSESSÃ•ES PORTUGUEZAS DO ULTRAMAR
+E POSSESSÕES PORTUGUEZAS DO ULTRAMAR
 
 POR
 
 Felix de Brito Capello
 
-NATURALISTA ADJUNTO DA SECÃ‡ÃƒO ZOOLOGICA DO MUSEU DE LISBOA
+NATURALISTA ADJUNTO DA SECÇÃO ZOOLOGICA DO MUSEU DE LISBOA
 
 
 LISBOA
@@ -71,7 +71,7 @@ M DCCC LXVI
 
 
 
-DESCRIPÃ‡ÃƒO DE ALGUMAS ESPECIES NOVAS
+DESCRIPÇÃO DE ALGUMAS ESPECIES NOVAS
 
 OU POUCO CONHECIDAS
 
@@ -79,14 +79,14 @@ DE
 
 CRUSTACEOS E ARACHNIDIOS DE PORTUGAL
 
-E POSSESSÃ•ES PORTUGUEZAS DO ULTRAMAR
+E POSSESSÕES PORTUGUEZAS DO ULTRAMAR
 
 
 
 
 
 
-DESCRIPÃ‡ÃƒO DE ALGUMAS ESPECIES NOVAS
+DESCRIPÇÃO DE ALGUMAS ESPECIES NOVAS
 
 OU POUCO CONHECIDAS
 
@@ -94,13 +94,13 @@ DE
 
 CRUSTACEOS E ARACHNIDIOS DE PORTUGAL
 
-E POSSESSÃ•ES PORTUGUEZAS DO ULTRAMAR
+E POSSESSÕES PORTUGUEZAS DO ULTRAMAR
 
 POR
 
 Felix de Brito Capello
 
-NATURALISTA ADJUNTO DA SECÃ‡ÃƒO ZOOLOGICA DO MUSEU DE LISBOA
+NATURALISTA ADJUNTO DA SECÇÃO ZOOLOGICA DO MUSEU DE LISBOA
 
 
 LISBOA
@@ -111,7 +111,7 @@ M DCCC LXVI
 
 
 
-DESCRIPÃ‡ÃƒO DE ALGUMAS ESPECIES NOVAS
+DESCRIPÇÃO DE ALGUMAS ESPECIES NOVAS
 
 OU POUCO CONHECIDAS
 
@@ -119,42 +119,42 @@ DE
 
 CRUSTACEOS E ARACHNIDIOS DE PORTUGAL
 
-E POSSESSÃ•ES PORTUGUEZAS DO ULTRAMAR
+E POSSESSÕES PORTUGUEZAS DO ULTRAMAR
 
 
-O Museu de Lisboa recebeu ultimamente uma excellente collecÃ§Ã£o
+O Museu de Lisboa recebeu ultimamente uma excellente collecção
 zoologica, composta de representantes de diversas classes e ordens,
-proveniente d'uma exploraÃ§Ã£o emprehendida pelo sr. JosÃ© d'Anchieta, de
+proveniente d'uma exploração emprehendida pelo sr. José d'Anchieta, de
 seu motu proprio e a expensas suas, em varios pontos da Africa
 occidental portugueza, taes como Loango, Cabinda, Rio Quilo, etc.
 
 Entre o grande numero de insectos que constituem uma parte muito
-interessante d'esta collecÃ§Ã£o, coube-nos estudar os insectos apteros ou
-arachnidios, que comprehendem especies muito notaveis, nÃ£o sÃ³ pela sua
+interessante d'esta collecção, coube-nos estudar os insectos apteros ou
+arachnidios, que comprehendem especies muito notaveis, não só pela sua
 raridade, como por serem algumas, ao que nos parece, totalmente
 desconhecidas.
 
-Julgamos util ir tornando conhecidas desde jÃ¡ estas especies, Ã¡
-proporÃ§Ã£o que as formos estudando e desenhando, nÃ£o porque seja esta a
+Julgamos util ir tornando conhecidas desde já estas especies, á
+proporção que as formos estudando e desenhando, não porque seja esta a
 ordem mais regular e methodica a seguir, mas, em primeiro logar para que
-nÃ£o esteja por muito tempo desconhecida uma parte tÃ£o interessante da
+não esteja por muito tempo desconhecida uma parte tão interessante da
 nossa fauna colonial; e em segundo logar, para evitar que se repita o
-que ha pouco tempo succedeu: referimo-nos ao facto da publicaÃ§Ã£o e
-descripÃ§Ã£o de especies, que o Museu de Lisboa possuia ha bastante tempo,
-e que nÃ³s por hesitaÃ§Ã£o e receio de apresentar como novas, sendo jÃ¡
-conhecidas, nÃ£o tinhamos descripto, embora estivessemos convencidos de
-serem inÃ©ditas.
+que ha pouco tempo succedeu: referimo-nos ao facto da publicação e
+descripção de especies, que o Museu de Lisboa possuia ha bastante tempo,
+e que nós por hesitação e receio de apresentar como novas, sendo já
+conhecidas, não tinhamos descripto, embora estivessemos convencidos de
+serem inéditas.
 
-Entre os arachnidios que fazem parte das collecÃ§Ãµes do Museu, e que
+Entre os arachnidios que fazem parte das collecções do Museu, e que
 iremos descrevendo juntamente com os do sr. Anchieta, temos especies
-provenientes de diversas possessÃµes portuguezas d'Africa oriental e
-occidental, India, etc.: algumas d'estas especies pertencem Ã¡s
-collecÃ§Ãµes enviadas do Duque de BraganÃ§a pelo sr. Pinheiro BayÃ£o.
+provenientes de diversas possessões portuguezas d'Africa oriental e
+occidental, India, etc.: algumas d'estas especies pertencem ás
+collecções enviadas do Duque de Bragança pelo sr. Pinheiro Bayão.
 
-Incluimos egualmente n'esta serie de publicaÃ§Ãµes irregulares, as
-descripÃ§Ãµes das especies novas de crustaceos dos nossos mares e das
-possessÃµes portuguezas, que ha muito tempo temos estudadas: Ã© mesmo por
-ellas que vamos comeÃ§ar.
+Incluimos egualmente n'esta serie de publicações irregulares, as
+descripções das especies novas de crustaceos dos nossos mares e das
+possessões portuguezas, que ha muito tempo temos estudadas: é mesmo por
+ellas que vamos começar.
 
 
 
@@ -173,22 +173,22 @@ Genus         *Lambrus*
 *Lambrus setubalensis.* Nob. (Pl. I, fig. 2)
 
 
-CarapaÃ§a com a fÃ³rma d'um losango: quatro grandes proeminencias, duas na
-linha mediana correspondendo Ã¡s regiÃµes gastrica e genital, duas sobre
-as regiÃµes das guelras.
+Carapaça com a fórma d'um losango: quatro grandes proeminencias, duas na
+linha mediana correspondendo ás regiões gastrica e genital, duas sobre
+as regiões das guelras.
 
 Fronte triangular, muito inclinada. Bordos latero-anteriores com seis
 dentes arredondados: uma grande chanfradura separa estes bordos da
-regiÃ£o post'orbitaria que Ã© muito desenvolvida. Bordos
+região post'orbitaria que é muito desenvolvida. Bordos
 latero-posteriores com alguns dentes.
 
 Patas dos quatro ultimos pares delgadas, muito comprimidas, com arestas
 salientes nos bordos superior e inferior; tuberculos dentiformes nos
-dois bordos de todos os artigos no quinto par, e sÃ³mente no terceiro
+dois bordos de todos os artigos no quinto par, e sómente no terceiro
 artigo nos outros pares de patas. Falta o primeiro par no exemplar unico
 que possuimos.
 
-CÃ´r pardo escuro.
+Côr pardo escuro.
 
 
 Comprimento      0^{m},013
@@ -196,44 +196,44 @@ Largura          0^{m},013
 
 
 Encontrado na bahia de Setubal em consequencia de uma dragagem dirigida
-pelo sr. JoÃ£o de Brito.
+pelo sr. João de Brito.
 
-NÃ£o hesitÃ¡mos em considerar o specimen que descrevemos como uma especie
-nova, apesar da falta do primeiro par de patas (falta aliÃ¡s bastante
-sensivel na descripÃ§Ã£o das especies d'este genero), porque os seus
-caractÃ©res sÃ£o realmente bastante distinctos dos de todas as outras
+Não hesitámos em considerar o specimen que descrevemos como uma especie
+nova, apesar da falta do primeiro par de patas (falta aliás bastante
+sensivel na descripção das especies d'este genero), porque os seus
+caractéres são realmente bastante distinctos dos de todas as outras
 especies do mesmo genero, quer dos mares da Europa, descriptas por M.
 Edwards, Risso, Heller, etc., quer exoticas descriptas por M. Edwards,
 Dana, F. Krauss, etc.
 
 
-Carapace en forme de losange: quatre grandes elÃ¨vations se trouvent sur
-le dos, deux sur les rÃ©gions gastrique et gÃ©nitale, les autres sur les
-rÃ©gions branchiales.
+Carapace en forme de losange: quatre grandes elèvations se trouvent sur
+le dos, deux sur les régions gastrique et génitale, les autres sur les
+régions branchiales.
 
-Front triangulaire, trÃ¨s inclinÃ©. Bords latÃ©ro-antÃ©rieurs avec six dents
-arrondies. Une grande Ã©chancrure sÃ©pare ces bords de la rÃ©gion
-post'orbitaire qui est assez dÃ©veloppÃ©e. Bords latÃ©ro-postÃ©rieurs avec
+Front triangulaire, très incliné. Bords latéro-antérieurs avec six dents
+arrondies. Une grande échancrure sépare ces bords de la région
+post'orbitaire qui est assez développée. Bords latéro-postérieurs avec
 quelques dents.
 
-Pattes des quatre derniÃ¨res paires minces, trÃ¨s comprimÃ©es, avec des
-crÃªtes saillantes aux bords supÃ©rieur et infÃ©rieur. Ces crÃªtes sont
-denticulÃ©es dans tous les articles de la cinquiÃ©me paire et seulement
-sur le troisiÃ¨me article dans les autres paires de pattes.
+Pattes des quatre dernières paires minces, très comprimées, avec des
+crêtes saillantes aux bords supérieur et inférieur. Ces crêtes sont
+denticulées dans tous les articles de la cinquiéme paire et seulement
+sur le troisième article dans les autres paires de pattes.
 
-Couleur brun rougeÃ¢tre.
-
-
-Longueur Ã©gale Ã  la largeur      0^{m},013
+Couleur brun rougeâtre.
 
 
-RencontrÃ© par dragage dans la baie de Setubal par M. JoÃ£o de Brito.
+Longueur égale à la largeur      0^{m},013
 
-Nous n'avons pas hesitÃ© Ã  considÃ©rer cette espÃ¨ce comme inÃ©dite, malgrÃ©
-l'absence de la premiÃ¨re paire de pattes, parceque ses caractÃ¨res sont
-en realitÃ© assez distincts de ceux de toutes les autres espÃ©ces de ce
-genre tant des mers de l'Europe dÃ©crites par MM. M. Edwards, Risso,
-Heller etc.; comme des autres mers dÃ©crites par MM. Edwards, Dana, F.
+
+Rencontré par dragage dans la baie de Setubal par M. João de Brito.
+
+Nous n'avons pas hesité à considérer cette espèce comme inédite, malgré
+l'absence de la première paire de pattes, parceque ses caractères sont
+en realité assez distincts de ceux de toutes les autres espéces de ce
+genre tant des mers de l'Europe décrites par MM. M. Edwards, Risso,
+Heller etc.; comme des autres mers décrites par MM. Edwards, Dana, F.
 Krauss. etc.
 
 
@@ -251,16 +251,16 @@ Genus           *Actaea*--De Haan.
 *Actaea angolensis.* Nob. (Pl. I, fig. 3)
 
 
-CarapaÃ§a cheia de rugas tuberculiformes muito salientes, vermiculadas, e
+Carapaça cheia de rugas tuberculiformes muito salientes, vermiculadas, e
 mostrando nos intervallos sulcos muito profundos: estas rugas descrevem
-figuras regulares, symetricamente dispostas nas diversas regiÃµes, e sÃ£o
+figuras regulares, symetricamente dispostas nas diversas regiões, e são
 formadas por granulos muito unidos e apenas perceptiveis.
 
-Fronte bilobada: bordos latero-anteriores sem denticulaÃ§Ãµes distinctas,
-mas apresentando de cada lado 4 recortes tuberculosos, dos quaes um estÃ¡
-no angulo de juncÃ§Ã£o do bordo latero-anterior com o latero-posterior.
+Fronte bilobada: bordos latero-anteriores sem denticulações distinctas,
+mas apresentando de cada lado 4 recortes tuberculosos, dos quaes um está
+no angulo de juncção do bordo latero-anterior com o latero-posterior.
 
-Os bordos latero-anteriores nÃ£o se ligam ao bordo front'orbitario, porÃ©m
+Os bordos latero-anteriores não se ligam ao bordo front'orbitario, porém
 descem a juntar-se aos angulos anteriores do quadro buccal. (V. est.
 1.^a, fig. 3-a.)
 
@@ -268,68 +268,68 @@ Patas cobertas externamente por tuberculos e rugas regularmente
 dispostas; franjadas nos bordos por pellos compridos e macios. Dedos com
 canelluras profundas, e dentes rombos.
 
-RegiÃµes pterigostomias granulosas, e cobertas de pellos macios e
+Regiões pterigostomias granulosas, e cobertas de pellos macios e
 compridos.
 
-CÃ´r vermelha em geral com manchas amarellas irregulares.
+Côr vermelha em geral com manchas amarellas irregulares.
 
-Habita os mares de Angola. Enviada pelo sr. Pinheiro BayÃ£o.
+Habita os mares de Angola. Enviada pelo sr. Pinheiro Bayão.
 
 
-Carapace couverte de plis tuberculiformes bien saillants, vermiculÃ©s, et
-laissant entr'eux des sillons trÃ¨s profonds: ces plis sont disposÃ©s de
-maniÃ¨re Ã  former des figures reguliÃ¨res, symetriquement disposÃ©es sur
-les diverses rÃ©gions, et sont constituÃ©es par des petits grains trÃ¨s
+Carapace couverte de plis tuberculiformes bien saillants, vermiculés, et
+laissant entr'eux des sillons très profonds: ces plis sont disposés de
+manière à former des figures regulières, symetriquement disposées sur
+les diverses régions, et sont constituées par des petits grains très
 unis.
 
-Front bilobÃ©: bords latÃ¨ro-antÃ©rieurs non dentelÃ©s, mais prÃ©sentant de
-chaque cÃ´tÃ© 4 lobules tuberculeux, dont un est Ã  la jonction des bord
-latÃ©ro-antÃ©rieur et latÃ©ro-postÃ©rieur.
+Front bilobé: bords latèro-antérieurs non dentelés, mais présentant de
+chaque côté 4 lobules tuberculeux, dont un est à la jonction des bord
+latéro-antérieur et latéro-postérieur.
 
-Les bords latÃ©ro-antÃ©rieurs au lieu de se joindre au bord
-front'orbitaire, descendent vers les angles antÃ©rieurs du cadre buccal.
+Les bords latéro-antérieurs au lieu de se joindre au bord
+front'orbitaire, descendent vers les angles antérieurs du cadre buccal.
 (Pl. 1^{re}, f. 3-a.)
 
 Pattes couvertes sur leur face externe par des tubercules et des plis
-formant des dessins rÃ©guliers, et garnies de poils longs et minces sur
+formant des dessins réguliers, et garnies de poils longs et minces sur
 leurs bords: des canelures profondes, et des dents obtuses sur les
 doigts.
 
-RÃ©gions ptÃ©rygostomiennes granuleuses, couvertes par des poils longs et
+Régions ptérygostomiennes granuleuses, couvertes par des poils longs et
 laineux.
 
-Teinte gÃ©nÃ©rale rouge, avec des taches jaunes irrÃ©guliers.
+Teinte générale rouge, avec des taches jaunes irréguliers.
 
-Habitat: mers de Angola. Afrique occidentale. EnvoyÃ©e par M. Pinheiro
-BayÃ£o.
+Habitat: mers de Angola. Afrique occidentale. Envoyée par M. Pinheiro
+Bayão.
 
 
-O sr. Dana na sua descripÃ§Ã£o dos crustaceos da America, tratando do
+O sr. Dana na sua descripção dos crustaceos da America, tratando do
 grupo que denomina _Crustacea Macroura_, subtribu _Caridea_, divide a
 familia _Atyidae_ em duas subfamilias _Atyinae_ e _Ephyrinae_ das quaes
-os caractÃ©res differenciaes sÃ£o: na primeira, a existencia de mÃ£os com o
-carpo escavado no bordo anterior, e dando inserÃ§Ã£o Ã¡ porÃ§Ã£o palmar pela
-ponta inferior da especie de crescente formado por aquella escavaÃ§Ã£o; e
+os caractéres differenciaes são: na primeira, a existencia de mãos com o
+carpo escavado no bordo anterior, e dando inserção á porção palmar pela
+ponta inferior da especie de crescente formado por aquella escavação; e
 na segunda a existencia de appendices palpiformes em algumas das patas
-thoracicas, appendices que nÃ£o existem na primeira.
+thoracicas, appendices que não existem na primeira.
 
-Os generos de qualquer d'estas subfamilias apresentam um dos caractÃ©res
-descriptos com exclusÃ£o do outro; por consequencia qualquer crustaceo
-que apresentar estes caractÃ©res simultaneamente nÃ£o pÃ³de ser incluido em
+Os generos de qualquer d'estas subfamilias apresentam um dos caractéres
+descriptos com exclusão do outro; por consequencia qualquer crustaceo
+que apresentar estes caractéres simultaneamente não póde ser incluido em
 nenhum d'aquelles generos.
 
-DÃ¡-se no entanto esta circumstancia no crustaceo que vamos descrever; e
-com quanto quizessemos evitar o augmento das divisÃµes, jÃ¡ tÃ£o numerosas,
-creando um genero novo, vemo-nos obrigados a fazel-o pela razÃ£o exposta.
+Dá-se no entanto esta circumstancia no crustaceo que vamos descrever; e
+com quanto quizessemos evitar o augmento das divisões, já tão numerosas,
+creando um genero novo, vemo-nos obrigados a fazel-o pela razão exposta.
 
-NÃ£o nos julgando comtudo auctorisados a alterar a ordem na divisÃ£o
+Não nos julgando comtudo auctorisados a alterar a ordem na divisão
 d'aquella familia, collocaremos provisoriamente o novo genero na
 subfamilia _Ephyrinae_ por ser o seu caracter principal de maior
-importancia (segundo o auctor citado), do que a conformaÃ§Ã£o anormal das
-mÃ£os, caracter privativo da subfamilia _Atyinae_.
+importancia (segundo o auctor citado), do que a conformação anormal das
+mãos, caracter privativo da subfamilia _Atyinae_.
 
 O genero novo denominal-o-hemos _Atyaephyra_ para mostrar que participa
-dos caractÃ©res de uma e outra subfamilia.
+dos caractéres de uma e outra subfamilia.
 
 
 
@@ -352,18 +352,18 @@ capillares.
 1.^o e 2.^o pares de patas thoracicas didactilas, deseguaes, e munidas
 de appendices identicos.
 
-3.^o e 4.^o pares com o appendice flagelliforme sÃ³mente.
+3.^o e 4.^o pares com o appendice flagelliforme sómente.
 
 5.^o par sem appendice algum.
 
-Primeiro par, com o carpo curto e escavado no bordo anterior; mÃ£o
-articulando-se com elle pelo lobulo inferior d'aquella escavaÃ§Ã£o: a mÃ£o
-nÃ£o Ã© articulada, como de ordinario, pelo bordo posterior, mas sim pelo
-meio do bordo inferior, de maneira que na posiÃ§Ã£o normal o bordo
-posterior entra na escavaÃ§Ã£o do carpo: mÃ£o conformada como de ordinario.
+Primeiro par, com o carpo curto e escavado no bordo anterior; mão
+articulando-se com elle pelo lobulo inferior d'aquella escavação: a mão
+não é articulada, como de ordinario, pelo bordo posterior, mas sim pelo
+meio do bordo inferior, de maneira que na posição normal o bordo
+posterior entra na escavação do carpo: mão conformada como de ordinario.
 
 Segundo par com o carpo mais comprido; tambem escavado no bordo
-anterior: conformaÃ§Ã£o e articulaÃ§Ã£o da mÃ£o como no primeiro par.
+anterior: conformação e articulação da mão como no primeiro par.
 
 Seis pares de guelras lamelliformes.
 
@@ -372,34 +372,34 @@ Rostrum grande, multidentado.
 Antennas internas com dois appendices terminaes.
 
 
-Pattes machoires de la deuxiÃ¨me paire courtes, lamelleuses, avec un
-appendice palpiforme long: celles de la premiÃ¨re paire pediformes,
-minces, ayant Ã  la base un appendice palpiforme long, acompagnÃ© d'un
-appendice flagelliforme rudÃ­mentair; ce dernier organe est composÃ© d'une
-lame foliacÃ©e et d'un pinceau de poils trÃ¨s minces.
+Pattes machoires de la deuxième paire courtes, lamelleuses, avec un
+appendice palpiforme long: celles de la première paire pediformes,
+minces, ayant à la base un appendice palpiforme long, acompagné d'un
+appendice flagelliforme rudímentair; ce dernier organe est composé d'une
+lame foliacée et d'un pinceau de poils très minces.
 
-1^e et 2^e paires de pattes thoraciques didactyles, inÃ©gales, avec des
+1^e et 2^e paires de pattes thoraciques didactyles, inégales, avec des
 appendices identiques.
 
 3^e et 4^e paires avec l'appendice flagelliforme seulement.
 
 5^e paire sans aucun appendice.
 
-PremiÃ¨re paire avec le carpe court, excavÃ© au bord antÃ©rieur; main
-articulÃ©e par le lobule infÃ©rieur du carpe: cette articulation ne se
-fait pas, comme d'ordinaire, par le bord postÃ©rieur de la main, c'est au
-milieu du bord infÃ©rieur que le carpe vient s'adapter, de maniÃ©re que
-dans la position normale le bord postÃ©rieur de la main entre dans
-l'excavation du carpe: de reste la main est conformÃ©e comme d'ordinaire.
+Première paire avec le carpe court, excavé au bord antérieur; main
+articulée par le lobule inférieur du carpe: cette articulation ne se
+fait pas, comme d'ordinaire, par le bord postérieur de la main, c'est au
+milieu du bord inférieur que le carpe vient s'adapter, de maniére que
+dans la position normale le bord postérieur de la main entre dans
+l'excavation du carpe: de reste la main est conformée comme d'ordinaire.
 
-Dans la planche premiÃ¨re f. 1-d-e, on voit representÃ©e cette
+Dans la planche première f. 1-d-e, on voit representée cette
 articulation et conformation de la main; on voit que par l'articulation
 il y en a beaucoup d'analogie avec le genre _Atya_ (f. 1, f. g); tandis
 que par la conformation de la main, notre genre en differe assez.
 
 Six paires de branchies lamelliformes.
 
-Rostre grand, multidentÃ©.
+Rostre grand, multidenté.
 
 Antennes internes avec deux appendices terminales.
 
@@ -408,23 +408,23 @@ Antennes internes avec deux appendices terminales.
 
 
 Rostrum grande, comprimido lateralmente, medindo quasi o comprimento da
-carapaÃ§a; em cada face existe uma aresta muito saliente que parte da
-base e se prolonga atÃ© Ã¡ ponta. No bordo superior existem 26 a 30 dentes
-espiniformes, dos quaes 5 a 6 estÃ£o sobre a carapaÃ§a. No meio do bordo
+carapaça; em cada face existe uma aresta muito saliente que parte da
+base e se prolonga até á ponta. No bordo superior existem 26 a 30 dentes
+espiniformes, dos quaes 5 a 6 estão sobre a carapaça. No meio do bordo
 inferior existe um alargamento onde se acham 6 a 8 dentes triangulares
-(V. est. 1.^a, fig. 1-a): os dentes do bordo superior chegam Ã¡ ponta sem
+(V. est. 1.^a, fig. 1-a): os dentes do bordo superior chegam á ponta sem
 que esta seja bifurcada.
 
-CarapaÃ§a lisa, arredondada, sem aresta na parte superior: o seu
-comprimento, excluindo o rostro, Ã© proximamente um terÃ§o do comprimento
+Carapaça lisa, arredondada, sem aresta na parte superior: o seu
+comprimento, excluindo o rostro, é proximamente um terço do comprimento
 total. No bordo anterior existem 4 grandes espinhos; 2 na base do
 rostrum um pouco levantados e divergentes, os outros collocados de um e
-outro lado entre cada um d'aquelles e o angulo anterior da carapaÃ§a.
+outro lado entre cada um d'aquelles e o angulo anterior da carapaça.
 (Est. 1.^ a, fig. 1, 1-a.)
 
 Antennas internas com os artigos basilares grandes; artigos terminaes
-mais compridos que a carapaÃ§a, eguaes em comprimento, um d'elles mais
-grosso na metade inferior, o outro adelgaÃ§ando uniformemente para o
+mais compridos que a carapaça, eguaes em comprimento, um d'elles mais
+grosso na metade inferior, o outro adelgaçando uniformemente para o
 extremo. Externamente e na base dos artigos basilares existe um grande e
 agudissimo espinho.
 
@@ -441,57 +441,57 @@ Patas natatorias com dois appendices foliaceos.
 Lamina caudal mediana triangular, aguda no extremo, com tres espinhos de
 cada lado na metade posterior.
 
-O comprimento relativo das patas Ã©: 3.^a, 4.^a, 5.^a, 2.^a, 1.^a
+O comprimento relativo das patas é: 3.^a, 4.^a, 5.^a, 2.^a, 1.^a
 
 Comprimento total 0^{m},035.
 
-CÃ´r de carne deslavado, com pintas cÃ´r de rosa.
+Côr de carne deslavado, com pintas côr de rosa.
 
 Encontrado em uma valla proximo de Coimbra.
 
-DedicÃ¡mos esta especie ao sr. Rosa de Carvalho, que nol-a enviou, por
+Dedicámos esta especie ao sr. Rosa de Carvalho, que nol-a enviou, por
 isso que o Museu de Lisboa, deve ao seu infatigavel zelo muitos e
 variados specimens da fauna portugueza.
 
 
-Rostre grand, comprimÃ© latÃ©ralement, Ã  peu prÃ¨s de la longeur de la
-carapace: une crÃªte trÃ¨s saillante Ã  chaque face dans toute sa longeur:
-26 Ã  30 dents spiniformes au bord supÃ¨rieur dont 5 ou 6 sur la carapace.
-Au milieu du bord infÃ©rieur est un elargissement oÃº se trouvent 6 Ã  8
-dents triangulaires grandes: les dents du bord supÃ©rieur vont jusqu'Ã  la
-pointe du rostre, sans que celle-ci soit bifurquÃ©e.
+Rostre grand, comprimé latéralement, à peu près de la longeur de la
+carapace: une crête très saillante à chaque face dans toute sa longeur:
+26 à 30 dents spiniformes au bord supèrieur dont 5 ou 6 sur la carapace.
+Au milieu du bord inférieur est un elargissement oú se trouvent 6 à 8
+dents triangulaires grandes: les dents du bord supérieur vont jusqu'à la
+pointe du rostre, sans que celle-ci soit bifurquée.
 
-Carapace, arrondie, sans crÃªte au bord supÃ©rieur; sa longeur, hors le
-rostre est Ã  peu prÃ¨s egale au tiers de la longeur totale.
+Carapace, arrondie, sans crête au bord supérieur; sa longeur, hors le
+rostre est à peu près egale au tiers de la longeur totale.
 
-Quatre grandes Ã©pines existent au bord antÃ©rieur, deux Ã  la base du
-rostre, un peu divergentes, les autres Ã  Ã©gales distances entre ces
-derniÃ¨res et les angles antÃ©rieurs de la carapace. (Pl. 1^e, fig. 1,
+Quatre grandes épines existent au bord antérieur, deux à la base du
+rostre, un peu divergentes, les autres à égales distances entre ces
+dernières et les angles antérieurs de la carapace. (Pl. 1^e, fig. 1,
 1-a.)
 
 Antennes internes avec les articles basilaires grands; les articles
-terminales plus longs que la carapace, Ã  longeurs Ã©gales; l'un plus gros
-Ã  la moitiÃ©e infÃ©rieure, l'autre s'amincyssant reguliÃ¨rement vers
-l'extrÃ©mitÃ©. Dans la base des articles basilaires existe une Ã©pine trÃ¨s
-aiguÃ« et trÃ¨s grande.
+terminales plus longs que la carapace, à longeurs égales; l'un plus gros
+à la moitiée inférieure, l'autre s'amincyssant regulièrement vers
+l'extrémité. Dans la base des articles basilaires existe une épine très
+aiguë et très grande.
 
 Antennes externes, grandes, appendice lamelleux eliptique; une dent
 spiniforme dans la base du premier article.
 
-Articles terminales grands, Ã  peu prÃ¨s de la longeur du corps.
+Articles terminales grands, à peu près de la longeur du corps.
 
-Abdomen lÃ©gÃ¨rement comprimÃ©.
+Abdomen légèrement comprimé.
 
-Pattes natatoires avec deux appendices foliacÃ©s.
+Pattes natatoires avec deux appendices foliacés.
 
-Lame caudale mitoyenne triangulaire, aiguÃ« Ã  l'extremitÃ© avec trois
-Ã©pines Ã  chaque bord.
+Lame caudale mitoyenne triangulaire, aiguë à l'extremité avec trois
+épines à chaque bord.
 
 La longeur proportionelle des pattes est: 3^e, 4^e, 5^e, 2^e, 1^e.
 
 Longeur totale 0^{m},035.
 
-Teinte gÃ©nÃ©rale, rose clair avec des petits points carminÃ©s.
+Teinte générale, rose clair avec des petits points carminés.
 
 Portugal (Coimbra), M. Rosa.
 
@@ -507,12 +507,12 @@ Genus      *Paraplectana*. Nob.
 
 
 O sr. Blackwall distincto arachnologista inglez, publicou ha pouco[1] a
-descripÃ§Ã£o de duas especies de arachnidios que inclue no genero
-_Eurysoma_ (Koch). A descripÃ§Ã£o minuciosa que aquelle auctor faz das
-duas especies, leva-nos a crÃªr que sÃ£o congeneres de duas outras que
+descripção de duas especies de arachnidios que inclue no genero
+_Eurysoma_ (Koch). A descripção minuciosa que aquelle auctor faz das
+duas especies, leva-nos a crêr que são congeneres de duas outras que
 recebemos de Angola, (Africa occidental); no emtanto julgamos necessario
 substituir o nome generico _Eurysoma_ por _Paraplectana_, por isso que o
-primeiro jÃ¡ tinha sido adoptado para designar dois generos, um de
+primeiro já tinha sido adoptado para designar dois generos, um de
 insectos coleopteros e outro de helminthas[2].
 
 Incluimos ainda n'este genero a _Plectana paradoxa_ de Walckenaer[3].
@@ -523,44 +523,44 @@ occidental.
 
 1 _Paraplectana Torntoni_. Black.     }
                                       } Com intima affinidade
-2      Â»       _cabindae_. Nob.       }
+2      »       _cabindae_. Nob.       }
 
-3      Â»       _Walleri_. Black.      }
+3      »       _Walleri_. Black.      }
                                       } Id.
-4      Â»       _hemisphaerica_. Koch. }
+4      »       _hemisphaerica_. Koch. }
 
-5      Â»       _Anchietae_. Nob.
+5      »       _Anchietae_. Nob.
 
-6      Â»       _paradoxa_. Walck.
+6      »       _paradoxa_. Walck.
 
 
-M. Blackwall, arachnologiste trÃ¨s distinguÃ©, a publiÃ© dans ces derniers
-temps la description de deux espÃ¨ces d'arachnides qu'il rapporte au
-genre _Eurysoma_ de Koch[1]. D'aprÃ¨s les descriptions trÃ¨s dÃ©taillÃ©es de
-cet auteur, nous croyons devoir regarder comme congÃªnÃ¨res de ces
-espÃ¨ces, deux autres que nous avons reÃ§ues d'Angole, (Afrique
-occidentale); seulement il nous a semblÃ© nÃ©cessaire de substituer le nom
-_Paraplectana_ Ã  celui de _Eurysoma_, ce dernier ayant Ã©tÃ© prÃ©cÃ©dement
-choisi, pour dÃ©signer deux genres, l'un d'insectes colÃ©optÃ¨res, l'autre
+M. Blackwall, arachnologiste très distingué, a publié dans ces derniers
+temps la description de deux espèces d'arachnides qu'il rapporte au
+genre _Eurysoma_ de Koch[1]. D'après les descriptions très détaillées de
+cet auteur, nous croyons devoir regarder comme congênères de ces
+espèces, deux autres que nous avons reçues d'Angole, (Afrique
+occidentale); seulement il nous a semblé nécessaire de substituer le nom
+_Paraplectana_ à celui de _Eurysoma_, ce dernier ayant été précédement
+choisi, pour désigner deux genres, l'un d'insectes coléoptères, l'autre
 d'helminthes[2].
 
 Nous comprenons encore dans ce genre la _Plectane paradoxe_ de Walk.[3].
-Il restera donc constituÃ© par cette espÃ¨ce, celles de M. Blackwall, la
-_Gasteracantha hemisphaerica_ de Koch, et les deux espÃ¨ces de l'Afrique
+Il restera donc constitué par cette espèce, celles de M. Blackwall, la
+_Gasteracantha hemisphaerica_ de Koch, et les deux espèces de l'Afrique
 occidentale.
 
 
 1 _Paraplectana Torntoni_. Black.     }
-                                      } Ã‰troitement alliÃ©es
-2      Â»       _cabindae_. Nob.       }
+                                      } Étroitement alliées
+2      »       _cabindae_. Nob.       }
 
-3      Â»       _Walleri_. Black.      }
+3      »       _Walleri_. Black.      }
                                       } Id.
-4      Â»       _hemisphaerica_. Koch. }
+4      »       _hemisphaerica_. Koch. }
 
-5      Â»       _Anchietae_. Nob.
+5      »       _Anchietae_. Nob.
 
-6      Â»       _paradoxa_. Walck.
+6      »       _paradoxa_. Walck.
 
 
 *1 Paraplectana-Cabindae.* Nob. (Pl. II, fig. 6)
@@ -569,22 +569,22 @@ occidentale.
 Olhos dispostos como no genero _Plectana_.
 
 Abdomen proximamente elyptico, convexo, deprimido circularmente no
-contorno, onde existe um rebordo em cordÃ£o: escavado na face ventral
+contorno, onde existe um rebordo em cordão: escavado na face ventral
 especialmente na parte anterior, onde se occulta em parte o
 cephalothorax, que se articula pouco mais ou menos no meio d'esta face.
-Aos lados d'esta depressÃ£o existem duas outras depressÃµes curvas, onde
+Aos lados d'esta depressão existem duas outras depressões curvas, onde
 se introduzem de um e outro lado os _genuaes_ das patas, quando o
 araneido as occulta debaixo do abdomen.
 
-Cephalothorax com a regiÃ£o cephalica elevada, quadrada na parte anterior
-e juntando-se Ã¡ regiÃ£o dorsal por um plano inclinado abrupto.
+Cephalothorax com a região cephalica elevada, quadrada na parte anterior
+e juntando-se á região dorsal por um plano inclinado abrupto.
 
-RegiÃ£o dorsal arredondada aos lados e posteriormente.
+Região dorsal arredondada aos lados e posteriormente.
 
 Abdomen, preto, liso; dezenove manchas de cor amarello-brilhante na face
 dorsal; dezeseis arredondadas dispostas circularmente no contorno e tres
 no meio, das quaes uma central alongada e duas lateraes reniformes.
-Vinte e tres pontos deprimidos, mais escuros que a cÃ´r geral, se acham
+Vinte e tres pontos deprimidos, mais escuros que a côr geral, se acham
 dispostos entre estas manchas, quinze entre as manchas do contorno e
 oito em duas series longitudinaes aos lados da mancha central.
 
@@ -594,55 +594,55 @@ das patas preto.
 
 Largura do abdomen                0^{m},0130
 Comprimento                       0^{m},0100
-     Â»      do cephalothorax      0^{m},0045
-     Â»      da 1.^a pata          0^{m},0120
-     Â»       Â» 2.^a  Â»            0^{m},0110
-     Â»       Â» 3.^a  Â»            0^{m},0090
-     Â»       Â» 4.^a  Â»            0^{m},0130
+     »      do cephalothorax      0^{m},0045
+     »      da 1.^a pata          0^{m},0120
+     »       » 2.^a  »            0^{m},0110
+     »       » 3.^a  »            0^{m},0090
+     »       » 4.^a  »            0^{m},0130
 
 
 Patria: Cabinda (Angola, Africa occidental.)
 
-Sr. JosÃ© d'Anchieta.
+Sr. José d'Anchieta.
 
 
-Yeux disposÃ©s comme dans le genre _Plectane_.
+Yeux disposés comme dans le genre _Plectane_.
 
-Abdomen Ã  peu prÃ¨s elyptique, convexe, dÃ©primÃ© au partour, oÃ¹ existe un
-rebord en cordon: prÃ©sentant Ã  la partie antÃ©rieure de la face ventrale
-une dÃ©pression dans laquelle vient se loger presque entiÃ©rement le
-cephalothorax, dont le pÃ©doncule rÃ©pond Ã  peu prÃ¨s au milieu de cette
-face. De chaque cÃ´tÃ© existent deux sillons courbes dans lesquels
-s'engagement les genuaux des pattes lorsque l'aranÃ©ide les cache sous
+Abdomen à peu près elyptique, convexe, déprimé au partour, où existe un
+rebord en cordon: présentant à la partie antérieure de la face ventrale
+une dépression dans laquelle vient se loger presque entiérement le
+cephalothorax, dont le pédoncule répond à peu près au milieu de cette
+face. De chaque côté existent deux sillons courbes dans lesquels
+s'engagement les genuaux des pattes lorsque l'aranéide les cache sous
 l'abdomen.
 
-CÃ©phalothorax avec la rÃ©gion cÃ©phalique Ã©levÃ©e Ã  la partie antÃ©rieure et
-se joignant Ã¡ la rÃ©gion dorsale par une pente rapide.
+Céphalothorax avec la région céphalique élevée à la partie antérieure et
+se joignant á la région dorsale par une pente rapide.
 
-RÃ©gion dorsale, arrondie sur les cÃ´tÃ©s et en arriÃ¨re.
+Région dorsale, arrondie sur les côtés et en arrière.
 
-Abdomen noir, lisse: dixneuf taches jaunes d'or Ã¡ la face dorsale; seize
-arrondies disposÃ©es circulairement au partour, trois au milieu, dont une
-centrale allongÃ©e, et deux latÃ©rales rÃ©niformes. Vingt trois points
-dÃ©primÃ©s noir foncÃ©, quinze entre les taches du partour, huit en deux
-sÃ©ries longitudinales aux cÃ´tÃ©s de la tache centrale.
+Abdomen noir, lisse: dixneuf taches jaunes d'or á la face dorsale; seize
+arrondies disposées circulairement au partour, trois au milieu, dont une
+centrale allongée, et deux latérales réniformes. Vingt trois points
+déprimés noir foncé, quinze entre les taches du partour, huit en deux
+séries longitudinales aux côtés de la tache centrale.
 
-Sterne, hanche, exinguinal et moitiÃ© du fÃ©moral, jaune brulÃ©: le reste
+Sterne, hanche, exinguinal et moitié du fémoral, jaune brulé: le reste
 des pattes noir.
 
 
 Largeur de l'abdomen             0^{m},0130
 Longeur                          0^{m},0100
-   Â»    du cÃ©phalothorax         0^{m},0045
-   Â»    de la 1^{Ã¨re} patte      0^{m},0120
-   Â»      Â»   2^e       Â»        0^{m},0110
-   Â»      Â»   3^e       Â»        0^{m},0090
-   Â»      Â»   4^e       Â»        0^{m},0130
+   »    du céphalothorax         0^{m},0045
+   »    de la 1^{ère} patte      0^{m},0120
+   »      »   2^e       »        0^{m},0110
+   »      »   3^e       »        0^{m},0090
+   »      »   4^e       »        0^{m},0130
 
 
 Patrie: Cabinda (Angola, Afrique occidentale.)
 
-M. JosÃ© d'Anchieta.
+M. José d'Anchieta.
 
 
 *2 Paraplectana-Anchietae.* Nob. (Pl. II, fig. 5)
@@ -653,11 +653,11 @@ dorsal, deprimido no contorno. Face ventral como na especie antecedente.
 
 Cephalothorax amarello torrado, liso e polido.
 
-Abdomen amarello torrado com tres faxas pretas, uma em fÃ³rma de
+Abdomen amarello torrado com tres faxas pretas, uma em fórma de
 ferradura contorna o abdomen na parte anterior e nos lados, as outras
-partem da porÃ§Ã£o curva d'esta faxa, seguem parallelamente ao eixo
+partem da porção curva d'esta faxa, seguem parallelamente ao eixo
 longitudinal e terminam perto do extremo do abdomen, onde se crusam em X
-e vÃ£o continuar-se contornando a face ventral. Esta Ã© preta com uma faxa
+e vão continuar-se contornando a face ventral. Esta é preta com uma faxa
 amarella transversal na parte posterior do apparelho setifero.
 
 Vinte e um pontos deprimidos na face dorsal sobre as faxas pretas, treze
@@ -671,45 +671,45 @@ Patas anneladas de preto e amarello torrado.
 
 Largura do abdomen               0^{m},012
 Comprimento                      0^{m},011
-     Â»     do cephalothorax      0^{m},004
-     Â»     da 1.^a pata          0^{m},012
-     Â»     da 2.^a   Â»           0^{m},011
-     Â»     da 3.^a   Â»           0^{m},009
-     Â»     da 4.^a   Â»           0^{m},013
+     »     do cephalothorax      0^{m},004
+     »     da 1.^a pata          0^{m},012
+     »     da 2.^a   »           0^{m},011
+     »     da 3.^a   »           0^{m},009
+     »     da 4.^a   »           0^{m},013
 
 
 Patria: Cabinda (Angola, Africa occidental.)
 
 
-Abdomen orbiculaire, un peu plus large que long, convexe Ã  la face
-dorsale, dÃ©primÃ© au partour: le reste comme dans l'espÃ¨ce prÃ©cÃ©dente.
+Abdomen orbiculaire, un peu plus large que long, convexe à la face
+dorsale, déprimé au partour: le reste comme dans l'espèce précédente.
 
-CÃ©phalothorax jaune d'ocre, avec 3 bandes brun foncÃ©: l'une en forme de
-fer Ã  cheval contourne le cÃ©phalothorax Ã  sa partie antÃ©rieure et aux
-cÃ´tÃ©s; les autres partent de la portion courbe de cette bande, marchent
-parallelement Ã  l'axe longitudinal et finissent prÃ¨s de l'extrÃ©mitÃ© de
+Céphalothorax jaune d'ocre, avec 3 bandes brun foncé: l'une en forme de
+fer à cheval contourne le céphalothorax à sa partie antérieure et aux
+côtés; les autres partent de la portion courbe de cette bande, marchent
+parallelement à l'axe longitudinal et finissent près de l'extrémité de
 l'abdomen, en se croisant en X et en allant contourner la face ventrale.
-Cette face est noire avec une bande jaune transversale derriÃ¨re les
-filiÃ¨res.
+Cette face est noire avec une bande jaune transversale derrière les
+filières.
 
-21 points dÃ©primÃ©s d'un noir foncÃ© sur les bandes de la face dorsale: 13
+21 points déprimés d'un noir foncé sur les bandes de la face dorsale: 13
 sur la bande courbe, 4 sur chacune des deux bandes longitudinales.
 
-LÃªvre, machoires et sterne jaune brulÃ©.
+Lêvre, machoires et sterne jaune brulé.
 
-Pattes annelÃ©es de noir et de jaune brulÃ©.
+Pattes annelées de noir et de jaune brulé.
 
 
 Largeur de l'abdomen             0^{m},012
 Longeur                          0^{m},011
-   Â»    du cÃ©phalothorax         0^{m},004
-   Â»    de la 1^{Ã¨re} patte      0^{m},012
-   Â»      Â»   2^e       Â»        0^{m},011
-   Â»      Â»   3^e       Â»        0^{m},009
-   Â»      Â»   4^e       Â»        0^{m},013
+   »    du céphalothorax         0^{m},004
+   »    de la 1^{ère} patte      0^{m},012
+   »      »   2^e       »        0^{m},011
+   »      »   3^e       »        0^{m},009
+   »      »   4^e       »        0^{m},013
 
 
-Patrie: Cabinda (Angola, Afrique occidentale.) M. JosÃ© d'Anchieta.
+Patrie: Cabinda (Angola, Afrique occidentale.) M. José d'Anchieta.
 
 
 Genus *Nephila.* Koch.
@@ -719,15 +719,15 @@ Genus *Nephila.* Koch.
 
 
 Olhos intermediarios collocados sobre uma proeminencia na parte anterior
-da fronte: os anteriores sÃ£o os maiores de todos e mais proximos entre
-si que os posteriores. Olhos lateraes approximados mas nÃ£o contiguos,
+da fronte: os anteriores são os maiores de todos e mais proximos entre
+si que os posteriores. Olhos lateraes approximados mas não contiguos,
 collocados sobre tuberculos elevados e obliquos, os anteriores maiores
 que os posteriores.
 
-Cephalothorax, com a regiÃ£o cephalica quadrada anteriormente e
-prolongando-se em angulo agudo para a parte posterior, onde se junta Ã¡
-regiÃ£o dorsal por um plano inclinado suavemente; dois tuberculos conicos
-na linha de juncÃ§Ã£o das duas regiÃµes.
+Cephalothorax, com a região cephalica quadrada anteriormente e
+prolongando-se em angulo agudo para a parte posterior, onde se junta á
+região dorsal por um plano inclinado suavemente; dois tuberculos conicos
+na linha de juncção das duas regiões.
 
 Abdomen ovalar-alongado, muito levantado sobre o cephalothorax:
 apparelho setifero inferior.
@@ -738,92 +738,92 @@ Abdomen, amarello brilhante com seis faxas transversaes escuras; uma
 anterior, larga, cobrindo toda a parte que se projecta sobre o
 cephalothorax, tres com larguras proximamente eguaes, duas mais
 estreitas e approximadas entre si. Estas faxas estreitam para os flancos
-onde se juntam a uma faxa longitudinal da mesma cÃ´r. Face ventral,
-escura, com linhas e pontuaÃ§Ãµes amarellas. (Est. 2.^a, fig. 4-d.)
+onde se juntam a uma faxa longitudinal da mesma côr. Face ventral,
+escura, com linhas e pontuações amarellas. (Est. 2.^a, fig. 4-d.)
 
 Sterno, amarello brilhante.
 
 1.^o e 2.^o pares de patas, com uma malha amarella no extremo do tibial
-e comeÃ§o do metatarso.
+e começo do metatarso.
 
 Pellos, bastos em escova nos 2/3 anteriores do tibial, nas patas do
 1.^o, 2.^o e 4.^o pares; pellos curtos e raros no resto das patas.
 
 
 Comprimento do cephalothorax      0^{m},009
-     Â»      do abdomen            0^{m},022
-     Â»      da 1.^a pata          0^{m},049
-     Â»       Â» 2.^a  Â»            0^{m},040
-     Â»       Â» 3.^a  Â»            0^{m},023
-     Â»       Â» 4.^a  Â»            0^{m},038
+     »      do abdomen            0^{m},022
+     »      da 1.^a pata          0^{m},049
+     »       » 2.^a  »            0^{m},040
+     »       » 3.^a  »            0^{m},023
+     »       » 4.^a  »            0^{m},038
 
 
-Patria: Duque de BraganÃ§a (interior d'Angola.)
+Patria: Duque de Bragança (interior d'Angola.)
 
-Sr. Pinheiro BayÃ£o.
+Sr. Pinheiro Bayão.
 
 
-Yeux intermÃ©diaires placÃ©s sur une Ã©lÃ©vation dans le front, les
-antÃ©rieurs sont les plus grands de touts et plus rapprochÃ©s entr'eux que
-les postÃ©rieurs. Yeux latÃ©raux rapprochÃ©s par paires, pas contigus,
-placÃ©s sur des tubercules Ã©levÃ©s et obliques; les antÃ©rieurs plus grands
-que les postÃ©rieurs.
+Yeux intermédiaires placés sur une élévation dans le front, les
+antérieurs sont les plus grands de touts et plus rapprochés entr'eux que
+les postérieurs. Yeux latéraux rapprochés par paires, pas contigus,
+placés sur des tubercules élevés et obliques; les antérieurs plus grands
+que les postérieurs.
 
-CÃ©phalothorax avec la rÃ©gion cÃ©phalique, carrÃ©e antÃ©rieurement, se
-prolongeant en angle aigu en arriÃ¨re: deux tubercules coniques sur la
-ligne de jonction des deux rÃ©gions.
+Céphalothorax avec la région céphalique, carrée antérieurement, se
+prolongeant en angle aigu en arrière: deux tubercules coniques sur la
+ligne de jonction des deux régions.
 
-Abdomen, triangulaire alongÃ©, assez Ã©levÃ© sur le cephalothorax, se
-prolongeant Ã  la partie postÃ©rieure sur les filiÃ¨res, qui sont
-infÃ©rieures. (V. fig. 4-c)
+Abdomen, triangulaire alongé, assez élevé sur le cephalothorax, se
+prolongeant à la partie postérieure sur les filières, qui sont
+inférieures. (V. fig. 4-c)
 
-RÃ©gion dorsale un peu plus large que la rÃ©gion cÃ©phalique, carrÃ©e
-postÃ©rieurement.
+Région dorsale un peu plus large que la région céphalique, carrée
+postérieurement.
 
-CÃ©phalothorax et pattes, brun foncÃ©.
+Céphalothorax et pattes, brun foncé.
 
-Abdomen jaune d'or, avec 6 bandes transversales brun foncÃ©: l'une
-antÃ©rieure sur la portion qui se projecte sur le cÃ©phalothorax, trois Ã 
-peu prÃ©s da la mÃªme largeur, deux plus Ã©troites et rapprochÃ©es. Ces
-bandes s'amincissent aux flancs oÃ¹ aboutissen Ã  une bande longitudinale
-de la mÃªme couleur.
+Abdomen jaune d'or, avec 6 bandes transversales brun foncé: l'une
+antérieure sur la portion qui se projecte sur le céphalothorax, trois à
+peu prés da la même largeur, deux plus étroites et rapprochées. Ces
+bandes s'amincissent aux flancs où aboutissen à une bande longitudinale
+de la même couleur.
 
 Face ventrale, brune avec des lignes et des taches jaunes. (Fig. 4-d.)
 
 Sterne, jaune d'or.
 
-PrÃ©miÃ¨re et deuxiÃ¨me paires de pattes, avec une tache jaune dans
-l'extrÃ©mitÃ© du tibial et commencement du metatarse.
+Prémière et deuxième paires de pattes, avec une tache jaune dans
+l'extrémité du tibial et commencement du metatarse.
 
-Poils, serrÃ©s en brosse, couvrent presque la totalitÃ© du tibial des
-pattes Ã  l'exception de la troiziÃ¨me.
-
-
-Longeur du cÃ©phalothorax         0^{m},009
-   Â«    de l'abdomen             0^{m},022
-   Â»    de la 1^{Ã¨re} patte      0^{m},049
-   Â»      Â»   2^e       Â»        0^{m},040
-   Â»      Â»   3^e       Â»        0^{m},023
-   Â»      Â»   4^e       Â»        0^{m},038
+Poils, serrés en brosse, couvrent presque la totalité du tibial des
+pattes à l'exception de la troizième.
 
 
-Patrie: Duque de BraganÃ§a (intÃ©rieur d'Angola.)
+Longeur du céphalothorax         0^{m},009
+   «    de l'abdomen             0^{m},022
+   »    de la 1^{ère} patte      0^{m},049
+   »      »   2^e       »        0^{m},040
+   »      »   3^e       »        0^{m},023
+   »      »   4^e       »        0^{m},038
 
-M. Pinheiro BayÃ£o.
+
+Patrie: Duque de Bragança (intérieur d'Angola.)
+
+M. Pinheiro Bayão.
 
 
 *Podophthalma.* Gen. n. Nob. (Pl. II. fig. 1-a)
 
 
-CaractÃ©res genericos.
+Caractéres genericos.
 
 Olhos, deseguaes, dispostos em quatro ordens de dois olhos: a primeira
-estÃ¡ collocada no bordo frontal, as outras acham-se sobre a proeminencia
-da regiÃ£o cephalica. Os olhos frontaes estÃ£o collocados na extremidade
+está collocada no bordo frontal, as outras acham-se sobre a proeminencia
+da região cephalica. Os olhos frontaes estão collocados na extremidade
 de dois tuberculos conicos truncados, um pouco inclinados, de modo que
-os eixos visuaes sÃ£o totalmente inferiores. Os olhos das duas ordens
+os eixos visuaes são totalmente inferiores. Os olhos das duas ordens
 intermediarias formam um pequeno quadrilatero inscripto n'um outro maior
-formado pelos das ordens extremas. Os olhos da ultima ordem sÃ£o grandes
+formado pelos das ordens extremas. Os olhos da ultima ordem são grandes
 e collocados sobre tuberculos voltados lateral e posteriormente. (Est.
 2.^a, fig. 1-a.)
 
@@ -831,33 +831,33 @@ Maxillas, divergentes, chanfradas anteriormente, dilatadas na base.
 Labio hexagonal. (Est. 2.^a, fig. 1-b.)
 
 
-CaractÃ¨res gÃ©nÃ©riques.
+Caractères génériques.
 
-Yeux, inÃ©gaux entr'eux, disposÃ©s sur quatre rangs de deux yeux; le
-prÃ©mier rang est sur le front, les autres rangs sont disposÃ©s sur la
-convexitÃ© de la rÃ©gion cÃ©phalique. Les antÃ©rieurs sont placÃ©s sur des
-tubercules coniques tronquÃ©s, un peu inclinÃ©s en bas, de maniÃ¨re que les
-essieux visuels sont complÃ¨tement infÃ©rieurs. Les yeux des deux rangs
-intermÃ©diaires forment un petit quadrilatÃ¨re, inscript dans un autre
-plus grand formÃ© par les rangs extrÃªmes. Yeux du dernier rang grands et
-placÃ©s sur des tubercules tournÃ©s en dehors et en arriÃ¨re. (Pl. 2, fig.
+Yeux, inégaux entr'eux, disposés sur quatre rangs de deux yeux; le
+prémier rang est sur le front, les autres rangs sont disposés sur la
+convexité de la région céphalique. Les antérieurs sont placés sur des
+tubercules coniques tronqués, un peu inclinés en bas, de manière que les
+essieux visuels sont complètement inférieurs. Les yeux des deux rangs
+intermédiaires forment un petit quadrilatère, inscript dans un autre
+plus grand formé par les rangs extrêmes. Yeux du dernier rang grands et
+placés sur des tubercules tournés en dehors et en arrière. (Pl. 2, fig.
 1-a.)
 
-Machoires, divergentes, Ã©chancrÃ©es au bord antÃ©rieur, dilatÃ©es Ã  la
-base. LÃªvre hexagonal. (Fig. 1-b.)
+Machoires, divergentes, échancrées au bord antérieur, dilatées à la
+base. Lêvre hexagonal. (Fig. 1-b.)
 
 
 *Podophthalma Bayonianna.* Nob. (Pl. II fig. 1)
 
 Olhos da primeira ordem collocados sobre tuberculos compridos, curvos na
 extremidade; eixos visuaes dirigidos para baixo: os olhos da segunda
-ordem sÃ£o os mais pequenos de todos, e estÃ£o mais approximados entre si
-que os da terceira ordem, que sÃ£o os immediatos na ordem crescente de
+ordem são os mais pequenos de todos, e estão mais approximados entre si
+que os da terceira ordem, que são os immediatos na ordem crescente de
 tamanho; olhos da quarta ordem maiores que os das outras ordens,
 collocados sobre tuberculos com os eixos visuaes voltados lateral e
 posteriormente.
 
-Cephalothorax com a regiÃ£o cephalica proeminente; regiÃ£o dorsal
+Cephalothorax com a região cephalica proeminente; região dorsal
 arredondada dos lados e na parte posterior.
 
 Abdomen, conico, alongado, um pouco levantado anteriormente sobre o
@@ -866,7 +866,7 @@ cephalothorax; apparelho setifero terminal.
 Patas, muito compridas, cobertas de pellos compridos, delgados e
 espinhos articulados.
 
-CÃ´r geral, pardo avermelhado: cephalothorax e abdomen cobertos de pellos
+Côr geral, pardo avermelhado: cephalothorax e abdomen cobertos de pellos
 bastos e curtos: alguns pellos compridos rodeiam os olhos da ordem
 posterior.
 
@@ -879,67 +879,67 @@ pintura analoga.
 Patas escuras com alguns anneis mais claros.
 
 Seis individuos femeas possue o Museu de Lisboa; dois vieram do
-districto Duque de BraganÃ§a, enviados pelo sr. BayÃ£o, os restantes foram
-colligidos pelo sr. JosÃ© d'Anchieta em Rio Quilo.
+districto Duque de Bragança, enviados pelo sr. Bayão, os restantes foram
+colligidos pelo sr. José d'Anchieta em Rio Quilo.
 
 
 Comprimento do cephalothorax      0^{m},007
-     Â»      do abdomen            0^{m},012
-     Â»      da 1.^a pata          0^{m},041
-     Â»      da 2.^a pata          0^{m},039
-     Â»      da 3.^a pata          0^{m},030
-     Â»      da 4.^a pata          0^{m},041
+     »      do abdomen            0^{m},012
+     »      da 1.^a pata          0^{m},041
+     »      da 2.^a pata          0^{m},039
+     »      da 3.^a pata          0^{m},030
+     »      da 4.^a pata          0^{m},041
 
 
-NÃ£o demos a conhecer este genero na Ã©poca em que o recebemos do Duque de
-BraganÃ§a (1864), porque o exemplar vinha em muito mau estado, apenas
-podia observar-se a notavel disposiÃ§Ã£o dos olhos, o resto nÃ£o era
+Não demos a conhecer este genero na época em que o recebemos do Duque de
+Bragança (1864), porque o exemplar vinha em muito mau estado, apenas
+podia observar-se a notavel disposição dos olhos, o resto não era
 possivel ser estudado, pois o exemplar estava secco e vinha cravado
-juntamente com alguns insectos. FicÃ¡mos esperando a acquisiÃ§Ã£o de mais
+juntamente com alguns insectos. Ficámos esperando a acquisição de mais
 exemplares que chegaram ultimamente em dezembro de 1865. No entanto
-podemos apresentar uma testemunha respeitavel para mostrar que jÃ¡
+podemos apresentar uma testemunha respeitavel para mostrar que já
 conheciamos este genero em 1864: o sr. James Yates Johnson, passando por
-Lisboa n'esta Ã©poca viu o arachnidio e o desenho da disposiÃ§Ã£o dos
+Lisboa n'esta época viu o arachnidio e o desenho da disposição dos
 olhos, desenho que se acha reproduzido na est. 2.^a, fig. 1-a.
 
 
-Yeux du premier rang placÃ©s sur des tubercules allongÃ©s et courbÃ©s Ã 
-l'extremitÃ©; essieux visuels dirigÃ©s en bas: les yeux du second rang
-sont les plus petits de tous, et plus rapprochÃ©s que ceux du troisiÃ¨me,
-qui sont les immÃ©diats dans l'ordre croissante de grandeur; yeux du
-quatriÃ¨me rang, plus grands que ceux des autres rangs, placÃ©s sur des
-tubÃ©rcules Ã  Ã©ssieux visuels dirigÃ©s en dehors et en arriÃ¨re.
+Yeux du premier rang placés sur des tubercules allongés et courbés à
+l'extremité; essieux visuels dirigés en bas: les yeux du second rang
+sont les plus petits de tous, et plus rapprochés que ceux du troisième,
+qui sont les immédiats dans l'ordre croissante de grandeur; yeux du
+quatrième rang, plus grands que ceux des autres rangs, placés sur des
+tubércules à éssieux visuels dirigés en dehors et en arrière.
 
-CÃ©phalothorax avec la rÃ©gion cÃ©phalique Ã©levÃ©e en bosse; rÃ©gion dorsale
-arrondie aux cotÃ©s et en arriÃ¨re.
+Céphalothorax avec la région céphalique élevée en bosse; région dorsale
+arrondie aux cotés et en arrière.
 
-Abdomen conique allongÃ©, un peu Ã©levÃ© sur le cÃ©phalothorax, filiÃ¨res
+Abdomen conique allongé, un peu élevé sur le céphalothorax, filières
 terminales.
 
 Pattes assez longues, couvertes par des poils longs et minces, parmi ces
-poils il y en a qui sont Ã©pineux longs et articulÃ©s.
+poils il y en a qui sont épineux longs et articulés.
 
-Couleur gÃ©nÃ©rale brun rougeÃ¢tre: cephalothorax et abdomen couverts de
+Couleur générale brun rougeâtre: cephalothorax et abdomen couverts de
 poils en velours: quelques poils longs autour des yeux du dernier rang.
 
 Dos de l'abdomen avec une bande longitudinale brune; deux bandes
-blanches aux cotÃ©s de cette bande, deux bandes brunes dentelÃ©es aux
-flancs. Face ventrale avec une peinture semblable. Deux taches noires Ã 
-la partie antÃ©rieure de l'abdomen.
+blanches aux cotés de cette bande, deux bandes brunes dentelées aux
+flancs. Face ventrale avec une peinture semblable. Deux taches noires à
+la partie antérieure de l'abdomen.
 
 Pattes brunes avec quelques anneaux plus clairs.
 
-Six femelles possÃ©de le MusÃ©e de Lisbonne; deux envoyÃ©es par M. Pinheiro
-BayÃ£o, du Duque de BraganÃ§a; les autres ont Ã©tÃ© apportÃ©es par M. JosÃ© d'
-Anchieta, qui les a colligÃ©es Ã¡ Rio Quilo.
+Six femelles posséde le Musée de Lisbonne; deux envoyées par M. Pinheiro
+Bayão, du Duque de Bragança; les autres ont été apportées par M. José d'
+Anchieta, qui les a colligées á Rio Quilo.
 
 
 Longeur du cephalothorax         0^{m},007
-    Â»   de l'abdomen             0^{m},012
-    Â»   de la 1^{Ã¨re} patte      0^{m},041
-    Â»     Â»   2^e       Â»        0^{m},039
-    Â»     Â»   3^e       Â»        0^{m},030
-    Â»     Â»   4^e       Â»        0^{m},041
+    »   de l'abdomen             0^{m},012
+    »   de la 1^{ère} patte      0^{m},041
+    »     »   2^e       »        0^{m},039
+    »     »   3^e       »        0^{m},030
+    »     »   4^e       »        0^{m},041
 
 
 Genus *Deinopis.* Mac Leay.
@@ -954,87 +954,87 @@ intermediarios muito proximos, muito pequenos e collocados sobre uma
 eminencia. Olhos da segunda ordem immensamente grandes (o seu diametro
 mede proximamente 1/3 da largura da fronte). Olhos da terceira ordem
 muito affastados dos frontaes, collocados na base e aos lados da parte
-elevada e saliente da regiÃ£o cephalica. (Est. 2.^a, fig. 2-a-b-c.)
+elevada e saliente da região cephalica. (Est. 2.^a, fig. 2-a-b-c.)
 
-Cephalothorax com a regiÃ£o cephalica muito elevada e saliente
-anteriormente, prolongando-se em uma peÃ§a polygonal chanfrada na parte
+Cephalothorax com a região cephalica muito elevada e saliente
+anteriormente, prolongando-se em uma peça polygonal chanfrada na parte
 anterior, formando dois lobulos triangulares franjados nos bordos: estes
-prolongamentos cobrem os olhos frontaes, de modo que nÃ£o podem ser
+prolongamentos cobrem os olhos frontaes, de modo que não podem ser
 vistos quando se observa o arachnidio pela parte superior. O resto do
-cephalothorax Ã© proximamente elyptico, convexo.
+cephalothorax é proximamente elyptico, convexo.
 
-Abdomen conico, com dois tuberculos verticaes no terÃ§o anterior do seu
+Abdomen conico, com dois tuberculos verticaes no terço anterior do seu
 comprimento; dois pequenos tuberculos no extremo posterior; apparelho
 setifero inferior.
 
-Patas decrescendo successivamente de grandeza, da primeira Ã¡ quarta.
+Patas decrescendo successivamente de grandeza, da primeira á quarta.
 Femural do primeiro par com o bordo interno dilatado na base e franjado
 de pellos: os dois bordos no primeiro par e o bordo externo nos outros
-pares de patas, apresentam espinhos moveis, curtos, espaÃ§ados,
+pares de patas, apresentam espinhos moveis, curtos, espaçados,
 acompanhados de pinceis de pellos.
 
 Corpo coberto de pellos espinhosos curtos.
 
-CÃ´r geral, castanho claro: uma mancha preta triangular na parte anterior
+Côr geral, castanho claro: uma mancha preta triangular na parte anterior
 do abdomen com o vertice voltado para a frente e os angulos da base
 sobre os tuberculos do dorso: uma mancha em losango no meio d'estes
-tuberculos, seguida por traÃ§os crusados que se continuam atÃ© o extremo
+tuberculos, seguida por traços crusados que se continuam até o extremo
 do abdomen. Face ventral e flancos manchados irregularmente de escuro.
 
 
 Comprimento do cephalotorax      0^{m},007
-    Â»       do abdomen           0^{m},013
-    Â»       da 1.^a pata         0^{m},040
-    Â»        Â» 2.^a  Â»           0^{m},039
-    Â»        Â» 3.^a  Â»           0^{m},026
-    Â»        Â» 4.^a  Â»           0^{m},025
+    »       do abdomen           0^{m},013
+    »       da 1.^a pata         0^{m},040
+    »        » 2.^a  »           0^{m},039
+    »        » 3.^a  »           0^{m},026
+    »        » 4.^a  »           0^{m},025
 
 
 Patria: Rio Quilo (Angola, Africa occidental.)
 
-Offerecido pelo sr. JosÃ© d'Anchieta.
+Offerecido pelo sr. José d'Anchieta.
 
 
-Yeux excessivement inÃ©gaux entr'eux; les latÃ©raux du premier rang placÃ©s
-sur des tubercules, avec les essieux visuels tournÃ©s en bas et en
-dehors; les intermÃ©diaires trÃ¨s petits, rapprochÃ©s et placÃ©s sur une
-Ã©lÃ©vation. Yeux du second rang dÃ©mesurement grands (leurs diametres sont
-Ã  peu prÃ©s Ã©gaux au tiers de la largeur du front), placÃ©s Ã  la partie
-supÃ©rieure du front. Yeux du troisiÃ©me rang trÃ¨s Ã©loignÃ©s des fronteaux,
-placÃ©s aux cÃ´tÃ©s et Ã  la base de la rÃ©gion cÃ©phalique. (Pl. 2, fig.
+Yeux excessivement inégaux entr'eux; les latéraux du premier rang placés
+sur des tubercules, avec les essieux visuels tournés en bas et en
+dehors; les intermédiaires très petits, rapprochés et placés sur une
+élévation. Yeux du second rang démesurement grands (leurs diametres sont
+à peu prés égaux au tiers de la largeur du front), placés à la partie
+supérieure du front. Yeux du troisiéme rang très éloignés des fronteaux,
+placés aux côtés et à la base de la région céphalique. (Pl. 2, fig.
 2-a-b-c.)
 
-CÃ©phalothorax avec la rÃ©gion cÃ©phalique trÃ¨s Ã©lÃ¨vÃ©e et saillante Ã  la
-partie antÃ©rieure, se prolongeant dans une sorte de capuchon polygonal,
-Ã©chancrÃ© au bord antÃ©rieur et prÃ©sentant deux lobules triangulaires
-bordÃ©s de poils: ces lobules couvrent les yeux frontaux, de maniÃ¨re
-qu'on ne peut pas les appercevoir quand'on regarde l'araneÃ¯de par
-dessus. La rÃ©gion dorsale est bombÃ©e et arrondie.
+Céphalothorax avec la région céphalique très élèvée et saillante à la
+partie antérieure, se prolongeant dans une sorte de capuchon polygonal,
+échancré au bord antérieur et présentant deux lobules triangulaires
+bordés de poils: ces lobules couvrent les yeux frontaux, de manière
+qu'on ne peut pas les appercevoir quand'on regarde l'araneïde par
+dessus. La région dorsale est bombée et arrondie.
 
-Abdomen, conique, avec deux tubercules verticaux au tiers antÃ©rieur:
-deux petits tubercules Ã  l'extrÃ©mitÃ© postÃ©rieure; filiÃ¨res infÃ©rieures.
+Abdomen, conique, avec deux tubercules verticaux au tiers antérieur:
+deux petits tubercules à l'extrémité postérieure; filières inférieures.
 
-Les pattes diminuent successivement de grandeur de la premiÃ¨re Ã  la
-quatriÃ¨me. Le fÃ©moral de la premiÃ¨re paire a le bord interne dilatÃ© et
-bordÃ© de poils: les deux bords dans la premiÃ¨re paire et le bord externe
-dans les autres paires de pattes, prÃ©sentent cÃ¡ et lÃ  des Ã©pines
-articulÃ©es, courtes, entourÃ©es de poils Ã  la base. Corps couverts de
-poils Ã©pineux trÃ¨s courts.
+Les pattes diminuent successivement de grandeur de la première à la
+quatrième. Le fémoral de la première paire a le bord interne dilaté et
+bordé de poils: les deux bords dans la première paire et le bord externe
+dans les autres paires de pattes, présentent cá et là des épines
+articulées, courtes, entourées de poils à la base. Corps couverts de
+poils épineux très courts.
 
-Teinte gÃ©nÃ©rale, brun jaunÃ¢tre: une tache triangulaire noire Ã  la partie
-antÃ©rieure de l'abdomen, avec le vertice tournÃ© en avant et les angles
+Teinte générale, brun jaunâtre: une tache triangulaire noire à la partie
+antérieure de l'abdomen, avec le vertice tourné en avant et les angles
 de la base sur les tubercules du dos: Une tache en losange au milieu de
-ces tubercules; cette tache est suivie par diffÃ©rents traits croisÃ©s qui
-se continuent jusqu'Ã  l'extrÃ©mitÃ© de l'abdomen. Face ventrale et flancs
-tachÃ©s irrÃ©guliairÃ¨ment de noir.
+ces tubercules; cette tache est suivie par différents traits croisés qui
+se continuent jusqu'à l'extrémité de l'abdomen. Face ventrale et flancs
+tachés irréguliairèment de noir.
 
 
-Longeur du cÃ©phalothorax         0^{m},007
-   Â»    de l'abdomen             0^{m},013
-   Â»    de la 1^{Ã¨re} patte      0^{m},040
-   Â»    Â» 2^e        Â»           0^{m},039
-   Â»    Â» 3^e        Â»           0^{m},026
-   Â»    Â» 4^e        Â»           0^{m},025
+Longeur du céphalothorax         0^{m},007
+   »    de l'abdomen             0^{m},013
+   »    de la 1^{ère} patte      0^{m},040
+   »    » 2^e        »           0^{m},039
+   »    » 3^e        »           0^{m},026
+   »    » 4^e        »           0^{m},025
 
 
 Patrie: Rio Quilo (Angole, Afrique occidentale.)
@@ -1046,37 +1046,37 @@ M. J. d'Anchieta.
 
 Olhos da primeira linha, proximamente eguaes e a eguaes distancias; os
 lateraes collocados sobre tuberculos com eixos visuaes completamente
-inferiores: os intermediarios estÃ£o collocados sobre uma eminencia
+inferiores: os intermediarios estão collocados sobre uma eminencia
 alongada transversalmente. Olhos da segunda linha muito grandes, pretos,
 cercados de pellos brancos. Proeminencia anterior do cephalothorax pouco
-avanÃ§ada, terminada por dois prolongamentos triangulares, estreitos e
+avançada, terminada por dois prolongamentos triangulares, estreitos e
 franjados de pellos. Estes prolongamentos collocados sobre um par de
-olhos frontaes muito grandes, dÃ£o Ã¡ fronte a apparencia d'uma cabeÃ§a de
+olhos frontaes muito grandes, dão á fronte a apparencia d'uma cabeça de
 Bufo (Bubo), d'onde tiramos o nome especifico. (V. est. 2.^a, fig. 3-a)
 Olhos dorsaes affastados dos frontaes e collocados proximamente a 1/3 da
-parte anterior da regiÃ£o cephalica.
+parte anterior da região cephalica.
 
-Esta regiÃ£o termina-se posteriormente em angulo agudo, e prolonga-se
-muito sobre a regiÃ£o dorsal, que Ã© arredondada nos bordos
+Esta região termina-se posteriormente em angulo agudo, e prolonga-se
+muito sobre a região dorsal, que é arredondada nos bordos
 latero-anteriores, em linha recta aos lados, e mais estreita na
-extremidade posterior que Ã© cortada a angulo recto. (Est. 2.^a, fig.
+extremidade posterior que é cortada a angulo recto. (Est. 2.^a, fig.
 3-b.)
 
 Abdomen proximamente cylindrico, da mesma largura do cephalothorax: a
-parte anterior nÃ£o se projecta sobre este.
+parte anterior não se projecta sobre este.
 
-CÃ´r geral, cinzento escuro. Cephalothorax orlado de branco nos lados;
-regiÃ£o cephalica tambem orlada de branco.
+Côr geral, cinzento escuro. Cephalothorax orlado de branco nos lados;
+região cephalica tambem orlada de branco.
 
 Patas excessivamente compridas, principalmente as do primeiro par.
 
 
 Comprimento do cephalothorax      0^{m},007
-      Â»     do abdomen            0^{m},012
-      Â»     da 1.^a pata          0^{m},080
-      Â»     da 2.^a pata          0^{m},056
-      Â»     da 3.^a pata          0^{m},040
-      Â»     da 4.^a pata          0^{m},039
+      »     do abdomen            0^{m},012
+      »     da 1.^a pata          0^{m},080
+      »     da 2.^a pata          0^{m},056
+      »     da 3.^a pata          0^{m},040
+      »     da 4.^a pata          0^{m},039
 
 
 Patria: Rio Quilo (Africa occidental.)
@@ -1084,38 +1084,38 @@ Patria: Rio Quilo (Africa occidental.)
 Sr. Anchieta.
 
 
-Yeux du premier rang Ã  peu prÃ¨s egaux et Ã  Ã©gales distances entr'eux;
-les latÃ©raux placÃ©s sur des tubercules, Ã  Ã©ssieux visuels tournÃ©s en
-dehors et en bas; les intermÃ©diaires sur une Ã©minence allongÃ©e
-transversalement. Yeux du deuxiÃ¨me rang trÃ¨s grands, noirs, bordÃ©s de
-poils blancs. Prolongement antÃ©rieur de la rÃ©gion cÃ©phalique constituÃ©e
-par deux pointes triangulaires bordÃ©es de poils, dirigÃ©es en avant et en
-haut, placÃ©es sur le front et au dessus des yeux du deuxiÃ¨me rang. Ces
-pointes, semblables Ã  des aigrettes, placÃ©es au dessus d'une paire
-d'yeux trÃ¨s grands, donnent au front l'apparence d'une tÃªte de Duc
-(Bubo), d'oÃ¹ nous avons tirÃ© le nom spÃ©cifique. (Pl. 2, fig. 3-a.)
+Yeux du premier rang à peu près egaux et à égales distances entr'eux;
+les latéraux placés sur des tubercules, à éssieux visuels tournés en
+dehors et en bas; les intermédiaires sur une éminence allongée
+transversalement. Yeux du deuxième rang très grands, noirs, bordés de
+poils blancs. Prolongement antérieur de la région céphalique constituée
+par deux pointes triangulaires bordées de poils, dirigées en avant et en
+haut, placées sur le front et au dessus des yeux du deuxième rang. Ces
+pointes, semblables à des aigrettes, placées au dessus d'une paire
+d'yeux très grands, donnent au front l'apparence d'une tête de Duc
+(Bubo), d'où nous avons tiré le nom spécifique. (Pl. 2, fig. 3-a.)
 
-Yeux dorsaux eloignÃ©s des frontaux; placÃ©s Ã  peu prÃ¨s au tiers antÃ©rieur
-de la rÃ©gion cÃ©phalique. Cette rÃ©gion se termine postÃ©rieurement en
-angle aigu, et se prolonge assez sur la rÃ©gion dorsale, qui est arrondie
-aux bords latero-antÃ©rieurs, presque en ligne droite aux cottÃ©s, et plus
-Ã©troite Ã  l'extremitÃ©, qui est coupÃ©e carrÃ©ment. (Pl. 2, fig. 3-b.)
+Yeux dorsaux eloignés des frontaux; placés à peu près au tiers antérieur
+de la région céphalique. Cette région se termine postérieurement en
+angle aigu, et se prolonge assez sur la région dorsale, qui est arrondie
+aux bords latero-antérieurs, presque en ligne droite aux cottés, et plus
+étroite à l'extremité, qui est coupée carrément. (Pl. 2, fig. 3-b.)
 
-Abdomen Ã  peu prÃ¨s cylindrique, de la mÃªme largeur du cÃ©phalothorax; la
-partie antÃ©rieure ne se projecte pas sur celui-ci.
+Abdomen à peu près cylindrique, de la même largeur du céphalothorax; la
+partie antérieure ne se projecte pas sur celui-ci.
 
-Teinte gÃ©nÃ©rale gris noirÃ¢tre. CÃ©phalothorax bordÃ© de blanc aux cottÃ©s:
-rÃ©gion cÃ©phalique bordÃ©e de blanc.
+Teinte générale gris noirâtre. Céphalothorax bordé de blanc aux cottés:
+région céphalique bordée de blanc.
 
-Pattes excessivement longues, surtout celles de la premiÃ¨re paire.
+Pattes excessivement longues, surtout celles de la première paire.
 
 
-Longeur du cÃ©phalothorax         0^{m},007
-   Â»    de l'abdomen             0^{m},012
-   Â»    de la 1^{Ã¨re} patte      0^{m},080
-   Â»      Â»   2^e       Â»        0^{m},056
-   Â»      Â»   3^e       Â»        0^{m},040
-   Â»      Â»   4^e       Â»        0^{m},039
+Longeur du céphalothorax         0^{m},007
+   »    de l'abdomen             0^{m},012
+   »    de la 1^{ère} patte      0^{m},080
+   »      »   2^e       »        0^{m},056
+   »      »   3^e       »        0^{m},040
+   »      »   4^e       »        0^{m},039
 
 
 Patrie: Rio Quilo (Afrique occidentale.)
@@ -1135,7 +1135,7 @@ M. Anchieta
 
 
 
-EXPLICAÃ‡ÃƒO DAS ESTAMPAS
+EXPLICAÇÃO DAS ESTAMPAS
 
 
 ESTAMPA I
@@ -1143,25 +1143,25 @@ ESTAMPA I
 
      Fig. 1 _Atyaephyra Rosiana_. Nob. amplificada 3 vezes em diametro.
 
-       Â»  1-a, Rostro mais amplificado.
+       »  1-a, Rostro mais amplificado.
 
-       Â»  1-b, 1-c. 2.^a e 1.^a patas maxillas.
+       »  1-b, 1-c. 2.^a e 1.^a patas maxillas.
 
-       Â»  1-d, 1-e. 1.^a e 2.^a patas thoracicas.
+       »  1-d, 1-e. 1.^a e 2.^a patas thoracicas.
 
-       Â»  1-f, 1-g. MÃ£o da _Atya scabra_ (amplificada) aberta, e na posiÃ§Ã£o
+       »  1-f, 1-g. Mão da _Atya scabra_ (amplificada) aberta, e na posição
           natural.
 
-       Â»  2. _Lambrus setubalensis_. Nob. amplificado 2 vezes em diametro.
+       »  2. _Lambrus setubalensis_. Nob. amplificado 2 vezes em diametro.
 
-       Â»  2-a. CarapaÃ§a vista de perfil.
+       »  2-a. Carapaça vista de perfil.
 
-       Â»  3. _Actaea angolensis_. Nob. tamanho natural.
+       »  3. _Actaea angolensis_. Nob. tamanho natural.
 
-       Â»  3-a. PorÃ§Ã£o anterior da carapaÃ§a, vista pela parte inferior, para
-          mostrar a juncÃ§Ã£o dos bordos latero-anteriores com o quadro bocal.
+       »  3-a. Porção anterior da carapaça, vista pela parte inferior, para
+          mostrar a juncção dos bordos latero-anteriores com o quadro bocal.
 
-       Â»  3-b. MÃ£o amplificada, vista pela parte externa.
+       »  3-b. Mão amplificada, vista pela parte externa.
 
 
 ESTAMPA II
@@ -1169,42 +1169,42 @@ ESTAMPA II
 
      Fig  1. _Podophthalma Bayoniam_. Nob. foem. ad. tamanho natural.
 
-       Â»  1-a. RegiÃ£o cephalica e olhos.
+       »  1-a. Região cephalica e olhos.
 
-       Â»  1-b. Labio e maxillas.
+       »  1-b. Labio e maxillas.
 
-       Â»  2. _Deinopis Anchietae_. Nob. foem. ad. tamanho natural.
+       »  2. _Deinopis Anchietae_. Nob. foem. ad. tamanho natural.
 
-       Â»  2-a, 2-b, 2-c. RegiÃ£o cephalica e olhos, de frente, pela parte
+       »  2-a, 2-b, 2-c. Região cephalica e olhos, de frente, pela parte
           superior e de perfil (amplificado).
 
-       Â»  2-d. Apparelho bocal.
+       »  2-d. Apparelho bocal.
 
-       Â»  3. _Deinopis bubo_. Nob. masc. ad. tamanho natural.
+       »  3. _Deinopis bubo_. Nob. masc. ad. tamanho natural.
 
-       Â»  3-a. Fronte e olhos (amplificado).
+       »  3-a. Fronte e olhos (amplificado).
 
-       Â»  3-b. Cephalothorax e olhos dorsaes, idem.
+       »  3-b. Cephalothorax e olhos dorsaes, idem.
 
-       Â»  4. _Nephila Bragantina_. Nob. foem. ad. tamanho natural.
+       »  4. _Nephila Bragantina_. Nob. foem. ad. tamanho natural.
 
-       Â»  4-a. Fronte e olhos (amplificado).
+       »  4-a. Fronte e olhos (amplificado).
 
-       Â»  4-b. Labio, maxillas e palpos, idem.
+       »  4-b. Labio, maxillas e palpos, idem.
 
-       Â»  4-c. Cephalothorax e abdomen de perfil.
+       »  4-c. Cephalothorax e abdomen de perfil.
 
-       Â»  4-d. Face ventral do abdomen.
+       »  4-d. Face ventral do abdomen.
 
-       Â»  5. _Paraplectana Anchietae_. Nob. foem. ad. tamanho natural.
+       »  5. _Paraplectana Anchietae_. Nob. foem. ad. tamanho natural.
 
-       Â»  6. _Paraplectana Cabindae_. Nob. vista pela parte superior e de
+       »  6. _Paraplectana Cabindae_. Nob. vista pela parte superior e de
           frente, idem.
 
-       Â»  7. _Trogulus_ esp. n.? _tricarinatus_? _nepaeformis_? amplificado
+       »  7. _Trogulus_ esp. n.? _tricarinatus_? _nepaeformis_? amplificado
           2 vezes em diametro.
 
-       Â»  7-a, 7-b, 7-c, 7-d. Extremidade do metatarso e tarso da 1.^a,
+       »  7-a, 7-b, 7-c, 7-d. Extremidade do metatarso e tarso da 1.^a,
           2.^a, 3.^a e 4.^a patas.
 
 
@@ -1216,28 +1216,28 @@ EXPLICATION DES PLANCHES
 PLANCHE I
 
 
-     Fig. 1. _Atyaephyra Rosiana_. Nob. 3 fois en diamÃ¨tre.
+     Fig. 1. _Atyaephyra Rosiana_. Nob. 3 fois en diamètre.
 
-       Â»  1-a. Le rostre.
+       »  1-a. Le rostre.
 
-       Â»  1-b, 1-c. 2.^e et 1.^e pattes machoires
+       »  1-b, 1-c. 2.^e et 1.^e pattes machoires
 
-       Â»  1-d, 1-e. 1^e et 2^e pattes thoraciques.
+       »  1-d, 1-e. 1^e et 2^e pattes thoraciques.
 
-       Â»  1-f, 1-g. Mains de l'_Atya scabra_, dans la position normale, et
+       »  1-f, 1-g. Mains de l'_Atya scabra_, dans la position normale, et
           ouverte.
 
-       Â»  2. _Lambrus setubalensis_, 2 fois en diamÃ¨tre.
+       »  2. _Lambrus setubalensis_, 2 fois en diamètre.
 
-       Â»  2-a. La carapace vue de profil.
+       »  2-a. La carapace vue de profil.
 
-       Â»  3. _Actaea angolensis_. Nob. grandeur naturelle.
+       »  3. _Actaea angolensis_. Nob. grandeur naturelle.
 
-       Â»  3-a. La partie antÃ©rieure de la carapace, vue en dessous, pour
-          montrer la jonction des bords latero-antÃ©rieurs avec le cadre
+       »  3-a. La partie antérieure de la carapace, vue en dessous, pour
+          montrer la jonction des bords latero-antérieurs avec le cadre
           buccal.
 
-       Â»  3-b. Main vue de front.
+       »  3-b. Main vue de front.
 
 
 PLANCHE II
@@ -1245,41 +1245,41 @@ PLANCHE II
 
      Fig. 1 _Podophthalma Bayoniana_. Nob. grandeur naturelle.
 
-       Â»  1-a. RÃ©gion cÃ©phalique et yeux.
+       »  1-a. Région céphalique et yeux.
 
-       Â»  1-b. Machoires et lÃªvre.
+       »  1-b. Machoires et lêvre.
 
-       Â»  2. _Deinopis Anchietae_. Nob. foem. ad. grandeur naturelle.
+       »  2. _Deinopis Anchietae_. Nob. foem. ad. grandeur naturelle.
 
-       Â»  2-a, 2-b, 2-c. RÃ©gion cÃ©phalique et yeux vus de front, par dessus
+       »  2-a, 2-b, 2-c. Région céphalique et yeux vus de front, par dessus
           et de profil.
 
-       Â»  2-d. Apareil buccal.
+       »  2-d. Apareil buccal.
 
-       Â»  3. _Deinopis bubo_. Nob. masc. ad. grandeur naturelle.
+       »  3. _Deinopis bubo_. Nob. masc. ad. grandeur naturelle.
 
-       Â»  3-a. Front et yeux frontaux.
+       »  3-a. Front et yeux frontaux.
 
-       Â»  3-b. CÃ©phalothorax et yeux dorsaux.
+       »  3-b. Céphalothorax et yeux dorsaux.
 
-       Â»  4. _Nephila Bragantina_. Nob. foem. ad. grandeur naturelle.
+       »  4. _Nephila Bragantina_. Nob. foem. ad. grandeur naturelle.
 
-       Â»  4-a. Front et yeux.
+       »  4-a. Front et yeux.
 
-       Â»  4-b. La bouche.
+       »  4-b. La bouche.
 
-       Â»  4-c. CÃ©phalothorax et abdomen de profil.
+       »  4-c. Céphalothorax et abdomen de profil.
 
-       Â»  4-d. Face ventrale de l'abdomen.
+       »  4-d. Face ventrale de l'abdomen.
 
-       Â»  5. _Paraplectana Anchietae_. Nob. foem. ad. grandeur naturelle.
+       »  5. _Paraplectana Anchietae_. Nob. foem. ad. grandeur naturelle.
 
-       Â»  6. _Paraplectana Cabindae_. Nob. foem. ad. grandeur naturelle.
+       »  6. _Paraplectana Cabindae_. Nob. foem. ad. grandeur naturelle.
 
-       Â»  7. _Trogulus_ esp. n.? _nepaeformis_? _tricarinatus_? double de
+       »  7. _Trogulus_ esp. n.? _nepaeformis_? _tricarinatus_? double de
           grandeur.
 
-       Â»  7-a, 7-b, 7-c, 7-d. ExtremitÃ© du metatarse et tarse des 1^e, 2^e,
+       »  7-a, 7-b, 7-c, 7-d. Extremité du metatarse et tarse des 1^e, 2^e,
           3^e et 4^e pattes
 
 
@@ -1303,27 +1303,27 @@ Aqui encontram-se listados todos os erros encontrados e corrigidos:
 
 
   +----------+-----------------------+-------------------------------+
-  |          |      Original         |      CorrecÃ§Ã£o                |
+  |          |      Original         |      Correcção                |
   +----------+-----------------------+-------------------------------+
-  |#pÃ¡g.    4| letero-anterior       | latero-anterior               |
-  |#pÃ¡g.    9| ocdentale             | occidentale                   |
-  |#pÃ¡g.    9| _Waleri_              | _Walleri_                     |
-  |#pÃ¡g.   10| cephalotorax          | cephalothorax                 |
-  |#pÃ¡g.   10| cepÃ©hlothorax         | cÃ©phalothorax                 |
-  |#pÃ¡g.   13| frontral              | frontal                       |
-  |#pÃ¡g.   14| avac                  | avec                          |
+  |#pág.    4| letero-anterior       | latero-anterior               |
+  |#pág.    9| ocdentale             | occidentale                   |
+  |#pág.    9| _Waleri_              | _Walleri_                     |
+  |#pág.   10| cephalotorax          | cephalothorax                 |
+  |#pág.   10| cepéhlothorax         | céphalothorax                 |
+  |#pág.   13| frontral              | frontal                       |
+  |#pág.   14| avac                  | avec                          |
   +----------+-----------------------+-------------------------------+
 
 
 
 
 
-End of the Project Gutenberg EBook of DescripÃ§Ã£o de algumas especies novas
-ou pouco conhecidas de crustaceos e arachnidios de Portugal e possessÃµes,
+End of the Project Gutenberg EBook of Descripção de algumas especies novas
+ou pouco conhecidas de crustaceos e arachnidios de Portugal e possessões,
 by Felix Antonio de Brito Capello
 
 *** END OF THIS PROJECT GUTENBERG EBOOK
-DESCRIPÃ‡ÃƒO DE ALGUMAS ESPECIES NOVAS***
+DESCRIPÇÃO DE ALGUMAS ESPECIES NOVAS***
 
 
 ***** This file should be named 33838-8.txt or 33838-8.zip *****

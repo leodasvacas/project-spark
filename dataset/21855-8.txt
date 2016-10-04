@@ -1,4 +1,4 @@
-The Project Gutenberg EBook of A Fome de CamÃµes, by AntÃ³nio Duarte Gomes Leal
+The Project Gutenberg EBook of A Fome de Camões, by António Duarte Gomes Leal
 
 This eBook is for the use of anyone anywhere at no cost and with
 almost no restrictions whatsoever.  You may copy it, give it away or
@@ -6,9 +6,9 @@ re-use it under the terms of the Project Gutenberg License included
 with this eBook or online at www.gutenberg.org
 
 
-Title: A Fome de CamÃµes
+Title: A Fome de Camões
 
-Author: AntÃ³nio Duarte Gomes Leal
+Author: António Duarte Gomes Leal
 
 Release Date: June 18, 2007 [EBook #21855]
 
@@ -16,7 +16,7 @@ Language: Portuguese
 
 Character set encoding: ISO-8859-1
 
-*** START OF THIS PROJECT GUTENBERG EBOOK A FOME DE CAMÃ•ES ***
+*** START OF THIS PROJECT GUTENBERG EBOOK A FOME DE CAMÕES ***
 
 
 
@@ -35,7 +35,7 @@ Book Search)
 
 
 
-A FOME DE CAMÃ•ES
+A FOME DE CAMÕES
 
 
 
@@ -44,7 +44,7 @@ Gomes Leal
 
 
 
-A FOME DE CAMÃ•ES
+A FOME DE CAMÕES
 
 (POEMA EM 4 CANTOS)
 
@@ -55,7 +55,7 @@ EDITORES
 
 Empreza Litteraria Luso-Brazileira de A. Souza Pinto
 e
-Livraria Industrial de Lisboa & C.Âª
+Livraria Industrial de Lisboa & C.ª
 
 MDCCCLXXX
 
@@ -70,7 +70,7 @@ TRAGEDIA DA RUA
 
 
       Quando no mundo o Genio abandonado
-      expira Ã¡ fome e ao frio, indignamente,
+      expira á fome e ao frio, indignamente,
       um livido remorso ensanguentado
       sacode o mundo tenebrosamente.
       Como o arrepio d'um terror sagrado,
@@ -78,34 +78,34 @@ TRAGEDIA DA RUA
       como uma voz terrivel que suspira
       nas cordas vingativas d'uma Lyra.
 
-      E essa Lyra Ã© sÃ³ feita d'ameaÃ§as.
-      Essa Lyra Ã© sÃ³ feita de vinganÃ§as.
-      Essa Lyra sÃ³ falla de desgraÃ§as,
-      d'antigos crimes, de crueis lembranÃ§as.
-      Essa Lyra espedaÃ§a e quebra as taÃ§as,
-      calla os festins, e faz parar as danÃ§as,
+      E essa Lyra é só feita d'ameaças.
+      Essa Lyra é só feita de vinganças.
+      Essa Lyra só falla de desgraças,
+      d'antigos crimes, de crueis lembranças.
+      Essa Lyra espedaça e quebra as taças,
+      calla os festins, e faz parar as danças,
       e essa Lyra ai! da tragica innocencia
-      Ã© a Lyra terrivel da Consciencia.
+      é a Lyra terrivel da Consciencia.
 
-      E a Lyra diz: O que fizeste, Ã³ mundo!
+      E a Lyra diz: O que fizeste, ó mundo!
       das grandes almas unicas, sagradas,
       das grandes frontes d'um sonhar profundo
       que eram as frontes as mais bem amadas?
       O que fizeste d'esse abysmo fundo
       de vontades mais rijas do que espadas,
-      d'esses simples e santos coraÃ§Ãµes
-      que faziam chorar as multidÃµes?
+      d'esses simples e santos corações
+      que faziam chorar as multidões?
 
       O que fizeste d'essas linguas d'ouro
       que sabiam pregar como os prophetas?
-      Como enxugaste o seu comprido chÃ´ro?
+      Como enxugaste o seu comprido chôro?
       Como arrancaste as ponteagudas settas?
-      O que fizeste, Ã³ mundo! do thesouro
-      que vÃ³s homens mortaes chamais poetas:
+      O que fizeste, ó mundo! do thesouro
+      que vós homens mortaes chamais poetas:
       mas cujo nome d'harmonias bellas
-      sÃ³ o sabem as Cousas e as Estrellas?
+      só o sabem as Cousas e as Estrellas?
 
-      Deitaste ao lodo, Ã¡ rua, e aviltamento
+      Deitaste ao lodo, á rua, e aviltamento
       esses que adora a Natureza inteira,
       esmagaste entre as pedras o talento,
       os seus craneos quebraste, na cegueira!
@@ -114,14 +114,14 @@ TRAGEDIA DA RUA
       E repousam sem lastimas nem lousas
       os que viam as lagrimas das Cousas!...
 
-      Por isso me ouvirÃ¡s em toda a parte
-      como um soluÃ§o e um grito vingador,
+      Por isso me ouvirás em toda a parte
+      como um soluço e um grito vingador,
       n'uma alta torre, atraz d'um baluarte,
-      entre os festins, nas convulsÃµes do amor.
+      entre os festins, nas convulsões do amor.
       Na paz, ou levantando o estandarte
-      da guerra, escutarÃ¡s a minha DÃ´r.
-      Por que eu, Ã³ mundo! guarda-o na lembranÃ§a,
-      --Eu sou a Lyra, e a minha voz VinganÃ§a!
+      da guerra, escutarás a minha Dôr.
+      Por que eu, ó mundo! guarda-o na lembrança,
+      --Eu sou a Lyra, e a minha voz Vingança!
 
       E o mundo escuta, indefinidamente,
       a voz da Lyra a protestar terrivel.
@@ -129,65 +129,65 @@ TRAGEDIA DA RUA
       se o vento dobra o cannavial flexivel,
       ouve-a nos sonhos, ouve-a intimamente,
       n'uma continua musica inflexivel,
-      atÃ© que emfim vencido n'esta liÃ§a
-      o mundo clama: FaÃ§a-se a JustiÃ§a!--
+      até que emfim vencido n'esta liça
+      o mundo clama: Faça-se a Justiça!--
 
       Era uma noute livida e chuvosa,
-      ermas as ruas, ermas as calÃ§adas.
-      Nada cortava a solidÃ£o brumosa,
+      ermas as ruas, ermas as calçadas.
+      Nada cortava a solidão brumosa,
       nem ais d'amor, nem gritos de facadas.
       Das nuvens colossaes acastelladas
-      sÃ³mente a meia lua silenciosa,
+      sómente a meia lua silenciosa,
       boiava em morto ceu ermo d'estrellas,
       como um navio que perdeu as vellas.
 
-      Quem Ã© que cruza Ã¡ chuva e Ã¡ ventania,
-      Ã¡ meia noute, as ruas solitarias?
-      Ã‰s tu santa Miseria, que de dia
-      foges da luz do Sol, o pai dos pÃ¡rias?
-      Ou Ã©s tu Fome ou Vicio, que sem guia,
+      Quem é que cruza á chuva e á ventania,
+      á meia noute, as ruas solitarias?
+      És tu santa Miseria, que de dia
+      foges da luz do Sol, o pai dos párias?
+      Ou és tu Fome ou Vicio, que sem guia,
       vaes nas noutes sem lua, mortuarias,
       provocar o Deboxe e os estrangeiros
-      Ã¡ baÃ§a luz dos tristes candeeiros?
+      á baça luz dos tristes candeeiros?
 
-      Ã“ Destino! Ã³ Destino!--eu sei a historia
-      de muitas das tragedias soluÃ§antes,
+      Ó Destino! ó Destino!--eu sei a historia
+      de muitas das tragedias soluçantes,
       de muito nome que esqueceu a Gloria,
       de muitos prantos que cairam d'antes!
       Sei que riscam teus dedos flammejantes,
-      como uma sina mÃ¡, muita memoria,
+      como uma sina má, muita memoria,
       e que nada ha maior e mais escuro
       do que o brilhante e o bronze do teu muro!
 
-      Mas nÃ£o quero contar o drama agora
+      Mas não quero contar o drama agora
       do Brilhante, do Leque, e do Farrapo,
-      da meretriz que no bordel descÃ³ra,
-      do amor do Charco, do histriÃ£o, do sapo;
-      nem a farÃ§a de sangue a toda a hora,
+      da meretriz que no bordel descóra,
+      do amor do Charco, do histrião, do sapo;
+      nem a farça de sangue a toda a hora,
       do Ouro e do Velludo--o rico trapo,
       nem a sina immoral sinistra e crua
       da historia diabolica da Rua.
 
       Um dia eu contarei a extranha lenda
-      Ã³ Destino! dos teus encantamentos,
+      ó Destino! dos teus encantamentos,
       seguirei, passo a passo, a tua senda
-      Ã³ Miseria! e direi os teus tormentos.
-      Para que a alma da RalÃ© aprenda,
+      ó Miseria! e direi os teus tormentos.
+      Para que a alma da Ralé aprenda,
       contarei os crueis temperamentos,
       Direi o Incesto a amamentar os filhos,
       e o Parricida a esvasiar quartilhos.
 
       Um dia accenderei a selva escura
-      das almas que suffocam Ã¡ nascenÃ§a,
-      das noutes sÃ³ riscadas d'amargura,
+      das almas que suffocam á nascença,
+      das noutes só riscadas d'amargura,
       como um phosphoro risca a treva densa.
       E com a ponta d'um brilhante duro
-      marcar-te-hei Ã³ tragica DoenÃ§a
+      marcar-te-hei ó tragica Doença
       que vais, limpando as lagrimas internas,
-      fazer um _toast_ Ã¡ Morte nas tabernas.
+      fazer um _toast_ á Morte nas tabernas.
 
       Um dia evocarei os teus mysterios,
-      Ã³ tragedia da Rua e os teus segredos,
+      ó tragedia da Rua e os teus segredos,
       mais funestos que os tristes cemiterios,
       mais profundos que os bastos arvoredos:
       direi sonhos, desejos quasi ethereos,
@@ -198,145 +198,145 @@ TRAGEDIA DA RUA
       Um dia esfiarei todo o rosario
       da Innocencia e da Fome aventureira,
       do Luxo, do Egoismo solitario,
-      do Genio soluÃ§ante na trapeira,
+      do Genio soluçante na trapeira,
       da Virtude embrulhada em seu sudario,
-      pedindo esmolla Ã¡ sua irmÃ£ rameira,
+      pedindo esmolla á sua irmã rameira,
       e o Crime dando bailes d'apparato,
       em quanto o Justo expira no grabato.
 
       Descobrirei as contas da Avareza
       junto ao esquife d'uma virgem bella,
-      o Tedio bocejando Ã¡ lauta meza,
+      o Tedio bocejando á lauta meza,
       a Fome da mansarda na janella,
       a Inveja ululando contra a preza,
-      como uiva Ã¡ lua a lugubre cadella,
-      e o Suicidio, nas manhÃ£s geladas,
-      espedaÃ§ando o craneo nas calÃ§adas.
+      como uiva á lua a lugubre cadella,
+      e o Suicidio, nas manhãs geladas,
+      espedaçando o craneo nas calçadas.
 
       Um dia cantarei a ladainha
-      da DesgraÃ§a e da Forma triumphante,
+      da Desgraça e da Forma triumphante,
       da Espada que tilinta na bainha,
       da Mascara que ri e passa avante,
-      da Fome que ergue as mÃ£os e se definha,
+      da Fome que ergue as mãos e se definha,
       do Leque, da Batina, e do Brilhante
       das lagrimas mortaes do eterno Entrudo,
       das miserias do Cancro e do Velludo.
 
       Por que tem muito que cantar o imperio
       e o inferno da Carne e dos desejos,
-      porque Ã© eterno e livido o mysterio
-      da Morte. SÃ£o eternos os almejos.
-      Por que ha lagrimas do berÃ§o ao cemiterio,
-      ha lagrimas no Amor e atÃ© nos beijos,
-      prantos communs e de grotescos traÃ§os
-      nas miserias dos reis e dos palhaÃ§os.
+      porque é eterno e livido o mysterio
+      da Morte. São eternos os almejos.
+      Por que ha lagrimas do berço ao cemiterio,
+      ha lagrimas no Amor e até nos beijos,
+      prantos communs e de grotescos traços
+      nas miserias dos reis e dos palhaços.
 
       Porque tem muito que cantar as scenas
-      Ã³ Rua! das extranhas odysseas
-      das tuas festas, procissÃµes serenas,
+      ó Rua! das extranhas odysseas
+      das tuas festas, procissões serenas,
       do negro sangue que te agita as veias.
       Por que ha remorsos, lagrimas e penas
       entre os motins e os frenesins das ceias.
-      Por que n'esta funesta e eterna farÃ§a.
+      Por que n'esta funesta e eterna farça.
       ai! tanto chora o actor como o comparsa.
 
-      Por que ha bastantes coraÃ§Ãµes vencidos,
-      altos desejos que nÃ£o mais voaram,
+      Por que ha bastantes corações vencidos,
+      altos desejos que não mais voaram,
       sinistros ais e intimos gemidos
-      lagrimas mudas que se nÃ£o choraram.
-      Sim, ha soluÃ§os que nÃ£o sÃ£o ouvidos,
+      lagrimas mudas que se não choraram.
+      Sim, ha soluços que não são ouvidos,
       lagrimas mortas que se congelaram,
       n'uma miseria, um abandono nobre
       como um enterro n'uma rua pobre!
 
       Porque ninguem conhece onde termina
-      o tregeito que rÃ­, soluÃ§a, engana,
+      o tregeito que rí, soluça, engana,
       porque a eterna Mascara domina,
-      e Ã© uma esfinge cada face humana.
-      Porque a Morte em nÃ³s ceifa uma ruina,
+      e é uma esfinge cada face humana.
+      Porque a Morte em nós ceifa uma ruina,
       quando nos rouba na aza deshumana,
-      e esta mulher que ri com tanta graÃ§a,
-      Ã© talvez uma lagrima que passa!
+      e esta mulher que ri com tanta graça,
+      é talvez uma lagrima que passa!
 
-      Mas agora eu sÃ³ conto o Irrevogavel,
+      Mas agora eu só conto o Irrevogavel,
       mais monstruoso do que um sonho ardente,
       conto a historia funesta, inexoravel,
-      do Genio morto Ã¡ fome, indignamente.
-      Quero narrar o que Ã© o innarravel!
-      fazer sentir o que jÃ¡mais se sente,
+      do Genio morto á fome, indignamente.
+      Quero narrar o que é o innarravel!
+      fazer sentir o que jámais se sente,
       fazer chorar o choro masculino
       Do Genio contra a noute do Destino!
 
-      O Genio Ã© um archanjo refulgente
-      que enrista a lanÃ§a contra a escura Sorte,
-      tem no seu gesto uma expressÃ£o potente,
+      O Genio é um archanjo refulgente
+      que enrista a lança contra a escura Sorte,
+      tem no seu gesto uma expressão potente,
       que diz: eu quero! e empallidece a Morte.
       Para o Vulgo porem vil inclemente,
       e o Destino esse cego antigo e forte,
-      Ã© um guerreiro tragico e proscripto,
+      é um guerreiro tragico e proscripto,
       e a fronte tem como um luar maldito.
 
       Este vulto, portanto, que caminha
       altas horas, ao frio das nortadas,
-      Ã© CamÃµes que de fome se definha
+      é Camões que de fome se definha
       nas ruas de Lisboa abandonadas.
-      Ã‰ CamÃµes a que a Sorte vil mesquinha
+      É Camões a que a Sorte vil mesquinha
       faz em noutes de fome torturadas,
       elle o velho cantor d'heroes guerreiros!...
       vagar errante como os vis rafeiros.
 
       Morreu-lhe o escravo, o seu fiel amigo,
-      o seu amparo e seu bordÃ£o no mundo,
+      o seu amparo e seu bordão no mundo,
       morreu-lhe o humilde companheiro antigo,
       no seu peito deixando um vacuo fundo.
       Hoje pois triste, velho, sem abrigo,
       faminto, abandonado e vagabundo,
       tenta esmollar tambem pelas esquinas.
-      Ã“ lagrimas!.. Ã“ glorias!.. Ã“ ruinas!..
+      Ó lagrimas!.. Ó glorias!.. Ó ruinas!..
 
-      Mas nÃ£o estende o valoroso braÃ§o,
+      Mas não estende o valoroso braço,
       que outr'ora trabalhou entre os guerreiros,
-      a mÃ£o recusa-se a suster o passo
+      a mão recusa-se a suster o passo
       dos transeuntes raros, sobranceiros.
-      A Fome roe-o, curva-o o canÃ§asso.
+      A Fome roe-o, curva-o o cançasso.
       Cospem-lhe a neve, a chuva, os aguaceiros.
-      Ã“ calÃ§adas fataes! nas enxurradas
+      Ó calçadas fataes! nas enxurradas
       vae muito fel de lagrimas choradas.
 
-      Ã“ CapitÃ£es! Ã“ CapitÃ£es egoistas!
+      Ó Capitães! Ó Capitães egoistas!
       duras velhas mais duras que o granito!
-      ha caso mais sublime Ã s vossas vistas
+      ha caso mais sublime às vossas vistas
       que mais vos deva merecer um grito,
       mais negro, mais cruel para os artistas,
       mais sagrado, dramatico, infinito,
       que mais abale os nobres peitos francos
       que um Genio pobre e de cabellos brancos!?...
 
-      O Genio continua Ã¡ ventania
+      O Genio continua á ventania
       a errar pelas ruas silenciosas,
       como um espectro que dissipa o dia,
       como as grandes estatuas dolorosas.
       Assim a noute vaga, na agonia
       dos martyres das noutes trabalhosas,
-      atÃ© que o sol jorrou pelas viellas,
+      até que o sol jorrou pelas viellas,
       e ensanguentou os olhos das janellas.
 
-      ComeÃ§am-se a ouvir esses rumores
+      Começam-se a ouvir esses rumores
       das capitaes egoistas acordadas,
       a musica dos carros chiadores
       que chegam das aldeias retiradas.
-      RecomeÃ§am as pombas seus amores
+      Recomeçam as pombas seus amores
       sobre as brancas egrejas penduradas,
       e nas torres dos astros companheiras,
       a palpitar, nas glorias, as bandeiras.
 
-      ComeÃ§am-se a ouvir as matutinas
+      Começam-se a ouvir as matutinas
       musicas da cidade, e as alegrias
       dos gallos com as notas crystallinas
       dos sinos com extranhas simphonias.
       O sol lava de glorias as collinas
       as torres, os beiraes, as gelosias,
-      e como a moÃ§a que um amante beija
+      e como a moça que um amante beija
       avermelham-se os vidros d'uma egreja.
 
       Dos passaros retinem os gorgeios
@@ -344,34 +344,34 @@ TRAGEDIA DA RUA
       os vis riachos, os lodosos veios,
       correm ralhando, ao sol, precipitados,
       os cavallos remordem os seus freios,
-      vÃ£o passando aldeÃµes para os mercados,
+      vão passando aldeões para os mercados,
       e atraz dos lentos carros os boieiros
       veem sombrios, graves, e trigueiros.
 
       Somente ao Genio uma tristeza enorme
       entenebrece todos os ruidos,
-      como um sombrio coraÃ§Ã£o que dorme,
-      que jÃ¡ nÃ£o tem nem sonhos, nem gemidos!
-      SÃ³ sente uma saudade extranha, informe,
+      como um sombrio coração que dorme,
+      que já não tem nem sonhos, nem gemidos!
+      Só sente uma saudade extranha, informe,
       como aroma dos tempos revolvidos,
       das grandes selvas, sombras e palmeiras
       quando o sol desce as ingremes ladeiras.
 
-      Os aldeÃµes tisnados dos trabalhos,
-      recomeÃ§ando as horas das fadigas,
-      recordam-lhes os Ã©picos carvalhos
-      a sombra, os bois, as sestas tÃ£o amigas!
+      Os aldeões tisnados dos trabalhos,
+      recomeçando as horas das fadigas,
+      recordam-lhes os épicos carvalhos
+      a sombra, os bois, as sestas tão amigas!
       Fazem lembrar-lhe as curvas dos atalhos,
       a ermida, a fonte, os fenos, e as cantigas,
       que elle escutara, pelas luas claras,
-      Ã¡s louras raparigas nas ceÃ¡ras!
+      ás louras raparigas nas ceáras!
 
       Lembram-lhe a India, os templos monstruosos,
       com seus deuses terriveis, singulares,
       as arvores de fructos venenosos,
       as bastas selvas, os gentis palmares!
       Lembram-lhe os tigres ruivos, sequiosos,
-      que vÃ£o beber a rios como a mares,
+      que vão beber a rios como a mares,
       e pelas noites immortaes, eternas!
       o luar nas figueiras das cisternas
 
@@ -379,8 +379,8 @@ TRAGEDIA DA RUA
       em cima tendo os astros por juizes,
       dizendo adeus ao sol no horisonte,
       acabar os seus dias infelizes:
-      na boa terra MÃ£e deitar a fronte
-      e entre as vegetaÃ§Ãµes, entre as raizes,
+      na boa terra Mãe deitar a fronte
+      e entre as vegetações, entre as raizes,
       misturar sua vida e acerbas dores
       com as almas das plantas e das flores!
 
@@ -388,73 +388,73 @@ TRAGEDIA DA RUA
       ai! como luz que para sempre expira,
       os bellos tempos jovens e lusidos,
       as mulheres ideaes que o Amor inspira!
-      Rotos, Ã¡ chuva, os tragicos vestidos,
+      Rotos, á chuva, os tragicos vestidos,
       posta de parte, empoeirada a lyra,
-      achava-se hoje n'uma rua, Ã³ mundo,
+      achava-se hoje n'uma rua, ó mundo,
       velho, faminto, pobre, e moribundo!
 
       Sem ousar mendigar, como um vadio,
       vaga nas ruas da Cidade egoista.
       A tarde chega, o bello sol fugiu.
-      A noute vem, que o coraÃ§Ã£o contrista.
+      A noute vem, que o coração contrista.
       Irrompe a lua sobre a verde crista
       d'um monte ao longe, e no lagedo, ao frio,
       o Genio cae emfim, hirto e sem falla,
-      como um cadaver que se deita Ã¡ valla.
+      como um cadaver que se deita á valla.
 
       N'este momento uma mulher gigante,
       que pareceu sair d'um pesadello,
       pallida e triste, qual saudade errante,
       deixando ao vento as ondas do cabello,
-      tÃ£o magra como a Sombra, o seu semblante
+      tão magra como a Sombra, o seu semblante
       toldado d'um desgosto immenso e bello,
       chegou-se ao Genio hirto e abandonado,
-      como a visÃ£o d'um sonho torturado.
+      como a visão d'um sonho torturado.
 
       E disse-lhe: Bem perto d'esta rua
-      dar-te-hÃ£o, Ã³ mendigo, uma guarida,
-      nÃ£o dormirÃ¡s Ã¡ lividez da lua
-      e terÃ¡s leito onde acabar a vida.
+      dar-te-hão, ó mendigo, uma guarida,
+      não dormirás á lividez da lua
+      e terás leito onde acabar a vida.
       Se a Sorte t'esmagou, a Sorte crua,
-      ergue a cabeÃ§a pallida e abatida,
-      e ri contente, Ã³ triste, para a eÃ§a,
-      que em breve vai findar a tua peÃ§a!
+      ergue a cabeça pallida e abatida,
+      e ri contente, ó triste, para a eça,
+      que em breve vai findar a tua peça!
 
       A mulher ajudou a levantal-o.
-      Cingiu o braÃ§o ao Genio moribundo.
+      Cingiu o braço ao Genio moribundo.
       A Morte que passava em seu cavallo
       deu-lhe um sorriso livido e profundo.
-      --O teu semblante, Ã³ velho, dÃ¡-me abalo,
-      disse a mulher. NÃ£o Ã© vulgar no mundo!
+      --O teu semblante, ó velho, dá-me abalo,
+      disse a mulher. Não é vulgar no mundo!
       Dize-me pois que cousas tenebrosas
-      te hÃ£o cavado essas rugas dolorosas!
+      te hão cavado essas rugas dolorosas!
 
-      Â«Eu fui--o Genio disse--um malfadado
+      «Eu fui--o Genio disse--um malfadado
       cantor d'heroes e feitos dos antigos!
-      Amei tudo que Ã© grande e desejado,
+      Amei tudo que é grande e desejado,
       e terrivel luctei contra inimigos!
       Sentei-me no castello derrocado,
       no deserto solar, cruzei os p'rigos!
       E com saudade emfim d'estas collinas,
       quiz expirar-lhe, um dia, entre as ruinas!
 
-      Â«Ninhos fizeram no meu peito amores,
+      «Ninhos fizeram no meu peito amores,
       como andorinhas sobre as cathedraes!
-      ConheÃ§o o aroma das malditas flores!
-      Sei os soluÃ§os dos compridos ais!
-      Sobre o deserto pallido das DÃ´res,
+      Conheço o aroma das malditas flores!
+      Sei os soluços dos compridos ais!
+      Sobre o deserto pallido das Dôres,
       ninguem como eu peregrinou jamais!
       E pelas noutes regeladas, cruas,
       chorei com fome, errando, pelas ruas!
 
-      Â«PorÃ©m que porta negra agora abriste?
-      Que aspecto Ã© este morto e desolado?
+      «Porém que porta negra agora abriste?
+      Que aspecto é este morto e desolado?
       Acaso o inferno depois d'isto existe?
-      Acaso Ã© pesadello desmanchado?Â»
+      Acaso é pesadello desmanchado?»
       --Cala-te! disse a Sombra magra e triste,
-      Cala-te, Ã³ Genio immenso, desgraÃ§ado!
-      E com sorriso d'expressÃ£o fatal
-      a Sombra concluiu--Ã‰ o hospital!
+      Cala-te, ó Genio immenso, desgraçado!
+      E com sorriso d'expressão fatal
+      a Sombra concluiu--É o hospital!
 
 
 
@@ -464,50 +464,50 @@ CANTO SEGUNDO
 No Grabato do Hospital
 
 
-      Ã‰ alta a noute. A lampada vacilla,
+      É alta a noute. A lampada vacilla,
       como um pranto, na vasta enfermaria.
       Um marmoreo suor frio scintilla
       sobre a fronte do Genio, na agonia.
       O Genio vae morrer; sobre a pupilla
-      treme-lhe um pranto Ã¡ luz bassa e sombria,
+      treme-lhe um pranto á luz bassa e sombria,
       mais triste do que o luto d'uma sina,
-      e um soluÃ§o atravez d'uma ruina.
+      e um soluço atravez d'uma ruina.
 
       Junto do leito uma mulher extranha,
       com grandes olhos tristes e parados,
       contempla-lhe o suor frio que o banha,
-      e abraÃ§a-o com seus braÃ§os descarnados.
-      Como um sol que se pÃµe n'uma montanha,
-      sÃ£o frios os seus olhos encovados,
+      e abraça-o com seus braços descarnados.
+      Como um sol que se põe n'uma montanha,
+      são frios os seus olhos encovados,
       hirta, severa, tragica a postura,
       como imagem d'antiga sepultura.
 
-      Â«JÃ¡ viste--diz-lhe o Genio--Ã³ mulher triste!
+      «Já viste--diz-lhe o Genio--ó mulher triste!
       que me olhas com teus olhos impassiveis,
       morrer no mundo alguem? Acaso viste
       as lagrimas da morte irremissiveis!
-      Acaso, ao magro peito jÃ¡ cingiste
-      uns braÃ§os que emfim caem insensiveis,
-      alguns braÃ§os d'irmÃ£o que te apertaram,
-      e que atÃ© Ã¡s entranhas te gelaram?
+      Acaso, ao magro peito já cingiste
+      uns braços que emfim caem insensiveis,
+      alguns braços d'irmão que te apertaram,
+      e que até ás entranhas te gelaram?
 
-      Â«JÃ¡ conheceste as grandes despedidas
+      «Já conheceste as grandes despedidas
       as despedidas sepulchraes, eternas?
-      JÃ¡ sabes quanto doe irem-se as vidas,
+      Já sabes quanto doe irem-se as vidas,
       formas, e almas que nos foram ternas?
       Sabes o fel das lagrimas vertidas,
       ou o sangue das lagrimas internas,
       n'um rosto amado, uns olhos, um cabello,
-      que a alma sabe que nÃ£o torna a vÃªl-o?!Â»
+      que a alma sabe que não torna a vêl-o?!»
 
       Ai! sim--a Mulher diz--com voz gelada
       que pareceu sair d'entre saudades,
       calcadas como lyrios n'uma estrada,
       terriveis como pallidas verdades.
-      Â«Eu cruzei jÃ¡ os reinos e as cidades
+      «Eu cruzei já os reinos e as cidades
       do luto, e da miseria desolada,
       e vi magoas, e gentes fallecer
-      que ninguem viu, nem tornarÃ¡ a vÃªr!Â»
+      que ninguem viu, nem tornará a vêr!»
 
       E continuou a olhal-o fixamente
       com o seu olhar tragico e marmoreo,
@@ -518,59 +518,59 @@ No Grabato do Hospital
       O Genio leu, no seu olhar parado,
       todo o luto e terror do seu Passado.
 
-      Â«Ah! jÃ¡ sei quem tu Ã©s,--o Genio clama--
+      «Ah! já sei quem tu és,--o Genio clama--
       na rapida scentelha d'um delirio.
-      Tu Ã©s a Musa que apregÃ´a a fama,
+      Tu és a Musa que apregôa a fama,
       a Musa meu amor e meu martyrio!
       Foste tu que accendeste em mim a chamma!
       N'essas palpebras roxas como um lyrio,
       na pallidez, nos labios desbotados,
-      vejo a Musa dos genios desgraÃ§ados!
+      vejo a Musa dos genios desgraçados!
 
-      Â«Tu Ã©s a Musa sim d'esses errantes
+      «Tu és a Musa sim d'esses errantes
       e tristes peregrinos do Ideal,
       d'esses loucos e extranhos viajantes
-      que andam Ã¡ busca d'uma flÃ´r fatal,
-      d'uma flÃ´r de tons ricos, scintilantes,
+      que andam á busca d'uma flôr fatal,
+      d'uma flôr de tons ricos, scintilantes,
       d'uma camelia azul e boreal:
-      atÃ© que morrem n'uma praia nua,
+      até que morrem n'uma praia nua,
       ou nos gelos, a um raio azul da lua!
 
-      Â«Foste tu que inspiraste sempre os cantos
-      que eu dediquei Ã¡ Gloria e Ã¡ Natureza!
+      «Foste tu que inspiraste sempre os cantos
+      que eu dediquei á Gloria e á Natureza!
       Ah! foste tu que me enxugaste os prantos,
       e ao luar me fallaste de tristeza.
       Desci comtigo ao reino dos espantos!
-      Comtigo Ã¡ tarde fui pela deveza!
-      Comtigo Ã¡ noute fui, pelas florestas,
+      Comtigo á tarde fui pela deveza!
+      Comtigo á noute fui, pelas florestas,
       apanhar _boas noutes_ e giestas!
 
-      Â«Comtigo eu devassei esses segredos,
+      «Comtigo eu devassei esses segredos,
       das raizes, das Cousas, das Origens,
       do germinar dos lyrios e arvoredos,
-      e fiz aos astros soluÃ§ar as virgens.
+      e fiz aos astros soluçar as virgens.
       Comtigo fui, nas pontas dos rochedos,
-      debruÃ§ar-me do abysmo nas vertigens,
-      e andei errante pelo mundo Ã¡ tÃ´a,
-      como folha que vai n'uma lagÃ´a!
+      debruçar-me do abysmo nas vertigens,
+      e andei errante pelo mundo á tôa,
+      como folha que vai n'uma lagôa!
 
-      Â«Mas hoje gela-me o suor na testa
+      «Mas hoje gela-me o suor na testa
       e convulsa-me o corpo um calafrio.
       Desejo, sonho, amor, nada me resta!
       Nada sacode meu cadaver frio!
-      Comtigo nÃ£o irei pela floresta!
-      NÃ£o mais irei comtigo pelo rio!
+      Comtigo não irei pela floresta!
+      Não mais irei comtigo pelo rio!
       por que o sopro vital em mim expira,
       como as cordas que estallam d'uma lyra!
 
-      Â«NÃ£o sou a Musa,--disse a Sombra,--nÃ£o!
+      «Não sou a Musa,--disse a Sombra,--não!
       Mas tenho visto os prantos dos amantes,
-      e a desolada e livida expressÃ£o
+      e a desolada e livida expressão
       dos seus gestos, nos ultimos instantes.
       As cristallinas lagrimas brilhantes
-      tenho aparado n'esta magra mÃ£o;
+      tenho aparado n'esta magra mão;
       cerrado os olhos com meus frios dedos,
-      e escutado os seus ultimos segredos!Â»
+      e escutado os seus ultimos segredos!»
 
       E, continuou a olhal-o fixamente,
       com o seu olhar tragico e marmoreo,
@@ -581,25 +581,25 @@ No Grabato do Hospital
       o Genio leu, no seu olhar parado,
       todo o luto e terror do seu Passado.
 
-      Â«Ah! jÃ¡ sei quem tu Ã©s,--o Genio brada--
-      ConheÃ§o-o agora em teu olhar funesto.
+      «Ah! já sei quem tu és,--o Genio brada--
+      Conheço-o agora em teu olhar funesto.
       Leio-o na tua fronte amargurada,
-      e na expressÃ£o sinistra do teu gesto.
-      Tu Ã©s uma saudade aos pÃ©s calcada,
+      e na expressão sinistra do teu gesto.
+      Tu és uma saudade aos pés calcada,
       o lyrio d'um desgosto extranho e mesto,
-      tu Ã©s a prole da Lagrima e da DÃ´r.
-      --Ã‰s o sinistro e monstruoso Amor!
+      tu és a prole da Lagrima e da Dôr.
+      --És o sinistro e monstruoso Amor!
 
-      Â«Mas nÃ£o Ã©s esse Amor doce e sereno,
+      «Mas não és esse Amor doce e sereno,
       nascido da Belleza, o Amor antigo,
-      irmÃ£o das GraÃ§as, lyrico e pequeno
+      irmão das Graças, lyrico e pequeno
       amando o rizo, o campo, e o sol amigo!
-      Ã‰s o Amor desolado como um threno,
-      terrivel como o aÃ§oute d'um castigo,
+      És o Amor desolado como um threno,
+      terrivel como o açoute d'um castigo,
       e empunhando na dextra ensanguentada
       um ramo de cyprestes e uma espada!
 
-      Â«Como eu soffri das largas cicatrises,
+      «Como eu soffri das largas cicatrises,
       que abriste no meu peito, sem piedade!
       Como eu cantei meus sonhos infelises!
       Como eu te amei ao sol da mocidade!
@@ -608,23 +608,23 @@ No Grabato do Hospital
       lembram-me as tardes que ia nos caminhos,
       pensando em ti, sentindo teus espinhos!
 
-      Â«Mas hoje mocidade, vida alento,
-      tudo se foi, para nÃ£o mais voltar!
+      «Mas hoje mocidade, vida alento,
+      tudo se foi, para não mais voltar!
       Vae dissipar-se tudo, como ao vento,
       do fim da tarde o fumo azul d'um lar
-      JÃ¡ sinto fluctuar-me o pensamento
-      como uma flÃ´r aquatica n'um mar,
+      Já sinto fluctuar-me o pensamento
+      como uma flôr aquatica n'um mar,
       e nas paginas do livro dos meus ais
-      a Sombra pÃ´r o triste _nunca mais_!Â»
+      a Sombra pôr o triste _nunca mais_!»
 
-      Â«NÃ£o sou o negro Amor, irmÃ£o da Pena
-      --a Sombra disse--e nÃ£o empunho espada,
+      «Não sou o negro Amor, irmão da Pena
+      --a Sombra disse--e não empunho espada,
       mas tenho visto a tenebrosa scena,
       da tragedia da Vida mallograda.
       Tenho visto a blasphemia que condemna,
       a lagrima que queima ensanguentada,
-      a lagrima que gela e que nÃ£o corre,
-      como um desejo qu'estacou, e morre!Â»
+      a lagrima que gela e que não corre,
+      como um desejo qu'estacou, e morre!»
 
       E continuou a olhal-o fixamente
       com o seu olhar tragico e marmoreo,
@@ -635,43 +635,43 @@ No Grabato do Hospital
       o Genio leu, no seu olhar parado,
       todo o luto e terror do seu Passado.
 
-      Â«ConheÃ§o-te afinal,--n'um grande brado
-      o Genio diz.--Tu Ã©s a velha Gloria,
-      mas a Gloria do genio amaldiÃ§oado,
+      «Conheço-te afinal,--n'um grande brado
+      o Genio diz.--Tu és a velha Gloria,
+      mas a Gloria do genio amaldiçoado,
       a Gloria das lagrimas da Historia!
-      Ã‰s a Gloria do genio e do soldado
-      que expira soluÃ§ando e sem memoria,
+      És a Gloria do genio e do soldado
+      que expira soluçando e sem memoria,
       n'um doloroso e livido arrepio,
       como um cadaver que regeita o rio.
 
-      Â«Deves ter visto as penas penetrantes,
+      «Deves ter visto as penas penetrantes,
       como os bicos agudos do espinheiro,
-      as desvelladas noutes soluÃ§antes,
+      as desvelladas noutes soluçantes,
       mais negras do que o rosto d'um guerreiro,
-      e as tristes magras mÃ£os febrecitantes
+      e as tristes magras mãos febrecitantes
       que te buscam a ti, n'um derradeiro
-      esforÃ§o d'anciedade e de desdita,
+      esforço d'anciedade e de desdita,
       com a blasphemia e a lagrima maldita!
 
-      Â«IllusÃ£o! IllusÃ£o! sonho que encerra
+      «Illusão! Illusão! sonho que encerra
       em si a pobre humanidade inteira,
       louros que faz buscar a morte e a guerra
-      nuvem que foge, Ã¡ hora derradeira!
-      Gloria! nome vÃ£o, a quem a Terra
-      busca, e sÃ³ palpa a livida caveira,
-      como pallidas flores das illusÃµes,
-      que esmagaram os pÃ©s das procissÃµes!
+      nuvem que foge, á hora derradeira!
+      Gloria! nome vão, a quem a Terra
+      busca, e só palpa a livida caveira,
+      como pallidas flores das illusões,
+      que esmagaram os pés das procissões!
 
-      Â«Gloria! nome vÃ£o! sonho e chimera,
-      iris triumphante de vistosas cÃ´res,
+      «Gloria! nome vão! sonho e chimera,
+      iris triumphante de vistosas côres,
       verme lusente que vagueia na hera,
       sonho d'estio entre luar e flores!
-      Ã“ giesta gentil da Primavera,
-      amendoeira da manhÃ£ d'amores,
-      por que nos gelas do Destino Ã¡ beira,
+      Ó giesta gentil da Primavera,
+      amendoeira da manhã d'amores,
+      por que nos gelas do Destino á beira,
       como a chuva que molha uma bandeira!?
 
-      Â«Gloria! esphinge eterna que dominas
+      «Gloria! esphinge eterna que dominas
       com teu olhar prophetico do Incerto,
       que nos fazes sonhar verdes collinas;
       na poeira da areia do deserto,
@@ -680,8 +680,8 @@ No Grabato do Hospital
       e que de repente nos fulmina e estalla,
       como um conviva que morreu na salla!
 
-      Â«Como eu te procurei por val e monte,
-      e me rasguei nas lanÃ§as dos espinhos!
+      «Como eu te procurei por val e monte,
+      e me rasguei nas lanças dos espinhos!
       Como eu vi teus acenos no horisonte
       a ensinar-me as veredas e os caminhos!
       Como eu te vi um dia n'uma ponte,
@@ -689,80 +689,80 @@ No Grabato do Hospital
       e outra vez, n'uma lua socegada,
       a galopar nas pedras d'uma estrada!
 
-      Â«Vi-te ainda outra vez, ao vento frio
+      «Vi-te ainda outra vez, ao vento frio
       d'uma tremenda e lugubre procella.
-      Estendias-me a mÃ£o, entre o assobio
+      Estendias-me a mão, entre o assobio
       do nordeste e das ondas, branca e bella.
       Bem te vi, eras tu, e foi aquella
-      santa energia, que hoje jÃ¡ fugiu,
+      santa energia, que hoje já fugiu,
       foi esse teu olhar que hoje desmaia,
-      que exhausto e salvo me atirou Ã¡ praia!
+      que exhausto e salvo me atirou á praia!
 
-      Â«Mas sÃ³ hoje te vejo claramente!
-      SÃ³ hoje, fundo, n'esses olhos leio!
+      «Mas só hoje te vejo claramente!
+      Só hoje, fundo, n'esses olhos leio!
       Tardaste muito em vir, Sombra inclemente!
-      JÃ¡ muito tarde o teu auxilio veio!
+      Já muito tarde o teu auxilio veio!
       Desalentado, pallido, doente,
       nenhum alento me commove o seio!
-      Podes levar, Ã³ Sombra! o teu thesouro.
-      NÃ£o val tanto suor teu verde louro!Â»
+      Podes levar, ó Sombra! o teu thesouro.
+      Não val tanto suor teu verde louro!»
 
-      Â«NÃ£o sou Amor, nem Musa, nem Gloria,
-      --a Sombra disse--nem talentos faÃ§o.
-      Mais terrivel, funesta Ã© minha historia!
-      Mais duro e horrendo o peso do meu braÃ§o!
-      NÃ£o colho os louros; sitios onde passo
-      traÃ§am sulcos de sangue na memoria.
-      Ah! mil vezes terrivel Ã© meu nome
-      tenebroso e profundo!... Eu sou a Fome.Â»
+      «Não sou Amor, nem Musa, nem Gloria,
+      --a Sombra disse--nem talentos faço.
+      Mais terrivel, funesta é minha historia!
+      Mais duro e horrendo o peso do meu braço!
+      Não colho os louros; sitios onde passo
+      traçam sulcos de sangue na memoria.
+      Ah! mil vezes terrivel é meu nome
+      tenebroso e profundo!... Eu sou a Fome.»
 
-      Â«A Fome!--o Genio clama--dando um grito,
-      como um soluÃ§o ultimo estridente.
+      «A Fome!--o Genio clama--dando um grito,
+      como um soluço ultimo estridente.
       A Fome me conduz para o infinito!
-      A Fome Ã© meu final, o meu poente!
-      Foi isto que ganhou meu braÃ§o ardente,
+      A Fome é meu final, o meu poente!
+      Foi isto que ganhou meu braço ardente,
       foi isto que ganhou meu estro escripto!
       a agonia e o suor n'um mundo ingrato,
-      desillusÃµes, e a enxerga d'um grabato!
+      desillusões, e a enxerga d'um grabato!
 
-      Â«Ã“ illusÃµes, Ã³ nuvens peregrinas,
-      horas da mocidade jÃ¡ fugidas!
-      illusÃµes Ã³ princezas perseguidas
+      «Ó illusões, ó nuvens peregrinas,
+      horas da mocidade já fugidas!
+      illusões ó princezas perseguidas
       galopando em phantasticas collinas,
-      Ã³ brancas cathedraes de pedra erguidas
-      com as santas, Ã¡ tarde, purpurinas
-      vegetaÃ§Ãµes, florestas, ideal
-      recebei meu adeus no hospital!Â»
+      ó brancas cathedraes de pedra erguidas
+      com as santas, á tarde, purpurinas
+      vegetações, florestas, ideal
+      recebei meu adeus no hospital!»
 
-      Â«Como tu, tenho visto,--disse a Fome--
-      pender muita cabeÃ§a veneravel,
+      «Como tu, tenho visto,--disse a Fome--
+      pender muita cabeça veneravel,
       muito craneo de genio, muito nome,
       que eu lancei no abysmo do insondavel.
-      Muitos que a gloria cÃ©ga e que consomme
+      Muitos que a gloria céga e que consomme
       d'uma selvagem sede insaciavel,
       tenho cingido como a tristes noivos,
-      e hoje estÃ£o nas raizes, e entre os goivos!
+      e hoje estão nas raizes, e entre os goivos!
 
-      Â«Muitos tenho apertado entre meus dedos
-      que se hÃ£o finado n'um febril delirio,
+      «Muitos tenho apertado entre meus dedos
+      que se hão finado n'um febril delirio,
       e teem-me dito os ultimos segredos,
       com suas bocas lividas de lyrio.
-      Dormem alguns Ã¡ sombra d'arvoredos;
+      Dormem alguns á sombra d'arvoredos;
       mas outros para mais mortal martyrio,
       ninguem lhe importa em seu desprezo fundo
-      onde estÃ£o os seus ossos sobre o mundo!
+      onde estão os seus ossos sobre o mundo!
 
-      Â«Gigantes craneos de candente lava
+      «Gigantes craneos de candente lava
       teem repousado no meu magro peito!
       Bem lindos corpos onde a morta crava
       seus dentes, dormem sob o ceu perfeito!
       Mas, quando um genio como tu, no leito
-      mata ao abandono a geraÃ§Ã£o escrava,
+      mata ao abandono a geração escrava,
       pelo universo, cumplice sombrio,
       corre um remorso, como um calafrio.
 
-      Â«Por isso eu vim colher-te, inda tremente
-      logo que expires, Ã³ Genio, sem confortos,
+      «Por isso eu vim colher-te, inda tremente
+      logo que expires, ó Genio, sem confortos,
       a lagrima de marmore imponente,
       que se gela nas palpebras dos mortos.
       Por que quero levar como presente
@@ -770,22 +770,22 @@ No Grabato do Hospital
       e aos astros a lagrima marmorea,
       que n'um grabato derramou a gloria!
 
-      Â«Mas, se acaso na terra e sobre os mares
+      «Mas, se acaso na terra e sobre os mares
       ninguem avaliar este teu pranto,
       acima irei das nuvens e dos ares
       dos astros, dos planetas, do Espanto:
       mais acima das Dores e dos Pezares,
-      da JustiÃ§a sublime ao throno santo,
-      Ã¡s solemnes e eternas regiÃµes,
-      pedir justiÃ§a ao pranto de CamÃµes.Â»
+      da Justiça sublime ao throno santo,
+      ás solemnes e eternas regiões,
+      pedir justiça ao pranto de Camões.»
 
       Dizendo isto a Sombra descarnada
-      debruÃ§ou-se do Genio sobre o leito.
-      CamÃµes morria jÃ¡: hirta e gelada
-      a Fome lhe crusou as mÃ£os no peito:
+      debruçou-se do Genio sobre o leito.
+      Camões morria já: hirta e gelada
+      a Fome lhe crusou as mãos no peito:
       e a lagrima marmorea, regellada,
       lagrima que infunde pavido respeito,
-      entÃ£o colheu do rosto moribundo,
+      então colheu do rosto moribundo,
       --como um frio protesto contra o mundo.
 
 
@@ -793,53 +793,53 @@ No Grabato do Hospital
 
 CANTO TERCEIRO
 
-O LenÃ§ol do Genio
+O Lençol do Genio
 
 
       O conde Vimioso em seu solar
-      dÃ¡ uma ceia a nobres e senhores;
+      dá uma ceia a nobres e senhores;
       Estalam as risadas pelo ar.
       Pelos copos espumam os licores.
       A Gula e a Carne ali gosam a par:
-      falla-se em caÃ§as, touros, e d'amores:
+      falla-se em caças, touros, e d'amores:
       e riem d'entre as suas pedrarias
-      marquesas que hoje estÃ£o em galerias.
+      marquesas que hoje estão em galerias.
 
       N'isto um extranho velho entra na salla,
       hirto e solemne, como um quadro antigo;
       seu porte triste pelos peitos cala,
-      seu ar hostil Ã© como d'inimigo.
+      seu ar hostil é como d'inimigo.
       Os risos param, emmudece a falla,
       como ao ver um remorso, ou um castigo.
-      Calam barÃµes fallando de corseis,
-      e as damas com as mÃ£os cheias d'anneis.
+      Calam barões fallando de corseis,
+      e as damas com as mãos cheias d'anneis.
 
-      E o velho disse:--Extranho Ã© meu pedido!
+      E o velho disse:--Extranho é meu pedido!
       Extranho sim! no meio d'uma festa:
       mas venho por um morto protegido,
-      e este pedido os labios nÃ£o me cresta!
+      e este pedido os labios não me cresta!
       Para um Genio de que hoje nada resta,
       para um Genio da fome consummido,
       um Genio infeliz! um apagado sol,
-      venho pedir a esmolla d'um lenÃ§ol!
+      venho pedir a esmolla d'um lençol!
 
       O lugubre pedido n'um momento
-      fez em todos roÃ§ar um calafrio:
+      fez em todos roçar um calafrio:
       figurou-se-lhes o gesto macilento
       da morte, ao longe, em seu corcel sombrio:
       figurou-se-lhes a Febre, o Passamento,
-      e a DoenÃ§a em seu catre humido e frio,
-      e as damas, os barÃµes, e os cavalleiros
+      e a Doença em seu catre humido e frio,
+      e as damas, os barões, e os cavalleiros
       perderam os sorrisos zombeteiros.
 
-      PorÃ©m o Conde dominando o gelo
+      Porém o Conde dominando o gelo
       do terror que estragava a sua ceia,
       e desmaiava o busto grego e bello
       da mulher por quem todo se incendeia,
       com um riso que tem do orgulho o sello
       bradou ao velho cujo serio odeia:
-      Que genio Ã© esse entÃ£o, bom velho honrado,
-      que comparais ao sol jÃ¡ apagado!?
+      Que genio é esse então, bom velho honrado,
+      que comparais ao sol já apagado!?
 
       Todos riram. Um riso irresistivel
       omnipotente, intrepido, animal,
@@ -848,91 +848,91 @@ O LenÃ§ol do Genio
       O rude velho tragico, impassivel,
       deixou passar aquelle vendaval,
       depois n'um rir, de eronico respeito,
-      os longos braÃ§os encruzou no peito.
+      os longos braços encruzou no peito.
 
       Zombai--o velho disse--altos senhores!
       e magnificas damas scintillantes,
       nas ricas pedrarias, plumas, flores,
       mais brancas do que os vossos diamantes!
-      Zombai ao pÃ© dos vinhos, dos licores,
+      Zombai ao pé dos vinhos, dos licores,
       das baixellas lavradas, dos amantes,
-      d'esta cousa tÃ£o comica e sem nome...
+      d'esta cousa tão comica e sem nome...
       d'um Genio pobre e que morreu de fome!
 
-      E o velho riu--Ah! de que serve, Ã© certo,
+      E o velho riu--Ah! de que serve, é certo,
       um Genio infeliz? um portador, de lyra!?
       de que serve dos Prantos no deserto
       um instrumento que uns sons doces tira?!
-      Um Genio Ã© lava que importuna ao perto,
+      Um Genio é lava que importuna ao perto,
       e um grande craneo que o talento inspira,
       se com seu canto consolou as almas....
       que coma o louro e as triumphantes palmas!...
 
       Ah! que servem andar como pharoes,
-      como MoyzÃ©s a conduzir um povo,
-      alvoroÃ§ando as almas para os soes,
+      como Moyzés a conduzir um povo,
+      alvoroçando as almas para os soes,
       n'um canto heroico, original e novo?
       Se com os prantos d'estes rouxinoes
-      que alvoroÃ§am e turbam, me commovo,
-      talvez vos choque e Ã¡s almas verdadeiras,
-      que nÃ£o faÃ§am crescer as sementeiras!
+      que alvoroçam e turbam, me commovo,
+      talvez vos choque e ás almas verdadeiras,
+      que não façam crescer as sementeiras!
 
       E o velho riu. As glorias do Passado
       dos heroes e dos feitos d'outra edade
       nos castellos, no mar illimitado,
       hoje fazem sorrir a mocidade!
-      As glorias d'avÃ³s sÃ³ tem o lado
+      As glorias d'avós só tem o lado
       poetico de dar solemnidade
       e grandes tons magnificos, imponentes,
       nas sallas, entre as tellas de parentes!
 
       Elle, o Genio, cantou esses combates
-      dos homens, e das forÃ§as do insondavel
-      da eterna DÃ´r, naufragios, e os embates
-      terriveis do que Ã© fragil e mudavel!
+      dos homens, e das forças do insondavel
+      da eterna Dôr, naufragios, e os embates
+      terriveis do que é fragil e mudavel!
       Castigou com a satyra os dilates
       do arbitrario, do injusto, e miseravel.
       Foi poeta, philosopho, e guerreiro.
-      SÃ³ nunca conseguiu ser um toureiro!....
+      Só nunca conseguiu ser um toureiro!....
 
       E o velho sorriu amargamente,
       com um sorriso caustico, sombrio,
       n'um riso superior em que se sente
-      uma alma forte que jÃ¡mais falliu.
-      O Conde entÃ£o, bradou-lhe secamente,
+      uma alma forte que jámais falliu.
+      O Conde então, bradou-lhe secamente,
       com um grande ar todo solemne e frio:
-      Â«Antes de tudo dir-me-has primeiro,
-      se Ã©s fidalgo, peÃ£o, ou cavalleiro!
+      «Antes de tudo dir-me-has primeiro,
+      se és fidalgo, peão, ou cavalleiro!
 
-      Â«E narra-nos depois, meudamente,
+      «E narra-nos depois, meudamente,
       a mim, aos cavalleiros e senhores,
-      e Ã¡s preciosas damas, que ao presente
-      t'escutam, piedosas sempre Ã¡s dÃ´res:
+      e ás preciosas damas, que ao presente
+      t'escutam, piedosas sempre ás dôres:
       narra-nos essa historia surprehente
       d'esse genio infeliz, e esses horrores,
-      que trazes, como vejo, na lembranÃ§a,
-      com mais respeito que a dos pares de FranÃ§a.
+      que trazes, como vejo, na lembrança,
+      com mais respeito que a dos pares de França.
 
       De novo tudo riu. Toda a sonora
       e ampla salla echoou com as risadas.
-      Viam-se rir as boccas cÃ´r d'aurora
+      Viam-se rir as boccas côr d'aurora
       das magnificas damas decotadas.
-      Duquezas louras, tranÃ§as cÃ´r d'amora,
-      com bellas mÃ£os, macias, delicadas,
+      Duquezas louras, tranças côr d'amora,
+      com bellas mãos, macias, delicadas,
       abafavam o riso em transparentes
-      lenÃ§os lacerados entre os dentes.
+      lenços lacerados entre os dentes.
 
       O velho ergueu-se em toda a magestade
       e bradou n'uma voz terrivel, dura,
       que fez cessar de prompto a hilaridade,
       pelo tom nunca ouvido de amargura:
-      --Â«Ah! infeliz, indigna Humanidade
+      --«Ah! infeliz, indigna Humanidade
       mil vezes infeliz! se a Creatura
-      sempre se risse assim do que Ã© sublime
+      sempre se risse assim do que é sublime
       ou quando o mundo se infamou n'um crime!
 
-      Ah! infeliz mil vezes! se o que Ã© nobre
-      e o que Ã© infame, ignobil, monstruoso,
+      Ah! infeliz mil vezes! se o que é nobre
+      e o que é infame, ignobil, monstruoso,
       sob o Azul sagrado que nos cobre
       tivesse o mesmo aplauso victorioso!
       Maldito e excomungado fosse o pobre!
@@ -940,73 +940,73 @@ O LenÃ§ol do Genio
       por trabalhar ainda para o mundo
       com um suor inutil e infecundo!
 
-      Â«Maldita fosse a Vida e o ardente beijo
-      do Amor que produziu a CreaÃ§Ã£o,
+      «Maldita fosse a Vida e o ardente beijo
+      do Amor que produziu a Creação,
       maldito o Sonho e as azas do Desejo
-      maldito o Pranto, a Ancia, e a AspiraÃ§Ã£o!
+      maldito o Pranto, a Ancia, e a Aspiração!
       Despenhada mil vezes sobre um brejo
-      de insondavel miseria e humilhaÃ§Ã£o
+      de insondavel miseria e humilhação
       o mundo se abysmasse n'um inferno
       do implacavel, ancioso gelo eterno!
 
-      Â«Maldito fosse tudo o que suspira,
-      maldita a DÃ´r, mais o soluÃ§o Humano,
+      «Maldito fosse tudo o que suspira,
+      maldita a Dôr, mais o soluço Humano,
       maldita a Alma e a lagrima da Lyra,
-      maldito tudo quanto Ã© grande e insano!
+      maldito tudo quanto é grande e insano!
       Que sobre o mundo horrivel, onde gyra
       a serpente da Idea no oceano
       da treva, o derradeiro homem horrendo
       expirasse, ainda rindo, e maldizendo!
 
-      Â«Agora, quanto a mim, Ã³ altas damas
+      «Agora, quanto a mim, ó altas damas
       magnificas, divinas, scintillantes,
       e cujos bellos olhos teem mais chammas
       do que os olhos dos rigidos brilhantes,
       antes d'ouvirdes os funestos dramas
       da fome, horrorisai-vos, sabei antes
-      que eu sou sÃ³ um plebeu vil que trabalha,
+      que eu sou só um plebeu vil que trabalha,
       e que saio das ondas da canalha!
 
-      Â«Senti tambem em mim o fogo ardente
+      «Senti tambem em mim o fogo ardente
       da Lyra perpassar-me pela fronte,
-      e amei tudo o que Ã© justo e que Ã© potente,
-      e meus irmÃ£os chamei ao bosque e ao monte.
+      e amei tudo o que é justo e que é potente,
+      e meus irmãos chamei ao bosque e ao monte.
       Nos desertos castellos do Occidente,
-      Ã¡s nuvens cÃ´r de sangue do horisonte,
+      ás nuvens côr de sangue do horisonte,
       tambem eu fui sentar-me nas collinas,
       a chorar sobre as glorias e as ruinas!
 
-      Â«Mas o Genio infeliz, o vulto immenso
+      «Mas o Genio infeliz, o vulto immenso
       o heroe cantor vencido pela morte
       esse que me perturba, quando penso
       no implacavel da tyrana Sorte,
-      esse que jÃ¡ entrou no bosque denso,
-      que jÃ¡ partiu o muro bronzeo e forte,
-      que em breve vÃ£o deitar na escura valla,
-      esse, sÃ³ de eu fallar... treme-me a falla!Â»
+      esse que já entrou no bosque denso,
+      que já partiu o muro bronzeo e forte,
+      que em breve vão deitar na escura valla,
+      esse, só de eu fallar... treme-me a falla!»
 
-      O velho entÃ£o contou a trabalhosa
+      O velho então contou a trabalhosa
       lenda do Genio, a musa, e seu destino,
-      a intuiÃ§Ã£o da Natureza rumorosa
+      a intuição da Natureza rumorosa
       da flor, da sombra, e rio crystallino.
       Como o Sol pae das plantas, e da rosa,
       penhasco alcantillado e voz do sino,
-      VegetaÃ§Ãµes, florestas, nuvens, ventos,
+      Vegetações, florestas, nuvens, ventos,
       e cellulas, raizes, pensamentos;
 
-      tudo que Ã© vida que tem alma e sente,
-      tudo que Ã© flor suave e tem perfume,
-      tudo que Ã© aza e corta o ar luzente,
-      tudo que Ã© astro, brilha ou que tem lume,
+      tudo que é vida que tem alma e sente,
+      tudo que é flor suave e tem perfume,
+      tudo que é aza e corta o ar luzente,
+      tudo que é astro, brilha ou que tem lume,
       tudo que foge liquido e corrente,
       tudo que em corpo e alma se resume,
-      tudo que Ã© bello como o sol na alfombra
+      tudo que é bello como o sol na alfombra
       ou fundo e triste como a voz da Sombra,
 
       todo esse vasto Todo verde e bello,
       toda essa santa Natureza enorme,
       o luar como a folha d'um cutello,
-      o minerio que crÃªem que sÃ³ dorme,
+      o minerio que crêem que só dorme,
       as heras nas ruinas do castello,
       os mulluscos e a larva humilde e informe,
       tudo isso bello ou feio que se ostenta,
@@ -1014,35 +1014,35 @@ O LenÃ§ol do Genio
 
       Mas que o Genio no meio d'isto tudo
       soffre mais, porque entende estes lamentos!
-      Elle traduz a Dor d'isso que Ã© mudo,
+      Elle traduz a Dor d'isso que é mudo,
       e resume os geraes desolamentos!
-      NÃ£o tendo contra a Sorte um outro escudo
-      que nÃ£o sejam seus fortes pensamentos,
+      Não tendo contra a Sorte um outro escudo
+      que não sejam seus fortes pensamentos,
       passa curvado n'um pesar profundo,
       --sentindo em si o mal de todo o mundo!
 
       E todos escutavam silenciosos
-      damas, barÃµes, religiosamente,
+      damas, barões, religiosamente,
       os sentidos geraes mysteriosos
       das palavras do velho extranho e ardente.
       E cuidavam ouvir os mil chorosos
-      e soluÃ§antes ais, longinquamente,
+      e soluçantes ais, longinquamente,
       das subterraneas Cousas infelizes:
       os ais da planta e os choros das raizes!
 
       Elle pintou depois o Genio, quando
-      deixou prender seu forte coraÃ§Ã£o
+      deixou prender seu forte coração
       nos sorrisos d'um gesto puro e brando,
-      e vagou na torrente da PaixÃ£o.
+      e vagou na torrente da Paixão.
       Como feridos rouxinoes cantando,
-      os seus versos resavam da affliÃ§Ã£o,
-      das tragedias, desgraÃ§as e dos brados
-      dos tristes coraÃ§Ãµes despedaÃ§ados.
+      os seus versos resavam da afflição,
+      das tragedias, desgraças e dos brados
+      dos tristes corações despedaçados.
 
       E as palavras sentidas, violentas
       do plebeu calavam pelos peitos,
       e sentiam-se ouvir como os tormentos
-      dos grandes coraÃ§Ãµes santos desfeitos.
+      dos grandes corações santos desfeitos.
       Parecia-se sentir as suarentas
       e desvelladas noutes sobre os leitos
       diamantes separados, solitarios,
@@ -1051,19 +1051,19 @@ O LenÃ§ol do Genio
       Desenhou-o depois triste e exilado,
       por todo o mundo errante peregrino,
       vagando como heroe, como soldado,
-      aÃ§outado do vento do Destino:
+      açoutado do vento do Destino:
       e o seu rude pezar fundo e divino
       da grande viuvez do ente amado,
       pondo-o nas rochas tragico e proscripto,
-      de braÃ§os levantados ao Infinito.
+      de braços levantados ao Infinito.
 
       E todos escutavam, surprehendidos,
-      essas desgraÃ§as barbaras sepultas
+      essas desgraças barbaras sepultas
       no mysterio do olvido, e esses gemidos
       e essas sagradas lastimas inultas.
-      BarÃµes e cavalleiros commovidos
+      Barões e cavalleiros commovidos
       enxugavam as lagrimas a occultas,
-      e as pallidas senhoras soluÃ§antes
+      e as pallidas senhoras soluçantes
       alagavam com prantos os brilhantes.
 
       Depois pintou o horror da tempestade
@@ -1071,18 +1071,18 @@ O LenÃ§ol do Genio
       dos naufragios a lugubre verdade,
       um navio sem mastros e sem vellas.
       E o Genio do mar na immensidade,
-      Ã¡ fria claridade das estrellas,
+      á fria claridade das estrellas,
       entre as ondas, os ventos, os espantos,
       salvando o grande o livro dos seus cantos.
 
       Depois mostrou-o pallido, quebrado,
       no fundo d'uma lugubre enxovia,
       no declinar da vida, envergonhado,
-      preso pela InjustiÃ§a, e Cobardia.
+      preso pela Injustiça, e Cobardia.
       Pintou ao fundo tragico e assentado,
       na misera masmorra humida e fria,
       o Desespero torvo e macilento,
-      irmÃ£o magro e infernal do Desalento.
+      irmão magro e infernal do Desalento.
 
       E do plebeu nas phrases singulares
       sentia-se o glacial dos luares frios,
@@ -1090,16 +1090,16 @@ O LenÃ§ol do Genio
       o desfazer das taboas dos navios:
       as fundas despedidas, e os pesares
       dos adeuses nos carceres sombrios,
-      e um vento a soluÃ§ar como um aÃ§oite
+      e um vento a soluçar como um açoite
       do Destino, rasgando a eterna noite.
 
       E todos escutavam, surprehendidos,
-      essas desgraÃ§as barbaras sepultas
+      essas desgraças barbaras sepultas
       nos mysterios do olvido, esses gemidos
       e essas sagradas lastimas inultas!
-      BarÃµes e cavalleiros commovidos
+      Barões e cavalleiros commovidos
       enxugavam as lagrimas a occultas,
-      e as pallidas senhoras soluÃ§antes
+      e as pallidas senhoras soluçantes
       banhavam com seus prantos os brilhantes.
 
       Depois contou as noutes innarraveis
@@ -1107,31 +1107,31 @@ O LenÃ§ol do Genio
       sobre os gelos os grandes miseraveis,
       em attitudes tragicas, mesquinhas.
       Desenhou os carvalhos formidaveis
-      em lugubres lenÃ§oes, as andorinhas
+      em lugubres lençoes, as andorinhas
       fugidas, procurando outros paizes.
       E sempre! sempre a Fome! e os Infelizes!
 
       Depois narrou a rude lucta immensa
-      com todas as potencias da DesgraÃ§a,
-      e o Genio atravessando a nÃ©voa densa,
+      com todas as potencias da Desgraça,
+      e o Genio atravessando a névoa densa,
       como um espectro livido que passa:
-      as lagrimas da Fome e da DoenÃ§a,
-      e o mendigar do escravo sobre a praÃ§a,
-      pedindo supplicante Ã¡ turba e ao mundo
+      as lagrimas da Fome e da Doença,
+      e o mendigar do escravo sobre a praça,
+      pedindo supplicante á turba e ao mundo
       esmola para um Genio moribundo.
 
       Pintou a morte d'esse escravo amigo,
       e o Genio inda mais triste e no abandono
-      da forÃ§a d'esse servo, seu abrigo,
+      da força d'esse servo, seu abrigo,
       dos amigos, dos nobres, e do throno.
       E o terrivel guerreiro do inimigo
       pintou em noutes lividas, sem somno,
-      velho, dobrado, pelas nÃ©voas cruas,
-      faminto Ã¡ chuva, e ao vento, pelas ruas.
+      velho, dobrado, pelas névoas cruas,
+      faminto á chuva, e ao vento, pelas ruas.
 
       Pintou depois, chorando, a ultima scena
       e da tragedia o derradeiro acto,
-      e essa cabeÃ§a pallida, serena,
+      e essa cabeça pallida, serena,
       no frio travesseiro d'um grabato.
       Desenhou esse hospicio, uma gehena,
       onde vai terminar muito apparato,
@@ -1140,73 +1140,73 @@ O LenÃ§ol do Genio
 
       Quando acabou, sentia-se na salla
       o ruido dos choros suffocados,
-      e os soluÃ§os e as lastimas que exala
-      a DÃ´r nos coraÃ§Ãµes muito abalados.
-      O Conde estava em pÃ©, hirto, e sem falla,
-      hirtos, sem falla, em pÃ©, os convidados,
-      e as damas atiravam soluÃ§antes,
-      Ã¡s plantas do plebeu os seus brilhantes.
+      e os soluços e as lastimas que exala
+      a Dôr nos corações muito abalados.
+      O Conde estava em pé, hirto, e sem falla,
+      hirtos, sem falla, em pé, os convidados,
+      e as damas atiravam soluçantes,
+      ás plantas do plebeu os seus brilhantes.
 
-      Â«Guardai--o velho disse--altas senhoras!
+      «Guardai--o velho disse--altas senhoras!
       as vossas bellas joias preciosas,
-      que jÃ¡ de nada servem n'estas horas
-      ao que morreu, sem vossas mÃ£os piedosas.
-      Prendei-as novamente Ã¡s tranÃ§as louras,
+      que já de nada servem n'estas horas
+      ao que morreu, sem vossas mãos piedosas.
+      Prendei-as novamente ás tranças louras,
       que o cantor, n'estas horas luctuosas,
-      para ir enterrar-se, Ã¡ luz do sol,
-      carece sÃ³ da esmola d'um lenÃ§ol!
+      para ir enterrar-se, á luz do sol,
+      carece só da esmola d'um lençol!
 
       O Conde deu uma ordem. N'um momento
-      um nitido lenÃ§ol pagens trouxeram.
+      um nitido lençol pagens trouxeram.
       Ao pegar-lhe no rosto macilento
       do plebeu as lagrimas correram.
-      Â«Eu chÃ³ro--bradou elle--esse talento,
+      «Eu chóro--bradou elle--esse talento,
       esse craneo que as lagrimas arderam,
       e que em premio do genio que trabalha
-      sÃ³ teve por esmolla esta mortalha!
+      só teve por esmolla esta mortalha!
 
-      Â«Este lenÃ§ol vÃ¡e ser o teu sudario
-      Ã³ grande Genio! que rollaste Ã¡ praia
+      «Este lençol váe ser o teu sudario
+      ó grande Genio! que rollaste á praia
       da Morte, desgostoso e solitario,
       mais branco do que a lua que desmaia.
       Quando soar teu sino funerario,
       e no teu craneo a campa rasa caia,
-      chorai damas, barÃµes, n'um chÃ´ro fundo
+      chorai damas, barões, n'um chôro fundo
       a maior alma que deitou o mundo!
 
       Essas faces chorai, as quaes araram,
-      as lagrimas do abandono e da desgraÃ§a,
-      as quaes como carvÃµes rubros queimaram,
+      as lagrimas do abandono e da desgraça,
+      as quaes como carvões rubros queimaram,
       ou como um vento d'areal que passa:
-      este craneo chorai, de cuja taÃ§a
+      este craneo chorai, de cuja taça
       as lagrimas de sangue s'entornaram,
-      e este lenÃ§ol sabei damas, barÃµes
-      vai embrulhar o corpo de CamÃµes!
+      e este lençol sabei damas, barões
+      vai embrulhar o corpo de Camões!
 
       E novamente as lagrimas correram,
-      e os soluÃ§os de novo rebentaram,
-      as cÃ´res novamente se perderam,
-      e os convivas em pÃ© se levantaram:
+      e os soluços de novo rebentaram,
+      as côres novamente se perderam,
+      e os convivas em pé se levantaram:
       os lacaios o passo suspenderam,
       muitas damas mimosas desmaiaram,
       como caiem as lagrimas internas
-      nas funeraes separaÃ§Ãµes eternas.
+      nas funeraes separações eternas.
 
       O velho ia a sair. Porem o Conde
-      o deteve e bradou:--Â«Que nome Ã© o teu
-      Ã³ homem singular, onde s'esconde
-      um peito que Ã© mais nobre do que o meu?
+      o deteve e bradou:--«Que nome é o teu
+      ó homem singular, onde s'esconde
+      um peito que é mais nobre do que o meu?
       Por que reinos cruzaste? Dize aonde
-      aprendeste, Ã³ phantastico plebeu!
-      a fallar das extranhas afflicÃ§Ãµes,
-      d'um modo que sacode os coraÃ§Ãµes...?!Â»
+      aprendeste, ó phantastico plebeu!
+      a fallar das extranhas afflicções,
+      d'um modo que sacode os corações...?!»
 
-      O velho entÃ£o ergueu-se, em toda a altura
+      O velho então ergueu-se, em toda a altura
       do seu corpo potente e agigantado,
       e deixou ver a athletica figura,
       de sorte que pareceu ter-se elevado.
-      E entÃ£o, n'um tom terrivel d'amargura,
-      que deixou todo o mundo alvoroÃ§ado,
+      E então, n'um tom terrivel d'amargura,
+      que deixou todo o mundo alvoroçado,
       bradou num ai, n'um grito, extranho e novo
       --Sou o Pranto do Povo e volto ao Povo!
 
@@ -1220,21 +1220,21 @@ A Lagrima de Marmore
 
       Essa lagrima immovel que se gela
       sobre as palpebras roxas dos finados,
-      e que eu jÃ¡ vi rollar funesta e bella
+      e que eu já vi rollar funesta e bella
       nas faces de dous entes bem amados,
-      o que Ã© que ella nos diz? que nos revella
+      o que é que ella nos diz? que nos revella
       de profundos desejos decepados,
-      d'inauditas ou intimas desgraÃ§as,
-      que sÃ£o as flores funebres das RaÃ§as?!
+      d'inauditas ou intimas desgraças,
+      que são as flores funebres das Raças?!
 
-      O que Ã© que ella nos diz, que nos remove
-      atÃ© ao mais profundo das entranhas,
-      triste como flor onde nÃ£o chove,
+      O que é que ella nos diz, que nos remove
+      até ao mais profundo das entranhas,
+      triste como flor onde não chove,
       no cume inacessivel das montanhas?!
-      DirÃ¡ ella um desejo que jÃ¡ houve,
-      cheio de dÃ´r e aspiraÃ§Ãµes extranhas,
+      Dirá ella um desejo que já houve,
+      cheio de dôr e aspirações extranhas,
       e expirou e morreu n'um mundo falso
-      como um amor ao pÃ© d'um cadafalso!?...
+      como um amor ao pé d'um cadafalso!?...
 
       Quando a Fome colheu do moribundo
       a lagrima de marmore dorida,
@@ -1245,29 +1245,29 @@ A Lagrima de Marmore
       outros tiveram um horror absorto
       ao verem uma lagrima d'um morto!
 
-      Lembrou-se entÃ£o d'um Principe potente
+      Lembrou-se então d'um Principe potente
       que vive n'um payz todo de gelo,
-      que ama tudo que Ã© gÃ©lido, inclemente,
+      que ama tudo que é gélido, inclemente,
       e frio como a folha d'um cutello.
       Penetrou no palacio refulgente,
       todo cheio de marmore e ouro bello,
       e onde elle desvellava insomnias cruas
-      no meio de milhÃµes d'espadas nuas.
+      no meio de milhões d'espadas nuas.
 
       Quando o Cesar cruel viu esse pranto
       de que gostou seu genio monstruoso
-      Ã¡ Sombra disse--Acho um secreto encanta
-      n'este gÃ©lido objecto curioso!...
-      Deixa-a ficar que causarÃ¡ espanto
+      á Sombra disse--Acho um secreto encanta
+      n'este gélido objecto curioso!...
+      Deixa-a ficar que causará espanto
       ao meu povo selvagem tenebroso,
       e assim lhe ensine n'um terror mortal
-      como Ã© que gela a lagrima final!
+      como é que gela a lagrima final!
 
-      PorÃ©m da noute no silencio frio
+      Porém da noute no silencio frio
       quando o Cesar dormia no seu leito
       esta lagrima ao Principe sombrio
       infundia-lhe um tragico respeito.
-      Das visÃµes no terrivel desvario
+      Das visões no terrivel desvario
       via da Morte o ultimo tregeito:
       e as caveiras sem olhos, nem narises,
       de todos os sinistros infelizes!
@@ -1276,9 +1276,9 @@ A Lagrima de Marmore
       accusava-o de todos os seus crimes
       dos seus instinctos tragicos de fera,
       dos mortaes que dobrava como vimes,
-      dos irmÃ£os e dos Paes que elle prendÃªra,
+      dos irmãos e dos Paes que elle prendêra,
       e das almas viris, fortes, sublimes,
-      a quem seu braÃ§o sem cessar enterra
+      a quem seu braço sem cessar enterra
       pelas entranhas humidas da terra!
 
       E o Despota na lagrima parada
@@ -1288,23 +1288,23 @@ A Lagrima de Marmore
       via os prantos da plebe esfarrapada
       que n'um suor esteril se consome:
       e os clamores formidaveis, justiceiros,
-      dos prantos de milhÃµes de mineiros!...
+      dos prantos de milhões de mineiros!...
 
       Fugiu logo do leito insupportavel,
       e por todo o palacio vaga errante.
-      De manhÃ£ chama a Sombra miseravel
-      e entrega-lh'a, com mÃ£o febrecitante:
+      De manhã chama a Sombra miseravel
+      e entrega-lh'a, com mão febrecitante:
       Leva d'aqui--lhe grita--esse implacavel
-      tormento, que Ã© mais frio que um brilhante,
+      tormento, que é mais frio que um brilhante,
       porque de prantos tenho um cemiterio
       no gelo excepcional do meu imperio!
 
-      Lembrou-lhe entÃ£o Ã¡ Fome ir offertal-o
+      Lembrou-lhe então á Fome ir offertal-o
       de Roma ao mais sinistro inquisidor.
-      Deixa Ã¡ porta o seu pallido cavallo.
+      Deixa á porta o seu pallido cavallo.
       Penetra cheia d'um mortal terror.
       Quando o sicario a viu sentiu abalo
-      e disse Ã¡ Fome--Eu gosto d'esta flor
+      e disse á Fome--Eu gosto d'esta flor
       que florece nos mortos, como lyrios
       que gelaram nos olhos dos martyrios!
 
@@ -1313,9 +1313,9 @@ A Lagrima de Marmore
       olhava-o como um olho frio e informe,
       e accusava-o de tudo que ha de incrivel,
       Accusava-lhe a alma, antro desforme;
-      e estendia-lhe entÃ£o n'um sonho horrivel
+      e estendia-lhe então n'um sonho horrivel
       de eternos prantos um gelado mar
-      --como uma immovel solidÃ£o polar.
+      --como uma immovel solidão polar.
 
       E ao bandido lembravam-lhe as torturas
       dos que vira morrer nos seus flagicios,
@@ -1324,15 +1324,15 @@ A Lagrima de Marmore
       E as disformes e energicas figuras,
       com blasphemias, gritavam-lhe os seus vicios,
       e entre injurias, mostravam, justiceiras
-      os braÃ§os calcinados das fogueiras.
+      os braços calcinados das fogueiras.
 
-      Envia de manhÃ£ chamar a Fome,
-      e Ã¡ Sombra grita com sorriso duro,
+      Envia de manhã chamar a Fome,
+      e á Sombra grita com sorriso duro,
       podes levar a lagrima sem nome,
       e esconde-a bem no antro mais obscuro.
       Como uma pedra que o abysmo some
       faze que ella se suma; e no futuro
-      nÃ£o me tragas jamais estes espelhos
+      não me tragas jamais estes espelhos
       dos que morreram contra os Evangelhos!
 
       Quando a Fome largou os dous sicarios
@@ -1346,7 +1346,7 @@ A Lagrima de Marmore
 
       Quando o banqueiro viu a extranha offerta
       disse n'um tom ironico e orgulhoso,
-      Â«A vida d'um poeta Ã© pobre e incerta!
+      «A vida d'um poeta é pobre e incerta!
       Mais mesquinho o seu pranto angustioso!
       Comtudo, como a fome vil te aperta,
       guardarei este pranto curioso,
@@ -1365,17 +1365,17 @@ A Lagrima de Marmore
       Levantou-se o banqueiro torturado
       e mal a aurora avermelhou a terra,
       chamou a Fome, e livido, aterrado,
-      disse Ã¡ Sombra--Â«Confessa-me o que encerra
+      disse á Sombra--«Confessa-me o que encerra
       esse impassivel pranto amargurado
-      que nÃ£o sei o que tem me gela e aterra,
-      tendo eu sÃ³ n'estas salas cem figuras
-      das mais ricas marmoreas esculpturas?Â»
+      que não sei o que tem me gela e aterra,
+      tendo eu só n'estas salas cem figuras
+      das mais ricas marmoreas esculpturas?»
 
-      Â«NÃ£o sei--a Sombra disse:--Teem-me dito
+      «Não sei--a Sombra disse:--Teem-me dito
       o mesmo, muitos grandes assassinos.
-      Ã‰ que esse pranto foi talvez o grito
+      É que esse pranto foi talvez o grito
       do Genio contra o injusto dos destinos.
-      Ã‰ que o Genio Ã© o aÃ§oute do Infinito
+      É que o Genio é o açoute do Infinito
       contra os crimes, e os grandes desatinos,
       e mesmo sob os goivos mortuarios
       regela ainda as almas dos sicarios!
@@ -1383,22 +1383,22 @@ A Lagrima de Marmore
       Depois d'isto ninguem mais quiz o pranto!
       Todos riam do extranho d'essa offerta.
       Uns fugiam da Fome com espanto.
-      Outros julgavam-lhe a razÃ£o incerta.
+      Outros julgavam-lhe a razão incerta.
       Uma virgem, porem, d'um rosto santo
       bradou, a face de rubor coberta:
       --Eu amei d'um poeta a fronte amada!
-      Ai! quem dÃ©ra essa lagrima gelada!
+      Ai! quem déra essa lagrima gelada!
 
-      Â«Porem nada te dou, por que sou pobre,
-      a ti que Ã©s pobre como eu sou tambem.
+      «Porem nada te dou, por que sou pobre,
+      a ti que és pobre como eu sou tambem.
       Sobe acima do azul que a todos cobre,
       acima dos Despresos, do Desdem.
-      Sobe acima da DÃ´r que Ã© grande e nobre,
-      mais acima dos astros, mais alÃ©m
-      do Egoismo, da Inveja, e da CubiÃ§a,
-      e vai leval-a ao throno da JustiÃ§a!
+      Sobe acima da Dôr que é grande e nobre,
+      mais acima dos astros, mais além
+      do Egoismo, da Inveja, e da Cubiça,
+      e vai leval-a ao throno da Justiça!
 
-      EntÃ£o a Sombra abandonou o mundo,
+      Então a Sombra abandonou o mundo,
       e ergueu-se logo acima das espheras,
       longe da Besta d'Ouro e Vicio immundo,
       para longe dos Tempos e das Eras,
@@ -1408,34 +1408,34 @@ A Lagrima de Marmore
       sem estribos, sem redeas, e sem freio.
 
       Quando ella contemplou em baixo a terra,
-      humillimo planeta grÃ£o d'areia
+      humillimo planeta grão d'areia
       preza do Tempo e insaciavel Guerra
-      e onde a raÃ§a dos mortaes ondeia,
-      ella que nada jÃ¡ commove e aterra,
+      e onde a raça dos mortaes ondeia,
+      ella que nada já commove e aterra,
       que nenhum pranto d'um estranho anceia,
-      sentiu brotar no secco coraÃ§Ã£o
-      a rubra e extranha flor da IndignaÃ§Ã£o.
+      sentiu brotar no secco coração
+      a rubra e extranha flor da Indignação.
 
       Ella atravez passara d'almas, vidas,
-      e dos martyres lugubres descalÃ§os,
-      das jovens mÃ£es crueis infanticidas,
-      das illusÃµes e dos sorrisos falsos,
+      e dos martyres lugubres descalços,
+      das jovens mães crueis infanticidas,
+      das illusões e dos sorrisos falsos,
       atravez das eternas despedidas,
       dos crimes, dos incestos, cadafalsos,
-      e de todos os crimes e desgraÃ§as
-      que sÃ£o os fructos tragicos das RaÃ§as.
+      e de todos os crimes e desgraças
+      que são os fructos tragicos das Raças.
 
       Ella atravez passara d'essas almas
-      aonde em prantos s'escreveu _jÃ¡mais_,
-      das grandes solidÃµes das neves calmas,
-      atravez das galÃ©s, dos hospitaes,
+      aonde em prantos s'escreveu _jámais_,
+      das grandes solidões das neves calmas,
+      atravez das galés, dos hospitaes,
       atravez das blasphemias e dos ais,
       das glorias, dos triumphos, e das palmas,
       e atravez sempre! sempre! do gemido
       do Genio eternamente perseguido.
 
       Por isso quando foi perto do throno
-      da terrivel JustiÃ§a, da Immutavel,
+      da terrivel Justiça, da Immutavel,
       ia ainda indignada do abandono
       em que se afunda o Genio inconsolavel.
       Como os nordestes varrem pelo outomno
@@ -1443,10 +1443,10 @@ A Lagrima de Marmore
       tinha varrido toda a piedade
       contra a dura e egoista Humanidade.
 
-      Mal a viu a JustiÃ§a disse--Ã³ Fome
-      o que Ã© que trazes da sombria Terra?
+      Mal a viu a Justiça disse--ó Fome
+      o que é que trazes da sombria Terra?
       Trazes um ai do que morreu sem nome?
-      Sonho de virgem que teu braÃ§o enterra?
+      Sonho de virgem que teu braço enterra?
       Trazes um riso que o infeliz consomme?
       Ultimo beijo em que um amor s'encerra?
       Trazes um grito, um desalento fundo?
@@ -1454,102 +1454,102 @@ A Lagrima de Marmore
 
       Trago mais que isso replicou sombria
       a magra Fome, apresentando o pranto:
-      --Eu trago-te esta lagrima tÃ£o fria
+      --Eu trago-te esta lagrima tão fria
       como o gume da Espada justo e santo.
       Eu trago-te este pranto d'agonia,
-      e que a ti mesmo causarÃ¡ espanto,
-      pranto que gelou como uma esperanÃ§a,
-      pranto que clama um grito de vinganÃ§a!
+      e que a ti mesmo causará espanto,
+      pranto que gelou como uma esperança,
+      pranto que clama um grito de vingança!
 
-      A Fome entÃ£o narrou, succintamente,
+      A Fome então narrou, succintamente,
       a historia da lagrima marmorea.
       Narrou toda essa vida descontente,
-      toda essa tragedia tÃ£o sem gloria;
+      toda essa tragedia tão sem gloria;
       seu genio, seu destino, e febre ardente
       do Bello, e de gravar-se na memoria,
-      e esse pranto tÃ£o triste e tÃ£o profundo,
-      que sÃ³ o quiz uma mulher no mundo!
+      e esse pranto tão triste e tão profundo,
+      que só o quiz uma mulher no mundo!
 
       Ao acabar ergueu-se ferozmente
-      a JustiÃ§a em seu throno, commovida,
+      a Justiça em seu throno, commovida,
       e clamou com um brado omnipotente
       tal que as origens abalou da Vida:
-      Â«--Eu juro pelo sangue do innocente,
+      «--Eu juro pelo sangue do innocente,
       por mim, por esta lagrima caida,
-      pelo Ceu, pela DÃ´r, e pelo EspaÃ§o,
-      por minha espada, e forÃ§a de meu braÃ§o;
+      pelo Ceu, pela Dôr, e pelo Espaço,
+      por minha espada, e força de meu braço;
 
       por tudo que ha de justo e de terrivel,
       por tudo que ha de santo e d'implacavel,
       pelo pranto que cae no Invisivel,
-      e o soluÃ§o que rolla no insondavel,
-      que nÃ£o destruo Ã³ mundo, Ã³ insensivel,
+      e o soluço que rolla no insondavel,
+      que não destruo ó mundo, ó insensivel,
       planeta! essa vida miseravel,
       por ter havido uma mulher que quiz
       um desolado pranto d'infeliz!
 
-      Â«Mas jÃ¡ que o nÃ£o quizeste Ã³ Terra fria,
-      quero-o eu, de continuo, na presenÃ§a!
+      «Mas já que o não quizeste ó Terra fria,
+      quero-o eu, de continuo, na presença!
       Quero tel-o de noute, quer de dia,
       como um sonho constante em que se pensa!
       Quero ter esta lagrima sombria,
-      para um dia lavrar tua sentenÃ§a!
-      Quero tel-o ante mim, como lembranÃ§a:
-      para lembrar-me de que sou VinganÃ§a!
+      para um dia lavrar tua sentença!
+      Quero tel-o ante mim, como lembrança:
+      para lembrar-me de que sou Vingança!
 
-      Â«Quero tel-o ante mim, ah! como um grito,
+      «Quero tel-o ante mim, ah! como um grito,
       que me recorde os tristes que sem nome
-      hÃ£o estendido os braÃ§os no Infinito,
-      na sÃªde de JustiÃ§a que os consome!
+      hão estendido os braços no Infinito,
+      na sêde de Justiça que os consome!
       Quero tel-o ante mim, como o afflicto
-      brado do Genio que morreu Ã¡ fome,
+      brado do Genio que morreu á fome,
       e que vos prove d'esta espada os brilhos,
-      de que vÃ³s, Ã³ Poetas, sois meus filhos!Â»
+      de que vós, ó Poetas, sois meus filhos!»
 
-      Assim disse a JustiÃ§a. E desde entÃ£o
+      Assim disse a Justiça. E desde então
       ante ella jaz o pranto eternamente,
-      para provar que se nÃ£o verte em vÃ£o
+      para provar que se não verte em vão
       a lagrima, na terra, do innocente:
-      que a natureza Ã© mÃ£e, e o Genio irmÃ£o
+      que a natureza é mãe, e o Genio irmão
       do espirito dos astros refulgente
-      e que a JustiÃ§a sopra a sua ira
+      e que a Justiça sopra a sua ira
       nas cordas vingadoras d'uma Lyra.
 
-      Eu nÃ£o sei se entendestes o sentido
+      Eu não sei se entendestes o sentido
       Occulto e justo d'esta allegoria,
       se fiz ondular bem a vosso ouvido
       os tenebrosos sons d'esta agonia?
-      E vÃ³s, Ã³ tristes! tristes! que haveis ido
+      E vós, ó tristes! tristes! que haveis ido
       tranzidos repousar na valla fria,
       esquecidos, inglorios, sem um pranto
       a lagrima acceitai d'este meu canto!
 
       Acceitai este canto, como preito
-      craneos de lava que nÃ£o orna o louro!
+      craneos de lava que não orna o louro!
       e emfim morrestes, porque o vosso peito
       bateu nas pedras, d'entre as nuvens d'ouro.
       Acceitai n'esta lagrima o respeito,
-      vÃ³s que encontrastes sÃ³ riso e desdouro!
+      vós que encontrastes só riso e desdouro!
       e que em vez do festim do que trabalha,
-      nÃ£o tivestes nem louros, nem mortalha!
+      não tivestes nem louros, nem mortalha!
 
       Acceitai n'esta lagrima o protesto
-      de muitas geraÃ§Ãµes de rebellados
+      de muitas gerações de rebellados
       contra o abandono insolito e funesto
       do mundo silencioso aos vossos brados!
       Em vez do riso, insulto, e do doesto,
       acceitai nossos pezames irados,
-      e n'este canto, Ã³ mortas existencias!
+      e n'este canto, ó mortas existencias!
       os protestos de muitas Consciencias!
 
-      E tu, Ã³ mundo, aprende-o! D'ora avante
-      nÃ£o mates mais o Genio que irradia!
-      NÃ£o s'ergam nunca mais ao ceu distante,
-      Contra ti, magros braÃ§os d'agonia!
+      E tu, ó mundo, aprende-o! D'ora avante
+      não mates mais o Genio que irradia!
+      Não s'ergam nunca mais ao ceu distante,
+      Contra ti, magros braços d'agonia!
       Por que hoje, sabe-o bem! fixa e brilhante,
-      estÃ¡ clamando e bradando noute e dia,
-      acima d'Odios, Prantos, e CubiÃ§a,
-      a lagrima marmorea ante a JustiÃ§a.
+      está clamando e bradando noute e dia,
+      acima d'Odios, Prantos, e Cubiça,
+      a lagrima marmorea ante a Justiça.
 
 
 FIM.
@@ -1558,9 +1558,9 @@ FIM.
 
 
 
-End of Project Gutenberg's A Fome de CamÃµes, by AntÃ³nio Duarte Gomes Leal
+End of Project Gutenberg's A Fome de Camões, by António Duarte Gomes Leal
 
-*** END OF THIS PROJECT GUTENBERG EBOOK A FOME DE CAMÃ•ES ***
+*** END OF THIS PROJECT GUTENBERG EBOOK A FOME DE CAMÕES ***
 
 ***** This file should be named 21855-8.txt or 21855-8.zip *****
 This and all associated files of various formats will be found in:

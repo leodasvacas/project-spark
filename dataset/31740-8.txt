@@ -47,7 +47,7 @@ BENTO SERRANO
 
 ASTROLOGO DA SERRA DA ESTRELLA,
 
-_Onde reside ha perto de trinta annos, sendo a sua habita√ß√£o uma estreita
+_Onde reside ha perto de trinta annos, sendo a sua habitaÁ„o uma estreita
 gruta que lhe serve de gabinete dos seus assiduos estudos astronomicos_
 
 
@@ -76,8 +76,8 @@ O ORACULO DAS FLORES
 
 OU
 
-O verdadeiro modo de adivinhar o futuro, pela innocente significa√ß√£o e
-defini√ß√£o da verdadeira linguagem das fl√¥res, plantas e arvores, em
+O verdadeiro modo de adivinhar o futuro, pela innocente significaÁ„o e
+definiÁ„o da verdadeira linguagem das flÙres, plantas e arvores, em
 forma de diccionario, ao alcance de todas as pessoas.
 
 
@@ -97,37 +97,37 @@ O ORACULO DAS FLORES
 
 PLANTAS E ARVORES
 
-Abeto, Eleva√ß√£o.
+Abeto, ElevaÁ„o.
 
-Aboboreira, Esperan√ßas vans.
+Aboboreira, EsperanÁas vans.
 
 Abrolhos, Trabalhos.
 
-Abrotea, A minha d√¥r vos seguir√° √° sepultura.
+Abrotea, A minha dÙr vos seguir· · sepultura.
 
-Absinthio, Separa√ß√£o, ausencia, amargura.
+Absinthio, SeparaÁ„o, ausencia, amargura.
 
 Acacia amarella, Nobreza.
 
 Acacia branca, Amor platonico.
 
-Acantho, N√≥s indissoluveis.
+Acantho, NÛs indissoluveis.
 
-A√ßafr√£o, n√£o abuseis.
+AÁafr„o, n„o abuseis.
 
 Acer, Reserva.
 
 Achilleia, Guerra.
 
-Aconito, Vingan√ßa.
+Aconito, VinganÁa.
 
-A√ßucena, Pureza.
+AÁucena, Pureza.
 
-Adonis, Dolorosas recorda√ß√µes.
+Adonis, Dolorosas recordaÁıes.
 
 Agapanio, Orgulho.
 
-Agarico, Ven√ßo todas as difficuldades.
+Agarico, VenÁo todas as difficuldades.
 
 Agnoscato, Frieza viver sem amar.
 
@@ -150,25 +150,25 @@ Alecrim d'Hamburgo, Modestia.
 
 Alecrim do Norte, Franqueza.
 
-Alecrim s√™cco, Saudade.
+Alecrim sÍcco, Saudade.
 
 Alface, Esmorecimento.
 
-Alfazema, Desconfian√ßa.
+Alfazema, DesconfianÁa.
 
 Alfazema murcha, Vaidade.
 
 Alfeneiro d'Allemanha, Defeza.
 
-Alfinete branco, Quero e n√£o posso.
+Alfinete branco, Quero e n„o posso.
 
-Alfinete c√¥r de rosa, Tende valor.
+Alfinete cÙr de rosa, Tende valor.
 
 Alho, Fogo de amor.
 
-Almeir√£o, Impaciencia.
+Almeir„o, Impaciencia.
 
-Alo√©, Afflic√ß√£o, pesar.
+AloÈ, AfflicÁ„o, pesar.
 
 Amaranto, Immortalidade.
 
@@ -182,36 +182,36 @@ Amendoeira, Travessura.
 
 Amoreira branca, Jactancia.
 
-Amoreira preta, Eu n√£o vos sobrevirei.
+Amoreira preta, Eu n„o vos sobrevirei.
 
-Amor de hortel√£o, Aspereza.
+Amor de hortel„o, Aspereza.
 
-Amor perfeito, Existo para ti s√≥.
+Amor perfeito, Existo para ti sÛ.
 
 Amor perfeito amarello, Esquecimento.
 
-Amor perfeito r√¥xo, Lembran√ßa expressiva.
+Amor perfeito rÙxo, LembranÁa expressiva.
 
 Ananaz, Quanto sois perfeito.
 
-Anemone, Esquivan√ßa.
+Anemone, EsquivanÁa.
 
-    Com d√¥r a terra bebe reunidas
+    Com dÙr a terra bebe reunidas
     Ondas de sangue, lagrimas sentidas,
     Da terra, sem tardar, brota uma rosa,
-    Louca anemone ao p√© s'ergue formosa.
+    Louca anemone ao pÈ s'ergue formosa.
 
-Anemone dos prados, Doen√ßa.
+Anemone dos prados, DoenÁa.
 
 Angelica, Extasis.
 
-Angelica amarella, Indifferen√ßa.
+Angelica amarella, IndifferenÁa.
 
 Angelica branca, Pureza.
 
-Angelica dobrada, Sem amor n√£o ha ventura.
+Angelica dobrada, Sem amor n„o ha ventura.
 
-Antirrhino, Presump√ß√£o.
+Antirrhino, PresumpÁ„o.
 
 Aquilegia, Extravagancia.
 
@@ -219,7 +219,7 @@ Argentina, Altivez.
 
 Arruda, Castidade.
 
-Artemisia dobrada, Paix√£o violenta.
+Artemisia dobrada, Paix„o violenta.
 
 Artemisia singela, Espanto.
 
@@ -229,11 +229,11 @@ Azinheiro, Tristeza.
 
 Assembleas, Igualdade.
 
-Aveleira, Reconcilia√ß√£o.
+Aveleira, ReconciliaÁ„o.
 
-Avenca, Discri√ß√£o.
+Avenca, DiscriÁ„o.
 
-Azares, um abra√ßo.
+Azares, um abraÁo.
 
 Azedas, Gloria.
 
@@ -245,7 +245,7 @@ Balsamina, Acaso.
 
 Balsamo, Misericordia.
 
-Balsamo da Jud√™a, Restabelecimento.
+Balsamo da JudÍa, Restabelecimento.
 
 Banana, Molleza.
 
@@ -257,15 +257,15 @@ Baunilha, Amor violento. Eu vos amo.
 
 Beijos brancos, Attractivos.
 
-Beijos escarlates, N√£o desesperes.
+Beijos escarlates, N„o desesperes.
 
 Beijos rajados, Bem te entendo.
 
 Beijos roxos, Se quizesseis?
 
-Bem-me-quer, Desconfian√ßa, pesar, afflic√ß√£o.
+Bem-me-quer, DesconfianÁa, pesar, afflicÁ„o.
 
-Bem-me-quer junto com cypreste, Desespera√ß√£o.
+Bem-me-quer junto com cypreste, DesesperaÁ„o.
 
 Boas noites encarnadas, Timidez.
 
@@ -277,38 +277,38 @@ Bons dias, Infidelidade.
 
 Borragem, Galanteio.
 
-Bot√£o de cravo branco, Espero resposta.
+Bot„o de cravo branco, Espero resposta.
 
-Bot√£o de cravo encarnado, Attractivo.
+Bot„o de cravo encarnado, Attractivo.
 
-Bot√£o de cravo rosa, Uni√£o.
+Bot„o de cravo rosa, Uni„o.
 
-Bot√£o de cravo r√¥xo, Amor infeliz.
+Bot„o de cravo rÙxo, Amor infeliz.
 
-Bot√£o d'ouro, Amor constante e satisfeito.
+Bot„o d'ouro, Amor constante e satisfeito.
 
-    Bot√£o lindo assetinado,
+    Bot„o lindo assetinado,
     Que sorri com a innocencia,
-    Cont√©m succo empe√ßonhado
+    ContÈm succo empeÁonhado
     Com que fere a imprudencia.
 
-Bot√£o de prata, Calumnia.
+Bot„o de prata, Calumnia.
 
-Bot√£o de rosa amarella, Desdem.
+Bot„o de rosa amarella, Desdem.
 
-Bot√£o de rosa branca, Cora√ß√£o que n√£o conhece o amor.
+Bot„o de rosa branca, CoraÁ„o que n„o conhece o amor.
 
-Bot√£o de rosa cravo, Ciume.
+Bot„o de rosa cravo, Ciume.
 
-Bot√£o de rosa com folhas, Virgindade.
+Bot„o de rosa com folhas, Virgindade.
 
-Bot√£o de rosa encarnada, Reciprocidade.
+Bot„o de rosa encarnada, Reciprocidade.
 
-Bot√£o de rosa de Jeric√≥, N√£o posso.
+Bot„o de rosa de JericÛ, N„o posso.
 
-Bot√£o de rosa de musgo, Esperan√ßa receosa.
+Bot„o de rosa de musgo, EsperanÁa receosa.
 
-Bulgosa, Mentira, illus√£o.
+Bulgosa, Mentira, illus„o.
 
 Buxo, Innocencia.
 
@@ -317,24 +317,24 @@ Catos, Triste vida.
     Quando em ti ponho os meus olhos,
     E te contemplo admirada,
     Sempre teu fado lastimo,
-    Mimosa fl√¥r engra√ßada.
+    Mimosa flÙr engraÁada.
 
 Camara do Brazil, Rigor.
 
 Camelias, Amor sempre constante.
 
     Eu de ti tenho ciumes,
-    Linda camelia engra√ßada;
+    Linda camelia engraÁada;
     Pois ornas o branco seio,
     D'Elisa a minha amada.
 
-Campainha, Indiscri√ß√£o.
+Campainha, IndiscriÁ„o.
 
-Campainha azul, Declara√ß√£o.
+Campainha azul, DeclaraÁ„o.
 
 Cannas, Inconstancia.
 
-Capraria, Raz√£o.
+Capraria, Raz„o.
 
 Cardo, Tormento.
 
@@ -344,34 +344,34 @@ Carpea, Enfeite.
 
 Carvalho, Fortaleza.
 
-Casca de Rom√£, Modestia.
+Casca de Rom„, Modestia.
 
-Castanheiro, Fazei-me justi√ßa.
+Castanheiro, Fazei-me justiÁa.
 
 Castanheiro da India, Luxo.
 
 Cedro, Grandeza, excellencia.
 
-Cenouras, √â tudo falso.
+Cenouras, … tudo falso.
 
 Centaurea, Felicidade.
 
-Cerejeira, Boa educa√ß√£o.
+Cerejeira, Boa educaÁ„o.
 
 Chagas, Crueldade.
 
-Chagas amarellas, N√£o v√£o l√°.
+Chagas amarellas, N„o v„o l·.
 
-Chagas encarnadas, Discri√ß√£o.
+Chagas encarnadas, DiscriÁ„o.
 
 Chicoria, Frugalidade.
 
-Chor√£o, Melancolia.
+Chor„o, Melancolia.
 
     Sim, de todos os males da vida
-    √â a ausencia o mais doloroso.
-    Eis porque o chor√£o desditoso
-    √â a arvore valida.
+    … a ausencia o mais doloroso.
+    Eis porque o chor„o desditoso
+    … a arvore valida.
 
 Choupo, Tempo.
 
@@ -391,29 +391,29 @@ Cogumelo, Suspeita.
 
 Colutea, Entretenimento frivolo.
 
-Cominhos, Pragas, maldi√ß√µes.
+Cominhos, Pragas, maldiÁıes.
 
-Congossa, D√¥ces recorda√ß√µes.
+Congossa, DÙces recordaÁıes.
 
 Consolida-real, Leviandade.
 
 Convolvus-nocturno, Noite.
 
-Cor√¥a imperial, Altivez excessiva.
+CorÙa imperial, Altivez excessiva.
 
-Cor√¥a de rosas, Recompensa da virtude
+CorÙa de rosas, Recompensa da virtude
 
-Cor√¥a de Venus, Triumpho d'amor.
+CorÙa de Venus, Triumpho d'amor.
 
-Coronilha, Dura√ß√£o.
+Coronilha, DuraÁ„o.
 
 Couve, Proveito.
 
 Cravina branca rajada, Veio tarde.
 
-Cravina encarnada, S√≥ a ti quero.
+Cravina encarnada, SÛ a ti quero.
 
-Cravo, Estima√ß√£o.
+Cravo, EstimaÁ„o.
 
     Teu aroma, cravo amavel,
     Nossos sentidos domina,
@@ -424,11 +424,11 @@ Cravo almirante, Fogo d'amor.
 
 Cravo amarello, Desprezo.
 
-Cravo branco, Inclina√ß√£o.
+Cravo branco, InclinaÁ„o.
 
 Cravo branco rajado, Suspirar.
 
-Cravo c√¥r de rosa rajado, Alento.
+Cravo cÙr de rosa rajado, Alento.
 
 Cravo de defunto, Morte.
 
@@ -440,31 +440,31 @@ Cravo rosa, Fidelidade, Amor constante.
 
 Cravo rosa rajado, Volte logo.
 
-Cravo r√¥xo, Sentimento.
+Cravo rÙxo, Sentimento.
 
 Cuscuta, Baixeza.
 
-Cypreste, Luto, afflic√ß√£o.
+Cypreste, Luto, afflicÁ„o.
 
 Dahlia, Amo-vos mais que a propria vida.
 
 Datura (herva-moura), Attractivos fallazes.
 
-Dictamo de Creta, Nascen√ßa.
+Dictamo de Creta, NascenÁa.
 
-Dormideira, Incerteza, desconfian√ßa.
+Dormideira, Incerteza, desconfianÁa.
 
-Ebano, Negrid√£o.
+Ebano, Negrid„o.
 
-Endro, Ingratid√£o.
+Endro, Ingratid„o.
 
 Ephemerina de Virginia, Felicidade momentanea.
 
-Ervilhas, Appare√ßa.
+Ervilhas, AppareÁa.
 
 Ervilha de cheiro, Prazer delicado.
 
-Ervilha azul, Express√£o d'amor.
+Ervilha azul, Express„o d'amor.
 
 Escovilha, delicadeza.
 
@@ -472,7 +472,7 @@ Espelho de Venus, Lisonja.
 
 Espigas de trigo, Fartura.
 
-Espinha, D√¥r.
+Espinha, DÙr.
 
 Espinheiro, Difficuldades.
 
@@ -490,13 +490,13 @@ Esporas brancas, Apresse-se.
 
 Esporas azues, Timidez.
 
-Esporas c√¥r de rosa, Sympathia.
+Esporas cÙr de rosa, Sympathia.
 
 Espora singela azul, Consentimento.
 
 Espora singela branca, Muito gosto.
 
-Evonymo, Existis em meu cora√ß√£o.
+Evonymo, Existis em meu coraÁ„o.
 
 Faia, Prosperidade.
 
@@ -506,49 +506,49 @@ Fecoide glacial, O vosso fogo me faz gelar.
 
 Fel da terra, Fiel.
 
-F√™no, Gloria do mundo.
+FÍno, Gloria do mundo.
 
-Feto (f√™mea), Sinceridade.
+Feto (fÍmea), Sinceridade.
 
 Feto aquatico, Frenezim.
 
-Figos, Do√ßura.
+Figos, DoÁura.
 
 Figos verdes, Inutilidade.
 
-Figueira brava, Temperan√ßa.
+Figueira brava, TemperanÁa.
 
-Fl√¥r do cacto especiosissimo, O vosso amor n√£o √© constante.
+FlÙr do cacto especiosissimo, O vosso amor n„o È constante.
 
-Fl√¥r de laranjeira, Castidade.
+FlÙr de laranjeira, Castidade.
 
-Fl√¥r de batateira, Preferencia.
+FlÙr de batateira, Preferencia.
 
-Fl√¥r de limoeiro, Victima do ciume.
+FlÙr de limoeiro, Victima do ciume.
 
-Fl√¥r de liz, Poder.
+FlÙr de liz, Poder.
 
-Fl√¥r de macieira, Approva√ß√£o.
+FlÙr de macieira, ApprovaÁ„o.
 
-Fl√¥r de maracuj√°, Voluptuosidade.
+FlÙr de maracuj·, Voluptuosidade.
 
-Fl√¥r de pecegueiro, Prazeres amorosos.
+FlÙr de pecegueiro, Prazeres amorosos.
 
-Fl√¥r de romeira, Generosidade.
+FlÙr de romeira, Generosidade.
 
-Fl√¥r de sabugo, Irrita√ß√£o.
+FlÙr de sabugo, IrritaÁ„o.
 
-Fl√¥res de tomates, N√£o quero.
+FlÙres de tomates, N„o quero.
 
-Fl√¥res, Esperan√ßas.
+FlÙres, EsperanÁas.
 
-Fl√¥res do campo, Divertimento.
+FlÙres do campo, Divertimento.
 
-Fl√¥res murchas, Ingratid√£o.
+FlÙres murchas, Ingratid„o.
 
 Folhas, Palavras.
 
-Folhas de cypreste, Separa√ß√£o for√ßada.
+Folhas de cypreste, SeparaÁ„o forÁada.
 
 Folhas de figueira, Penitencia.
 
@@ -560,9 +560,9 @@ Folhas de louro, Premiar.
 
 Folhas seccas, Melancolia.
 
-Folhas de tomates, N√£o quero.
+Folhas de tomates, N„o quero.
 
-Folhas de vinha, Esperan√ßas perdidas.
+Folhas de vinha, EsperanÁas perdidas.
 
 Frachinelha, Fogo amoroso.
 
@@ -570,23 +570,23 @@ Freixo, Grandeza.
 
 Funcho, Soffrimento.
 
-Gaz√£o, Utilidade.
+Gaz„o, Utilidade.
 
 Geranio almiscar, Estima.
 
-Geranio lim√£o, Capricho.
+Geranio lim„o, Capricho.
 
 Geranio rosa, Languidez.
 
 Geranio-triste, Espirito melancolico.
 
-Giesta (femea), Esperan√ßa enganadora.
+Giesta (femea), EsperanÁa enganadora.
 
-Giesta odorifera, Esperan√ßa quasi extincta.
+Giesta odorifera, EsperanÁa quasi extincta.
 
 Gira-sol, Intriga.
 
-Glacial, Indiferen√ßa.
+Glacial, IndiferenÁa.
 
 Goivos amarellos, Preferencia.
 
@@ -594,23 +594,23 @@ Goivos brancos, Simplicidade.
 
 Goivos encarnados, Desdem.
 
-Goivos roxos, Solid√£o.
+Goivos roxos, Solid„o.
 
-Golf√£o branco, Eloquencia.
+Golf„o branco, Eloquencia.
 
-Gr√£os, Conserva-te.
+Gr„os, Conserva-te.
 
-Gr√£os de mostarda, F√©.
+Gr„os de mostarda, FÈ.
 
-Grinalda de fl√¥res, Cadeia de amor.
+Grinalda de flÙres, Cadeia de amor.
 
-Hepatica, Confian√ßa.
+Hepatica, ConfianÁa.
 
-Hera, ambi√ß√£o.
+Hera, ambiÁ„o.
 
 Herva cidreira, Chocarrice.
 
-Herva d√¥ce, Mudan√ßa.
+Herva dÙce, MudanÁa.
 
 Herva moleirinha, Fel, odio, rancor.
 
@@ -620,31 +620,31 @@ Herva de Santa Maria, Horror.
 
 Hyssopo, Limpeza.
 
-Hortel√£, Amor exaltado, consola√ß√£o.
+Hortel„, Amor exaltado, consolaÁ„o.
 
 Hortensia, Frieza.
 
 Hortigas, Crueldade.
 
-Iberia da Persia, Indifferen√ßa.
+Iberia da Persia, IndifferenÁa.
 
 Iris, Mensagem.
 
-Jacintho, D√¥r, pesar, sentimento.
+Jacintho, DÙr, pesar, sentimento.
 
-Jasmim, Paix√£o, perigo.
+Jasmim, Paix„o, perigo.
 
 Jasmim amarello, Vergonha.
 
-Jasmim do cabo, Preten√ß√£o.
+Jasmim do cabo, PretenÁ„o.
 
-Jasmim encarnado, Serei vosso at√© morrer.
+Jasmim encarnado, Serei vosso atÈ morrer.
 
-Jasmim d'Italia, Z√™los.
+Jasmim d'Italia, ZÍlos.
 
-Jasmim miudo, Paix√£o.
+Jasmim miudo, Paix„o.
 
-Jasmim da Virginia, Separa√ß√£o.
+Jasmim da Virginia, SeparaÁ„o.
 
 Jarro, Ardor.
 
@@ -658,11 +658,11 @@ Junquilho dobrado, Namoro.
 
 Laranjeira, A fiabilidade.
 
-Lari√ßo, Audacia.
+LariÁo, Audacia.
 
 Lentilhas, Esconderijo.
 
-Lilaz, Primeira commo√ß√£o de amor.
+Lilaz, Primeira commoÁ„o de amor.
 
 Lilaz branco, Mocidade.
 
@@ -674,28 +674,28 @@ Linho, Saudade.
 
 Lirio branco, Ardor.
 
-    Lirio? filho do sol, soberba fl√¥r,
+    Lirio? filho do sol, soberba flÙr,
     Que altivo affrontas o paterno ardor,
-    Ao astro al√ßando a fronte magestosa,
-    Rei √©s das fl√¥res, e rainha √© rosa.
+    Ao astro alÁando a fronte magestosa,
+    Rei Ès das flÙres, e rainha È rosa.
 
-Lirio dos valles, Leviandade, indifferen√ßa.
+Lirio dos valles, Leviandade, indifferenÁa.
 
-Lirio escarlate, J√° n√£o posso mais.
+Lirio escarlate, J· n„o posso mais.
 
-Lirio r√¥xo, Confian√ßa.
+Lirio rÙxo, ConfianÁa.
 
-Lirio verde, Os meus dias felizes j√° passaram.
+Lirio verde, Os meus dias felizes j· passaram.
 
-Lisymachia, Preten√ß√£o.
+Lisymachia, PretenÁ„o.
 
 Liz, Magestade.
 
-Lod√£o, Harmonia.
+Lod„o, Harmonia.
 
-Loios (de jardim), Do√ßura.
+Loios (de jardim), DoÁura.
 
-Losna, Amargura, separa√ß√£o, ausencia.
+Losna, Amargura, separaÁ„o, ausencia.
 
 Loureiro, Triumpho, gloria.
 
@@ -708,7 +708,7 @@ Loureiro amendoa, Perfidia.
 
 Loureiro rosa, Belleza.
 
-Lupulo, Injusti√ßa.
+Lupulo, InjustiÁa.
 
 Luzerna, Vida.
 
@@ -718,7 +718,7 @@ Macieira, Amor.
 
 Madragora, Raridade.
 
-Madresilva, La√ßos d'amor.
+Madresilva, LaÁos d'amor.
 
 Mal-me-quer, Pena, tormento.
 
@@ -730,36 +730,36 @@ Mal-me-quer inglez, Cautella.
 
 Mal-me-quer, no peito, Crueis tormentos.
 
-Mal-me-quer, no cabello, N√£o digo o que sinto.
+Mal-me-quer, no cabello, N„o digo o que sinto.
 
-Mal-me-quer singelo, Tristes lembran√ßas.
+Mal-me-quer singelo, Tristes lembranÁas.
 
     Quantas vezes a pastora
     Longe do joven amante
-    Diz comsigo: √â-me fiel?
-    Voltar√° elle constante?
+    Diz comsigo: …-me fiel?
+    Voltar· elle constante?
 
 Malvaisco rajado, Se souberas!
 
 Malvaisco vermelho, Chamma de amor.
 
-Malvaisco amarello, Quem pod√©sse!
+Malvaisco amarello, Quem podÈsse!
 
 Malvas, Acautela-te.
 
 Malvas cheirosas, Aviso.
 
-Mangeric√£o miudo, Indigencia.
+Mangeric„o miudo, Indigencia.
 
-Mangeric√£o largo, Desespero.
+Mangeric„o largo, Desespero.
 
-Mangeric√£o r√¥xo, Interprete d'amor.
+Mangeric„o rÙxo, Interprete d'amor.
 
 Mangerona, Sempre feliz.
 
 Mangerona murcha, Adeus que me ausento.
 
-Maracuj√°, Tom√°ra eu j√°.
+Maracuj·, Tom·ra eu j·.
 
 Maravilhas, Brevidade.
 
@@ -767,9 +767,9 @@ Margarida singela, Innocencia.
 
 Margarida dobrada, Estou de accordo com os vossos sentimentos.
 
-Martyrio, Paix√£o, religi√£o.
+Martyrio, Paix„o, religi„o.
 
-Mata-c√£o, acabaram meus dias felizes.
+Mata-c„o, acabaram meus dias felizes.
 
 Meimendro, Defeitos.
 
@@ -779,9 +779,9 @@ Meniantho, Calma, tranquillidade.
 
 Mil-folhas, Guerra.
 
-Milho, Multid√£o.
+Milho, Multid„o.
 
-Mirro, Mortifica√ß√£o.
+Mirro, MortificaÁ„o.
 
 Mirto, egoismo.
 
@@ -789,34 +789,34 @@ Morangueiro, Presagio.
 
 Morangos, Bondade perfeita.
 
-Morri√£o, Entrevista amorosa.
+Morri„o, Entrevista amorosa.
 
 Mostarda, Furor.
 
 Murta, Amor, sentimento.
 
     Sua verdura immortal
-    √â do universo a belleza,
+    … do universo a belleza,
     Nem murchar-lhe o verde ornato
-    P√≥de do inverno a crueza.
+    PÛde do inverno a crueza.
 
-Murtinho, Trai√ß√£o.
+Murtinho, TraiÁ„o.
 
 Musgo, Amor maternal.
 
-Myrabolano, Priva√ß√£o.
+Myrabolano, PrivaÁ„o.
 
-N√£o-me-deixes branco, Amor constante.
+N„o-me-deixes branco, Amor constante.
 
-N√£o-me-deixes c√¥r de rosa, Juramento.
+N„o-me-deixes cÙr de rosa, Juramento.
 
-N√£o-me-deixes r√¥xo, Ausencia.
+N„o-me-deixes rÙxo, Ausencia.
 
-N√£o-me-deixes rajado, Desgosto.
+N„o-me-deixes rajado, Desgosto.
 
 Narciso, Amor proprio, esgoismo.
 
-Nardo, Devo√ß√£o.
+Nardo, DevoÁ„o.
 
 Nogueira, Virtude.
 
@@ -830,30 +830,30 @@ Ononio, Obstaculo.
 
 Ophyrio de tres folhas, Erro.
 
-Orelha de rato. N√£o te esque√ßas de mim.
+Orelha de rato. N„o te esqueÁas de mim.
 
-    Das amantes entre as m√£os,
-    J√° do brilho amortecida,
+    Das amantes entre as m„os,
+    J· do brilho amortecida,
     Recommenda--amor constante,
-    Lembran√ßa por toda a vida.
+    LembranÁa por toda a vida.
 
-Orelha de urso, Seduc√ß√£o.
+Orelha de urso, SeducÁ„o.
 
 Orvalho, Gelam-me vossos fogos.
 
-Palha (uma) inteira, Uni√£o.
+Palha (uma) inteira, Uni„o.
 
 Palha (uma) quebrada, Rompimento.
 
 Palma, Castidade.
 
-Papoila branca, Desconfian√ßa, incerteza.
+Papoila branca, DesconfianÁa, incerteza.
 
-Papoila c√¥r de rosa, Feliz encontro.
+Papoila cÙr de rosa, Feliz encontro.
 
 Papoila encarnada, Orgulho.
 
-Papoila rajada, N√£o divides.
+Papoila rajada, N„o divides.
 
 Papoila silvestre, Reconhecimento.
 
@@ -870,19 +870,19 @@ Perpetua amarella, Constancia eterna.
     Linda florinha amarella,
     Symbolo d'amor eterno;
     Ornas os nossos jardins
-    Quer de ver√£o, ou quer d'inverno.
+    Quer de ver„o, ou quer d'inverno.
 
 Perpetua branca, Mysterio.
 
 Perpetua roxa, Amor constante.
 
-Pervinca, D√¥ces recorda√ß√µes.
+Pervinca, DÙces recordaÁıes.
 
-Pilriteiro, Esperan√ßas.
+Pilriteiro, EsperanÁas.
 
 Pimenta malagueta, Estou ardendo.
 
-Piment√£o, Offensa.
+Piment„o, Offensa.
 
 Pinheiro, Morte.
 
@@ -890,13 +890,13 @@ Pionia, Vergonha.
 
 Piramide azul, Constancia.
 
-Piteira, Afflic√ß√£o, pesar.
+Piteira, AfflicÁ„o, pesar.
 
 Platano, Alteza.
 
 Primavera, Desejo d'amar.
 
-Pulsatilla, N√£o sois pretenciosa.
+Pulsatilla, N„o sois pretenciosa.
 
 Rainha-Margarida, Grandeza, esplendor.
 
@@ -908,64 +908,64 @@ Raizes, Segredos.
 
 Ramo, Desejo.
 
-Raquel, Uni√£o.
+Raquel, Uni„o.
 
 Relva, Utilidade.
 
-Resed√°, Vossas qualidades excedem vossos encantos.
+Resed·, Vossas qualidades excedem vossos encantos.
 
-    A n√£o ser teu bello aroma,
+    A n„o ser teu bello aroma,
     Minha florinha querida,
     Viverias ainda hoje
     No campo desconhecida.
 
 Rilha-boi, Obstaculo.
 
-Rom√£, Ambi√ß√£o.
+Rom„, AmbiÁ„o.
 
 Romeira, Fatuidade.
 
-Roquetta, Morro por v√≥s.
+Roquetta, Morro por vÛs.
 
 Rosa amarella, Infidelidade.
 
 Rosa almiscarada, Belleza caprichosa.
 
-Rosa amelia, Murmura√ß√£o.
+Rosa amelia, MurmuraÁ„o.
 
 Rosa avelludada, Gentileza.
 
-Rosa branca, Silencio, affei√ß√£o.
+Rosa branca, Silencio, affeiÁ„o.
 
-Rosa branca e encarnada, Fogo do cora√ß√£o.
+Rosa branca e encarnada, Fogo do coraÁ„o.
 
-Rosa de cem folhas, Gra√ßas e belleza.
+Rosa de cem folhas, GraÁas e belleza.
 
 Rosa de cheiro, encarnada, Sou assaz feliz.
 
 Rosa dobrada, Esplendor.
 
-Rosa da India, Estima√ß√£o.
+Rosa da India, EstimaÁ„o.
 
-Rosa do Jap√£o, Amor constante.
+Rosa do Jap„o, Amor constante.
 
-    Por gosar um s√≥ momento.
-    Uma ventura t√£o querida,
+    Por gosar um sÛ momento.
+    Uma ventura t„o querida,
     Gostosamente daria
     O resto da minha vida.
 
-Rosa de Jeric√≥, Gra√ßas, belleza.
+Rosa de JericÛ, GraÁas, belleza.
 
 Rosa de musgo, Amor, voluptuosidade.
 
-Rosa das quatro esta√ß√µes, Formosura inalteravel.
+Rosa das quatro estaÁıes, Formosura inalteravel.
 
-    Logo que a hastea come√ßa
+    Logo que a hastea comeÁa
     A rosa a desabrochar,
     Zephiro e a borboleta
-    Vem em torno esvoa√ßar.
+    Vem em torno esvoaÁar.
 
-Rosa de todo o anno, Continua e vencer√°s.
+Rosa de todo o anno, Continua e vencer·s.
 
 Rosa de toucar, Sois o meu unico amor.
 
@@ -973,15 +973,15 @@ Rosa (uma folha de), Nunca sou importuno.
 
 Roseira brava, Poesia.
 
-Rosmaninho, Vossa presen√ßa me reanima.
+Rosmaninho, Vossa presenÁa me reanima.
 
-Sainfoin ou esparceto, Agita√ß√£o.
+Sainfoin ou esparceto, AgitaÁ„o.
 
-Salgueiro, √â inutil.
+Salgueiro, … inutil.
 
 Salgueirinho, Tristeza, lealdade, lagrimas.
 
-Salsa, Gosto, n√£o desanimes.
+Salsa, Gosto, n„o desanimes.
 
 Salva, Estima.
 
@@ -990,21 +990,21 @@ Sardonia, Ironia.
 Saudade, Saudade.
 
     Vem repousar no meu peito
-    Modesta, engra√ßada fl√¥r;
+    Modesta, engraÁada flÙr;
     Tu tens de saudade o nome,
-    De saudade eu tenho a d√¥r.
+    De saudade eu tenho a dÙr.
 
 Saudade branca, Sinceridade.
 
-Saudade c√¥r de rosa, Amizade.
+Saudade cÙr de rosa, Amizade.
 
 Saudade roxa, Melancolia.
 
 Scabiosa, Abandono cruel.
 
-Sempre viva, Hei-de amarte at√© morrer.
+Sempre viva, Hei-de amarte atÈ morrer.
 
-Sene, Dura√ß√£o.
+Sene, DuraÁ„o.
 
 Sensitiva, Pejo, sensibilidade.
 
@@ -1012,13 +1012,13 @@ Sepa, Bebedice.
 
 Silva, Inveja.
 
-Sis√£o, Seguran√ßa.
+Sis„o, SeguranÁa.
 
 Sorveira, Prudencia.
 
-Suspiros, At√© quando?
+Suspiros, AtÈ quando?
 
-Tamaras, D√°-me um beijo.
+Tamaras, D·-me um beijo.
 
 Tamarindos, Feliz momento.
 
@@ -1030,7 +1030,7 @@ Teixo, Tristeza.
 
 Til, amor conjugal.
 
-Tojo, Solid√£o.
+Tojo, Solid„o.
 
 Tomates, Querer.
 
@@ -1046,11 +1046,11 @@ Trovisco, Gloria.
 
 Tubaras, Surpreza.
 
-Tulipa, Declara√ß√£o d'amor.
+Tulipa, DeclaraÁ„o d'amor.
 
-Urze, Solid√£o.
+Urze, Solid„o.
 
-Unha de cavallo, Far-vos-h√£o justi√ßa.
+Unha de cavallo, Far-vos-h„o justiÁa.
 
 Valeriana rubra, Facilidade.
 
@@ -1069,9 +1069,9 @@ Viola roxa-azulada, Modestia.
 Violetas, Quero ficar solteira.
 
     Pura, modesta violeta sim,
-    Bella, gentil fl√¥r do prado,
+    Bella, gentil flÙr do prado,
     Sempre estarei a teu lado,
-    Sempre estar√°s junto a mim.
+    Sempre estar·s junto a mim.
 
 Zimbro, Peccado.
 
@@ -1089,13 +1089,13 @@ Modo de marcar as horas por meio de plantas
 
 4 horas--Cravos encarnados e buxo.
 
-5 horas--Resed√° e buxo.
+5 horas--Resed· e buxo.
 
 6 horas--Cravos rajados e buxo.
 
 7 horas--Dahlias e buxo.
 
-8 horas--Fl√¥r de laranja e buxo:
+8 horas--FlÙr de laranja e buxo:
 
 9 horas--Rosas amarellas e buxo.
 
@@ -1106,7 +1106,7 @@ Modo de marcar as horas por meio de plantas
 12 horas--Amores perfeitos e buxo.
 
 
-N. B.--Sendo as horas √° noite, o buxo dever√° ser substituido por louro.
+N. B.--Sendo as horas · noite, o buxo dever· ser substituido por louro.
 
 
 
@@ -1114,9 +1114,9 @@ N. B.--Sendo as horas √° noite, o buxo dever√° ser substituido por louro.
 Emblema das cores
 
 
-Amarello, Desespera√ß√£o.
+Amarello, DesesperaÁ„o.
 
-Azul, Eleva√ß√£o d'espirito, pureza de sentimentos, circunspec√ß√£o.
+Azul, ElevaÁ„o d'espirito, pureza de sentimentos, circunspecÁ„o.
 
 Azul e amarello, Arrependimento.
 
@@ -1126,19 +1126,19 @@ Azul claro, Firmeza, fidelidade.
 
 Azul e encarnado, Masgestade, amor constante.
 
-Branca, Boa f√©, candura, pureza, innocencia.
+Branca, Boa fÈ, candura, pureza, innocencia.
 
-C√¥r d'azeitona, affabilidade.
+CÙr d'azeitona, affabilidade.
 
-C√¥r de canna, Sinceridade.
+CÙr de canna, Sinceridade.
 
-C√¥r de laranja, Ciume, amor offendido.
+CÙr de laranja, Ciume, amor offendido.
 
-C√¥r de pinh√£o, Indifferen√ßa, dissimula√ß√£o.
+CÙr de pinh„o, IndifferenÁa, dissimulaÁ„o.
 
-C√¥r de pombo, Modestia.
+CÙr de pombo, Modestia.
 
-C√¥r de rosa, Juventude, amor, ternura.
+CÙr de rosa, Juventude, amor, ternura.
 
 Carmesi, Poder supremo.
 
@@ -1146,11 +1146,11 @@ Encarnado, Pejo, amor, desejos.
 
 Preto, Tristeza, luto.
 
-Roxo, paix√£o d'amor.
+Roxo, paix„o d'amor.
 
-Verde, Esperan√ßa.
+Verde, EsperanÁa.
 
-Verde e amarello, Esperan√ßa perdida.
+Verde e amarello, EsperanÁa perdida.
 
 Verde monte, Simplicidade.
 
@@ -1158,29 +1158,29 @@ Vermelho e branco, Brandura, delicadeza.
 
 Vermelho e amarello, Fogo d'amor.
 
-Vermelho e verde, Esperan√ßa segura.
+Vermelho e verde, EsperanÁa segura.
 
 
 
 
-Modo de marcar as horas por meio das c√¥res
+Modo de marcar as horas por meio das cÙres
 
 
 1 hora--Encarnado e branco.
 
 2 horas--Verde e branco.
 
-3 horas--C√¥r de laranja e branco.
+3 horas--CÙr de laranja e branco.
 
 4 horas--Azul claro e branco.
 
 5 horas--Carmesi e branco.
 
-6 Horas--C√¥r de castanha e branco.
+6 Horas--CÙr de castanha e branco.
 
 7 horas--Amarello e branco.
 
-8 horas--C√¥r de rosa e branco.
+8 horas--CÙr de rosa e branco.
 
 9 horas--Roxo e branco.
 
@@ -1191,7 +1191,7 @@ Modo de marcar as horas por meio das c√¥res
 12 horas--Encarnado, verde e branco.
 
 
-N. B.--Sendo as horas √° noite, o branco ser√° substituido por preto.
+N. B.--Sendo as horas · noite, o branco ser· substituido por preto.
 
 
 
@@ -1199,28 +1199,28 @@ N. B.--Sendo as horas √° noite, o branco ser√° substituido por preto.
 APPENDICE
 
 
-    Sempre nos traz uma fl√¥r
+    Sempre nos traz uma flÙr
     Um suave pensamento,
-    Uma lembran√ßa de amor,
+    Uma lembranÁa de amor,
     Um saudoso sentimento.
 
-    Na que √© rainha das fl√¥res,
-    Na linda engra√ßada rosa,
+    Na que È rainha das flÙres,
+    Na linda engraÁada rosa,
     Vejo eu os meus amores,
     A minha amada formosa.
 
-    S√£o as fl√¥res a express√£o
+    S„o as flÙres a express„o
     Do que sentimos no peito;
-    Fallam sempre ao cora√ß√£o
+    Fallam sempre ao coraÁ„o
     Um idioma perfeito.
 
-    Quantas vezes uma fl√¥r
+    Quantas vezes uma flÙr
     Mostra ao amante extremoso
     Receios, ternura, amor
-    D'um cora√ß√£o amoroso.
+    D'um coraÁ„o amoroso.
 
     Muitos segredos revela,
-    Encanta muito uma fl√¥r,
+    Encanta muito uma flÙr,
     Nada ha que como ella
     Encerre tanto primor.
 
@@ -1230,16 +1230,16 @@ APPENDICE
 FINEZAS DAS FLORES
 
 
-Escolhem-se vinte fl√¥res diversas; com essas vinte fl√¥res podem entrar
+Escolhem-se vinte flÙres diversas; com essas vinte flÙres podem entrar
 quarenta pessoas no mesmo jogo, devendo ser tantos cavalheiros como
-senhoras; mas se por√©m, o numero de pessoas f√¥r menor ao que apontamos,
-igualmente deve ser menor o numero das fl√¥res; pois, que tantas devem
+senhoras; mas se porÈm, o numero de pessoas fÙr menor ao que apontamos,
+igualmente deve ser menor o numero das flÙres; pois, que tantas devem
 ser ellas, quantos forem os pares que entrarem no jogo.
 
-Podem-se escolher as fl√¥res que mais faceis estejam da acquisi√ß√£o;
-por√©m, apontamos as seguintes:
+Podem-se escolher as flÙres que mais faceis estejam da acquisiÁ„o;
+porÈm, apontamos as seguintes:
 
-1 A√ßucena.
+1 AÁucena.
 
 2 Anemone.
 
@@ -1247,7 +1247,7 @@ por√©m, apontamos as seguintes:
 
 4 Alfazema.
 
-5 Bot√£o de roza.
+5 Bot„o de roza.
 
 6 Cravo Branco.
 
@@ -1261,7 +1261,7 @@ por√©m, apontamos as seguintes:
 
 11 Jasmim.
 
-12 Lyrio r√¥xo.
+12 Lyrio rÙxo.
 
 13 Lyrio branco.
 
@@ -1279,86 +1279,86 @@ por√©m, apontamos as seguintes:
 
 20 Tulipa.
 
-Estas fl√¥res ser√£o lan√ßadas em uma boceta, e em outra boceta se lan√ßar√°
-igual numero de quadrados de papel, numerados de 1 at√© 20.
+Estas flÙres ser„o lanÁadas em uma boceta, e em outra boceta se lanÁar·
+igual numero de quadrados de papel, numerados de 1 atÈ 20.
 
-Preparados os jogadores, e sentados em roda, vir√° um menino com uma
-boceta onde trar√° as fl√¥res escolhidas para o jogo, as quaes come√ßar√° a
+Preparados os jogadores, e sentados em roda, vir· um menino com uma
+boceta onde trar· as flÙres escolhidas para o jogo, as quaes comeÁar· a
 distribuir pelas senhoras distinadas a fazer parte no jogo.
 
-Logo, vir√° uma menina com a outra boceta onde trar√° quadrados de papel
-numerados que distribuir√° pelos cavalheiros.
+Logo, vir· uma menina com a outra boceta onde trar· quadrados de papel
+numerados que distribuir· pelos cavalheiros.
 
-Feita a distribui√ß√£o, collocar-se-ha sobre uma meza duas urnas, onde se
-lan√ßar√£o em uma as fl√¥res, e em outra, os quadrados de papel, ficando em
+Feita a distribuiÁ„o, collocar-se-ha sobre uma meza duas urnas, onde se
+lanÁar„o em uma as flÙres, e em outra, os quadrados de papel, ficando em
 memoria dos cavalheiros, o numero que lhe foi dado; e em memoria das
-senhoras a fl√¥r que receberam.
+senhoras a flÙr que receberam.
 
-Tampam-se as urnas e remexem-se, para que as fl√¥res se envolvam umas
+Tampam-se as urnas e remexem-se, para que as flÙres se envolvam umas
 entre as outras, bem como os quadrados de papel; em seguida destapam-se
-as urnas e os mesmos dous innocentes come√ßam a extrac√ß√£o, tirando a
-menina, as fl√¥res, e o menino, os quadros de papel; as fl√¥res s√£o
-entregues aos cavalheiros, e os quadrados de papel s√£o entregues √°s
+as urnas e os mesmos dous innocentes comeÁam a extracÁ„o, tirando a
+menina, as flÙres, e o menino, os quadros de papel; as flÙres s„o
+entregues aos cavalheiros, e os quadrados de papel s„o entregues ·s
 senhoras.
 
-Na occasi√£o em que se tira uma fl√¥r, tira-se tambem um quadrado de papel
-que se entregar√° √° dama a quem pertencia a fl√¥r sahida, e a fl√¥r
+Na occasi„o em que se tira uma flÙr, tira-se tambem um quadrado de papel
+que se entregar· · dama a quem pertencia a flÙr sahida, e a flÙr
 entregar-se-ha ao cavalheiro a quem pertencia o quadrado de papel,
 tomando estes immediatamente assento em duas cadeiras unidas, onde se
-devem conservar at√© ao fim da extrac√ß√£o, que ser√° igual para todos.
+devem conservar atÈ ao fim da extracÁ„o, que ser· igual para todos.
 
-Finda a extrac√ß√£o, os cavalheiros procurar√£o offertar uma fineza √°
-senhora a quem pertencia a fl√¥r que receberam, escrevendo-lhe essa
+Finda a extracÁ„o, os cavalheiros procurar„o offertar uma fineza ·
+senhora a quem pertencia a flÙr que receberam, escrevendo-lhe essa
 fineza no quadro de papel, ficando d'este modo mimoseados durante todo o
-tempo os circumstantes de qualquer reuni√£o; os cavalheiros com uma
-fl√¥r e as senhoras com uma fineza.
+tempo os circumstantes de qualquer reuni„o; os cavalheiros com uma
+flÙr e as senhoras com uma fineza.
 
-Para n√£o ser t√£o difficil aos cavalheiros offertarem a fineza √°s
-senhoras, apresentamos as seguintes que, segundo a fl√¥r que cada um
-tenha em seu poder, assim dever√° procurar a fineza.
+Para n„o ser t„o difficil aos cavalheiros offertarem a fineza ·s
+senhoras, apresentamos as seguintes que, segundo a flÙr que cada um
+tenha em seu poder, assim dever· procurar a fineza.
 
-    Quadro de finezas do jogo das fl√¥res
+    Quadro de finezas do jogo das flÙres
 
 
-        A√ßucena
+        AÁucena
 
-    O teu amor t√£o puro e firme seja,
+    O teu amor t„o puro e firme seja,
     Que eu de gozal-o sirva aos mais de inveja.
 
 
         Anemone
 
-    Assim como √© duravel uma estrella,
+    Assim como È duravel uma estrella,
     Assim terei amor comtigo, oh bella!
 
 
         Amor perfeito
 
-    Propicia fl√¥r, do fado alto conceito,
-    √â geral dentro d'alma amor perfeito.
+    Propicia flÙr, do fado alto conceito,
+    … geral dentro d'alma amor perfeito.
 
 
         Alfazema do norte
 
     Gravarei em meu peito agudo ferro,
-    Se de amor tu n√£o d√°s commigo um berro.
+    Se de amor tu n„o d·s commigo um berro.
 
 
-        Bot√£o de rosa
+        Bot„o de rosa
 
-    Seja um bot√£o fechado e bem unido,
+    Seja um bot„o fechado e bem unido,
     O amor que te dedico no sentido.
 
 
         Cravo branco
 
-    O sol n√£o allumie mais meus passos,
-    Se eu constante n√£o f√¥r a dar-te abra√ßos.
+    O sol n„o allumie mais meus passos,
+    Se eu constante n„o fÙr a dar-te abraÁos.
 
 
         Cravo encarnado
 
-    Ditosa condi√ß√£o, ditosa fama,
+    Ditosa condiÁ„o, ditosa fama,
     Se tu chegas a ser a minha dama.
 
 
@@ -1370,20 +1370,20 @@ tenha em seu poder, assim dever√° procurar a fineza.
 
         Girasol
 
-    Gira o sol entre as fl√¥res, d√°-lhes vida;
+    Gira o sol entre as flÙres, d·-lhes vida;
     Tu giras em minha alma em grande lida.
 
 
         Junquilho
 
     Posto que a qualquer dama eu seja terno,
-    Se a ti eu f√¥r falso, me trague o inferno.
+    Se a ti eu fÙr falso, me trague o inferno.
 
 
         Jasmim
 
-    Inda √© mais que o jasmim teu niveo rosto,
-    Tu tens da perfei√ß√£o o melhor gosto.
+    Inda È mais que o jasmim teu niveo rosto,
+    Tu tens da perfeiÁ„o o melhor gosto.
 
 
         Lyrio branco
@@ -1392,63 +1392,63 @@ tenha em seu poder, assim dever√° procurar a fineza.
     De repetir commigo o teu agrado.
 
 
-        Lyrio r√¥xo
+        Lyrio rÙxo
 
-    Se o cora√ß√£o podesse aqui mostra-te,
-    Melhor prenda n√£o tinha que offertar-te.
+    Se o coraÁ„o podesse aqui mostra-te,
+    Melhor prenda n„o tinha que offertar-te.
 
 
         Martyrio
 
     Reparar para ti, ver teu aspecto,
-    √â de amor abysmar-se em terno affecto.
+    … de amor abysmar-se em terno affecto.
 
 
         Malmequer
 
-    Malmequer, eu supponho, oh! c√©us ouvir-te...
-    Juro, porem, de n√£o saber trahir-te.
+    Malmequer, eu supponho, oh! cÈus ouvir-te...
+    Juro, porem, de n„o saber trahir-te.
 
 
         Rainunculo
 
     Cantarei por tal dita, taes louvores,
-    Que as express√µes ser√£o s√≥mente amores.
+    Que as expressıes ser„o sÛmente amores.
 
 
         Rosa branca
 
-    Tu √©s t√£o linda, t√£o formosa e bella,
-    Que do meu cora√ß√£o j√° tens tutela.
+    Tu Ès t„o linda, t„o formosa e bella,
+    Que do meu coraÁ„o j· tens tutela.
 
 
         Rosa rubra
 
-    √â lei obedecer-te, a sorte manda,
+    … lei obedecer-te, a sorte manda,
     Cede a meus rogos, teu rigor abranda.
 
 
         Saudade
 
     Respirem nossos peitos amisade,
-    E n√£o sintam j√°mais cruel saudade.
+    E n„o sintam j·mais cruel saudade.
 
 
         Tulipa
 
     Em frenesi, em odio eu sempre exista,
-    Quando tente occultar-me √° tua vista.
+    Quando tente occultar-me · tua vista.
 
 
     LOTERIA DAS FLORES
     OU
     NOVO DIVERTIMENTO PARA SENHORAS
 
-N'este jogo deve entrar sempre numero par, n√£o devendo exceder nunca o
+N'este jogo deve entrar sempre numero par, n„o devendo exceder nunca o
 numero de 10 pessoas.
 
-Haver√° um baralho de 40 cartas, e igualmente haver√° 40 cart√µes, cada um
-com seu dizer; sendo 20 cart√µes com os dizeres seguintes:
+Haver· um baralho de 40 cartas, e igualmente haver· 40 cartıes, cada um
+com seu dizer; sendo 20 cartıes com os dizeres seguintes:
 
     _Martyrios_
     TORMENTOS
@@ -1459,7 +1459,7 @@ com seu dizer; sendo 20 cart√µes com os dizeres seguintes:
     Az de Paus
 
     _Amor perfeito_
-    Z√äLOS
+    Z LOS
     Dous de Espadas
 
     _Racheis_
@@ -1475,15 +1475,15 @@ com seu dizer; sendo 20 cart√µes com os dizeres seguintes:
     Tres de Paus
 
     _Perpetuas_
-    DESESPERA√á√ÉO
+    DESESPERA«√O
     Quatro de Espadas
 
     _Narcizos_
     DESFARCES
     Quatro de Paus
 
-    _N√£o me deixes_
-    PAIX√ïES
+    _N„o me deixes_
+    PAIX’ES
     Cinco de Espadas
 
     _Melindres_
@@ -1491,7 +1491,7 @@ com seu dizer; sendo 20 cart√µes com os dizeres seguintes:
     Cinco de Paus
 
     _Giestas_
-    LEMBRAN√áAS
+    LEMBRAN«AS
     Seis de Espadas
 
     _Jasmins_
@@ -1510,7 +1510,7 @@ com seu dizer; sendo 20 cart√µes com os dizeres seguintes:
     VERDADE
     Dama de Espadas
 
-    _A√ßucenas_
+    _AÁucenas_
     PUREZA
     Dama de Paus
 
@@ -1519,7 +1519,7 @@ com seu dizer; sendo 20 cart√µes com os dizeres seguintes:
     Valete de Espadas
 
     _Rosas_
-    VINGAN√áA
+    VINGAN«A
     Valete de Paus
 
     _Malmequeres_
@@ -1530,9 +1530,9 @@ com seu dizer; sendo 20 cart√µes com os dizeres seguintes:
     PACIENCIA
     Rei de Paus
 
-Os outros vinte cart√µes devem ser pelo theor seguinte:
+Os outros vinte cartıes devem ser pelo theor seguinte:
 
-    DESESPERA√á√ÉO
+    DESESPERA«√O
     _Perpetuas_
     Az de Copas
 
@@ -1552,16 +1552,16 @@ Os outros vinte cart√µes devem ser pelo theor seguinte:
     _Goivos_
     Tres de Copas
 
-    Z√äLOS
+    Z LOS
     _Amores perfeitos_
     Tres de Ouros
 
-    VINGAN√áA
+    VINGAN«A
     _Rozas_
     Quatro de Copas
 
     PUREZA
-    _A√ßucenas_
+    _AÁucenas_
     Quatro de Ouros
 
     DISFARCES
@@ -1572,8 +1572,8 @@ Os outros vinte cart√µes devem ser pelo theor seguinte:
     _Cravos_
     Cinco de Ouros
 
-    PAIX√ïES
-    _N√£o-me-deixes_
+    PAIX’ES
+    _N„o-me-deixes_
     Seis de Copas
 
     FINEZAS
@@ -1588,7 +1588,7 @@ Os outros vinte cart√µes devem ser pelo theor seguinte:
     _Melindres_
     Sete de Ouros
 
-    LEMBRAN√áAS
+    LEMBRAN«AS
     _Giestas_
     Dama de Copas
 
@@ -1615,56 +1615,56 @@ Os outros vinte cart√µes devem ser pelo theor seguinte:
 
 MARCHA DO JOGO
 
-A este jogo p√≥de-se estabelecer o pre√ßo que cada um quizer, por cada
+A este jogo pÛde-se estabelecer o preÁo que cada um quizer, por cada
 pinta que tiver cada carta.
 
-Sorteiam-se com o baralho os parceiros, e aquelle onde f√¥r o rei de
-ouros, √© quem deve distribuir as cartas, as quaes, depois de
-baralhadas novamente, ser√£o distribuidas duas a duas, at√© se repartirem
-todas pelos parceiros, e por quem as d√°. Os bilhetes ou cart√µes, devem
+Sorteiam-se com o baralho os parceiros, e aquelle onde fÙr o rei de
+ouros, È quem deve distribuir as cartas, as quaes, depois de
+baralhadas novamente, ser„o distribuidas duas a duas, atÈ se repartirem
+todas pelos parceiros, e por quem as d·. Os bilhetes ou cartıes, devem
 estar no meio da meza baralhados e com as letras para baixo.
 
-Feito isto, o que f√¥r m√£o tirar√° um bilhete ou cart√£o, e pedir√° a carta
-que elle em baixo accusar; e quem a tiver a entregar√°, mettendo logo no
+Feito isto, o que fÙr m„o tirar· um bilhete ou cart„o, e pedir· a carta
+que elle em baixo accusar; e quem a tiver a entregar·, mettendo logo no
 cofre tantos tentos, ou dinheiro, quantas forem as pintas da carta que
-entregou, e aquelle que a receber, collocal-a-ha ao p√© de si, sem a
-misturar com as que tem na m√£o, e do mesmo modo proceder√° com os cart√µes
+entregou, e aquelle que a receber, collocal-a-ha ao pÈ de si, sem a
+misturar com as que tem na m„o, e do mesmo modo proceder· com os cartıes
 que tirar.
 
-Tirado do monte o primeiro cart√£o ou bilhete, logo o parceiro immediato
-deve tirar o segundo, fazendo o mesmo que fez o que foi m√£o; e o mesmo
-far√£o os outros parceiros; correndo este gyro at√© ficar alguem sem carta
+Tirado do monte o primeiro cart„o ou bilhete, logo o parceiro immediato
+deve tirar o segundo, fazendo o mesmo que fez o que foi m„o; e o mesmo
+far„o os outros parceiros; correndo este gyro atÈ ficar alguem sem carta
 alguma, e o primeiro que ficar sem ella, fica sendo provedor ou
-provedora; chamar√° para junto de si o cofre do fundo da loteria,
-continuando o mesmo gyro, at√© se extinguirem do monte todos os bilhetes
-ou cart√µes, e o mesmo provedor continuar√° a tirar bilhete como os outros
+provedora; chamar· para junto de si o cofre do fundo da loteria,
+continuando o mesmo gyro, atÈ se extinguirem do monte todos os bilhetes
+ou cartıes, e o mesmo provedor continuar· a tirar bilhete como os outros
 jogadores.
 
-Advirta-se, por√©m, que as figuras n√£o pagam nada, a quem tiver na m√£o a
-carta que pede, igualmente nada paga; apenas colloca ao p√© de si as
-cartas e cart√µes que f√¥r tirando.
+Advirta-se, porÈm, que as figuras n„o pagam nada, a quem tiver na m„o a
+carta que pede, igualmente nada paga; apenas colloca ao pÈ de si as
+cartas e cartıes que fÙr tirando.
 
-Extinctos os bilhetes do monte, o provedor ou provedora, tirar√° para si
-dez por cento de toda a loteria, e far√° da metade do que ficar o premio
+Extinctos os bilhetes do monte, o provedor ou provedora, tirar· para si
+dez por cento de toda a loteria, e far· da metade do que ficar o premio
 grande, dividindo a outra metade em dois premios iguaes ou desigual.
 
-Isto feito, arrumam-se, as cartas, porque j√° n√£o s√£o precisas para o
+Isto feito, arrumam-se, as cartas, porque j· n„o s„o precisas para o
 jogo.
 
-Agora cada parceiro pega nos cart√µes, que tiver junto de si, e para
+Agora cada parceiro pega nos cartıes, que tiver junto de si, e para
 fazer andar a roda, diz o provedor, lendo um dos seus bilhetes, por
 exemplo:
 
-_Saudades, lagrimas._ Aquelle que tiver outro cart√£o que diga _Lagrimas,
-saudades_, entrega-o logo, continuando o provedor a pedir os cart√µes,
-emquanto elle tiver algum que principie pelo nome de fl√¥r, recebendo dos
-outros os cart√µes que tenham em cima a significa√ß√£o da fl√¥r que elle
+_Saudades, lagrimas._ Aquelle que tiver outro cart„o que diga _Lagrimas,
+saudades_, entrega-o logo, continuando o provedor a pedir os cartıes,
+emquanto elle tiver algum que principie pelo nome de flÙr, recebendo dos
+outros os cartıes que tenham em cima a significaÁ„o da flÙr que elle
 pede, e que pode succeder tel-o elle mesmo.
 
-Logo que o provedor n√£o tenha cart√£o algum, cuja primeira palavra seja o
-nome da fl√¥r, segue-se o seu immediato a pedir pela f√≥rma que fica
-explicado; e acabando este, seguem-se os mais, de f√≥rma que o primeiro
-que ficar sem bilhete algum nas m√£os, √© quem recebe o premio grande: o
+Logo que o provedor n„o tenha cart„o algum, cuja primeira palavra seja o
+nome da flÙr, segue-se o seu immediato a pedir pela fÛrma que fica
+explicado; e acabando este, seguem-se os mais, de fÛrma que o primeiro
+que ficar sem bilhete algum nas m„os, È quem recebe o premio grande: o
 segundo a quem succeder o mesmo, recebe o segundo premio, e o terceiro
 que ficar tambem sem bilhete, recebe o terceiro e ultimo premio.
 
@@ -1674,7 +1674,7 @@ que ficar tambem sem bilhete, recebe o terceiro e ultimo premio.
 ORACULO DAS FLORES
 
 
-Escolhem-se varias fl√¥res e a cada uma se lhe d√° uma significa√ß√£o; v. g.
+Escolhem-se varias flÙres e a cada uma se lhe d· uma significaÁ„o; v. g.
 
     Rosa branca             Amor occulto.
     Cravo                   Amor fiel.
@@ -1685,14 +1685,14 @@ Escolhem-se varias fl√¥res e a cada uma se lhe d√° uma significa√ß√£o; v. g.
     Madre-silva             Amor inconstante.
     Reseda                  Amor interessado.
     Balsamina               Amor ambicioso.
-    Mangeric√£o              Amor vicioso.
+    Mangeric„o              Amor vicioso.
     Campainha               Amor meditado.
     Amarantho               Amor puro.
     Jacintho                Amor delirante.
     Rainunculo              Amor leviano.
-    Fl√¥r de larangeira      Amor faceiro.
+    FlÙr de larangeira      Amor faceiro.
     Gyrasol                 Amor indeciso.
-    Serp√£o                  Amor audaz.
+    Serp„o                  Amor audaz.
     Junquilho               Amor cobarde.
     Malmequer               Amor queixoso.
     Perpetua                Amor alegre.
@@ -1702,13 +1702,13 @@ Escolhem-se varias fl√¥res e a cada uma se lhe d√° uma significa√ß√£o; v. g.
     Roza encarnada          Amor fogoso
     Alecrim                 Amor ciumento
 
-Logo vir√° uma pessoa estranha ao que se procede, e se lhe mandar√°
-escolher uma fl√¥r de entre aquellas que estiverem apartadas, e a
-significa√ß√£o da fl√¥r que f√¥r escolhida, √© fiel revela√ß√£o do oraculo das
-fl√¥res; podendo a pessoa interessada ficar certa de que o seu
-prognostico foi verdadeiro, se acaso n√£o lhe falhar.
+Logo vir· uma pessoa estranha ao que se procede, e se lhe mandar·
+escolher uma flÙr de entre aquellas que estiverem apartadas, e a
+significaÁ„o da flÙr que fÙr escolhida, È fiel revelaÁ„o do oraculo das
+flÙres; podendo a pessoa interessada ficar certa de que o seu
+prognostico foi verdadeiro, se acaso n„o lhe falhar.
 
-Do mesmo modo se p√≥de adivinhar o estado do futuro esposo ou esposa,
+Do mesmo modo se pÛde adivinhar o estado do futuro esposo ou esposa,
 imaginando-se v. g. debaixo de um
 
     Alecrim         Um artista          Uma modista.
@@ -1723,8 +1723,8 @@ imaginando-se v. g. debaixo de um
     Malva           Um medico           Uma parteira.
     Madre-silva     Um lavrador         Uma camponeza
 
-Manda-se escolher uma d'estas fl√¥res √° pessoa que n√£o esteja elucidada
-do que se trata, e logo se saber√° qual o estado do futuro consorte, da
+Manda-se escolher uma d'estas flÙres · pessoa que n„o esteja elucidada
+do que se trata, e logo se saber· qual o estado do futuro consorte, da
 pessoa que se interessa em sabel-o, salvo se houver qualquer engano.
 
 
@@ -1734,30 +1734,30 @@ A LOTERIA DE AMOR
 
 
 Tenha-se um saquinho no qual haja tantos bilhetes quantos forem os
-jogadores, uns brancos e outros que digam:--¬´Vale um favor; ou
+jogadores, uns brancos e outros que digam:--´Vale um favor; ou
 differentes favores. Vale uma confidencia ou tres varas de amor. Eu que
-subscrevo confesso dever uma can√ß√£o; uma, duas ou mais prendas. Vale
+subscrevo confesso dever uma canÁ„o; uma, duas ou mais prendas. Vale
 para porteiro, peregrino, mendigo, navegante. Vale um beijo em cada
 jogador, vale um sacrificio, vale um elogio, vale uma dadiva aos
-jogadores, vale um recitativo, vale aperto de m√£o, vale sete pinchos ao
-ar, vale um ditinho engra√ßado, vale uma declara√ß√£o amorosa, vale uma
-conquista, etc.¬ª
+jogadores, vale um recitativo, vale aperto de m„o, vale sete pinchos ao
+ar, vale um ditinho engraÁado, vale uma declaraÁ„o amorosa, vale uma
+conquista, etc.ª
 
-Uma pessoa de sociedade, administrando o jogo, toma o sacco em que est√£o
-os bilhetes enrolados, mexe-os e apresenta-os √° pessoa que estiver √° sua
-direita; esta mette a m√£o no saquinho, tira um bilhete, desenrola-o e
+Uma pessoa de sociedade, administrando o jogo, toma o sacco em que est„o
+os bilhetes enrolados, mexe-os e apresenta-os · pessoa que estiver · sua
+direita; esta mette a m„o no saquinho, tira um bilhete, desenrola-o e
 declara em voz alta o que lhe indica o papel que tirou. O dono da
-administra√ß√£o faz gyrar o saquinho at√© ao ultimo jogador do circulo, e
-cada um √© obrigado a fazer o que lhe ditar o bilhete que tiver
-tirado, menos os que tiverem a sorte de tiral-o branco, os quaes n√£o
-far√£o nada.
+administraÁ„o faz gyrar o saquinho atÈ ao ultimo jogador do circulo, e
+cada um È obrigado a fazer o que lhe ditar o bilhete que tiver
+tirado, menos os que tiverem a sorte de tiral-o branco, os quaes n„o
+far„o nada.
 
-Quando a loteria de amor f√¥r dupla ou tripla, isto √©, quando haja uma ou
+Quando a loteria de amor fÙr dupla ou tripla, isto È, quando haja uma ou
 duas vezes, mais bilhetes que jogadores, tire-se uma ou duas vezes antes
-que se ponha em execu√ß√£o os sacrificios que cada qual tenha a fazer;
-pois acontece que, para muitas pessoas, a segunda extrac√ß√£o annulla a
+que se ponha em execuÁ„o os sacrificios que cada qual tenha a fazer;
+pois acontece que, para muitas pessoas, a segunda extracÁ„o annulla a
 primeira. Com effeito, um bilhete em branco, tirado na segunda sorte,
-isenta o obedecer √° primeira; e assim este ultimo modo de verificar o
+isenta o obedecer · primeira; e assim este ultimo modo de verificar o
 jogo, torna-o divertidissimo.
 
 
@@ -1790,7 +1790,7 @@ MORREU A MINHA POMBINHA
        Que a conduzisse
        Em esta carreira.
 
-       J√° solto girava
+       J· solto girava
        O ente voador,
        Eis que dirigir-se
        Vejo vae ao amor.
@@ -1805,7 +1805,7 @@ MORREU A MINHA POMBINHA
     A cortar veloz os ares
     Esta alada mensageira.
 
-    Que goso, ah! eu n√£o tive
+    Que goso, ah! eu n„o tive
     Ao ver-lhe no pescocinho,
     D'esta alada portadora
     Pendente novo escriptinho!
@@ -1815,13 +1815,13 @@ MORREU A MINHA POMBINHA
     Que vieram dissipar
     Os meus pungentes cuidados.
 
-    Por√©m n√£o tardou a mudan√ßa
+    PorÈm n„o tardou a mudanÁa
     D'este meu contentamento.
     Que passou em continente
     Para o maior soffrimento.
 
-    O caso √©: N'um telhado
-    √Å mira e de embuscada,
+    O caso È: N'um telhado
+    ¡ mira e de embuscada,
     Um furioso bichano
     Pilhou a pomba estimada.
 
@@ -1830,39 +1830,39 @@ MORREU A MINHA POMBINHA
     Elle veio a conhecer
     A minha correspondencia.
 
-    Guardou da ac√ß√£o o segredo,
-    Posto n√£o ser homem bom,
+    Guardou da acÁ„o o segredo,
+    Posto n„o ser homem bom,
     Pois que foi procurador
-    E hoje √© escriv√£o.
+    E hoje È escriv„o.
 
-    Que a ca√ßar passarolas
+    Que a caÁar passarolas
     Elle tinha ensinado,
-    Linguinhas m√°s annunciam
+    Linguinhas m·s annunciam
     Que ao gato no seu telhado.
 
-    O caso seja qual f√¥r,
-    Remedio elle n√£o tem.
+    O caso seja qual fÙr,
+    Remedio elle n„o tem.
     A pombinha que levava
-    Minhas noticias t√£o bem.
+    Minhas noticias t„o bem.
 
-    √ì menina s√≥ ter√°s
+    ” menina sÛ ter·s
     Em o meu peito morada,
     Que, servindo-te d'abrigo,
-    Em elle estar√°s guardada.
+    Em elle estar·s guardada.
 
-    Quando triste te n√£o vejo,
+    Quando triste te n„o vejo,
     Existencia amargurada,
     Passo eu; sem companhia
-    O meu cora√ß√£o √© nada.
+    O meu coraÁ„o È nada.
 
-    A florinha que me d√©stes
+    A florinha que me dÈstes
     Em meu peito deu entrada,
     Nunca vi coisa mais linda,
     Mais perfeita e delicada.
 
     Adeus, amorzinho meu
-    De mim que √©s t√£o amada,
-    N√£o te esque√ßas de fallar-me
+    De mim que Ès t„o amada,
+    N„o te esqueÁas de fallar-me
     Cedinho, de madrugada.
 
 
@@ -1874,146 +1874,146 @@ AVISO AOS LAVRADORES E JARDINEIROS
 Janeiro
 
 Concerta os instrumentos da lavoura, salga porcos e faze estacas para as
-vinhas. Esterca as arvores que estiverem debeis, e enxerta as tempor√£s.
+vinhas. Esterca as arvores que estiverem debeis, e enxerta as tempor„s.
 Lavra as terras leves, corta as madeiras para as latadas, cava a terra
-em redor dos medronheiros, cobre as hastes das fl√¥res que n√£o querem
-frio, e abriga das chuvas fortes as an√©monas e plantas novas semeadas em
-caix√µes. Semeia centeio, trigo e legumes. Enxerta arvores de espinho.
-Planta cebolo, e alface para tempor√£o. Mette estacas de roseiras,
+em redor dos medronheiros, cobre as hastes das flÙres que n„o querem
+frio, e abriga das chuvas fortes as anÈmonas e plantas novas semeadas em
+caixıes. Semeia centeio, trigo e legumes. Enxerta arvores de espinho.
+Planta cebolo, e alface para tempor„o. Mette estacas de roseiras,
 craveiros e alfazema.
 
 Semeia mostarda em terras calidas, centeio, cevada, favas, ervilhas,
-alhos, meimendro, plantas medicinaes, batatas, e gr√£os de bico; planta
-hortali√ßas, romeiras; disp√µe morangos; mette na terra estacas de
-arvores, que rebentam cedo; mergulha vides; p√≥da; limpa colmeias;
+alhos, meimendro, plantas medicinaes, batatas, e gr„os de bico; planta
+hortaliÁas, romeiras; dispıe morangos; mette na terra estacas de
+arvores, que rebentam cedo; mergulha vides; pÛda; limpa colmeias;
 prepara terras para plantas de bacello; limpa os pomares; lavra as
-terras para as sementeiras de mar√ßo; e corta madeira, canas e vimes.
+terras para as sementeiras de marÁo; e corta madeira, canas e vimes.
 
 
 Fevereiro
 
 Se o permittir a temperatura, semeia pepinos, aipo, salsa, couves, e
-acelga, e em taboleiros quentes semeia r√°banos e cenouras. Transplanta
-arvores, e se n√£o fizer muito frio, p√≥da as que foram transplantadas
-no outono. Esterca os prados, semeia aveia, lentilhas e c√°nhamo.
-Limpa o pombal e os corti√ßos, e compra avelhas. Semeia couves de Saboia,
-couve vermelha, espinafres, chicorea. Em terra movel e quente p√≥des
+acelga, e em taboleiros quentes semeia r·banos e cenouras. Transplanta
+arvores, e se n„o fizer muito frio, pÛda as que foram transplantadas
+no outono. Esterca os prados, semeia aveia, lentilhas e c·nhamo.
+Limpa o pombal e os cortiÁos, e compra avelhas. Semeia couves de Saboia,
+couve vermelha, espinafres, chicorea. Em terra movel e quente pÛdes
 semear tres semanas mais cedo do que em terras frias e humidas. Mais
-vale demorar as sementeiras at√© abril do que semear debalde.--Enxerta as
-arvores de caro√ßo e pevide. Transplanta alecrim, buxo e alfazema, e
+vale demorar as sementeiras atÈ abril do que semear debalde.--Enxerta as
+arvores de caroÁo e pevide. Transplanta alecrim, buxo e alfazema, e
 semeia em abrigos, geranios, e amarantos.
 
 Semeia espinafres, bredos, repolho, pimpinella, couve murciana,
-cominhos, morangos, rabanos, chicorea, acelgas, alface allem√£, caro√ßos
+cominhos, morangos, rabanos, chicorea, acelgas, alface allem„, caroÁos
 de pecegos, damascos, alperches, e cyprestes; planta bacello, estacas de
 oliveira, romeiras, e figueiras; transplanta laranjeiras, amoreiras, e
-cidreiras; p√≥da vinhas em terras humidas, e mergulha vides.
+cidreiras; pÛda vinhas em terras humidas, e mergulha vides.
 
 
-Mar√ßo
+MarÁo
 
 Se os frios passarem e a terra estiver secca, cuida da terra do teu
-jardim. Semeia salsa e aipo, couves tempor√£s, r√°banos, couve-fl√¥r para
-poder transplantar no principio de maio. Planta ervilhas tempor√£s em
+jardim. Semeia salsa e aipo, couves tempor„s, r·banos, couve-flÙr para
+poder transplantar no principio de maio. Planta ervilhas tempor„s em
 regos feitos ao cordel; semeia todas as qualidades de raizes e legumes
-em terra cheia; acelgas, cenouras, azedas, nabos da primavera, r√°banos e
-espinafres. Mas se cair neve √© preciso reservar estes trabalhos para o
+em terra cheia; acelgas, cenouras, azedas, nabos da primavera, r·banos e
+espinafres. Mas se cair neve È preciso reservar estes trabalhos para o
 fim do mez. Limpa arvores e cava a terra em redor d'ellas antes que
-lancem fl√¥r. N'este mez deve acabar a p√≥da das arvores, excepto das
-macieiras que p√≥de ser at√© ao fim de abril. O florista deve semear
-cravos, amarantos, cobrir as tulipas para n√£o apanharem o orvalho da
-noite, e tornar a plantar no meio do mez as violetas de mar√ßo,
-jacinthos, tuberosas e margaridas. Semeia papoulas, giras√≥es e goivos.
-Planta √°lamos, semeia feij√£o carrapato, alface, pain√ßo, alpiste,
+lancem flÙr. N'este mez deve acabar a pÛda das arvores, excepto das
+macieiras que pÛde ser atÈ ao fim de abril. O florista deve semear
+cravos, amarantos, cobrir as tulipas para n„o apanharem o orvalho da
+noite, e tornar a plantar no meio do mez as violetas de marÁo,
+jacinthos, tuberosas e margaridas. Semeia papoulas, girasÛes e goivos.
+Planta ·lamos, semeia feij„o carrapato, alface, painÁo, alpiste,
 trevo, luzerna, beterraba e esparceto.
 
-Semeia linho canhamo, feij√£o carrapato, milho, abobora, pevides de
-mel√£o, melancia, pepinos, aipo, salsa, lentilhas, malaguetas, tomates,
-a√ßafr√¥a, beldroegas, milho pain√ßo e alpiste; planta hortali√ßa, alamos, e
+Semeia linho canhamo, feij„o carrapato, milho, abobora, pevides de
+mel„o, melancia, pepinos, aipo, salsa, lentilhas, malaguetas, tomates,
+aÁafrÙa, beldroegas, milho painÁo e alpiste; planta hortaliÁa, alamos, e
 outros arbustos; transplanta vimes; enxerta arvores que rebentam tarde;
 escava as vinhas; monda os trigos; e trasfega os vinhos em dia claro.
 
 
 Abril
 
-Semeia repolhos, alcachofras, cebolas de inverno, aboboras, feij√£o, gr√£o
-de bico, batatas, mel√£o e feij√£o de trepar, pepinos e caba√ßas. Continua
-a semear salsa, alface e toda a qualidade de hortali√ßas. Torna a plantar
-cenouras e couve-fl√¥r para semente. Rega as arvores plantadas de novo.
+Semeia repolhos, alcachofras, cebolas de inverno, aboboras, feij„o, gr„o
+de bico, batatas, mel„o e feij„o de trepar, pepinos e cabaÁas. Continua
+a semear salsa, alface e toda a qualidade de hortaliÁas. Torna a plantar
+cenouras e couve-flÙr para semente. Rega as arvores plantadas de novo.
 Sacha os viveiros, descasca os sobreiros e carvalhos. Transplanta
-alecrim, alfazema, cominho, morangos. Disp√µe valverdes e mangeric√µes.
-Tosquia ovelhas, trasfega os vinhos e cresta colmeias. Rega de manh√£
+alecrim, alfazema, cominho, morangos. Dispıe valverdes e mangericıes.
+Tosquia ovelhas, trasfega os vinhos e cresta colmeias. Rega de manh„
 depois de nascer o sol.
 
-Semeia mel√µes e melancias, at√© ao quarto crescente, pevides de caba√ßa,
-pepinos, alface, milho, feij√£o, aipo, azedas, bredos, e alcaparras;
-planta amoreiras, e arvores que n√£o abrolham; enxerta de escudo; tosquia
+Semeia melıes e melancias, atÈ ao quarto crescente, pevides de cabaÁa,
+pepinos, alface, milho, feij„o, aipo, azedas, bredos, e alcaparras;
+planta amoreiras, e arvores que n„o abrolham; enxerta de escudo; tosquia
 os gados lanigeros; cresta colmeias, e vigia-lhe os bichos.
 
 
 Maio
 
 Lavra as terras de alqueive, castra os bezerros, tosquia ovelhas. No
-principio do mez planta feij√µes de c√¥r e couve-fl√¥r, nabos, alface,
-aipo, ervilhas, favas, alcachofras, melancias e mel√µes. Semeia chicorea
+principio do mez planta feijıes de cÙr e couve-flÙr, nabos, alface,
+aipo, ervilhas, favas, alcachofras, melancias e melıes. Semeia chicorea
 que ha-de ser boa no fim de julho, se for bem regada durante todo o mez.
-Semeia milho e feij√£o nas terras humidas. Enxerta as arvores de
+Semeia milho e feij„o nas terras humidas. Enxerta as arvores de
 espinho e tira as folhas seccas ou doentes. Livra as pereiras dos gomos
-inuteis. Planta tomateiros. Semeia diversos gr√£os de plantas para teres
-fl√¥res no estio. Transplanta as tulipas tempor√£s, mergulha os goivos
+inuteis. Planta tomateiros. Semeia diversos gr„os de plantas para teres
+flÙres no estio. Transplanta as tulipas tempor„s, mergulha os goivos
 amarellos, semeia cravos para os teres dobrados nos 5, 6 e 7 da lua. Do
-meio d'este mez at√© setembro conv√©m regar de tarde. Sacha o viveiro das
+meio d'este mez atÈ setembro convÈm regar de tarde. Sacha o viveiro das
 plantas que has-de transplantar. Cobre a terra de redor das arvores
 novas com folhas seccas para conservar humidade. Tosquia a murta e buxo.
 
-Semeia mel√µes e melancias, que j√° n√£o √© cedo, salsa, coentro,
-pimpinella, azedas, pevides de beringella, feij√£o em terras humidas,
-milho, e mel√µes de cheiro; planta hortali√ßas, segurelha, hortel√£,
+Semeia melıes e melancias, que j· n„o È cedo, salsa, coentro,
+pimpinella, azedas, pevides de beringella, feij„o em terras humidas,
+milho, e melıes de cheiro; planta hortaliÁas, segurelha, hortel„,
 tomateiros, malaguetas, cyprestes, e sobreiros; monda os trigos; limpa
-as vinhas do pulg√£o; apanha os linhos maduros; capa os pepinos; cava as
+as vinhas do pulg„o; apanha os linhos maduros; capa os pepinos; cava as
 vinhas, e semeia-lhe mostarda e milho; enxerta as arvores de espinho,
-capa os mel√µes e melancias, que √© tempo; tosquia as ovelhas, e atesta os
+capa os melıes e melancias, que È tempo; tosquia as ovelhas, e atesta os
 vinhos.
 
 
 Junho
 
-Ata as vinhas a tira-lhes os gomos inuteis. D√° a segunda lavra √°s terras
-de alqueive, limpa os corti√ßos, sega os prados, estende o feno para
+Ata as vinhas a tira-lhes os gomos inuteis. D· a segunda lavra ·s terras
+de alqueive, limpa os cortiÁos, sega os prados, estende o feno para
 seccar. Semeia milho nas terras regadias. Sacha a horta depois da chuva,
-se a houver, e antes que tenham florido as hervas m√°s. Ceifa a aveia e a
-cevada. Apanha as fructas tempor√£s, p√µe estacas ao feij√£o de trepar,
+se a houver, e antes que tenham florido as hervas m·s. Ceifa a aveia e a
+cevada. Apanha as fructas tempor„s, pıe estacas ao feij„o de trepar,
 semeia brocolos e ata os tomateiros. Continua a semear chicorea para a
-teres no fim do ver√£o. Recolhe os gr√£os de cerefolio, favas, espinafres,
-r√°banos, ervilhas e de outros legumes que estiverem seccos. Descobre as
+teres no fim do ver„o. Recolhe os gr„os de cerefolio, favas, espinafres,
+r·banos, ervilhas e de outros legumes que estiverem seccos. Descobre as
 cebolas, limpa as arvores e plantas das lagartas, remexe a terra de
 redor das arvores e cobre-a de folhas seccas. Enxerta de escudo os
-fructos de caro√ßo, e os jasmins, laranjeiras e roseiras, escolhendo para
-isto um tempo encoberto. Guarda as sementes das fl√¥res da primavera.
+fructos de caroÁo, e os jasmins, laranjeiras e roseiras, escolhendo para
+isto um tempo encoberto. Guarda as sementes das flÙres da primavera.
 Semeia couves, borragens, beldroegas, espinafres, e favas de regadio;
 semeia nas terras serodias; enxerta de escudo as arvores de casca
 grossa; sacha os milhos, e ceifa o feno; recolhe alhos, cebolas, favas,
 e todos os legumes, que estiverem seccos, as plantas medicinaes, assim
-como tambem as frutas; enresta os alhos para guardar; tira a c√™ra dos
-corti√ßos; castra os carneiros, que √© bom signo: tosquia as ovelhas, e
-tem cuidado no terra√ßo das eiras.
+como tambem as frutas; enresta os alhos para guardar; tira a cÍra dos
+cortiÁos; castra os carneiros, que È bom signo: tosquia as ovelhas, e
+tem cuidado no terraÁo das eiras.
 
 
 Julho
 
-√â o tempo de vender e comprar gado nas feiras e de limpar as granjas
-para ceifar. N√£o poupes a rega. Lavra as terras de trigo, em quanto
-tiverem alguma humidade. Arranca as hervas m√°s dos canteiros, e banha o
-gado. Apanha as cebolas, planta feij√µes para o outono, e couves para o
+… o tempo de vender e comprar gado nas feiras e de limpar as granjas
+para ceifar. N„o poupes a rega. Lavra as terras de trigo, em quanto
+tiverem alguma humidade. Arranca as hervas m·s dos canteiros, e banha o
+gado. Apanha as cebolas, planta feijıes para o outono, e couves para o
 fim do outono e principio do inverno. Semeia alface, acelga e cebolo
 para o mesmo tempo, e chicorea para o inverno. Levanta as plantas
 bolbosas para as transplantar logo. Castra carneiros.
 
 Semeia espinafres, bredos, e mostarda; recolhe cevada, cebola de
-regadio, amendoas, avell√£s, e sementes maduras de hortali√ßas; principia
-a ceifa; amassa a rama √°s cenouras, rega os pomares, e limpa-os das
-folhas seccas; arranca a grama; rega os piment√µes, tomateiros, e meloaes
-que n√£o s√£o de vargem; prepara e areja os ceifeiros para recolher as
+regadio, amendoas, avell„s, e sementes maduras de hortaliÁas; principia
+a ceifa; amassa a rama ·s cenouras, rega os pomares, e limpa-os das
+folhas seccas; arranca a grama; rega os pimentıes, tomateiros, e meloaes
+que n„o s„o de vargem; prepara e areja os ceifeiros para recolher as
 novidades; queima as raizes nocivas, e recolhe os trigos que estiverem
 promptos.
 
@@ -2021,77 +2021,77 @@ promptos.
 Agosto
 
 Carreia o esterco para as terras, arranca o linho, queima os espinhos e
-hervas m√°s das terras de hervagem, e bate o centeio para a sementeira.
+hervas m·s das terras de hervagem, e bate o centeio para a sementeira.
 Logo que colhas as novidades lavra as terras. Livra as uvas do sol e
 colhe as cenouras e batatas. Prepara os buracos para as arvores que
-has-de plantar, e recolhe folhas de arvores para o gado. Semeia r√°banos
-para o outono, cerefolio para o inverno, e espinafres que √© preciso
+has-de plantar, e recolhe folhas de arvores para o gado. Semeia r·banos
+para o outono, cerefolio para o inverno, e espinafres que È preciso
 regar a miudo. Planta chicoreas a palmo e meio umas das outras. Nos
-jardins planta as an√©monas singelas para teres fl√¥res no outono e
-inverno. No fim do mez mette na terra os jacinthos, an√©monas,
-rainunculos e junquilhos. Tira a c√™ra dos corti√ßos.
+jardins planta as anÈmonas singelas para teres flÙres no outono e
+inverno. No fim do mez mette na terra os jacinthos, anÈmonas,
+rainunculos e junquilhos. Tira a cÍra dos cortiÁos.
 
-Semeia tremo√ßos, r√°banos, cenouras, arruda, rosmaninho, cebola para
-semente, nabo, nabi√ßa em terras de regadio, cevada, e aveia; planta
+Semeia tremoÁos, r·banos, cenouras, arruda, rosmaninho, cebola para
+semente, nabo, nabiÁa em terras de regadio, cevada, e aveia; planta
 couve tardia; apanha macella; recolhe o resto das searas; limpa a cevada
-para melhor se conservar; recolhe amendoas e avell√£s; arranca as hervas
+para melhor se conservar; recolhe amendoas e avell„s; arranca as hervas
 nocivas; espreita as colmeias; prepara vasilhas, e estruma as terras.
 
 
 Setembro
 
 N'este mez semeia centeio, lavra os alqueives, recolhe o milho e estruma
-as terras. Semeia em terras quentes cevada e aveia, e recolhe feij√£o e
+as terras. Semeia em terras quentes cevada e aveia, e recolhe feij„o e
 legumes. Cresta as colmeias. Compra porcos para cevar. Continua a semear
 espinafres, salsa, cebola, chicorea, cenouras, favas e nabos. Durante
-este mez deixa de regar de tarde, come√ßa a regar pela manh√£. Colhe os
-fructos maduros, mas que n√£o estejam molhados. Enxerta arvores de caro√ßo
-e planta as de espinho. Semeia caro√ßos de damascos e pecegos, e linho
-c√°nhamo. Semeia rainunculos, lirios tupilas, papoulas e outras
-plantas annuaes. Alporca craveiros e planta raizes tempor√£s.
+este mez deixa de regar de tarde, comeÁa a regar pela manh„. Colhe os
+fructos maduros, mas que n„o estejam molhados. Enxerta arvores de caroÁo
+e planta as de espinho. Semeia caroÁos de damascos e pecegos, e linho
+c·nhamo. Semeia rainunculos, lirios tupilas, papoulas e outras
+plantas annuaes. Alporca craveiros e planta raizes tempor„s.
 
 Semeia favas, nas primeiras aguas, trigo nos altos, cevada e centeio em
-terras quentes; semeia nabos, tremo√ßos, dormideiras, linho c√°nhamo,
-oreg√£os, arruda, e trevo; planta cidreiras, limoeiros, e arvores de
+terras quentes; semeia nabos, tremoÁos, dormideiras, linho c·nhamo,
+oreg„os, arruda, e trevo; planta cidreiras, limoeiros, e arvores de
 espinho: enxerta as ditas arvores; cresta colmeias; apanha nozes,
-amendoas e avell√£s; recolhe mostarda, milho, legumes, e faz passas de
+amendoas e avell„s; recolhe mostarda, milho, legumes, e faz passas de
 uvas; vindima a tempo, e depois lavra as terras.
 
 
 Outubro
 
-Semeia tremo√ßos, ervilhas trepadeiras, favas, cevada, nabos, cenouras,
+Semeia tremoÁos, ervilhas trepadeiras, favas, cevada, nabos, cenouras,
 espinafres para maio, e o ultimo cerefolio para nascer antes das geadas
 fortes. No fim do mez semeia alface para janeiro. Vindima em tempo bom.
 A uva doente deve ser lavada n'uma tina, e depois limpa-se cacho a cacho
-com uma brocha macia, e estende-se por algum tempo antes de se lan√ßar no
+com uma brocha macia, e estende-se por algum tempo antes de se lanÁar no
 lagar. Transplanta as arvores novas, depois de cahidas as folhas, para
 covas feitas algumas semanas antes. Planta amendoeiras e avelleiras e
 enxerta arvores de espinho. No meio do mez planta as cebolas de tulipas
-e outras, e ajunta para estrume as folhas que v√£o cahindo das arvores.
+e outras, e ajunta para estrume as folhas que v„o cahindo das arvores.
 
-Semeia trigo, cevada, nabos, r√°banos, rabanetes, cenouras, tremo√ßos,
-chicharos, gr√£os de bico, favas, salsa, coentro, aipo, pimpinella,
+Semeia trigo, cevada, nabos, r·banos, rabanetes, cenouras, tremoÁos,
+chicharos, gr„os de bico, favas, salsa, coentro, aipo, pimpinella,
 ervilhas genovezas, e cebolo; planta nogueiras, avelleiras, amendoeiras
-e cidreiras; recolhe m√©l e c√™ra; apanha castanhas; abre covas para
-metter arvores de sombra, e lavra o resto das terras. N'este mez s√£o
-muito bons os taralh√µes e os labercos.
+e cidreiras; recolhe mÈl e cÍra; apanha castanhas; abre covas para
+metter arvores de sombra, e lavra o resto das terras. N'este mez s„o
+muito bons os taralhıes e os labercos.
 
 
 Novembro
 
-Cuida nas provis√µes para forragens do gado. Planta e mergulha vides,
-corta salgueiros e poda as arvores. Apanha a azeitona √° m√£o, e poda e
+Cuida nas provisıes para forragens do gado. Planta e mergulha vides,
+corta salgueiros e poda as arvores. Apanha a azeitona · m„o, e poda e
 limpa as oliveiras. Prepara e carreia o esterco secco para o espalhar
 promptamente sobre os legumes que precisarem d'elle. Planta serpentina
 menor, azedas e espargo. Planta roseiras, lilazes e outros arbustos que
-o frio n√£o prejudica. Corta vimes. Planta amoreiras, castanheiros,
-loureiros, carvalhos e cyprestes. Mette castanhas era ar√™a para se
+o frio n„o prejudica. Corta vimes. Planta amoreiras, castanheiros,
+loureiros, carvalhos e cyprestes. Mette castanhas era arÍa para se
 conservarem verdes.
 
-Semeia herva d√¥ce, ervilha an√£, acelgas, espinafres, couves, alfaces,
+Semeia herva dÙce, ervilha an„, acelgas, espinafres, couves, alfaces,
 repolhos, brocolos, e favas; planta carvalhos, castanheiros, oliveiras,
-couve, alface, chicorea, repolho, hortel√£, e segurelha; corta no
+couve, alface, chicorea, repolho, hortel„, e segurelha; corta no
 minguante as madeiras que estiverem sazonadas, canas, vimes, e
 salgueiros; e prepara a salgadeira para a sardinha.
 
@@ -2103,11 +2103,11 @@ Semeia favas e trigo, rega as laranjeiras antes de nascer o sol, e
 semeia pinheiros. Planta choupos, azinheiros, castanheiros e carvalhos,
 e abre as covas para plantar arvores na primavera. Mata e salga os porcos.
 
-Semeia pinheiros, castanheiros, azinheiros, caro√ßos de pecegos,
+Semeia pinheiros, castanheiros, azinheiros, caroÁos de pecegos,
 alcachofras, espinafres, bredos, aipo, pimpinella, semente de couve,
-alface, r√°banos, rabanetes, nabos e gr√£os; planta choupos, sobreiros, e
+alface, r·banos, rabanetes, nabos e gr„os; planta choupos, sobreiros, e
 sabugueiros, antes que rebentem; enxerta de espinho as arvores do cedo;
-d√° descan√ßo √°s terras, e prepara a salgadeira para o toucinho.
+d· descanÁo ·s terras, e prepara a salgadeira para o toucinho.
 
 
 FIM DA QUARTA PARTE

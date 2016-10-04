@@ -1,5 +1,5 @@
 The Project Gutenberg EBook of Tractado da terra do Brasil, by 
-Pedro de Magalh√£es Gandavo
+Pedro de Magalh„es Gandavo
 
 This eBook is for the use of anyone anywhere at no cost and with
 almost no restrictions whatsoever.  You may copy it, give it away or
@@ -8,10 +8,10 @@ with this eBook or online at www.gutenberg.net
 
 
 Title: Tractado da terra do Brasil
-       no qual se contem a informa√ß√£o das cousas que ha nestas
-       partes feito por P.¬∫ de Magalhaes
+       no qual se contem a informaÁ„o das cousas que ha nestas
+       partes feito por P.∫ de Magalhaes
 
-Author: Pedro de Magalh√£es Gandavo
+Author: Pedro de Magalh„es Gandavo
 
 Release Date: February 20, 2009 [EBook #28122]
 
@@ -24,7 +24,7 @@ Character set encoding: ISO-8859-1
 
 
 
-Produced by J√∫lio Reis, Carlo Traverso and the Online
+Produced by J˙lio Reis, Carlo Traverso and the Online
 Distributed Proofreading Team at http://www.pgdp.net (This
 file was produced from images generously made available
 by National Library of Portugal (Biblioteca Nacional de
@@ -36,24 +36,24 @@ Portugal).)
 
 
 
-Notas de transcri√ß√£o:
+Notas de transcriÁ„o:
 
-* a grafia do s√©culo XVI era totalmente livre; portanto, nenhum esfor√ßo
+* a grafia do sÈculo XVI era totalmente livre; portanto, nenhum esforÁo
 foi feito para harmonizar acentos, grafia etc.
 
-* nesta vers√£o em codifica√ß√£o ISO-8859-1 (Latin-1), todos os caracteres
-acentuados n√£o existentes neste padr√£o foram colocados entre par√™nteses
+* nesta vers„o em codificaÁ„o ISO-8859-1 (Latin-1), todos os caracteres
+acentuados n„o existentes neste padr„o foram colocados entre parÍnteses
 rectos
 
-* O caracter ^ √© usado para denotar texto em superescrito (acima da
+* O caracter ^ È usado para denotar texto em superescrito (acima da
 linha)
 
 
 
 
                               TRACTADO DATERRA
-                        do Brasil no qual Se c√µtem
-                           a informa√ßa√µ das
+                        do Brasil no qual Se cıtem
+                           a informaÁaı das
                             cousas que ha nestas
                               partes feito por
                             P^o de magalha[~e]s.
@@ -61,33 +61,33 @@ linha)
 
 
 
-Ao muy alto e Seren√¨ssimo Principe dom Anrrique Cardeal Iffante de
+Ao muy alto e SerenÏssimo Principe dom Anrrique Cardeal Iffante de
 portugal.
 
 
 Posto que os dias passados apresentei outro s[~u]mario da terra do
-brasil a elRei nosso sn√µr, foi por comprir primeiro com esta obriga√ß√£o
-de vassallo que todos deuemos anosso Rei: e por esta raz√°o me pare√ßeo
-cousa mui necessaria, (mu√Ωto Alto e serenissimo sn√µr) offere√ßer tambem
-este a V. A. aqu[~e] se deuem Refirir os louuores e acre√ßentamento das
-terras [~q] nestes Reinos flore√ßem: pois sempre deseiou tanto
+brasil a elRei nosso snır, foi por comprir primeiro com esta obrigaÁ„o
+de vassallo que todos deuemos anosso Rei: e por esta raz·o me pareÁeo
+cousa mui necessaria, (mu˝to Alto e serenissimo snır) offereÁer tambem
+este a V. A. aqu[~e] se deuem Refirir os louuores e acreÁentamento das
+terras [~q] nestes Reinos floreÁem: pois sempre deseiou tanto
 augmentallas e conseruar seus subditos e vassallos [~e] perpetua paz.
 
-Como eu isto entenda, e conhe√ßa quam a√ß√ßeitos sa√µ os b√µs serui√ßos a V.
+Como eu isto entenda, e conheÁa quam aÁÁeitos saı os bıs seruiÁos a V.
 A. que ao Reino se fazem imaginei comigo que podia trazer destas partes
-com que desse testemunho de minha pura ten√ßa√µ: e ache√Ω que na√µ se podia
-d[~u] fraco hom[~e] esperar maior serui√ßo (ainda que tal na√µ pare√ßa)
-que lan√ßar ma√µ desta informa√ßa√µ da terra do Brasil (cousa [~q] ategora
-na√µ imprendeo pessoa alg[~u]a) pera [~q] nestes Reinos se deuulge sua
-fertillidade e prouoque amuitas pessoas pobres que se va√µ viuer aesta
-prouin√ßia, que nisso consiste a felli√ßidade e augmento della. E porque
-V. A. sabe quanto serui√ßo de Deos e delRei nosso Sn√µr se√Ωa esta
-denun√ßia√ßa√µ determine√Ω collegilla com delibera√ßa√µ de a offere√ßer a V. A.
-aqu[~e] humilmente pe√ßo ma Re√ßeba, e com tamanha mer√ße ficarei
-satisfeito Rogando a nosso S√±or lhe de prosperos e largissimos annos de
-vida e deixe permane√ßer Seu Real estado emperpetua filli√ßidade. am[~e].
+com que desse testemunho de minha pura tenÁaı: e ache˝ que naı se podia
+d[~u] fraco hom[~e] esperar maior seruiÁo (ainda que tal naı pareÁa)
+que lanÁar maı desta informaÁaı da terra do Brasil (cousa [~q] ategora
+naı imprendeo pessoa alg[~u]a) pera [~q] nestes Reinos se deuulge sua
+fertillidade e prouoque amuitas pessoas pobres que se vaı viuer aesta
+prouinÁia, que nisso consiste a felliÁidade e augmento della. E porque
+V. A. sabe quanto seruiÁo de Deos e delRei nosso Snır se˝a esta
+denunÁiaÁaı determine˝ collegilla com deliberaÁaı de a offereÁer a V. A.
+aqu[~e] humilmente peÁo ma ReÁeba, e com tamanha merÁe ficarei
+satisfeito Rogando a nosso SÒor lhe de prosperos e largissimos annos de
+vida e deixe permaneÁer Seu Real estado emperpetua filliÁidade. am[~e].
 
-Humilde vassallo de V. A. Pero de magalh√£es
+Humilde vassallo de V. A. Pero de magalh„es
 
 
 
@@ -95,106 +95,106 @@ Humilde vassallo de V. A. Pero de magalh√£es
 Prollogo Ao lector.
 
 
-Minha ten√ßa√µ na√µ foi outra neste summario (discreto e corioso lector)
-sena√µ de nun√ßiar em breues pallauras a fertillidade e abundan√ßia da
-terra do brasil, pera que esta fama venha a noti√ßia de muitas pessoas
-que nestes Reinos viuem com pobreza, e na√µ duuidem escolhelha pera seu
+Minha tenÁaı naı foi outra neste summario (discreto e corioso lector)
+senaı de nunÁiar em breues pallauras a fertillidade e abundanÁia da
+terra do brasil, pera que esta fama venha a notiÁia de muitas pessoas
+que nestes Reinos viuem com pobreza, e naı duuidem escolhelha pera seu
 Remedio: por[~q] a mesma terra he tam natural e fauorauel aos estranhos
 que a todos agazalha e conuida com Remedio por pobres e desemparados que
-seia√µ. Eassy cada vez se vay fazendo mais prospera, e depois [~q] as
-terras vi√ßosas se forem pouoando (que agora esta√µ desertas por falta de
-gente) ha√µ se de fazer nellas grossas fazendas como ia esta√µ feitas nas
-[~q] possuem os moradores da terra, etambem se espera desta prouin√ßia
-que por tempo flore√ßa tanto na Requeza como as Antilhas de Castella por
-que he √ßerto ser en si aterra mui riqua e auer nella m^{tos} metais,
-osquais ategora se na√µ descobr[~e] ou porna√µ auer gente na terra pera
-cometer esta impreza, outambem por negligen√ßia dos moradores que se na√µ
-querem despor aesse trabalho: qual seja a causa por que o deixa√µ de
-fazer na√µ sei. Mas permittira nosso sn√µr que ainda em nossos dias se
-descubr√£ nella gr√£des thezouros, assy pera serui√ßo e augm[~e]to de S. A.
-como pera porueito de seus vassallos que o desei√£o seruir.
+seiaı. Eassy cada vez se vay fazendo mais prospera, e depois [~q] as
+terras viÁosas se forem pouoando (que agora estaı desertas por falta de
+gente) haı se de fazer nellas grossas fazendas como ia estaı feitas nas
+[~q] possuem os moradores da terra, etambem se espera desta prouinÁia
+que por tempo floreÁa tanto na Requeza como as Antilhas de Castella por
+que he Áerto ser en si aterra mui riqua e auer nella m^{tos} metais,
+osquais ategora se naı descobr[~e] ou pornaı auer gente na terra pera
+cometer esta impreza, outambem por negligenÁia dos moradores que se naı
+querem despor aesse trabalho: qual seja a causa por que o deixaı de
+fazer naı sei. Mas permittira nosso snır que ainda em nossos dias se
+descubr„ nella gr„des thezouros, assy pera seruiÁo e augm[~e]to de S. A.
+como pera porueito de seus vassallos que o desei„o seruir.
 
 
 
 
-Declarac√£o da costa.
+Declarac„o da costa.
 
 
-Esta costa do brasil est√° pera a parte do occidente, corre se de norte e
-sul. Da primeira pouoa√ßa√µ a tederradeira ha trez[~e]tas e sincoenta
-legoas. Sa√µ oito capitanias todas tem portos mui seguros onde pod[~e]
-entrar quais quer naos por grandes que seia√µ. Na√µ ha pella terra dentro
-pouoa√ß√µes de portugeses por causa dos indios que na√µ no consente,
-etambem pello soccorro e tractos do Reino lhes he ne√ßessario estarem
-iunto domar pera ter[~e] comunica√ß√£o de mercadorias. E por este Respeito
+Esta costa do brasil est· pera a parte do occidente, corre se de norte e
+sul. Da primeira pouoaÁaı a tederradeira ha trez[~e]tas e sincoenta
+legoas. Saı oito capitanias todas tem portos mui seguros onde pod[~e]
+entrar quais quer naos por grandes que seiaı. Naı ha pella terra dentro
+pouoaÁıes de portugeses por causa dos indios que naı no consente,
+etambem pello soccorro e tractos do Reino lhes he neÁessario estarem
+iunto domar pera ter[~e] comunicaÁ„o de mercadorias. E por este Respeito
 viu[~e] todos junto da Costa.
 
 
 
 
-Cap. 1.^o da capitania de Tamarac√°.
+Cap. 1.^o da capitania de Tamarac·.
 
 
-A pouoa√ßa√µ da primeira capitania e mais antiga est√° nu√£ ilha que se
-chama Tamarac√° pegada com aterra firme, tem tres legoas de comprido e
+A pouoaÁaı da primeira capitania e mais antiga est· nu„ ilha que se
+chama Tamarac· pegada com aterra firme, tem tres legoas de comprido e
 duas de largo: t[~e] trinta e sinco legoas de terra pella costa pera o
 norte. He de dona Jeronima dalBuquerque molher que foi de Pero Lopez de
-Sousa naqual tem posto Capita√µ de sua ma√µ. ha nella h[~u] engenho
+Sousa naqual tem posto Capitaı de sua maı. ha nella h[~u] engenho
 dassucre, e agora se faz[~e] dous nouam[~e]te, e muito pao do brasil e
-algoda√µ. Pode ter ate √ß[~e] vezinhos. Ha nesta capitania muitas e boas
+algodaı. Pode ter ate Á[~e] vezinhos. Ha nesta capitania muitas e boas
 terras pera se pouoarem e fazerem nellas fazendas.
 
 
 
 
-Cap. 2.^o da capitania de Phern√£buco.
+Cap. 2.^o da capitania de Phern„buco.
 
 
-[Nota lateral: Noua Lusitania a cham√£ muytos pollas frequ[~e]cia, √©
+[Nota lateral: Noua Lusitania a cham„ muytos pollas frequ[~e]cia, È
 policia]
 
 [Nota lateral: agora som .60. anno de 1587.]
 
-A capitania de Phernambuco est√° sinco legoas de Tamarac√° pera o sul em
-altura de oito graos, daqual he capita√µ e gouernador Duarte coelho
-dalBuquerque. Tem duas pouoa√ß√µes, a prin√ßipal se chama Olinda, a outra
-Guarass√∫ que esta quatro legoas pella terra dentro. Auera nesta
+A capitania de Phernambuco est· sinco legoas de Tamarac· pera o sul em
+altura de oito graos, daqual he capitaı e gouernador Duarte coelho
+dalBuquerque. Tem duas pouoaÁıes, a prinÁipal se chama Olinda, a outra
+Guarass˙ que esta quatro legoas pella terra dentro. Auera nesta
 capitania mil vezinhos. Tem =vinte etres= engenhos dassucre, posto que
-tres ou quatro delles na√µ sa√µ ainda acabados.
+tres ou quatro delles naı saı ainda acabados.
 
-[Nota lateral: agora quatro mil [~q] sam todas as arrouas [~q] se libr√£
+[Nota lateral: agora quatro mil [~q] sam todas as arrouas [~q] se libr„
 aqui, 240. M.]
 
-Alg[~u]s moem com bois aestes cham√£ tripiches, fazem menos assucre que
+Alg[~u]s moem com bois aestes cham„ tripiches, fazem menos assucre que
 os outros. mas amaior parte dos engenhos do brasil mo[~e] com agoa. Cada
 engenho destes h[~u] poroutro, faz =trez= mil arrobas cadano. nesta
 capitania se fazem mais assucres que nas outras, porque ouue anno que
-passara√µ de sincoenta mil arrobas, ainda que o Rendimento delles na√µ he
-√ßerto, sa√µ segundo asnouidades e os tempos que se offere√ß[~e]. Esta
-seacha hu√£ das Ricas terras do brasil, tem muitos escrauos indios [~q]
-he aprin√ßipal fazenda daterra. Daqui os leua√µ e compram pera todellas
+passaraı de sincoenta mil arrobas, ainda que o Rendimento delles naı he
+Áerto, saı segundo asnouidades e os tempos que se offereÁ[~e]. Esta
+seacha hu„ das Ricas terras do brasil, tem muitos escrauos indios [~q]
+he aprinÁipal fazenda daterra. Daqui os leuaı e compram pera todellas
 outras capitanias, porque ha nesta muitos, emais baratos que entoda
-costa. ha muitos pao do brasil e algoda√µ de que enrrique√ß[~e] os
+costa. ha muitos pao do brasil e algodaı de que enrriqueÁ[~e] os
 moradores desta capitania.
 
 [Nota lateral: a este porto se entra por un canal tam estreyto, [~q]
-apenas cabe una n√°o por elle y sino entra c√µ muyto t[~e]to, da en pedra
-viua y perdesse √¥ qual ac√µtece muytas vezes aos exprim[~e]tados: por
+apenas cabe una n·o por elle y sino entra cı muyto t[~e]to, da en pedra
+viua y perdesse Ù qual acıtece muytas vezes aos exprim[~e]tados: por
 isso se chama Paranambuc. [~q] quer dix Mar furado]
 
-O porto onde os nauios entra√µ est√° h[~u]a legoa da pouoa√ßa√µ Olinda
+O porto onde os nauios entraı est· h[~u]a legoa da pouoaÁaı Olinda
 seruense pella praya e tambem por h[~u] Rio pequeno que vai dar junto da
-mesma pouoa√ßa√µ. Aesta capitania va√µ cadanno mais nauios do Reino que
-anenhu√£ das outras. Hanella h[~u] mosteiro de padres da companhia de
+mesma pouoaÁaı. Aesta capitania vaı cadanno mais nauios do Reino que
+anenhu„ das outras. Hanella h[~u] mosteiro de padres da companhia de
 Jesus.
 
 
 Rios.
 
 Ha dous Rios caudais ate a Bahia de todollos sanctos. h[~u] se chama de
-sa√µ francisco, est√° em dez graos e meyo, oqual entra nomar contanta
-furia [~q] vinte legoas pello mesmo mar correm suas agoas outro Rio est√°
-em onze graos e dous ter√ßos que se chama o Rio Real, tambem he muigrande
+saı francisco, est· em dez graos e meyo, oqual entra nomar contanta
+furia [~q] vinte legoas pello mesmo mar correm suas agoas outro Rio est·
+em onze graos e dous terÁos que se chama o Rio Real, tambem he muigrande
 e correm muito suas agoas pello mar.
 
 
@@ -203,52 +203,52 @@ e correm muito suas agoas pello mar.
 Cap. 3. da capitania da Bahya de Todollos Sanctos.
 
 
-A Capitania da Bahia de todollos sanctos esta √ßem legoas de phern√£buco
-emaltura de treze graos. terra del Rei nosso sn√µr onde Residem os
+A Capitania da Bahia de todollos sanctos esta Áem legoas de phern„buco
+emaltura de treze graos. terra del Rei nosso snır onde Residem os
 gouernadores e bispo e ouuidor geral de toda costa. esta he a terra mais
-pouoada de portugueses que ha nobrasil. Tem tres pouoa√ßo[~e]s, a
-prin√ßipal he a cidade do saluador. Aoutra se chama Villa Velha que esta
-junto da barra, Esta pouoa√ßa√µ foi aprimeira que ouue nesta capitania: de
+pouoada de portugueses que ha nobrasil. Tem tres pouoaÁo[~e]s, a
+prinÁipal he a cidade do saluador. Aoutra se chama Villa Velha que esta
+junto da barra, Esta pouoaÁaı foi aprimeira que ouue nesta capitania: de
 pois Thome de Sousa Sendo gouernador edificou esta cidade do saluador
-mais adi√£te me√Ωa legoa ao longo da Bahia por ser lugar mais comueniente
+mais adi„te me˝a legoa ao longo da Bahia por ser lugar mais comueniente
 e porueitoso pera osmoradores da terra. Quatro legoas pella terra dentro
-est√° outra[~q] se chama Parip√©. pode auer nesta capitania mil e √ßem
+est· outra[~q] se chama ParipÈ. pode auer nesta capitania mil e Áem
 vezinhos. Tem dez oito engenhos, alg[~u]s sefazem nouam[~e]te: tambem se
-tira delles muito assucre, ainda que osmoradores se lan√ß√£ mais
-aoalgoda√µ que a canas dassucres porque se daa milhor naterra.
+tira delles muito assucre, ainda que osmoradores se lanÁ„ mais
+aoalgodaı que a canas dassucres porque se daa milhor naterra.
 
-Dentro da √ßidade est√° h[~u] mosteiro de padres da companhia de Jesus,
-noqual tem colegio onde ensin√£ latim e casos de cons√ßien√ßia. Afora este
+Dentro da Áidade est· h[~u] mosteiro de padres da companhia de Jesus,
+noqual tem colegio onde ensin„ latim e casos de consÁienÁia. Afora este
 ha sinco igreias pella terra dentro antre os indios forros onde
-Resid[~e] alg[~u]s padres pera fazer[~e] christa√µs e casarem osmesmos
-indios por na√µ estar[~e] am√£√ßebados.
+Resid[~e] alg[~u]s padres pera fazer[~e] christaıs e casarem osmesmos
+indios por naı estar[~e] am„Áebados.
 
-Esta capitania tem hu√£ bahya mui grande e fermosa, he tres legoas de
+Esta capitania tem hu„ bahya mui grande e fermosa, he tres legoas de
 largo e nauegase quinze porella dentro. t[~e] muitas ilhas de terras mui
-vi√ßosas queda√µ infinito algoda√µ, diuidese em muitas partes esta bahia:
-etem muitos bra√ßos e enseadas dentro. Os moradores da terra todos se
-seruem porella c√µ barcos pera suas fazendas.
+viÁosas quedaı infinito algodaı, diuidese em muitas partes esta bahia:
+etem muitos braÁos e enseadas dentro. Os moradores da terra todos se
+seruem porella cı barcos pera suas fazendas.
 
 
 Rios.
 
 Doze legoas desta bahia de todollos sanctos esta h[~u] Rio que se chama
-Tinhar√©e onde se Recolhem muitas embarca√ß√µes [~q] pass√£, pera as outras
-capitanias. Tres legoas por elle dentro est√° h[~u] engenho dum Basti√£
-de ponte, junto doqual esta√µ muitas terras perdidas por falta de
+TinharÈe onde se Recolhem muitas embarcaÁıes [~q] pass„, pera as outras
+capitanias. Tres legoas por elle dentro est· h[~u] engenho dum Basti„
+de ponte, junto doqual estaı muitas terras perdidas por falta de
 moradores, dasquais se consegiria muito porueito se as pouoassem. Mais
-auante seis legoas esta h[~u] Rio que se chama Camam√π em treze graos e
-dous ter√ßos, no qual pod[~e] entrar quais quer naos seguramente. quatro
-sinco legoas porelle dentro. Ao longo deste Rio ha terras mui vi√ßosas e
+auante seis legoas esta h[~u] Rio que se chama Camam˘ em treze graos e
+dous terÁos, no qual pod[~e] entrar quais quer naos seguramente. quatro
+sinco legoas porelle dentro. Ao longo deste Rio ha terras mui viÁosas e
 muitas agoas pera se poder[~e] fazer engenhos dassucre, as quais tambem
-se perdem por na√µ auer gente que as va pouoar. Tem dentro algu√£s ilhas
+se perdem por naı auer gente que as va pouoar. Tem dentro algu„s ilhas
 de terras mui grossas e acomodadas pera se fazerem nellas muita fazenda.
 Neste mesmo Rio ha muito peixe em estremo, e junto delle muita infinita
-ca√ßa de porcos e veados. Aqui se pode fazer hu√£ pouoa√ß√£o onde os
-hom[~e]s viua√µ mui abastados e fa√ßa√µ muitas fazendas. Ha outro que se
-chama o Rio das contas, est√° em quatorze graos e meyo, mas na√µ he
-tangrande, ainda [~q] tambem entr√£o nelle algu√£s embarca√ß√µes. Entodos
-estes Rios ha muita abundan√ßia de peixes e de Ca√ßa.
+caÁa de porcos e veados. Aqui se pode fazer hu„ pouoaÁ„o onde os
+hom[~e]s viuaı mui abastados e faÁaı muitas fazendas. Ha outro que se
+chama o Rio das contas, est· em quatorze graos e meyo, mas naı he
+tangrande, ainda [~q] tambem entr„o nelle algu„s embarcaÁıes. Entodos
+estes Rios ha muita abundanÁia de peixes e de CaÁa.
 
 
 
@@ -256,85 +256,85 @@ estes Rios ha muita abundan√ßia de peixes e de Ca√ßa.
 Cap. 4^.o da capitania dos Ilheos.
 
 
-A Capitania dos Ilheos est√° trinta legoas da Bahia de todollas sanctos
-em quatorze graos e dous ter√ßos. he de francisco giraldez na qual tem
-posto capita√µ de sua ma√µ. Pode auer nella dozentos vezinhos. Tem h[~u]
-Rio onde os nauios entra√µ oqual est√° junto da pouoa√ßa√µ. diuidesse
+A Capitania dos Ilheos est· trinta legoas da Bahia de todollas sanctos
+em quatorze graos e dous terÁos. he de francisco giraldez na qual tem
+posto capitaı de sua maı. Pode auer nella dozentos vezinhos. Tem h[~u]
+Rio onde os nauios entraı oqual est· junto da pouoaÁaı. diuidesse
 emmuitas partes pella terradentro, seru[~e]se os moradores porelhe pera
 suas fazendas em almadias. ha nesta capitania oito engenhos dassucre.
-dentro da pouoa√ß√£o est√° h[~u] mosteiro de Padres da companhia de Jesus
+dentro da pouoaÁ„o est· h[~u] mosteiro de Padres da companhia de Jesus
 [~q] agora se faz nouamente.
 
-Sete legoas da mesma pouoa√ßa√µ pella terra dentro est√° hu√£ lagoa dagoa
-do√ße [~q] tem tres legoas de comprido e tresde largo etem dez quinze
-bra√ßas de fundo e dahi pera sima. Sae della h[~u] Rio pequeno pello qual
-va√µ la ter barcos. t[~e] esta lagoa h[~u] bocal neste Rio tam estreito,
-que apenas cabe h[~u] barco por elle, e depois que anda dentro quasi na√µ
-sabe determinar por onde entrou. Ten, tanta abundan√ßia dagoa que podem
-andar nella quais quer naos por gr√£des que seia√µ a vella: e assy quando
+Sete legoas da mesma pouoaÁaı pella terra dentro est· hu„ lagoa dagoa
+doÁe [~q] tem tres legoas de comprido e tresde largo etem dez quinze
+braÁas de fundo e dahi pera sima. Sae della h[~u] Rio pequeno pello qual
+vaı la ter barcos. t[~e] esta lagoa h[~u] bocal neste Rio tam estreito,
+que apenas cabe h[~u] barco por elle, e depois que anda dentro quasi naı
+sabe determinar por onde entrou. Ten, tanta abundanÁia dagoa que podem
+andar nella quais quer naos por gr„des que seiaı a vella: e assy quando
 v[~e]ta muito, alleuantam se alli ondas tam foriosas como se fosse no
 meyo do mar comtormenta. Tem muita infinidade de peixes grandes e
-pequenos. Criamse nella muitos Peixes bois os quais tem o fo√ßinho como
-de boi e dous cotos com que nada√µ amaneira de bra√ßos, na√µ tem nenhu√£
-escama n[~e] outra fei√ßa√µ de peixe se na√µ o Rabo. Matamnos com
-arpo[~e]s, sa√µ tam gordos e tamanhos [~q] alg[~u]s peza√µ trinta corenta
-arrobas. he h[~u] peixe muito sabroso e totalmente pare√ße carne e assy
-tem o gosto della, assado pare√ße lombo de porco ou de veado, cozese com
-couves e guizase como carne, n[~e] pessoa algu√£ o come que o tenha por
-peixe saluo se o conhe√ßer primeiro. As femeas tem duas mamas pellas
-quais mam√£o os filhos e criamse com leite (cousa [~q] se na√µ acha noutro
-peixe alg[~u]) tambem ha destes emalgu√£s bahias e Rios desta costa, e
-posto que se cri[~e] no mar, custum√£ beber agoa do√ße porisso acodem
+pequenos. Criamse nella muitos Peixes bois os quais tem o foÁinho como
+de boi e dous cotos com que nadaı amaneira de braÁos, naı tem nenhu„
+escama n[~e] outra feiÁaı de peixe se naı o Rabo. Matamnos com
+arpo[~e]s, saı tam gordos e tamanhos [~q] alg[~u]s pezaı trinta corenta
+arrobas. he h[~u] peixe muito sabroso e totalmente pareÁe carne e assy
+tem o gosto della, assado pareÁe lombo de porco ou de veado, cozese com
+couves e guizase como carne, n[~e] pessoa algu„ o come que o tenha por
+peixe saluo se o conheÁer primeiro. As femeas tem duas mamas pellas
+quais mam„o os filhos e criamse com leite (cousa [~q] se naı acha noutro
+peixe alg[~u]) tambem ha destes emalgu„s bahias e Rios desta costa, e
+posto que se cri[~e] no mar, custum„ beber agoa doÁe porisso acodem
 muitos aesta lagoa, ou a parte onde alg[~u] Ribeiro se meta no mar.
 Tambem ha muitos tubaro[~e]s nesta lagoa, e lagartos e muitas cobras, E
-achamse nella outros m√µstros marinhos de diuersas maneiras. Ha muitas
-terras e mui vi√ßosas orredor della, e muita ca√ßa, E neste rio que sae da
-lagoa muita fertilidade de peixe. Finalmente que hu√£ das abastadas
+achamse nella outros mıstros marinhos de diuersas maneiras. Ha muitas
+terras e mui viÁosas orredor della, e muita caÁa, E neste rio que sae da
+lagoa muita fertilidade de peixe. Finalmente que hu„ das abastadas
 terres de mantimentos [~q] que ha no Brasil he esta capitania dos
 ilheos.
 
 
 
 
-Cap. 5.^o du√£ nasca√µ de gentio [~q] se acha nesta Capitania.
+Cap. 5.^o du„ nascaı de gentio [~q] se acha nesta Capitania.
 
 
 Pellas terras desta capitania ate junto do Spiro sancto, se acha h[~u]a
-√ßerta nas√ßa√µ de gentio que veo do √ßerta√µ ha sinco ou seis annos, e dizem
-[~q] outros indios contrarios destes, vier√£o sobrelles a suas terras, e
-os destruira√µ todos e os que fogira√µ sa√µ estes [~q] anda√µ pella costa.
-cham√£se A√Ωmores, a lingoa delles he differente dos outros indios,
-ning[~e] os entende, sa√µ delles tam altos e ta√µ largos do corpo [~q]
-quasi pare√ß[~e] gigantes. Sa√µ mui aluos na√µ tem pare√ßer dos outros
-indios da terra n[~e] tem casas n[~e] pouoa√ßo[~e]s onde mor[~e], viu[~e]
-antre os matos como brutos animais: sa√µ mui for√ßosos em estremo, trazem
-h[~u]s arcos mui compridos e grossos conforme a suas for√ßas e as frechas
+Áerta nasÁaı de gentio que veo do Áertaı ha sinco ou seis annos, e dizem
+[~q] outros indios contrarios destes, vier„o sobrelles a suas terras, e
+os destruiraı todos e os que fogiraı saı estes [~q] andaı pella costa.
+cham„se A˝mores, a lingoa delles he differente dos outros indios,
+ning[~e] os entende, saı delles tam altos e taı largos do corpo [~q]
+quasi pareÁ[~e] gigantes. Saı mui aluos naı tem pareÁer dos outros
+indios da terra n[~e] tem casas n[~e] pouoaÁo[~e]s onde mor[~e], viu[~e]
+antre os matos como brutos animais: saı mui forÁosos em estremo, trazem
+h[~u]s arcos mui compridos e grossos conforme a suas forÁas e as frechas
 da mesma maneira. Estes indios tem feito muito dano aos moradores de
-pois que viera√µ aesta costa e mortos alg[~u]s portugeses e escrauos
-por[~q] sa√µ imigos de toda gente. Na√µ pelleya√µ em campo n[~e] tem animo
+pois que vieraı aesta costa e mortos alg[~u]s portugeses e escrauos
+por[~q] saı imigos de toda gente. Naı pelleyaı em campo n[~e] tem animo
 pera isso, po[~e] se antre omato junto dalg[~u] caminho e tanto [~q]
-passa algem attira√µlhe ao cora√ßa√µ ou aparte onde o matem e na√µ despedem
-frecha que na√µ na empregem. finalmente que na√µ tem Rosto direito
-aning[~e] sena√µ a trei√ßa√µ fazem a sua. As molheres trazem h[~u]s paos
-tostados comque pelleia√µ. Estes indios na√µ viuem sena√µ pella frecha, seu
-mantim[~e]to he ca√ßa bichos e carne humana fazem fogo de baixo do cha√µ
-porna√µ ser[~e] sentidos n[~e] saberem onde anda√µ. Muitas terras vi√ßosas
-esta√µ perdidas junto desta capitania, as quais na√µ sa√µ possuidas dos
-Portugeses por causa destes indios. Na√µ se pode achar Remedio pera os
-destruirem por[~q] na√µ tem morada certa, nem saem nunca dantre o matto:
-E assi quando cuidamos [~q] va√µ fogindo ante qu[~e] os persege enta√µ
-ficam atraz escondidos e atira√µ aos que passa√µ descuidados, Desta
-maneira mata√µ algu√£ gente. todos quantos indios ha no brasil sa√µ seus
-imigos e tem[~e]nos muito porque he gente atrei√ßoada. E assy onde os ha
-nenh[~u] morador vai a sua fazenda por terra [~q] na√µ leue quinze vinte
-escrauos consigo de arcos e frechas. Estes Aymores s√£o mui feros e
-crueis, na√µ se pode c√µ pallauras encare√ßer a dureza desta g[~e]te. Na√µ
-anda√µ todos juntos, derramamse por muitas partes, equando sequerem
-ajuntar assubi√£ como passaros ou como bogios demaneira que h[~u]s aos
-outros se entendem e se conhe√ß[~e]. Tambem os portugeses mata√µ alg[~u]s
+passa algem attiraılhe ao coraÁaı ou aparte onde o matem e naı despedem
+frecha que naı na empregem. finalmente que naı tem Rosto direito
+aning[~e] senaı a treiÁaı fazem a sua. As molheres trazem h[~u]s paos
+tostados comque pelleiaı. Estes indios naı viuem senaı pella frecha, seu
+mantim[~e]to he caÁa bichos e carne humana fazem fogo de baixo do chaı
+pornaı ser[~e] sentidos n[~e] saberem onde andaı. Muitas terras viÁosas
+estaı perdidas junto desta capitania, as quais naı saı possuidas dos
+Portugeses por causa destes indios. Naı se pode achar Remedio pera os
+destruirem por[~q] naı tem morada certa, nem saem nunca dantre o matto:
+E assi quando cuidamos [~q] vaı fogindo ante qu[~e] os persege entaı
+ficam atraz escondidos e atiraı aos que passaı descuidados, Desta
+maneira mataı algu„ gente. todos quantos indios ha no brasil saı seus
+imigos e tem[~e]nos muito porque he gente atreiÁoada. E assy onde os ha
+nenh[~u] morador vai a sua fazenda por terra [~q] naı leue quinze vinte
+escrauos consigo de arcos e frechas. Estes Aymores s„o mui feros e
+crueis, naı se pode cı pallauras encareÁer a dureza desta g[~e]te. Naı
+andaı todos juntos, derramamse por muitas partes, equando sequerem
+ajuntar assubi„ como passaros ou como bogios demaneira que h[~u]s aos
+outros se entendem e se conheÁ[~e]. Tambem os portugeses mataı alg[~u]s
 delles, e tem muitos destruidos, principalmente nesta capitania dos
-ilheos, eguarda√µse muito delles por que ja sabem suas manhas e
-conhe√ß[~e] muibem sua mallicia.
+ilheos, eguardaıse muito delles por que ja sabem suas manhas e
+conheÁ[~e] muibem sua mallicia.
 
 
 
@@ -342,16 +342,16 @@ conhe√ß[~e] muibem sua mallicia.
 Cap. 6. da Capitania de Porto seguro.
 
 
-A capitania de Porto seguro est√° trinta legoas dos jlheos em dezaseis
-graos e me√Ωo. He do Duque daueiro, na qual tem posto capita√µ de sua ma√µ.
-Tem tres pouoa√ßo[~e]s a prin√ßipal he porto seguro que est√° junto do
-porto onde os nauios entra√µ. outra est√° dahi hu√£ legoa [~q] se chama
-sancto amaro outra Sancta Cruz que est√° dahi quatro legoas pera o norte.
+A capitania de Porto seguro est· trinta legoas dos jlheos em dezaseis
+graos e me˝o. He do Duque daueiro, na qual tem posto capitaı de sua maı.
+Tem tres pouoaÁo[~e]s a prinÁipal he porto seguro que est· junto do
+porto onde os nauios entraı. outra est· dahi hu„ legoa [~q] se chama
+sancto amaro outra Sancta Cruz que est· dahi quatro legoas pera o norte.
 pode auer nesta capitania dozentos e vinte vezinhos. Tem sinco engenhos
 dassucre. Ha nella h[~u] mosteiro de padres da companhia de Jesus.
-Tambem chega√µ aesta capitania os Aymor√©s e fazem nella dano aos
-moradores como nos ilheos. he terra mui abastada de ca√ßa, e de peixes
-que mata√µ no Rio que est√° junto da pouoaca√µ.
+Tambem chegaı aesta capitania os AymorÈs e fazem nella dano aos
+moradores como nos ilheos. he terra mui abastada de caÁa, e de peixes
+que mataı no Rio que est· junto da pouoacaı.
 
 
 
@@ -359,33 +359,33 @@ que mata√µ no Rio que est√° junto da pouoaca√µ.
 Cap. 7.^o da Capitania do spirito sancto.
 
 
-A Capitania do spirito sancto est√° sinco[~e]ta, legoasde Porto seguro
-em vinte graos, da qual he capita√µ e gouernador Vasco fernandes
+A Capitania do spirito sancto est· sinco[~e]ta, legoasde Porto seguro
+em vinte graos, da qual he capitaı e gouernador Vasco fernandes
 coutinho. Tem h[~u] engenho somente, tira se delle omilhor assucre [~q]
-ha entodo Brasil. Ha nella muito algoda√µ e pao do brasil. Pode ter ate
-cento e oitenta vezinhos, Ha dentro da pouoa√ßa√µ h[~u] mosteiro de padres
-da Companhia de Jesus. Tem h[~u] Rio muj grande onde os nauios entra√µ,
-noqual se acha√µ mais peixes bois que noutro nenh[~u] Rio desta Costa. No
-mar junto desta Capitania mata√µ grande copia de peixes grandes E de toda
-maneira, e tambem nomesmo Rio ha muita abundan√ßia delles. Nesta
+ha entodo Brasil. Ha nella muito algodaı e pao do brasil. Pode ter ate
+cento e oitenta vezinhos, Ha dentro da pouoaÁaı h[~u] mosteiro de padres
+da Companhia de Jesus. Tem h[~u] Rio muj grande onde os nauios entraı,
+noqual se achaı mais peixes bois que noutro nenh[~u] Rio desta Costa. No
+mar junto desta Capitania mataı grande copia de peixes grandes E de toda
+maneira, e tambem nomesmo Rio ha muita abundanÁia delles. Nesta
 capitania ha muitas terras e muj largas onde os moradores viu[~e] mui
 abastados assi de mantim[~e]tos da terra como de fazendas. E quando se
 tomou a fortalleza do Rio de Janeiro desta mesma capitania do Spirito
-Sancto sostentara√µ toda gente e prouera√µ sempre de m√£tim[~e]tos
-ne√ßessarios enquanto esteuera√µ na terra os que a defendia√µ.
+Sancto sostentaraı toda gente e proueraı sempre de m„tim[~e]tos
+neÁessarios enquanto esteueraı na terra os que a defendiaı.
 
 
 Rios.
 
-Auante desta capitania em altura de vinte e h[~u] graos est√° o Rio de
+Auante desta capitania em altura de vinte e h[~u] graos est· o Rio de
 paraiba este he mui grande e fermoso e tem infinito peixe. Junto do cabo
-frio [~e] altura de vinte e dous graos est√° a Bahia fermosa naqual se
+frio [~e] altura de vinte e dous graos est· a Bahia fermosa naqual se
 pode fazer h[~u]a capitania de muitos vezinhos onde tambem se perdem
 muitas terras por falta de gente. Outros muitos Rios ha nestas partes
-[~q] deixo descreuer por serem pequenos e na√µ se fazer tanto caso
-delles, n[~e] minha ten√ßa√µ foi outra sena√µ tractar destes mais notaueis
-onde se podem fazer algu√£s pouoa√ßo[~e]s e c√µsegir porueito das terras
-vi√ßosas que poresta costa esta√µ desertas.
+[~q] deixo descreuer por serem pequenos e naı se fazer tanto caso
+delles, n[~e] minha tenÁaı foi outra senaı tractar destes mais notaueis
+onde se podem fazer algu„s pouoaÁo[~e]s e cısegir porueito das terras
+viÁosas que poresta costa estaı desertas.
 
 
 
@@ -393,62 +393,62 @@ vi√ßosas que poresta costa esta√µ desertas.
 Cap. 8.^o da Capitania do Rio de Janeiro.
 
 
-A Capitania do Rio de Janeiro cidade de sam Sebastia√µ est√° sesenta
-legoas do Spirito Sancto em vinte e tres graos e h[~u] ter√ßo, terra
-delRei nosso sn√µr. Pode ter pouco mais ou menos cento e corenta
-vezinhos, agora se come√ßa de pouoar nouamente. Esta he amais fertil e
-vi√ßosa terra que ha no brasil. Tem terras mui singullares e muitas agoas
+A Capitania do Rio de Janeiro cidade de sam Sebastiaı est· sesenta
+legoas do Spirito Sancto em vinte e tres graos e h[~u] terÁo, terra
+delRei nosso snır. Pode ter pouco mais ou menos cento e corenta
+vezinhos, agora se comeÁa de pouoar nouamente. Esta he amais fertil e
+viÁosa terra que ha no brasil. Tem terras mui singullares e muitas agoas
 pera engenhos dassucre. Ha nella muito infinito pao do brasil de que os
 moradores da terra faz[~e] muito porueito. Esta capitania tem h[~u] Rio
 mui largo e fermoso diuide se dentro emmuitas partes, e quantas terras
-esta√µ ao longo delle se podem aporueitar, assy pera Ro√ßas de mantimentos
-como pera canas dassucres e algodo[~e]s, porque sa√µ muj vi√ßosas e
-milhores de quantas ha por toda esta costa. ha nesta √ßidade h[~u]
-mosteiro de padres da companhia de Jesus, os quais tambem augmentara√µ
-muito esta terra e deseia√µ muito vella pouoada de muitos moradores,
-por[~q] sa√µ tomo digo as terras desta capitania mui largas e sabem quam
-porueitosas sa√µ pera toda gente pobre que as for possuir. E por tempo
-ha√µ se de fazer nellas gr√£des fazendas: eosque la forem viuer com esta
-esperan√ßa na√µ se achar√£o enganados.
+estaı ao longo delle se podem aporueitar, assy pera RoÁas de mantimentos
+como pera canas dassucres e algodo[~e]s, porque saı muj viÁosas e
+milhores de quantas ha por toda esta costa. ha nesta Áidade h[~u]
+mosteiro de padres da companhia de Jesus, os quais tambem augmentaraı
+muito esta terra e deseiaı muito vella pouoada de muitos moradores,
+por[~q] saı tomo digo as terras desta capitania mui largas e sabem quam
+porueitosas saı pera toda gente pobre que as for possuir. E por tempo
+haı se de fazer nellas gr„des fazendas: eosque la forem viuer com esta
+esperanÁa naı se achar„o enganados.
 
 
 
 
 
-Cap. 9.^o da Capitania de SanVi√ßente.
+Cap. 9.^o da Capitania de SanViÁente.
 
 
-A Capitania de sanvi√ßente est√° sesenta legoas do Rio de Janeiro em Vinte
-equatro graos, he de pero lopez de sousa, naqual tem posto capita√µ de
-sua ma√µ: esta e o Rio de Janeiro sa√µ as mais frias terras que ha no
+A Capitania de sanviÁente est· sesenta legoas do Rio de Janeiro em Vinte
+equatro graos, he de pero lopez de sousa, naqual tem posto capitaı de
+sua maı: esta e o Rio de Janeiro saı as mais frias terras que ha no
 Brasil, gea nellas em tempo de inuerno quasi como neste Reino. Nesta
-capitania se deu ja trigo, mas na√µ no quer[~e] semear por auer na terra
-outros mantim[~e]tos de menos custo. Tem tres pouoa√ß√µes, e hu√£
-fortalleza [~q] est√° nu√£ ilha junto da terra firme quatro legoas pera
+capitania se deu ja trigo, mas naı no quer[~e] semear por auer na terra
+outros mantim[~e]tos de menos custo. Tem tres pouoaÁıes, e hu„
+fortalleza [~q] est· nu„ ilha junto da terra firme quatro legoas pera
 onorte que se chama Britioga, daqui deffendem esta capitania dos indios
-e fran√ßeses com artelharia que ha na mesma fortalleza. Aprin√ßipal
-pouoa√ßa√µ se chama sanctos onde est√° h[~u] mosteiro de padres da
-companhia de Jesus. Aoutra mais av√£te ao longo do Rio hu√£ legoa he Sam
-Vi√ßente, tambem ha nella outro mostr.^o de padres da companhia. Pella
-terra d[~e]tro dez legoas edificar√£o os mesmos padres hu√£ pouoa√ß√£o antre
+e franÁeses com artelharia que ha na mesma fortalleza. AprinÁipal
+pouoaÁaı se chama sanctos onde est· h[~u] mosteiro de padres da
+companhia de Jesus. Aoutra mais av„te ao longo do Rio hu„ legoa he Sam
+ViÁente, tambem ha nella outro mostr.^o de padres da companhia. Pella
+terra d[~e]tro dez legoas edificar„o os mesmos padres hu„ pouoaÁ„o antre
 os indios que se chama o Campo naqual Viuem muitos moradores, amayor
-parte delles s√£o mamalucos filhos de portugueses e de indias da terra.
+parte delles s„o mamalucos filhos de portugueses e de indias da terra.
 Aqui e nas mais Capitanias tem feito estes padres da companhia grande
-fruito e fazem com que a terra va em muito cre√ßim[~e]to, trabalha√µ por
-fazer christa√µs a muitos indios, e metem muitas pazes antre os hom[~e]s,
-t√£bem faz[~e] Restituir as liberdades de muitos indios que alg[~u]s
+fruito e fazem com que a terra va em muito creÁim[~e]to, trabalhaı por
+fazer christaıs a muitos indios, e metem muitas pazes antre os hom[~e]s,
+t„bem faz[~e] Restituir as liberdades de muitos indios que alg[~u]s
 moradores da terra tem mal Resgatados: assy que sempre acodem aos que se
-desuia√µ do serui√ßo de Deos e de S. A.
+desuiaı do seruiÁo de Deos e de S. A.
 
 Auera nesta capitania quinhentos vezinhos, tem quatro engenhos
-dassucre, E muitas terras vi√ßosas de que os moradores tira√µ muitos
+dassucre, E muitas terras viÁosas de que os moradores tiraı muitos
 mantim[~e]tos e fazenda e viu[~e] todos mui abastados. Estahe a ultima
 Capitania [~q] ha nestas partes do Brasil.
 
 
 
 
-Tractado segundo das cousas que s√£o gerais por toda Costa do Brasil
+Tractado segundo das cousas que s„o gerais por toda Costa do Brasil
 
 
 
@@ -459,42 +459,42 @@ Cap. 1.^o das fazendas da terra
 
 Os moradores desta costa do Brasil todos tem terras de sesmaria dadas e
 Repartidas pellos capita[~e]s da terra, e a primeira cousa que pretendem
-alcansar, sa√µ escrauos pera lhes fazer[~e] e grangear[~e] suas Ro√ßas e
-faz[~e]das por que sem elles n√£o se pode[~e] sustentar na terra: E hu√£
-das cousas por[~q] o Brasil na√µ flore√ße muito mais, he pellos escrauos
-que se alleuantara√µ e fogira√µ pera suas terras, e fogem cada dia: E se
-estes indios na√µ fora√µ tam fogitiuos e mudaueis, n√£o teuera compara√ßa√µ
-a Riqueza do Brasil. As fazendas donde se consige mais porueito sa√µ
-assucres, algodo[~e]s e pao do brasil, c√µ isto fazem pagamento aos
-mercadores que deste Reino lhes leu√£o fazenda porque o dinheiro he pouco
-na terra, e assy vend[~e] e troc√£ h[~u]a mercadoria por outra em seu
-justo pre√ßo. Quantos moradores ha na terra tem Ro√ßas de mantim[~e]tos, e
-v[~e]d[~e] muitas farinhas de pao h[~u]s aos outros, de que tambem tira√µ
+alcansar, saı escrauos pera lhes fazer[~e] e grangear[~e] suas RoÁas e
+faz[~e]das por que sem elles n„o se pode[~e] sustentar na terra: E hu„
+das cousas por[~q] o Brasil naı floreÁe muito mais, he pellos escrauos
+que se alleuantaraı e fogiraı pera suas terras, e fogem cada dia: E se
+estes indios naı foraı tam fogitiuos e mudaueis, n„o teuera comparaÁaı
+a Riqueza do Brasil. As fazendas donde se consige mais porueito saı
+assucres, algodo[~e]s e pao do brasil, cı isto fazem pagamento aos
+mercadores que deste Reino lhes leu„o fazenda porque o dinheiro he pouco
+na terra, e assy vend[~e] e troc„ h[~u]a mercadoria por outra em seu
+justo preÁo. Quantos moradores ha na terra tem RoÁas de mantim[~e]tos, e
+v[~e]d[~e] muitas farinhas de pao h[~u]s aos outros, de que tambem tiraı
 muito porueito.
 
 
-O mais gado que ha nesta costa sa√µ bois e vacas, deste ha muita
-abundan√ßia [~e] todallas capitanias, porque sa√µ as heruas muitas e
-sempre a terra esta cuberta de verdura, ainda que em porto seguro na√µ
-sequer[~e] dar nenh[~u]as vacas sen√£o o primeiro anno, no qual engorda√µ
-tanto que do muito vi√ßo dizem que morr[~e] todas. Cabras e ouelhas ha
-muito poucas ategora, come√ßa√µ de multiplicar nouamente; as cabras se da√µ
+O mais gado que ha nesta costa saı bois e vacas, deste ha muita
+abundanÁia [~e] todallas capitanias, porque saı as heruas muitas e
+sempre a terra esta cuberta de verdura, ainda que em porto seguro naı
+sequer[~e] dar nenh[~u]as vacas sen„o o primeiro anno, no qual engordaı
+tanto que do muito viÁo dizem que morr[~e] todas. Cabras e ouelhas ha
+muito poucas ategora, comeÁaı de multiplicar nouamente; as cabras se daı
 melhor que as ouelhas E parem dous tres filhos de cadauez. fazem os
-moradores da terra muito por esta cria√ß√£o. Tambem ha egoas e cauallos,
-mas ainda sa√µ caros por na√µ auer muitos na terra, leua√µ nos do cabo
-verde pera la eda√µ se muito bem na terra.
+moradores da terra muito por esta criaÁ„o. Tambem ha egoas e cauallos,
+mas ainda saı caros por naı auer muitos na terra, leuaı nos do cabo
+verde pera la edaı se muito bem na terra.
 
 
-Achase tambem por esta costa muito Amber que omar de sy lan√ßa fora as
-mais das vezes quando faz tormenta e sa√µ agoas viuas, enta√µ ha muitas
-pessoas que m√£d√£ seus escrauos pella praya buscallo nos lugares onde
-custuma sair mais vezes, e muitas vezes aconte√ße enrique√ßer[~e] alg[~u]s
-assy do que acha√µ seus escrauos como do que Resgata√µ aos indios forros.
+Achase tambem por esta costa muito Amber que omar de sy lanÁa fora as
+mais das vezes quando faz tormenta e saı agoas viuas, entaı ha muitas
+pessoas que m„d„ seus escrauos pella praya buscallo nos lugares onde
+custuma sair mais vezes, e muitas vezes aconteÁe enriqueÁer[~e] alg[~u]s
+assy do que achaı seus escrauos como do que Resgataı aos indios forros.
 Seg[~u]do a dita e ventura de cada h[~u]. Os panos que nesta terra se
-faz[~e] s√£o dalgoda√µ, todo mais vay deste Reino. E assy ha tambem muitos
-escrauos de guine: estes sa√µ mais seguros [~q] os indios da terra por
-que nunca fog[~e] n[~e] tem pera onde. Ha tambem muita cria√ßa√µ de porcos
-e muitas galinhas adens e patos da terra. Estas sa√µ as fazendas [~q]
+faz[~e] s„o dalgodaı, todo mais vay deste Reino. E assy ha tambem muitos
+escrauos de guine: estes saı mais seguros [~q] os indios da terra por
+que nunca fog[~e] n[~e] tem pera onde. Ha tambem muita criaÁaı de porcos
+e muitas galinhas adens e patos da terra. Estas saı as fazendas [~q]
 possu[~e] os moradores do brasil.
 
 
@@ -504,24 +504,24 @@ Cap. 2.^o dos custumes da terra
 
 
 As pessoas que no brasil querem viuer tanto que se fazem moradores da
-terra por pobres que seia√µ se cada h[~u] alcan√ßar dous pares ou
+terra por pobres que seiaı se cada h[~u] alcanÁar dous pares ou
 meyaduzia descrauos ([~q] pode h[~u] por outro custar pouco mais ou
-menos ate dez cruzados) logo tem Remedio pera sua sostenta√ß√£o por[~q]
-h[~u]s lhe pescam e ca√ßa√µ outros lhe fazem mantimentos e fazenda e assy
-pouco a pouco enRique√ß[~e] os hom[~e]s e viuem honrradam[~e]te na terra
+menos ate dez cruzados) logo tem Remedio pera sua sostentaÁ„o por[~q]
+h[~u]s lhe pescam e caÁaı outros lhe fazem mantimentos e fazenda e assy
+pouco a pouco enRiqueÁ[~e] os hom[~e]s e viuem honrradam[~e]te na terra
 com mais descanso [~q] neste Reino, por[~q] os mesmos escrauos indios da
-terra buscam de comer pera si e pera os senor[~e]s, e desta maneira na√µ
-fazem os hom[~e]s despeza com seus escrauos em m√£timentos n[~e] com
+terra buscam de comer pera si e pera os senor[~e]s, e desta maneira naı
+fazem os hom[~e]s despeza com seus escrauos em m„timentos n[~e] com
 suas pessoas.
 
-A maior parte das camas do Brasil sa√µ Redes, as quais arma√µ nu√£ casa com
-duas cordas e lan√ßa√µse nellas a dormir. este custume tomara√µ dos indios
+A maior parte das camas do Brasil saı Redes, as quais armaı nu„ casa com
+duas cordas e lanÁaıse nellas a dormir. este custume tomaraı dos indios
 da terra.
 
-Os moradores destas capitanias tratamse muito bem e sa√µ mais largos que
+Os moradores destas capitanias tratamse muito bem e saı mais largos que
 a gente deste Reino, assy no comer como no vestir de suas pessoas, e
 folgam dajudar h[~u]s aos outros com seus escrauos e fauorec[~e] muito
-os pobres que come√ß√£oviuer na terra. Isto se custuma nestas partes: e
+os pobres que comeÁ„oviuer na terra. Isto se custuma nestas partes: e
 fazem outras muitas obras pias por onde todos tem Remedio de vida e
 nenh[~u] pobre anda pellas portas a pedir como neste Reino.
 
@@ -531,59 +531,59 @@ nenh[~u] pobre anda pellas portas a pedir como neste Reino.
 Cap. 3.^o das callidades da terra.
 
 
-Ha nestas partes do Brasil seis meses de ver√£o e seis de inuerno: os de
-ver√£o s√£o de setembro ate feuereiro, os de inuerno de mar√ßo ate agosto.
-Assy que quando nesta prouin√ßia do brasil he inuerno c√° nestes Reinos he
-ver√£o, eos dias quasi s[~e]pre sa√µ tamanhos como as noites, hu√£ ora
-som[~e]te cre√ß[~e] emingo√£o. Cursa√µ sempre ventos gerais, no inuerno
-seis meses sul √© sueste no ver√£o nordeste. Sempre correm as agoas com o
-vento por costa, E por isso sena√µ pode nauegar de h[~u]as capitanias
-pera outras se na√µ esperar[~e] por mou√ß√µes pera irem com as agoas e com
-o vento, porque cursa√µ como digo seis meses du√£ parte e seis doutra e
-portanto sa√µ muitas veses as viagens vagarosas e quando v√£o contra tempo
-as embarca√ßo[~e]s corr[~e] muito Risco e arriba√µ as mais das vezes ao
-porto donde saira√µ. Mete se no meyo e na for√ßa deste ver√£o oito dias
-ante os Sanctos hu√£ tormenta de vento sul que dura hu√£ sommana, este he
-mui √ßerto e geral, n[~u]ca se acha, que naquelles dias faltasse. Muitas
-embarca√ß√µes esper√£o por este vento e fazem com elle suas viagens. Esta
-terra sempre he quente quasi t√£to no inuerno como no ver√£o. A vira√ßa√µ do
+Ha nestas partes do Brasil seis meses de ver„o e seis de inuerno: os de
+ver„o s„o de setembro ate feuereiro, os de inuerno de marÁo ate agosto.
+Assy que quando nesta prouinÁia do brasil he inuerno c· nestes Reinos he
+ver„o, eos dias quasi s[~e]pre saı tamanhos como as noites, hu„ ora
+som[~e]te creÁ[~e] emingo„o. Cursaı sempre ventos gerais, no inuerno
+seis meses sul È sueste no ver„o nordeste. Sempre correm as agoas com o
+vento por costa, E por isso senaı pode nauegar de h[~u]as capitanias
+pera outras se naı esperar[~e] por mouÁıes pera irem com as agoas e com
+o vento, porque cursaı como digo seis meses du„ parte e seis doutra e
+portanto saı muitas veses as viagens vagarosas e quando v„o contra tempo
+as embarcaÁo[~e]s corr[~e] muito Risco e arribaı as mais das vezes ao
+porto donde sairaı. Mete se no meyo e na forÁa deste ver„o oito dias
+ante os Sanctos hu„ tormenta de vento sul que dura hu„ sommana, este he
+mui Áerto e geral, n[~u]ca se acha, que naquelles dias faltasse. Muitas
+embarcaÁıes esper„o por este vento e fazem com elle suas viagens. Esta
+terra sempre he quente quasi t„to no inuerno como no ver„o. A viraÁaı do
 vento geral entra ao meyo dia, pouco mais oumenos, he tam fresco este
-v[~e]to e tam frio [~q] na√µ se sente mais calma, e ficam Recreados os
+v[~e]to e tam frio [~q] naı se sente mais calma, e ficam Recreados os
 corpos das pessoas. Dura este vento do mar a te de madrugada, torna
 dalli acalmar outra vez por causa dos vapores da terra [~q] o apagam e
-qu√£do amanhe√ße est√° o ceo todo cuberto de nuuens e as mais das manh√£s
+qu„do amanheÁe est· o ceo todo cuberto de nuuens e as mais das manh„s
 choue nestas partes e a terra fica toda cuberta de neuoa por que tem
 muitos aruoredos e chama a sy todos estes humores. Etanto [~q] este
-geral acalma come√ßa a ventar da terra h[~u] vento brando que nella se
+geral acalma comeÁa a ventar da terra h[~u] vento brando que nella se
 gera, a te que o sol con sua quentura o torna apagar e alimpa tudo outra
-vez e faz ficar odia claro e sereno, entr√£o logo [~e]tra o vento do mar
-acustumado. Este vento da terra he mui perigoso edoentio e se a√ßerta de
-permane√ßer alg[~u]s dias morre muita gente assy portugeses como indios
-da terra, mas quer nosso sn√µr que ac√µte√ßa isto poucas vezes, e tirado
-este mal he esta terra mui sallutifera e de b√µs ares onde as pessoas se
-acha√µ bem despostas e viuem muitos annos prin√ßipalmente os velhos tem
-milhor despossi√ßa√µ e pare√ß[~e] que torm√£ a Renouar e porisso alg[~u]s se
-na√µ quer[~e] tornar a suas patrias temendo que nellas se lhes offere√ßa
-amorte mais √ßedo. os ares de pella manha√£ sa√µ mui frescos e sadios:
-muitas pessoas se custuma√µ alleu√£otar √ßedo por que se aporueitem delles
-enquanto tem esta vertude. A terra em si he lassa e deleixada ach√£ose
-nella os hom[~e]s alg[~u] tanto fracos e mingoados das for√ßas que
-possuem c√° neste Reino por Respeito da quentura e dos mantimentos que
-nella vsa√µ, isto he enquanto as pessoas sa√µ nouas na terra, mas de pois
-[~q] por tempo se acustum√£o fic√£o tam Rijos e bem despostos como se
+vez e faz ficar odia claro e sereno, entr„o logo [~e]tra o vento do mar
+acustumado. Este vento da terra he mui perigoso edoentio e se aÁerta de
+permaneÁer alg[~u]s dias morre muita gente assy portugeses como indios
+da terra, mas quer nosso snır que acıteÁa isto poucas vezes, e tirado
+este mal he esta terra mui sallutifera e de bıs ares onde as pessoas se
+achaı bem despostas e viuem muitos annos prinÁipalmente os velhos tem
+milhor despossiÁaı e pareÁ[~e] que torm„ a Renouar e porisso alg[~u]s se
+naı quer[~e] tornar a suas patrias temendo que nellas se lhes offereÁa
+amorte mais Áedo. os ares de pella manha„ saı mui frescos e sadios:
+muitas pessoas se custumaı alleu„otar Áedo por que se aporueitem delles
+enquanto tem esta vertude. A terra em si he lassa e deleixada ach„ose
+nella os hom[~e]s alg[~u] tanto fracos e mingoados das forÁas que
+possuem c· neste Reino por Respeito da quentura e dos mantimentos que
+nella vsaı, isto he enquanto as pessoas saı nouas na terra, mas de pois
+[~q] por tempo se acustum„o fic„o tam Rijos e bem despostos como se
 aquella terra fora sua mesma patria. Manda se dar nesta terra aos
-infermos carne de porco, pera qual quer doen√ßa he porueitosa e na√µ faz
-mal a nenhu√£ pessoa: o peixe t√£bem tem a mesma callidade e poem muita
-sustan√ßia aos doentes. Esta terra he mui fertil e vi√ßosa, toda cuberta
-de altissimos e frondosos aruoredos permane√ße sempre a verdura nella
-inuerno e vera√µ, isto causa chouerlhe muitas vezes e na√µ auer frio que
+infermos carne de porco, pera qual quer doenÁa he porueitosa e naı faz
+mal a nenhu„ pessoa: o peixe t„bem tem a mesma callidade e poem muita
+sustanÁia aos doentes. Esta terra he mui fertil e viÁosa, toda cuberta
+de altissimos e frondosos aruoredos permaneÁe sempre a verdura nella
+inuerno e veraı, isto causa chouerlhe muitas vezes e naı auer frio que
 offenda ao que produz a terra. Ha por baixo destes aruoredos grande mato
-e muj basto e detalmaneira est√° escuro e serrado em partes que nunca
-parte√ßipa o cha√µ da qu[~e]tura n[~e] da claridade do sol, e assy est√°
-sempre humido e man√£do agoa de s√Ω. As agoas que na terra se bebem sa√µ
-mui sadias e sabrosas, por muita [~q] se beba na√µ prejudica a saude da
-pessoa, a mais della se torna logo a suar e fica o corpo desaliu√°do e
-sa√µ. Finalm[~e]te que he esta terra t√£ delleitosa e temperada [~q]
+e muj basto e detalmaneira est· escuro e serrado em partes que nunca
+parteÁipa o chaı da qu[~e]tura n[~e] da claridade do sol, e assy est·
+sempre humido e man„do agoa de s˝. As agoas que na terra se bebem saı
+mui sadias e sabrosas, por muita [~q] se beba naı prejudica a saude da
+pessoa, a mais della se torna logo a suar e fica o corpo desaliu·do e
+saı. Finalm[~e]te que he esta terra t„ delleitosa e temperada [~q]
 n[~u]ca nella se sente frio n[~e] quentura sobeja.
 
 
@@ -592,66 +592,66 @@ n[~u]ca nella se sente frio n[~e] quentura sobeja.
 Cap. 4.^o dos mantimentos da terra.
 
 
-Nestas partes do Brasil n√£o seme√£o trigo nem se da outro mantimento
-alg[~u] deste Reino. o que la se come em lugar de pa√µ he farinha de pao:
-Esta se faz da Raiz du√£ pranta que se chama mandioca, aqual he como
-jnhame. E tanto que se tira de baixo da terra, est√° cortindo se em agoa
-tres quatro dias E depois de cortida piza√µ na ou Rella√µ na muito bem e
+Nestas partes do Brasil n„o seme„o trigo nem se da outro mantimento
+alg[~u] deste Reino. o que la se come em lugar de paı he farinha de pao:
+Esta se faz da Raiz du„ pranta que se chama mandioca, aqual he como
+jnhame. E tanto que se tira de baixo da terra, est· cortindo se em agoa
+tres quatro dias E depois de cortida pizaı na ou Rellaı na muito bem e
 espremem na da quelle sumo de talmaneira que fique bem escorrida por[~q]
 he aquella agoa que sae della tam pessonhenta que qualquer pessoa ou
 animal que a beber logo naquelle instante morre: assy que de pois de a
 terem deste modo curada, poem h[~u] alguidar grande sobre o fogo e como
-se aquenta, bota√µ aquella mandioca nelle E por espa√ßo de meya ora est√°
-naquella quentura cozendose, dally atira√µ E fica temperada pera se
-comer. ha todauia farinha de duas maneiras hu√£ se chama de gerra, E
+se aquenta, botaı aquella mandioca nelle E por espaÁo de meya ora est·
+naquella quentura cozendose, dally atiraı E fica temperada pera se
+comer. ha todauia farinha de duas maneiras hu„ se chama de gerra, E
 outra fresca, a de gerra he muito seca, fazemna desta maneira peradurar
-muito e na√µ sedanar: afresca he mais branda e t[~e] mais sustan√ßia,
-finalmente que na√µ he ta√µ aspera como a outra, mas na√µ dura mais que
+muito e naı sedanar: afresca he mais branda e t[~e] mais sustanÁia,
+finalmente que naı he taı aspera como a outra, mas naı dura mais que
 dous tres dias como passada qui logo se dana. Desta mesma mandioca fazem
-outra maneira de mantimentos que se chama√µ beiju√∫s, sa√µ mui aluos e
-mais grossos [~q] obreas: destes vsa√µ muito os moradores da terra porque
-sa√µ mais sabrosos e demilhor desista√µ que a farinha. Outra Raiz ha du√£
-pranta que se chama A√Ωpim daqual fazem h[~u]s bollos que pare√ßem pa√µ
+outra maneira de mantimentos que se chamaı beiju˙s, saı mui aluos e
+mais grossos [~q] obreas: destes vsaı muito os moradores da terra porque
+saı mais sabrosos e demilhor desistaı que a farinha. Outra Raiz ha du„
+pranta que se chama A˝pim daqual fazem h[~u]s bollos que pareÁem paı
 fresco deste Reino e tambem se come assada como batata, de toda maneira
 se acha. nella m^{to} gosto. Tambem ha naterra muito milho zaburro, este
-se daa em todallas capitanias E faz h[~u] pa√µ muito aluo. ha nesta terra
+se daa em todallas capitanias E faz h[~u] paı muito aluo. ha nesta terra
 muita copia de leite de vacas, muito arroz, faua feigo[~e]s muitos
-inhames e batatas, E outros legumes [~q] farta√µ muito a terra. Ha muita
-abundan√ßia de marisco e de peixe portoda esta costa. Com estes
-mantimentos se sustenta√µ os moradores do Brasil sem fazerem gastos nem
+inhames e batatas, E outros legumes [~q] fartaı muito a terra. Ha muita
+abundanÁia de marisco e de peixe portoda esta costa. Com estes
+mantimentos se sustentaı os moradores do Brasil sem fazerem gastos nem
 deminuir[~e] nada em suas faz[~e]das.
 
 
 
 
-Cap. 5.^o da ca√ßa da terra.
+Cap. 5.^o da caÁa da terra.
 
 
-Hu√£ das cousas que sostenta e abasta m^{to} os moradores desta terra do
-Brasil, he amuita ca√ßa que ha nestes matos de muitos generos e de
-diversas maneiras, aqual os mesmos indios da terra mata√µ assy com
-frechas como por industriade seus lassos e fojos onde custum√£o tomar
+Hu„ das cousas que sostenta e abasta m^{to} os moradores desta terra do
+Brasil, he amuita caÁa que ha nestes matos de muitos generos e de
+diversas maneiras, aqual os mesmos indios da terra mataı assy com
+frechas como por industriade seus lassos e fojos onde custum„o tomar
 amaior parte della.
 
 Ha muitos veados e muita somma de porcos montezes de muitas castas.
-H[~u]s pequenos ha naterra que tem as √ßedas mui grossas, asperas e
+H[~u]s pequenos ha naterra que tem as Áedas mui grossas, asperas e
 crespas, estes tem o embigo nas costas, matam se muitos delles, e
-doutros grandes que na√µ sa√µ desta callidade. Ha muitas antas que quasi
-sa√µ tamanhas como vacas e pas√ßem heruas como outro gado qualquer, sua
+doutros grandes que naı saı desta callidade. Ha muitas antas que quasi
+saı tamanhas como vacas e pasÁem heruas como outro gado qualquer, sua
 carne t[~e] o sabor como de vaca: a pelle deste animal he mui grossa e
 Rija. Ha tambem coelhos mas tem as orelhas doutra maneira mais pequenas
-e Redondas. Ha outros animais maiores que lebres que se chama√µ pacas,
+e Redondas. Ha outros animais maiores que lebres que se chamaı pacas,
 tambem tem carne m^{to} sabrosa. H[~u]s bichos ha nesta terra [~q]
-tambem se com[~e] e se tem pella milhor ca√ßa que ha nomatto. cham√£olhes
-Tat√∫s sa√µ tamanhos como coelhos E tem h[~u] casco amaneira de lagosta
-como de cagado, mas he Repartido em muitas juntas como laminas, pare√ße
+tambem se com[~e] e se tem pella milhor caÁa que ha nomatto. cham„olhes
+Tat˙s saı tamanhos como coelhos E tem h[~u] casco amaneira de lagosta
+como de cagado, mas he Repartido em muitas juntas como laminas, pareÁe
 totalmente h[~u] caualo armado, tem h[~u] Rabo do mesmo casco comprido,
-o fo√ßinho he como de leita√µ, e na√µ bota mais fora do casco [~q] a
-cabe√ßa, tem as pernas baixas E cria√µ se em couas a carne delles tem o
-sabor quasi como de gallinha. Esta ca√ßa he muito estimada na terra. ha
-tambem muitas gallinhas de mato que os indios mata√µ c√µ frechas, e
+o foÁinho he como de leitaı, e naı bota mais fora do casco [~q] a
+cabeÁa, tem as pernas baixas E criaı se em couas a carne delles tem o
+sabor quasi como de gallinha. Esta caÁa he muito estimada na terra. ha
+tambem muitas gallinhas de mato que os indios mataı cı frechas, e
 outras muitas aues mui gordas e sabrosas milhores [~q] pordizes. Desta E
-doutra muita ca√ßa ha no brasil m^{ta} ab[~u]dan√ßia.
+doutra muita caÁa ha no brasil m^{ta} ab[~u]danÁia.
 
 
 
@@ -659,266 +659,266 @@ doutra muita ca√ßa ha no brasil m^{ta} ab[~u]dan√ßia.
 Cap. 6.^o das fruitas da terra.
 
 
-Hu√£ fruita se da nesta terra do Brasil muito sabrosa e mais prezada de
-q[~u]atas ha. Cria nu√£ pranta, humilde iunto do cha√µ, a qual tem hu√£s
-pencas como cardo, a fruita della nas√ße como alcachofres e pare√ßem
-naturalmente pinhas e sa√µ do mesmo tamanho, chama√µ lhes Ananaszes. Ede
-pois de maduros tem h[~u] cheiro muito ex√ßellente, colhemnos como sa√µ de
-vez, e c√µ hu√£ faca tira√µ lhes aquella casca grossa e fazem nos en
-talhadas e desta maneira, se com[~e]. ex√ßedem no gosto aquantas fruitas
-ha neste Reino, e fazem todos tanto por esta fruita, [~q] manda√µ prantar
-Ro√ßas delles como de cardaes; aeste nosso Reino trazem m^{tos} destes
+Hu„ fruita se da nesta terra do Brasil muito sabrosa e mais prezada de
+q[~u]atas ha. Cria nu„ pranta, humilde iunto do chaı, a qual tem hu„s
+pencas como cardo, a fruita della nasÁe como alcachofres e pareÁem
+naturalmente pinhas e saı do mesmo tamanho, chamaı lhes Ananaszes. Ede
+pois de maduros tem h[~u] cheiro muito exÁellente, colhemnos como saı de
+vez, e cı hu„ faca tiraı lhes aquella casca grossa e fazem nos en
+talhadas e desta maneira, se com[~e]. exÁedem no gosto aquantas fruitas
+ha neste Reino, e fazem todos tanto por esta fruita, [~q] mandaı prantar
+RoÁas delles como de cardaes; aeste nosso Reino trazem m^{tos} destes
 ananazes em conserua. Outra fruyta se cria n[~u]as aruores grandes,
-estas sena√µ pranta√µ, nas√ßem pello mato muitas, esta fruita depois de
-madura he muito amarella, sa√µ como p√©ros Repinaldos compridos, cham√£o
+estas senaı prantaı, nasÁem pello mato muitas, esta fruita depois de
+madura he muito amarella, saı como pÈros Repinaldos compridos, cham„o
 lhe cajuus, tem muito sumo, e cria se na ponta desta fruita de fora
-h[~u] caro√ßo como castanha, e nas√ße diante da mesma fruita, oqual tem a
-casca mais amargosa que fel, e se tocar[~e] com ella nos bei√ßos dura
+h[~u] caroÁo como castanha, e nasÁe diante da mesma fruita, oqual tem a
+casca mais amargosa que fel, e se tocar[~e] com ella nos beiÁos dura
 muito aquelle amargor e faz empollar toda boca, pello contrario este
-caro√ßo assado, he muito mais gostoso [~q] am[~e]doa sa√µ de sua natureza
-mui quentes em estremo. ha naterra tantos destes caro√ßos que os medem
-aos alqueires. Tambem ha hu√£ fruita que lhe chama√µ bananas, e pella
-lingoa dos indios pacouas, ha na terra muita abundan√ßia dellas:
-pare√ß[~e] se na fei√ßa√µ com pepinos, nas√ß[~e] nu√£s aruores mui tenrras
-ena√µ sa√µ muito altas, n[~e] tem Ramos sena√µ folhas mui comprimidas e
+caroÁo assado, he muito mais gostoso [~q] am[~e]doa saı de sua natureza
+mui quentes em estremo. ha naterra tantos destes caroÁos que os medem
+aos alqueires. Tambem ha hu„ fruita que lhe chamaı bananas, e pella
+lingoa dos indios pacouas, ha na terra muita abundanÁia dellas:
+pareÁ[~e] se na feiÁaı com pepinos, nasÁ[~e] nu„s aruores mui tenrras
+enaı saı muito altas, n[~e] tem Ramos senaı folhas mui comprimidas e
 largas. Estas bananas criamse em cachos alg[~u] se acha [~q] tem de
 cento e sincoenta pera cima, e muitas vezes he tam grande o pezo dellas
-que faz quebrar a aruore pello meyo. Como sa√µ de vez colhem estes
-cachos, e depois de colhidos amadure√ß[~e], etanto [~q] que estas aruores
-da√µ hu√£ fruita, logo as corta√µ por que na√µ frutifi√ßa√µ mais que a
-primeira vez, E torna√µ arrebentar pellos pees outras nouas. Esta he hu√£
-fruita mui sabrosa e das bo√£s que ha na terra, tem hu√£ pelle como de
-figo aqual lhes lan√ßa√µ fora quando as quer[~e] comer E se com[~e] muitas
-dellas fazem damno a saude E causa√µ febre aqu[~e] se desm√£da nellas. E
-assadas maduras sa√µ muito sadias E manda√µ se dar aos infermos. C√µ esta
+que faz quebrar a aruore pello meyo. Como saı de vez colhem estes
+cachos, e depois de colhidos amadureÁ[~e], etanto [~q] que estas aruores
+daı hu„ fruita, logo as cortaı por que naı frutifiÁaı mais que a
+primeira vez, E tornaı arrebentar pellos pees outras nouas. Esta he hu„
+fruita mui sabrosa e das bo„s que ha na terra, tem hu„ pelle como de
+figo aqual lhes lanÁaı fora quando as quer[~e] comer E se com[~e] muitas
+dellas fazem damno a saude E causaı febre aqu[~e] se desm„da nellas. E
+assadas maduras saı muito sadias E mandaı se dar aos infermos. Cı esta
 fruita se mantem amaior parte dos escrauos desta terra, por[~q] assadas
-verdes passa√µ por mantim[~e]to Equasi tem sustan√ßia de pa√µ. Ha duas
-callidades desta fruita, hu√£s sa√µ pequenas como figos brojassotes as
-outras sa√µ maiores e mais compridas. Estas pequenas tem dentro em si hu√£
-cousa estranha aqual he que quando as corta√µ pello meyo com hu√£ faca ou
+verdes passaı por mantim[~e]to Equasi tem sustanÁia de paı. Ha duas
+callidades desta fruita, hu„s saı pequenas como figos brojassotes as
+outras saı maiores e mais compridas. Estas pequenas tem dentro em si hu„
+cousa estranha aqual he que quando as cortaı pello meyo com hu„ faca ou
 porqualquer parte que seja acha se nellas h[~u] signal amaneira de
-cru√ßifixo, E assy totalmente o pare√ße. Tambem ha hu√£ fruita [~q] se
-chama Aracases, sa√µ como nespras postoque coma√µ muita na√µ faz[~e] mal a
+cruÁifixo, E assy totalmente o pareÁe. Tambem ha hu„ fruita [~q] se
+chama Aracases, saı como nespras postoque comaı muita naı faz[~e] mal a
 saude. Ha muita pimenta da terra come se verde, queima muito em grande
 maneira. Outras muitas fruitas ha pello mato d[~e]tro de diuersas
-callidades, E sa√µ tantas que ja se achara√µ pella terra dentro algu√£s
-pessoas e sostentara√µ se c√µ ellas muitos dias sem outro mantimento
-alg[~u]. Estas que aqui escreuo sa√µ asque os portugeses tem antre sy em
-mais estima E asmelhores da terra. Algu√£s fruitas deste Reino se da√µ
+callidades, E saı tantas que ja se acharaı pella terra dentro algu„s
+pessoas e sostentaraı se cı ellas muitos dias sem outro mantimento
+alg[~u]. Estas que aqui escreuo saı asque os portugeses tem antre sy em
+mais estima E asmelhores da terra. Algu„s fruitas deste Reino se daı
 nestas partes-s-muitos mello[~e]s, pepinos e figos de muitas castas,
-Rom√£s m^{tas} parreiras queda√µ huuas duas tres vezes no anno E tanto que
-hu√£s se acaba√µ, come√ßa√µ logo outras nouam[~e]te, E desta maneira n[~u]ca
+Rom„s m^{tas} parreiras quedaı huuas duas tres vezes no anno E tanto que
+hu„s se acabaı, comeÁaı logo outras nouam[~e]te, E desta maneira n[~u]ca
 esta o brasil sem fruitas. De limo[~e]s e laranjas ha muita infinidade:
-da√µ se muito na terra estas aruores de espinho e multiplica√µ mais que as
+daı se muito na terra estas aruores de espinho e multiplicaı mais que as
 outras.
 
 
 
 
 
-Cap. 7.^o da Condi√ßa√µ E Custumes dos indios da terra.
+Cap. 7.^o da CondiÁaı E Custumes dos indios da terra.
 
 
-Na√µ se pode numerar nem compr[~e]der a multida√µ do barbaro gentio que
+Naı se pode numerar nem compr[~e]der a multidaı do barbaro gentio que
 semeou a natureza por toda esta terra do brasil por que ningem pode
-pello serta√µ dentro caminhar seguro, n[~e] passar por terra onde na√µ
-ache pouoa√ß√µes de indios armados contra todas as na√ßo[~e]s humanas,
-Eassi como sa√µ muitos permittio Deos que fossem contrarios h[~u]s dos
+pello sertaı dentro caminhar seguro, n[~e] passar por terra onde naı
+ache pouoaÁıes de indios armados contra todas as naÁo[~e]s humanas,
+Eassi como saı muitos permittio Deos que fossem contrarios h[~u]s dos
 outros, E que ouuesse antrelles grandes odios E discordias porque se
-assy na√µ fosse os portugeses na√µ poder[~i]a viuer na terra nem seria
+assy naı fosse os portugeses naı poder[~i]a viuer na terra nem seria
 possiuel, conquistar tamanho poder de gente, Auia muitos destes indios
 pella costa Junto das capitanias, tudo enfim estaua cheo delles quando
-come√ßar√£o os Portugeses apouoalla terra, mas por[~q] os mesmos indios se
-alleu√£otaua√µ contra elles E fazia√µ lhes muitas trei√ßo[~e]s, os
-gouernadores E capita[~e]s da terra destruira√µ nos pouco apouco e
-matara√µ muitos delles, outros fogira√µ pera o serta√µ, E assy ficou a
-costa despouoada de gentio aolongo das capitanias. Junto dellas ficara√µ
-alg[~u]as aldeas destes indios que sa√µde paz e amigos dos portugeses.
+comeÁar„o os Portugeses apouoalla terra, mas por[~q] os mesmos indios se
+alleu„otauaı contra elles E faziaı lhes muitas treiÁo[~e]s, os
+gouernadores E capita[~e]s da terra destruiraı nos pouco apouco e
+mataraı muitos delles, outros fogiraı pera o sertaı, E assy ficou a
+costa despouoada de gentio aolongo das capitanias. Junto dellas ficaraı
+alg[~u]as aldeas destes indios que saıde paz e amigos dos portugeses.
 
-Alingoa deste gentio toda pella costa he hu√£: care√ße de tres
-letras-s-na√µ se acha nella f, nem L, n[~e] R, cousa digna despanto,
-por[~q] assy na√µtem se n[~e] lei, n[~e] Rei e desta maneira viu[~e] sem
-Justi√ßa e desordenadam^{te}. Estes indios anda√µ n[~u]s sem cobertura
-algu√£ assi machos como femeas na√µ cobr[~e] parte nenh[~u] de seu corpo e
+Alingoa deste gentio toda pella costa he hu„: careÁe de tres
+letras-s-naı se acha nella f, nem L, n[~e] R, cousa digna despanto,
+por[~q] assy naıtem se n[~e] lei, n[~e] Rei e desta maneira viu[~e] sem
+JustiÁa e desordenadam^{te}. Estes indios andaı n[~u]s sem cobertura
+algu„ assi machos como femeas naı cobr[~e] parte nenh[~u] de seu corpo e
 trazem descuberto quanto a natureza lhes deu. Viu[~e] todos em aldeas,
-pode auer em cada hu√£ sete oito casas, asquais sa√µ compridas. feitas
-amaneira de cordoarias e cadahu√£ dellas est√° chea de gente du√£ parte e
-doutra, e cada h[~u] por sy tem sua estan√ßia e sua Rede armada emque
-dorme e assy esta√µ todos h[~u]s junto dos outros por ordem, e pello meyo
-da casa fica h[~u] caminho aberto pera se seruir[~e]. Na√µ ha comodigo
-antreelles nenh[~u] Rei n[~e] justi√ßa som[~e]te em cada aldea tem h[~u]
-prin√ßipal [~q] he como capita√µ aoqual obede√ß[~e] por vontade e na√µ por
-for√ßa, morrendo este prin√ßipal fica seu filho no mesmo lugar na√µ serue
-doutra cousa se na√µ dir c√µ elles a gerra e conselhallos como seha√µ dauer
-na pelleja, mas na√µ castiga seus erros n[~e] manda sobrelles cousa algu√£
-contra sua vontade. Este prin√ßipal tem tres quatro molheres, a
+pode auer em cada hu„ sete oito casas, asquais saı compridas. feitas
+amaneira de cordoarias e cadahu„ dellas est· chea de gente du„ parte e
+doutra, e cada h[~u] por sy tem sua estanÁia e sua Rede armada emque
+dorme e assy estaı todos h[~u]s junto dos outros por ordem, e pello meyo
+da casa fica h[~u] caminho aberto pera se seruir[~e]. Naı ha comodigo
+antreelles nenh[~u] Rei n[~e] justiÁa som[~e]te em cada aldea tem h[~u]
+prinÁipal [~q] he como capitaı aoqual obedeÁ[~e] por vontade e naı por
+forÁa, morrendo este prinÁipal fica seu filho no mesmo lugar naı serue
+doutra cousa se naı dir cı elles a gerra e conselhallos como sehaı dauer
+na pelleja, mas naı castiga seus erros n[~e] manda sobrelles cousa algu„
+contra sua vontade. Este prinÁipal tem tres quatro molheres, a
 primeirat[~e] em mais conta, e faz della mais caso que das outras, Isto
-tem por estado e por honrra. Na√µ adora√µ em cousa algu√£ n[~e] tem pera sy
-que ha na outra vida gloria pera os b√µs, e pena pera os maos, tudo
-cuida√µ que se acaba nesta e que as almas fene√ßem com os corpos, e assi
+tem por estado e por honrra. Naı adoraı em cousa algu„ n[~e] tem pera sy
+que ha na outra vida gloria pera os bıs, e pena pera os maos, tudo
+cuidaı que se acaba nesta e que as almas feneÁem com os corpos, e assi
 viuem bestialm[~e]te sem ter conta n[~e] pezo, n[~e] medida.
 
 
-Estes indios sa√µ mui bellicosos e tem sempre grandes gerras h[~u]s
+Estes indios saı mui bellicosos e tem sempre grandes gerras h[~u]s
 contra os outros nunca se acha nelles paz n[~e] he possiuel auer
-antrelles amizade porque hu√£s nas√ßo[~e]s pelleja√µ contra outras e
-mata√µse muitos delles, e assy vai cre√ßendo o odio cada vez mais e fica√µ
-imigos verdadeiros perpetuamente. As armas com que pelleja√µ sa√µ arcos e
-frechas a cousa que apontar[~e] na√µ na erra√µ, sa√µ mui √ßertos com esta
-arma e mui temidos nagerra, anda√µ sempre nella exer√ßitados. e sa√µ mui
-inclinados apellejar e muy vallentes e esfor√ßados contra seus
-aduersarios, e assy pare√ße cousa estranha ver dous tres mil hom[~e]s
-nus d[~u]a parte e doutra c√µ grandes assubios e gritta frechando h[~u]s
-aos outros, e enquanto dura esta pelleja n[~u]ca esta√µ com os corpos
-quedos mene√£dose du√£ parte pera outra com muita ligeireza pera que na√µ
-possa√µ apontar n[~e] fazer tiro em pessoa certa algu√£s velhas custuma√µ
-apanharlhes as frechas pello cha√µ e seruillos emquanto pelleja√µ. Gente
-he esta mui atreuida e que teme muito pouco amorte, e quando va√µ agerra
-sempre lhes pare√ße que tem √ßerta a Victoria e que nenh[~u] de sua
-companhia ha de morrer, e qu√£do partem dizem vamos matar sem mais
-considera√ßa√µ e na√µ cuida√µ que ta√µbem podem ser ven√ßidos. Na√µ da√µ vida
-anenh[~u] catiuo todos mata√µ e com[~e], emfim que suas gerras sa√µ mui
-perigosas, e deu[~e] se ter em muita conta por que hu√£ das cousas que
-desbaratou muitos portugeses foi a pouca estima em [~q] tinha√µ agerra
-dos indios e o pouco caso que fazia√µ delles e assy morrera√µ m^{tos}
-miserauelmente por na√µ se aper√ßeber[~e] como comuinha, destes ouue
-muitas mortes desestradas: E isto aconte√ße cada pa√ßo nestas partes.
+antrelles amizade porque hu„s nasÁo[~e]s pellejaı contra outras e
+mataıse muitos delles, e assy vai creÁendo o odio cada vez mais e ficaı
+imigos verdadeiros perpetuamente. As armas com que pellejaı saı arcos e
+frechas a cousa que apontar[~e] naı na erraı, saı mui Áertos com esta
+arma e mui temidos nagerra, andaı sempre nella exerÁitados. e saı mui
+inclinados apellejar e muy vallentes e esforÁados contra seus
+aduersarios, e assy pareÁe cousa estranha ver dous tres mil hom[~e]s
+nus d[~u]a parte e doutra cı grandes assubios e gritta frechando h[~u]s
+aos outros, e enquanto dura esta pelleja n[~u]ca estaı com os corpos
+quedos mene„dose du„ parte pera outra com muita ligeireza pera que naı
+possaı apontar n[~e] fazer tiro em pessoa certa algu„s velhas custumaı
+apanharlhes as frechas pello chaı e seruillos emquanto pellejaı. Gente
+he esta mui atreuida e que teme muito pouco amorte, e quando vaı agerra
+sempre lhes pareÁe que tem Áerta a Victoria e que nenh[~u] de sua
+companhia ha de morrer, e qu„do partem dizem vamos matar sem mais
+consideraÁaı e naı cuidaı que taıbem podem ser venÁidos. Naı daı vida
+anenh[~u] catiuo todos mataı e com[~e], emfim que suas gerras saı mui
+perigosas, e deu[~e] se ter em muita conta por que hu„ das cousas que
+desbaratou muitos portugeses foi a pouca estima em [~q] tinhaı agerra
+dos indios e o pouco caso que faziaı delles e assy morreraı m^{tos}
+miserauelmente por naı se aperÁeber[~e] como comuinha, destes ouue
+muitas mortes desestradas: E isto aconteÁe cada paÁo nestas partes.
 
-Quando estes indios toma√µ alg[~u]s contrarios sellogo comaquelle impito
-os na√µ mata√µ leua√µ nos viuos pera suas aldeas (ou seia√µ portugeses ou
-quaisquer outros indios seus imigos) E tanto que chega√µ a suas casas
-lan√ßa√µ h[~u]a corda muj grossa ao pesco√ßo do catiuo pera que na√µ possa
-fogir, e arma√µ lhe hu√£ Rede em que durma e da√µ lhe h[~u]a india mo√ßa a
+Quando estes indios tomaı alg[~u]s contrarios sellogo comaquelle impito
+os naı mataı leuaı nos viuos pera suas aldeas (ou seiaı portugeses ou
+quaisquer outros indios seus imigos) E tanto que chegaı a suas casas
+lanÁaı h[~u]a corda muj grossa ao pescoÁo do catiuo pera que naı possa
+fogir, e armaı lhe hu„ Rede em que durma e daı lhe h[~u]a india moÁa a
 mais fermosa e honrrada que ha naldea pera [~q] durma com elle, e tambem
-tenha cuidado de o guardar, e na√µ vay pera parte que na√µ no acompanhe.
+tenha cuidado de o guardar, e naı vay pera parte que naı no acompanhe.
 Esta india tem cargo de lhe dar muito bem de comer e beber, e de pois de
 oter[~e] desta maneira sinco ou seis meses ou o tempo que quer[~e]
-determina√µ de o matar, e fazem grandes serimonias e festas aquelles dias
-e aparelha√µ muitos vinhos pera se embebedarem e fazemnos da Raiz du√£
+determinaı de o matar, e fazem grandes serimonias e festas aquelles dias
+e aparelhaı muitos vinhos pera se embebedarem e fazemnos da Raiz du„
 herua [~q] se chama aipim, aqual feru[~e] primeiro e depois de cozida
-mastiga√µ na h[~u]as mo√ßas virgens, e esprememna n[~u]s potes gr√£des e
-dalli atres ou quatro dias o bebem. E o dia que ha√µ matar este catiuo
-pella manha√£ se algu√£ Ribeira est√° junto daldea leua√µ no abanhar nella
-comgr√£des cantares e follias, etanto [~q] chegam com elle a aldea,
+mastigaı na h[~u]as moÁas virgens, e esprememna n[~u]s potes gr„des e
+dalli atres ou quatro dias o bebem. E o dia que haı matar este catiuo
+pella manha„ se algu„ Ribeira est· junto daldea leuaı no abanhar nella
+comgr„des cantares e follias, etanto [~q] chegam com elle a aldea,
 attam no pella cinta com quatro cordas cada h[~u]a pera sua parte e tres
-quatro indios pegados em cada ponta destas e assi o leua√µ ao meyo d[~u]
-terreiro e tira√µ tanto por estas cordas que na√µ se possa bollir pera
-h[~u]a parte n[~e] pera outra, as ma√µs lhe deixa√µ soltas porque folgam
+quatro indios pegados em cada ponta destas e assi o leuaı ao meyo d[~u]
+terreiro e tiraı tanto por estas cordas que naı se possa bollir pera
+h[~u]a parte n[~e] pera outra, as maıs lhe deixaı soltas porque folgam
 de o ver deffender com ellas. Aquelle que o ha de matar empena se
 primeiro com penas de papagayo de muitas coores portodo corpo: ha de ser
-este matador o mais vallente da terra e o mais honrado. Traz na ma√µ hu√£
-espada d[~u] pao mui duro e pezado com que custuma√µ de matar, e chegase
-ao pade√ß[~e]te diz[~e]do lhe muitas cousas e amea√ßandolhe sua gera√ßa√µ
+este matador o mais vallente da terra e o mais honrado. Traz na maı hu„
+espada d[~u] pao mui duro e pezado com que custumaı de matar, e chegase
+ao padeÁ[~e]te diz[~e]do lhe muitas cousas e ameaÁandolhe sua geraÁaı
 que o mesmo ha de fazer a seus parentes, e de pois de oter afrontado com
-muitas pallauras injuriosas dalhe hu√£ gr√£m pancada na cabe√ßa e logo da
-primeira o mata e lha faz[~e] peda√ßos. Est√° hu√£ india velha c√µ h[~u]
-caba√ßo na ma√µ. E assi como elle cae a code muito de pressa com elle a
-meterlho na cabe√ßa pera tomar os meollos eo sange: tudo emfim cozem
-eassa√µ e na√µ fica delle cousaque na√µ coma√µ. Isto he mais por vingan√ßa e
+muitas pallauras injuriosas dalhe hu„ gr„m pancada na cabeÁa e logo da
+primeira o mata e lha faz[~e] pedaÁos. Est· hu„ india velha cı h[~u]
+cabaÁo na maı. E assi como elle cae a code muito de pressa com elle a
+meterlho na cabeÁa pera tomar os meollos eo sange: tudo emfim cozem
+eassaı e naı fica delle cousaque naı comaı. Isto he mais por vinganÁa e
 por odio que por se fartar[~e]. De poisque com[~e] a carne destes
 contrarios ficam nos odios confirmados, e sentem muito esta injuria, e
-por isso anda√µ sempre a vingarse h[~u]s contra os outros. E se amo√ßa
-que dormia com o catiuo fica prenhe aquella crian√ßa que par[~e] de pois
-de criada, mata√µ na e com[~e] na e dizem que aquella menina ou menino
-era seu contrario verdadeiro, e porisso estima√µ muito comerlhe a carne e
-vingar se delle. E porque a ma[~y] sabe o fim que ha√µ de dar aesta
-crian√ßa, muitas vezes quando se sente prenhe mataa dentro da barriga, e
-faz conque moua. E aconte√ße algu√£s vezes affei√ßoar se tanto aeste catiuo
+por isso andaı sempre a vingarse h[~u]s contra os outros. E se amoÁa
+que dormia com o catiuo fica prenhe aquella crianÁa que par[~e] de pois
+de criada, mataı na e com[~e] na e dizem que aquella menina ou menino
+era seu contrario verdadeiro, e porisso estimaı muito comerlhe a carne e
+vingar se delle. E porque a ma[~y] sabe o fim que haı de dar aesta
+crianÁa, muitas vezes quando se sente prenhe mataa dentro da barriga, e
+faz conque moua. E aconteÁe algu„s vezes affeiÁoar se tanto aeste catiuo
 e tomar lhe tanto amor que foge com elle pera sua terra pello liurar da
-morte. E assy alg[~u]s portugeses ha que desta maneira escapara√µ e esta√µ
-oje [~e] dia viuos, e muitos indios que do mesmo modo se saluara√µ, ainda
-que sa√µ alg[~u]s ta√µ brutos que na√µ querem fogir depois de os terem
-presos: porque ouue alg[~u] que estaua ja no terrejro atado pera pade√ßer
-e daua√µ lhe a vida e na√µ quis sena√µ que o matassem, dizendo que seus
-parentes o na√µ teria√µ por Vallente e que todos correria√µ com elle e
-daqui vem na√µ estimar[~e] a morte, e quando chega a quella ora na√µ na
-terem em conta n[~e] mostrar[~e] nenhu√£ tristeza naquelle passo.
-Finalmente [~q] sa√µ estes indios mui deshumanos e crueis, na√µ se mou[~e]
-a nenhu√£ piedade: viuem como brutos animais s[~e] ordem n[~e] con√ßerto
-de hom[~e]s sa√µ muidesonestos e dados a sensuallidade e entreg√£se aos
-vi√ßos como se nelles na√µ ouuera Reza√µ de humanos, ainda que todauia
-sempre tem Resquardo os machos eas femeas em seu ajuntamento e mostr√£
+morte. E assy alg[~u]s portugeses ha que desta maneira escaparaı e estaı
+oje [~e] dia viuos, e muitos indios que do mesmo modo se saluaraı, ainda
+que saı alg[~u]s taı brutos que naı querem fogir depois de os terem
+presos: porque ouue alg[~u] que estaua ja no terrejro atado pera padeÁer
+e dauaı lhe a vida e naı quis senaı que o matassem, dizendo que seus
+parentes o naı teriaı por Vallente e que todos correriaı com elle e
+daqui vem naı estimar[~e] a morte, e quando chega a quella ora naı na
+terem em conta n[~e] mostrar[~e] nenhu„ tristeza naquelle passo.
+Finalmente [~q] saı estes indios mui deshumanos e crueis, naı se mou[~e]
+a nenhu„ piedade: viuem como brutos animais s[~e] ordem n[~e] conÁerto
+de hom[~e]s saı muidesonestos e dados a sensuallidade e entreg„se aos
+viÁos como se nelles naı ouuera Rezaı de humanos, ainda que todauia
+sempre tem Resquardo os machos eas femeas em seu ajuntamento e mostr„
 ter nisto alg[~u]a vergonha. Todos com[~e] carne humana e tem na pella
-milhor iguoaria de quantas pode auer: na√µ de seus amigos com quem elles
-tem paz se na√µ dos contrarios. Tem esta callidade estes indios que de
-qualquer cousa que coma√µ por pequena que seja ha√µ de conuidar com ella
-quanta esteuer[~e] presentes, s√≥ esta proximidade se acha antrelles.
-Com[~e] dequantos bichos secria√µ na terra, outro nenh[~u] engeita√µ por
+milhor iguoaria de quantas pode auer: naı de seus amigos com quem elles
+tem paz se naı dos contrarios. Tem esta callidade estes indios que de
+qualquer cousa que comaı por pequena que seja haı de conuidar com ella
+quanta esteuer[~e] presentes, sÛ esta proximidade se acha antrelles.
+Com[~e] dequantos bichos secriaı na terra, outro nenh[~u] engeitaı por
 pessonhento que seja somente aranha.
 
-Tem estes indios machos por custume arr√£carem toda barba e na√µ
-consent[~e] nenh[~u] cabello em parte algu√£ de seu corpo, saluo na
-cabe√ßa ainda que orredor della por baixo tudo arranca√µ. As femeas preza√µ
+Tem estes indios machos por custume arr„carem toda barba e naı
+consent[~e] nenh[~u] cabello em parte algu„ de seu corpo, saluo na
+cabeÁa ainda que orredor della por baixo tudo arrancaı. As femeas prezaı
 se muito de seus cabellos e trazem nos muito compridos e penteados e as
-mais dellas emnastrados. Os machos custuma√µ trazer[~e] o bei√ßo furado e
-hu√£ pedra no buraco metida por gallantaria outros ha que trazem o Rosto
-todo cheo de buracos e assy pare√ß[~e] mui feos e disformes: isto lhes
-fazem quando sa√µ meninos. Tambem alg[~u]s indios anda√µ pintados portodo
+mais dellas emnastrados. Os machos custumaı trazer[~e] o beiÁo furado e
+hu„ pedra no buraco metida por gallantaria outros ha que trazem o Rosto
+todo cheo de buracos e assy pareÁ[~e] mui feos e disformes: isto lhes
+fazem quando saı meninos. Tambem alg[~u]s indios andaı pintados portodo
 corpo, pello qual faz[~e] h[~u]s Riscos de muitas maneiras e po[~e]lhes
-hu√£ √ßerta tinta e ficam sempre os mesmos Riscos escritos na carne: isto
-na√µ traz se na√µ qu[~e] tem feito algu√£ valentia. E assi tambem machos
-como femeas custuma√µ atingirse c√µ o sumo du√£ fruita que se chama
+hu„ Áerta tinta e ficam sempre os mesmos Riscos escritos na carne: isto
+naı traz se naı qu[~e] tem feito algu„ valentia. E assi tambem machos
+como femeas custumaı atingirse cı o sumo du„ fruita que se chama
 genipapo que he verde quando se piza e depois que opo[~e] no corpo e se
-inxuga fica mui negro e por muito que se laue n√£o se tira se na√µ aos
+inxuga fica mui negro e por muito que se laue n„o se tira se naı aos
 noue dias, isto tudo faz[~e] por gallantaria.
 
-Estas indias guarda√µ castidade a seus maridos e sa√µ muito suas amigas
-porque tambem elles sofrem mal adulterios. Casa√µ os mais delles com suas
-sobrinhas filhas de seus irm√£os ou irm√£as, estas sa√µ suas molheres
-verdadeiras e na√µ lhas podem negar seus pais.
+Estas indias guardaı castidade a seus maridos e saı muito suas amigas
+porque tambem elles sofrem mal adulterios. Casaı os mais delles com suas
+sobrinhas filhas de seus irm„os ou irm„as, estas saı suas molheres
+verdadeiras e naı lhas podem negar seus pais.
 
-Alg[~u]as indias se ach√£ nestas partes [~q] jur√£o e prometem castidade,
-e assy na√µ casa√µ n[~e] conhe√ß[~e] hom[~e] algum de nenhu√£ callidade,
-n[~e] no consentira√µ ainda que por isso as matem. Estas deixa√µ todo o
-exer√ßi√ßio de molheres e immitta√µ os hom[~e]s e segem seus offi√ßios como
-sena√µ fossem molheres, e corta√µ seus cabellos da mesma maneira que os
-machos trazem e va√µ agerra com seu arco e frechas, e aca√ßa: enfim que
-anda√µ sempre na companhia dos hom[~e]s, e cada h[~u]a tem molher que a
+Alg[~u]as indias se ach„ nestas partes [~q] jur„o e prometem castidade,
+e assy naı casaı n[~e] conheÁ[~e] hom[~e] algum de nenhu„ callidade,
+n[~e] no consentiraı ainda que por isso as matem. Estas deixaı todo o
+exerÁiÁio de molheres e immittaı os hom[~e]s e segem seus offiÁios como
+senaı fossem molheres, e cortaı seus cabellos da mesma maneira que os
+machos trazem e vaı agerra com seu arco e frechas, e acaÁa: enfim que
+andaı sempre na companhia dos hom[~e]s, e cada h[~u]a tem molher que a
 serue e que lhe faz de comer como se foss[~e] casados.
 
-Estes indios viuem mui descansados, na√µ tem cuidado de cousa algu√£ se
-na√µ de comer e beber e matar gente e porisso sa√µ mui gordos em estremo.
-E assy tambem com quer desgosto amagre√ß[~e] muito, e como se agasta√µ de
+Estes indios viuem mui descansados, naı tem cuidado de cousa algu„ se
+naı de comer e beber e matar gente e porisso saı mui gordos em estremo.
+E assy tambem com quer desgosto amagreÁ[~e] muito, e como se agastaı de
 qualquer cousa com[~e] terra e desta maneira morr[~e] muitos delles
 bestialmente. Todos seg[~e] muito o conselho das velhas tudo a que
-ellas lhe dizem fazem e t[~e] no por mui √ßerto, da qui vem a muitos
-moradores na√µ comprar[~e] nenh[~u]as por lhes na√µ fazer[~e] fogir seus
+ellas lhe dizem fazem e t[~e] no por mui Áerto, da qui vem a muitos
+moradores naı comprar[~e] nenh[~u]as por lhes naı fazer[~e] fogir seus
 escrauos.
 
 Quando estas indias parem a primeira cousa que fazem de pois do parto
-laua√µ se todas n[~u] Ribeiro e ficam tambem despostas como sena√µ
-parira√µ, em lugar dellas se deita√µ seus maridos nas Redes e assy os
-vesita√µ e cura√µ como se elles fossem as paridas.
+lauaı se todas n[~u] Ribeiro e ficam tambem despostas como senaı
+pariraı, em lugar dellas se deitaı seus maridos nas Redes e assy os
+vesitaı e curaı como se elles fossem as paridas.
 
-Quando alg[~u] destes indios morre custuma√µ enterrallo n[~u]a coua
+Quando alg[~u] destes indios morre custumaı enterrallo n[~u]a coua
 assentado sobre os pees com sua Rede as costas em que elle dormia, e
 logo pellos primeiros dias poem lhe de comer em cima da coua. Outras
-muitas bestiallidades vsa√µ estes indios que aqui na√µ escreuo porque
-minha ten√ßa√µ foi na√µ ser comprido, e passar por tudo isto com breuidade.
+muitas bestiallidades vsaı estes indios que aqui naı escreuo porque
+minha tenÁaı foi naı ser comprido, e passar por tudo isto com breuidade.
 
 
 Dos Resgates.
 
-Estes indios na√µ possu[~e] nenhu√£ fazenda, n[~e] procura√µ acquerilla
-como os outros hom[~e]s, somente cobi√ßa√µ muito algu√£s cousas que va√µ
+Estes indios naı possu[~e] nenhu„ fazenda, n[~e] procuraı acquerilla
+como os outros hom[~e]s, somente cobiÁaı muito algu„s cousas que vaı
 deste Reino-s-camisas, pellotes, ferram[~e]tas e outras cousas que elles
-tem em muita estima e deseja√µ muito alc√£√ßar dos portugeses. Atroco disto
-se v[~e]dia√µ h[~u]s aos outros, eos portugeses Resgataua√µ m^{tos} delles
-e salteaua√µ quantos queria√µ sem ningem lhes ir ama√µ, mas ja gora na√µ ha
+tem em muita estima e desejaı muito alc„Áar dos portugeses. Atroco disto
+se v[~e]diaı h[~u]s aos outros, eos portugeses Resgatauaı m^{tos} delles
+e salteauaı quantos queriaı sem ningem lhes ir amaı, mas ja gora naı ha
 isto na terra n[~e] Resgates como soya, porque de pois que os padres da
-companhia viera√µ aestas partes prouera√µ neste nego√ßio e vedara√µ muitos
-saltos que fazia√µ os portugeses por esta costa os quais emcarregaua√µ
-muito suas cons√ßien√ßias com catiuar[~e] muitos indios c√µtra direito e
-mouer[~e] lhes gerras injustas. E porisso ordenara√µ os padres e fezer√£
-com os capita[~e]s daterra que na√µ ouuesse mais resgates n[~e]
-consentiss[~e] que fosse nenh[~u] portuges a suas aldeas sem li√ßen√ßa do
-mesmo capita√µ. E quantos escrauos agora vem nouamente do serta√µ oudas
-outras capitanias todos leu√£o primeiro a Alfandega e alli os examina√µ e
-lhes fazem preguntas qu[~e] os vendeo, ou como for√£o Resgatados, porque
-ningem os pode vender se n√£o seus pais ou aquelles que em justa gerra os
-catiu√£o. E os que acha√µ mal acqueridos poem nos em sua liberdade, e
-desta maneira quantos indios se compra√µ sa√µ bem Resgatados e os
-moradores da terra na√µ deixa√µ porisso dir m^{to} auante com suas
+companhia vieraı aestas partes proueraı neste negoÁio e vedaraı muitos
+saltos que faziaı os portugeses por esta costa os quais emcarregauaı
+muito suas consÁienÁias com catiuar[~e] muitos indios cıtra direito e
+mouer[~e] lhes gerras injustas. E porisso ordenaraı os padres e fezer„
+com os capita[~e]s daterra que naı ouuesse mais resgates n[~e]
+consentiss[~e] que fosse nenh[~u] portuges a suas aldeas sem liÁenÁa do
+mesmo capitaı. E quantos escrauos agora vem nouamente do sertaı oudas
+outras capitanias todos leu„o primeiro a Alfandega e alli os examinaı e
+lhes fazem preguntas qu[~e] os vendeo, ou como for„o Resgatados, porque
+ningem os pode vender se n„o seus pais ou aquelles que em justa gerra os
+catiu„o. E os que achaı mal acqueridos poem nos em sua liberdade, e
+desta maneira quantos indios se compraı saı bem Resgatados e os
+moradores da terra naı deixaı porisso dir m^{to} auante com suas
 fazendas.
 
 
@@ -927,141 +927,141 @@ fazendas.
 Cap. 8.^o dos bichos da terra.
 
 
-Na√µ me pare√ßeo cousa fora de preposito tratar tambem neste summario
-dalg[~u]s bichos que nestas partes se cria√µ pois tudo ha na mesma
-terra, dado que daqui se n√£o comprehenda mais que a differen√ßa e a
-variadade das criaturas que ha du√£s terras pera outras.
+Naı me pareÁeo cousa fora de preposito tratar tambem neste summario
+dalg[~u]s bichos que nestas partes se criaı pois tudo ha na mesma
+terra, dado que daqui se n„o comprehenda mais que a differenÁa e a
+variadade das criaturas que ha du„s terras pera outras.
 
 
-Ha nestas partes muitos bichos mui feros e pessonhentos, prin√ßipalmente
-cobras de muitas castas e de nomes diuersos. Hu√£s ha tamgrandes e tam
-disformes que engolem h[~u] veado todo inteiro, e affirm√£o que tem esta
+Ha nestas partes muitos bichos mui feros e pessonhentos, prinÁipalmente
+cobras de muitas castas e de nomes diuersos. Hu„s ha tamgrandes e tam
+disformes que engolem h[~u] veado todo inteiro, e affirm„o que tem esta
 cobra tal callidade que de pois de oter comido arrebenta pella barriga e
-apodre√ße quanta carne tem pello corpo e fica som[~e]te no espinha√ßo com
-a cabe√ßa e a ponta do Rabo sa√£, e tanto que desta maneira fica torna
+apodreÁe quanta carne tem pello corpo e fica som[~e]te no espinhaÁo com
+a cabeÁa e a ponta do Rabo sa„, e tanto que desta maneira fica torna
 pouco a pouco a criar carne noua ate que se cobre outra vez da mesma
-carne ta√µ perfectamente como dantes, Isto vira√µ e exprem[~e]tara√µ
-m^{tos} indios e moradores da terra. aesta cham√£o pella lingoa dos
-indios Giboioss√∫. Outras ha muito maiores e mais possonhentas doutra
-casta differente. Sa√µ tamgrandes en tanto estremo que apenas desaseis
-indios podia√µ leuar hu√£ que matar√£o junto da costa antre os Portugeses
-aesta cobra chama√µ Surucuc√π. Outra gera√ß√£o ha dellas que lhe chama√µ
-boiteninga, tem na ponta do Rabo hu√£ cousa que soa propriamenta, como
-cascauel e por onde esta cobra vai sempre anda Rogindo. he hu√£ das feras
-bichas que ha na terra. Outras ha que lhe cham√£o hebijaras. tem duas
-bocas hu√£ na cabe√ßa outra no rabo mordem com ambas, esta cobra he
+carne taı perfectamente como dantes, Isto viraı e exprem[~e]taraı
+m^{tos} indios e moradores da terra. aesta cham„o pella lingoa dos
+indios Giboioss˙. Outras ha muito maiores e mais possonhentas doutra
+casta differente. Saı tamgrandes en tanto estremo que apenas desaseis
+indios podiaı leuar hu„ que matar„o junto da costa antre os Portugeses
+aesta cobra chamaı Surucuc˘. Outra geraÁ„o ha dellas que lhe chamaı
+boiteninga, tem na ponta do Rabo hu„ cousa que soa propriamenta, como
+cascauel e por onde esta cobra vai sempre anda Rogindo. he hu„ das feras
+bichas que ha na terra. Outras ha que lhe cham„o hebijaras. tem duas
+bocas hu„ na cabeÁa outra no rabo mordem com ambas, esta cobra he
 branca e mui curta, o mais do tempo esta debaixo da terra, he
-pessonhentissima sobre todas, quem desta formordido n√£o tera vida muitas
-oras, e assy qualquer destas outras que morder algu√£ pessoa o mais
-quedura sa√µ vinte equatro oras. Ha outra callidade dellas que na√µ tem
-dentes n[~e] mordem. Estas na√µ sa√µ pessonhentas n[~e] tam pouco muito
-grandes cham√£o lhe Japaranas. Tamb[~e] affirm√£o alg[~u]s hom[~e]s que
-vir√£o serp[~e]tes nesta terra com azas mui grandes E espantosas, mas
-acha√µ se Raram[~e]te. Ha muitos lagartos e grandes pellos Rios dagoa
-do√ße e pellos matos cuios testicollos cheira√µ milhor que almisere, E
-aqualquer Roupa que os cheg√£o fica ocheiro pegado por muitos dias.
+pessonhentissima sobre todas, quem desta formordido n„o tera vida muitas
+oras, e assy qualquer destas outras que morder algu„ pessoa o mais
+quedura saı vinte equatro oras. Ha outra callidade dellas que naı tem
+dentes n[~e] mordem. Estas naı saı pessonhentas n[~e] tam pouco muito
+grandes cham„o lhe Japaranas. Tamb[~e] affirm„o alg[~u]s hom[~e]s que
+vir„o serp[~e]tes nesta terra com azas mui grandes E espantosas, mas
+achaı se Raram[~e]te. Ha muitos lagartos e grandes pellos Rios dagoa
+doÁe e pellos matos cuios testicollos cheiraı milhor que almisere, E
+aqualquer Roupa que os cheg„o fica ocheiro pegado por muitos dias.
 
-Os bichos mais feros e mais danosos [~q] ha na terra sa√µ tigres, estes
-animais sa√µ delles tamanhos como bezerros, va√µ se aos currais do gado
-dos moradores e mata√µ muito delle e sa√µ ta√µ feros e for√ßosos que hu√£ m√£o
-que lan√ßa√µ a hu√£ vitella ou nouilho lhe fazem botar osmeollos fora e
-leu√£o no arrasto pera omato. Tambem pella terra dentro mata√µ e com[~e]
-alg[~u]s indios qu√£do se acha√µ famintos. Sobem pellas aruores como
-gatos, e dalli espreita√µ aca√ßa que por baixo passa e Remetem de salto
-aella e destamaneira na√µ lhes escapa nada alg[~u]s destes animais mata√µ
+Os bichos mais feros e mais danosos [~q] ha na terra saı tigres, estes
+animais saı delles tamanhos como bezerros, vaı se aos currais do gado
+dos moradores e mataı muito delle e saı taı feros e forÁosos que hu„ m„o
+que lanÁaı a hu„ vitella ou nouilho lhe fazem botar osmeollos fora e
+leu„o no arrasto pera omato. Tambem pella terra dentro mataı e com[~e]
+alg[~u]s indios qu„do se achaı famintos. Sobem pellas aruores como
+gatos, e dalli espreitaı acaÁa que por baixo passa e Remetem de salto
+aella e destamaneira naı lhes escapa nada alg[~u]s destes animais mataı
 enfojos os moradores da terra.
 
 Toda esta terra do Brasil he cuberta de formigas pequenas e grandes,
 estas faz[~e] alg[~u] dano as parreiras dos moradores e as larangeiras
-que tem nos quintaes, e se na√µ fora√µ estas formigas ouuera poruentura
-muitas vinhas no brasil ainda que la sa√µ pouco ne√ßessarias por[~q]
-deste Reino vai tanto vinho que sempre aterra delle est√° prouida.
+que tem nos quintaes, e se naı foraı estas formigas ouuera poruentura
+muitas vinhas no brasil ainda que la saı pouco neÁessarias por[~q]
+deste Reino vai tanto vinho que sempre aterra delle est· prouida.
 
-Tambem ha muita infinidade de mosquitos prin√ßipalmente ao longo dalg[~u]
-Rio antre hu√£s aruores que se chama√µ manges na√µ pode nenhu√£ pessoa
-esperallos, e pello mato quando na√µ ha vira√ßa√µ sa√µ mui sobejos e
+Tambem ha muita infinidade de mosquitos prinÁipalmente ao longo dalg[~u]
+Rio antre hu„s aruores que se chamaı manges naı pode nenhu„ pessoa
+esperallos, e pello mato quando naı ha viraÁaı saı mui sobejos e
 perseg[~e] muito a gente.
 
-Tambem ha hu√£ gera√ßa√µ de Ratos que traz[~e] os filhinhos pendurados na
-barriga e alli se cria√µ e anda√µ assy pegados ate ser[~e] gr√£des. Bogios
+Tambem ha hu„ geraÁaı de Ratos que traz[~e] os filhinhos pendurados na
+barriga e alli se criaı e andaı assy pegados ate ser[~e] gr„des. Bogios
 ha muitos e de muitas castas como ja se sabe: tanto que as femeas parem
-pega√µ se os filhos nas suas costas e sempre anda√µ caualgados nas m√£is
-ate ser[~e] bem criados e posto que as persiga√µ e as matem na√µ
+pegaı se os filhos nas suas costas e sempre andaı caualgados nas m„is
+ate ser[~e] bem criados e posto que as persigaı e as matem naı
 sequer[~e] desapegar dellas. Ha tambem muitos lobos marinhos e porcos
-marinhos que se cria√µ no mar e na terra. Outros muitos bichos ha nestas
-partes pella terra dentro que sera impossiuel poder[~e] se conhe√ßer
-n[~e] escreuer tanta multida√µ por[~q] assy como a terra he grandissima,
-assy sa√µ muitas as callidades e efei√ß√µes das criaturas que Deos nella
+marinhos que se criaı no mar e na terra. Outros muitos bichos ha nestas
+partes pella terra dentro que sera impossiuel poder[~e] se conheÁer
+n[~e] escreuer tanta multidaı por[~q] assy como a terra he grandissima,
+assy saı muitas as callidades e efeiÁıes das criaturas que Deos nella
 criou.
 
 
 
 
 Cap. 9.^o da terra [~q] certos hom[~e]s da Capitania de porto seguro
-for√£o a descobrir, e do [~q] achar√£o nella.
+for„o a descobrir, e do [~q] achar„o nella.
 
 
-Posto que minha ten√ßa√µ na√µ era tratar neste summario sena√µ das cousas
-que sa√µ gerais portoda costa do Brasil, de que os moradores da terra
-parte√ßipa√µ, pare√ßeo me tambem ne√ßessario e conueniente aos louuores da
-terra denun√ßiar neste Capitullo a Riqueza dos metais [~q] affirma√µ auer
-por ella dentro prou√£do tudo isto com pessoas [~q] o achar√£o, vir√£o, e
-experem[~e]tar√£o: e amaneira como se descobrio foi esta [~q] se sege.
+Posto que minha tenÁaı naı era tratar neste summario senaı das cousas
+que saı gerais portoda costa do Brasil, de que os moradores da terra
+parteÁipaı, pareÁeo me tambem neÁessario e conueniente aos louuores da
+terra denunÁiar neste Capitullo a Riqueza dos metais [~q] affirmaı auer
+por ella dentro prou„do tudo isto com pessoas [~q] o achar„o, vir„o, e
+experem[~e]tar„o: e amaneira como se descobrio foi esta [~q] se sege.
 
 
-A esta Capitania de porto seguro chegar√£o certos indios do sert√£o a dar
+A esta Capitania de porto seguro chegar„o certos indios do sert„o a dar
 nouas d[~u]as pedras verdes que auia n[~u]a serra muitas legoas pella
-terra dentro, e trazia√µ algu√£s dellas por amostra, as quais er√£o
-esmeraldas mas n√£o de muito pre√ßo. E os mesmos indios dezi√£o [~q]
+terra dentro, e traziaı algu„s dellas por amostra, as quais er„o
+esmeraldas mas n„o de muito preÁo. E os mesmos indios dezi„o [~q]
 daquellas auia muitas, e que esta serra era muj fermosa e
-Resplande√ßente. Tanto [~q] os moradores desta Capitania disto for√£o
-certificados fezera√µ se prestes sinco[~e]ta ou sesenta portugeses com
-alg[~u]s indios da terra e partir√£o pello sert√£o dentro com determin√ß√£o
-de chegar aesta serra onde estas pedras estaua√µ. Hia por capit√£o desta
+ResplandeÁente. Tanto [~q] os moradores desta Capitania disto for„o
+certificados fezeraı se prestes sinco[~e]ta ou sesenta portugeses com
+alg[~u]s indios da terra e partir„o pello sert„o dentro com determinÁ„o
+de chegar aesta serra onde estas pedras estauaı. Hia por capit„o desta
 gente h[~u] martim carualho que agora he morador da Bahia de todollos
-sanctos, Entrar√£o pella terra algu√£s dozentas e vinte legoas, onde as
-mais das serras [~q] achar√£o e vir√£o er√£o de mui fino christal e toda
+sanctos, Entrar„o pella terra algu„s dozentas e vinte legoas, onde as
+mais das serras [~q] achar„o e vir„o er„o de mui fino christal e toda
 terra [~e] si mui fragosa, E outras muitas serras de h[~u]a tarra
-azullada, nas quais affirm√£o auer muito ouro porque indo elles por antre
-duas serras destamaneira for√£o dar n[~u] Ribeiro que pello pee d[~u]a
-dellas de√ßia noqual achar√£o antre area h[~u]s gr√£os meudos amarellos,
-osquais alg[~u]s hom[~e]s apalpara√µ com os dentes e achar√£o nos br√£dos
-mas na√µ se desfazi√£o, finalmente que todos assentara√µ ser aquillo ouro
-n[~e] podia ser outro metal pois omesmo ouro desta maneira nas√ße nas
-partes onde o ha. Apanhar√£o destes gra√µs antre area do Ribeiro
-quantidade dum punhodo os quais achara√µ muito pezados que tambem era
-proua de ser ouro; disto na√µ fezer√£o mais experien√ßia por ser aquillo no
-deserto e auer muitos dias [~q] pade√ßia√µ gr√£de fome nem comi√£o outra
-cousa sena√µ semente deruas e alg[~u]a cobra que matau√£o. passar√£o
-adiante determinando avinda tornar por alli a per√ßebidos de mantim^{tos}
-pera buscar[~e] a serra mais devagar donde aquelle ouro de√ßia ao
-Ribeiro. achara√µ pellos matos muita canafistola, e por este caminho
-achar√£o outros m^{tos} metais que na√µ conhecera√µ, n[~e] podiam esperar
-pellas gerras dos indios que se alleuantaua√µ contraelles. Alg[~u]s
-indios lhes dera√µ noticia segundo a men√ßa√µ que fazi√£o [~q] podiam estar
-cem legoas da serra das pedras verdes que hia√µ buscar e que n√£o auia
-muito dalli ao peru√∫ finalm[~e]te [~q] c√µ os imigos que Recre√ßi√£o e
-pella gente [~q] adoe√ßia tornara√µ se outra vez em almadias por h[~u] Rio
-que se chama Cricar√©, onde se perdeo n[~u]a cachoeira a canoa emque
-vinha√µ os gr√£os douro [~q] trazia√µ pera mostra. Nesta viag[~e] gastar√£o
-oito mezes e assi desbaratados chegar√£o aesta Capitania de porto seguro.
-Os que deste perigo escapara√µ affirm√£o auer naquellas partes muito ouro
-seg[~u]do asmostras e os Signais que achar√£o: e se la tornar gente
-aper√ßebida como c√µuem contoda prouisa√µ ne√ßessaria, e leuarem pessoas que
-disto conhe√ßa√µ diz[~e] que se descobrir√£o nesta terra grandes minas.
+azullada, nas quais affirm„o auer muito ouro porque indo elles por antre
+duas serras destamaneira for„o dar n[~u] Ribeiro que pello pee d[~u]a
+dellas deÁia noqual achar„o antre area h[~u]s gr„os meudos amarellos,
+osquais alg[~u]s hom[~e]s apalparaı com os dentes e achar„o nos br„dos
+mas naı se desfazi„o, finalmente que todos assentaraı ser aquillo ouro
+n[~e] podia ser outro metal pois omesmo ouro desta maneira nasÁe nas
+partes onde o ha. Apanhar„o destes graıs antre area do Ribeiro
+quantidade dum punhodo os quais acharaı muito pezados que tambem era
+proua de ser ouro; disto naı fezer„o mais experienÁia por ser aquillo no
+deserto e auer muitos dias [~q] padeÁiaı gr„de fome nem comi„o outra
+cousa senaı semente deruas e alg[~u]a cobra que matau„o. passar„o
+adiante determinando avinda tornar por alli a perÁebidos de mantim^{tos}
+pera buscar[~e] a serra mais devagar donde aquelle ouro deÁia ao
+Ribeiro. acharaı pellos matos muita canafistola, e por este caminho
+achar„o outros m^{tos} metais que naı conheceraı, n[~e] podiam esperar
+pellas gerras dos indios que se alleuantauaı contraelles. Alg[~u]s
+indios lhes deraı noticia segundo a menÁaı que fazi„o [~q] podiam estar
+cem legoas da serra das pedras verdes que hiaı buscar e que n„o auia
+muito dalli ao peru˙ finalm[~e]te [~q] cı os imigos que RecreÁi„o e
+pella gente [~q] adoeÁia tornaraı se outra vez em almadias por h[~u] Rio
+que se chama CricarÈ, onde se perdeo n[~u]a cachoeira a canoa emque
+vinhaı os gr„os douro [~q] traziaı pera mostra. Nesta viag[~e] gastar„o
+oito mezes e assi desbaratados chegar„o aesta Capitania de porto seguro.
+Os que deste perigo escaparaı affirm„o auer naquellas partes muito ouro
+seg[~u]do asmostras e os Signais que achar„o: e se la tornar gente
+aperÁebida como cıuem contoda prouisaı neÁessaria, e leuarem pessoas que
+disto conheÁaı diz[~e] que se descobrir„o nesta terra grandes minas.
 
-Quisera esereuer mais meudamente das particullaridades desta prouin√ßia
+Quisera esereuer mais meudamente das particullaridades desta prouinÁia
 do brasil, mas porque satisfezesse atodos com breuidade guardeime de ser
 comprido posto [~q] os louuores da terra pedissem outro liuro mais
-copioso E de maior vollume onde se comprehendess[~e] por exten√ßo as
-ex√ßellencias e diuersidades das cousas [~q] ha nella pera Remedio e
-porueito dos hom[~e]s que la for[~e] viuer. E por que a felli√ßidade e
-augm[~e]to desta prouin√ßia consiste em ser pouoada de muita g[~e]te, na√µ
-auia dauer pessoa pobre nestes Reinos [~q] na√µ fossem viuer aestas
+copioso E de maior vollume onde se comprehendess[~e] por extenÁo as
+exÁellencias e diuersidades das cousas [~q] ha nella pera Remedio e
+porueito dos hom[~e]s que la for[~e] viuer. E por que a felliÁidade e
+augm[~e]to desta prouinÁia consiste em ser pouoada de muita g[~e]te, naı
+auia dauer pessoa pobre nestes Reinos [~q] naı fossem viuer aestas
 partes com fauor de .S.A. onde os hom[~e]s viu[~e] todos abastados e
-fora das ne√ßessidades que c√° pade√ßem. E desta maneira permittira Deos
-que flore√ßa tanto a terra desta noua lusitania que com ella se augmente
-muito a coroa destes Reinos e seia dos outros enuejada pera que n√£o
+fora das neÁessidades que c· padeÁem. E desta maneira permittira Deos
+que floreÁa tanto a terra desta noua lusitania que com ella se augmente
+muito a coroa destes Reinos e seia dos outros enuejada pera que n„o
 desejemos terras estranhas prometendo esta nossa tanta Riqueza e
 prosperidade aos [~q] afor[~e] buscar pera seu Remedio.
 
@@ -1073,7 +1073,7 @@ prosperidade aos [~q] afor[~e] buscar pera seu Remedio.
 
 
 End of the Project Gutenberg EBook of Tractado da terra do Brasil, by 
-Pedro de Magalh√£es Gandavo
+Pedro de Magalh„es Gandavo
 
 *** END OF THIS PROJECT GUTENBERG EBOOK TRACTADO DA TERRA DO BRASIL ***
 
@@ -1081,7 +1081,7 @@ Pedro de Magalh√£es Gandavo
 This and all associated files of various formats will be found in:
         http://www.gutenberg.org/2/8/1/2/28122/
 
-Produced by J√∫lio Reis, Carlo Traverso and the Online
+Produced by J˙lio Reis, Carlo Traverso and the Online
 Distributed Proofreading Team at http://www.pgdp.net (This
 file was produced from images generously made available
 by National Library of Portugal (Biblioteca Nacional de

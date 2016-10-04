@@ -1,4 +1,4 @@
-Project Gutenberg's Memoria historica sobre as ilhas dos A√ßores, by Unknown
+Project Gutenberg's Memoria historica sobre as ilhas dos AÁores, by Unknown
 
 This eBook is for the use of anyone anywhere at no cost and with
 almost no restrictions whatsoever.  You may copy it, give it away or
@@ -6,10 +6,10 @@ re-use it under the terms of the Project Gutenberg License included
 with this eBook or online at www.gutenberg.org
 
 
-Title: Memoria historica sobre as ilhas dos A√ßores
+Title: Memoria historica sobre as ilhas dos AÁores
        como parte componente da Monarchia Portugueza, com ideias
-       politicas relativas √† reforma do Governo Portuguez, e sua
-       nova constitui√ß√£o
+       politicas relativas ‡ reforma do Governo Portuguez, e sua
+       nova constituiÁ„o
 
 Author: Unknown
 
@@ -24,21 +24,21 @@ Character set encoding: ISO-8859-1
 
 
 
-Produced by Rita Farinha, Alberto Manuel Brand√£o Sim√µes
-e Jos√© Carvalho (This book was produced from scanned images
+Produced by Rita Farinha, Alberto Manuel Brand„o Simıes
+e JosÈ Carvalho (This book was produced from scanned images
 of public domain material from the Google Print project.)
 
 
 
 
 
-    *Nota de editor:* Devido √† exist√™ncia de erros tipogr√°ficos neste
-    texto, foram tomadas v√°rias decis√µes quanto √† vers√£o final. Em caso
-    de d√∫vida, a grafia foi mantida de acordo com o original. No final
-    deste livro encontrar√° a lista de erros corrigidos.
+    *Nota de editor:* Devido ‡ existÍncia de erros tipogr·ficos neste
+    texto, foram tomadas v·rias decisıes quanto ‡ vers„o final. Em caso
+    de d˙vida, a grafia foi mantida de acordo com o original. No final
+    deste livro encontrar· a lista de erros corrigidos.
 
-    Foram igualmente implementadas as indica√ß√µes da errata existente
-    na pr√≥pria obra.
+    Foram igualmente implementadas as indicaÁıes da errata existente
+    na prÛpria obra.
 
                                                Rita Farinha (Maio 2013)
 
@@ -49,7 +49,7 @@ MEMORIA HISTORICA
 
 SOBRE AS
 
-ILHAS DOS A√áORES,
+ILHAS DOS A«ORES,
 
 COMO PARTE COMPONENTE
 
@@ -57,7 +57,7 @@ DA
 
 MONARCHIA PORTUGUEZA,
 
-COM IDEAS POLITICAS RELATIVAS √Å REFORMA
+COM IDEAS POLITICAS RELATIVAS ¡ REFORMA
 
 DO
 
@@ -66,13 +66,13 @@ GOVERNO PORTUGUEZ,
 
 E SUA NOVA
 
-CONSTITUI√áA√ï.
+CONSTITUI«A’.
 
 
 LISBOA:
 NA OFFIC. DE ANTONIO RODRIGUES GALHARDO.
 Impressor do Conselho de Guerra.
-_Com licen√ßa da Commissa√µ da Censura._
+_Com licenÁa da Commissaı da Censura._
 
 1821
 
@@ -82,55 +82,55 @@ _Com licen√ßa da Commissa√µ da Censura._
 DISCURSO PRELIMINAR.
 
 
-As Ilhas dos A√ßores adjacentes a Portugal fora√µ sempre consideradas como
+As Ilhas dos AÁores adjacentes a Portugal foraı sempre consideradas como
 parte, e verdadeiras Provincias deste Reino, mandando os seus
-Representantes, ou Procuradores √°s Cortes, onde tinha√µ assento, e banco
-designado: e como hum verdadeiro accessorio, segu√≠ra√µ sempre a sorte do
+Representantes, ou Procuradores ·s Cortes, onde tinhaı assento, e banco
+designado: e como hum verdadeiro accessorio, seguÌraı sempre a sorte do
 seu principal, gosando de todos os bens, com que os Monarchas
-Portuguezes felicitava√µ os seus Vassallos, durante a sua residencia na
-Europa, e soffrendo todos os males desde a modan√ßa da Corte para o Rio
+Portuguezes felicitavaı os seus Vassallos, durante a sua residencia na
+Europa, e soffrendo todos os males desde a modanÁa da Corte para o Rio
 de Janeiro.
 
 A historia destas Ilhas, que he sempre ligada com a historia em geral de
-Portugal, involve maximas de Politica, que na√µ ser√° desconveniente dar
-ao p√∫blico nas presentes circumstancias; pois que sendo a Politica a
-arte que ensina a governar os homens, e dirigir a causa p√∫blica, todos
-os escriptos, que apresentarem algumas id√©as, que tenha√µ correla√ßa√µ com
-este objecto, sera√µ uteis no momento, em que casos extraordinarios p√µem
-huma Na√ßa√µ nas criticas circumstancias de reformar as Leis fundamentaes
-do seu Governo. Ninguem p√≥de duvidar, que toda a associa√ßa√µ politica tem
+Portugal, involve maximas de Politica, que naı ser· desconveniente dar
+ao p˙blico nas presentes circumstancias; pois que sendo a Politica a
+arte que ensina a governar os homens, e dirigir a causa p˙blica, todos
+os escriptos, que apresentarem algumas idÈas, que tenhaı correlaÁaı com
+este objecto, seraı uteis no momento, em que casos extraordinarios pıem
+huma NaÁaı nas criticas circumstancias de reformar as Leis fundamentaes
+do seu Governo. Ninguem pÛde duvidar, que toda a associaÁaı politica tem
 o direito inalienavel de estabelecer, modificar, ou alterar a
-Constitui√ßa√µ, ou f√≥rma do seu Governo; mas esta crise he ta√µ arriscada,
-que os p√≥vos soffrem muitas vezes seculos inteiros, primeiro que se
+ConstituiÁaı, ou fÛrma do seu Governo; mas esta crise he taı arriscada,
+que os pÛvos soffrem muitas vezes seculos inteiros, primeiro que se
 deliberem a empenhar n'huma tal empreza.
 
 Durante a residencia dos Monarchas Portuguezes em Lisboa, a sua bella
-indole, e a facilidade com que aquelles Soberanos ouvia√µ os seus
-Vassallos, e remediava√µ os males de todas as Provincias, e Ilhas
-adjacentes, podia supprir a falta de melhor Constitui√ßa√µ em Portugal;
-mas postos na distancia de mil legoas, com os obstaculos que estes p√≥vos
-encontrava√µ nas suas representa√ß√µes, o que equivalia a dobrada
-distancia, ach√°ra√µ os mesmos p√≥vos ser incompativel com a sua felicidade
-a continua√ßa√µ da mesma f√≥rma de Governo, e foi geral o voto por huma
-nova Constitui√ßa√µ, que remediasse os males, e expurgasse os abusos
-introduzidos. A magnanimidade do Senhor Dom Joa√µ VI. annuindo a esta
-ref√≥rma, e approvando o chamamento das Cortes em hum Aviso dirigido aos
-Governadores do Reino, em resposta √° participa√ßa√µ, que estes, lhe havia√µ
-feito do voto geral da Na√ßa√µ, far√° collocar este Monarcha ao lado dos
+indole, e a facilidade com que aquelles Soberanos ouviaı os seus
+Vassallos, e remediavaı os males de todas as Provincias, e Ilhas
+adjacentes, podia supprir a falta de melhor ConstituiÁaı em Portugal;
+mas postos na distancia de mil legoas, com os obstaculos que estes pÛvos
+encontravaı nas suas representaÁıes, o que equivalia a dobrada
+distancia, ach·raı os mesmos pÛvos ser incompativel com a sua felicidade
+a continuaÁaı da mesma fÛrma de Governo, e foi geral o voto por huma
+nova ConstituiÁaı, que remediasse os males, e expurgasse os abusos
+introduzidos. A magnanimidade do Senhor Dom Joaı VI. annuindo a esta
+refÛrma, e approvando o chamamento das Cortes em hum Aviso dirigido aos
+Governadores do Reino, em resposta · participaÁaı, que estes, lhe haviaı
+feito do voto geral da NaÁaı, far· collocar este Monarcha ao lado dos
 Titos, e dos Marco-Aurelios.
 
-Se lan√ßamos os olhos pelos annaes das outras Monarchias da Europa, quasi
-todas ellas nos apresenta√µ seus Neros, e seus Caligolas. _¬´Nenhuma
+Se lanÁamos os olhos pelos annaes das outras Monarchias da Europa, quasi
+todas ellas nos apresentaı seus Neros, e seus Caligolas. _´Nenhuma
 historia_ (diz o Conde de Mirabeau) _offerece huma serie mais ampla de
-Reis m√°os, do que a historia, de Fran√ßa.¬ª_
+Reis m·os, do que a historia, de FranÁa.ª_
 
-E na verdade a come√ßarmos desde Filippe o Bello, na√µ encontramos sena√µ
-Principes huns faltos de f√©, outros insaciaveis de poder, e de dinheiro,
-e at√© fabricadores de moeda falsa, outros vingativos crueis, e mais
+E na verdade a comeÁarmos desde Filippe o Bello, naı encontramos senaı
+Principes huns faltos de fÈ, outros insaciaveis de poder, e de dinheiro,
+e atÈ fabricadores de moeda falsa, outros vingativos crueis, e mais
 barbaros em assassinios, do que o mesmo Tiberio. De hum Carlos IX. diz o
 citado Author--_este monstro infernal executou ao sahir da infancia, o
 que Caligula apenas teria ideado; elle medita com a mais profunda
-maldade, a mais abominavel perfidia, e extermina de hum s√≥ golpe cem mil
+maldade, a mais abominavel perfidia, e extermina de hum sÛ golpe cem mil
 dos seus Vassallos._--Falla da mortandade do dia sempre memoravel de S.
 Bartholomeu, em que o Rei pessoalmente animava os matadores.
 
@@ -138,393 +138,393 @@ Entre os Reis de Hespanha basta apontarmos o cruel, e supersticioso
 Filippe II., que matou o proprio filho, e envenenou sua Esposa: he
 curioso o parallelo, que deste Rei faz Mr. de Voltaire, com o Imperador
 Tiberio, onde comparando-os em todo o genero de crueldades, acha sempre
-o tyranno Hespanhol em gr√°o superior ao tyranno Romano.
+o tyranno Hespanhol em gr·o superior ao tyranno Romano.
 
-Dos Reis de Inglaterra ser√° bastante lembrarmos hum s√≥ Henrique VIII.,
+Dos Reis de Inglaterra ser· bastante lembrarmos hum sÛ Henrique VIII.,
 que empregou o tempo do seu Reinado em perturbar os seus Estados,
-inunda-los com o sangue dos proprios Vassallos, e empobrec√™-los: _elle
+inunda-los com o sangue dos proprios Vassallos, e empobrecÍ-los: _elle
 exhaurio o Reino_ (diz Sanderuz), _vexouo, e opprimio ao ponto que lhe
-na√µ restava mais do que vender o ar aos vivos, e a sepultura aos
+naı restava mais do que vender o ar aos vivos, e a sepultura aos
 mortos._ A Inglaterra pois, que hoje consideramos hum paiz afortunado
-pela seguran√ßa, e liberdade de que alli gosa o Cidada√µ, j√° foi o theatro
-da tyrannia, e de todos os males, que acompanha√µ o governo arbitrario:
-he depois que os seus Soberanos fora√µ ligados por huma Constitui√ßa√µ, e
+pela seguranÁa, e liberdade de que alli gosa o Cidadaı, j· foi o theatro
+da tyrannia, e de todos os males, que acompanhaı o governo arbitrario:
+he depois que os seus Soberanos foraı ligados por huma ConstituiÁaı, e
 coartada a arbitrariedade destes, que aquelle Reino tem chegado ao auge
-em que o vemos, e que merece o elogio dos Sabios, e a admira√ßa√µ das
-outras Na√ß√µes. E p√≥de dizer-se que √° sua Constitui√ßa√µ deve a Inglaterra
+em que o vemos, e que merece o elogio dos Sabios, e a admiraÁaı das
+outras NaÁıes. E pÛde dizer-se que · sua ConstituiÁaı deve a Inglaterra
 o achar-se classificada na primeira ordem das Potencias da Europa,
-quando pela exten√ßa√µ do terreno parecia na√µ poder passar da segunda.
+quando pela extenÁaı do terreno parecia naı poder passar da segunda.
 
-Se este quadro nos mostra por huma parte na√µ serem infalliveis os Reis,
-como parecia quererem persuadir aquelles, que sustentava√µ derivarem
-elles o seu poder immediatamente de Deos, e na√µ dos P√≥vos, que os
+Se este quadro nos mostra por huma parte naı serem infalliveis os Reis,
+como parecia quererem persuadir aquelles, que sustentavaı derivarem
+elles o seu poder immediatamente de Deos, e naı dos PÛvos, que os
 elegem; pela outra parte tambem nos confirma da bondade dos Monarchas
-Portuguezes, em cujo cathalogo se na√µ encontra hum s√≥ com iguaes
+Portuguezes, em cujo cathalogo se naı encontra hum sÛ com iguaes
 defeitos: sendo pelo contrario os Principes da Casa Reinante por indole
 natural justos, humanos, e cheios de beneficencia: Mas todas estas
-qualidades, que tambem adorn√°ra√µ, e em gr√°o eminente, o Imperador Tito,
-na√µ pod√©ra√µ evitar que este tivesse por Successor hum Diocleciano, o
-mais barbaro dos tyrannos. E hum s√≥ passo imprudente do Senhor Rei D.
-Sebastia√µ percipitou os Estados Portuguezes em hum abismo de desgra√ßas,
-de que j√° mais p√¥de restabelecer-se; todas as vantagens, descobertas, e
+qualidades, que tambem adorn·raı, e em gr·o eminente, o Imperador Tito,
+naı podÈraı evitar que este tivesse por Successor hum Diocleciano, o
+mais barbaro dos tyrannos. E hum sÛ passo imprudente do Senhor Rei D.
+Sebastiaı percipitou os Estados Portuguezes em hum abismo de desgraÁas,
+de que j· mais pÙde restabelecer-se; todas as vantagens, descobertas, e
 conquistas, grangeadas no decurso de muitos reinados felizes dos seus
-antecessores, fora√µ por assim dizer, mallogradas em hum s√≥ momento. Por
-isso juntando-se √° boa indole dos Monarchas Portuguezes huma
-Constitui√ßa√µ, que ponha os seus Vassallos a salvo de toda a
-arbitrariedade, e da influencia dos Val√≠dos; huma Constitui√ßa√µ, que
-igualando os Direitos de todos os Cidad√£os, ligue ao mesmo tempo os
-interesses de todas as Partes deste grande Imperio, vir√° elle a ser o
+antecessores, foraı por assim dizer, mallogradas em hum sÛ momento. Por
+isso juntando-se · boa indole dos Monarchas Portuguezes huma
+ConstituiÁaı, que ponha os seus Vassallos a salvo de toda a
+arbitrariedade, e da influencia dos ValÌdos; huma ConstituiÁaı, que
+igualando os Direitos de todos os Cidad„os, ligue ao mesmo tempo os
+interesses de todas as Partes deste grande Imperio, vir· elle a ser o
 mais feliz, e o mais respeitavel do Universo.
 
 A presente Memoria offerece em hum pequeno quadro os acontecimentos mais
-notaveis das Ilhas dos A√ßores, a ordem seguida do seu Governo Politico,
-Militar, e Civil; a marcha dos seus progressos na Popula√ßa√µ, na
+notaveis das Ilhas dos AÁores, a ordem seguida do seu Governo Politico,
+Militar, e Civil; a marcha dos seus progressos na PopulaÁaı, na
 Agricultura, no Commercio, e descreve o caracter dos seus habitantes.
 Alli apparecem aquellas Ilhas sahindo do Occeano incultas, e sem algum
-ente vivente: pouco depois povoadas, e cultivadas por effeito de s√°bias
+ente vivente: pouco depois povoadas, e cultivadas por effeito de s·bias
 providencias, e leis justas: e depois de as vermos florecentes, e ricas
-nas primeiras duas partes da Memoria, em quanto gos√°ra√µ da benefica
+nas primeiras duas partes da Memoria, em quanto gos·raı da benefica
 influencia dos seus Monarchas; na terceira parte ultimamente as vemos
-experimentando com Portugal huma terrivel decadencia com a mudan√ßa da
+experimentando com Portugal huma terrivel decadencia com a mudanÁa da
 Corte para o Rio de Janeiro, pelas desordens praticadas por certa ordem
-de Val√≠dos, que havia√µ subplantado os mesmos Ministros de Estado, e que
-abus√°ra√µ da confian√ßa que nelles punha o Rei[1] prevalescendo-se da
+de ValÌdos, que haviaı subplantado os mesmos Ministros de Estado, e que
+abus·raı da confianÁa que nelles punha o Rei[1] prevalescendo-se da
 impossibilidade em que Sua Magestade se achava de poder saber o que
-soffria√µ os seus Vassallos da Europa. Todos estes acontecimentos nos vem
-a confirmar de que s√≥ nas Cortes, neste Senado representativo de toda a
-Na√ßa√µ, he que se p√≥de restabelecer a antiga ordem das cousas,
-organisando-se huma Constitui√ßa√µ acommodada ao tempo, e circumstancias,
+soffriaı os seus Vassallos da Europa. Todos estes acontecimentos nos vem
+a confirmar de que sÛ nas Cortes, neste Senado representativo de toda a
+NaÁaı, he que se pÛde restabelecer a antiga ordem das cousas,
+organisando-se huma ConstituiÁaı acommodada ao tempo, e circumstancias,
 em que fiquem prevenidos, e acautelados semelhantes abusos,
-restabelecido o credito do nosso Augusto Soberano, que os Val√≠dos havia√µ
+restabelecido o credito do nosso Augusto Soberano, que os ValÌdos haviaı
 compromettido, e segura a felicidade dos Vassallos em que o mesmo Senhor
 sempre mostrou o maior empenho.
 
-Conv√©m que reformando-se os abusos, se reconhe√ßa a belleza de grande
+ConvÈm que reformando-se os abusos, se reconheÁa a belleza de grande
 parte dos Estatutos Nacionaes: cumpre estimular nos Portuguezes o amor
-da sua Patria, e fazer animar entre elles o espirito p√∫blico, e
+da sua Patria, e fazer animar entre elles o espirito p˙blico, e
 nacional. O patriotismo, diz hum Author moderno, he o mais nobre de
-todos os sentimentos, elle honra o homem, e a Na√ßa√µ.
+todos os sentimentos, elle honra o homem, e a NaÁaı.
 
 
 
 
 PRIMEIRA PARTE
 
-_Da descoberta das Ilhas dos A√ßores, pelos Portuguezes, at√© o
+_Da descoberta das Ilhas dos AÁores, pelos Portuguezes, atÈ o
 estabelecimento da Capitania Geral._
 
 
-Se os Portuguezes, Na√ßa√µ espirituosa, e intrepida, tem tido Principes
+Se os Portuguezes, NaÁaı espirituosa, e intrepida, tem tido Principes
 analogos ao seu Caracter, os mais respeitaveis na Europa pelos seus
 talentos militares, e valor, e pelas emprezas as mais arduas, e felizes;
-se esta Na√ßa√µ nos tem apresentado grandes homens de Estado √° sua frente,
-e politicos Superiores, ella na√µ tem sido menos fertil em Principes
+se esta NaÁaı nos tem apresentado grandes homens de Estado · sua frente,
+e politicos Superiores, ella naı tem sido menos fertil em Principes
 sabios, e illustrados.
 
-O Infante D. Henrique, filho do Senhor Rei D. Joa√µ I. he hum dos
+O Infante D. Henrique, filho do Senhor Rei D. Joaı I. he hum dos
 talentos mais distinctos do seu tempo, e quando toda a Europa jazia
 ainda em huma profunda ignorancia pelos principios do seculo XV., este
-Principe com conhecimentos j√° mui superiores, media os Astros, e no meio
-dos seus profundos estudos tra√ßava emprezas, que devia√µ fazer espanto em
-toda a terra. Elle teve huma grande parte na inven√ßa√µ do Astrolabio, e a
-elle he devido o uso da Agulha de mariar, conhecida j√° d'antes, mas de
-que nunca os homens se tinha√µ servido para navegar no mar largo pelo
-favor dos ventos, toda a navega√ßa√µ se fazia terra terra, e a longo das
+Principe com conhecimentos j· mui superiores, media os Astros, e no meio
+dos seus profundos estudos traÁava emprezas, que deviaı fazer espanto em
+toda a terra. Elle teve huma grande parte na invenÁaı do Astrolabio, e a
+elle he devido o uso da Agulha de mariar, conhecida j· d'antes, mas de
+que nunca os homens se tinhaı servido para navegar no mar largo pelo
+favor dos ventos, toda a navegaÁaı se fazia terra terra, e a longo das
 praias.
 
 Este Principe filosofo depois de ter feito instruir alguns Pilotos
-debaixo da sua direc√ßa√µ, e no seu mesmo observatorio, determina
-descobrir por mero delles as Costas da Africa al√©m do Cabo _Na√µ_, que
-era o termo de todas as Navega√ß√µes at√© enta√µ conhecidas, e adiante do
-qual se na√µ tinha j√° mais passado. J√° elle cogitava em abrir pelo mar
+debaixo da sua direcÁaı, e no seu mesmo observatorio, determina
+descobrir por mero delles as Costas da Africa alÈm do Cabo _Naı_, que
+era o termo de todas as NavegaÁıes atÈ entaı conhecidas, e adiante do
+qual se naı tinha j· mais passado. J· elle cogitava em abrir pelo mar
 huma passage para a India: e foi este o principio das grandes
-descobertas, que depois fizera√µ os Portuguezes, cujas viagens, e perigos
-sa√µ cantadas por Cam√µes no seu divino Po√™ma, onde diz o Author do
-Espirito das Leis, se encontra√µ os encantos da Odiss√©a, e a
+descobertas, que depois fizeraı os Portuguezes, cujas viagens, e perigos
+saı cantadas por Camıes no seu divino PoÍma, onde diz o Author do
+Espirito das Leis, se encontraı os encantos da OdissÈa, e a
 magnificencia da Eneida.
 
 He do Algarve que o Principe faz despedir aquelles Pilotos, em hum
-Navio, que para isso lhe apresta, instruindo-os sobre a sua navega√ßa√µ, e
-derrota. Os Navegantes dobra√µ o Cabo _Na√µ_, e chega√µ at√© o Bojador, dois
-gr√°os distante do nosso Tropico; mas encontrando grandes tempestades, e
+Navio, que para isso lhe apresta, instruindo-os sobre a sua navegaÁaı, e
+derrota. Os Navegantes dobraı o Cabo _Naı_, e chegaı atÈ o Bojador, dois
+gr·os distante do nosso Tropico; mas encontrando grandes tempestades, e
 desanimando de continuar na viage, que lhe havia sido ordenada, elles
-arriba√µ, e nesta digressa√µ descobrem a Ilha de Porto Santo, visinha da
+arribaı, e nesta digressaı descobrem a Ilha de Porto Santo, visinha da
 Ilha Madeira, que tambem foi descoberta pouco depois.
 
-Estas noticias participadas ao Infante D. Henrique, lhe confirma√µ a
-id√©a, que de muito tempo o occupava, de que para o Poente existia√µ
+Estas noticias participadas ao Infante D. Henrique, lhe confirmaı a
+idÈa, que de muito tempo o occupava, de que para o Poente existiaı
 terras incognitas. E em quanto toma medidas para mandar povoar aquellas
 duas Ilhas, que o acaso lhe offereceo, elle medita novas descobertas:
 faz aparelhar hum Navio para aquelles destinos, incumbe o seu commando a
-hum Gon√ßalo Velho Cabral, Commendador da Ordem de Christo, pessoa
+hum GonÁalo Velho Cabral, Commendador da Ordem de Christo, pessoa
 illustre, descendente da antiga Casa de Belmonte, e em quem tinha muita
-confian√ßa palas suas virtudes; e instruindo-o novamente com os Pilotos,
-sobre a navega√ßa√µ que devia√µ seguir, os despede finalmente do porto de
+confianÁa palas suas virtudes; e instruindo-o novamente com os Pilotos,
+sobre a navegaÁaı que deviaı seguir, os despede finalmente do porto de
 Sagres no Algarve.
 
 O descobrimento das Ilhas era hum ensaio, em que os Portuguezes se
-habilitava√µ para as grandes emprezas, a que os destinava o seu genio
+habilitavaı para as grandes emprezas, a que os destinava o seu genio
 emprehendedor, e a sua coragem.
 
 Aquelles Navegantes, depois de terem por muitos dias crusado mares
 incognitos, fazendo tentativas em diversos rumos, com os olhos sempre
 fitos no Orisonte, figurando-se-lhe ver terras a todo o momento, e em
 todas as nuvens, descobrem finalmente em Agosto de 1432 a primeira Ilha
-dos A√ßores, a que dera√µ o nome de Santa Maria: elles desembarca√µ em huma
+dos AÁores, a que deraı o nome de Santa Maria: elles desembarcaı em huma
 praia, por onde corria hum ribeiro de agoa purissima, junto do qual se
-fundou depois a primeira povo√ßa√µ. O Commendador, e seus Companheiros,
-mal podem tornar a si da admira√ßa√µ, em que os tinha lan√ßado a vista de
-huma ilha coberta ainda de seus encantos virginaes. Elles na√µ encontra√µ
+fundou depois a primeira povoÁaı. O Commendador, e seus Companheiros,
+mal podem tornar a si da admiraÁaı, em que os tinha lanÁado a vista de
+huma ilha coberta ainda de seus encantos virginaes. Elles naı encontraı
 vestigio de creatura humana, nem mesmo de algum animal; por toda a parte
 se lhe offerecem florestas solitarias, tudo he silencio; querem penetrar
-pelo interior da Ilha, por√©m as arvores enterla√ßadas humas com outras
-lho impedem; he pelo mar, rodeando-a no seu mesmo Navio, que observa√µ a
+pelo interior da Ilha, porÈm as arvores enterlaÁadas humas com outras
+lho impedem; he pelo mar, rodeando-a no seu mesmo Navio, que observaı a
 sua grandeza. Esta Ilha tem quasi cinco leguas de comprido, e duas de
 largo.
 
 Os exploradores depois de marcarem a Ilha, e fazerem algumas
-observa√ß√µes, volta√µ a Portugal com estas novas, e sa√µ acolhidos pelo
-Infante com demonstra√ß√µes da maior estima, e accumulados de beneficios.
-Gon√ßalo Velho Cabral foi logo feito Capita√µ Donatario da Ilha
+observaÁıes, voltaı a Portugal com estas novas, e saı acolhidos pelo
+Infante com demonstraÁıes da maior estima, e accumulados de beneficios.
+GonÁalo Velho Cabral foi logo feito Capitaı Donatario da Ilha
 descoberta, com faculdade de a ir povoar com as familias, que o
-quizessem acompanhar. Elle levou comsigo, al√©m de outras familias
-distinctas, quatro irm√£s, as quaes casadas com pessoas mui nobres de
-Portugal, e algumas com exercicio na Casa Real, deix√°ra√µ larga
+quizessem acompanhar. Elle levou comsigo, alÈm de outras familias
+distinctas, quatro irm„s, as quaes casadas com pessoas mui nobres de
+Portugal, e algumas com exercicio na Casa Real, deix·raı larga
 descendencia, que se estabeleceo nas mais Ilhas.
 
 Doze annos depois, em 1444, com iguaes diligencias he descoberta a Ilha
-de S, Miguel, da qual foi tambem Donatario Gon√ßalo Velho. O Infante
+de S, Miguel, da qual foi tambem Donatario GonÁalo Velho. O Infante
 guiado sempre pelo amor da gloria, e pela nobre curiosidade das
 descobertas, envia logo Colonos de Portugal, para povoar, e cultivar
 esta Ilha, que tem 18 leguas de comprimento, e duas e meia de largura;
-mas na√µ cessa de fazer repetir novas diligencias, sobre aquelles mares,
-at√© que no anno seguinte de 1445 se descobrio a Ilha Terceira. Tem esta
-13 leguas de extensa√µ, e 9 de largura.
+mas naı cessa de fazer repetir novas diligencias, sobre aquelles mares,
+atÈ que no anno seguinte de 1445 se descobrio a Ilha Terceira. Tem esta
+13 leguas de extensaı, e 9 de largura.
 
-Pelo mesmo tempo fora√µ descobertas as quatro Ilhas visinhas a esta, que
-sa√µ a Ilha de S. Jorge, que dista da Terceira 8 leguas para Oeste, e
-della se v√™ distinctamente: tem de comprimento 10 leguas, e pouco mais
+Pelo mesmo tempo foraı descobertas as quatro Ilhas visinhas a esta, que
+saı a Ilha de S. Jorge, que dista da Terceira 8 leguas para Oeste, e
+della se vÍ distinctamente: tem de comprimento 10 leguas, e pouco mais
 de huma de largura: A do Pico, que tambem se avista da Terceira, e he
 separada da Ilha de S. Jorge por hum canal de quatro leguas de mar: tem
-18 leguas de comprido, e 4 de largo: A do Fayal, que s√≥ dista do Pico
+18 leguas de comprido, e 4 de largo: A do Fayal, que sÛ dista do Pico
 legua e meia, e tem 7 no seu comprimento, e 3 de largura. Finalmente a
 pequena Ilha Graciosa com 8 leguas de circumferencia, a qual dista da
 Terceira tambem 8 leguas para o Norte.
 
-Pouco depois fora√µ descobertas as duas ultimas Ilhas das Flores, e
-Corvo, que sa√µ as menos importantes, e dista√µ da Capital 70 leguas.
+Pouco depois foraı descobertas as duas ultimas Ilhas das Flores, e
+Corvo, que saı as menos importantes, e distaı da Capital 70 leguas.
 
-Todas estas nove Ilhas, denominadas dos A√ßores, fora√µ achadas pelos
+Todas estas nove Ilhas, denominadas dos AÁores, foraı achadas pelos
 Portuguezes no estado, em que a natureza as tinha produzido, cobertas de
-den√ßos matos, entre os quaes sobresahia√µ algumas arvores magestosas;
-ellas offerecia√µ √° vista hum espectaculo maravilhoso: ao lado de troncos
-ta√µ antigos como as mesmas Ilhas, se divisava√µ pequenos arbustos, e logo
-flores campestres, ta√µ variadas, e em ta√µ grande n√∫mero, que dahi veio a
+denÁos matos, entre os quaes sobresahiaı algumas arvores magestosas;
+ellas offereciaı · vista hum espectaculo maravilhoso: ao lado de troncos
+taı antigos como as mesmas Ilhas, se divisavaı pequenos arbustos, e logo
+flores campestres, taı variadas, e em taı grande n˙mero, que dahi veio a
 darem a huma dellas o nome de Ilha das Flores.
 
-Na Ilha da Madeira havia√µ achado os seus descobridores huma Cruz de p√°o
-fincada no cha√µ, letras gravadas n'huma pedra, e outros indicios, que
-mostrava√µ terem alli abordado alguns naufragantes. Mas em nenhuma das
-Ilhas dos A√ßores se achou signal algum de ter j√° mais alli aportado
-creatura humana, nem que de alguma Na√ßa√µ fossem conhecidas. A distancia
-de 300 leguas de mar em que ellas se achava√µ desviadas do Continente,
-fazia impossivel huma semelhante navega√ßa√µ, sem o soccorro da Busola, da
-qual se na√µ havia√µ j√° mais servido antes do Infante D. Henrique[2].
+Na Ilha da Madeira haviaı achado os seus descobridores huma Cruz de p·o
+fincada no chaı, letras gravadas n'huma pedra, e outros indicios, que
+mostravaı terem alli abordado alguns naufragantes. Mas em nenhuma das
+Ilhas dos AÁores se achou signal algum de ter j· mais alli aportado
+creatura humana, nem que de alguma NaÁaı fossem conhecidas. A distancia
+de 300 leguas de mar em que ellas se achavaı desviadas do Continente,
+fazia impossivel huma semelhante navegaÁaı, sem o soccorro da Busola, da
+qual se naı haviaı j· mais servido antes do Infante D. Henrique[2].
 
-O principio destas Ilhas na√µ he como o de quasi todos os outros paizes
-misturado de fabulas, e coberto de obscuridades: al√©m de tradic√ß√µes
+O principio destas Ilhas naı he como o de quasi todos os outros paizes
+misturado de fabulas, e coberto de obscuridades: alÈm de tradicÁıes
 apuradas por huma judiciosa critica, os manuscriptos conservados nas
-mesmas Ilhas, e at√© assentos antigos de algumas das suas Camaras, e
-Alfandegas, nos tira√µ de toda a d√∫vida a respeito do seu descobrimento,
+mesmas Ilhas, e atÈ assentos antigos de algumas das suas Camaras, e
+Alfandegas, nos tiraı de toda a d˙vida a respeito do seu descobrimento,
 e dos seus principios.
 
 Este Paiz debaixo do benefico Governo dos Monarchas Portuguezes, teve
-hum progresso ta√µ feliz, que em 1503, cincoenta e oito annos depois da
+hum progresso taı feliz, que em 1503, cincoenta e oito annos depois da
 descoberta da Ilha Terceira, achou o Senhor Rei D. Manoel ser necessario
-para o seu bom regimen, e administra√ßa√µ da Justi√ßa, crear hum Corregedor
-naquella Ilha com jurisdic√ßa√µ sobre todas as outras, estabelecendo ao
-mesmo tempo hum Juiz de F√≥ra na de S. Miguel. E em cousa de cem annos,
-se achava√µ todas perfeitamente cultivadas, e com huma popula√ßa√µ
-prodigiosa, fundadas duas Cidades, 20 Villas, e muitas Ald√™as.
+para o seu bom regimen, e administraÁaı da JustiÁa, crear hum Corregedor
+naquella Ilha com jurisdicÁaı sobre todas as outras, estabelecendo ao
+mesmo tempo hum Juiz de FÛra na de S. Miguel. E em cousa de cem annos,
+se achavaı todas perfeitamente cultivadas, e com huma populaÁaı
+prodigiosa, fundadas duas Cidades, 20 Villas, e muitas AldÍas.
 
 Hum clime doce, hum ar puro, hum terreno fertil em todos os fructos, e
-particularmente nos gr√£os fromentaceos, concorr√™ra√µ muito em beneficio
-dos seus habitantes; mas he sem d√∫vida, que ao Governo he principalmente
-devida a prosperidade de hum Paiz: a oppressa√µ, e a miseria sa√µ
-contrarias √° reproduc√ßa√µ da especie; os homens multiplica√µ-se quando
-elles sa√µ felizes, e vivem em abundancia: estas vantagens s√≥mente se
-gosa√µ debaixo de hum bom Governo; e por isso a popula√ßa√µ rapida de hum
+particularmente nos gr„os fromentaceos, concorrÍraı muito em beneficio
+dos seus habitantes; mas he sem d˙vida, que ao Governo he principalmente
+devida a prosperidade de hum Paiz: a oppressaı, e a miseria saı
+contrarias · reproducÁaı da especie; os homens multiplicaı-se quando
+elles saı felizes, e vivem em abundancia: estas vantagens sÛmente se
+gosaı debaixo de hum bom Governo; e por isso a populaÁaı rapida de hum
 Paiz he a prova mais incontestavel da bondade do Governo, que o domina,
-e da sabedoria da sua administra√ßa√µ.
+e da sabedoria da sua administraÁaı.
 
-Que o Governo Monarchico he de todos o melhor,[3] tem sido a opinia√µ dos
-Sabios de todos os seculos, incluindo Plata√µ, o maior politico da
-antiguidade; e o mesmo Joa√µ Jaques Rosseau, grande entuziasta, por√©m ao
-mesmo tempo pensador profundo, na√µ deixa de conhecer esta verdade,
-confessando no seu Contracto social, que o Governo Republicano na√µ he
+Que o Governo Monarchico he de todos o melhor,[3] tem sido a opiniaı dos
+Sabios de todos os seculos, incluindo Plataı, o maior politico da
+antiguidade; e o mesmo Joaı Jaques Rosseau, grande entuziasta, porÈm ao
+mesmo tempo pensador profundo, naı deixa de conhecer esta verdade,
+confessando no seu Contracto social, que o Governo Republicano naı he
 proprio para a natureza do homem.
 
-No interior de huma familia, quando hum s√≥ individuo dirige os negocios
+No interior de huma familia, quando hum sÛ individuo dirige os negocios
 domesticos, todos vivem em harmonia; logo que mais de hum influem no
-regimen da casa, na√µ ha mais passifica√ßa√µ. Isto se observa a bordo da
-N√°o, e do mais tenue batel; isto se observa no Exercito, e geralmente em
-todas as Corpora√ß√µes, e associa√ß√µes humanas.
+regimen da casa, naı ha mais passificaÁaı. Isto se observa a bordo da
+N·o, e do mais tenue batel; isto se observa no Exercito, e geralmente em
+todas as CorporaÁıes, e associaÁıes humanas.
 
 Se examinamos os annaes do mundo, he aquelle o unico Governo, em que se
-encontra estabilidade sobre a terra. Qual he a Republica, cuja dura√ßa√µ
-possa comparar-se, na√µ digo com o Imperio da China, que conta mais de
-quatro mil annos, nem com a Monarchia da Assyria, que desde Belo at√©
+encontra estabilidade sobre a terra. Qual he a Republica, cuja duraÁaı
+possa comparar-se, naı digo com o Imperio da China, que conta mais de
+quatro mil annos, nem com a Monarchia da Assyria, que desde Belo atÈ
 Sardanapalo contava mais de mil e quatrocentos annos, nem com a do
-Egypto, que desde Sezostrio at√© Alexandre Magno contava mil trezentos e
+Egypto, que desde Sezostrio atÈ Alexandre Magno contava mil trezentos e
 noventa annos; mas ainda com as Monarchias mais modernas da Europa?
 
-O Governo Republicano, al√©m de na√µ poder ter presistencia, como
-contrario √° natureza do homem, Segundo a experiencia de muitos seculos o
-tem mostrado, he o f√≥co de todas as paix√µes humanas; o odio, a ambi√ßa√µ,
-a inveja, alli desenvolvem todo o genero de perversidades. Na√µ foi hum
+O Governo Republicano, alÈm de naı poder ter presistencia, como
+contrario · natureza do homem, Segundo a experiencia de muitos seculos o
+tem mostrado, he o fÛco de todas as paixıes humanas; o odio, a ambiÁaı,
+a inveja, alli desenvolvem todo o genero de perversidades. Naı foi hum
 Governo Monarchico, o que envenenou o virtuoso Socrates, e desterrou o
-justo Arristides. Hum Monarcha, pela grande distancia em que est√° acima
-de todos os seus Vassallos, na√µ conhece a emula√ßa√µ, este monstro, que
-occasionou o primeiro assassinio sobre a terra, apenas sahida das m√£os
-do Creador, que na√µ persegue sena√µ a virtude, e o merecimento, que
-soprou as prescrip√ß√µes de Sylla, as quaes ainda hoje fazem estremecer a
-humanidade, contra todos os Cidad√£os, cujos talentos, ou riquezas podia√µ
-fazer sombra √° sua ambi√ßa√µ. Fora√µ os Tribunaes Republicanos, que fizera√µ
-degolar milhares de innocentes, e cobrira√µ a Fran√ßa de mortes, e
+justo Arristides. Hum Monarcha, pela grande distancia em que est· acima
+de todos os seus Vassallos, naı conhece a emulaÁaı, este monstro, que
+occasionou o primeiro assassinio sobre a terra, apenas sahida das m„os
+do Creador, que naı persegue senaı a virtude, e o merecimento, que
+soprou as prescripÁıes de Sylla, as quaes ainda hoje fazem estremecer a
+humanidade, contra todos os Cidad„os, cujos talentos, ou riquezas podiaı
+fazer sombra · sua ambiÁaı. Foraı os Tribunaes Republicanos, que fizeraı
+degolar milhares de innocentes, e cobriraı a FranÁa de mortes, e
 carnagem.
 
 A Republica Romana apresenta mais crimes, e mais atrocidades,
-commettidas s√≥mente em alguns dias de hum Mario, de hum Sylla, de hum
-Cesar, do que se tinha√µ commettido no decurso de mais de duzentos annos,
-em que governava√µ os Reis: e a Fran√ßa, em perto de quatorze seculos, em
-que havia sido regida pelos seus Monarchas, na√µ experimentou tantos
-horrores, como em hum s√≥ dia dessa ephimera Republica, no tempo dos
+commettidas sÛmente em alguns dias de hum Mario, de hum Sylla, de hum
+Cesar, do que se tinhaı commettido no decurso de mais de duzentos annos,
+em que governavaı os Reis: e a FranÁa, em perto de quatorze seculos, em
+que havia sido regida pelos seus Monarchas, naı experimentou tantos
+horrores, como em hum sÛ dia dessa ephimera Republica, no tempo dos
 Robes Pieres, dos Marates, e dos Dantons.
 
-Sendo pois o Governo Monarchico exempto das paix√µes monstruosas, que
-domina√µ nas Repubicas, o mais s√≥lido, e permanente, o melhor, e o mais
-conf√≥rme √° natureza do homem, p√≥de ainda affirmar-se, que entre todas as
-Monarchias da Europa na√µ havia hum s√≥, em que os Vassallos fossem mais
+Sendo pois o Governo Monarchico exempto das paixıes monstruosas, que
+dominaı nas Repubicas, o mais sÛlido, e permanente, o melhor, e o mais
+confÛrme · natureza do homem, pÛde ainda affirmar-se, que entre todas as
+Monarchias da Europa naı havia hum sÛ, em que os Vassallos fossem mais
 felizes, nem gosassem de mais igualdade de direitos, do que na Monarchia
-Portugueza, em quanto as Leis fundamentaes estivera√µ em vigor, e fora√µ
+Portugueza, em quanto as Leis fundamentaes estiveraı em vigor, e foraı
 respeitados os costumes, e o regimen economico, e politico dos nossos
 maiores. Todo o Vassallo Portuguez, fosse do Reino, ou Colonias, podia
-por meio dos seus talentos, e virtudes ser elevado √°s maiores honras, e
+por meio dos seus talentos, e virtudes ser elevado ·s maiores honras, e
 aos empregos mais importantes, Militares, Civis, ou Ecclesiasticos. Em
-nenhum outro Paiz do mundo, a na√µ ser o Imperio da China, gosa√µ os
-humanos de huma ta√µ perfeita igualdade.
+nenhum outro Paiz do mundo, a naı ser o Imperio da China, gosaı os
+humanos de huma taı perfeita igualdade.
 
 O grande Marquez de Pombal quando foi nomeado Secretario de Estado, e
-chamado √° dignidade mais eminente do Imperio, era hum Fidalgo de
-Provincia, s√≥mente recommendado pelas suas luzes; fora√µ os talentos, que
-elle desenvolveo no ministerio, e no Servi√ßo do seu Soberano, que depois
-o elev√°ra√µ aos titulos de Conde, e de Marquez.
+chamado · dignidade mais eminente do Imperio, era hum Fidalgo de
+Provincia, sÛmente recommendado pelas suas luzes; foraı os talentos, que
+elle desenvolveo no ministerio, e no ServiÁo do seu Soberano, que depois
+o elev·raı aos titulos de Conde, e de Marquez.
 
-Huma das bellas qualidades, que se not√°ra√µ no Imperador Marco Aurelio,
-foi a sua extrema circumspec√ßa√µ na escolha dos Magistrados, dos
-Governadores das Provincias, e Funccionarios p√∫blicos. Elle dizia que
-na√µ estava no poder de hum Principe o crear homens taes como este os
-quereria, mas que delle depende o emprega-los taes como elles sa√µ, cada
+Huma das bellas qualidades, que se not·raı no Imperador Marco Aurelio,
+foi a sua extrema circumspecÁaı na escolha dos Magistrados, dos
+Governadores das Provincias, e Funccionarios p˙blicos. Elle dizia que
+naı estava no poder de hum Principe o crear homens taes como este os
+quereria, mas que delle depende o emprega-los taes como elles saı, cada
 hum segundo o seu talento. Esta era a maxima dos Monarchas Portuguezes;
-nenhuma classe de Cidad√£os se podia julgar excluida dos mais honrosos
+nenhuma classe de Cidad„os se podia julgar excluida dos mais honrosos
 Cargos. Se entre os Titulares, e grandes do Reino apparecia o
 merecimento, alli se fazia a importante escolha dos Ministros de Estado;
 se entre os Magistrados, ou homens de letras, he a estes, que se dirigia
-aquella nomea√ßa√µ; se entre os Militares, era esta a classe preferida. Em
-todos os empregos geralmente, foi sempre observada a mesma justi√ßa, e
-imparcialidade: simples Soldados Portuguezes fora√µ por muitas vezes
-elevados, pelos seus servi√ßos, aos postos de Generaes, e Marechaes; na
-Marinha pessoas muito humildes, cheg√°ra√µ aos postos de Capit√£es de Mar
-Guerra, Chefes de Esquadra, e Almirantes, s√≥mente pelos seus distinctos
+aquella nomeaÁaı; se entre os Militares, era esta a classe preferida. Em
+todos os empregos geralmente, foi sempre observada a mesma justiÁa, e
+imparcialidade: simples Soldados Portuguezes foraı por muitas vezes
+elevados, pelos seus serviÁos, aos postos de Generaes, e Marechaes; na
+Marinha pessoas muito humildes, cheg·raı aos postos de Capit„es de Mar
+Guerra, Chefes de Esquadra, e Almirantes, sÛmente pelos seus distinctos
 merecimentos[4].
 
-Na Inglaterra, mesmo nesta Na√ßa√µ illuminada, na√µ se prat√≠ca huma ta√µ
-perfeita imparcialidade: os cargos importantes sa√µ ordinariamente dados
+Na Inglaterra, mesmo nesta NaÁaı illuminada, naı se pratÌca huma taı
+perfeita imparcialidade: os cargos importantes saı ordinariamente dados
 aos parentes dos Membros do Parlamento; e todos sabem as difficuldades,
 que he perciso vencer hum Inglez, para ser eleito Membro da Camara dos
 Communs, que manobras, que intrigas, que despezas, para obter a
-preferencia sobre os seus concorrentes? As mesmas Patentes Militares at√©
-certa gradua√ßa√µ, podem ser compradas a dinheiro.
+preferencia sobre os seus concorrentes? As mesmas Patentes Militares atÈ
+certa graduaÁaı, podem ser compradas a dinheiro.
 
 He por ventura vulgar na mesma Inglaterra, o ver tirar hum Bispo de
 entre os mais humildes Vassallos, como todos os dias se via em Portugal,
-onde os Monarchas para huma ta√µ respeitavel elei√ßa√µ, s√≥mente tinha√µ em
+onde os Monarchas para huma taı respeitavel eleiÁaı, sÛmente tinhaı em
 vista as virtudes, e qualidades pessoaes, que devem adornar estes
-Principes da Igreja, sem alguma atten√ßa√µ aos seus progenitores? Esta
-s√°bia politica he mais que humana, he no Evangelho que os nossos
-Augustos Soberanos tinha√µ bebido os principios de huma ta√µ admiravel
-igualdade. He mais hum beneficio devido √° Religia√µ Christ√£.
+Principes da Igreja, sem alguma attenÁaı aos seus progenitores? Esta
+s·bia politica he mais que humana, he no Evangelho que os nossos
+Augustos Soberanos tinhaı bebido os principios de huma taı admiravel
+igualdade. He mais hum beneficio devido · Religiaı Christ„.
 
-Os nacionaes das Ilhas dos A√ßores gos√°ra√µ sempre desta prorogativa
+Os nacionaes das Ilhas dos AÁores gos·raı sempre desta prorogativa
 geral, sendo chamados a todos os cargos de que os seus merecimentos os
-fazia√µ dignos, tanto nos tempos antigos, como modernos.
+faziaı dignos, tanto nos tempos antigos, como modernos.
 
-Se este systema politico, e de justi√ßa soffreo altera√ßa√µ, foi nessa
-curta √©pocha da domina√ßa√µ dos Hespanhoes. Os Cargos importantes s√≥mente
-fora√µ occupados pelos Castelhanos, e os naturaes das Ilhas na√µ fora√µ
+Se este systema politico, e de justiÁa soffreo alteraÁaı, foi nessa
+curta Èpocha da dominaÁaı dos Hespanhoes. Os Cargos importantes sÛmente
+foraı occupados pelos Castelhanos, e os naturaes das Ilhas naı foraı
 mais attendidos, nem considerados. Este acontecimento deve
 confirmar-nos, de que o Governo Portuguez foi sempre o mais justo, e
-humano, e aquelle em que os P√≥vos era√µ tratados com mais igualdade,
-justi√ßa, e amor.
+humano, e aquelle em que os PÛvos eraı tratados com mais igualdade,
+justiÁa, e amor.
 
-Durante aquella √©pocha as Ilhas fora√µ opprimidas com todo o genero de
-extors√µes: Os Governadores Castelhanos com o pertexto de fazer
-fortifica√ß√µes em todas as Ilhas, arruin√°ra√µ a Agricultura, privando-a
-dos bra√ßos necessarios, que empregava√µ em fachinhas, e empobrecendo o
-povo pela priva√ßa√µ dos seus jornaes. Os nacionaes que precisava√µ de
-artifices para as suas obras, soffria√µ tambem huma pesada contribui√ßa√µ
-indirecta; porque se o Governo carecia para a constru√ßa√µ dos projectados
-Castellos de dez, ou vinte Officiaes, era√µ avisados militarmente
-oitenta, e cem; e os Portuguezes que queria√µ concluir as suas obras, se
-via√µ precisados a despender dinheiro, e obsequios para conseguir a
-dispen√ßa de alguns.
+Durante aquella Èpocha as Ilhas foraı opprimidas com todo o genero de
+extorsıes: Os Governadores Castelhanos com o pertexto de fazer
+fortificaÁıes em todas as Ilhas, arruin·raı a Agricultura, privando-a
+dos braÁos necessarios, que empregavaı em fachinhas, e empobrecendo o
+povo pela privaÁaı dos seus jornaes. Os nacionaes que precisavaı de
+artifices para as suas obras, soffriaı tambem huma pesada contribuiÁaı
+indirecta; porque se o Governo carecia para a construÁaı dos projectados
+Castellos de dez, ou vinte Officiaes, eraı avisados militarmente
+oitenta, e cem; e os Portuguezes que queriaı concluir as suas obras, se
+viaı precisados a despender dinheiro, e obsequios para conseguir a
+dispenÁa de alguns.
 
-Bem sabia√µ os Castelhanos, que p√¥r huma Ilha no estado inconquistavel,
-era hum projecto aerio, e ta√µ quimerico, como se hum individuo
+Bem sabiaı os Castelhanos, que pÙr huma Ilha no estado inconquistavel,
+era hum projecto aerio, e taı quimerico, como se hum individuo
 pertendesse munir-se de tal sorte de armas, que podesse resistir a hum
 Exercito, ou se hum Soberano projectasse fortificar cada hum dos pontos
 do seu Imperio, de tal sorte, que este podesse resistir a todas as
-for√ßas juntas de outra Na√ßa√µ. Se huma Ilha p√≥de sustentar-se contra o
-ataque, de huma N√°o, ou duas, na√µ o poder√° fazer contra quatro; e se
-estas na√µ basta√µ, huma Esquadra de dobradas for√ßas poder√° conquistar a
-Ilha mais bem fortificada do mundo, isto mesmo se p√≥de dizer a respeito
+forÁas juntas de outra NaÁaı. Se huma Ilha pÛde sustentar-se contra o
+ataque, de huma N·o, ou duas, naı o poder· fazer contra quatro; e se
+estas naı bastaı, huma Esquadra de dobradas forÁas poder· conquistar a
+Ilha mais bem fortificada do mundo, isto mesmo se pÛde dizer a respeito
 de qualquer Provincia dos Estados mais poderosos do Continente. A
-Alemanha por exemplo, ou a Fran√ßa, na√µ poderia√µ evitar, que a Na√ßa√µ mais
-fraca dos seus visinhos, acommettendo de repente com for√ßas superiores
-huma das suas Cidades, ou Provincias, a na√µ invadisse. Mas violar
+Alemanha por exemplo, ou a FranÁa, naı poderiaı evitar, que a NaÁaı mais
+fraca dos seus visinhos, acommettendo de repente com forÁas superiores
+huma das suas Cidades, ou Provincias, a naı invadisse. Mas violar
 qualquer territorio alheio, he huma das mais atrozes injurias,
-reconhecidas entre as Na√ß√µes.
+reconhecidas entre as NaÁıes.
 
 E de que serviria ao usurpador huma semelhante empreza? A potencia
-invadida cahiria sobre elle com todas as suas for√ßas, e quando estas na√µ
-fossem bastantes, na√µ haveria Na√ßa√µ alguma na Europa, que se recusasse a
-fazer-lhe justi√ßa, reunindo-se contra o injusto aggressor, at√© que ao
+invadida cahiria sobre elle com todas as suas forÁas, e quando estas naı
+fossem bastantes, naı haveria NaÁaı alguma na Europa, que se recusasse a
+fazer-lhe justiÁa, reunindo-se contra o injusto aggressor, atÈ que ao
 Soberano legitimo fosse restituida a Provincia, Cidade, ou Ilha assim
 usurpada. Em quanto houver Lei natural, e se respeitarem os principios
-do Direito das Gentes, ser√° inalteravel esta regra, que faz de mais
-disso toda a seguran√ßa das Na√ß√µes, e he indispensavel para manter o
+do Direito das Gentes, ser· inalteravel esta regra, que faz de mais
+disso toda a seguranÁa das NaÁıes, e he indispensavel para manter o
 equilibrio politico.
 
-He certo que na√µ tendo os Hespanhoes direito legitimo sobre as Ilhas,
-pertenderia√µ conserva-las por meio da for√ßa, e violencia; o que sempre
-he de pouca presistencia. Por√©m felizmente este governo s√≥ durou
-sessenta annos, desde 1580 at√© 1640, em que foi restabelecido em
-Portugal o Governo dos seus legitimos Soberanos. As Ilhas dos A√ßores
-descobertas, povoadas, e cultivadas pelos Portuguezes, pertencem ta√µ
-legitimamente √° Monarchia Portugueza, como qualquer outra parte dos seus
-Estados; e he por isso que ellas sempre seguira√µ a sorte da sua
-metrople. Sa√µ pois os Direitos sagrados da propriedade, e dominio, que
-conserva√µ estas Ilhas aos Monarchas Portuguezes ha mais de tres seculos,
-tendo s√≥mente aquellas fortifica√ß√µes que dicta a boa raza√µ. Na√µ sa√µ as
-for√ßas limitadas de huma Ilha, que a podem conservar, sa√µ as for√ßas de
-toda a Na√ßa√µ, e sobre tudo os direitos legitimos por onde ella pertence
-√° Potencia, que a domina. Faltando aos Hespanhoes estes titulos, inuteis
-era√µ todas as fortifica√ß√µes, assim como o foi o sangue dos Portuguezes,
-que elles derram√°ra√µ, fazendo degolar huns, enforcando outros, e
+He certo que naı tendo os Hespanhoes direito legitimo sobre as Ilhas,
+pertenderiaı conserva-las por meio da forÁa, e violencia; o que sempre
+he de pouca presistencia. PorÈm felizmente este governo sÛ durou
+sessenta annos, desde 1580 atÈ 1640, em que foi restabelecido em
+Portugal o Governo dos seus legitimos Soberanos. As Ilhas dos AÁores
+descobertas, povoadas, e cultivadas pelos Portuguezes, pertencem taı
+legitimamente · Monarchia Portugueza, como qualquer outra parte dos seus
+Estados; e he por isso que ellas sempre seguiraı a sorte da sua
+metrople. Saı pois os Direitos sagrados da propriedade, e dominio, que
+conservaı estas Ilhas aos Monarchas Portuguezes ha mais de tres seculos,
+tendo sÛmente aquellas fortificaÁıes que dicta a boa razaı. Naı saı as
+forÁas limitadas de huma Ilha, que a podem conservar, saı as forÁas de
+toda a NaÁaı, e sobre tudo os direitos legitimos por onde ella pertence
+· Potencia, que a domina. Faltando aos Hespanhoes estes titulos, inuteis
+eraı todas as fortificaÁıes, assim como o foi o sangue dos Portuguezes,
+que elles derram·raı, fazendo degolar huns, enforcando outros, e
 degradando outros.
 
-Restaurado o Governo Portuguez, logo as Ilhas come√ß√°ra√µ a respirar, foi
-restabelecida a sua antiga felicidade, e continu√°ra√µ a prosperar de dia
+Restaurado o Governo Portuguez, logo as Ilhas comeÁ·raı a respirar, foi
+restabelecida a sua antiga felicidade, e continu·raı a prosperar de dia
 em dia.
 
 
@@ -532,471 +532,471 @@ em dia.
 
 SEGUNDA PARTE
 
-_Desde a crea√ßa√µ da Capitania Geral, at√© a passage da Corte para o Rio
+_Desde a creaÁaı da Capitania Geral, atÈ a passage da Corte para o Rio
 de Janeiro._
 
 
-As Ilhas dos A√ßores ta√µ protegidas pelo Governo, e favorecidas pela
-natureza, na√µ podia√µ deixar de ter hum progresso maravilhoso; e os seus
-moradores na√µ soffrendo hum s√≥ imposto, que podesse desanimar o
-Cultivador, lev√°ra√µ a cultura das terras ao maior gr√°o de perfei√ßa√µ. O
+As Ilhas dos AÁores taı protegidas pelo Governo, e favorecidas pela
+natureza, naı podiaı deixar de ter hum progresso maravilhoso; e os seus
+moradores naı soffrendo hum sÛ imposto, que podesse desanimar o
+Cultivador, lev·raı a cultura das terras ao maior gr·o de perfeiÁaı. O
 trigo, o milho, os legumes, a vinha, as frutas, com especialidade a
-laranja, cobrem este Paiz por toda a parte, onde as repetidas explus√µes
-dos fogos vulcanicos o na√µ tem esterilisado[5].
+laranja, cobrem este Paiz por toda a parte, onde as repetidas explusıes
+dos fogos vulcanicos o naı tem esterilisado[5].
 
-Augmentadas pois as rela√ß√µes da Sociedade Civil pela multiplica√ßa√µ dos
+Augmentadas pois as relaÁıes da Sociedade Civil pela multiplicaÁaı dos
 habitantes das mesmas Ilhas, e suas riquezas, e fazendo-se mais
-complicada a administra√ßa√µ da Justi√ßa, e direc√ßa√µ do Governo, achou
-conveniente o Senhor Rei D. Jos√© I., por Decreto de 2 de Agosto de 1766,
+complicada a administraÁaı da JustiÁa, e direcÁaı do Governo, achou
+conveniente o Senhor Rei D. JosÈ I., por Decreto de 2 de Agosto de 1766,
 estabelecer alli huma Capitania Geral, com residencia do seu Chefe na
-Ilha Terceira; creando tambem Juizes de F√≥ra em todas as Ilhas, e hum
+Ilha Terceira; creando tambem Juizes de FÛra em todas as Ilhas, e hum
 Corregedor para as de S. Miguel, e Santa Maria, desmembradas da
-Correi√ßa√µ de Angra, que ficou comprehendendo as outras sete Ilhas.
+CorreiÁaı de Angra, que ficou comprehendendo as outras sete Ilhas.
 
-Por Alvar√° da mesma data fora√µ abolidas as Ordenan√ßas chamadas de P√© de
+Por Alvar· da mesma data foraı abolidas as OrdenanÁas chamadas de PÈ de
 Castello da Cidade de Angra, e fortalezas da sua dependencia,
 substituindo-as com tropa regular de Infantaria, e artilheria.
 
-Organisado por esta f√≥rma o Governo Militar, e Civil, e postas as Ilhas
-debaixo de huma administra√ßa√µ mais regular, fic√°ra√µ os seus moradores
-gosando de huma felicidade mais s√≥lida, certos nos seus direitos, e
+Organisado por esta fÛrma o Governo Militar, e Civil, e postas as Ilhas
+debaixo de huma administraÁaı mais regular, fic·raı os seus moradores
+gosando de huma felicidade mais sÛlida, certos nos seus direitos, e
 seguros nas suas propriedades, e dominios.
 
-He sabido o muito que soffrem os p√≥vos, e o quanto padece a
-administra√ßa√µ da Justi√ßa nas grandes povoa√ß√µes regidas por Juizes
+He sabido o muito que soffrem os pÛvos, e o quanto padece a
+administraÁaı da JustiÁa nas grandes povoaÁıes regidas por Juizes
 Ordinarios, e Magistrados naturaes dellas, nos quaes, como observa o
-Alvar√° de 7 de Maio de 1801, al√©m de faltar a Sciencia do Direito para a
-direc√ßa√µ dos Negocios, accrescem as paix√µes do amor, e do odio, que
-entre os moradores das mesmas terras costuma√µ ser frequentes, e
+Alvar· de 7 de Maio de 1801, alÈm de faltar a Sciencia do Direito para a
+direcÁaı dos Negocios, accrescem as paixıes do amor, e do odio, que
+entre os moradores das mesmas terras costumaı ser frequentes, e
 irremediaveis por sua natureza.
 
-Ainda hoje se aponta√µ nas mesmas Ilhas predios, de que os seus antigos
-proprietarios tinha√µ sido violentamente privados por outros mais
+Ainda hoje se apontaı nas mesmas Ilhas predios, de que os seus antigos
+proprietarios tinhaı sido violentamente privados por outros mais
 poderosos.
 
-Em Portugal geralmente nos primeiros tempos da Monarchia, e at√© o
-reinado do Senhor D. Joa√µ II. em quanto a singelleza dos costumes, e a
-menor complica√ßa√µ dos negocios na√µ permittia√µ maior n√∫mero de Leis, era√µ
+Em Portugal geralmente nos primeiros tempos da Monarchia, e atÈ o
+reinado do Senhor D. Joaı II. em quanto a singelleza dos costumes, e a
+menor complicaÁaı dos negocios naı permittiaı maior n˙mero de Leis, eraı
 estas administradas por quaesquer homens bons, e de probidade das
 terras.
 
 Mas quem ignora a simplicidade dos costumes dos tempos anteriores ao
-Senhor Rei D. Joa√µ II., e por isso os poucos letigios, as poucas
-rela√ß√µes Commerciaes, o pouco luxo? Nas maiores Cortes da Europa na√µ se
-conhecia enta√µ a sombra do fausto, que hoje se encontra nas mais
+Senhor Rei D. Joaı II., e por isso os poucos letigios, as poucas
+relaÁıes Commerciaes, o pouco luxo? Nas maiores Cortes da Europa naı se
+conhecia entaı a sombra do fausto, que hoje se encontra nas mais
 pequenas Cidades: ainda muitos annos depois no Reinado de Francisco I.
-de Fran√ßa (segundo nota o Author do Ensaio sobre a Historia Geral)
-s√≥mente havia em Par√≠s duas carruagens, huma do uso da Rainha, outra da
-c√©lebre grande Senescal; homens, e mulheres andava√µ a cavallo.
+de FranÁa (segundo nota o Author do Ensaio sobre a Historia Geral)
+sÛmente havia em ParÌs duas carruagens, huma do uso da Rainha, outra da
+cÈlebre grande Senescal; homens, e mulheres andavaı a cavallo.
 
-Na√µ havendo de mais disto at√© enta√µ em Portugal Corpo de Leis geraes, e
+Naı havendo de mais disto atÈ entaı em Portugal Corpo de Leis geraes, e
 governando-se as Cidades, e Villas por Foraes, e Leis particulares,
 qualquer homem probo era sufficiente para alli ser Magistrado. Crescendo
-pois as rela√ß√µes Commerciaes, e Civis, augmentado o luxo, e estando j√°
+pois as relaÁıes Commerciaes, e Civis, augmentado o luxo, e estando j·
 publicado o Codigo do Senhor D. Affonso V., determinou seu filho o
-Senhor D. Joa√µ II. denominado o Sabio, que os Corregedores, e os
+Senhor D. Joaı II. denominado o Sabio, que os Corregedores, e os
 Magistrados principaes das Provincias fossem Jurisconsultos.
 
-Administrar a Justi√ßa aos seus semelhantes, e manter as Leis,
-fundamento, ela√ßo da sociedade Civil, he huma das mais nobres fun√ß√µes da
-humanidade, por√©m ao mesmo tempo a mais ardua, e difficil de bem
-desempenhar, na√µ s√≥ pelas qualidades relevantes, que devem adornar
-aquelles, que sa√µ encarregados de a exercer, mas tambem pela vastida√µ de
-conhecimentos que requer a Jurisprudencia, e pela multida√µ de id√©as, que
-deve ter o Magistrado. Na√µ he bastante conhecer todas as Leis do seu
+Administrar a JustiÁa aos seus semelhantes, e manter as Leis,
+fundamento, elaÁo da sociedade Civil, he huma das mais nobres funÁıes da
+humanidade, porÈm ao mesmo tempo a mais ardua, e difficil de bem
+desempenhar, naı sÛ pelas qualidades relevantes, que devem adornar
+aquelles, que saı encarregados de a exercer, mas tambem pela vastidaı de
+conhecimentos que requer a Jurisprudencia, e pela multidaı de idÈas, que
+deve ter o Magistrado. Naı he bastante conhecer todas as Leis do seu
 Paiz, assim como tambem o direito Politico, e das Gentes, he preciso
 ainda saber a Historia, a Geografia, a Chronologia, os usos, e costumes
-da sua Na√ßa√µ, todas as mudan√ßas, ou altera√ß√µes, que tem havido no seu
-Governo: He indispensavel tambem ter noticia dos estilos, e decis√µes dos
+da sua NaÁaı, todas as mudanÁas, ou alteraÁıes, que tem havido no seu
+Governo: He indispensavel tambem ter noticia dos estilos, e decisıes dos
 Tribunaes, para os seguir nos casos identicos, e para que a propriedade,
-e a vida dos Cidad√£os esteja√µ certas, e na√µ dependa√µ de variedade de
+e a vida dos Cidad„os estejaı certas, e naı dependaı de variedade de
 Juizos.
 
-¬´N'huma Monarchia, diz Montesquieu, a administra√ßa√µ da Justi√ßa, que na√µ
-decide s√≥mente da vida, e dos bens, mas tambem da honra, requer
-indaga√ß√µes escrupulosas. A delicadeza do Juiz augmenta √° medida, que
-elle tem maior deposito nas suas m√£os, e que elle pronunc√≠a sobre
-maiores interesses. Por isso nos na√µ devemos admirar de achar nas Leis
-destes estados tantas regras, restric√ß√µes, exten√ß√µes que multiplica√µ os
-casos particulares, e parecem fazer huma Arte da mesma raza√µ[6]¬ª Mil
+´N'huma Monarchia, diz Montesquieu, a administraÁaı da JustiÁa, que naı
+decide sÛmente da vida, e dos bens, mas tambem da honra, requer
+indagaÁıes escrupulosas. A delicadeza do Juiz augmenta · medida, que
+elle tem maior deposito nas suas m„os, e que elle pronuncÌa sobre
+maiores interesses. Por isso nos naı devemos admirar de achar nas Leis
+destes estados tantas regras, restricÁıes, extenÁıes que multiplicaı os
+casos particulares, e parecem fazer huma Arte da mesma razaı[6]ª Mil
 outras circumstancias indicadas pelo mesmo sabio, concorrem para fazer
 summamente complicada, e digna de grandes estudos a Jurisprudencia, esta
 Sciencia, que segundo os Jurisconsultos Romanos, exige hum conhecimento
 geral de todas as cousas, tanto sagradas, como profanas.
 
-Pelo mesmo Decreto da crea√ßa√µ dos Juizes de F√≥ra de 2 de Agosto de 1766,
-se determina, que os Naturaes das mesmas Ilhas sera√µ preferidos a outros
-quaesquer, nos despachos daquelles lugares; bem entendido, na√µ sendo
-para a propria Ilha, donde sa√µ oriundos, mas para qualquer das
-circumvisinhas. Dois principios da mais s√°bia politica apresenta esta
+Pelo mesmo Decreto da creaÁaı dos Juizes de FÛra de 2 de Agosto de 1766,
+se determina, que os Naturaes das mesmas Ilhas seraı preferidos a outros
+quaesquer, nos despachos daquelles lugares; bem entendido, naı sendo
+para a propria Ilha, donde saı oriundos, mas para qualquer das
+circumvisinhas. Dois principios da mais s·bia politica apresenta esta
 Lei; primeiro, o de beneficiar, e honrar os Naturaes do Paiz, contra a
-pratica ordinaria das mais Na√ß√µes com as suas Colonias; segundo, o de
-prevenir os inconvenientes de administrarem a Justi√ßa na propria Patria,
+pratica ordinaria das mais NaÁıes com as suas Colonias; segundo, o de
+prevenir os inconvenientes de administrarem a JustiÁa na propria Patria,
 e entre os parentes: Esta Lei admiravel he cuidadosamente observada no
-Imperio da China, onde nenhuma pessoa p√≥de ser nem Governador, nem Juiz
+Imperio da China, onde nenhuma pessoa pÛde ser nem Governador, nem Juiz
 na Provincia onde nasceo[7].
 
-Por Alvar√° de 26 de Fevereiro de 1771 fora√µ as Ilhas mandadas reputar,
+Por Alvar· de 26 de Fevereiro de 1771 foraı as Ilhas mandadas reputar,
 como partes adjacentes, e verdadeiras Provincias do Reino,
-determinando-se que fosse livre, e geral a extrac√ßa√µ do trigo das mesmas
-para Lisboa, e que s√≥ no caso de necessidade, para o sustento dos seus
-moradores, poder√°√µ as Camaras fazer a reserva da ter√ßa parte. A mesma
-Lei providenc√™a com penas contra os Officiaes das Camaras por qualquer
-abuso, ou transgressa√µ; mas na√µ os priva da inspec√ßa√µ sobre este ramo,
-que diz respeito ao sustento dos P√≥vos, e que pelas Ordena√ß√µes do Reino,
-e mais Leis lhe est√° incumbido[8] na√µ para os coartarem, ou impedirem a
-exporta√ßa√µ em geral, mas para poderem em tempo providenciar sobre
+determinando-se que fosse livre, e geral a extracÁaı do trigo das mesmas
+para Lisboa, e que sÛ no caso de necessidade, para o sustento dos seus
+moradores, poder·ı as Camaras fazer a reserva da terÁa parte. A mesma
+Lei providencÍa com penas contra os Officiaes das Camaras por qualquer
+abuso, ou transgressaı; mas naı os priva da inspecÁaı sobre este ramo,
+que diz respeito ao sustento dos PÛvos, e que pelas OrdenaÁıes do Reino,
+e mais Leis lhe est· incumbido[8] naı para os coartarem, ou impedirem a
+exportaÁaı em geral, mas para poderem em tempo providenciar sobre
 qualquer falta, que possa acontecer: e he neste sentido que se entendem
-as licen√ßas, de que falla a Ordena√ßa√µ do Livro 5.^o Tit. 76, relativas
-ao trigo, milho, e mais gr√£os formentaceos; sendo as licen√ßas que alli
-se manda√µ pedir, como hum manifesto para poder saber-se, por meio delle,
+as licenÁas, de que falla a OrdenaÁaı do Livro 5.^o Tit. 76, relativas
+ao trigo, milho, e mais gr„os formentaceos; sendo as licenÁas que alli
+se mandaı pedir, como hum manifesto para poder saber-se, por meio delle,
 as circumstancias da terra naquelle importante ramo do primeiro alimento
 do homem. Bem como nas Alfandegas se tira despacho para todas as
-fazendas, que se embarca√µ, ainda mesmo que seja√µ das livres, que na√µ
-paga√µ direitos, sem que por isso se possa dizer que ha dependencia dos
+fazendas, que se embarcaı, ainda mesmo que sejaı das livres, que naı
+pagaı direitos, sem que por isso se possa dizer que ha dependencia dos
 Officiaes das mesmas Alfandegas; porque qualquer abuso da parte destes,
-seria hum erro do seu officio, pelo qual seria√µ punidos, assim como
-tambem no primeiro caso, o devem ser os Officiaes da Camara na f√≥rma do
-citado Alvar√°.
+seria hum erro do seu officio, pelo qual seriaı punidos, assim como
+tambem no primeiro caso, o devem ser os Officiaes da Camara na fÛrma do
+citado Alvar·.
 
-Estas mesmas licen√ßas se acha√µ em dezuso na Ilha de S. Miguel; alli se
-embarca o gra√µ de toda a qualidade, sem alguma dependencia, se pelo meio
-do anno a Camara conhece, que em raza√µ da exporta√ßa√µ j√° feita p√≥de
+Estas mesmas licenÁas se achaı em dezuso na Ilha de S. Miguel; alli se
+embarca o graı de toda a qualidade, sem alguma dependencia, se pelo meio
+do anno a Camara conhece, que em razaı da exportaÁaı j· feita pÛde
 faltar milho, ou trigo para o sustento do Povo, manda fazer reserva do
-que se julga necessario para prover o Celeiro P√∫blico, fazendo calculo
-da por√ßa√µ, que se p√≥de consumir por mez, at√© a nova colheita; e
-acautelado por esta f√≥rma o provimento do Celeiro, se contin√∫a a
-exportar todo o remanescente: observada assim a Ordena√ßa√µ, que determina
-no Liv. 5.^o Tit. 76. ¬ß. 8., que toda a pessoa que tiver pa√µ seu, ou de
-suas rendas, o poder√° levar livremente onde quizer, deixando a ter√ßa
-parte no lugar, donde o tirar, e podendo mesmo levar essa ter√ßa parte
-com licen√ßa da Camara do dito lugar.
+que se julga necessario para prover o Celeiro P˙blico, fazendo calculo
+da porÁaı, que se pÛde consumir por mez, atÈ a nova colheita; e
+acautelado por esta fÛrma o provimento do Celeiro, se contin˙a a
+exportar todo o remanescente: observada assim a OrdenaÁaı, que determina
+no Liv. 5.^o Tit. 76. ß. 8., que toda a pessoa que tiver paı seu, ou de
+suas rendas, o poder· levar livremente onde quizer, deixando a terÁa
+parte no lugar, donde o tirar, e podendo mesmo levar essa terÁa parte
+com licenÁa da Camara do dito lugar.
 
 A experiencia tem mostrado que, todas as vezes que outras quaesquer
-Authoridades, que na√µ seja√µ as Camaras, se tem engerido sobre o negocio
-da exporta√ßa√µ, do gra√µ das Ilhas, sempre as consequencias tem sido
+Authoridades, que naı sejaı as Camaras, se tem engerido sobre o negocio
+da exportaÁaı, do graı das Ilhas, sempre as consequencias tem sido
 funestas.
 
-Como as Camaras sa√µ compostas das pessoas mais consideraveis das
+Como as Camaras saı compostas das pessoas mais consideraveis das
 Cidades, e Villas, com muita sabedoria as encarregou o Legislador
-Portuguez daquella inspec√ßa√µ; porque sendo elles por huma parte os
-maiores proprietarios das Terras, mais que ninguem interessa√µ, em que os
-generos da produc√ßa√µ das mesmas tenha√µ o maior valor; o que muito anima
-a lavoura; e pela outra parte, sendo ligados por tantas rela√ß√µes de
-parentesco, de amisade, e de outras muitas considera√ß√µes com os mais
-habitantes, elles devera√µ interessar-se na sua felicidade, e na sua
-conserva√ßa√µ.
+Portuguez daquella inspecÁaı; porque sendo elles por huma parte os
+maiores proprietarios das Terras, mais que ninguem interessaı, em que os
+generos da producÁaı das mesmas tenhaı o maior valor; o que muito anima
+a lavoura; e pela outra parte, sendo ligados por tantas relaÁıes de
+parentesco, de amisade, e de outras muitas consideraÁıes com os mais
+habitantes, elles deveraı interessar-se na sua felicidade, e na sua
+conservaÁaı.
 
 He cousa maravilhosa ver, como os nossos mais antigos Legisladores
-fizera√µ estabelecimentos, que os Sabios, e Filosophos tem trabalhado
-seculos depois para fazer adoptar √°s outras Na√ß√µes.
+fizeraı estabelecimentos, que os Sabios, e Filosophos tem trabalhado
+seculos depois para fazer adoptar ·s outras NaÁıes.
 
-Ou√ßamos o Abbade Condilhac a respeito dos regulamentos do Governo da
-Fran√ßa sobre a Policia dos gr√£os: nos tempos antigos, diz este illustre
-Author, gosava aquelle Commercio na Fran√ßa de huma plena, e inteira
-liberdade; e multiplicando-se os Commerciantes √° propor√ßa√µ da
-necessidade, a circula√ßa√µ se fazia sem obstaculos, e punha aquelle
-genero por toda a parte no seu verdadeiro pre√ßo.
+OuÁamos o Abbade Condilhac a respeito dos regulamentos do Governo da
+FranÁa sobre a Policia dos gr„os: nos tempos antigos, diz este illustre
+Author, gosava aquelle Commercio na FranÁa de huma plena, e inteira
+liberdade; e multiplicando-se os Commerciantes · proporÁaı da
+necessidade, a circulaÁaı se fazia sem obstaculos, e punha aquelle
+genero por toda a parte no seu verdadeiro preÁo.
 
-Por√©m que ao depois, accrescenta elle, intromettendo-se o Governo a
-querer fazer regulamentos sobre o Commercio dos gr√£os, humas vezes
-prohib√≠ra a exporta√ßa√µ, e importa√ßa√µ, aquella com o fundamento--de que
+PorÈm que ao depois, accrescenta elle, intromettendo-se o Governo a
+querer fazer regulamentos sobre o Commercio dos gr„os, humas vezes
+prohibÌra a exportaÁaı, e importaÁaı, aquella com o fundamento--de que
 poderia haver falta no paiz, e esta com fundamento.--de que os trigos de
-f√≥ra poderia√µ fazer cahir os da terra em vil pre√ßo.
+fÛra poderiaı fazer cahir os da terra em vil preÁo.
 
-Elle mesmo observa, que estas prohibi√ß√µes versava√µ sobre falsas
-supposi√ß√µes; porque huma circula√ßa√µ livre p√µe necessariamente os trigos
-ao nivel por toda a parte: na√µ se importa√µ trigos de mais, porque esse
-superfluo na√µ se venderia, ou vender-se-hia com perda; e na√µ se exporta√µ
-os trigos, que sa√µ necessarios no Paiz, porque na√µ haveria interesse em
+Elle mesmo observa, que estas prohibiÁıes versavaı sobre falsas
+supposiÁıes; porque huma circulaÁaı livre pıe necessariamente os trigos
+ao nivel por toda a parte: naı se importaı trigos de mais, porque esse
+superfluo naı se venderia, ou vender-se-hia com perda; e naı se exportaı
+os trigos, que saı necessarios no Paiz, porque naı haveria interesse em
 os ir vender n'outra parte.
 
-Depois daquellas prohibi√ß√µes do Governo, em o primeiro anno o pre√ßo do
-trigo abaixou; no segundo abaixou mais; e no terceiro veio a hum pre√ßo
-infimo. A cultura decahio, houvera√µ menos terras semeadas, seguira√µ-se,
-como he natural, annos de fome, e o pre√ßo do trigo foi excessivo.
+Depois daquellas prohibiÁıes do Governo, em o primeiro anno o preÁo do
+trigo abaixou; no segundo abaixou mais; e no terceiro veio a hum preÁo
+infimo. A cultura decahio, houveraı menos terras semeadas, seguiraı-se,
+como he natural, annos de fome, e o preÁo do trigo foi excessivo.
 
-Tal foi o effeito dos Regulamentos que defendia√µ a exporta√ßa√µ, e
-importa√ßa√µ: na√µ foi mais possivel p√¥r nos seus verdadeiros pre√ßos, nem
-os trigos, nem os salarios; e na√µ houve sena√µ miseria, ou entre os
+Tal foi o effeito dos Regulamentos que defendiaı a exportaÁaı, e
+importaÁaı: naı foi mais possivel pÙr nos seus verdadeiros preÁos, nem
+os trigos, nem os salarios; e naı houve senaı miseria, ou entre os
 cultivadores, ou entre o Povo.
 
-Outras vezes permittio o Governo a importa√ßa√µ com o fundamento de terem
-recursos em hum anno de esterilidade, mas defendeo a exporta√ßa√µ pelo
-motivo de se na√µ exporem √° necessidade daquillo mesmo, que possuia√µ.
-Outras vezes permittio a exporta√ßa√µ dizendo, que quanto mais trigo se
-exportasse da Fran√ßa, maior seria o seu pre√ßo; que sendo maior o pre√ßo,
-e por consequencia maior o beneficio do cultivador, mais cultivar√° este,
-e mais florecente ser√° a Agricultura: mas que na√µ convinha permittir a
-importa√ßa√µ, porque ella faz cahir em pre√ßo baixo os trigos do Paiz. O
+Outras vezes permittio o Governo a importaÁaı com o fundamento de terem
+recursos em hum anno de esterilidade, mas defendeo a exportaÁaı pelo
+motivo de se naı exporem · necessidade daquillo mesmo, que possuiaı.
+Outras vezes permittio a exportaÁaı dizendo, que quanto mais trigo se
+exportasse da FranÁa, maior seria o seu preÁo; que sendo maior o preÁo,
+e por consequencia maior o beneficio do cultivador, mais cultivar· este,
+e mais florecente ser· a Agricultura: mas que naı convinha permittir a
+importaÁaı, porque ella faz cahir em preÁo baixo os trigos do Paiz. O
 mesmo Author refere os infinitos inconvenientes de todos estes planos, e
-os males inauditos, que todos elles trouxera√µ ao Estado, louvando os
+os males inauditos, que todos elles trouxeraı ao Estado, louvando os
 Governos, que tem a sabedoria de se pouparem a semelhantes cuidados,
-deixando livre a circula√ßa√µ destes generos[9].
+deixando livre a circulaÁaı destes generos[9].
 
-¬´Consistindo a sustenta√ßa√µ (diz hum Monarcha, Portuguez) e as riquezas
-essenciaes de todos os P√≥vos nos primeiros cabedaes, que produzem a
+´Consistindo a sustentaÁaı (diz hum Monarcha, Portuguez) e as riquezas
+essenciaes de todos os PÛvos nos primeiros cabedaes, que produzem a
 lavoura, e a industria dos habitantes, deve por isso animar-se a
 primeira, e favorecer-se a segunda, de sorte qua os frutos naturaes, e
 industriaes, que sobejando em huns lugares, constituem nelles hum
-cabedal inutil, e morto, possa√µ renascer, e fazer-se lucrosos pela
-exporta√ßa√µ para outros lugares, que delles necessita√µ.¬ª[10]
+cabedal inutil, e morto, possaı renascer, e fazer-se lucrosos pela
+exportaÁaı para outros lugares, que delles necessitaı.ª[10]
 
 No anno de 1795 havendo huma grande esterilidade em Portugal, e em toda
 a Europa, e querendo o Ministerio tomar medidas para prover a Capital,
 despedio para este fim hum Aviso ao Governo Geral das Ilhas,
 encarregando-o de fazer conduzir dalli todo o mantimento possivel para
 Lisboa. Naquelle Aviso Regio, que he datado de 27 de Abril de 1795, se
-nota√µ estas proprias palavras--bem entendido que desta exporta√ßa√µ, ou
+notaı estas proprias palavras--bem entendido que desta exportaÁaı, ou
 seja para a dita Ilha da Madeira, ou para esta Capital, se devem
-reservar todos os gr√£os, que se arbitrarem precisos para o provimento
-ordinario das povoa√ß√µes de que se comp√µe esse Governo, e para as
-sementeiras, que ainda lhe pode permittir a Esta√ßa√µ; de maneira que,
-feita com seguran√ßa esta recommendada perven√ßa√µ, a favor desse
-territorio, e da referida Ilha da Madeira, todos os mais gr√£os que se
-julgarem superfluos, seja√µ remettidos a este Reino.--Apezar da
-consterna√ßa√µ da Capital, na√µ se manda√µ exhaurir as Ilhas do gra√µ, que
-lhe he indispensavel. Eis-aqui como hum bom Paiz, acodindo √°s
-necessidades de huma parte da sua familia, na√µ perde de vista as
-precis√µes da outra.
+reservar todos os gr„os, que se arbitrarem precisos para o provimento
+ordinario das povoaÁıes de que se compıe esse Governo, e para as
+sementeiras, que ainda lhe pode permittir a EstaÁaı; de maneira que,
+feita com seguranÁa esta recommendada pervenÁaı, a favor desse
+territorio, e da referida Ilha da Madeira, todos os mais gr„os que se
+julgarem superfluos, sejaı remettidos a este Reino.--Apezar da
+consternaÁaı da Capital, naı se mandaı exhaurir as Ilhas do graı, que
+lhe he indispensavel. Eis-aqui como hum bom Paiz, acodindo ·s
+necessidades de huma parte da sua familia, naı perde de vista as
+precisıes da outra.
 
 O bem geral da Sociedade he o objecto das Leis: permittir a total
-exporta√ßa√µ dos mantimentos de huma Ilha sem acautelar o sustento dos
+exportaÁaı dos mantimentos de huma Ilha sem acautelar o sustento dos
 seus moradores, seria mui pouco racionavel. No Continente numa
-Provincia, que soffre qualquer falta, p√≥de mui promptamente ser
-soccorrida; por√©m n'huma Ilha separada dos outros Paizes por largos
-mares, se acaso o interesse do Commercio animar a huma ta√µ grande
-exporta√ßa√µ, que no meio do anno fique extincto o gra√µ, he indispensavel
-que os seus moradores pade√ßa√µ pelo resto do anno[11]. N'huma Ilha
+Provincia, que soffre qualquer falta, pÛde mui promptamente ser
+soccorrida; porÈm n'huma Ilha separada dos outros Paizes por largos
+mares, se acaso o interesse do Commercio animar a huma taı grande
+exportaÁaı, que no meio do anno fique extincto o graı, he indispensavel
+que os seus moradores padeÁaı pelo resto do anno[11]. N'huma Ilha
 governada com esta improvidencia, o Povo, principalmente a classe dos
-pobres, e dos artifices, que he o maior n√∫mero, teria√µ huma vida
-precaria, e dependente do interesse, que o Commercio dos gr√£os
-offerecesse nas Pra√ßas do seu destino.
+pobres, e dos artifices, que he o maior n˙mero, teriaı huma vida
+precaria, e dependente do interesse, que o Commercio dos gr„os
+offerecesse nas PraÁas do seu destino.
 
-N'huma tal Ilha seria√µ frequentes as emigra√ß√µes; os seus habitantes
-incertos de lhe faltar repentinamente o pa√µ, que he necessario para a
-vida diaria do homem, procuraria√µ passar-se para outro Paiz, onde a sua
-subsistencia fosse menos contingente. Elles veria√µ com d√¥r levar d'ante
-os seus olhos os mesmos fructos, que havia√µ cultivado com suas m√£os, e
-seria√µ reduzidos a penuria no meio da abundancia. A sua sorte poderia
-comparar-se com os tormentos, que os Poetas figura√µ ao infeliz Tantalo
-padecendo no Tartaro; estalando de fome, e s√™de, pendem sobre a sua
-cabe√ßa preciosos pomos, a agoa lhe sobe at√© ao peito; mas se o malfadado
-al√ßa a ma√µ para colher aquelles, elles lhe fogem, se tenta nesta saciar
-a s√™de, que lhe devora as entranhas abrasadas, ella se retira.
+N'huma tal Ilha seriaı frequentes as emigraÁıes; os seus habitantes
+incertos de lhe faltar repentinamente o paı, que he necessario para a
+vida diaria do homem, procurariaı passar-se para outro Paiz, onde a sua
+subsistencia fosse menos contingente. Elles veriaı com dÙr levar d'ante
+os seus olhos os mesmos fructos, que haviaı cultivado com suas m„os, e
+seriaı reduzidos a penuria no meio da abundancia. A sua sorte poderia
+comparar-se com os tormentos, que os Poetas figuraı ao infeliz Tantalo
+padecendo no Tartaro; estalando de fome, e sÍde, pendem sobre a sua
+cabeÁa preciosos pomos, a agoa lhe sobe atÈ ao peito; mas se o malfadado
+alÁa a maı para colher aquelles, elles lhe fogem, se tenta nesta saciar
+a sÍde, que lhe devora as entranhas abrasadas, ella se retira.
 
-No mesmo tempo da crea√ßa√µ do Governo, e Capitania Geral, tinha o Senhor
-D.Jos√© I., por Carta Regia de 2 de Agosto de 1776, mandado estabelecer
-Celeiros p√∫blicos nas Cidades de Angra, e Ponta Delgada: Por√©m
+No mesmo tempo da creaÁaı do Governo, e Capitania Geral, tinha o Senhor
+D.JosÈ I., por Carta Regia de 2 de Agosto de 1776, mandado estabelecer
+Celeiros p˙blicos nas Cidades de Angra, e Ponta Delgada: PorÈm
 infelizmente nesta ultima Cidade, ou fosse por principios erroneos, que
-alli houvessem sobre o bem p√∫blico, e interesses dos seus habitantes, ou
-por outra qualquer causal, na√µ teve algum effeito aquelle
-estabelecimento at√© ao anno de 1807.
+alli houvessem sobre o bem p˙blico, e interesses dos seus habitantes, ou
+por outra qualquer causal, naı teve algum effeito aquelle
+estabelecimento atÈ ao anno de 1807.
 
-Foi nesta √©pocha que sendo Governador, e Capita√µ General o
+Foi nesta Èpocha que sendo Governador, e Capitaı General o
 Excellentissimo D. Miguel Antonio de Mello, depois de precederem as
-informa√ß√µes mais circumspectas, e do mais serio exame, j√° relativamente
-ao bem p√∫blico, j√° ao interesse da Real Fazenda, se mandou instaurar na
-Cidade de Ponta Delgada, em S. Miguel, o Celeiro P√∫blico por Provisa√µ da
-Junta da Real Fazenda do 1.^o de Dezembro de 1807[12]. He a este Capita√µ
+informaÁıes mais circumspectas, e do mais serio exame, j· relativamente
+ao bem p˙blico, j· ao interesse da Real Fazenda, se mandou instaurar na
+Cidade de Ponta Delgada, em S. Miguel, o Celeiro P˙blico por Provisaı da
+Junta da Real Fazenda do 1.^o de Dezembro de 1807[12]. He a este Capitaı
 General, que os moradores da Cidade de Ponta Delgada, e de toda a Ilha
-devem o restabelecimento daquella ta√µ s√°bia, e paternal providencia do
-Soberano, de cujos beneficios fora√µ os seus Vassallos privados por
-tantos annos. Desde enta√µ na√µ se experiment√°ra√µ ainda naquella Ilha os
-encommodos, a que d'antes estava√µ sujeitos os seus habitantes. Mas na√µ
-he este o unico bem, que as Ilhas dos A√ßores devem a hum Chefe ta√µ
+devem o restabelecimento daquella taı s·bia, e paternal providencia do
+Soberano, de cujos beneficios foraı os seus Vassallos privados por
+tantos annos. Desde entaı naı se experiment·raı ainda naquella Ilha os
+encommodos, a que d'antes estavaı sujeitos os seus habitantes. Mas naı
+he este o unico bem, que as Ilhas dos AÁores devem a hum Chefe taı
 recommendavel pela sua integridade, e distincto pelo seu saber.
 
-N'huma Provincia remota, onde as vistas beneficas do Soberano na√µ podem
-facilmente penetrar, onde os raios daquelle sol creador s√≥ podem cahir
-obliquamente, e muitas vezes atrav√©s de den√ßas nuvens, he sem d√∫vida que
+N'huma Provincia remota, onde as vistas beneficas do Soberano naı podem
+facilmente penetrar, onde os raios daquelle sol creador sÛ podem cahir
+obliquamente, e muitas vezes atravÈs de denÁas nuvens, he sem d˙vida que
 a bondade dos Governadores tem huma grande influencia na felicidade dos
-P√≥vos.
+PÛvos.
 
-As Ilhas dos A√ßores na√µ tir√°ra√µ tambem pequenas vantagens das
-providentes Leis do Senhor Rei D. Jos√© I. da 9 de Setembro de 1769, e 3
-de Agosto de 1770, que coarct√°ra√µ a faculdade de estabelecer vinculos,
-ou Morgados, na√µ o permittindo sem preceder Authoridade Regia, e por
-servi√ßos feitos √° Cor√¥a nas armas, ou nas letras, ou tambem no
+As Ilhas dos AÁores naı tir·raı tambem pequenas vantagens das
+providentes Leis do Senhor Rei D. JosÈ I. da 9 de Setembro de 1769, e 3
+de Agosto de 1770, que coarct·raı a faculdade de estabelecer vinculos,
+ou Morgados, naı o permittindo sem preceder Authoridade Regia, e por
+serviÁos feitos · CorÙa nas armas, ou nas letras, ou tambem no
 Commercio, na Agricultura, ou nas Artes liberaes.
 
 He indizivel o abuso que alli se hia introduzindo naquellas
-institui√ß√µes, nas quaes na√µ s√≥ fica fraudada a Coroa nas Cisas, e nas
-outras imposi√ß√µes p√∫blicas, mas tambem limitado o Commercio dos
-Vassallos, e prejudicada a Agricultura, e a popula√ßa√µ, que sa√µ sempre
-dependentes dos progressos da propriedade[13]. Por√©m estes males fora√µ
+instituiÁıes, nas quaes naı sÛ fica fraudada a Coroa nas Cisas, e nas
+outras imposiÁıes p˙blicas, mas tambem limitado o Commercio dos
+Vassallos, e prejudicada a Agricultura, e a populaÁaı, que saı sempre
+dependentes dos progressos da propriedade[13]. PorÈm estes males foraı
 remediados; pois que sendo aquelles estabelecimentos indispensaveis nas
-Monarchias para conserva√ßa√µ das familias, e para manter a honra, que
+Monarchias para conservaÁaı das familias, e para manter a honra, que
 segundo Montesquieu, he a mola, e o fundamento de semelhantes Estados, e
-p√≥de nelles inspirar as mais bellas ac√ß√µes, parece que s√≥ como em
-remunera√ßa√µ de servi√ßos muito relevantes, e a pessoas recommendaveis
-pelos seus feitos, e talentos, convinha permittir-se a sua institui√ßa√µ;
-e he o que as referidas Leis viera√µ determinar, fazendo ao mesmo tempo
-abolir todos os vinculos, que na√µ chega√µ ao rendimento de 100$000 r√©is.
+pÛde nelles inspirar as mais bellas acÁıes, parece que sÛ como em
+remuneraÁaı de serviÁos muito relevantes, e a pessoas recommendaveis
+pelos seus feitos, e talentos, convinha permittir-se a sua instituiÁaı;
+e he o que as referidas Leis vieraı determinar, fazendo ao mesmo tempo
+abolir todos os vinculos, que naı chegaı ao rendimento de 100$000 rÈis.
 
-Destas mesmas institui√ß√µes prov√©m os muitos letigios, que grassa√µ nas
+Destas mesmas instituiÁıes provÈm os muitos letigios, que grassaı nas
 Ilhas entre os Parentes, pela repugnancia, que alguns Morgados tem em
-prestar alimentos na f√≥rma da Lei Patria, a seus irm√£os, e muitas vezes
+prestar alimentos na fÛrma da Lei Patria, a seus irm„os, e muitas vezes
 aos proprios progenitores.
 
-Toda a legisla√ßa√µ dos nossos Augustos Monarchas he digna do mais Sabio
-Legislador: em toda se procura estabelecer o bem p√∫blico, e a felicidade
+Toda a legislaÁaı dos nossos Augustos Monarchas he digna do mais Sabio
+Legislador: em toda se procura estabelecer o bem p˙blico, e a felicidade
 dos Vassallos, inculca-se a boa moral, prescreve-se o respeito, a
-Religia√µ, a venera√ßa√µ aos Pais.
+Religiaı, a veneraÁaı aos Pais.
 
-¬´O fundamento do Governo Chinez, diz Mr. de Voltaire, he o respeito dos
+´O fundamento do Governo Chinez, diz Mr. de Voltaire, he o respeito dos
 filhos para os Pais: a authoridade Paterna, nunca alli affrouxa; hum
-filho na√µ p√≥de pleitear contra seus Pais, sem obter primeiramente o
+filho naı pÛde pleitear contra seus Pais, sem obter primeiramente o
 consentimento de todos os parentes, dos amigos, e dos Magistrados. Os
-mandarins letrados sa√µ considerados como os Pais das Cidades, e das
-Provincias, e o Rei como o Pai do Imperio. Esta id√©a arreigada nos
-cora√ß√µes, f√≥rma huma familia deste Estado immenso.¬ª
+mandarins letrados saı considerados como os Pais das Cidades, e das
+Provincias, e o Rei como o Pai do Imperio. Esta idÈa arreigada nos
+coraÁıes, fÛrma huma familia deste Estado immenso.ª
 
 Os nossos Sabios Legisladores conhecendo estas verdades, tem promulgado
-Leis na√µ menos providentes. Entre n√≥s os filhos sa√µ obrigados a
-alimentar seus Pais, nenhum filho p√≥de letigar com seu Pai, ou M√£i, sem
-obter primeiro licen√ßa do Magistrado, a que em Direito se chama Alvar√°
-de Venia: o filho menor que casa sem licen√ßa do Pai, ou M√£i he
+Leis naı menos providentes. Entre nÛs os filhos saı obrigados a
+alimentar seus Pais, nenhum filho pÛde letigar com seu Pai, ou M„i, sem
+obter primeiro licenÁa do Magistrado, a que em Direito se chama Alvar·
+de Venia: o filho menor que casa sem licenÁa do Pai, ou M„i he
 desnaturalisado das familias a que pertence, e privado das suas
-heran√ßas. Desta pena que he expressamente estabelecida nas Leis de 19 de
-Junho, e 29 de Novembro de 1775, s√≥mente sa√µ exemptos os que obtem
-antecipadamente, e com audiencia dos Pais, a permissa√µ do Soberano
-immediatamente, ou Provisa√µ do Desembargo do Pa√ßo, por meio da qual
-fique supprida a referida licen√ßa.
+heranÁas. Desta pena que he expressamente estabelecida nas Leis de 19 de
+Junho, e 29 de Novembro de 1775, sÛmente saı exemptos os que obtem
+antecipadamente, e com audiencia dos Pais, a permissaı do Soberano
+immediatamente, ou Provisaı do Desembargo do PaÁo, por meio da qual
+fique supprida a referida licenÁa.
 
-Esta regra tem principalmente lugar a respeito dos Morgados, porque na√µ
+Esta regra tem principalmente lugar a respeito dos Morgados, porque naı
 sendo o seu Estabelecimento de Direito Natural, o qual antes persuadiria
-que os filhos devia√µ ter igual parte nos bens dos Pais[14]; mas sendo de
+que os filhos deviaı ter igual parte nos bens dos Pais[14]; mas sendo de
 Direito Civil, e Politico, isto he, permittidos, e regulados pelo
-Soberano,[15] licito he ao mesmo Soberano prescrever as Condi√ß√µes, com
-que qualquer filho ha de preferir a seus irm√£os na successa√µ dos
-vinculos dos seus progenitores; e na√µ querendo este sujeitar-se √°quellas
-Condi√ß√µes, nenhum direito tem √° preferencia; principalmente quando com o
-seu procedimento, infringindo a disposi√ßao da Lei Civil, offende ao
-mesmo tempo a Lei natural, que prescreve todo o respeito, e venera√ßa√µ
-√°quelles que nos dera√µ o ser.
+Soberano,[15] licito he ao mesmo Soberano prescrever as CondiÁıes, com
+que qualquer filho ha de preferir a seus irm„os na successaı dos
+vinculos dos seus progenitores; e naı querendo este sujeitar-se ·quellas
+CondiÁıes, nenhum direito tem · preferencia; principalmente quando com o
+seu procedimento, infringindo a disposiÁao da Lei Civil, offende ao
+mesmo tempo a Lei natural, que prescreve todo o respeito, e veneraÁaı
+·quelles que nos deraı o ser.
 
 O legislador illustrado apparece ainda na Jurisprudencia Forense dos
-Portuguezes. E p√≥de asseverar-se que a ordem do Processo Civil
-estabelecida na Ordena√ßa√µ do Reino em o Livro 3.^o, Tit. 20, he superior
-ao processo de todas as mais Na√ß√µes da Europa. O processo Portuguez,
+Portuguezes. E pÛde asseverar-se que a ordem do Processo Civil
+estabelecida na OrdenaÁaı do Reino em o Livro 3.^o, Tit. 20, he superior
+ao processo de todas as mais NaÁıes da Europa. O processo Portuguez,
 tirados os abusos, contra a Lei introduzidos, he o mais sabiamente
 regulado, o mais breve, e o menos despendioso.
 
 Dentro em poucos mezes, se podem concluir em qualquer instancia as
 demandas mais importantes intententadas ordinariamente. A Lei prescreve
-tempo certo para cada huma das allega√ß√µes: offerecido em Juizo o
-Libello, em que o Author prop√µe a sua ac√ßa√µ, deve o R√©o vir com a
+tempo certo para cada huma das allegaÁıes: offerecido em Juizo o
+Libello, em que o Author propıe a sua acÁaı, deve o RÈo vir com a
 contrariedade, e defeza, dentro em dois termos, isto he, no tempo de
-duas audiencias, que costuma√µ fazer-se em cada huma semana; assigna√µ-se
+duas audiencias, que costumaı fazer-se em cada huma semana; assignaı-se
 mais dois termos, hum para a Replica do Author, outro para a Treplica do
-R√©o, que devem levar outra semana. E aqui temos em quinze dias formadas
-todas as alega√ß√µes, em que se funda a ac√ßa√µ. Organisado o processo nesta
-ordem, manda a Lei assignar 20 dias de dila√ßa√µ para se produzirem por
+RÈo, que devem levar outra semana. E aqui temos em quinze dias formadas
+todas as alegaÁıes, em que se funda a acÁaı. Organisado o processo nesta
+ordem, manda a Lei assignar 20 dias de dilaÁaı para se produzirem por
 ambas as Partes todas as suas provas, tanto de testemunhas, como
-documentos: findo este praso, novamente se assigna√µ dois termos a cada
-huma das Partes para formarem as suas raz√µes finaes, e logo se fazem
-conclusos os autos para o Juiz dar a Senten√ßa difinitiva.
+documentos: findo este praso, novamente se assignaı dois termos a cada
+huma das Partes para formarem as suas razıes finaes, e logo se fazem
+conclusos os autos para o Juiz dar a SentenÁa difinitiva.
 
-Todos estes termos regulados pelo Legislador sa√µ peremptorios, e os
-Julgadores os na√µ podem reformar: ¬´diz a Lei, nem poder√°√µ delles fazer
-gra√ßa alguma, antes por esse mesmo feito as Partes, e seus Procuradores
-seja√µ havidos por lan√ßados do com que houvera√µ de vir, posto que a Parte
-contraria na√µ accuse sua contumacia. E na√µ ser√° necessario outra obra,
-mandado, pronuncia√ßa√µ do Julgador, s√≥mente ter√° poder para assignar hum
-s√≥ termo, que lhe parecer igual, e rasoado, o qual passado na√µ poder√°
-reformar outro.¬ª[16]
+Todos estes termos regulados pelo Legislador saı peremptorios, e os
+Julgadores os naı podem reformar: ´diz a Lei, nem poder·ı delles fazer
+graÁa alguma, antes por esse mesmo feito as Partes, e seus Procuradores
+sejaı havidos por lanÁados do com que houveraı de vir, posto que a Parte
+contraria naı accuse sua contumacia. E naı ser· necessario outra obra,
+mandado, pronunciaÁaı do Julgador, sÛmente ter· poder para assignar hum
+sÛ termo, que lhe parecer igual, e rasoado, o qual passado naı poder·
+reformar outro.ª[16]
 
 Nada esqueceo ao Legislador Portuguez para fazer abbreviar os processos,
 e se decidirem promptamente os letigios entre os seus Vassallos. Mas
-qual he o estabelecimento humano, de que se na√µ possa abusar? Os abusos
-introduzidos no nosso F√¥ro sa√µ inexplicaveis, e os termos ta√µ
-positivamente marcados pela Lei sa√µ de tal sorte alterados, que na√µ he
+qual he o estabelecimento humano, de que se naı possa abusar? Os abusos
+introduzidos no nosso FÙro saı inexplicaveis, e os termos taı
+positivamente marcados pela Lei saı de tal sorte alterados, que naı he
 raro, em lugar do praso, v. gr. das duas audiencias, dentro das quaes
-devia o R√©o vir com a sua Contrariedade, ou de huma audiencia em que
-devia apresentar a Treplica, ver passar na√µ s√≥ mezes, por√©m annos,
+devia o RÈo vir com a sua Contrariedade, ou de huma audiencia em que
+devia apresentar a Treplica, ver passar naı sÛ mezes, porÈm annos,
 paliados com Requerimentos, Cottas, e Aggravos. Tanto nas Ilhas, com em
-Portugal, tinha esta relaxa√ßa√µ chegado ao ultimo excesso.
+Portugal, tinha esta relaxaÁaı chegado ao ultimo excesso.
 
-Por√©m estes inconvenientes esta√µ prevenidos pela Lei, e huma vez. que os
-Magistrados tenha√µ firmeza na sua execu√ßa√µ, p√≥de o mal ser remediado.
-Na√µ he incompativel com a affabilidade, que conv√©m ao Julgador o ter ao
-mesmo tempo constancia, e resolu√ßa√µ.
+PorÈm estes inconvenientes estaı prevenidos pela Lei, e huma vez. que os
+Magistrados tenhaı firmeza na sua execuÁaı, pÛde o mal ser remediado.
+Naı he incompativel com a affabilidade, que convÈm ao Julgador o ter ao
+mesmo tempo constancia, e resoluÁaı.
 
-Mas a lentida√µ dos processos nasce ainda de outro abuso, o qual
+Mas a lentidaı dos processos nasce ainda de outro abuso, o qual
 impossibilita os Magistrados de preencherem a mente das mesmas Leis:
 consiste este abuso em se accumularem muitos empregos na mesma pessoa,
-que por isso na√µ p√≥de desempenhar nenhum perfeitamente.
+que por isso naı pÛde desempenhar nenhum perfeitamente.
 
-Por Lei de 28 de Outubro de 1644 se determina, que se na√µ dar√°√µ jamais
-dois officios a huma mesma pessoa, _na√µ s√≥ pela difficuldade de se
-poderem bem desempenhar differentes occupa√ß√µes, mas tambem para que
-repartindo-se o galarda√µ por mais pessoas haja com que premiar os
-benemeritos_. Que s√°bia, e providente Lei! Mas he ella executada? Na√µ
-vemos n√≥s accumulados em alguns individuos tantos officios, e cargos,
-que daria√µ que fazer a muitos homens dos mais expeditos? E o mais he
+Por Lei de 28 de Outubro de 1644 se determina, que se naı dar·ı jamais
+dois officios a huma mesma pessoa, _naı sÛ pela difficuldade de se
+poderem bem desempenhar differentes occupaÁıes, mas tambem para que
+repartindo-se o galardaı por mais pessoas haja com que premiar os
+benemeritos_. Que s·bia, e providente Lei! Mas he ella executada? Naı
+vemos nÛs accumulados em alguns individuos tantos officios, e cargos,
+que dariaı que fazer a muitos homens dos mais expeditos? E o mais he
 percebendo os ordenados de todos elles, contra outra Lei, que
 positivamente prohibe que algum Funccionario receba dois ordenados,
 ainda que sirva dois differentes officios! Decreto de 29 de Julho de
 1668, e Carta Regia de 11 de Setembro do mesmo anno.
 
-Com que justi√ßa amontuar nas m√£os de hum s√≥ homem ta√µ avultados
-ordenados, que poderia√µ fazer felizes muitos Cidad√£os benemeritos, e
+Com que justiÁa amontuar nas m„os de hum sÛ homem taı avultados
+ordenados, que poderiaı fazer felizes muitos Cidad„os benemeritos, e
 sustentar muitas familias?
 
-Este mal he digno de prompto remedio, porque o servi√ßo p√∫blico soffre
-extremamente. Os processos Civis sa√µ eternos; e os mesmos Criminaes, que
-a Lei manda ultimar dentro em seis mezes, dura√µ annos, e annos. As
-Cad√™as por toda a parte esta√µ cheias de desgra√ßados. Mas se elles sa√µ
+Este mal he digno de prompto remedio, porque o serviÁo p˙blico soffre
+extremamente. Os processos Civis saı eternos; e os mesmos Criminaes, que
+a Lei manda ultimar dentro em seis mezes, duraı annos, e annos. As
+CadÍas por toda a parte estaı cheias de desgraÁados. Mas se elles saı
 culpados, he preciso que o seu prompto castigo sirva de exemplo aos
-outros; e se esta√µ innocentes ha maior barbaridade do que retellos por
+outros; e se estaı innocentes ha maior barbaridade do que retellos por
 longo tempo encarcerados entre os criminosos? Este mesmo inconveniente
-se encontra nos officios de todas as reparti√ß√µes: ha tal individuo, que
-na√µ sabe dar conta aos officios, que tem impalmado; por√©m a citada Lei
-de 1664, considerando nullas as merc√™s dos segundos officios, feitas √°
-mesma pessoa, determina que elles sera√µ dados a quem os denunciar. He
-por tanto justo, que conservando-se hum s√≥ a cada pessoa, que tiver
-muitos, seja√µ dados os outros a quem os merecer. E he huma
-inconsequencia a mais absurda o dar officios, seja de Justi√ßa, ou
-Fazenda, a pessoas que na√µ podem, nem os querem exercer: he como se se
+se encontra nos officios de todas as repartiÁıes: ha tal individuo, que
+naı sabe dar conta aos officios, que tem impalmado; porÈm a citada Lei
+de 1664, considerando nullas as mercÍs dos segundos officios, feitas ·
+mesma pessoa, determina que elles seraı dados a quem os denunciar. He
+por tanto justo, que conservando-se hum sÛ a cada pessoa, que tiver
+muitos, sejaı dados os outros a quem os merecer. E he huma
+inconsequencia a mais absurda o dar officios, seja de JustiÁa, ou
+Fazenda, a pessoas que naı podem, nem os querem exercer: he como se se
 conferissem os postos militares a homens paisanos, e inhabeis para as
 armas. Nenhum officio devia ser dado a pessoa inhabil, ou
-impossibilitada de o exercer; porque o servi√ßo p√∫blico, e o bem geral
-na√µ deve ser sacrificado ao interesse particular de hum individuo. Pedir
-os officios s√≥mente para utilisar os seus ordenados, e abandonados a
-pessoas, que se sujeita√µ a exerce-los por huma diminuta parte dos mesmos
-ordenados, na√µ p√≥de ser tolerado n'hum paiz bem governado: nem he
-conf√≥rme a Lei patria, que determina que todos os Officiaes sirva√µ por
+impossibilitada de o exercer; porque o serviÁo p˙blico, e o bem geral
+naı deve ser sacrificado ao interesse particular de hum individuo. Pedir
+os officios sÛmente para utilisar os seus ordenados, e abandonados a
+pessoas, que se sujeitaı a exerce-los por huma diminuta parte dos mesmos
+ordenados, naı pÛde ser tolerado n'hum paiz bem governado: nem he
+confÛrme a Lei patria, que determina que todos os Officiaes sirvaı por
 si os seus officios.
 
-Al√©m das ac√ß√µes ordinarias de Libello, temos outras Summarias, em que o
-processo he muito mais rapido; sendo entre todas notavel a ac√ßa√µ chamada
-de juramento de alma. Nesta ac√ßa√µ he chamado o R√©o para comparecer com o
-Author em audiencia p√∫blica perante o Juiz, alli pelo juramento
-encarregado ao mesmo R√©o, ou Author, se aquelle se recusa presta-lo, he
-decidida summarissimamente a questa√µ, e executada em poucos dias a
-Senten√ßa. Devendo notar-se que por meio desta ac√ßa√µ summaria, se podem
+AlÈm das acÁıes ordinarias de Libello, temos outras Summarias, em que o
+processo he muito mais rapido; sendo entre todas notavel a acÁaı chamada
+de juramento de alma. Nesta acÁaı he chamado o RÈo para comparecer com o
+Author em audiencia p˙blica perante o Juiz, alli pelo juramento
+encarregado ao mesmo RÈo, ou Author, se aquelle se recusa presta-lo, he
+decidida summarissimamente a questaı, e executada em poucos dias a
+SentenÁa. Devendo notar-se que por meio desta acÁaı summaria, se podem
 decidir as demandas de maior valor, huma vez que as Partes nisso
-convenha√µ.
+convenhaı.
 
 Podemos por tanto affirmar, que o Plano do nosso Processo he excellente,
-e o mais sabiamente regulado. Na Fran√ßa por exemplo, a ordem do processo
-regulada por Luiz XIV. he cheia de imperfei√ß√µes, e de f√≥rmulas inuteis,
-como confessa√µ os mesmos Authores Francezes, e as altera√ß√µes posteriores
-na√µ tem conseguido a sua perfei√ßa√µ.
+e o mais sabiamente regulado. Na FranÁa por exemplo, a ordem do processo
+regulada por Luiz XIV. he cheia de imperfeiÁıes, e de fÛrmulas inuteis,
+como confessaı os mesmos Authores Francezes, e as alteraÁıes posteriores
+naı tem conseguido a sua perfeiÁaı.
 
-Em Inglaterra ¬´as demandas de pouca entidade, diz Mr. Pillet, he verdade
-sa√µ decididas promptamente, por√©m os letigios de maior importancia sa√µ
-ta√µ dispendiosos, que os litigantes, a na√µ serem possuidores de grandes
-fortunas, esta√µ de tal sorte persuadidos de completar com elles a sua
-ruina, que preferem o silencio, e abandona√µ os seus direitos.
+Em Inglaterra ´as demandas de pouca entidade, diz Mr. Pillet, he verdade
+saı decididas promptamente, porÈm os letigios de maior importancia saı
+taı dispendiosos, que os litigantes, a naı serem possuidores de grandes
+fortunas, estaı de tal sorte persuadidos de completar com elles a sua
+ruina, que preferem o silencio, e abandonaı os seus direitos.
 
-A subtileza nos Processos, o embara√ßo das dila√ß√µes, e das f√≥rmulas, as
+A subtileza nos Processos, o embaraÁo das dilaÁıes, e das fÛrmulas, as
 despezas immensas, que traz huma demanda em Inglaterra; a escolha, ou a
-consagra√ßa√µ de certos termos Sax√µes, Normandezes, Hebraicos, e Latinos
-para designar os differentes generos das Ac√ß√µes, e os seus progressos,
-todas estas cousas sa√µ cem vezes mais inintelligiveis, e mais barbaras,
-do que ellas o era√µ em Fran√ßa antes da Revolu√ßa√µ.¬ª
+consagraÁaı de certos termos Saxıes, Normandezes, Hebraicos, e Latinos
+para designar os differentes generos das AcÁıes, e os seus progressos,
+todas estas cousas saı cem vezes mais inintelligiveis, e mais barbaras,
+do que ellas o eraı em FranÁa antes da RevoluÁaı.ª
 
 He isto hum Francez que falla, e que descrevendo os defeitos do processo
 forense entre os Inglezes, confessa ao mesmo tempo a inintelligencia, e
@@ -1004,51 +1004,51 @@ barbaridade do processo Francez.
 
 As excellentes Leis Portuguezas,[17] a boa ordem estabelecida nas Ilhas
 pelos cuidados paternaes; dos Soberanos, o Caracter natural dos seus
-nacionaes activos, e industriosos, concorr√™ra√µ tanto para a sua
-prosperidade, que o terreno limitado das mesmas Ilhas na√µ he sufficiente
+nacionaes activos, e industriosos, concorrÍraı tanto para a sua
+prosperidade, que o terreno limitado das mesmas Ilhas naı he sufficiente
 para conter o immenso povo, que alli nasce, sahindo por isso todos os
-annos grande n√∫mero de pessoas, que va√µ empregar-se na navega√ßa√µ, ou
+annos grande n˙mero de pessoas, que vaı empregar-se na navegaÁaı, ou
 estabelecer-se nos Brazis[18].
 
-Os habitantes desta Capitania anda√µ por 160$ almas. Este n√∫mero na√µ
-deixar√° de causar admira√ßa√µ, a quem souber que huma grande parte do
-terreno destas Ilhas he inhabitavel, e na√µ admitte cultura alguma, j√°
-por ser montanhoso, j√° por ser verdadeira rocha em circumferencia de
-todas ellas, j√° pelos estragos do fogo, que nas suas expuls√µes revolveo
+Os habitantes desta Capitania andaı por 160$ almas. Este n˙mero naı
+deixar· de causar admiraÁaı, a quem souber que huma grande parte do
+terreno destas Ilhas he inhabitavel, e naı admitte cultura alguma, j·
+por ser montanhoso, j· por ser verdadeira rocha em circumferencia de
+todas ellas, j· pelos estragos do fogo, que nas suas expulsıes revolveo
 antigamente o interior de quasi rodas, reduzindo-o a pedra queimada.
-Estes estragos sa√µ principalmente sensiveis nas Ilhas do Pico, e de S.
+Estes estragos saı principalmente sensiveis nas Ilhas do Pico, e de S.
 Miguel, nas quaes mais da metade do terreno he infructifero[19].
 
-Pelas mesmas raz√µes he espantosa a produc√ßa√µ das mesmas Ilhas, porque
+Pelas mesmas razıes he espantosa a producÁaı das mesmas Ilhas, porque
 depois de providos abundantemente os seus habitantes, ellas supprem em
-grande parte a sustenta√ßa√µ dos moradores da Ilha da Madeira, e do Reino
+grande parte a sustentaÁaı dos moradores da Ilha da Madeira, e do Reino
 de Portugal.
 
-Da Ilha de S. Miguel se exporta√µ todos os annos de dez at√© doze mil
-moios de gra√µ, segundo a maior, ou menor abundancia da colheita[20]. De
-laranja, e lima√µ de 40 a 50 mil caixas, carne de porco, e toucinho de
+Da Ilha de S. Miguel se exportaı todos os annos de dez atÈ doze mil
+moios de graı, segundo a maior, ou menor abundancia da colheita[20]. De
+laranja, e limaı de 40 a 50 mil caixas, carne de porco, e toucinho de
 300 a 500 arrobas. E algumas mil varas de panno de linho.
 
-A propor√ßa√µ destes generos p√≥de conhecer-se pelo exemplo de hum anno dos
+A proporÁaı destes generos pÛde conhecer-se pelo exemplo de hum anno dos
 mais regulares, v. gr. no anno de 1809 sahio daquella Ilha, milho 5:270
 moios; trigo 675 moios, e 35 alqueires; favas 2:812 moios, e 55
-alqueires; feija√µ 1:177 moios, e 55 alqueires; laranja 21:238 caixas;
-lima√µ 4:660 caixas; toucinho 259 arrobas; carne de porco 118 arrobas;
+alqueires; feijaı 1:177 moios, e 55 alqueires; laranja 21:238 caixas;
+limaı 4:660 caixas; toucinho 259 arrobas; carne de porco 118 arrobas;
 panno de linho 3:009 varas.
 
 Da Ilha de Santa Maria sahem 200 moios de trigo, e cousa de 100 rezes.
 
-Da Ilha Terceira embarca√µ-se 15 mil caixas de laranja, e de trigo sahe
+Da Ilha Terceira embarcaı-se 15 mil caixas de laranja, e de trigo sahe
 hum, ou dois navios carregados para Lisboa, ou Ilha da Madeira.
 
-A Ilha do Pico produz annualmente de 10 at√© 20 mil pipas de vinho[21],
-que por na√µ haver naquella Ilha porto capaz de receber navios, he todo
+A Ilha do Pico produz annualmente de 10 atÈ 20 mil pipas de vinho[21],
+que por naı haver naquella Ilha porto capaz de receber navios, he todo
 transportado em barcos para a Ilha do Fayal, atravessando hum canal de
 legua e meia; e dalli se exporta para a America Ingleza, as Antilhas, a
 Russia, e para o Reino do Brazil, onde tambem se consome huma grande
-parte de agoa-ardente da mesma Ilha. Tambem exporta algum gado; mas na√µ
-produz gra√µ sufficiente para os seus habitantes, sendo nesta parte
-prov√≠da pela Ilha do Fayal, a qual he summamente fertil, e produz
+parte de agoa-ardente da mesma Ilha. Tambem exporta algum gado; mas naı
+produz graı sufficiente para os seus habitantes, sendo nesta parte
+provÌda pela Ilha do Fayal, a qual he summamente fertil, e produz
 bastante trigo, e milho para o seu sustento, e supprir o que falta na
 Ilha do Pico.
 
@@ -1071,402 +1071,402 @@ TERCEIRA PARTE
 _Desde a passage da Casa Real para o Rio de Janeiro._
 
 
-A Mudan√ßa do assento da Metropole Portugueza he hum daquelles grandes
-acontecimentos, que assignala√µ os tempos, dividem as idades do Mundo, e
-forma√µ huma Epocha memoravel em todas as Na√ß√µes.
+A MudanÁa do assento da Metropole Portugueza he hum daquelles grandes
+acontecimentos, que assignalaı os tempos, dividem as idades do Mundo, e
+formaı huma Epocha memoravel em todas as NaÁıes.
 
-O Globo inteiro tem sentido mais de huma vez o impulso dado pela Na√ßa√µ
-Portugueza. Esta Na√ßa√µ com as suas descobertas na passage do Cabo de Boa
-Esperan√ßa, fez recuar os limites do Mundo, como se explica Mr. de.
-Voltaire, abrindo a todas as Na√ß√µes hum caminho, at√© enta√µ desconhecido,
-para passar √° Asia. Este grande acontecimento fez mudar o Commercio de
+O Globo inteiro tem sentido mais de huma vez o impulso dado pela NaÁaı
+Portugueza. Esta NaÁaı com as suas descobertas na passage do Cabo de Boa
+EsperanÁa, fez recuar os limites do Mundo, como se explica Mr. de.
+Voltaire, abrindo a todas as NaÁıes hum caminho, atÈ entaı desconhecido,
+para passar · Asia. Este grande acontecimento fez mudar o Commercio de
 todos os Paizes, e desconcertar todos os systemas.
 
-Desde enta√µ tudo o que a Natureza produz de mais raro, util, e
+Desde entaı tudo o que a Natureza produz de mais raro, util, e
 agradavel, foi conduzido para a Europa, com menos despezas pela nova
 Estrada, anniquilado totalmente o Commercio da India, que antigamente se
 fazia pelo Mediterraneo atravez do mar Vermelho, e Egypto.
 
-P√≥de ainda dizer-se, que ao Genio dos Portuguezes he devida a existencia
-Politica da Europa. ¬´Sem a descoberta de Vasco da Gama, diz o Abbade
+PÛde ainda dizer-se, que ao Genio dos Portuguezes he devida a existencia
+Politica da Europa. ´Sem a descoberta de Vasco da Gama, diz o Abbade
 Reinal, o archote da liberdade da Europa, se teria apagado, e talvez
-para sempre. Os Turcos hia√µ substituir estas Na√ß√µes ferozes, que das
-estremidades da Terra tinha√µ vindo tomar o lugar dos Romanos, para
-opprimir a sua superf√≠cie, e a essas institui√ß√µes barbaras teria
+para sempre. Os Turcos hiaı substituir estas NaÁıes ferozes, que das
+estremidades da Terra tinhaı vindo tomar o lugar dos Romanos, para
+opprimir a sua superfÌcie, e a essas instituiÁıes barbaras teria
 succedido hum jugo mais pesado ainda. Este acontecimento era inivitavel,
-se os terriveis vencedores do Egypto na√µ tivessem sido repellidos pelos
-Portuguezes nas differentes expedi√ß√µes, que estes tent√°ra√µ na India. As
-riquezas da Asia lhe segurava√µ as da Europa, Senhores de todo o
-Commercio do mundo, elles teria√µ tido necessariamente a mais temivel
-marinha, que j√° mais se teria visto. Que obstaculos poderia√µ enta√µ
+se os terriveis vencedores do Egypto naı tivessem sido repellidos pelos
+Portuguezes nas differentes expediÁıes, que estes tent·raı na India. As
+riquezas da Asia lhe seguravaı as da Europa, Senhores de todo o
+Commercio do mundo, elles teriaı tido necessariamente a mais temivel
+marinha, que j· mais se teria visto. Que obstaculos poderiaı entaı
 suspender sobre o nosso Continente este povo Conquistador pela natureza
-da sua Religia√µ, e da sua Politica?[23]¬ª
+da sua Religiaı, e da sua Politica?[23]ª
 
-Se pois os Portuguezes, segundo a opinia√µ deste Politico, na√µ tivessem
+Se pois os Portuguezes, segundo a opiniaı deste Politico, naı tivessem
 com as suas victorias suspendido os progressos do fanatismo dos
-Mozulm√£es, e quebrado o curso impetuoso das suas conquistas,
+Mozulm„es, e quebrado o curso impetuoso das suas conquistas,
 cortando-lhe o nervo das riquezas, perdida estava a liberdade do mundo.
 
-Taes fora√µ os resultados da passage dos Portuguezes pelo Cabo
+Taes foraı os resultados da passage dos Portuguezes pelo Cabo
 Tormentoso, no Reinado do Senhor Rei D. Manoel.
 
-E quando a mudan√ßa da sua Capital para o Brazil, no Governo actual nos
+E quando a mudanÁa da sua Capital para o Brazil, no Governo actual nos
 devia fazer esperar ainda mais felizes vantagens, males a milhares
-recah√≠ra√µ sobre os Portuguezes da Europa. E foi pela primeira vez, que
-nas Ilhas dos A√ßores, apontou o flagello dos tributos, quando at√© enta√µ
+recahÌraı sobre os Portuguezes da Europa. E foi pela primeira vez, que
+nas Ilhas dos AÁores, apontou o flagello dos tributos, quando atÈ entaı
 nenhum outro alli era conhecido, mais do que o Dizimo Ecclesiastico, e o
 subsidio literario, imposto tenue dos vinhos, destinado para o pagamento
 dos Mestres das primeiras letras: O que mostra o amor, e a benignidade,
-com que havia√µ sido sempre tratados pelos seus Monarchas. Depois
-daquella fatal mudan√ßa, cinco tributos fora√µ impostos naquellas Ilhas em
-menos de hum anno; taes sa√µ, a Decima dos Predios urbanos[24]: A Cisa
-nas Compras, e Vendas[25]: O Imposto de 5 r√©is em cada arratel de Carne
-verde cortada nos A√ßougues[26]: O Imposto dos sellos, e Decima das
-heran√ßas, e legados[27].
+com que haviaı sido sempre tratados pelos seus Monarchas. Depois
+daquella fatal mudanÁa, cinco tributos foraı impostos naquellas Ilhas em
+menos de hum anno; taes saı, a Decima dos Predios urbanos[24]: A Cisa
+nas Compras, e Vendas[25]: O Imposto de 5 rÈis em cada arratel de Carne
+verde cortada nos AÁougues[26]: O Imposto dos sellos, e Decima das
+heranÁas, e legados[27].
 
-Muito bem entendidos seria√µ estes tributos, se a necessidade do Estado
-assim o pedisse, por na√µ pesarem nem na Agricultura, nem nos Artistas
+Muito bem entendidos seriaı estes tributos, se a necessidade do Estado
+assim o pedisse, por naı pesarem nem na Agricultura, nem nos Artistas
 directamente: o ultimo sobre tudo recahindo em bens, que nos advem
-graciosamente por favor dos estranhos, ou Colatraes, e na√µ nos bens, que
+graciosamente por favor dos estranhos, ou Colatraes, e naı nos bens, que
 nos vem dos nossos ascendentes, he hum meio politico, e mui poderoso
 para fazer promover os Casamentos, e conseguintemente para animar a
-popula√ßa√µ, objecto que aos mais Sabios Legisladores mereceo sempre hum
+populaÁaı, objecto que aos mais Sabios Legisladores mereceo sempre hum
 grande cuidado[28].
 
-Mas como se poderia√µ dizer impostos estes tributos por necessidade, se
-nesse mesmo tempo se fazia√µ merc√™s avultadissimas aos Val√≠dos? Infinitas
-Capellas vagas, e outros muitos bens que se achava√µ na administra√ßa√µ da
-Fazenda Real em todas as Ilhas, e que lhe rendia√µ todos os annos huma
-somma immensa, tudo est√° hoje dado, ou para melhor dizer, usurpado por
+Mas como se poderiaı dizer impostos estes tributos por necessidade, se
+nesse mesmo tempo se faziaı mercÍs avultadissimas aos ValÌdos? Infinitas
+Capellas vagas, e outros muitos bens que se achavaı na administraÁaı da
+Fazenda Real em todas as Ilhas, e que lhe rendiaı todos os annos huma
+somma immensa, tudo est· hoje dado, ou para melhor dizer, usurpado por
 aquelles egoistas, que tem abusado da bondade do Rei, enganando-o sobre
-o valor daquelles bens, pois que nunca os pod√©ra√≥ alcan√ßar em quanto Sua
+o valor daquelles bens, pois que nunca os podÈraÛ alcanÁar em quanto Sua
 Magestade residio em Portugal, donde facilmente se podia informar do que
-lhe pedia√µ. Talvez que o valor de tantos bens assim injustamente
+lhe pediaı. Talvez que o valor de tantos bens assim injustamente
 prodigalisados podesse bem supprir todos aquelles tributos; sendo cousa
-iniqua que se esteja√µ tirando gotas de sangue de milhares de Vassallos
-para saciar humas poucas de sanguissugas. Os p√≥vos na√µ devem ser
+iniqua que se estejaı tirando gotas de sangue de milhares de Vassallos
+para saciar humas poucas de sanguissugas. Os pÛvos naı devem ser
 considerados, como hum rebanho de ovelhas inertes, dispostas a serem
-devoradas pela mantilha de c√£es famintos, que circunda√µ o seu pastor. He
-de esperar que Sua Magestade inteirado das verdades expendidas, na√µ
-deixe de fazer restituir todos aquelles bens, reclamando-merc√™s
-extorquiadas com manifesto engano, e lesa√µ, e como taes ob, e
-subrepticias; assim como devem ser alliviados os P√≥vos daquelles
-tributos, que lhe fora√µ impostos, para supprir a falta do rendimento dos
-mesmos bens, assim indevidamente tirado das rendas p√∫blicas:
-principalmente a respeito das Decimas, sobre as quaes havia√µ contractos
+devoradas pela mantilha de c„es famintos, que circundaı o seu pastor. He
+de esperar que Sua Magestade inteirado das verdades expendidas, naı
+deixe de fazer restituir todos aquelles bens, reclamando-mercÍs
+extorquiadas com manifesto engano, e lesaı, e como taes ob, e
+subrepticias; assim como devem ser alliviados os PÛvos daquelles
+tributos, que lhe foraı impostos, para supprir a falta do rendimento dos
+mesmos bens, assim indevidamente tirado das rendas p˙blicas:
+principalmente a respeito das Decimas, sobre as quaes haviaı contractos
 entre os moradores das Ilhas e os Nossos Reis, por onde aquelles se
-tinha√µ sujeitado a contribuir de huma vez com certa somma, ficando
-desonerados para o futuro de pagar Decimas, do que se acha√µ Titulos nos
-Archivos das mesmas Ilhas. Por√©m he nas Cortes proximas que todos esses
+tinhaı sujeitado a contribuir de huma vez com certa somma, ficando
+desonerados para o futuro de pagar Decimas, do que se achaı Titulos nos
+Archivos das mesmas Ilhas. PorÈm he nas Cortes proximas que todos esses
 Artigos devem ser averiguados[29].
 
-A sabia politica que os Augustos Monarchas tivera√µ sempre com as Ilhas
-dos A√ßores dando os Officios Civis, e os postos Militares aos seus
-Nacionaes, que por isso os servia√µ mui dignamente, tambem acabou com a
-ausencia do Rei. Na√µ se estendia √°quelles Paizes a authoridade do
-General Beresford, e por isso na√µ ha alli Officiaes Inglezes, por√©m
-chegava l√° outra authoridade mil vezes mais prejudicial, e mais iniqua,
-qual era a dos Val√≠dos: ainda para os mais insignificantes postos
+A sabia politica que os Augustos Monarchas tiveraı sempre com as Ilhas
+dos AÁores dando os Officios Civis, e os postos Militares aos seus
+Nacionaes, que por isso os serviaı mui dignamente, tambem acabou com a
+ausencia do Rei. Naı se estendia ·quelles Paizes a authoridade do
+General Beresford, e por isso naı ha alli Officiaes Inglezes, porÈm
+chegava l· outra authoridade mil vezes mais prejudicial, e mais iniqua,
+qual era a dos ValÌdos: ainda para os mais insignificantes postos
 Militares tem vindo despachados do Rio de Janeiro os seus afilhados. No
-Batalha√µ da Cidade de Ponta Delgada ha dois Capit√£es, homens honrados, e
+Batalhaı da Cidade de Ponta Delgada ha dois Capit„es, homens honrados, e
 distinctos, que servem ha mais de 15, e 20 annos. Vagou o posto de
-Sargento M√≥r, veio logo despachado do Rio de Janeiro hum individuo, que
-na√µ tinha metade dos servi√ßos daquelles benemeritos Officiaes, e pouco
-depois foi promovido a Tenente Coronel, na√µ passando aquelles do posto
-de Capita√µ.
+Sargento MÛr, veio logo despachado do Rio de Janeiro hum individuo, que
+naı tinha metade dos serviÁos daquelles benemeritos Officiaes, e pouco
+depois foi promovido a Tenente Coronel, naı passando aquelles do posto
+de Capitaı.
 
-Na Cidade de Angra vagou o Officio de Escriva√µ Deputado da Junta da
+Na Cidade de Angra vagou o Officio de Escrivaı Deputado da Junta da
 Fazenda, e em lugar de ser admittido no mesmo o Contador da Junta,
 Official habil, e honrado, a quem pertencia como mais antigo, e
 substituto legal, veio do Brazil despachado hum individuo, que animado
 com o valimento que a todos inculca do seu protector Targini, tem feito
-as maiores desordens. Actualmente se acha retirado em Lisboa o Capita√µ
-M√≥r da Cidade de Angra para escapar √° prisa√µ contra elle fulminada pelo
-dito Escriva√µ, em despique do mesmo Capita√µ M√≥r p√¥r o nome do Escriva√µ
+as maiores desordens. Actualmente se acha retirado em Lisboa o Capitaı
+MÛr da Cidade de Angra para escapar · prisaı contra elle fulminada pelo
+dito Escrivaı, em despique do mesmo Capitaı MÛr pÙr o nome do Escrivaı
 abaixo do seu em hum officio, que lhe dirigio.
 
 O mesmo aconteceo a respeito do Provimento do Officio, que vagou de
-Escriva√µ da Meza grande na Alfandega da Ilha de S. Miguel, sendo logo
-dado ao Compadre de hum guarda roupa Bara√µ.
+Escrivaı da Meza grande na Alfandega da Ilha de S. Miguel, sendo logo
+dado ao Compadre de hum guarda roupa Baraı.
 
-Se acaso se na√µ occultasse a Sua Magestade, que estas pessoas na√µ era√µ
-naturaes, nem residentes naquellas Ilhas, he provavel lhe na√µ fossem
+Se acaso se naı occultasse a Sua Magestade, que estas pessoas naı eraı
+naturaes, nem residentes naquellas Ilhas, he provavel lhe naı fossem
 conferidos os ditos officios.
 
-Com tudo, brilhantes esperan√ßas nos devem animar presentemente, vindo a
+Com tudo, brilhantes esperanÁas nos devem animar presentemente, vindo a
 concorrer o excesso dos males, para o seu mesmo remedio, todos elles
-fic√°ra√µ ass√°s compensados, conseguindo-se huma Constitui√ßa√µ, que
+fic·raı ass·s compensados, conseguindo-se huma ConstituiÁaı, que
 combinando os interesses de todos os Estados Portuguezes, os ligue por
-meio de vantagens reciprocas, pois que nenhuma Na√ßa√µ no Globo encerra em
-si mais felizes propor√ß√µes.
+meio de vantagens reciprocas, pois que nenhuma NaÁaı no Globo encerra em
+si mais felizes proporÁıes.
 
 Nada obsta a distancia que separa estes Estados, distancias immensas
-separa√µ os Astros, que com tudo guarda√µ harmonia nos seus giros
+separaı os Astros, que com tudo guardaı harmonia nos seus giros
 periodicos.
 
-O interesse commum he o la√ßo que une os differentes P√≥vos, e a
-felicidade dos Portuguezes Europeos est√° radicada na f√≥rma do seu
-Governo, e na sua unia√µ com os Estados do Brazil. Os habitantes de
+O interesse commum he o laÁo que une os differentes PÛvos, e a
+felicidade dos Portuguezes Europeos est· radicada na fÛrma do seu
+Governo, e na sua uniaı com os Estados do Brazil. Os habitantes de
 Portugal carecem absolutamente dos generos do Brazil; sem o assucar, o
-arroz, o caf√©, e outras produc√ß√µes daquelle paiz, quasi se na√µ p√≥de
+arroz, o cafÈ, e outras producÁıes daquelle paiz, quasi se naı pÛde
 viver hoje em dia. O Brazil necessita igualmente dos vinhos, e azeites
 de Portugal, assim como tambem dos vinhos das Ilhas adjacentes, e das
-suas agoas-ardentes, e pannos de linho. Sem o grande soccorro do gra√µ
-das Ilhas, Portugal padeceria por muitas vezes, e as mesmas Ilhas na√µ
-achando alli o consumo daquelle gra√µ, que he a sua principal riqueza,
-cahiria√µ em total decadencia[30].
+suas agoas-ardentes, e pannos de linho. Sem o grande soccorro do graı
+das Ilhas, Portugal padeceria por muitas vezes, e as mesmas Ilhas naı
+achando alli o consumo daquelle graı, que he a sua principal riqueza,
+cahiriaı em total decadencia[30].
 
-Eis-aqui como todas as partes deste grande edificio se fortifica√µ
-reciprocamente, e como o interesse de todos estes p√≥vos os deve ligar
-para sempre, al√©m de outro motivo ainda mais poderoso, que he o de
+Eis-aqui como todas as partes deste grande edificio se fortificaı
+reciprocamente, e como o interesse de todos estes pÛvos os deve ligar
+para sempre, alÈm de outro motivo ainda mais poderoso, que he o de
 viverem aggregados a hum grande Imperio, ligados por huma mesma
-Religia√µ, e Governados por huma Dynastia de Soberanos deconhecida
+Religiaı, e Governados por huma Dynastia de Soberanos deconhecida
 indole, e bondade.
 
-Estes interesses sera√µ ainda augmentados por novas medidas justas, e
-sabias. No Brazil na√µ se deve admittir vinho Estrangeiro, azeite,
+Estes interesses seraı ainda augmentados por novas medidas justas, e
+sabias. No Brazil naı se deve admittir vinho Estrangeiro, azeite,
 agoa-ardente, em quanto Portugal, e Ilhas lhe ministrarem aquelles
 generos em abundancia; ou admittindo-se, devem pagar hum tributo igual
 ao que paga por exemplo o vinho Portuguez em Inglaterra, isto he, o
 quadruplo, ou o quintuplo do seu primeiro valor: em Portugal igualmente,
-e Ilhas adjacentes na√µ deve permittir-se aos Estrangeiros o introduzir
+e Ilhas adjacentes naı deve permittir-se aos Estrangeiros o introduzir
 generos dos que produz o Brazil; ou permittindo-se, devem pagar hum
-tributo na mesma propor√ßa√µ.
+tributo na mesma proporÁaı.
 
-Estas, e outras iguaes providencias fara√µ que entre os mesmos
+Estas, e outras iguaes providencias faraı que entre os mesmos
 Portuguezes fiquem concentradas a maior parte das riquezas dos seus
-Vastos Estados; na√µ tendo dependencia das Na√ß√µes Estrangeiras, sena√µ em
+Vastos Estados; naı tendo dependencia das NaÁıes Estrangeiras, senaı em
 artigos de mero luxo.
 
-Todos os obstaculos conv√©m vencer para conseguir esta unia√µ, e
-consolidar a base do grande Imperio. Longe de n√≥s a id√©a da desmembra√ßa√µ
+Todos os obstaculos convÈm vencer para conseguir esta uniaı, e
+consolidar a base do grande Imperio. Longe de nÛs a idÈa da desmembraÁaı
 de Portugal, este Reino teria a sorte dos pequenos Estados, como
-desgra√ßadamente temos experimentado desde muitos seculos, j√° escravos
-dos Hespanhoes, j√° miseraveis popilos dos Inglezes, que famintos, e
+desgraÁadamente temos experimentado desde muitos seculos, j· escravos
+dos Hespanhoes, j· miseraveis popilos dos Inglezes, que famintos, e
 dolosos Curadores, nos tem despojado, e impobrecido. Membros da grande
-Imperio n√≥s seremos respeitados em toda a parte do mundo, seja qual for
-a residencia do seu Chefe. O Cidada√µ Romano nas extremidades da Africa,
+Imperio nÛs seremos respeitados em toda a parte do mundo, seja qual for
+a residencia do seu Chefe. O Cidadaı Romano nas extremidades da Africa,
 ou da Asia, era considerado em dignidade, e respeito acima dos
 Principes, e Reis Estrangeiros.
 
-He verdade que os Brazileiros, al√©m das vantagens reciprocas entre ambos
-os Estados, gosara√µ de outras prosperidades resultantes da existencia do
+He verdade que os Brazileiros, alÈm das vantagens reciprocas entre ambos
+os Estados, gosaraı de outras prosperidades resultantes da existencia do
 Monarcha no centro do seu paiz. Quando hum Embaixador de Hespanha
-enviado a Henrique IV. de Fran√ßa, se admirava do Estado brilhante em que
-achou Par√≠s, que n'outro tempo tinha conhecido em abatimento, e
-desgra√ßa: _he porque enta√µ o pai de familia na√µ existia aqui_, lhe disse
+enviado a Henrique IV. de FranÁa, se admirava do Estado brilhante em que
+achou ParÌs, que n'outro tempo tinha conhecido em abatimento, e
+desgraÁa: _he porque entaı o pai de familia naı existia aqui_, lhe disse
 aquelle bom Rei, _hoje que elle tem cuidado dos seus filhos, estes
-prospera√µ_.
+prosperaı_.
 
-Os mesmos salvagens do interior daquelle Paiz aproveitar√°√µ da bondade
+Os mesmos salvagens do interior daquelle Paiz aproveitar·ı da bondade
 com que devem ser tratados pelos Nossos Augustos Soberanos, unico meios
-de os attrahir, e civilisar. ¬´Se alguem duvida (diz o Author da Historia
+de os attrahir, e civilisar. ´Se alguem duvida (diz o Author da Historia
 Philosofica, e Politica das duas Indias) dos felizes effeitos da
-beneficencia, e da humanidade sobre os p√≥vos Salvagens, compare os
+beneficencia, e da humanidade sobre os pÛvos Salvagens, compare os
 progressos, que os Jesuitas tem feito em mui pouco tempo na America
-Meridional com aquelles que as Armas, e os Navios Hespanhoes na√µ pod√©ra√µ
-fazer em dois seculos. Em quanto milhares de Soldados mudava√µ o Per√∫, e
+Meridional com aquelles que as Armas, e os Navios Hespanhoes naı podÈraı
+fazer em dois seculos. Em quanto milhares de Soldados mudavaı o Per˙, e
 Mexico, dois grandes Imperios policiados em desertos de Salvagens
-errantes, alguns Messionarios tem mudado pequenas Na√ß√µes errantes em mui
-grandes Imperios policiados.¬ª Fa√ßamos arraigar no Cora√ßa√µ dos homens o
-amor da Divindade, e da humanidade, e s√≥ estas duas virtudes sa√µ capazes
-de attrahir Vassallos, e formar os melhores Cidad√£os do mundo.
+errantes, alguns Messionarios tem mudado pequenas NaÁıes errantes em mui
+grandes Imperios policiados.ª FaÁamos arraigar no CoraÁaı dos homens o
+amor da Divindade, e da humanidade, e sÛ estas duas virtudes saı capazes
+de attrahir Vassallos, e formar os melhores Cidad„os do mundo.
 
-Por√©m que importa aos Portuguezes da Europa todas essas prosperidades do
-Brazil, huma vez que tambem elles seja√µ felizes? Na√µ se lhe impondo
-tributos sena√µ quando o pedirem as necessidades do Estado reconhecidas
-em Cortes; na√µ necessitando o Official militar de esperar do Brazil a
-promo√ßa√µ, que a Lei lhe concede, nem o Magistrado de consumir a sua
+PorÈm que importa aos Portuguezes da Europa todas essas prosperidades do
+Brazil, huma vez que tambem elles sejaı felizes? Naı se lhe impondo
+tributos senaı quando o pedirem as necessidades do Estado reconhecidas
+em Cortes; naı necessitando o Official militar de esperar do Brazil a
+promoÁaı, que a Lei lhe concede, nem o Magistrado de consumir a sua
 vida, e o seu dinheiro, para ir requerer hum despacho na distancia de
-mil leguas, e perante hum Ministerio, que o na√µ conhece, nem p√≥de
-avaliar o seu merecimento; reservado n'huma palavra √° Regencia, e
+mil leguas, e perante hum Ministerio, que o naı conhece, nem pÛde
+avaliar o seu merecimento; reservado n'huma palavra · Regencia, e
 Tribunaes que existem em Lisboa, Capital deste Reino, o poder de
-providenciarem difinitivamente sobre todos os artigos que respeita√µ √°
+providenciarem difinitivamente sobre todos os artigos que respeitaı ·
 felicidade, e commodidades dos seus habitantes: eis-aqui tudo quanto
-estes podem desejar, e de raza√µ, e justi√ßa devem esperar: mantida com
-tudo a devida subordina√ßa√µ ao Chefe do Imperio, qualquer que seja a sua
-residencia, com as regalias, que conv√©m ao Rei da Briosa Na√ßa√µ
+estes podem desejar, e de razaı, e justiÁa devem esperar: mantida com
+tudo a devida subordinaÁaı ao Chefe do Imperio, qualquer que seja a sua
+residencia, com as regalias, que convÈm ao Rei da Briosa NaÁaı
 Portugueza.
 
-Tendo n√≥s visto como as Ilhas dos A√ßores, paiz fertil, e rico,
+Tendo nÛs visto como as Ilhas dos AÁores, paiz fertil, e rico,
 unicamente pagava ao Governo Portuguez o Dizimo, e o subsidio literario,
-das produc√ß√µes da terra, cumpre fazermos compara√ßa√µ com algumas das
-outras Na√ß√µes. Entre os Inglezes, por exemplo, o tributo que paga o
+das producÁıes da terra, cumpre fazermos comparaÁaı com algumas das
+outras NaÁıes. Entre os Inglezes, por exemplo, o tributo que paga o
 proprietario das terras ao Fisco, anda pela quarta parte do producto
 annual; e a renda industrial, isto he, aquillo que cada hum adquire pelo
-seu Commercio, e industria, paga na mesma propor√ßa√µ. Hum proprietario
+seu Commercio, e industria, paga na mesma proporÁaı. Hum proprietario
 por tanto, que possue vinte mil cruzados de renda, como succede a muitos
-nas Ilhas dos A√ßores, e que debaixo do Governo Portuguez apenas paga o
+nas Ilhas dos AÁores, e que debaixo do Governo Portuguez apenas paga o
 referido Dizimo, pagaria infallivelmente debaixo do Governo Inglez cinco
 mil cruzados annualmente. Devendo ainda advertir-se que em Inglaterra de
 todos os productos terrestes se paga tambem o Dizimo ao Clero Inglez. As
-portas, as janellas das casas, sa√µ sujeitas a tributos consideraveis.
+portas, as janellas das casas, saı sujeitas a tributos consideraveis.
 Que direitos exorbitantes os das Alfandegas? Seja de exemplo o vinho,
 que sendo Portuguez, paga de cada pipa cincoenta e duas libras (187$200
-r√©is em dinheiro nosso) e sendo de Fran√ßa paga sessenta libras[31]. Na
-Fran√ßa em o principio da revolu√ßa√µ, depois de supprimidos huma grande
-parte dos tributos, fic√°ra√µ ainda montando a 300:000:000 libras
-tornezas, ou 12 milh√µes e meio estrelinas. Estes impostos repartidos por
-24 milh√µes de almas, de que enta√µ se compunha a Fran√ßa, fazem pouco
-mais, ou menos 13 chelins por cabe√ßa, que sa√µ mais de dois mil r√©is em
-dinheiro Portuguez, contando mulheres, crian√ßas, e velhos: estes mesmos
-tributos fora√µ depois consideravelmente augmentados.
+rÈis em dinheiro nosso) e sendo de FranÁa paga sessenta libras[31]. Na
+FranÁa em o principio da revoluÁaı, depois de supprimidos huma grande
+parte dos tributos, fic·raı ainda montando a 300:000:000 libras
+tornezas, ou 12 milhıes e meio estrelinas. Estes impostos repartidos por
+24 milhıes de almas, de que entaı se compunha a FranÁa, fazem pouco
+mais, ou menos 13 chelins por cabeÁa, que saı mais de dois mil rÈis em
+dinheiro Portuguez, contando mulheres, crianÁas, e velhos: estes mesmos
+tributos foraı depois consideravelmente augmentados.
 
-Podemos por tanto concluir, que at√© √° passage da Corte para o Brazil,
-na√µ havia povo em toda a Europa menos honerado com tributos, do que os
-moradores das Ilhas dos A√ßores, e ainda mesmo de Portugal.
+Podemos por tanto concluir, que atÈ · passage da Corte para o Brazil,
+naı havia povo em toda a Europa menos honerado com tributos, do que os
+moradores das Ilhas dos AÁores, e ainda mesmo de Portugal.
 
 Continuando a referir os estabelecimentos posteriores, temos de apontar
 a Lei de 25 de Outubro de 1810, que manda receber nas mesmas Ilhas
 promiscoamente os vinhos, e todos os mais generos, humas das outras, sem
-algum imposto, e que os generos de importa√ßa√µ, tendo pago huma vez os
-direitos de entrada, possa√µ tambem girar livres de humas para outras sem
-estorvo, nem embara√ßo.
+algum imposto, e que os generos de importaÁaı, tendo pago huma vez os
+direitos de entrada, possaı tambem girar livres de humas para outras sem
+estorvo, nem embaraÁo.
 
-O estabelecimento da Junta Criminal nesta Capitania por Alvar√° de 15 de
-Novembro de 1810, he tambem hum daquelles titulos, que mostra√µ o cuidado
+O estabelecimento da Junta Criminal nesta Capitania por Alvar· de 15 de
+Novembro de 1810, he tambem hum daquelles titulos, que mostraı o cuidado
 dos Nossos Augustos Monarchas para com os seus Vassallos, sempre que
-pelo interesse dos Val√≠dos na√µ foi illudido; e mostra o seu zelo
-infatigavel em remover os obstaculos, que se oppunha√µ √° felicidade dos
+pelo interesse dos ValÌdos naı foi illudido; e mostra o seu zelo
+infatigavel em remover os obstaculos, que se oppunhaı · felicidade dos
 mesmos, fazendo estabelecimentos novos por todos os seus vastos
-dominios, todas as vezes que as circumstancias o pedia√µ, devendo tambem
-dahi colligir-se a considera√ßa√µ de que aquella parte dos seus Vassallos
+dominios, todas as vezes que as circumstancias o pediaı, devendo tambem
+dahi colligir-se a consideraÁaı de que aquella parte dos seus Vassallos
 se fez sempre merecedora pela sua conducta.
 
-Nos tempos calamitosos, que se segu√≠ra√µ ao Reinado do Senhor Rei D.
-Sebastia√µ, dera√µ os habitantes das Ilhas provas do seu zelo, e affecto
+Nos tempos calamitosos, que se seguÌraı ao Reinado do Senhor Rei D.
+Sebastiaı, deraı os habitantes das Ilhas provas do seu zelo, e affecto
 pelos seus legitimos Monarchas, fazendo mesmo prodigios de valor,
 principalmente na Ilha Terceira, para a total expulsa dos Hespanhoes, e
 para o restabelecimento do Governo dos seus Soberanos. Destas, e de
-outras muitas Ac√ß√µes vem as infinitas merc√™s com que os Augustos
+outras muitas AcÁıes vem as infinitas mercÍs com que os Augustos
 Monarchas Portuguezes tem honrado os Nacionaes das mesmas Ilhas,
 descendentes de mais disto de familias mui distinctas de Portugal, sendo
-infinitos os foros de Fidalgo, e outras honrosas, distinc√ß√µes, que
-nellas se encontra√µ.
+infinitos os foros de Fidalgo, e outras honrosas, distincÁıes, que
+nellas se encontraı.
 
-Na crea√ßa√µ da dita Junta Criminal, na√µ teve o Soberano em vista outra
-cousa mais, do que o bem p√∫blico da Capitania, porque na sua convoca√ßa√µ
-annual faz a Real Fazenda avultadas despezas, j√° no diario dos
-Ministros, j√° nos seus transportes das mais Ilhas para a Capital.
+Na creaÁaı da dita Junta Criminal, naı teve o Soberano em vista outra
+cousa mais, do que o bem p˙blico da Capitania, porque na sua convocaÁaı
+annual faz a Real Fazenda avultadas despezas, j· no diario dos
+Ministros, j· nos seus transportes das mais Ilhas para a Capital.
 
 Esta Junta, assim como as outras, das quaes trataremos depois, foi
-projectada durante a invasa√µ dos Francezes em Portugal, e interrup√ßa√µ
+projectada durante a invasaı dos Francezes em Portugal, e interrupÁaı
 deste Paiz com as Ilhas. E supposto que o Soberano bem podia prever a
-curta dura√ßa√µ daquelle violento dominio; pois que na√µ he do caracter
-Portuguez, o ser j√° mais dominado por Estrangeiras Potencias, com tudo a
-sua nimia vigilancia lhe fez logo acudir com este remedio, enta√µ
-necessario, para que a Justi√ßa Criminal fosse promptamente administrada,
-e na√µ soffressem os bons pela impunidade dos m√°os.
+curta duraÁaı daquelle violento dominio; pois que naı he do caracter
+Portuguez, o ser j· mais dominado por Estrangeiras Potencias, com tudo a
+sua nimia vigilancia lhe fez logo acudir com este remedio, entaı
+necessario, para que a JustiÁa Criminal fosse promptamente administrada,
+e naı soffressem os bons pela impunidade dos m·os.
 
-Sendo por tanto de presumir, que restabelecidas as cousas, como se acha√µ
-no antigo estado, e sujeitas as Ilhas novamente √° Rela√ßa√µ de Lisboa nas
-Causas Civeis por Alvar√° de 6 de Maio de 1809, e aos mais Tribunaes em
-todas as outras reparti√ß√µes por Alvar√° de 5 de Julho de 1816, venha√µ
+Sendo por tanto de presumir, que restabelecidas as cousas, como se achaı
+no antigo estado, e sujeitas as Ilhas novamente · RelaÁaı de Lisboa nas
+Causas Civeis por Alvar· de 6 de Maio de 1809, e aos mais Tribunaes em
+todas as outras repartiÁıes por Alvar· de 5 de Julho de 1816, venhaı
 tambem na parte criminal a ficar subordinadas ao Supremo Tribunal da
-Rela√ßa√µ de Lisboa: porque tendo sido estabelecida a Junta para o fim de
+RelaÁaı de Lisboa: porque tendo sido estabelecida a Junta para o fim de
 se expedirem mais promptamente os processos Criminaes, esta
-circumstancia j√° se na√µ verifica depois de restabelecida a communica√ßa√µ
-com Lisboa, a qual he ta√µ frequente, que poucos mezes se passa√µ em que
-das mesmas Ilhas na√µ saia√µ varios navios para aquella Cidade; sendo por
-consequencia muito mais promptas as decis√µes Criminaes por aquella
-Rela√ßa√µ, onde se despacha diariamente, do que pela Junta Criminal, que
-s√≥mente se convoca de anno a anno, e com summas despezas, e
+circumstancia j· se naı verifica depois de restabelecida a communicaÁaı
+com Lisboa, a qual he taı frequente, que poucos mezes se passaı em que
+das mesmas Ilhas naı saiaı varios navios para aquella Cidade; sendo por
+consequencia muito mais promptas as decisıes Criminaes por aquella
+RelaÁaı, onde se despacha diariamente, do que pela Junta Criminal, que
+sÛmente se convoca de anno a anno, e com summas despezas, e
 difficuldades na passage dos Magistrados pelo mar. Havendo alguns
 processos, que tem durado annos; porque sendo perciso o mandar-se
 proceder a qualquer diligencia relativa aos mesmos, faz-se indispensavel
-ficar para a convoca√ßa√µ do anno seguinte, e assim se va√µ prorogando de
-humas a outras. Al√©m de ficarem as terras privadas dos seus Juizes de
-F√≥ra por huma grande parte do anno, em quanto dura a junta, e fazem as
+ficar para a convocaÁaı do anno seguinte, e assim se vaı prorogando de
+humas a outras. AlÈm de ficarem as terras privadas dos seus Juizes de
+FÛra por huma grande parte do anno, em quanto dura a junta, e fazem as
 suas viagens.
 
-Os fastos da mesma Junta da√µ tambem a conhecer a indole dos habitantes
-das mesmas Ilhas, e a sua Religia√µ, pois que no espa√ßo de 10 annos, que
-tem decorrido desde o seu estabelecimento, s√≥mente houve hum delicto em
+Os fastos da mesma Junta daı tambem a conhecer a indole dos habitantes
+das mesmas Ilhas, e a sua Religiaı, pois que no espaÁo de 10 annos, que
+tem decorrido desde o seu estabelecimento, sÛmente houve hum delicto em
 todas ellas, que mereceo a pena capital[32].
 
 O Marechal de Campo Mr. Pillet., achando-se em Londres no anno de 1812,
 refere que os crimes de assassinatos, e roubos commettidos dentro
 daquella Cidade em o dito anno, chegarao a 1663, e que dos authores
-destes, perto de mil fora√µ convencidos, e condemnados √° morte, ou a
+destes, perto de mil foraı convencidos, e condemnados · morte, ou a
 penas afflictivas, e infamantes.
 
-Ta√µ terrivel enormidade de delictos em hum s√≥ anno, na√µ p√≥de
-attribuir-se a falta de castigo em hum Paiz, onde elles sa√µ ta√µ
-rigorosamente punidos. A relaxa√ßa√µ de costumes, como observa o mesmo
-Author, ou antes a falta de Religia√µ, he sem d√∫vida a origem destes
-males. A cren√ßa em hum Ente Supremo, hum Juiz incorruptivel, que
-presenceia todas as nossas ac√ß√µes, e em cujo Tribunal nenhum delicto
-fica impune, nem ac√ßa√µ boa sem recompensa; e onde todas as injusti√ßas
-humanas sa√µ reparadas, he sem d√∫vida o maior estimulo para conduzir o
-homem √° virtude, e fazer calar as paix√µes, que damna√µ o cora√ßa√µ humano;
-ao mesmo tempo que he huma consola√ßa√µ preciosa no meio das desgra√ßas, e
+Taı terrivel enormidade de delictos em hum sÛ anno, naı pÛde
+attribuir-se a falta de castigo em hum Paiz, onde elles saı taı
+rigorosamente punidos. A relaxaÁaı de costumes, como observa o mesmo
+Author, ou antes a falta de Religiaı, he sem d˙vida a origem destes
+males. A crenÁa em hum Ente Supremo, hum Juiz incorruptivel, que
+presenceia todas as nossas acÁıes, e em cujo Tribunal nenhum delicto
+fica impune, nem acÁaı boa sem recompensa; e onde todas as injustiÁas
+humanas saı reparadas, he sem d˙vida o maior estimulo para conduzir o
+homem · virtude, e fazer calar as paixıes, que damnaı o coraÁaı humano;
+ao mesmo tempo que he huma consolaÁaı preciosa no meio das desgraÁas, e
 do infortunio.
 
-Os habitantes das Ilhas sa√µ Religiosos, e em geral sinceros, e de
-costumes innocentes. P√≥de de algumas dellas fazer-se o elogio, que fazia
+Os habitantes das Ilhas saı Religiosos, e em geral sinceros, e de
+costumes innocentes. PÛde de algumas dellas fazer-se o elogio, que fazia
 Justin dos Seytas--que a ignorancia do mal era para elles huma guarda
-mais segura da ordem p√∫blica, do que nas outras partes o conhecimento, e
+mais segura da ordem p˙blica, do que nas outras partes o conhecimento, e
 o temor das penas[33].
 
-Os Portuguezes em toda a parte conserva√µ huma grande pureza de costumes;
-o decoro das familias he religiosamente respeitado: as Portuguezas sa√µ
+Os Portuguezes em toda a parte conservaı huma grande pureza de costumes;
+o decoro das familias he religiosamente respeitado: as Portuguezas saı
 honestas, e recatadas, ao mesmo tempo que amaveis, e espirituosas. O
-respeito √° Divindade, a venera√ßa√µ aos Pais, e amor ao Principe,
+respeito · Divindade, a veneraÁaı aos Pais, e amor ao Principe,
 sentimentos capazes de conduzir o homem a todo o genero de virtudes, e
-desvia-lo de todos os crimes, sa√µ os principios com que somos nutridos
+desvia-lo de todos os crimes, saı os principios com que somos nutridos
 desde a infancia. He por isso que devemos gloriar-nos de ser
-Portuguezes, e na√µ devemos j√° mais consentir em trocar os nossos
-Costumes com as outras Na√ß√µes.
+Portuguezes, e naı devemos j· mais consentir em trocar os nossos
+Costumes com as outras NaÁıes.
 
-Na√µ padece algum dos inconvenientes acima referidos da Junta Criminal, a
-outra creada por Alvar√° de 18 de Setembro de 1811, com a denomina√ßa√µ _de
+Naı padece algum dos inconvenientes acima referidos da Junta Criminal, a
+outra creada por Alvar· de 18 de Setembro de 1811, com a denominaÁaı _de
 Junta do Melhoramento da Agricultura_, por serem os seus Deputados todos
 residentes na Cidade de Angra, e poderem diariamente convocar-se sem
 despeza, nem as outras difficuldades.
 
-Sendo o principal cuidado dos Monarchas Portuguezes relativamente √°s
-Ilhas, √° felicidade dos seus habitantes, elles na√µ tem cessado de
+Sendo o principal cuidado dos Monarchas Portuguezes relativamente ·s
+Ilhas, · felicidade dos seus habitantes, elles naı tem cessado de
 promover o augmento, e melhoramento da Agricultura, como a principal
-fonte donde emana√µ as riquezas, e prosperidade dos P√≥vos. Com estas
+fonte donde emanaı as riquezas, e prosperidade dos PÛvos. Com estas
 vistas pois foi estabelecida na Terceira, Capital das mesmas Ilhas, a
 Junta de que fallamos; permittindo-se ao mesmo tempo o poderem-se
-afforar alli os baldios, e terras incultas, ou seja√µ da Coroa, ou de
-Morgados, sem dependencia do Desembargo do Pa√ßo, nem necessidade de
+afforar alli os baldios, e terras incultas, ou sejaı da Coroa, ou de
+Morgados, sem dependencia do Desembargo do PaÁo, nem necessidade de
 Consultar a Sua Magestade.
 
-Tambem ha na mesma Capital huma Junta creada por Alvar√° de 10 de
-Setembro de 1811, destinada para supprir algumas Provis√µes da
-competencia do Desembargo do Pa√ßo em certos casos expressos no mesmo
-Alvar√°.
+Tambem ha na mesma Capital huma Junta creada por Alvar· de 10 de
+Setembro de 1811, destinada para supprir algumas Provisıes da
+competencia do Desembargo do PaÁo em certos casos expressos no mesmo
+Alvar·.
 
-Por Alvar√° de 7 de Janeiro de 1811, fora√µ ultimamente mandados
-accrescentar os emolumentos aos Magistrados das Ilhas, e p√¥r alli em
+Por Alvar· de 7 de Janeiro de 1811, foraı ultimamente mandados
+accrescentar os emolumentos aos Magistrados das Ilhas, e pÙr alli em
 observancia o Regulamento das Terras de beira mar do Brazil,
-estabelecido pelo Alvar√° de 10 de Outubro de 1754, taxando-se tambem aos
-Juizes de F√≥ra o ordenado de 200$000 r√©is. E aos Corregedores de Angra
-foi estabelecido o ordenado de 300$000 r√©is, por Alvar√° de 9 de Outubro
+estabelecido pelo Alvar· de 10 de Outubro de 1754, taxando-se tambem aos
+Juizes de FÛra o ordenado de 200$000 rÈis. E aos Corregedores de Angra
+foi estabelecido o ordenado de 300$000 rÈis, por Alvar· de 9 de Outubro
 de 1818.
 
-Taes sa√µ os factos mais memoraveis destas Ilhas Portuguezas. E tendo n√≥s
-dado alguma id√©a dos costumes dos seus nacionaes, cumpre ajuntar, que o
+Taes saı os factos mais memoraveis destas Ilhas Portuguezas. E tendo nÛs
+dado alguma idÈa dos costumes dos seus nacionaes, cumpre ajuntar, que o
 seu caracter, bem como dos Portuguezes em geral, he nobre, e elevado:
-elles sa√µ cheios de humanidade, e generosos; mas estas qualidades n√°√µ
-podem ser ta√µ geraes, que na√µ faltem em alguns individuos,
-subsistindo-as vicios que se encontra√µ por toda a parte, onde existem
+elles saı cheios de humanidade, e generosos; mas estas qualidades n·ı
+podem ser taı geraes, que naı faltem em alguns individuos,
+subsistindo-as vicios que se encontraı por toda a parte, onde existem
 homens.
 
-Por√©m hum pequeno n√∫mero de homens immorigerados, e cheios de vicios,
-que se encontra√µ em algumas terras Portuguezas, quasi desapparece em
-compara√ßa√µ dos infinitos Cidad√£os benemeritos de que abunda√µ as mesmas:
-que sa√µ alguns homens turbulentos, e infamadores, em compara√ßa√µ de
-milhares de Cidad√£os modestos, e comedidos? que sa√µ meia duzia de
-individuos odiosos, e vingativos, que na√µ respeita√µ nem a Divindade, nem
+PorÈm hum pequeno n˙mero de homens immorigerados, e cheios de vicios,
+que se encontraı em algumas terras Portuguezas, quasi desapparece em
+comparaÁaı dos infinitos Cidad„os benemeritos de que abundaı as mesmas:
+que saı alguns homens turbulentos, e infamadores, em comparaÁaı de
+milhares de Cidad„os modestos, e comedidos? que saı meia duzia de
+individuos odiosos, e vingativos, que naı respeitaı nem a Divindade, nem
 os homens, comparados com milhares de pessoas, cheios de benignidade, e
-affabilidade, e dotados de todas as virtudes Christ√£es, e sociaes?
+affabilidade, e dotados de todas as virtudes Christ„es, e sociaes?
 
-Sem as tr√©vas da noite mal poderiamos apreciar a luz do dia; as ac√ß√µes
-dos homens m√°os, que entre os Portuguezes he hum pequeno n√∫mero, fazem
-real√ßar as virtudes dos bons, que he o Geral da Na√ßa√µ.
+Sem as trÈvas da noite mal poderiamos apreciar a luz do dia; as acÁıes
+dos homens m·os, que entre os Portuguezes he hum pequeno n˙mero, fazem
+realÁar as virtudes dos bons, que he o Geral da NaÁaı.
 
 
 FIM
@@ -1476,14 +1476,14 @@ FIM
 
 _TABOA DOS GOVERNADORES_
 
-_Capit√£es Generaes das Ilhas dos A√ßores._
+_Capit„es Generaes das Ilhas dos AÁores._
 
 
-1      D. Anta√µ de Almada, tomou posse deste Governo em      1766
+1      D. Antaı de Almada, tomou posse deste Governo em      1766
 2      Deniz de Mello                                        1776
-       Governo interino desde 1783 at√© 1799
+       Governo interino desde 1783 atÈ 1799
 3      O Conde de Almada                                     1799
-4      O Conde de S. Louren√ßo                                1803
+4      O Conde de S. LourenÁo                                1803
 5      D. Miguel Antonio de Mello                            1806
 6      Ayres Pinto de Sousa                                  1810
 7      Francisco Antonio de Araujo                           1817
@@ -1492,34 +1492,34 @@ _Capit√£es Generaes das Ilhas dos A√ßores._
 
 
 GOVERNADORES SUBALTERNOS
-_da Ilha de S. Miguel desde a crea√ßa√µ da Capitania
+_da Ilha de S. Miguel desde a creaÁaı da Capitania
 Geral._
 
 
-       O Sargento M√≥r Antonio Borges de Bitancourt continuou
+       O Sargento MÛr Antonio Borges de Bitancourt continuou
        a governar a Ilha com o titulo de Commandante, que
        estava exercendo desde                                1757
 
-       O Sargento M√≥r Jos√© Pereira de Medeiros, nomeado
-       Commandante da Ilha pelo Governador, e Capita√µ
+       O Sargento MÛr JosÈ Pereira de Medeiros, nomeado
+       Commandante da Ilha pelo Governador, e Capitaı
        General em                                            1772
 
-       O Sargento M√≥r Jos√© Ignacio de Bulh√µes Cotta,
+       O Sargento MÛr JosÈ Ignacio de Bulhıes Cotta,
        Commandante em                                        1777
 
-       Manoel Jos√© de Fran√ßa                                 1780
+       Manoel JosÈ de FranÁa                                 1780
 
-1      Francisco Manoel de Mesquita come√ßa a governar a
+1      Francisco Manoel de Mesquita comeÁa a governar a
        Ilha com o titulo de Governador[34] em                1790
 
 2      O Coronel Ignacio Joaquim de Castro                   1801
 
-3      O Sargento M√≥r Manoel Timotheo de Valadares           1807
+3      O Sargento MÛr Manoel Timotheo de Valadares           1807
 
-4      O Coronel Jos√© Francisco de Paula Cavalcante de
+4      O Coronel JosÈ Francisco de Paula Cavalcante de
        Albuquerque                                           1811
 
-5      O Tenente Coronel Sebastia√µ Jos√© de Arriaga Brum
+5      O Tenente Coronel Sebastiaı JosÈ de Arriaga Brum
        da Silveira                                           1815
 
 
@@ -1527,16 +1527,16 @@ Geral._
 
 GOVERNADORES SUBALTERNOS
 _das Ilhas do Fayal, e Pico desde 1797, em que
-estas Ilhas come√ß√°ra√µ a ter Governadores Militares,
-sendo at√© enta√µ regidas nesta parte pelos
-seus Capit√£es M√≥res._
+estas Ilhas comeÁ·raı a ter Governadores Militares,
+sendo atÈ entaı regidas nesta parte pelos
+seus Capit„es MÛres._
 
 
-1      Jeronymo Sebastia√µ Brum da Silveira, toma posse em    1707
+1      Jeronymo Sebastiaı Brum da Silveira, toma posse em    1707
 
 2      Theodoro Pamplona                                     1804
 
-3      Elias Jos√© Ribeiro                                    1809
+3      Elias JosÈ Ribeiro                                    1809
 
 4      Joaquim Ignacio de Lima[35]                           1816
 
@@ -1546,58 +1546,58 @@ seus Capit√£es M√≥res._
 *Notas:*
 
 
-[1] Na palavra El-Rei conv√©m omittir para sempre o
-prenome El, na√µ s√≥ por ser de origem Castelhana, mas at√©
-mesmo por na√µ se accommodar com a natural energia da lingua
+[1] Na palavra El-Rei convÈm omittir para sempre o
+prenome El, naı sÛ por ser de origem Castelhana, mas atÈ
+mesmo por naı se accommodar com a natural energia da lingua
 Portugueza; sendo muito mais expressivo o dizer-se--o
 Rei dos Portuguezes, do que El-Rei dos Portuguezes.
 
 [2] He quimerico o dizer-se (como alguns Authores referem,
 fundados em noticias vagas) que no descobrimento
-destas Ilhas se ach√°ra huma estatua de pedra, representando
+destas Ilhas se ach·ra huma estatua de pedra, representando
 hum Cavalleiro, que apontava com o dedo para o Occidente.
 Deo lugar a esta fabula huma rocha natural, que havia
 na Ilha da Corvo, e ainda hoje existe, a qual vista de longe
 tem algumas aparencias ds hum Cavalleiro.
 
 [3] Falla-se de huma Monarchia moderada, com Leis
-fundamentaes que regulem a sua administra√ßa√µ, politica,
+fundamentaes que regulem a sua administraÁaı, politica,
 economia, e civil; porque a Monarchia absoluta em nada
 differe na pratica do Governo despotico.
 
-[4] Todo este systema foi transtornado desde a mudan√ßa
-da Corte, como se ver√° na 3.^a parte desta Memoria.
+[4] Todo este systema foi transtornado desde a mudanÁa
+da Corte, como se ver· na 3.^a parte desta Memoria.
 
-[5] Sa√µ os impostos o maior estorvo, que se p√≥de opp√¥r
-√° Agricultura: o terreno das Ilhas dos A√ßores na√µ he de
+[5] Saı os impostos o maior estorvo, que se pÛde oppÙr
+· Agricultura: o terreno das Ilhas dos AÁores naı he de
 melhor qualidade, que o de Portugal, com tudo a Agricultura
-das Ilhas he a mais florecente, a sua produc√ßa√µ he abundantissima,
-ellas exporta√µ muitos Navios de gra√µ de todas as
+das Ilhas he a mais florecente, a sua producÁaı he abundantissima,
+ellas exportaı muitos Navios de graı de todas as
 qualidades, centos de Navios de laranja, quantidade de mil
 pipas de vinho, e agoa-ardente, e fornecem mantimentos a
-todas as embarca√ß√µes, e Esquadras que alli aporta√µ: em Portugal
-a produc√ßa√µ he insufficiente para os seus habitantes,
-que pereceria√µ de fome, se lhe na√µ viesse de f√≥ra o pa√µ,
-para huma grande parte do anno. Donde vem pois esta differen√ßa?
-As Ilhas nunca pag√°ra√µ tributo algum da sua produc√ßa√µ,
-nem outro onus al√©m do Dizimo Ecclesiastico at√©
+todas as embarcaÁıes, e Esquadras que alli aportaı: em Portugal
+a producÁaı he insufficiente para os seus habitantes,
+que pereceriaı de fome, se lhe naı viesse de fÛra o paı,
+para huma grande parte do anno. Donde vem pois esta differenÁa?
+As Ilhas nunca pag·raı tributo algum da sua producÁaı,
+nem outro onus alÈm do Dizimo Ecclesiastico atÈ
 o anno de 1808: e a Agricultura em Portugal he extraordinariamente
 onerada: ha lugares onde ao Lavrador apenas fica
 ametade do que elle extrahe da terra regada com o suor
-do seu rosto. Os quartos, os quintos, as d√©cimas, que paga
-o miseravel cultivador, sa√µ os verdadeiros obstaculos √° Agricultura
+do seu rosto. Os quartos, os quintos, as dÈcimas, que paga
+o miseravel cultivador, saı os verdadeiros obstaculos · Agricultura
 em Portugal.
 
 [6] Esprit des Lois l. 6. cap. I.
 
 [7] Volt. Essais sur hist. G. chap. 126.
 
-[8] Ord. Liv. 5.^o Tit. 76.--Provisa√µ de 15 de Novembro
-de 1687, dirigida √° Camara de Ponta Delgada.--Carta
+[8] Ord. Liv. 5.^o Tit. 76.--Provisaı de 15 de Novembro
+de 1687, dirigida · Camara de Ponta Delgada.--Carta
 Regia do 1.^o de Novembro de 1709, dirigida ao Governador
 da Ilha de S. Miguel.--Regimento dos Desembargadores
-do Pa√ßo, no ¬ß 113.--Alvar√°, e Regimento do Terreiro
-de Lisboa de 24 de Junho de 1777, ¬ß. 11.
+do PaÁo, no ß 113.--Alvar·, e Regimento do Terreiro
+de Lisboa de 24 de Junho de 1777, ß. 11.
 
 [9] Le Commerc. et le Govern. concid. relat. l'un. al'autre
 2.^a P. Chap. 12.
@@ -1607,66 +1607,66 @@ de Lisboa de 24 de Junho de 1777, ¬ß. 11.
 [11] Mais de huma vez havido estes funestos acontecimentos
 na Ilha de S. Miguel.
 
-[12] Esta Junta da Fazenda dos A√ßores, subordinada ao
+[12] Esta Junta da Fazenda dos AÁores, subordinada ao
 Erario Regio, foi creada por Carta Regia de 29 de Outubro
 de 1798.
 
 [13] Metade do Terreno das Ilhas era vinculado, e possuido
-por Morgados: a aboli√ßao dos muitos vinculos insignificantes
-que se tem feito, e contin√∫a a fazer, tem restituido
+por Morgados: a aboliÁao dos muitos vinculos insignificantes
+que se tem feito, e contin˙a a fazer, tem restituido
 ao Commercio dos homens huma grande parte do mesmo
 terreno.
 
-[14] As Leis de Athenas defendia√µ aos Pais o testar, para
-que a heran√ßa paterna se dividisse igualmente entre os filhos: Plutarco
+[14] As Leis de Athenas defendiaı aos Pais o testar, para
+que a heranÁa paterna se dividisse igualmente entre os filhos: Plutarco
 vida de Solon. Licurgo tambem estabeleceo,
-que os filhos tivessem partes iguaes na successa√µ de seus
+que os filhos tivessem partes iguaes na successaı de seus
 Pais: Plutarco vida de Licurgo.
 
-[15] Assim como o sa√µ as disposi√ß√µes testamentarias, e
+[15] Assim como o saı as disposiÁıes testamentarias, e
 hereditarias. Montesq. Espr. des Lois liv. 26. Chap. 6.
 
-[16] Ord. Liv. 3.^o Tit. 20 ¬ß. 44.
+[16] Ord. Liv. 3.^o Tit. 20 ß. 44.
 
-[17] A Legisla√ßa√µ Portugueza deve hoje ser reformada
-principalmente na parte criminar, sobre cuja ramo se desenvolv√™ra√µ
+[17] A LegislaÁaı Portugueza deve hoje ser reformada
+principalmente na parte criminar, sobre cuja ramo se desenvolvÍraı
 os mais luminosos principios no ultimo seculo, de
 que antes apenas havia hum fraco luar, assim como a respeito
 da Policia Civil, da Policia economica, e outros objectos;
-por√©m na mesma Legisla√ßa√µ ha muita cousa boa,
+porÈm na mesma LegislaÁaı ha muita cousa boa,
 que aproveitar.
 
-[18] Em hum s√≥ Bergantim, denominado M√£i de Deos,
-embarc√°ra√µ da Ilha de S. Miguel no anno de 1812 para o
+[18] Em hum sÛ Bergantim, denominado M„i de Deos,
+embarc·raı da Ilha de S. Miguel no anno de 1812 para o
 Rio de Janeiro voluntariamente 194 pessoas.
 
 [19] Esta ultima Ilha tem banhos thermais em duas partes;
 huns no lugar chamado das Caldeiras, que fica huma
 legua distante da Villa da Ribeira Grande, e 4 leguas da
-Cidade: estes banhos sa√µ sulphureos, e applicados para as
-molestias da pelle: os Reumaticos tambem alli experimenta√µ
-muitos allivios. Os outros sa√µ no Val das Furnas, 3 leguas
-da Villa Franca, e 8 da Cidade: al√©m dos banhos sulphureos
+Cidade: estes banhos saı sulphureos, e applicados para as
+molestias da pelle: os Reumaticos tambem alli experimentaı
+muitos allivios. Os outros saı no Val das Furnas, 3 leguas
+da Villa Franca, e 8 da Cidade: alÈm dos banhos sulphureos
 iguaes aos primeiros, ha alli banhos de agoa ferrea,
-que tem applica√ß√µes muito uteis. Em todos estes banhos se
+que tem applicaÁıes muito uteis. Em todos estes banhos se
 tem experimentado curas maravilhosas.
 
-[20] A produc√ßa√µ nestas Ilhas soffre grande altera√ßa√µ,
-e na√µ he raro que hum proprietario de quintas, que n'hum
-anno faz 4 mil caixas de laranja, no seguinte na√µ tenha 2
+[20] A producÁaı nestas Ilhas soffre grande alteraÁaı,
+e naı he raro que hum proprietario de quintas, que n'hum
+anno faz 4 mil caixas de laranja, no seguinte naı tenha 2
 mil: assim como na Ilha do Pico o proprietario de vinhas,
 que hum anno colhe 100 pipas de vinho, em outro anno
-na√µ tem 50. Os ventos a que as mesmas Ilhas sa√µ sujeitas,
-e que fazem grande estrago nos fructos, da√µ causa a esta
+naı tem 50. Os ventos a que as mesmas Ilhas saı sujeitas,
+e que fazem grande estrago nos fructos, daı causa a esta
 alternativa.
 
 [21] Vem a ser o meio termo proporcional, 15 mil pipas.
 
-[22] Esta Ilha he notavel por na√µ haver memoria, nem
-indicios de que alli houvessem ja mais expuls√µes vulcanicas,
+[22] Esta Ilha he notavel por naı haver memoria, nem
+indicios de que alli houvessem ja mais expulsıes vulcanicas,
 nem tambem aballos de terra.
 
-[23] Hist. Phil. et Poit. Liv. I. pag. 61. Edi√ßa√µ d'Amst.
+[23] Hist. Phil. et Poit. Liv. I. pag. 61. EdiÁaı d'Amst.
 de 1772.
 
 [24] Estabelecida por Alv. de 27 de Junho de 1808.
@@ -1677,54 +1677,54 @@ de 1772.
 
 [27] Alv. de 17 de Junho de 1809.
 
-[28] Nas Republicas da Grecia, e em Roma era√µ os pais
+[28] Nas Republicas da Grecia, e em Roma eraı os pais
 de familia favorecidos, e recompensados com grandes privilegios.
-Hum dos Dogmas da Religia√µ dos Magos respeitado
-na Persia, ensinava que a ac√ßa√µ a mais agradavel √° Divindade,
+Hum dos Dogmas da Religiaı dos Magos respeitado
+na Persia, ensinava que a acÁaı a mais agradavel · Divindade,
 he o produzir o seu semelhante, cultivar hum campo,
 e plantar huma arvore.
 
 [29] Seria talvez acertado que cada huma das Ilhas mandasse
-o seu Deputado √°s Cortes, qualquer que fosse o n√∫mero
-dos seus habitantes, bem como pela Constitui√ßa√µ da Hespanha
-no Artigo 33 se determinou a respeito da Ilha de Sa√µ
-Domingos; na√µ s√≥ por serem differentes os interesses de cada
+o seu Deputado ·s Cortes, qualquer que fosse o n˙mero
+dos seus habitantes, bem como pela ConstituiÁaı da Hespanha
+no Artigo 33 se determinou a respeito da Ilha de Saı
+Domingos; naı sÛ por serem differentes os interesses de cada
 huma das mesmas Ilhas, mas tambem pela grande difficuldade
 que haveria em passarem os Eleitores de todas ellas
-tantas leguas de mar, para hirem √° Terceira Capital da Provincia
-fazer as respectivas elei√ß√µes.
+tantas leguas de mar, para hirem · Terceira Capital da Provincia
+fazer as respectivas eleiÁıes.
 
 [30] No anno de 1808 achando-se Portugal occupado pelos
-Francezes, chegou o pre√ßo do milho na Ilha de S. Miguel
+Francezes, chegou o preÁo do milho na Ilha de S. Miguel
 a oito vintens o alqueire; e se acaso durassem aquellas
 circumstancias, ficaria a Ilha arruinada por lhe faltar
-mercado dos seus gr√£os.
+mercado dos seus gr„os.
 
-[31] Porque na√µ havemos seguir o exemplo desta Sabia
-Na√ßa√µ, ao menos em alguns artigos? O vinho de Feitoria do
+[31] Porque naı havemos seguir o exemplo desta Sabia
+NaÁaı, ao menos em alguns artigos? O vinho de Feitoria do
 Douro, da primeira ordem, foi avaliado no presente anno
-de 1820 em 36$000 r√©is, logo o tributo que paga em Inglaterra
+de 1820 em 36$000 rÈis, logo o tributo que paga em Inglaterra
 huma pipa de vinho, excede cinco vezes o valor,
-porque a vende o propri√®tario do Douro. Se hum Portuguez
+porque a vende o propriËtario do Douro. Se hum Portuguez
 tem o appetite de mandar vir huma Carruagem feita em Londres,
-ou Paris por doze mil cruzados, como n√≥s conhecemos
+ou Paris por doze mil cruzados, como nÛs conhecemos
 algumas em Lisboa, em manifesto prejuizo dos Artistas
-Portuguezes, satisfa√ßa embora o seu appetite, mas pague ao
-Thesouro P√∫blico sessenta mil cruzados, que vem a ser tambem
-o quintuplo do seu primeiro custo. E haver√° quem se
+Portuguezes, satisfaÁa embora o seu appetite, mas pague ao
+Thesouro P˙blico sessenta mil cruzados, que vem a ser tambem
+o quintuplo do seu primeiro custo. E haver· quem se
 atreva a reprovar esta justa reciprocidade?
 
-[32] Tal foi o assassinio do Juiz de F√≥ra da Ribeira
-Grande em 1812, commettido atrai√ßoadamente, e revestido
+[32] Tal foi o assassinio do Juiz de FÛra da Ribeira
+Grande em 1812, commettido atraiÁoadamente, e revestido
 de circumstancias atrozes.
 
-[33] Taes sa√µ a Ilha das Flores, o Pico, Santa Maria.
+[33] Taes saı a Ilha das Flores, o Pico, Santa Maria.
 
 [34] Este Governo tem o ordenado estabelecido de hum
-conto de r√©is.
+conto de rÈis.
 
-[35] No tempo deste come√ßa√µ os Governadores a ter
-600$000 reis de ordenado, na√µ tendo enta√µ mais do que o
+[35] No tempo deste comeÁaı os Governadores a ter
+600$000 reis de ordenado, naı tendo entaı mais do que o
 soldo da sua patente.
 
 
@@ -1736,28 +1736,28 @@ Lista de erros corrigidos
 Aqui encontram-se listados todos os erros encontrados e corrigidos:
 
 +-----------+-------------------------+---------------------------+
-|           |        Original         |         Correc√ß√£o         |
+|           |        Original         |         CorrecÁ„o         |
 +-----------+-------------------------+---------------------------+
-| #p√°g.  5  | Ihas                    | Ilhas                     |
-| #p√°g. 10  | certa √©pocha*           | curta √©pocha              |
-| #p√°g. 14  | admimistra√ßa√µ           | administra√ßa√µ             |
-| #p√°g. 19  | crer*                   | ver                       |
-| #p√°g. 22  | faltarem*               | faltar                    |
-| #p√°g. 22  | mais contingente*       | menos contingente         |
-| #p√°g. 24  | effeitos*               | feitos                    |
-| #p√°g. 38  | matilha*                | mantilha                  |
-| #p√°g. 46  | na√µ sahia√µ*             | na√µ saia√µ                 |
-| #p√°g. 48  | e desviado*             | e desvia-lo               |
+| #p·g.  5  | Ihas                    | Ilhas                     |
+| #p·g. 10  | certa Èpocha*           | curta Èpocha              |
+| #p·g. 14  | admimistraÁaı           | administraÁaı             |
+| #p·g. 19  | crer*                   | ver                       |
+| #p·g. 22  | faltarem*               | faltar                    |
+| #p·g. 22  | mais contingente*       | menos contingente         |
+| #p·g. 24  | effeitos*               | feitos                    |
+| #p·g. 38  | matilha*                | mantilha                  |
+| #p·g. 46  | naı sahiaı*             | naı saiaı                 |
+| #p·g. 48  | e desviado*             | e desvia-lo               |
 +-----------+-------------------------+---------------------------+
 
-As correc√ß√µes que seguem as instru√ß√µes da errata da pr√≥pria obra
-est√£o identificadas com *.
+As correcÁıes que seguem as instruÁıes da errata da prÛpria obra
+est„o identificadas com *.
 
-Foi mantida a varia√ß√£o da palavra "fromentaceos" e "formentaceos"
-que surgem em igual n√∫mero no original. (talvez "ferment√°ceos"
+Foi mantida a variaÁ„o da palavra "fromentaceos" e "formentaceos"
+que surgem em igual n˙mero no original. (talvez "ferment·ceos"
 fosse a palavra pretendida).
 
-Segundo a errata na #p√°g. 19 est√° em falta o texto "--de que poderia
+Segundo a errata na #p·g. 19 est· em falta o texto "--de que poderia
 haver falta no paiz, e esta com fundamento.--"
 
 
@@ -1765,7 +1765,7 @@ haver falta no paiz, e esta com fundamento.--"
 
 
 End of the Project Gutenberg EBook of Memoria historica sobre as ilhas dos
-A√ßores, by Unknown
+AÁores, by Unknown
 
 *** END OF THIS PROJECT GUTENBERG EBOOK MEMORIA HISTORICA SOBRE AS ***
 
@@ -1773,8 +1773,8 @@ A√ßores, by Unknown
 This and all associated files of various formats will be found in:
         http://www.gutenberg.org/4/2/7/6/42762/
 
-Produced by Rita Farinha, Alberto Manuel Brand√£o Sim√µes
-e Jos√© Carvalho (This book was produced from scanned images
+Produced by Rita Farinha, Alberto Manuel Brand„o Simıes
+e JosÈ Carvalho (This book was produced from scanned images
 of public domain material from the Google Print project.)
 
 

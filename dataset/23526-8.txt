@@ -31,10 +31,10 @@ Library of Portugal (Biblioteca Nacional de Portugal).)
 
 
 
-     *Nota de editor:* Devido √† quantidade de erros tipogr√°ficos
-     existentes neste texto, foram tomadas v√°rias decis√µes quanto √†
-     vers√£o final. Em caso de d√∫vida, a grafia foi mantida de acordo com
-     o original. No final deste livro encontrar√° a lista de erros
+     *Nota de editor:* Devido ‡ quantidade de erros tipogr·ficos
+     existentes neste texto, foram tomadas v·rias decisıes quanto ‡
+     vers„o final. Em caso de d˙vida, a grafia foi mantida de acordo com
+     o original. No final deste livro encontrar· a lista de erros
      corrigidos.
 
      Rita Farinha (Nov. 2007)
@@ -71,7 +71,7 @@ LISBOA
 
 
 
-√Å MEMORIA DE Guilherme D'Azevedo
+¡ MEMORIA DE Guilherme D'Azevedo
 
 
 
@@ -86,8 +86,8 @@ INDICE
 
 Aos simples       9
 A vinha do Senhor         17
-A Caridade e a Justi√ßa       25
-O Pap√£o        30
+A Caridade e a JustiÁa       25
+O Pap„o        30
 Parasitas       31
 Resposta ao Sillabus        33
 O Baptismo       37
@@ -105,10 +105,10 @@ Ao nuncio Masella        77
 Ladainha moderna        85
 O Melro        89
 Circular       103
-A ben√ß√£o da locomotiva       109
+A benÁ„o da locomotiva       109
 A Hidra       111
 A Valla commum       113
-A S√©sta do senhor abade       127
+A SÈsta do senhor abade       127
 O Genesis       142
 Fantasmas       145
 Post-Scriptum       149
@@ -119,94 +119,94 @@ Post-Scriptum       149
 AOS SIMPLES
 
 
-√ì almas que viveis puras, immaculadas
-Na torre do luar da gra√ßa e da illus√£o,
-V√≥s que ainda conservaes, intactas, perfumadas,
-As rosas para n√≥s ha tanto desfolhadas
-Na aridez sepulchral do nosso cora√ß√£o;
-Almas, filhas da luz das manh√£s harmoniosas,
-Da luz que acorda o ber√ßo e que entreabre as rosas,
-Da luz, olhar de Deus, da luz, ben√ß√£o d'amor,
-Que faz rir um nectario ao p√© de cada abelha,
-E faz cantar um ninho ao p√© de cada flor;
+” almas que viveis puras, immaculadas
+Na torre do luar da graÁa e da illus„o,
+VÛs que ainda conservaes, intactas, perfumadas,
+As rosas para nÛs ha tanto desfolhadas
+Na aridez sepulchral do nosso coraÁ„o;
+Almas, filhas da luz das manh„s harmoniosas,
+Da luz que acorda o berÁo e que entreabre as rosas,
+Da luz, olhar de Deus, da luz, benÁ„o d'amor,
+Que faz rir um nectario ao pÈ de cada abelha,
+E faz cantar um ninho ao pÈ de cada flor;
 Almas, onde resplende, almas, onde se espelha
-A candura innocente e a bondade christ√£,
-Como n'um c√©o d'Abril o arco da allian√ßa,
-Como n'um lago azul a estrella da manh√£;
-Almas, urnas de f√©, de caridade, e esp'ran√ßa,
+A candura innocente e a bondade christ„,
+Como n'um cÈo d'Abril o arco da allianÁa,
+Como n'um lago azul a estrella da manh„;
+Almas, urnas de fÈ, de caridade, e esp'ranÁa,
 Vasos d'oiro contendo aberto um lirio santo,
 Um lirio immorredoiro, um lirio alabastrino,
 Que os anjos do Senhor vem orvalhar com pranto,
-E a piedade florir com seu clar√£o divino;
+E a piedade florir com seu clar„o divino;
 Almas que atravessaes o lodo da existencia,
 Este lodo perverso, iniquo, envenenado,
 Levando sobre a fronte o esplendor da innocencia,
-Calcando sob os p√©s o drag√£o do peccado;
-Bemdictas sejaes, v√≥s, almas que est'alma adora,
+Calcando sob os pÈs o drag„o do peccado;
+Bemdictas sejaes, vÛs, almas que est'alma adora,
 Almas cheias de paz, humildade e alegria,
-Para quem a consciencia √© o sol de toda a hora,
-Para quem a virtude √© o p√£o de cada dia!
+Para quem a consciencia È o sol de toda a hora,
+Para quem a virtude È o p„o de cada dia!
 Sois como a luz que doira as trevas d'um monturo,
 Ficando sempre branca a sorrir e a cantar;
 E tudo quanto em mim ha de bello ou de puro.
---Desde a esmola que eu dou √° prece que eu murmuro--
-√â vosso: fostes v√≥s o meu primeiro altar.
-L√° da minha distante e encantadora infancia,
+--Desde a esmola que eu dou · prece que eu murmuro--
+… vosso: fostes vÛs o meu primeiro altar.
+L· da minha distante e encantadora infancia,
 D'esse ninho d'amor e saudade sem fim,
 Chega-me ainda a vossa angelica fragrancia
-Como uma harpa √©olia a cantar a distancia,
-Como um v√©o branco ao longe inda a acenar por mim!
+Como uma harpa Èolia a cantar a distancia,
+Como um vÈo branco ao longe inda a acenar por mim!
 ..................................................
 ..................................................
 ..................................................
-Minha m√£e, minha m√£e! ai que saudade immensa,
-Do tempo em que ajoelhava, orando, ao p√© de ti.
+Minha m„e, minha m„e! ai que saudade immensa,
+Do tempo em que ajoelhava, orando, ao pÈ de ti.
 Cahia mansa a noite; e andorinhas aos pares
 Cruzavam-se voando em torno dos seus lares,
 Suspensos do beiral da casa onde eu nasci.
-Era a hora em que j√° sobre o feno das eiras
-Dormia quieto e manso o impavido lebr√©u.
-Vinham-nos das montanhas as can√ß√µes das ceifeiras,
-Como a alma d'um justo, ia em triumpho ao c√©o!...
-E, m√£os postas, ao p√© do altar do teu rega√ßo,
-Vendo a lua subir, muda, alumiando o espa√ßo,
-Eu balbuciava a minha infantil ora√ß√£o,
-Pedindo a Deus que est√° no azul do firmamento
+Era a hora em que j· sobre o feno das eiras
+Dormia quieto e manso o impavido lebrÈu.
+Vinham-nos das montanhas as canÁıes das ceifeiras,
+Como a alma d'um justo, ia em triumpho ao cÈo!...
+E, m„os postas, ao pÈ do altar do teu regaÁo,
+Vendo a lua subir, muda, alumiando o espaÁo,
+Eu balbuciava a minha infantil oraÁ„o,
+Pedindo a Deus que est· no azul do firmamento
 Que mandasse um allivio a cada soffrimento,
-Que mandasse uma estrella a cada escurid√£o.
+Que mandasse uma estrella a cada escurid„o.
 Por todos eu orava e por todos pedia.
 Pelos mortos no horror da terra negra e fria,
-Por todas as paix√µes e por todas as magoas...
-Pelos m√≠seros que entre os uivos das procellas
-V√£o em noite sem lua e n'um barco sem vellas
-Errantes atravez do turbilh√£o das aguas.
-O meu cora√ß√£o puro, immaculado e santo
+Por todas as paixıes e por todas as magoas...
+Pelos mÌseros que entre os uivos das procellas
+V„o em noite sem lua e n'um barco sem vellas
+Errantes atravez do turbilh„o das aguas.
+O meu coraÁ„o puro, immaculado e santo
 Ia ao throno de Deus pedir, como inda vae,
 Para toda a nudez um panno do seu manto,
 Para toda a miseria o orvalho do seu pranto
-E para todo o crime o seu perd√£o de Pae!...
+E para todo o crime o seu perd„o de Pae!...
 ..................................................
 ..................................................
-A minha m√£e faltou-me era eu pequenino,
+A minha m„e faltou-me era eu pequenino,
 Mas da sua piedade o fulgor diamantino
-Ficou sempre aben√ßoando a minha vida inteira
-Como junto d'um le√£o um sorriso divino,
+Ficou sempre abenÁoando a minha vida inteira
+Como junto d'um le„o um sorriso divino,
 Como sobre uma forca um ramo d'oliveira!
 
        *       *       *       *       *
 
-√ì crentes, como v√≥s, no intimo do peito
-Abrigo a mesma cren√ßa e guardo o mesmo ideal.
-O horisonte √© infinito e o olhar humano √© estreito:
-Creio que Deus √© eterno e que a alma √© immortal.
+” crentes, como vÛs, no intimo do peito
+Abrigo a mesma crenÁa e guardo o mesmo ideal.
+O horisonte È infinito e o olhar humano È estreito:
+Creio que Deus È eterno e que a alma È immortal.
 
-Toda a alma √© clar√£o e todo o corpo √© lama.
-Quando a lama apodrece inda o clar√£o scintilla:
+Toda a alma È clar„o e todo o corpo È lama.
+Quando a lama apodrece inda o clar„o scintilla:
 Tirae o corpo--e fica uma lingoa de chamma...
 Tirae a alma--e resta um fragmento d'argila.
 
-E para onde vae esse clar√£o? Mysterio...
-N√£o sei... Mas sei que sempre ha-de arder e brilhar,
+E para onde vae esse clar„o? Mysterio...
+N„o sei... Mas sei que sempre ha-de arder e brilhar,
 Quer tivesse incendiado o craneo de Tiberio,
 Quer tivesse aureolado a fronte de Joanna Darc.
 
@@ -215,46 +215,46 @@ Ha-de haver uma treva e ha-de haver uma luz
 Para o vicio que morre ovante sobre um throno,
 Para o santo que expira inerme n'uma cruz.
 
-Tenho uma cren√ßa firme, uma cren√ßa robusta
-N'um Deus que ha-de guardar por sua propria m√£o
+Tenho uma crenÁa firme, uma crenÁa robusta
+N'um Deus que ha-de guardar por sua propria m„o
 N'uma jaula de ferro a alma de Lucusta,
-N'um relicario d'oiro a alma de Plat√£o.
+N'um relicario d'oiro a alma de Plat„o.
 
 Mas tambem acredito, embora isso vos peze,
 E me julgueis talvez o maior dos atheus,
-Que no universo inteiro ha uma s√≥ diocese
-E uma s√≥ cathedral com um s√≥ bispo--Deus.
+Que no universo inteiro ha uma sÛ diocese
+E uma sÛ cathedral com um sÛ bispo--Deus.
 
 E muito embora a vossa egreja se contriste
-E a excommunh√£o papal nos abraze e destrua,
-A analyse √© feroz como uma lan√ßa em riste
+E a excommunh„o papal nos abraze e destrua,
+A analyse È feroz como uma lanÁa em riste
 E a verdade cruel como uma espada nua.
 
-Cultos, religi√µes, biblias, dogmas, assombros,
-S√£o como a cinza v√£ que sepultou Pompeia.
-Exhumemos a f√© d'esse mont√£o de escombros,
-Desentulhemos Deus d'essa aluvi√£o de areia.
+Cultos, religiıes, biblias, dogmas, assombros,
+S„o como a cinza v„ que sepultou Pompeia.
+Exhumemos a fÈ d'esse mont„o de escombros,
+Desentulhemos Deus d'essa aluvi„o de areia.
 
 E um dia a humanidade inteira, oceano em calma,
-Ha-de fazer, na mesma aspira√ß√£o reunida,
-Da raz√£o e da f√© os dois olhos da alma,
-Da verdade e da cren√ßa os dois polos da vida.
+Ha-de fazer, na mesma aspiraÁ„o reunida,
+Da raz„o e da fÈ os dois olhos da alma,
+Da verdade e da crenÁa os dois polos da vida.
 
-A cren√ßa √© como o luar que nas trevas fluctua;
-A raz√£o √© do c√©o o explendido pharol:
-Para a noite da morte √© que Deus nos deu lua...
-Para o dia da vida √© que Deus fez o sol.
+A crenÁa È como o luar que nas trevas fluctua;
+A raz„o È do cÈo o explendido pharol:
+Para a noite da morte È que Deus nos deu lua...
+Para o dia da vida È que Deus fez o sol.
 
        *       *       *       *       *
 
 Mas, ai eu comprehendo os martyrios secretos
-Do pobre camponez, j√° quasi secular,
-Que v√™ tombar por terra o seu ninho de affectos,
+Do pobre camponez, j· quasi secular,
+Que vÍ tombar por terra o seu ninho de affectos,
 A casa onde nasceu seu pae, e onde os seus netos
 Lhe fechariam, morto, o escurecido olhar.
 Comprehendo o pavor e a lividez tremente
-De quem em noite m√°, caliginosa e fria
-Atravessa a montanha √° luz d'um facho ardente
+De quem em noite m·, caliginosa e fria
+Atravessa a montanha · luz d'um facho ardente
 E uma rajada vem alucinadamente
 Apagar-lh'o c'o'a aza athletica e sombria,
 Deixando-o fulminado e quazi sem sentidos
@@ -265,73 +265,73 @@ A estrangulal-os, como uma giboia um toiro.
 
 Comprehendo a agonia, o desespero insano
 Do naufrago na rocha, entre o abysmo do oceano,
-Vendo rolar, rugir os glaucos vagalh√µes
+Vendo rolar, rugir os glaucos vagalhıes
 Como uma cordilheira herculea de montanhas,
 Com jaulas collossaes de bronze nas entranhas,
-E um domador l√° dentro a chicotear trov√µes.
+E um domador l· dentro a chicotear trovıes.
 ..................................................
 ..................................................
 O vosso facho, o vosso abrigo, o vosso porto,
-√â um Deus que para n√≥s ha muito que est√° morto,
+… um Deus que para nÛs ha muito que est· morto,
 E que inda imaginaes no entretanto immortal.
-Vivei e adormecei n'essa cren√ßa illusoria,
-J√° n√£o podeis transp√¥r os mil annos da historia
-Que v√£o do vosso credo absurdo ao nosso ideal.
-Vivei e adormecei n'essa illus√£o sagrada,
-Fitando at√© morrer os olhos de Jesus,
-Como o ephemero v√£o que dura um quasi nada,
-Que nasce de manh√£ n'um raio d'alvorada,
-E expira ao p√¥r do sol n'outro raio de luz.
-Eu bem sei que essa cren√ßa ignorante e sincera,
-N√£o √© a que illumina as bandas do Porvir.
-Mas v√≥s sois o Passado, e a cren√ßa √© como a hera
-Que sustenta e d√° inda um tom de primavera
-Aos velhos torre√µes gothicos a cahir.
-Sim, essa cren√ßa √© um erro, uma illus√£o, √© certo;
+Vivei e adormecei n'essa crenÁa illusoria,
+J· n„o podeis transpÙr os mil annos da historia
+Que v„o do vosso credo absurdo ao nosso ideal.
+Vivei e adormecei n'essa illus„o sagrada,
+Fitando atÈ morrer os olhos de Jesus,
+Como o ephemero v„o que dura um quasi nada,
+Que nasce de manh„ n'um raio d'alvorada,
+E expira ao pÙr do sol n'outro raio de luz.
+Eu bem sei que essa crenÁa ignorante e sincera,
+N„o È a que illumina as bandas do Porvir.
+Mas vÛs sois o Passado, e a crenÁa È como a hera
+Que sustenta e d· inda um tom de primavera
+Aos velhos torreıes gothicos a cahir.
+Sim, essa crenÁa È um erro, uma illus„o, È certo;
 Mas triste de quem vae pelo areal deserto
-Vagabundo, esfa√≠mado e n√∫ como Caim,
+Vagabundo, esfaÌmado e n˙ como Caim,
 Sem nunca ver ao longe os palacios radiantes
 D'uma cidade d'oiro e marmore e diamantes
-No chimerico azul d'essa amplid√£o sem fim!
+No chimerico azul d'essa amplid„o sem fim!
 Quem ha-de arrancar pois do seu piedoso engaste
-O vosso ingenuo ideal, √≥ tremulos velhinhos,
-Se a chimera √© uma rosa e a existencia uma haste,
+O vosso ingenuo ideal, Û tremulos velhinhos,
+Se a chimera È uma rosa e a existencia uma haste,
 Rosa cheia d'aroma e haste cheia de espinhos!
-Quem vos ha-de cortar a flor da vossa esp'ran√ßa,
-Quem vos ha-de apagar a angelica vis√£o,
-Se essa luz para v√≥s √© como uma crean√ßa
-Que guia n'uma estrada um c√©go pela m√£o!
+Quem vos ha-de cortar a flor da vossa esp'ranÁa,
+Quem vos ha-de apagar a angelica vis„o,
+Se essa luz para vÛs È como uma creanÁa
+Que guia n'uma estrada um cÈgo pela m„o!
 Quem vos ha-de acordar d'esse sonho encantado?!
 Quem vos ha-de mostrar a evidencia cruel?!
-Ah! deixemos a ave ao ramo j√° quebrado,
+Ah! deixemos a ave ao ramo j· quebrado,
 E deixemos fazer ao enxame doirado
-No tronco que est√° morto o seu favo de mel!
-√ì velhos alde√µes, exhaustos de fadiga,
+No tronco que est· morto o seu favo de mel!
+” velhos aldeıes, exhaustos de fadiga,
 Que andaes de sol a sol na terra a mourejar,
-Roubar-vos da vos'alma a vossa cren√ßa antiga
+Roubar-vos da vos'alma a vossa crenÁa antiga
 Seria como quem roubasse a uma mendiga
-As tres achas que leva √° noite para o lar!
-Oh, n√£o! guardae-a bem essa cren√ßa d'outrora;
-√â ella quem vos d√° a paz benigna e santa,
+As tres achas que leva · noite para o lar!
+Oh, n„o! guardae-a bem essa crenÁa d'outrora;
+… ella quem vos d· a paz benigna e santa,
 Como a paz d'um vergel inundado d'aurora,
 Onde o trabalho ri e onde a miseria canta.
 Guardae-a sim, guardae! E quando a morte em breve
 Vos entre na choupana esqualida e feroz,
-A agonia ser√° bem rapida e bem leve,
+A agonia ser· bem rapida e bem leve,
 Porque um anjo de Deus mais alvo do que a neve
-Ha-de estender sorrindo as azas sobre v√≥s.
-E v√≥s conhecereis em seu olhar materno
-Que √© o anjo que emballou vosso somno infantil,
-E que hoje vem do c√©o mandado pelo Eterno,
+Ha-de estender sorrindo as azas sobre vÛs.
+E vÛs conhecereis em seu olhar materno
+Que È o anjo que emballou vosso somno infantil,
+E que hoje vem do cÈo mandado pelo Eterno,
 Para sorrir na morte ao vosso branco inverno,
-Como sorriu no ber√ßo ao vosso claro Abril.
+Como sorriu no berÁo ao vosso claro Abril.
 
 E ao pender-vos gelada a vossa fronte alabastrina
-Ir√° levar a Deus o vosso cora√ß√£o,
-T√£o manso e virginal, t√£o novo e t√£o perfeito,
+Ir· levar a Deus o vosso coraÁ„o,
+T„o manso e virginal, t„o novo e t„o perfeito,
 Que Deus ha-de beijal-o e aquecel-o no peito,
 Como se acaso fosse uma pomba divina,
-Que viesse cahir-lhe exanime na m√£o!
+Que viesse cahir-lhe exanime na m„o!
 
 
 
@@ -344,33 +344,33 @@ I
 
 Existiu n'outro tempo uma vinha piedosa
 Doirada pelo sol da alma de Jesus,
-Uma vinha que dava uns fructos c√¥r de roza,
+Uma vinha que dava uns fructos cÙr de roza,
 Vermelhos como o sangue e puros como a luz.
 
 Inundavam-n'a d'agua os olhos de Maria,
-E os virgens cora√ß√µes dos martyres, dos crentes
+E os virgens coraÁıes dos martyres, dos crentes
 Eram a terra funda aonde se embebia
 A mystica raiz dos pampanos virentes.
 
 Produzia um licor balsamico, divino,
-Que aos c√©gos dava luz, aos tristes dava esp'ran√ßa,
+Que aos cÈgos dava luz, aos tristes dava esp'ranÁa,
 E que fazia ver na areia do destino
-A miragem feliz da bemaventuran√ßa.
+A miragem feliz da bemaventuranÁa.
 
 Aos mortos restituia o movimento e a falla;
-Escravisava a carne, as tenta√ß√µes, a d√¥r,
+Escravisava a carne, as tentaÁıes, a dÙr,
 E transformou em santa a impura de Magdala,
-Como transforma Abril um verme n'uma fl√¥r.
+Como transforma Abril um verme n'uma flÙr.
 
 Bebel-o era beber uma virtuosa essencia
-Que ungia o cora√ß√£o de perfumes ideaes,
+Que ungia o coraÁ„o de perfumes ideaes,
 Pondo no labio um riso ingenuo de innocencia,
 Como o d'agua a correr, virgem, dos mananciaes.
 
-Dava um tal explendor √°s almas, tal pureza
-Que nos Circos de Roma at√© se viu baixar
+Dava um tal explendor ·s almas, tal pureza
+Que nos Circos de Roma atÈ se viu baixar
 Diante da nudez das virgens sem defeza
-Ao magro le√£o da Nubia o curuscante olhar.
+Ao magro le„o da Nubia o curuscante olhar.
 
 
 II
@@ -378,77 +378,77 @@ II
 
 Mas passado algum tempo a humanidade inteira
 De tal modo gostou d'esse licor sublime,
-Que o extasis christ√£o tornou-se em bebedeira,
+Que o extasis christ„o tornou-se em bebedeira,
 E o sonho em pezadello, e o pezadello em crime.
 
-Nas solid√µes do claustro as virgens inflamadas
-Co'as fortes atrac√ß√µes da mistica ambrozia
+Nas solidıes do claustro as virgens inflamadas
+Co'as fortes atracÁıes da mistica ambrozia
 Torciam-se febris, convulsas, desvairadas,
 Meretrizes de Deus n'uma piedosa orgia.
 
-√â que no vinho antigo ia √° noite o demonio
-Lan√ßar co'a garra adunca uma infernal mistura
+… que no vinho antigo ia · noite o demonio
+LanÁar co'a garra adunca uma infernal mistura
 De mandragora e opio e helleboro e stramonio,
 Verdenegro e viscoso extracto de loucura.
 
 Quando uivava de noite o vento nas campinas
 Via-se pela sombra, obliquo, Satanaz,
-Colhendo aos p√©s da forca ou buscando entre as ruinas
-Hervas, vegeta√ß√µes, prenhes de essencias m√°s.
+Colhendo aos pÈs da forca ou buscando entre as ruinas
+Hervas, vegetaÁıes, prenhes de essencias m·s.
 
 Era o filtro subtil d'essas plantas de morte
 Que fazia da alma um derviche incoherente,
-Uma bussola doida √° procura do norte
-Uma c√©ga a tatear no vacuo, anciosamente!...
+Uma bussola doida · procura do norte
+Uma cÈga a tatear no vacuo, anciosamente!...
 
-E a ta√ßa do veneno estonteador e amargo
-No funebre banquete ia de m√£o em m√£o,
+E a taÁa do veneno estonteador e amargo
+No funebre banquete ia de m„o em m„o,
 Produzindo o delirio, a syncope, o lethargo
-E em cada olhar sinistro uma cruel vis√£o.
+E em cada olhar sinistro uma cruel vis„o.
 
 Uns viam a espectral sarabanda frenetica
-De esqueletos a rir e a dan√ßar com furor
-Em torno √° Morte podre, impudente, epileptica,
+De esqueletos a rir e a danÁar com furor
+Em torno · Morte podre, impudente, epileptica,
 Com dois ossos em cruz rufando n'um tambor.
 
 Outros viam chegado o pavoroso instante
-Em que um monstro do fogo, um drag√£o areolito,
-Dava na terra um n√≥ c'oa cauda flammejante,
+Em que um monstro do fogo, um drag„o areolito,
+Dava na terra um nÛ c'oa cauda flammejante,
 Arrebatando-a, a arder, atravez do infinito.
 
-E ent√£o para fugir ao desespero e ao panico
+E ent„o para fugir ao desespero e ao panico
 Bebiam com mais ancia o filtro singular.
-At√© √° epilepsia, ao turbilh√£o tetanico
+AtÈ · epilepsia, ao turbilh„o tetanico
 Do sabat desgrenhado e erotico, a espumar!
 
-E √° for√ßa de beber o tragico veneno
+E · forÁa de beber o tragico veneno
 Tombou por terra exhausta a humanidade emfim,
-Como em Londres, de noite, ao p√© d'um antro obsceno
-C√°e sob a lama inerte um bebado de gim.
+Como em Londres, de noite, ao pÈ d'um antro obsceno
+C·e sob a lama inerte um bebado de gim.
 
 
 
 III
 
 
-Mas n'isto despontou a esplendida manh√£
+Mas n'isto despontou a esplendida manh„
 D'um mundo juvenil, robusto, afrodisiaco:
-A Renascen√ßa foi para a embriaguez christ√£
-A excita√ß√£o vital d'um frasco de amoniaco.
+A RenascenÁa foi para a embriaguez christ„
+A excitaÁ„o vital d'um frasco de amoniaco.
 
 E na vinha de Deus ainda florescente
-Come√ßou a nascer por essa occasi√£o
+ComeÁou a nascer por essa occasi„o
 Um bicho que enterrava escandalosamente
-Nos pampanos da cren√ßa as unhas da raz√£o.
+Nos pampanos da crenÁa as unhas da raz„o.
 
 Propagou-se o flagello; o mal recrudesceu;
-A colheita ficou em duas ter√ßas partes;
+A colheita ficou em duas terÁas partes;
 Chega o oidium Lutero, o verme Galileu,
 E cai-lhe o temporal de Newton e Descartes.
 
 Em balde Carlos nove, Ignacio e Torquemada,
-Catando esses pulg√µes das b√≠blicas videiras,
-Os entregam √° roda, ao cadafalso, √° espada,
+Catando esses pulgıes das bÌblicas videiras,
+Os entregam · roda, ao cadafalso, · espada,
 Ou os queimam por junto aos centos nas fogueiras.
 
 O estrago cada vez era maior, mais forte;
@@ -459,7 +459,7 @@ No formigueiro vil das pragas da heresia.
 Por ultimo Voltaire--filoxera invade
 Essa encosta plantada outr'ora por Jesus,
 E das cepas ideaes da escura meia idade
-Ficaram simplesmente uns velhos troncos n√∫s.
+Ficaram simplesmente uns velhos troncos n˙s.
 
 
 IV
@@ -470,42 +470,42 @@ D'esse vinho que o sol deixou de fecundar,
 Uns velhos cardeaes, habeis exploradores,
 Reuniram-se em concilio afim de os imitar.
 
-E √© assim que Antonelli, o verdadeiro papa,
-O chimico da f√©, um grande industrial,
+E È assim que Antonelli, o verdadeiro papa,
+O chimico da fÈ, um grande industrial,
 Fabrica para o mundo ingenuo uma zurrapa
-Que elle assevera que √© o antigo vinho ideal.
+Que elle assevera que È o antigo vinho ideal.
 
 Para isso combina os varios elementos
-Que comp√µem esta droga: o nome de Maria,
+Que compıem esta droga: o nome de Maria,
 Anjos e cherubins, infernos e tormentos,
 Bastante estupidez e immensa hypocrizia.
 
-P√µe isto tudo a ferver, liga, combina, mexe,
+Pıe isto tudo a ferver, liga, combina, mexe,
 E, filtrando atravez d'uns textos de latim,
 Eis preparado o vinho, ou antes o campeche,
-Que a sa√∫de da alma hade arruinar por fim.
+Que a sa˙de da alma hade arruinar por fim.
 
 Mas como o paladar de muitos europeus
-Quasi prefere j√° (horrivel impiedade!)
-√Å falsifica√ß√£o do vinho do bom Deus
+Quasi prefere j· (horrivel impiedade!)
+¡ falsificaÁ„o do vinho do bom Deus
 O vinho genuino e puro da verdade;
 
-E como j√° por isso, (assim como era d'antes)
-A Igreja n√£o nos queime e o rei n√£o nos enforque,
+E como j· por isso, (assim como era d'antes)
+A Igreja n„o nos queime e o rei n„o nos enforque,
 A curia procurou mercados mais distantes,
-O Jap√£o, o Per√∫, a Australia e Nova York.
+O Jap„o, o Per˙, a Australia e Nova York.
 
 Os _comis-voiageurs_ de Roma--os Lazaristas
-Com as carrega√ß√µes v√£o atravez do oceano,
+Com as carregaÁıes v„o atravez do oceano,
 Por toda a parte abrindo os armazens papistas,
 A fim de dar consumo ao vinho ultramontano.
 
 Em cada igreja existe uma taberna franca
 Para impingir a tal mixordia, o tal horror,
 Ou secca ou doce, ou velha ou nova, ou tinta ou branca,
-Segundo as condi√ß√µes e a f√© do bebedor.
+Segundo as condiÁıes e a fÈ do bebedor.
 
-Para Hespanha v√£o muito uns vinhos infernaes,
+Para Hespanha v„o muito uns vinhos infernaes,
 Um veneno explosivo e forte que produz
 Um delirio tremente--o General Narvaes,
 E um vomito de sangue--o cura Santa Cruz.
@@ -516,146 +516,146 @@ E John Bull, por exemplo, um pouco mais moderno,
 Manda ao diabo a botica, e faz a droga em casa.
 
 Ao povo, esse animal, que o Padre Eterno monta,
-Como √© pobre, coitado, ent√£o a Santa S√©
+Como È pobre, coitado, ent„o a Santa SÈ
 Fabrica lhe uma borra incrivel, muito em conta,
-Um pouco de mela√ßo e um pouco d'agua-p√©.
+Um pouco de melaÁo e um pouco d'agua-pÈ.
 
-A fina fl√¥r christ√£, a fl√¥r altiva e nobre,
+A fina flÙr christ„, a flÙr altiva e nobre,
 O rico sangue azul do bairro S. Germano,
-Para quem o bom Deus √© um gentil-homem pobre
-A quem se d√° de esmola alguns milh√µes por anno.
+Para quem o bom Deus È um gentil-homem pobre
+A quem se d· de esmola alguns milhıes por anno.
 
 Essa como detesta os vinhos maus, baratos,
-Como √© de ra√ßa illustre e debil complei√ß√£o,
+Como È de raÁa illustre e debil compleiÁ„o,
 Mandam-lhe um elixir que serve para os flatos,
-Ou para p√¥r no len√ßo ao ir √° communh√£o.
+Ou para pÙr no lenÁo ao ir · communh„o.
 
 De resto ha quem, bebendo essa tisana impura,
-Sinta a impress√£o que outr'ora o nectar produzia.
-S√£o milagres da f√©. Ditosa a creatura
+Sinta a impress„o que outr'ora o nectar produzia.
+S„o milagres da fÈ. Ditosa a creatura
 Que no ruibarbo encontra o sabor da ambrosia.
 
-E eu n√£o vos vou magoar, √≥ almas c√¥r de rosa
+E eu n„o vos vou magoar, Û almas cÙr de rosa
 Que inda achaes neste vinho o esquecimento e a paz!
-N√£o insulto quem bebe a droga venenosa;
-Accuso simplesmente o charlat√£o que a faz.
+N„o insulto quem bebe a droga venenosa;
+Accuso simplesmente o charlat„o que a faz.
 
 
 
 
-A CARIDADE E A JUSTI√áA
+A CARIDADE E A JUSTI«A
 
 
 No topo do calvario erguia-se uma cruz,
 E pregado sobre ella o corpo do Jesus,
-Noite sinistra e m√°. Nuvens esverdeadas
+Noite sinistra e m·. Nuvens esverdeadas
 Corriam pelo ar como grandes manadas
 De bufalos. A lua ensanguentada e fria,
-Triste como um solu√ßo immenso de Maria,
-Lan√ßava sobre a paz das coizas naturaes
+Triste como um soluÁo immenso de Maria,
+LanÁava sobre a paz das coizas naturaes
 A merencoria luz feita de brancos ais.
 As arvores que outr'ora em dias de calor
-Abrigaram Jesus, cheias de magua e d√¥r,
+Abrigaram Jesus, cheias de magua e dÙr,
 Sonhavam, na mudez herculea dos heroes.
 Deixaram de cantar todos os rouxinoes,
 Um silencio pesado amortalhava o mundo.
 Unicamente ao longe o velho mar profundo
 Descantava chorando os psalmos da agonia.
-Jesus, quasi a expirar, cheio de d√¥r, sorria.
+Jesus, quasi a expirar, cheio de dÙr, sorria.
 Os abutres crueis pairavam lentamente
-A farejar-lhe o corpo; √°s vezes de repente
+A farejar-lhe o corpo; ·s vezes de repente
 Uma nuvem toldava a face do luar,
-E um clar√£o de gangrena, estranho, singular,
-Lan√ßava sob a cruz uns tons esverdeados.
+E um clar„o de gangrena, estranho, singular,
+LanÁava sob a cruz uns tons esverdeados.
 Crucitavam ao longe os corvos esfaimados;
 Mas passado um instante a lua branca e pura
 Irrompia outra vez da grande nevoa escura,
-E inundavam-se ent√£o as chagas de Jesus
-Nas pulverisa√ß√µes balsamicas da luz.
+E inundavam-se ent„o as chagas de Jesus
+Nas pulverisaÁıes balsamicas da luz.
 
-No momento em que havia a grande escurid√£o,
-Christo sentiu alguem aproximar-se, e ent√£o
+No momento em que havia a grande escurid„o,
+Christo sentiu alguem aproximar-se, e ent„o
 Olhou e viu surgir no horror das trevas mudas
 O cobarde perfil sacrilego de Judas.
 O traidor, contemplando o olhar do Nazareno,
-T√£o cheio de desdem, t√£o nobre, t√£o sereno,
+T„o cheio de desdem, t„o nobre, t„o sereno,
 Convulso de terror fugiu... Mas nesse instante
 Surgiu-lhe frente a frente um vulto de gigante,
 Que bradou:
 
-        --√â chegado emfim o teu castigo
+        --… chegado emfim o teu castigo
 O traidor teve medo e balbuciou:
 
                 --Amigo,
 Que pretendes de mim? dize, por quem esperas?
-Quem √©s tu?--
+Quem Ès tu?--
 
-        --¬´O Remorso, um ca√ßador de f√©ras,
+        --´O Remorso, um caÁador de fÈras,
 Disse o gigante. Eu ando ha mais de seis mil annos
-A ca√ßar pelo mundo as almas dos tiranos,
-Do traidor, do ladr√£o, do vil, do scelerado;
+A caÁar pelo mundo as almas dos tiranos,
+Do traidor, do ladr„o, do vil, do scelerado;
 E depois de as prender tenho-as encarcerado
-Na enormissima jaula atroz da expia√ß√£o.
-E quando eu entro ali na immensa confus√£o
-De tigres, de le√µes, d'abutres, de chacaes,
+Na enormissima jaula atroz da expiaÁ„o.
+E quando eu entro ali na immensa confus„o
+De tigres, de leıes, d'abutres, de chacaes,
 De rugidos febris e de gritos bestiaes,
 Fica tudo a tremer, quieto de horror e espanto.
 Caim baixa a pupilla e vai deitar-se a um canto.
 E quando em summa algum dos monstros quer luctar
 Azorrago-o co'a luz febril do meu olhar,
-Dando-lhe um pontap√©, como n'um c√£o mendigo.
-J√° sabes quem eu sou, Judas; anda comigo!¬ª
+Dando-lhe um pontapÈ, como n'um c„o mendigo.
+J· sabes quem eu sou, Judas; anda comigo!ª
 
 Como um preso que quer comprar um carcereiro,
-Judas tirou do manto a bol√ßa do dinheiro,
+Judas tirou do manto a bolÁa do dinheiro,
 Dizendo-lhe:
 
         --Aqui tens, e deixa-me partir...
 
-O gigante fitou-o e come√ßou a rir.
+O gigante fitou-o e comeÁou a rir.
 
 Houve um grande silencio. O infame Iskariote,
-Como um negro que v√™ a ponta d'um chicote,
+Como um negro que vÍ a ponta d'um chicote,
 Tremia. Finalmente o vulto respondeu:
 
-¬´Judas, podes guardar esse dinheiro; √© teu.
-O oiro da trai√ß√£o pertence-lhe ao traidor,
-Como o riso √° innocencia e como o aroma √° fl√¥r.
-Esse oiro √© para ti o eterno pesadello.
+´Judas, podes guardar esse dinheiro; È teu.
+O oiro da traiÁ„o pertence-lhe ao traidor,
+Como o riso · innocencia e como o aroma · flÙr.
+Esse oiro È para ti o eterno pesadello.
 Oh! guarda-o, guarda-o bem, que eu quero derretel-o,
-E lan√ßar-t'o depois caustico, vivo, ardente,
-Lan√ßar-t'o gota a gota, inexoravelmente
+E lanÁar-t'o depois caustico, vivo, ardente,
+LanÁar-t'o gota a gota, inexoravelmente
 Em cima da consciencia, a pudrida, a execravel!
 Com elle hei de fundir a algema inquebrantavel,
 A grilheta que a tua esqualida memoria
-Trar√°, arrastar√° pelas gal√©s da Historia,
+Trar·, arrastar· pelas galÈs da Historia,
 Durante a eternidade illimitada e calma.
-Essa bolsa que ahi tens √© o cancro da tua alma:
-J√° se agarrou a ti, ligou-se ao criminoso,
+Essa bolsa que ahi tens È o cancro da tua alma:
+J· se agarrou a ti, ligou-se ao criminoso,
 Como a lepra nojenta ao peito do leproso,
-Como o iman ao ferro e o verme √° podrid√£o.
-N√£o poder√°s j√°mais largal-a da tua m√£o!
-√âs traidor, assassino, hypocrita, perjuro;
-A tua alma lan√ßada em cima d'um monturo
-Faria nodoa. √âs tudo o que ha de mais vil,
-Desde o ventre do sapo √° baba do reptil.
-Sahe da existencia! dize √° sombra que te acoite.
+Como o iman ao ferro e o verme · podrid„o.
+N„o poder·s j·mais largal-a da tua m„o!
+…s traidor, assassino, hypocrita, perjuro;
+A tua alma lanÁada em cima d'um monturo
+Faria nodoa. …s tudo o que ha de mais vil,
+Desde o ventre do sapo · baba do reptil.
+Sahe da existencia! dize · sombra que te acoite.
 Monstro, procura a paz! verme, procura a noite!
-Que o sol n√£o veja mais um unico momento
+Que o sol n„o veja mais um unico momento
 O teu olhar obliquo e o teu perfil nojento.
-Esse crime, bandido, √© um crime que profana,
+Esse crime, bandido, È um crime que profana,
 Todas as grandes leis da vida universal.
 Esconde-te na morte, assim como um chacal
 No seu covil. Adeus, causas-me nojo e asco.
 Deixo dentro de ti, Judas, o teu carrasco!
-√âs livre; adeus. J√° brilha o astro matutino,
-E eu, ca√ßador feroz, cumprindo o meu destino,
-Continuarei ca√ßando os javalis nos matos.¬ª
+…s livre; adeus. J· brilha o astro matutino,
+E eu, caÁador feroz, cumprindo o meu destino,
+Continuarei caÁando os javalis nos matos.ª
 
 E dito isto partiu a procurar Pilatos.
 
 Vinha rompendo ao longe a fresca madrugada.
-Judas, ficando s√≥, meteu-se pela estrada,
+Judas, ficando sÛ, meteu-se pela estrada,
 Caminhando ligeiro, impavido, terrivel,
 Como um homem que leva um fim imprescriptivel
 Uma ideia qualquer, heroica e sobranceira;
@@ -663,56 +663,56 @@ De repente estacou. Havia uma figueira
 Projectando na estrada a larga sombra escura;
 Judas, desenrolando a corda da cintura,
 Subiu acima, atou-a a um ramo vigoroso,
-Dando um la√ßo √° garganta. O seu olhar odioso
+Dando um laÁo · garganta. O seu olhar odioso
 Tinha n'esse momento um brilho diamantino,
 Recto como um juiz, forte como um destino.
 
-N'isto echoou atravez do negro c√©o profundo
+N'isto echoou atravez do negro cÈo profundo
 A voz celestial de Jesus moribundo,
 Que lhe disse:
 
-        --¬´Traidor, concedo-te o perd√£o.
-Al√©m de meu carrasco √©s inda o meu irm√£o.
-Pregaste-me na cruz; √© o mesmo, fica em paz.
+        --´Traidor, concedo-te o perd„o.
+AlÈm de meu carrasco Ès inda o meu irm„o.
+Pregaste-me na cruz; È o mesmo, fica em paz.
 Eu costumo esquecer o mal que alguem me faz.
-Eu tenho at√© prazer, bem v√™s, no sacrificio.
-N√£o te cause remorso o meu atroz suplicio,
+Eu tenho atÈ prazer, bem vÍs, no sacrificio.
+N„o te cause remorso o meu atroz suplicio,
 Estes golpes crueis, estas horriveis dores.
-As chagas para mim s√£o outras tantas fl√¥res!¬ª
+As chagas para mim s„o outras tantas flÙres!ª
 
 Judas fitou ao longe os cerros do calvario,
 E erguendo-se viril, soberbo, extraordinario,
 Exclamou:
 
-        --¬´N√£o acceito a tua compaix√£o.
-A Justi√ßa dos bons consiste no perd√£o.
-Un justo n√£o perd√¥a. A justi√ßa √© implacavel.
-A minha ac√ß√£o √© infame, hedionda, miseravel;
+        --´N„o acceito a tua compaix„o.
+A JustiÁa dos bons consiste no perd„o.
+Un justo n„o perdÙa. A justiÁa È implacavel.
+A minha acÁ„o È infame, hedionda, miseravel;
 Preguei-te nessa cruz, vendi-te aos Farizeus.
 Pois bem, sendo eu um monstro e sendo tu um Deus,
-Vais v√™r como esse monstro, √≥ pobre Christo nu,
-√â maior do que Deus, mais justo do que tu:
-√Å tua caridade humanitaria e doce,
-Eu prefiro o dever terrivel!¬ª
+Vais vÍr como esse monstro, Û pobre Christo nu,
+… maior do que Deus, mais justo do que tu:
+¡ tua caridade humanitaria e doce,
+Eu prefiro o dever terrivel!ª
 
                 E enforcou-se.
 
 
 
 
-O PAP√ÉO
+O PAP√O
 
 
-As crean√ßas t√™m medo √° noite, √°s horas mortas
-Do pap√£o que as espera, hediondo, atraz das portas,
+As creanÁas tÍm medo · noite, ·s horas mortas
+Do pap„o que as espera, hediondo, atraz das portas,
 Para as levar no bolso ou no capuz d'um frade.
-N√£o te rias da infancia, √≥ velha humanidade,
-Que tu tambem tens medo ao barbaro pap√£o,
-Que ruge pela boca enorme do trov√£o,
-Que aben√ß√¥a os punhaes sangrentos dos tyranos,
-Um pap√£o que n√£o faz a barba ha seis mil annos,
-E que mora, segundo os bonzos t√™m escripto,
-L√° em cima, de traz da porta do Infinito.
+N„o te rias da infancia, Û velha humanidade,
+Que tu tambem tens medo ao barbaro pap„o,
+Que ruge pela boca enorme do trov„o,
+Que abenÁÙa os punhaes sangrentos dos tyranos,
+Um pap„o que n„o faz a barba ha seis mil annos,
+E que mora, segundo os bonzos tÍm escripto,
+L· em cima, de traz da porta do Infinito.
 
 
 
@@ -720,21 +720,21 @@ L√° em cima, de traz da porta do Infinito.
 PARASITAS
 
 
-No meio d'uma feira, uns poucos de palha√ßos
+No meio d'uma feira, uns poucos de palhaÁos
 Andavam a mostrar em cima d'um jumento
-Um aborto infeliz, sem m√£os, sem p√©s, sem bra√ßos,
+Um aborto infeliz, sem m„os, sem pÈs, sem braÁos,
 Aborto que lhes dava um grande rendimento.
 
-Os magros histri√µes, hypocritas, devassos,
+Os magros histriıes, hypocritas, devassos,
 Exploravam assim a flor do sentimento,
-E o monstro arregalava os grandes olhos ba√ßos,
+E o monstro arregalava os grandes olhos baÁos,
 Uns olhos sem calor e sem intendimento.
 
 E toda a gente deu esmola aos taes ciganos;
-Deram esmola at√© mendigos quasi n√πs.
+Deram esmola atÈ mendigos quasi n˘s.
 E eu, ao ver este quadro, apostolos romanos,
 
-Eu lembrei-me de v√≥s, funambulos da Cruz.
+Eu lembrei-me de vÛs, funambulos da Cruz.
 Que andaes pelo universo ha mil e tantos annos
 Exhibindo, explorando o corpo de Jesus.
 
@@ -746,72 +746,72 @@ RESPOSTA AO SILLABUS
 
 Fanaticos, ouvi as coisas que eu vos digo:
 
-Dentro d'essa pris√£o cruel do dogma antigo
-A consciencia n√£o p√≥de estar paralisada,
+Dentro d'essa pris„o cruel do dogma antigo
+A consciencia n„o pÛde estar paralisada,
 Como n'um velho catre uma velha entrevada.
 Tudo se modifica e tudo se renova:
-Da escura podrid√£o nojenta de uma cova
-Sae uma fl√¥r vermelha a rir alegremente.
+Da escura podrid„o nojenta de uma cova
+Sae uma flÙr vermelha a rir alegremente.
 A ideia tambem muda a pel' como a serpente.
-O que era hontem gr√£o √© hoje a seara immensa.
-A Verdade sahiu d'esse casulo--a Cren√ßa,
+O que era hontem gr„o È hoje a seara immensa.
+A Verdade sahiu d'esse casulo--a CrenÁa,
 Assim como sahiu do velho o mundo novo.
 Recolher outra vez a aguia no seu ovo
-√â impossivel; quebrou o involucro ao nascer.
-Como √© que p√≤des tu √≥ Egreja, pretender,
-Cerrando na tua m√£o um box enorme--o inferno,
-Levar aos encontr√µes o espirito moderno,
+… impossivel; quebrou o involucro ao nascer.
+Como È que pÚdes tu Û Egreja, pretender,
+Cerrando na tua m„o um box enorme--o inferno,
+Levar aos encontrıes o espirito moderno,
 Leval-o para traz, para o passado escuro,
 Como um bandido leva um homem contra um muro?!
 A trajectoria immensa e fulva da verdade
-N√£o se p√≥de suster com a facilidade
-Com que Jusu√© susteve o sol no firmamento.
-Atirar a justi√ßa, a ideia, o pensamento
-√Ås fogueiras da f√©, √≥ bonzos, √© impossivel:
+N„o se pÛde suster com a facilidade
+Com que JusuÈ susteve o sol no firmamento.
+Atirar a justiÁa, a ideia, o pensamento
+¡s fogueiras da fÈ, Û bonzos, È impossivel:
 Reduzirdes a cinza o que? O incombustivel!
 Loucos! ide dizer ao velho Torquemada
-Que queime se √© capaz n'um forno uma alvorada!
+Que queime se È capaz n'um forno uma alvorada!
 .................................... Sacristas,
 Ajuntae, reuni os balandraus papistas,
-As fardas sepulcraes do exercito da f√©,
+As fardas sepulcraes do exercito da fÈ,
 A capa de Tartufo, a loba de Claret,
 A cogula do monge, enfim, tudo que seja
-C√¥r da nolte; arrancae o velho crepe √° egreja,
-Dos caix√µes descosei os panos funerarios,
+CÙr da nolte; arrancae o velho crepe · egreja,
+Dos caixıes descosei os panos funerarios,
 Tisnae co'a vossa lingua as alvas e os sudarios,
 E se inda precisaes mais sombras, mais farrapos,
 Pedi ao corvo a aza, o ventre immundo aos sapos,
 Fabricae d'isto tudo uma cortina immensa,
-E tapando com ella o sol da nossa cren√ßa,
+E tapando com ella o sol da nossa crenÁa,
 Nem mesmo assim fareis o eclipse da aurora!
-A consciencia n√£o √© a besta d'uma nora.
-Lembrai-vos que o Progresso √© um carro sem trav√£o,
-E que apagar em n√≥s o facho da raz√£o
-√â o mesmo que apagar o sol quando flameja
+A consciencia n„o È a besta d'uma nora.
+Lembrai-vos que o Progresso È um carro sem trav„o,
+E que apagar em nÛs o facho da raz„o
+… o mesmo que apagar o sol quando flameja
 Com um apagador de lata d'uma egreja.
 
-Bonzos, podeis dizer √° humanidade--P√°ra!--
-Co'a foice excomunh√£o podeis ceifar a ceara
-Da heresia; podeis, segundo as ordenan√ßas,
-Metter pedras de sal na boca das crean√ßas,
+Bonzos, podeis dizer · humanidade--P·ra!--
+Co'a foice excomunh„o podeis ceifar a ceara
+Da heresia; podeis, segundo as ordenanÁas,
+Metter pedras de sal na boca das creanÁas,
 Fazer do Deus do amor o Deus barbaridade,
-Chamar √° estupidez irm√£ da caridade
+Chamar · estupidez irm„ da caridade
 E jesuita a Jesus e Christo a Carlos sete;
-V√≥s podeis discutir junto da campa o frete,
-Recoveiros de Deus, o frete que √© preciso
-Para irdes levar l√° cima ao paraiso
-A alma d'um defunto; √≥ bonzos, v√≥s podeis
+VÛs podeis discutir junto da campa o frete,
+Recoveiros de Deus, o frete que È preciso
+Para irdes levar l· cima ao paraiso
+A alma d'um defunto; Û bonzos, vÛs podeis
 Ir pedir emprestado um exercito aos reis
 E defender com elle o papa, o vaticano,
 Do cerco que lhe faz o pensamento humano,
-Pondo adiante d'um dogma a boca d'um canh√£o;
-Podeis encarcerar dentro da inquisi√ß√£o
-Galileu; v√≥s podeis, an√µes, contra os ciclopes
-Roncar latim, zurrar serm√µes, brandir hyssopes,
-Que n√£o conseguireis que a Liberdade vista
+Pondo adiante d'um dogma a boca d'um canh„o;
+Podeis encarcerar dentro da inquisiÁ„o
+Galileu; vÛs podeis, anıes, contra os ciclopes
+Roncar latim, zurrar sermıes, brandir hyssopes,
+Que n„o conseguireis que a Liberdade vista
 A batina pingada e rota d'um sacrista,
-Que o direito se ordene, e que a Justi√ßa queira
-Ir a Roma tomar, contricta, o v√©o de freira!
+Que o direito se ordene, e que a JustiÁa queira
+Ir a Roma tomar, contricta, o vÈo de freira!
 
 
 
@@ -825,16 +825,16 @@ O BAPTISMO
 Baptisaes: arrancaes d'um anjo um satanaz.
 Desinfectaes Ariel banhando-o em aguarraz
 De egreja e no latim que um malandro expectora,
-Dizeis √° noite:--limpa a tunica da aurora,
-E ao rouxinol dizeis:--pede a ben√ß√£o da c'ruja.
-Daes os lirios em fl√¥r ao rol da roupa suja,
-Representaes a far√ßa estupida e sombria
+Dizeis · noite:--limpa a tunica da aurora,
+E ao rouxinol dizeis:--pede a benÁ„o da c'ruja.
+Daes os lirios em flÙr ao rol da roupa suja,
+Representaes a farÁa estupida e sombria
 D'um conego a lavar um astro n'uma pia,
 Finalmente extrahis da innocencia o pecado,
-Que √© o mesmo que extrahir d'uma rosa um cevado,
+Que È o mesmo que extrahir d'uma rosa um cevado,
 E tudo isto porque?
         Porque na biblia um mono
-Devora uma ma√ß√£ sem licen√ßa do dono!
+Devora uma maÁ„ sem licenÁa do dono!
 
 
 
@@ -845,22 +845,22 @@ EURICO
      Cod. civil art. 1057 e 4031
 
 
-Eurico, Eurico, √≥ pallida figura,
+Eurico, Eurico, Û pallida figura,
 Lastimoso, romantico levita,
 Que nos serros do Calpe em noite escura
-Ergues as m√£os √° abobada infinita;
+Ergues as m„os · abobada infinita;
 
 Rasga a pagina santa da Escriptura;
-O espirito de luz que em n√≥s habita
-J√° n√£o consente essa ideal loucura
-Que faz do amor uma paix√£o maldita.
+O espirito de luz que em nÛs habita
+J· n„o consente essa ideal loucura
+Que faz do amor uma paix„o maldita.
 
-Deixa a soid√£o dos montes escalvados;
-N√£o soltes mais os threnos inflamados,
-Nem tenhas medo √°s garras do demonio.
+Deixa a soid„o dos montes escalvados;
+N„o soltes mais os threnos inflamados,
+Nem tenhas medo ·s garras do demonio.
 
 Beija a Hermengarda, a timida donzella.
-E vai de bra√ßo dado tu e ella
+E vai de braÁo dado tu e ella
 Contrahir civilmente o matrimonio.
 
 
@@ -879,85 +879,85 @@ Seus corpos juvenis, mais alvos do que a lua,
 Conservavam ainda a virgindade nua
         Das coisas ignorantes.
 
-Poz Deus n'esse jardim com sua m√£o astuta
+Poz Deus n'esse jardim com sua m„o astuta
         Ao lado da innocencia
 A Arvore do Mal que produzia a fructa
         Venenosa da sciencia.
 
 E, apezar de conter venenos homicidas
         E o germen do pecado,
-Era Deus quem comia √° noite, √°s escondidas,
+Era Deus quem comia · noite, ·s escondidas,
         Esse fructo vedado.
 
 Por isso Jehovah tinha sciencia infinda,
         Tinha um poder secreto,
-E Ad√£o que n√£o provara os fructos era ainda
+E Ad„o que n„o provara os fructos era ainda
         Um anjo analfabeto.
 
 Eva colheu um dia o bello fructo impuro,
-        O fructo da Ras√£o.
+        O fructo da Ras„o.
 N'esse instante sublime Eva tinha o Futuro
-        Na palma da sua m√£o!
+        Na palma da sua m„o!
 
-O homem, abandonado a submiss√£o covarde,
+O homem, abandonado a submiss„o covarde,
         Viu o fructo e comeu.
-Esse fructo √© a luz que a Jupiter mais tarde
-        Roubar√° Prometheu.
+Esse fructo È a luz que a Jupiter mais tarde
+        Roubar· Prometheu.
 
-E ao v√™r igual a si a estatua que creara,
+E ao vÍr igual a si a estatua que creara,
         O homem reprobo e nu,
-Jehovah exclamou: ¬´Maldita seja a seara
-cuja semente √©s tu!¬ª
+Jehovah exclamou: ´Maldita seja a seara
+cuja semente Ès tu!ª
 
 Veio depois a Egreja e repetiu aos crentes
         De toda a humanidade:
-¬´Maldito seja sempre o que enterrar os dentes
-        Nos fructos da Verdade!¬ª
+´Maldito seja sempre o que enterrar os dentes
+        Nos fructos da Verdade!ª
 
 A Egreja permittia esse vedado pomo
-        S√≤mente aos sacerdotes.
+        SÚmente aos sacerdotes.
 Da arvore do mal fugia o mundo, como
         Os lobos dos archotes.
 
 Se o sabio que buscava o oiro nas retortas
-        Ia como um ladr√£o
-Roubar timidamente, √° noite, √°s horas mortas
-        Algum fructo do ch√£o,
+        Ia como um ladr„o
+Roubar timidamente, · noite, ·s horas mortas
+        Algum fructo do ch„o,
 
 Tiravam-lhe da boca esse fructo damninho
         D'uma maneira suave:
-Atando-lhe √° garganta uma corda de linho
+Atando-lhe · garganta uma corda de linho
         Suspensa d'uma trave.
 
 Um dia um visionario, alma vertiginosa,
         Espirito immortal,
-Foi deitar-se, que horror! √° sombra temerosa
+Foi deitar-se, que horror! · sombra temerosa
         Da Arvore do Mal.
 
-A Egreja ao v√™r aquella intrepida heresia
-        Lan√ßa-lhe excomunh√µes;
+A Egreja ao vÍr aquella intrepida heresia
+        LanÁa-lhe excomunhıes;
 Tomba por terra um fructo... e Newton descobria
-        A lei das atrac√ß√µes!
+        A lei das atracÁıes!
 
 Sacudi, sacudi, a arvore maldita,
-        Que os astros tombar√£o,
+        Que os astros tombar„o,
 Como se sacudisse a abobada infinita
-        Deus com a propria m√£o!
+        Deus com a propria m„o!
 
 E quando o mundo inteiro emfim houver comido
-        At√© √° saciedade
+        AtÈ · saciedade
 O fructo que lhe estava ha tanto prohibido,
         O fructo da Verdade,
 
-Homens, dizei ent√£o a Jehovah:--¬´Tirano,
+Homens, dizei ent„o a Jehovah:--´Tirano,
         Vai-te embora d'aqui!
 Construimos de novo o paraiso humano;
         Fizemol-o sem ti.
 
-¬´Expulsaste do Olimpo a humanidade outr'ora,
-        √ì despota feroz;
-Pois bem, o Olimpo √© nosso, e Jehovah, agora
-        Expulsamos-te n√≥s!
+´Expulsaste do Olimpo a humanidade outr'ora,
+        ” despota feroz;
+Pois bem, o Olimpo È nosso, e Jehovah, agora
+        Expulsamos-te nÛs!
 
 
 
@@ -968,97 +968,97 @@ A SEMANA SANTA.
 I
 
 
-N√£o podendo dormir no horror da sepultura,
-        Na podrid√£o escura
+N„o podendo dormir no horror da sepultura,
+        Na podrid„o escura
         Da terra immunda e fria,
-Voltaire despeda√ßando o feretro chumbado,
-E cingindo o len√ßol ao corpo esverdeado
+Voltaire despedaÁando o feretro chumbado,
+E cingindo o lenÁol ao corpo esverdeado
         Resuscitou um dia.
 
 Pairava-lhe no labio o riso fulminante
-Com que outr'ora gravou nas cren√ßas virginaes,
+Com que outr'ora gravou nas crenÁas virginaes,
 Como n'um rico espelho a aresta d'um diamante,
-Tamanhas abjec√ß√µes, sarcasmos t√£o brutaes.
+Tamanhas abjecÁıes, sarcasmos t„o brutaes.
 Mas era ao mesmo tempo o riso heroico e bom
 Que os tiranos prostrava em misero desmaio,
 Riso a que succedeu o verbo de Danton,
-Como a um trov√£o succede o lampejar d'um raio.
+Como a um trov„o succede o lampejar d'um raio.
 Dormira febrilmente um longo somno inquieto
 Em quanto andava o mundo a executar-lhe os planos,
 E vinha ver emfim, diabolico architeto,
 O estado da sua obra ao cabo de cem annos,
-√ì satiro divino, √≤ monstro da ironia,
+” satiro divino, Ú monstro da ironia,
 Genio que Deus conduz e Satanaz impelle,
 Que esmagas hoje o _infame_, e escreves no outro dia
 Com a tinta do enxurro os versos da Pucelle;
-Tu √©s feito de luz e feito de baixesas,
-Feito de heroicidade e de protervias m√°s;
-Corromperam-te a alma os bra√ßos das duquezas
+Tu Ès feito de luz e feito de baixesas,
+Feito de heroicidade e de protervias m·s;
+Corromperam-te a alma os braÁos das duquezas
 E encarguilhou-te a face o rir de Satanaz.
 Rasgas ao mundo novo a estrada do futuro
 Cantando ao mesmo tempo o sordido deboche:
-√âs como um Juvenal dentro d'um Epicuro,
-√ì arlequim-titan, √≥ semi-deus-gavroche.
+…s como um Juvenal dentro d'um Epicuro,
+” arlequim-titan, Û semi-deus-gavroche.
 N'esse labio mordente esso sorriso eterno
 Faz frio como a ponta aguda d'uma espada;
-O teu genio, Voltaire, √© como o sol do inverno,
-D√° muitissima luz, mas n√£o aquece nada.
-Em v√£o por sobre a paz dos campos desolados
+O teu genio, Voltaire, È como o sol do inverno,
+D· muitissima luz, mas n„o aquece nada.
+Em v„o por sobre a paz dos campos desolados
 Elle entorna do azul seus vivos esplendores;
-N√£o cantam rouxinoes nas sebes dos vallados,
-N√£o faz nascer o trigo e germinar as flores.
-√â que nunca soubeste o que √© a d√¥r profunda
-Que estalla fibra a fibra os grandes cora√ß√µes;
-√â que nunca choraste, √≥ Prometheu corcunda,
-Como Dante chorou, como chorou Cam√µes
-Voltaire, √≥ rachador de velhos preconceitos,
+N„o cantam rouxinoes nas sebes dos vallados,
+N„o faz nascer o trigo e germinar as flores.
+… que nunca soubeste o que È a dÙr profunda
+Que estalla fibra a fibra os grandes coraÁıes;
+… que nunca choraste, Û Prometheu corcunda,
+Como Dante chorou, como chorou Camıes
+Voltaire, Û rachador de velhos preconceitos,
 Aos golpes de teu riso, a golpes de machado
 Cairam sobre a terra athleticos, desfeitos
 Na floresta da noite os cedros do passado.
 
-Mataste a tradi√ß√£o, o dogma, o privilegio,
-Assobiaste a rir a f√© de nossos paes,
+Mataste a tradiÁ„o, o dogma, o privilegio,
+Assobiaste a rir a fÈ de nossos paes,
 E andaste pelo azul, hediondo sacrilegio!
-A correr √° pedrada os deuses immortaes.
-Empunhando o alvi√£o terrivel da verdade
+A correr · pedrada os deuses immortaes.
+Empunhando o alvi„o terrivel da verdade
 Tu minaste, Voltaire, infatigavelmente
-O alicerce de bronze √† velha sociedade.
+O alicerce de bronze ‡ velha sociedade.
 Do teu riso cruel a onda dissolvente
-Foi como os vagalh√µes, arietes do mar,
-Que cavam sob a rocha um t√£o profundo abismo
+Foi como os vagalhıes, arietes do mar,
+Que cavam sob a rocha um t„o profundo abismo
 Que a rocha fica quasi assente sobre o ar.
 Tu minaste, Voltaire, a rocha despotismo.
-E depois de ter feito a excava√ß√£o noturna,
+E depois de ter feito a excavaÁ„o noturna,
 Como fazem no monte as feras sanguinarias,
-Encheste at√© √° bocca essa medonha furna
+Encheste atÈ · bocca essa medonha furna
 Com barris de petroleo e bombas incendiarias
-E em quanto o niveo p√© soberbo de Antonieta
-Da Fran√ßa estrangulava a suplicante voz,
-Tu lan√ßavas de longe a tragica luneta,
+E em quanto o niveo pÈ soberbo de Antonieta
+Da FranÁa estrangulava a suplicante voz,
+Tu lanÁavas de longe a tragica luneta,
 Velho Fauno cruel, rindo com riso atroz.
-At√© que um dia emfim exausto de cansa√ßo,
-Sentindo j√† sem for√ßa as garras de condor,
-Tu chegaste, Arouet, sem te tremer o bra√ßo,
+AtÈ que um dia emfim exausto de cansaÁo,
+Sentindo j‡ sem forÁa as garras de condor,
+Tu chegaste, Arouet, sem te tremer o braÁo,
 Ao rastilho da mina o fogo abrasador.
-Cobriu-se ent√£o o azul d'uma tormenta escura,
-Echoou lugubremente o estrondo de trov√£o,
-Viste arder o rastilho at√© uma certa altura,
+Cobriu-se ent„o o azul d'uma tormenta escura,
+Echoou lugubremente o estrondo de trov„o,
+Viste arder o rastilho atÈ uma certa altura,
 E foste-te esconder, a rir, na sepultura
-Mal se ia aproximando a hora da explos√£o.
+Mal se ia aproximando a hora da explos„o.
 
 Quando resuscitou Voltaire ficou atonito
-Vendo os nossos chapeus e as nossas cal√ßas pretas,
+Vendo os nossos chapeus e as nossas calÁas pretas,
 Mas como desejava andar no mundo incognito,
-E n√£o l√™r o seu nome impresso nas gazetas,
+E n„o lÍr o seu nome impresso nas gazetas,
 Oh, a necessidade a quanto nos obriga!
-Voltaire o diplomata, o cortez√£o taful
+Voltaire o diplomata, o cortez„o taful
 Largou a juba d'oiro, a cabelleira antiga
-E foi vestir-se √° moda aos armasens do Pool.
+E foi vestir-se · moda aos armasens do Pool.
 Na sexta feira santa os templos percorria
 Voltaire para observar os crentes verdadeiros
-No dia da paix√£o, no luctuoso dia
+No dia da paix„o, no luctuoso dia
 Em que se faz de Christo o deus dos confeiteiros.
-Arouet, ao v√™r aquella estupida far√ßada,
+Arouet, ao vÍr aquella estupida farÁada,
 Foi acordar Jesus na sua campa ignorada
 E disse-lhe:
 
@@ -1066,324 +1066,324 @@ E disse-lhe:
 II
 
 
-        --¬´Anda v√™r √≥ Christo estes bandidos.
-           Que rostos t√£o floridos,
-           Que bellas digest√µes!
-√ì pallido Jesus, √≤ scismador antigo,
+        --´Anda vÍr Û Christo estes bandidos.
+           Que rostos t„o floridos,
+           Que bellas digestıes!
+” pallido Jesus, Ú scismador antigo,
 Levanta-te da campa e vem d'ahi commigo
-           A v√™r estes ladr√µes.
+           A vÍr estes ladrıes.
 
-N√≥s vamos passeiar juntos, de bra√ßo dado,
-Mas vestir√°s primeiro um frak bem talhado
+NÛs vamos passeiar juntos, de braÁo dado,
+Mas vestir·s primeiro um frak bem talhado
            De fino pano inglez,
-E hasde p√¥r na cabe√ßa este chapeu redondo,
+E hasde pÙr na cabeÁa este chapeu redondo,
 Para ficar gentil, para ficar hediondo
            Como qualquer burguez.
 
 Tu odeias de certo estas casacas pretas,
-Mas n√£o quero, Jesus, que tu me compromettas
-Com esse balandrau muitissimo rat√£o.
+Mas n„o quero, Jesus, que tu me compromettas
+Com esse balandrau muitissimo rat„o.
 Se eu fosse ao boulevard comtigo e alguem me visse,
-Ninguem oh, fl√¥r do tom! ninguem, oh canalhice!
-          Me apertaria a m√£o.
+Ninguem oh, flÙr do tom! ninguem, oh canalhice!
+          Me apertaria a m„o.
 
 O talhe d'um colete e os pontos d'uma luva,
 A menor frioleira, um simples guarda chuva,
 Substituiram hoje as regras de Lavater:
 Passando eu por accaso enodoado e roto,
-Diriam: ¬´Que chapeu! que pulha! que maroto!
-Aquelle homem n√£o tem nem sombras de caracter!¬ª
+Diriam: ´Que chapeu! que pulha! que maroto!
+Aquelle homem n„o tem nem sombras de caracter!ª
 
 Anda, veste a farpella. Agora, sim senhor!
-Muito grotesco √©s, meu pobre Redemptor!
-Vais a comprometter-me, √≥ alma do Diabo!
+Muito grotesco Ès, meu pobre Redemptor!
+Vais a comprometter-me, Û alma do Diabo!
 Que figura infeliz, inteiramente chata!...
-Pelo menos corrige o la√ßo da gravata
-E p√µe na _boutoniere_ este jasmim do Cabo.
+Pelo menos corrige o laÁo da gravata
+E pıe na _boutoniere_ este jasmim do Cabo.
 
 Necessitas de ter maneiras delicadas
 E a arte de dizer uns pequeninos nadas
-          Com chic e distinc√ß√£o. Ser Deus √© muito bom;
-Mas √© preciso ser um deus da fina roda,
+          Com chic e distincÁ„o. Ser Deus È muito bom;
+Mas È preciso ser um deus da fina roda,
 Um deus do nosso tempo, um deus da ultima moda,
-Um deus _petit-crev√©_, um deus √° _Benoiton_.
+Um deus _petit-crevÈ_, um deus · _Benoiton_.
 
-Se amanh√£ por acaso alguem, medita n'isto,
+Se amanh„ por acaso alguem, medita n'isto,
 Te fosse apresentar--Sua Ex. o Christo--
-Nos devotos sal√µes do bairro S√£o-Germano,
-Oh escandalo! oh far√ßa! oh padre omnipotente!
+Nos devotos salıes do bairro S„o-Germano,
+Oh escandalo! oh farÁa! oh padre omnipotente!
 As duquezas, sorrindo aristocratamente,
 Achavam-te decerto um Deus provinciano.
 
 Saiamos para a rua. A gente anda de lucto,
 Porque consta que outr'ora un visionario, un bruto,
 Se deixara morrer pregado n'um madeiro.
-E hoje em memoria d'isto os paes compram √°s filhas,
+E hoje em memoria d'isto os paes compram ·s filhas,
           Tres caixas de pastilhas
           Na loja d'um doceiro.
 
-Quanta mulher formosa ahi nesses balc√µes!
-          Que lindas tenta√ß√µes,
+Quanta mulher formosa ahi nesses balcıes!
+          Que lindas tentaÁıes,
           Meu palido judeu!
-Deixa por um instante as regi√µes serenas;
+Deixa por um instante as regiıes serenas;
           Namora estas pequenas,
-Que ellas h√£o de gostar do teu perfil hebreu.
+Que ellas h„o de gostar do teu perfil hebreu.
 
 Arranja um casamento e aprende a ter juizo.
-A noiva pouco importa; o dote √© que preciso
-Discutil-o. Olha l√°, os paes que sejam velhos!...
-Que v√° para o diabo o reino da Utupia!
-E h√£ode-te nomear socio da academia
-E, quem sabe! talvez bar√£o dos Evangelhos.
+A noiva pouco importa; o dote È que preciso
+Discutil-o. Olha l·, os paes que sejam velhos!...
+Que v· para o diabo o reino da Utupia!
+E h„ode-te nomear socio da academia
+E, quem sabe! talvez bar„o dos Evangelhos.
 
-Penetremos na egreja a v√™r esta far√ßada.
-Uns entram para v√™r a casa illuminada,
-Os dandys √© por _chic_, os velhos por _dec√¥ro_;
-Estes √© para ouvir tocar umas quadrilhas,
+Penetremos na egreja a vÍr esta farÁada.
+Uns entram para vÍr a casa illuminada,
+Os dandys È por _chic_, os velhos por _decÙro_;
+Estes È para ouvir tocar umas quadrilhas,
 E os outros, que sei eu!... para vender as filhas,
 Para matar o tempo ou arranjar namoro.
 
-L√° vai o pregador dizer a seremonata
+L· vai o pregador dizer a seremonata
 Tussiu cuspiu, sorriu, bebeu a sua orchata
-E come√ßa a fallar. Tem uns bonitos dentes.
+E comeÁa a fallar. Tem uns bonitos dentes.
 E com gesto facundo e voz amaneirada
           Receita una enfiada
           De tropos excellentes.
 
           Acabou se. O auditorio
           Gostou do farelorio
-          Como gost√°mos n√≥s.
-Soltam-se exclama√ß√µes por entre algum rumor:
---_Muito bem! muito bem!_--_√â um grande pregador!_--
---_Foi um rico serm√£o!_--_E que bonita voz!_
+          Como gost·mos nÛs.
+Soltam-se exclamaÁıes por entre algum rumor:
+--_Muito bem! muito bem!_--_… um grande pregador!_--
+--_Foi um rico serm„o!_--_E que bonita voz!_
 
-E √© esta a tua casa, √≥ meu pobre Jesus!
-          N√£o te bastou a cruz;
+E È esta a tua casa, Û meu pobre Jesus!
+          N„o te bastou a cruz;
           Era preciso o altar,
 Que destino cruel, que tragica ironia!
           Nasces na estrebaria,
           Vives no lupanar!
 
-Desfila pela rua immensa multid√£o.
-          Saiu a prociss√£o;
-Paremos um instante. √â curioso isto.
-Que far√ßas imbecis, que velhas pompas mudas!
-L√° vae pegando ao palio o teu amigo Judas,
-Que est√°, como tu v√™s, commendador de Christo!
+Desfila pela rua immensa multid„o.
+          Saiu a prociss„o;
+Paremos um instante. … curioso isto.
+Que farÁas imbecis, que velhas pompas mudas!
+L· vae pegando ao palio o teu amigo Judas,
+Que est·, como tu vÍs, commendador de Christo!
 
 Os anjos theatraes caminham lentamente
-Com azas de gal√£o feitas expressamente
+Com azas de gal„o feitas expressamente
           Nas lojas de Pariz.
-Pobres anjos do c√©o! querem martirisal-os:
-V√£o cheios de suor e apertam-lhe os calos
+Pobres anjos do cÈo! querem martirisal-os:
+V„o cheios de suor e apertam-lhe os calos
           As botas de verniz.
 
 Agora passas tu n'um palanquim bordado.
           Coidado!
-Muito trabalho tem quem faz religi√µes!
+Muito trabalho tem quem faz religiıes!
 Repara como vais, olha que bella tunica:
-          √â pavorosa, √© unica!
-Off'receu-t'a um burguez n'um dia de elei√ß√µes.
+          … pavorosa, È unica!
+Off'receu-t'a um burguez n'um dia de eleiÁıes.
 
 E atraz do velho andor e atraz das velhas opas
-V√£o desfilando agora os esquadr√µes das tropas
+V„o desfilando agora os esquadrıes das tropas
           Com gesto marcial.
-Tu que amavas os bons, os simples e as crean√ßas,
-Seguido como os reis d'um matagal de lan√ßas,
+Tu que amavas os bons, os simples e as creanÁas,
+Seguido como os reis d'um matagal de lanÁas,
           Meu pobre general!
 
-Terminou a func√ß√£o. √â negro o firmamento.
+Terminou a funcÁ„o. … negro o firmamento.
           Ai que aborrecimento!
-          √ì meu Jesus, que tedio!
+          ” meu Jesus, que tedio!
 Para poder dormir, para poder ceiar,
 Que hade a gente fazer? vamos ao lupanar,
-          N√£o ha outro remedio.
+          N„o ha outro remedio.
 
 Alli tens, meu amigo, os conegos vermelhos:
 Que rostos joviaes, brunidos como espelhos,
 Que riso debochado e gesto vinolento!
-E √° noite, a esta hora, uns padres sem batinas
-Do certo n√£o vir√£o pregar √°s concubinas
+E · noite, a esta hora, uns padres sem batinas
+Do certo n„o vir„o pregar ·s concubinas
           O 6.^o mandamento!
 
-Os teus guardas fieis depois da prociss√£o,
-J√° roucos de cantar um velho cantoch√£o,
-Deixaram-te no templo abandonado e s√≥.
-Uns vieram beijar as carnes prostitu√≠das,
-E os outros foram l√™r no quarto, √°s escondidas,
+Os teus guardas fieis depois da prociss„o,
+J· roucos de cantar um velho cantoch„o,
+Deixaram-te no templo abandonado e sÛ.
+Uns vieram beijar as carnes prostituÌdas,
+E os outros foram lÍr no quarto, ·s escondidas,
           Romances de Bollot.
 
-E como a noite √© linda! a branca lua passa,
+E como a noite È linda! a branca lua passa,
 Ostentando na fronte a pallidez devassa
           D'uma infeliz mulher.
 Quando tudo fermenta e tudo anda de rastros
-J√° n√£o deve admirar que a siphilis chegue aos astros
+J· n„o deve admirar que a siphilis chegue aos astros
 E precisem tambem xarope de Gibert!
 
-Meu Pae, vamos ceiar. √â quasi madrugada;
-√â a hora do tom, a hora consagrada
-Para os ricos festins √° viva luz do gaz.
-√â a hora da morte, a hora do atahude,
+Meu Pae, vamos ceiar. … quasi madrugada;
+… a hora do tom, a hora consagrada
+Para os ricos festins · viva luz do gaz.
+… a hora da morte, a hora do atahude,
 E a mesma em que repoisa a candida virtude
-          Nos bra√ßos de Faublas.
+          Nos braÁos de Faublas.
 
-Anda n√£o tenhas medo, entra no restaurante.
-A sala est√° repleta. A purpura brilhante
+Anda n„o tenhas medo, entra no restaurante.
+A sala est· repleta. A purpura brilhante
 Dos desejos inflama os sonhos tentadores.
 O champanhe sacode os craneos embriagados,
 E os crimes sensuaes e os vicios delicados
-Rompem n'um turbilh√£o de venenosas fl√¥res.
+Rompem n'um turbilh„o de venenosas flÙres.
 
 O punch, illuminando as faces cadavericas,
 Faz-nos imaginar as saturnaes chimericas
-Que √° noite deve haver na _morgue_ de Paris,
-Aonde as cortez√£s, mais roxas que as violetas,
-Ao luar cantar√£o as verdes can√ßonetas
-          Das podrid√µes gentis.
+Que · noite deve haver na _morgue_ de Paris,
+Aonde as cortez„s, mais roxas que as violetas,
+Ao luar cantar„o as verdes canÁonetas
+          Das podridıes gentis.
 
 Volteiam pelo ar os ditos picarescos,
 Elasticos, febris, doidos, funambulescos,
-Como gnomos de luz vestidos de histri√µes,
-Dan√ßando, tilintando os guisos argentinos,
-Fazendo √° luz do gaz tregeitos libertinos
-Com o riso cruel das hallucina√ß√µes.
+Como gnomos de luz vestidos de histriıes,
+DanÁando, tilintando os guisos argentinos,
+Fazendo · luz do gaz tregeitos libertinos
+Com o riso cruel das hallucinaÁıes.
 
 Ceiemos. Manda vir as coisas que preferes;
-E que nos v√£o buscar duas ou tres mulheres,
+E que nos v„o buscar duas ou tres mulheres,
           Que as ha perto d'aqui;
 O mais, pede por boca, o meu divino mestre;
-Mas escuta, olha l√°, n√£o pe√ßas mel silvestre,
-Porque j√° se n√£o usa e riem se de ti.
+Mas escuta, olha l·, n„o peÁas mel silvestre,
+Porque j· se n„o usa e riem se de ti.
 
-E agora √© destampar a rubra fantasia!
+E agora È destampar a rubra fantasia!
 Bebe, pragueja, ri, inventa, calumnia,
-Anda! mostra que tens espirito, ladr√£o!
-N√£o quero v√™r chorar os olhos teus contrictos;
-S√™ canalha com gra√ßa, infame com bons ditos,
-          Vamos, semsabor√£o!
+Anda! mostra que tens espirito, ladr„o!
+N„o quero vÍr chorar os olhos teus contrictos;
+SÍ canalha com graÁa, infame com bons ditos,
+          Vamos, semsabor„o!
 
 Conta-nos em voz alta historias bem galantes,
           Segredos irritantes,
           Vergonhas sensuaes,
 Adulterios da moda, escandalos, miserias,
-Tudo isto, j√° se v√™, com optimas pilherias,
+Tudo isto, j· se vÍ, com optimas pilherias,
           Bastante originaes.
 
 Tu precisas perder esse teu ar de adventicio
           E um certo horror ao vicio,
           D'um pedantismo ignaro;
-Formosura sem vicio √© coisa que n√£o tenta;
-O vicio, meu amigo, √© bom como a pimenta,
-E o defeito que tem √© ser um pouco caro.
+Formosura sem vicio È coisa que n„o tenta;
+O vicio, meu amigo, È bom como a pimenta,
+E o defeito que tem È ser um pouco caro.
 
 Conversemos, alegra a tua fronte augusta.
-S√™ espirituoso, inventa, o que te custa!
+SÍ espirituoso, inventa, o que te custa!
 Uma infamia qualquer muitissimo engenhosa...
 Tens um amigo? bem, vamos calumnial-o;
 Tens amantes? melhor, eu dou-te o meu cavallo
-          E d√°s-me a mais formosa.
+          E d·s-me a mais formosa.
 
-Parece que o rubor te vai subindo √°s faces...
-          √ì Filho, n√£o me masses!
-          √ì Filho, tem piedade!
-Deixa-te de serm√µes; no fim de contas eu
-Sou muito bom christ√£o... um poucochinho atheu,
-Como um christ√£o qualquer da fina sociedade.
+Parece que o rubor te vai subindo ·s faces...
+          ” Filho, n„o me masses!
+          ” Filho, tem piedade!
+Deixa-te de sermıes; no fim de contas eu
+Sou muito bom christ„o... um poucochinho atheu,
+Como um christ„o qualquer da fina sociedade.
 
 Saiamos; rompe a aurora. A burguezia dorme,
           Como a giboia enorme
 Que resona, depois de devorar um toiro;
-√ì giboia feliz, √≥ burguezia, √≤ pan√ßa,
-          Dorme com seguran√ßa
-Que a forca est√° de guarda aos teus bezerros d'oiro.
+” giboia feliz, Û burguezia, Ú panÁa,
+          Dorme com seguranÁa
+Que a forca est· de guarda aos teus bezerros d'oiro.
 
-E chama-se Progresso, √≥ Deus, esta far√ßada!
-Isto √© o cinismo alvar e em p√™llo, √† desfilada,
-√â a prostitui√ß√£o ignobil da mulher,
-S√£o desejos brutaes, √© carne em plena orgia,
+E chama-se Progresso, Û Deus, esta farÁada!
+Isto È o cinismo alvar e em pÍllo, ‡ desfilada,
+… a prostituiÁ„o ignobil da mulher,
+S„o desejos brutaes, È carne em plena orgia,
 Emfim a saturnal da podre burguezia,
 Que resa como o papa e ri como Voltaire.
 
 Morrendo o velho Deus, o velho Deus tirano,
 Este mundo burguez, catholico-romano
-Encontrou-se sem f√©, sem dogma, sem moral;
-A justi√ßa era elle o Padre-omnipotente;
+Encontrou-se sem fÈ, sem dogma, sem moral;
+A justiÁa era elle o Padre-omnipotente;
 Esse Padre morreu; ficou nos simplesmente
 Um unico evangelho--o codigo penal.
 
-A consciencia humana √© um monte de destro√ßos.
-Foram-se as ora√ß√µes, foram-se os padres-nossos,
-Tombou a f√©, tombou o c√©o, tombou o altar;
+A consciencia humana È um monte de destroÁos.
+Foram-se as oraÁıes, foram-se os padres-nossos,
+Tombou a fÈ, tombou o cÈo, tombou o altar;
 E o velho Deus-castigo e o velho Deus-receio
-          √â simplesmente um freio
-Para conter a raiva √° besta popular.
+          … simplesmente um freio
+Para conter a raiva · besta popular.
 
 A crassa burguezia, essa recua fradesca,
 Opipara, animal, silenica, grotesca,
-Namora a Deuza-carne e adora o Deus-milh√£o;
+Namora a Deuza-carne e adora o Deus-milh„o;
 E as almas, fermentando assim n'esta impureza,
 Resvalam sensuaes do leito para a meza.
-          Da meza para o ch√£o.
+          Da meza para o ch„o.
 
 Vendem-se a peso d'oiro as languidas donzellas,
           Mais torpes que as cadellas,
-Que ao menos d√£o de gra√ßa o libertino amor,
+Que ao menos d„o de graÁa o libertino amor,
 E o Dever, a Saude, o Justo, o Verdadeiro,
 Esses ricos metaes fundem-se no brazeiro
 D'um sensualismo espresso, atroz, devorador.
 
-A agiotagem, a bolsa, a cota√ß√£o dos fundos,
-√â o principio rei dominador dos mundos,
-√â um sangue vital, forte como o cognac.
-Engordae, engordae √≥ bravos _homens serios_,
+A agiotagem, a bolsa, a cotaÁ„o dos fundos,
+… o principio rei dominador dos mundos,
+… um sangue vital, forte como o cognac.
+Engordae, engordae Û bravos _homens serios_,
 Que servis para dar esterco aos cemiterios
           E musica a Offenbak.
 
 A vergonha morreu, a dignidade foi-se.
-_O mundo official_ √® um vergonhoso alcoice,
+_O mundo official_ Ë um vergonhoso alcoice,
 E a plebe tripudiando em horridas orgias
-Lan√ßa sobre o Direito um pustulento escarro,
+LanÁa sobre o Direito um pustulento escarro,
 E acende, cambaleando, a ponta do cigarro
 Na fogueira que abrasa o Louvre e as Tulherias.
 
-A familha √© um bordel. Os leitos sensuaes
-S√£o verdadeiramente esgotos seminaes,
+A familha È um bordel. Os leitos sensuaes
+S„o verdadeiramente esgotos seminaes,
           Eroticas latrinas,
 Onde entre o tumultuar d'um debochado goso
 Se fabrica de noite o sangue escrofuloso
-          Das ra√ßas libertinas.
+          Das raÁas libertinas.
 
-Calemo-nos. Eu oi√ßo as ferraduras de Argus.
-√â a Ordem e a Lei; correm a trotes largos,
-V√™m n'esta direc√ß√£o, esconde-te, Jesus!
+Calemo-nos. Eu oiÁo as ferraduras de Argus.
+… a Ordem e a Lei; correm a trotes largos,
+VÍm n'esta direcÁ„o, esconde-te, Jesus!
 Metamo-nos aqui n'um beco, anda ligeiro!
-Que, se sabem quem √©s, meu velho petroleiro,
+Que, se sabem quem Ès, meu velho petroleiro,
 Mandam-te pendurar segunda vez na cruz.
 
 E agora, Filho, adeus. Eu vou dormir um pouco,
           E tu, meu pobre louco,
-Descan√ßa inda que seja um breve quarto d'hora;
+DescanÁa inda que seja um breve quarto d'hora;
 Tingem-se de vermelho as bandas do Oriente,
-√â hoje a Alleluia, e necessariamente
+… hoje a Alleluia, e necessariamente
 Tens de resuscitar logo ao romper d'aurora.
 
 Eu mais feliz que tu, simples mortal que sou,
           Eu, meu amigo, vou
-Dormir at√© que chegue a hora do jantar.
+Dormir atÈ que chegue a hora do jantar.
 Adeus, e resuscita apenas surja o dia;
-Se queres vem dormir √° minha hospedaria,
-          Que eu mando-te acordar.¬ª
+Se queres vem dormir · minha hospedaria,
+          Que eu mando-te acordar.ª
 
 E Arouet partiu, soltando uma cruel risada
-E Jesus ficou s√≥ na noite desolada,
+E Jesus ficou sÛ na noite desolada,
 N'aquella colossal Babilonia impudente,
-Entre quatro milh√µes do almas--quatro milh√µes
-De tigres, do reptis, de abutres e de le√µes
-Agachados na sombra amea√ßadoramente!...
+Entre quatro milhıes do almas--quatro milhıes
+De tigres, do reptis, de abutres e de leıes
+Agachados na sombra ameaÁadoramente!...
 
 Quem a visse do alto essa Londres deserta
 Com a fosforencia esmorecida, incerta
-Da luz do gaz a arder sob um c√®o tumular,
+Da luz do gaz a arder sob um cËo tumular,
 Julgaria estar vendo um grande monstro escuro,
 Como que um Leviatham putrido n'um monturo
           Immenso a fermentar.
@@ -1398,72 +1398,72 @@ Qual marmita profunda a ferver trovejante
 E Christo foi andando errante, vagabundo
 Atravez dessa vasta imperatriz do mundo,
 Opulenta Gomorra hidropica do vicio,
-Que Deus n√£o enxofrou talvez, como costuma,
-Porque al√©m de estar caro o enxofre, Deus em suma
-J√° n√£o pode arruinar-se em fogos de artificio.
+Que Deus n„o enxofrou talvez, como costuma,
+Porque alÈm de estar caro o enxofre, Deus em suma
+J· n„o pode arruinar-se em fogos de artificio.
 
 E elle ia vendo os mil palacios portentosos
 Onde a besta feliz dormia, ebria de gosos,
           Um inefavel somno.
 Em quanto que a miseria anonima, esfaimada
-          √Ås tres da madrugada
-Disputava o jantar no enxurro aos c√£es sem dono.
+          ¡s tres da madrugada
+Disputava o jantar no enxurro aos c„es sem dono.
 
 As altas cathedraes, aonde a borguezia
-Vai arrotar um pouco √° missa do meio dia;
+Vai arrotar um pouco · missa do meio dia;
 Tinham como que o ar d'um theatro fechado
 O aspecto mercantil d'um armazem colosso,
-Em que Deus ao balc√£o vende os dogmas por grosso
-          E o c√©o por atacado.
+Em que Deus ao balc„o vende os dogmas por grosso
+          E o cÈo por atacado.
 
-Os bancos, Pantagrueis do milh√£o, monumentos
+Os bancos, Pantagrueis do milh„o, monumentos
 De marmore e granito e bronze, somnolentos
-Molochs, cuja pan√ßa obesa √© um matadouro,
-Na virtuosa paz de monstros em descan√ßo
+Molochs, cuja panÁa obesa È um matadouro,
+Na virtuosa paz de monstros em descanÁo
           Digeriam de manso
 Nos seus ventres de ferro um Himalaia d'oiro.
 
-Nos mundos hospitaes, onde emfim a desgra√ßa
-Tem a consola√ß√£o do agonisar de gra√ßa,
-Santos, monstros, heroes,--Tropmans, Valgeans, Phrin√©s--
-Anciavam no estert√¥r do tranze derradeiro,
+Nos mundos hospitaes, onde emfim a desgraÁa
+Tem a consolaÁ„o do agonisar de graÁa,
+Santos, monstros, heroes,--Tropmans, Valgeans, PhrinÈs--
+Anciavam no estertÙr do tranze derradeiro,
 --Lixo que um bonzo vae entregar a um coveiro
-          Para o calcar aos p√©s.
+          Para o calcar aos pÈs.
 
 E era aquella immundicie humana a humanidade!
 Tinha valido bem a pena na verdade
-Pregado n'uma cruz morrer como um ladr√£o,
+Pregado n'uma cruz morrer como um ladr„o,
 Para ao cabo de dois mil annos vir achar
 Pilatos sob o throno e Caifaz sobre o altar
-De diadema na fronte e baculo na m√£o!
+De diadema na fronte e baculo na m„o!
 
 Arrazou-se de pranto o olhar do Nazareno,
 Aquelle olhar profundo, aquelle olhar sereno
-Que outr'ora deu alivio a tantos cora√ß√µes,
+Que outr'ora deu alivio a tantos coraÁıes,
 E a linha virginal de seu perfil suave
 Turbou-se, apresentando o aspecto mudo e grave
-          Daz nobres affli√ß√µes.
+          Daz nobres affliÁıes.
 
 E marmoreo, espectral, com a fronte sombria
 Banhada no suor sangrento da agonia
 Foi deitar-se outra vez na leiva tumular,
-Athleta que expirou tranzido de mil d√¥res
+Athleta que expirou tranzido de mil dÙres
 E quer dormir, dormir entre as hervas e as flores
 Onde escorre piedosa a branca luz do luar.
 
-E quando a christandade √° volta do meio dia
+E quando a christandade · volta do meio dia
 Correu ao templo a ver o entremez da Alleluia,
 Em logar d'um Jesus banal de ciclorama
           Subindo ao firmamento,
-D'olhos azues n'um c√©u d'anil, tunica ao vento,
-Sobre nuvens de gloria, de algod√£o em rama,
+D'olhos azues n'um cÈu d'anil, tunica ao vento,
+Sobre nuvens de gloria, de algod„o em rama,
 
 Viu-se na tela um Christo em furia, um visionario,
 Truculento, febril, colerico, incendiario,
-Como que um salteador fugido das gal√©s,
-Na b√¥ca uma blasfemia e no olhar um archote,
-Expulsando da egreja os christ√£os a chicote
-E expulsando do altar o papa a pontap√©s!
+Como que um salteador fugido das galÈs,
+Na bÙca uma blasfemia e no olhar um archote,
+Expulsando da egreja os christ„os a chicote
+E expulsando do altar o papa a pontapÈs!
 
 
 
@@ -1472,14 +1472,14 @@ A BARCA DE S. PEDRO
 
 
 Na barca de S. Pedro ex-santo, hoje banqueiro,
-S√£o tantos os caix√µes com bulas da cruzada,
+S„o tantos os caixıes com bulas da cruzada,
 E tanto o oiro em barra, as joias, o dinheiro,
-O navio √© t√£o velho e a carga √© t√£o pesada;
+O navio È t„o velho e a carga È t„o pesada;
 
 Os anneis, os setins, as purpuras, as rendas,
 As mitras d'oiro fino, os bentos, as imagens,
 As pratas, os cristaes, os vinhos, as of'rendas,
-Os meninos do c√¥ro, os famulos, os pagens;
+Os meninos do cÙro, os famulos, os pagens;
 
 O macisso tropel de conegos vermelhos,
 De sacristas, bedeis, archeiros, missionarios,
@@ -1488,28 +1488,28 @@ o silabus, a curia, as forcas, os rosarios;
 
 As pipas e os toneis com aguas milagrosas,
 Que ainda causam hoje o mais profundo assombro;
-Dos velhos cardeaes as cortez√£s formosas,
+Dos velhos cardeaes as cortez„s formosas,
 E o cura Santa Cruz de bacamarte ao hombro;
 
-Esta orgia pag√£, esta riqueza immensa
+Esta orgia pag„, esta riqueza immensa
 Atulham de tal forma a barca ultramontana,
-√â t√£o desenfreado o vento da descren√ßa,
-E o mar √© t√£o revolto, a carga √© t√£o mundana;
+… t„o desenfreado o vento da descrenÁa,
+E o mar È t„o revolto, a carga È t„o mundana;
 
 Que a barca do senhor, outr'ora dirigida
-Por doze galileus descal√ßos, quasi nus,
+Por doze galileus descalÁos, quasi nus,
 Ella que atravessava o grande mar da vida
-Tendo s√≥ por farol os olhos de Jesus;
+Tendo sÛ por farol os olhos de Jesus;
 
 A barca que atravez do horror da tempestade,
-Arvorando no mastro o pavilh√£o da Esp'ran√ßa,
-Levava os cora√ß√µes de toda a cristandade
-Ao grande porto ideal da Bemaventuran√ßa;
+Arvorando no mastro o pavilh„o da Esp'ranÁa,
+Levava os coraÁıes de toda a cristandade
+Ao grande porto ideal da BemaventuranÁa;
 
 Hoje ao peso cruel d'este deboche hediondo
 Essa barca da Egreja, esse colosso antigo
-Sossobrar√°, o Deus, com pavoroso estrondo,
-Indo dormir ao p√© dos _gale√µes de Vigo_.
+Sossobrar·, o Deus, com pavoroso estrondo,
+Indo dormir ao pÈ dos _galeıes de Vigo_.
 
 
 
@@ -1519,7 +1519,7 @@ LADAINHA
 
 S. Ignacio
 
-  Bemdicto quem nos d√° o p√£o de cada dia.
+  Bemdicto quem nos d· o p„o de cada dia.
 
 
 Coro de Santos
@@ -1544,17 +1544,17 @@ S. Ignacio
 
 Coro de Santos
 
-  Bemdicto seja el-rei D. Jo√£o terceiro.
+  Bemdicto seja el-rei D. Jo„o terceiro.
 
 
 S. Ignacio
 
-Bemdictas sejaes v√≥s, ovelhas de Maria.
+Bemdictas sejaes vÛs, ovelhas de Maria.
 
 
 Coro de Santos
 
-  E mais a vossa l√£, e mais quem n'a tosquia.
+  E mais a vossa l„, e mais quem n'a tosquia.
 
 
 S. Ignacio
@@ -1579,7 +1579,7 @@ Coro de Santos
 
 S. Ignacio
 
-  Bemdicta a nossa F√©, bemdicta a nossa Egreja.
+  Bemdicta a nossa FÈ, bemdicta a nossa Egreja.
 
 
 Coro de Santos
@@ -1595,25 +1595,25 @@ COMO SE FAZ UM MONSTRO
 I
 
 
-Elle era n'esse tempo uma crean√ßa loira
+Elle era n'esse tempo uma creanÁa loira
 Vivendo na abundancia agreste da lavoira,
 Ao vento, a chuva, ao sol, pastoreando os gados,
 Deitando-se ao luar nas pedras dos eirados,
-Atravessando √° noite os solitarios montes,
-Dormindo a boa s√©sta ao p√© das claras fontes,
-Trepando aos pinheiraes, √°s fragas, aos barrancos,
-No rijo e negro p√£o cravando os dentes brancos,
+Atravessando · noite os solitarios montes,
+Dormindo a boa sÈsta ao pÈ das claras fontes,
+Trepando aos pinheiraes, ·s fragas, aos barrancos,
+No rijo e negro p„o cravando os dentes brancos,
 Radioso como a aurora e bom como a alegria.
-Quando no azul do c√©o cantava a cotovia,
-Aos primeiros clar√µes vibrantes da alvorada
+Quando no azul do cÈo cantava a cotovia,
+Aos primeiros clarıes vibrantes da alvorada
 Transportava ao casebre o leite da manada,
 Acordando, a assobiar e a rir pelos caminhos,
 Os lebreus nos portaes e as aves nos seus ninhos.
-E √° tarde quando o sol, extraordinario Rubens,
+E · tarde quando o sol, extraordinario Rubens,
 Na fantasmagoria esplendida das nuvens,
-Colorista febril, lan√ßa, desfaz, derrama
+Colorista febril, lanÁa, desfaz, derrama
 O topasio, o rubi, a prata, o oiro, a chama,
-Elle ia ent√£o sosinho, alegre intemerato,
+Elle ia ent„o sosinho, alegre intemerato,
 Conduzindo a beber ao tremulo regato,
 A golpes de verdasca e gritos estridentes,
 N'um ruidoso tropel os grandes bois pacientes.
@@ -1629,73 +1629,73 @@ Em miniatura.
 II
 
 
-        Um dia o pae, um bravo alde√£o,
-Chamou-o ao p√© de si, e disse-lhe:
+        Um dia o pae, um bravo alde„o,
+Chamou-o ao pÈ de si, e disse-lhe:
 
-                ¬´Jo√£o:
+                ´Jo„o:
 
-√Å for√ßa de trabalho e a for√ßa de canceiras
-A moirejar no monte e a levar gado √°s feiras,
-Consegui ajuntar ao canto do bah√π
-Alguns pintos. Voc√™s s√£o dois rapazes; tu,
-Al√©m de ser mais novo, √©s mais intelligente.
+¡ forÁa de trabalho e a forÁa de canceiras
+A moirejar no monte e a levar gado ·s feiras,
+Consegui ajuntar ao canto do bah˘
+Alguns pintos. VocÍs s„o dois rapazes; tu,
+AlÈm de ser mais novo, Ès mais intelligente.
 Vou botarte ao latim; quero fazer-te agente.
-Hasde-me dar ainda um grande pr√©gador.
-Hoje padre √© melhor talvez que ser doutor.
-Aquillo √® grande vida; √© vida regalada.
+Hasde-me dar ainda um grande prÈgador.
+Hoje padre È melhor talvez que ser doutor.
+Aquillo Ë grande vida; È vida regalada.
 Olha, sabes que mais? manda ao diabo a enxada.
-Aquillo √© que √© vidinha! aquillo √© que √© descan√ßo!
-Arrecada-se a congrua, engrola-se o ripan√ßo,
-Arranja-se um serm√£o ahi com quatro tretas,
+Aquillo È que È vidinha! aquillo È que È descanÁo!
+Arrecada-se a congrua, engrola-se o ripanÁo,
+Arranja-se um serm„o ahi com quatro tretas,
 Vai-se escorropichando o vinho das galhetas,
 
 E a missa seis vintens e doze os baptisados.
 Depois independente e sem nenhuns cuidados!
-Olha, Jo√£o, v√™ tu o nosso padre cura:
-√â, sem tirar nem p√¥r, uma cavalgadura.
+Olha, Jo„o, vÍ tu o nosso padre cura:
+…, sem tirar nem pÙr, uma cavalgadura.
 Vi-o chegar aqui mais roto que os ciganos;
-Pois tem feito um cas√£o em meia duzia d'annos.
-Isto √© desenganar; padres sabem-na toda...
-√â o serm√£o, √© a missa, √© o enterro, √© a boda,
-√â pinga da melhor, √© tudo quando ha!
-Quando o abade morrer hasde vir tu p'ra c√°.
-Despacha-te o doutor nas c√¥rtes; quando n√£o
-Votamos contra elle, e foi-se-lhe a elei√ß√£o.
-Mas que √© isso, rapaz? Nada de choradeira!
-√â tratar da merenda, e quinta ou sexta-feira
+Pois tem feito um cas„o em meia duzia d'annos.
+Isto È desenganar; padres sabem-na toda...
+… o serm„o, È a missa, È o enterro, È a boda,
+… pinga da melhor, È tudo quando ha!
+Quando o abade morrer hasde vir tu p'ra c·.
+Despacha-te o doutor nas cÙrtes; quando n„o
+Votamos contra elle, e foi-se-lhe a eleiÁ„o.
+Mas que È isso, rapaz? Nada de choradeira!
+… tratar da merenda, e quinta ou sexta-feira
 Toca pr'o seminario. Eu quero ir para a cova
-S√≥ depois de ti ouvir cantar a missa nova.¬ª
+SÛ depois de ti ouvir cantar a missa nova.ª
 
 
 III
 
 
 N'uma tarde d'outomno a somnolente trote
-Um macho conduzia em cima do albard√£o,
-J√° columna da egreja, o novo sacerdote,
-O muitissimo illustre e digno padre Jo√£o.
+Um macho conduzia em cima do albard„o,
+J· columna da egreja, o novo sacerdote,
+O muitissimo illustre e digno padre Jo„o.
 Ao entrarem na aldeia os dois irracionaes,
 Dos foguetes ao grande e jubiloso estrepito
-Um velho recebeu nos bra√ßos paternaes,
-Em vez do alegre filho, um monstro j√° decrepito
+Um velho recebeu nos braÁos paternaes,
+Em vez do alegre filho, um monstro j· decrepito
 Que acabava de vir das jaulas clericaes.
-Que transfigur√£o! que radical mudan√ßa!
-Em logar da innocente, angelica crean√ßa,
-Voltava um chimpanz√© estupido e bisonho.
+Que transfigur„o! que radical mudanÁa!
+Em logar da innocente, angelica creanÁa,
+Voltava um chimpanzÈ estupido e bisonho.
 Com o ar de quem anda hallucinadamente
 Preso nas espiraes diabolicas d'um sonho.
 Seu corpo juvenil, robusto e florescente
-Vergava para o ch√£o exhausto de cansa√ßo:
-Os dogmas s√£o de bronze, e a l√£ d'uma batina
-J√° vai pesando mais que as armaduras d'a√ßo.
+Vergava para o ch„o exhausto de cansaÁo:
+Os dogmas s„o de bronze, e a l„ d'uma batina
+J· vai pesando mais que as armaduras d'aÁo.
 A ignorancia profunda, a estupidez suina
 A luxuria d'egreja, ardente, clandestina,
 O remorso, o terror, o fanatismo inquieto,
-Tudo isto perpassava em turbilh√£o confuso
+Tudo isto perpassava em turbilh„o confuso
 Na atonia cruel d'aquelle hediondo aspecto,
 Na morna fixidez d'aquelle olhar obtuso.
-Metida nas pris√µes escuras de Loyola
-A sua alma infantil, n√£o tendo luz nem ar.
+Metida nas prisıes escuras de Loyola
+A sua alma infantil, n„o tendo luz nem ar.
 Foi com os rouxinoes, que dentro da gaiola
 Perdem toda alegria, e morrem sem cantar.
 
@@ -1703,43 +1703,43 @@ Perdem toda alegria, e morrem sem cantar.
 IV
 
 
-Como ninguem ignora, os sordidos palha√ßos
-Compram, roubam √†s m√£es as loiras creancinhas,
-Torcem-lhes o pesco√ßo, as m√£os, os p√©s, os bra√ßos,
+Como ninguem ignora, os sordidos palhaÁos
+Compram, roubam ‡s m„es as loiras creancinhas,
+Torcem-lhes o pescoÁo, as m„os, os pÈs, os braÁos,
 Transformam-lhes n'um juco elastico as espinhas,
 E exhibem-nas depois nos palcos das barracas
 Dando saltos mortaes e devorando facas
-Ante o espanto imbecil da ingenua multid√£o;
+Ante o espanto imbecil da ingenua multid„o;
 E para lhes cobrir a lividez plangente
 Costumam-lhes pintar carnavalescamente
-Na face de alvaiade um rir de vermelh√£o.
+Na face de alvaiade um rir de vermelh„o.
 Tambem o jesuitismo hipocrita-romano,
-Palha√ßo clerical, anda pelos caminhos
+PalhaÁo clerical, anda pelos caminhos
 A comprar, a furtar, assim como um cigano,
-As crean√ßas √°s m√£es, os rouxinoes aos ninhos.
-V√£o leval-as depois ao negro seminario,
-√Ås terriveis gal√©s, ao sacro matadoiro,
+As creanÁas ·s m„es, os rouxinoes aos ninhos.
+V„o leval-as depois ao negro seminario,
+¡s terriveis galÈs, ao sacro matadoiro,
 E escondem-nas da luz, assim como o usurario
 Esconde tambem d'ella os seus punhados d'oiro.
-Dentro da estupidez e da supersti√ß√£o,
-Casamata da f√©, guardam-lhes a raz√£o,
+Dentro da estupidez e da superstiÁ„o,
+Casamata da fÈ, guardam-lhes a raz„o,
 A analize, esse forte e venenoso fluido,
 Que, andando em liberdade, ao minimo descuido
-Poderia estoirar com tragica explos√£o.
-O que o palha√ßo faz ao corpo da crean√ßa
-Fazem-lh'o √° alma, at√© que d'ella reste emfim,
-Em logar do histri√£o que nas barracas dan√ßa,
+Poderia estoirar com tragica explos„o.
+O que o palhaÁo faz ao corpo da creanÁa
+Fazem-lh'o · alma, atÈ que d'ella reste emfim,
+Em logar do histri„o que nas barracas danÁa,
 O pobre missionario, o inutil manequim,
-O histri√£o que nos prega a bemaventuran√ßa
+O histri„o que nos prega a bemaventuranÁa
 A murros do missal e a roncos de latim.
-As almas infantis s√£o brandas como a neve,
-S√£o perolas de leite em urnas virginaes.
+As almas infantis s„o brandas como a neve,
+S„o perolas de leite em urnas virginaes.
 Tudo quanto se grava e quanto ali se escreve
-Cristalisa em seguida e n√£o se apaga mais.
+Cristalisa em seguida e n„o se apaga mais.
 D'esta forma consegue o astucioso clero
-Transformar de repente uma crean√ßa loira
+Transformar de repente uma creanÁa loira
 N'um passaro nocturno estupido e sincero.
-√â abrir-lhe na cabe√ßa a golpes de tesoira
+… abrir-lhe na cabeÁa a golpes de tesoira
 A marca industrial do fabricante--um zero!
 
 
@@ -1748,11 +1748,11 @@ A marca industrial do fabricante--um zero!
 CALEMBOUR
 
 
-√ì Jesuitas, vois sois dum faro t√£o astuto,
-Tendes tal corrup√ß√£o e tal velhacaria,
-Que √© incrivel at√© que o filho de Maria
-N√£o seja inda velhaco e n√£o seja corrupto,
-Andando ha tanto tempo em t√£o m√° _companhia_.
+” Jesuitas, vois sois dum faro t„o astuto,
+Tendes tal corrupÁ„o e tal velhacaria,
+Que È incrivel atÈ que o filho de Maria
+N„o seja inda velhaco e n„o seja corrupto,
+Andando ha tanto tempo em t„o m· _companhia_.
 
 
 
@@ -1760,25 +1760,25 @@ Andando ha tanto tempo em t√£o m√° _companhia_.
 A AGUA DE LOURDES
 
 
-Se ergueis uma capella √° agua milagrosa,
+Se ergueis uma capella · agua milagrosa,
         Esse elixir divino,
-Ent√£o erguei tambem um templo √° caparosa
+Ent„o erguei tambem um templo · caparosa
         E outro templo ao quinino.
 
-Se a agua faz milagre, o que eu vos n√£o discuto,
+Se a agua faz milagre, o que eu vos n„o discuto,
         E por isso a adorais,
-Ajoelhemos ent√£o em face do bismuto
+Ajoelhemos ent„o em face do bismuto
         E d'outras drogas mais.
 
-Fa√ßamos da magnesia e cloroformio e arnica
+FaÁamos da magnesia e cloroformio e arnica
         As hostias do sacrario;
 Transformemos o templo emfim n'uma botica
         E Deus n'um boticario.
 
 Que a vossa agua opere immensas maravilhas
-        Eu n√£o duvido nada:
-√â o Espirito Santo engarrafado em bilhas,
-        √â o milagre √° canada.
+        Eu n„o duvido nada:
+… o Espirito Santo engarrafado em bilhas,
+        … o milagre · canada.
 
 Desde que se espalhou pelo universo o echo
         Do milagre feliz,
@@ -1803,14 +1803,14 @@ Co'um tinteiro de treva e uma penna de abutre.
 Bossuet-Ferrabraz e Falstaf-Isaias.
 Bebe petroleo negro e gim nas sacristias.
 
-N√£o ha pomba mais tigre ou Santo mais demonio:
+N„o ha pomba mais tigre ou Santo mais demonio:
 Fera,--como Caim! rato,--como Polonio!
 
 N'aquelle olhar nocturno, inquizidor, que assusta,
 Ha Nero a murmurar nas sombras com Locusta.
 
-O cabe√ß√£o que traz na batina de lilla
-Erri√ßam-no punhaes: era d'um c√£o de fila.
+O cabeÁ„o que traz na batina de lilla
+ErriÁam-no punhaes: era d'um c„o de fila.
 
 O tigre deu-lhe o amor e o bode a castidade,
 Para um dia expulsar do mundo a Liberdade
@@ -1818,14 +1818,14 @@ Para um dia expulsar do mundo a Liberdade
 Fez um latego atroz, que corta e que esfarrapa,
 Atando uma serpente ao baculo de um papa.
 
-Quando observo esse monstro, essa alim√°ria brava,
+Quando observo esse monstro, essa alim·ria brava,
 Hercules que talhou d'um hyssope uma clava,
 
-Ao v√™r-lhe os rins de bronze, e ao v√™r-lhe a erecta fronte,
+Ao vÍr-lhe os rins de bronze, e ao vÍr-lhe a erecta fronte,
 Creio estar contemplando ao longe, no horisonte,
 
-Entre o rubro esplendor d'uma manh√£ sonora,
-Um bufalo de treva √°s cornadas na aurora!
+Entre o rubro esplendor d'uma manh„ sonora,
+Um bufalo de treva ·s cornadas na aurora!
 
 
 
@@ -1835,23 +1835,23 @@ O DINHEIRO DE S. PEDRO
 
 De tal modo imitou o papa a singileza
         Do martyr do Calvario,
-Que √° for√ßa de gastar os bens com a pobreza
+Que · forÁa de gastar os bens com a pobreza
         Tornou-se milionario.
 
-Tu hoje p√≥des v√™r, √≥ filho de Maria,
+Tu hoje pÛdes vÍr, Û filho de Maria,
         O teu vigario humilde
 Conversando na bolsa em fundos da Turquia
-Com o Bar√£o Rotschild.
+Com o Bar„o Rotschild.
 
-A cruz da redemp√ß√£o, que deu ao mundo a vida
+A cruz da redempÁ„o, que deu ao mundo a vida
         Por te aver dado a morte.
 Tem-a no seu _bureau_ o padre santo erguida
         Sobre uma caixa forte.
 
 E toda essa riqueza immensa, acumulada
         Por tantos financeiros,
-O que √© a economia, oh Deus! foi come√ßada
-        S√≥ com trinta dinheiros!
+O que È a economia, oh Deus! foi comeÁada
+        SÛ com trinta dinheiros!
 
 
 
@@ -1859,8 +1859,8 @@ O que √© a economia, oh Deus! foi come√ßada
 AO NUNCIO MASELLA
 
 
-O Padre Eterno est√° coberto do masellas,
-E tu, (teu nome o atesta, √≥ bonzo,) √©s uma d'ellas.
+O Padre Eterno est· coberto do masellas,
+E tu, (teu nome o atesta, Û bonzo,) Ès uma d'ellas.
 Masella, escuta:
 
         Deus, o Deus em que acredito,
@@ -1868,26 +1868,26 @@ Essa luz que allumina essa noite--o infinito,
 Esse efluvio d'amor que em tudo anda disperso,
 Espirito que, enchendo o abismo do universo.
 Cabe com todo o seu vastissimo esplendor
-N'um olhar de crean√ßa ou n'um calix de flor,
+N'um olhar de creanÁa ou n'um calix de flor,
 Esse Deus immortal, unico, bom, clemente,
 O Deus de quem tu es o hereje e eu sou o crente,
-Esse Deus √≥ Masella, √© um Deus plebeu e humilde,
-Cuja firma n√£o d√° nos banqueiros Rotschild
-Credito algum, um Deus descal√ßo e proletario.
+Esse Deus Û Masella, È um Deus plebeu e humilde,
+Cuja firma n„o d· nos banqueiros Rotschild
+Credito algum, um Deus descalÁo e proletario.
 Que em vez de libras guarda em seu profundo erario
-Mont√µes d'astros, um Deus do tal maneira vil,
-Que n√£o tem cortez√£os, n√£o tem lista civil,
-Nem bispos, nem cardiaes, nem sacrist√£es, nem tropa,
-Nem nuncios para dar pelas c√¥rtes da Europa
-Em doirados sal√µes e esplendidas estufas
+Montıes d'astros, um Deus do tal maneira vil,
+Que n„o tem cortez„os, n„o tem lista civil,
+Nem bispos, nem cardiaes, nem sacrist„es, nem tropa,
+Nem nuncios para dar pelas cÙrtes da Europa
+Em doirados salıes e esplendidas estufas
 Festins onde se serve o Evangelho com trufas,
 A Biblia com champagne, e a alma de Jesus,
-Bem picada, recheiando os fais√µes e os perus!
+Bem picada, recheiando os faisıes e os perus!
 
-Embaixador de quem? de Christo? n√£o; do papa.
-Quem √© o papa?
+Embaixador de quem? de Christo? n„o; do papa.
+Quem È o papa?
 
-        Um Deus inventado √° sucapa,
+        Um Deus inventado · sucapa,
 Um Deus para fazer o qual bastam apenas
 Quatro coisas:--cardeaes, papel, tinteiro e pennas.
 Deita-se n'uma saca uma lista qualquer.
@@ -1896,190 +1896,190 @@ Ou Papavoine--e prompto! em dois minutos fica
 Manipulado um Deus authentico, obra rica,
 Tonsurado, sagrado, infalivel, divino...
 Quer dizer, sahiu Deus d'uma bolsa do quino!
-√â um Deus por concurso, um Deus feitos por tretas,
+… um Deus por concurso, um Deus feitos por tretas,
 E em cuja divindade ideal ha favas pretas!
-Apezar disso √© Deus. Vai pousar-lhe no seio
+Apezar disso È Deus. Vai pousar-lhe no seio
 O Espirito Santo, esse pombo correio
-Da Providencia. √â elle o redemptor e o oraculo.
+Da Providencia. … elle o redemptor e o oraculo.
 A humnidade vai adiante do seu baculo,
-Solu√ßando, ululando, exhausta, ensanguentada
+SoluÁando, ululando, exhausta, ensanguentada
 Pavoroso tropel de sombras pela estrada
 Do destino fatal. O pensamento humano
-√â simplesmente um c√£o sabujo e ultramontano,
-Um c√£o vadio, um c√£o faminto, um c√£o impuro,
+… simplesmente um c„o sabujo e ultramontano,
+Um c„o vadio, um c„o faminto, um c„o impuro,
 Que o papa recolheu de noite n'um monturo,
-E a quem √°s vezes d√° com parcimonia biblica,
-A pitan√ßa d'um Breve e o osso d'uma Enciclica.
-Um papa √© isto:--um juiz sem lei; omnipotente.
-Czar das consciencias. P√≥de irremessivelmente
+E a quem ·s vezes d· com parcimonia biblica,
+A pitanÁa d'um Breve e o osso d'uma Enciclica.
+Um papa È isto:--um juiz sem lei; omnipotente.
+Czar das consciencias. PÛde irremessivelmente
 Chamuscal-as em fogo, ou torral-as em brazas,
 Ou fazer-lhes nascer das costas um par d'azas.
-O globo √© para elle a b√¥la d'um bilhar.
-Domina os reis. O Throno √© o lacaio do Altar.
-Seus templos s√£o pris√µes e seus dogmas algemas.
+O globo È para elle a bÙla d'um bilhar.
+Domina os reis. O Throno È o lacaio do Altar.
+Seus templos s„o prisıes e seus dogmas algemas.
 Cingem-lhe a fronte augusta e nobre os tres diademas,
-E na potente m√£o, invencivel harpeu,
-Tem as chaves do inferno... e a gazua do c√©u.
+E na potente m„o, invencivel harpeu,
+Tem as chaves do inferno... e a gazua do cÈu.
 
-Masella, o theatro √© velho, a receita √© pequena,
-E ha mil annos que est√° a mesma far√ßa em scena.
-Abaixo a far√ßa! Abaixo o pardieiro divino,
-O c√©o, que j√° n√£o tem nem sombras de inquilino.
-Serafins, cherubins, anjos, legi√£o eterna
+Masella, o theatro È velho, a receita È pequena,
+E ha mil annos que est· a mesma farÁa em scena.
+Abaixo a farÁa! Abaixo o pardieiro divino,
+O cÈo, que j· n„o tem nem sombras de inquilino.
+Serafins, cherubins, anjos, legi„o eterna
 Dos eleitos, tudo isso andou, poz-se na perna,
-Deixando l√° ficar, √≥ cafila d'ingratos!
+Deixando l· ficar, Û cafila d'ingratos!
 O cadaver d'um Deus roido pelos ratos.
-Abaixo o inferno, aonde os d√©mos, meus Irm√£os,
-N√£o t√™m fogo se quer para aquecer as m√£os;
-Porqu√™ l√° onde a curia os rebeldes despenha
+Abaixo o inferno, aonde os dÈmos, meus Irm„os,
+N„o tÍm fogo se quer para aquecer as m„os;
+PorquÍ l· onde a curia os rebeldes despenha
 Ha sobra do infieis, mas ha falta de lenha.
-J√° nem √© forno; aquillo √© adega sombria,
-Onde o defluxo faz a c√¥rte √° pneumonia,
-E onde n√£o ha nariz precito que ande enxuto.
-Cada heresiarca suja um len√ßo por minuto,
-De modo que hoje o inferno (oxal√° que m'o evites,
-Masella!) √© de temer por causa das bronchites.
+J· nem È forno; aquillo È adega sombria,
+Onde o defluxo faz a cÙrte · pneumonia,
+E onde n„o ha nariz precito que ande enxuto.
+Cada heresiarca suja um lenÁo por minuto,
+De modo que hoje o inferno (oxal· que m'o evites,
+Masella!) È de temer por causa das bronchites.
 Abaixo o purgatorio! Entre chamma ex-faminta,
-Que reclama com ancia algumas m√£os de tinta,
+Que reclama com ancia algumas m„os de tinta,
 Gelam reprobos nus, reprobos em pelote,
-Que precisam d'um fogo, √≥ c√©os, ou d'um capote!
-Abaixo a far√ßa! abaixo o entremez da paix√£o,
-Porque o Christo √© de gesso e a cruz de papel√£o.
+Que precisam d'um fogo, Û cÈos, ou d'um capote!
+Abaixo a farÁa! abaixo o entremez da paix„o,
+Porque o Christo È de gesso e a cruz de papel„o.
 Abaixo essa parodia infame em que agonisa
 N'um Golgota de lona um clown sem camisa
 Que, depois d'expirar convulso, de repente
 Salta abaixo da cruz funambulescamente,
-E arranca √†s multid√µes assombradas e mudas
+E arranca ‡s multidıes assombradas e mudas
 A esportula--que cai no saquitel do Judas.
 
-N√£o! o martyr que fez com o seu olhar sublime
-O luar do Perd√£o para a noite do Crime,
-E que abriu com a luz da bemaventuran√ßa
-N'este carcere--a vida, esta janella--a Esp'ran√ßa,
-O semi-deus que est√†, com um farol de gloria
+N„o! o martyr que fez com o seu olhar sublime
+O luar do Perd„o para a noite do Crime,
+E que abriu com a luz da bemaventuranÁa
+N'este carcere--a vida, esta janella--a Esp'ranÁa,
+O semi-deus que est‡, com um farol de gloria
 No topo da montanha escalvada da historia
 Contemplando o infinito e illuminando a terra,
-Essa alma que a fl√¥r da alma humana encerra,
-N√£o √© vossa, n√£o √© de qualquer confraria
-Que disp√µe d'uma adega escura, d'uma pia
-E d'um padre, n√£o tem o domicilio em Roma,
-N√£o √© vinho nem p√£o que se beba ou se coma,
+Essa alma que a flÙr da alma humana encerra,
+N„o È vossa, n„o È de qualquer confraria
+Que dispıe d'uma adega escura, d'uma pia
+E d'um padre, n„o tem o domicilio em Roma,
+N„o È vinho nem p„o que se beba ou se coma,
 Merendando, em familia. Ess'alma Universal,
-Essa concentra√ß√£o divina do Ideal
-√â de quem soffre, √© de quem geme, √© de quem chora,
-√â de todos que v√£o pela existencia f√≥ra
-Tristes--santo, ou her√≤e, ou escravo, ou proscripto,
+Essa concentraÁ„o divina do Ideal
+… de quem soffre, È de quem geme, È de quem chora,
+… de todos que v„o pela existencia fÛra
+Tristes--santo, ou herÚe, ou escravo, ou proscripto,
 Calcando o lodo e olhando os astros no Infinito.
 Quando Christo inclinou, morrendo, a fronte calma,
 Foi a Egreja buscar-lhe o corpo e o mundo a alma.
-A Egreja recolheu a cinza e n√≥s a luz.
+A Egreja recolheu a cinza e nÛs a luz.
 E, louca! julgou ser a esposa de Jesus,
 Porque estreitava ao peito um cadaver gelado!
 Dez seculos durou na treva esse noivado.
 Dez seculos passou a funebre bacante
 N'um sepulchro a oscular as gangrenas do amante,
-Unido a cada chaga immunda um beijo em fl√¥r,
+Unido a cada chaga immunda um beijo em flÙr,
 Tentando reviver ao furioso calor
 D'esses beijos um corpo inanimado e frio.
 Que tragedia dantesca esse himeneu sombrio!
 Pobre Heloisa da morte, o teu casto Abeillard
 Nem para ti abriu o azul do seu olhar,
-Nem murmurou baixinho uma palavra s√≥!
-E o Deus tornou-se em lodo abjecto e o lodo em p√≥!
+Nem murmurou baixinho uma palavra sÛ!
+E o Deus tornou-se em lodo abjecto e o lodo em pÛ!
 E na campa nupcial, no talamo--sentina,
 Da carcassa d'um Deus funebre Messalina,
-Putrefacta expiraste ao p√© da podrid√£o.
-√â que um cadaver, seja ou d'um Christo ou d'um c√£o.
+Putrefacta expiraste ao pÈ da podrid„o.
+… que um cadaver, seja ou d'um Christo ou d'um c„o.
 Materia morta, exhala a mesma pestilencia.
-S√≥ a alma √© immortal; s√≥ essa pura essencia,
-J√°mais se decomp√µe ou j√†mais se aniquila.
-O corpo √© simplesmente a alampada de argila;
-A alma, eis o clar√£o. Por isso o Nazareno
+SÛ a alma È immortal; sÛ essa pura essencia,
+J·mais se decompıe ou j‡mais se aniquila.
+O corpo È simplesmente a alampada de argila;
+A alma, eis o clar„o. Por isso o Nazareno
 Pertence ao mundo. Tu escolheste o veneno,
-O cadaver, e n√≥s o Espirito, a alvorada.
+O cadaver, e nÛs o Espirito, a alvorada.
 E foi com essa hostia esplendida e sagrada,
 Com a alma de luz do Filho e Maria
 Que o mundo celebrou a grande eucharistia,
-Egreja!... O cora√ß√£o da victima innocente
-Comungamol-o n√≥s: diluiu-se ethereamente,
-Cheio de paz e amor, no cora√ß√£o humano.
+Egreja!... O coraÁ„o da victima innocente
+Comungamol-o nÛs: diluiu-se ethereamente,
+Cheio de paz e amor, no coraÁ„o humano.
 Foi um sol que expirou. Onde tombou? No oceano.
 
 Mas como, p'ra poder explorar sem canceira
 Com o inferno--essa mina, a terra--essa melgueira,
 O velho Padre-Santo, o Redemptor-Tichborue,
 Precisa d'um Jesus sangrento que lhe adorne
-O altar, e aos p√©s do altar necessita que esteja
+O altar, e aos pÈs do altar necessita que esteja
 Toda banhada em pranto a noiva eterna, a Egreja,
 E como o noivo e a noiva ambos tinham morrido,
-O Padre Santo, que √© um padre divertido,
-Mandou escripturar ent√£o por um cornaca
+O Padre Santo, que È um padre divertido,
+Mandou escripturar ent„o por um cornaca
 Uma Egreja a um bordel e um Christo a uma barraca.
 
-F√≥ra esse Deus! Abaixo esse Deus salafrario,
-Deus com ramo de loiro √° porta do Calvario,
-Deus que marcha ao suplicio, √° epopeia da D√¥r
+FÛra esse Deus! Abaixo esse Deus salafrario,
+Deus com ramo de loiro · porta do Calvario,
+Deus que marcha ao suplicio, · epopeia da DÙr
 Com Cyreneu na frente a rufar n'um tambor,
-Deus de quem Harpag√£o √© caixeiro e Tartufo
-Guarda livros, um Deus palha√ßo, um Christo bufo,
+Deus de quem Harpag„o È caixeiro e Tartufo
+Guarda livros, um Deus palhaÁo, um Christo bufo,
 Um martyr de aluguel, ebrio, que se apregoa
 Com guisos atinir nos espinhos da c'roa,
 Um Deus a quem Mandrin passou folha corrida,
 Um Deus que fez da morte o seu modo de vida,
-Um Deus que representa a far√ßa da Paix√£o
-Pintado, ensanguentado a vinho e a vermelh√£o,
-Um Deus que sobe ao c√©o, acrobata farnesio,
+Um Deus que representa a farÁa da Paix„o
+Pintado, ensanguentado a vinho e a vermelh„o,
+Um Deus que sobe ao cÈo, acrobata farnesio,
 Em aerostato, a vai no banho d'um trapesio
 A fazer o signal da cruz e a prancha com limpeza
-Identica, arrojando √° multid√£o surpreza
-Ben√ß√£os anjelicaes variadas e embrulhadas
-Em prospectos, e emfim descendo √°s gargalhadas,
+Identica, arrojando · multid„o surpreza
+BenÁ„os anjelicaes variadas e embrulhadas
+Em prospectos, e emfim descendo ·s gargalhadas,
 Para ir repartir em qualquer sacristia
-Os lucros da fun√ß√£o por toda a companhia!
+Os lucros da funÁ„o por toda a companhia!
 
 Que regabofe! O Christo, um magro actor de fama,
 Estropeado galan senil depois do drama,
-Lava o gesso e o zarc√£o da tromoia sangrenta
+Lava o gesso e o zarc„o da tromoia sangrenta
 Com a esponja do fel na pia da agua benta.
 A Magdalena, vesga e sordida rameira,
 Guarba os seios de estopa, o prato, a cabelleira,
-Limpa a macera√ß√£o do olhar, que causa asco,
+Limpa a maceraÁ„o do olhar, que causa asco,
 Feita a rolha queimada e inutil d'algum frasco
 De mercurio ou de absinto, e, como uma alcateia,
 Atira-se esfaimada ao bacalhau da ceia.
 O bom do Cyrineu, a transpirar, pragueja;
 Manda aos quintos a cruz e manda ao diabo a egreja;
 Despe a farpela, e bebe a rir alegremente,
-D'um trago s√≥, canada e meia de aguardente.
-Pilatos o pan√ßudo e calvo safardana
+D'um trago sÛ, canada e meia de aguardente.
+Pilatos o panÁudo e calvo safardana
 Ronca, dormindo. A vil soldadesca romana
-Tira as barbas, e p√µe muitissimo pacata
-N'um bahu--os morri√µes e espadag√µes de lata.
-O bom e o m√°o ladr√£o jogam a bisca. O anjo
+Tira as barbas, e pıe muitissimo pacata
+N'um bahu--os morriıes e espadagıes de lata.
+O bom e o m·o ladr„o jogam a bisca. O anjo
 Que partira o sepulchro, um robusto marmanjo,
 Desaparafusando as azas d'oiro e o nimbo,
 Pede ao velho Caiphaz lume para o cachimbo
 E grave e silencioso, a um canto o thesoureiro
 --Judas--reparte, empilha em montes o dinheiro
-Da recita, tirando o quinh√£o do empresario
+Da recita, tirando o quinh„o do empresario
 --O Papa--a quem pertence o Theatro do Calvario.
 E dividida a prosa e ruminada a orgia,
 Ao sagrado e doirado alvorescer do dia,
-L√° vai esse rold√£o de sevandijas podres,
+L· vai esse rold„o de sevandijas podres,
 Cambaleante tropel de ventres feitos odres.
 Indo dormir talvez, oh pandega, oh delicia!
-Jesus co'a Magdalena--√° esquadra de policia.
+Jesus co'a Magdalena--· esquadra de policia.
 
-Vamos! basta de far√ßa, e basta de far√ßantes!
+Vamos! basta de farÁa, e basta de farÁantes!
 Mil bombas a vapor jorrem desinfectantes
 N'esse velho bordel da Egreja--o vaticano,
-Colera! faz-te mar, Justi√ßa! faz-te oceano,
+Colera! faz-te mar, JustiÁa! faz-te oceano,
 E inundae, submergi o Versalhes maldito
 De Jehovah--Rei-sol macrobio do infinito.
 Vamos, fogo ao covil! E emquanto os salteadores,
 Nuncios, bispos, cardeaes, conegos, monsenhores,
 --Truculenta manada obesa de hipopotamos--
-Virgem-m√£e dos her√≥es, √≥ Liberdade! enxotam'os,
+Virgem-m„e dos herÛes, Û Liberdade! enxotam'os,
 E faze-m'os transpor, a grunhir, sem demoras
 As fronteiras do globo em vinte e quatro horas!
 
@@ -2089,65 +2089,65 @@ As fronteiras do globo em vinte e quatro horas!
 LADAINHA MODERNA
 
 
-S. Le√£o 13--dai-nos bons bispados,
-S. Le√£o 13--que nos possam dar
-S. Le√£o 13--vinte mil crusados.
-S. Le√£o 13--f√≤ra o p√© d'altar.
+S. Le„o 13--dai-nos bons bispados,
+S. Le„o 13--que nos possam dar
+S. Le„o 13--vinte mil crusados.
+S. Le„o 13--fÚra o pÈ d'altar.
 
 Santo Antonelli--dai-nos confessadas
-Santo Antonelli--novas, j√° se v√™;
-Santo Antonelli--√© melhor casadas,
+Santo Antonelli--novas, j· se vÍ;
+Santo Antonelli--È melhor casadas,
 Santo Antonelli--bem sabeis porque...
 
-√ì Santo Borgia--ha tanta gente avara!...
-√ì Santo Borgia--ha tantos imbecis!...
-√ì Santo Borgia--como se prepara,
-√ì Santo Borgia--o tal xarope... diz!...
+” Santo Borgia--ha tanta gente avara!...
+” Santo Borgia--ha tantos imbecis!...
+” Santo Borgia--como se prepara,
+” Santo Borgia--o tal xarope... diz!...
 
 Santa de Lourdes--sois incomparavel!
 Santa de Lourdes--muita agua deita
 Santa de Lourdes--vossa inexgotavel
 Santa de Lourdes--fonte... de receita!
 
-√ì Santa madre--miseros, mesquinhos,
-√ì Santa madre--vemo-nos atonitos,
-√ì Santa madre--p'ra educar sobrinhos
-√ì Santa madre que tem paes incognitos.
+” Santa madre--miseros, mesquinhos,
+” Santa madre--vemo-nos atonitos,
+” Santa madre--p'ra educar sobrinhos
+” Santa madre que tem paes incognitos.
 
-√ì Santa egreja mete-nos, no buxo
-√ì Santa egreja--p'ra d√°r tom √° fibra,
-√ì Santa egreja--alguns te-deuns de luxo
-√ì Santa egreja--e muita missa a libra
+” Santa egreja mete-nos, no buxo
+” Santa egreja--p'ra d·r tom · fibra,
+” Santa egreja--alguns te-deuns de luxo
+” Santa egreja--e muita missa a libra
 
 Santo Cinismo--chapa-nos nas faces
 Santo Cinismo--um tal estanho emfim,
 Santo Cinismo--que tu mesmo embaces
-Santo Cinismo--ao v√™r cinismo assim.
+Santo Cinismo--ao vÍr cinismo assim.
 
 Santa Intrugice--entrega as almas toscas
-Santa Intrugice--√°s nossas artimanhas...
+Santa Intrugice--·s nossas artimanhas...
 Santa Intrugice--Deus destina as moscas
 Santa Intrugice--ao papo das aranhas.
 
 S. Regabofe--dai-nos bambochatas
-S. Regabofe--at√© rollar n√£o ch√£o...
+S. Regabofe--atÈ rollar n„o ch„o...
 S. Regabofe--pipa e sermonatas!
-S. Regabofe--porco e cantoch√£o!
+S. Regabofe--porco e cantoch„o!
 
 Santa Barriga--unica santa nossa,
-Santa Barriga--grande santa √©s!
+Santa Barriga--grande santa Ès!
 Santa Barriga--alarga, estende, engrossa
-Santa Barriga--e vai da boca aos p√©s
+Santa Barriga--e vai da boca aos pÈs
 
-Santa Pregui√ßa--Santa que consolas,
-Santa Pregui√ßa--n√£o ha nada igual
-Santa Pregui√ßa--a um bom colch√£o de molas
-Santa Pregui√ßa--e mais etcet'ra e tal!...
+Santa PreguiÁa--Santa que consolas,
+Santa PreguiÁa--n„o ha nada igual
+Santa PreguiÁa--a um bom colch„o de molas
+Santa PreguiÁa--e mais etcet'ra e tal!...
 
-S. Venha-a-n√≥s--realisa este desejo,
-S. Venha-a-n√≥s--ingenuo e timorato:
-S. Venha-a-n√≥s--faz do universo um queijo
-S. Venha-a-n√≥s--e faz de n√≥s um rato!
+S. Venha-a-nÛs--realisa este desejo,
+S. Venha-a-nÛs--ingenuo e timorato:
+S. Venha-a-nÛs--faz do universo um queijo
+S. Venha-a-nÛs--e faz de nÛs um rato!
 
 
 
@@ -2158,40 +2158,40 @@ O MELRO
         O melro, eu conheci-o:
 Era negro, vibrante, luzidio,
         Madrugador, jovial;
-        Logo de manh√£ cedo
-Come√ßava a soltar d'entre o arvoredo
+        Logo de manh„ cedo
+ComeÁava a soltar d'entre o arvoredo
 Verdadeiras risadas de cristal.
 E assim que o padre cura abria a porta
-        Que d√° para o passal,
+        Que d· para o passal,
 Repicando umas finas ironias,
         O melro d'entre a horta
-        Dizia-lhe: ¬´Bons dias!¬ª
+        Dizia-lhe: ´Bons dias!ª
         E o velho padre cura
-N√£o gostava d'aquellas cortezias.
+N„o gostava d'aquellas cortezias.
 
 O cura era um velhote conservado,
 Malicioso, alegre, prasenteiro;
-N√£o tinha pombas brancas no telhado,
+N„o tinha pombas brancas no telhado,
         Nem rosas no canteiro;
-Andava √°s lebres pelo monte, a p√©,
+Andava ·s lebres pelo monte, a pÈ,
         Livre de rheumatismos,
-Gra√ßas a Deus, e gra√ßas a No√©.
+GraÁas a Deus, e graÁas a NoÈ.
 O melro despresava os exorcismos
         Que o padre lhe dizia:
 Cantava, assobiava alegremente,
-        At√© que ultimamente
+        AtÈ que ultimamente
         O velho disse um dia:
 
-¬´Nada, j√° n√£o tem geito! este ladr√£o
-        D√° cabo dos trigaes!
-        Qual seria a ras√£o
-Porque Deus fez os melros e os pardaes?!¬ª
+´Nada, j· n„o tem geito! este ladr„o
+        D· cabo dos trigaes!
+        Qual seria a ras„o
+Porque Deus fez os melros e os pardaes?!ª
 
         E o melro no entretanto,
         Honesto como um santo,
         Mal vinha no oriente
         A madrugada clara
-J√° elle andava jovial, inquieto,
+J· elle andava jovial, inquieto,
 Comendo alegremente, honradamente,
 Todos os parasitas da seara
 Desde a formiga ao mais pequeno insecto.
@@ -2204,24 +2204,24 @@ Que grande tolo o padre confessor!
         Foi para a eira o trigo;
         E armando uns espantalhos
         Disse o abbade comsigo:
-¬´Acabaram-se as penas e os trabalhos.¬ª
-Mas logo do manh√£, maldito espanto!
+´Acabaram-se as penas e os trabalhos.ª
+Mas logo do manh„, maldito espanto!
         O abbade, inda na cama,
 Ouviu do melro o costumado canto,
         Ficou ardendo em chamma;
-        Pega na ca√ßadeira,
+        Pega na caÁadeira,
         Levanta-se d'um salto,
-E v√™ o melro a assobiar na eira
-Em cima do seu velho chap√©u alto!
+E vÍ o melro a assobiar na eira
+Em cima do seu velho chapÈu alto!
 
         Chegou a coisa a termo
 Que o bom do padre cura andava enfermo,
-        N√£o fallava nem ria,
-Minado por t√£o intimo desgosto;
+        N„o fallava nem ria,
+Minado por t„o intimo desgosto;
 E o vermelho oleoso do seu rosto
 Tornava-se amarello dia a dia.
-E foi tal a paix√£o, a desventura,
-(Muito embora o leitor n√£o me acredite)
+E foi tal a paix„o, a desventura,
+(Muito embora o leitor n„o me acredite)
         Que o bom do padre cura
         Perdera... o appetite!
 
@@ -2236,18 +2236,18 @@ Um ninho com seis melros escondido
 
 E ao vel-os exclamou enfurecido:
 
-¬´A m√£e comeu o fructo prohibido;
+´A m„e comeu o fructo prohibido;
 Esse fructo era a minha sementeira:
-        Era o p√£o, e era o milho;
+        Era o p„o, e era o milho;
         Transmittiu-se o peccado.
-E, se a m√£e n√£o pagou, que pague o filho,
-√â doutrina da Egreja. Estou vingado!¬ª
+E, se a m„e n„o pagou, que pague o filho,
+… doutrina da Egreja. Estou vingado!ª
 
 E engaiolando os pobres passaritos
-        Soltava exclama√ß√µes:
-        ¬´√â uma praga. Maldictos!
-D√£o-me cabo de tudo estes ladr√µes!
-Raios os partam! andai l√° que emfim...¬ª
+        Soltava exclamaÁıes:
+        ´… uma praga. Maldictos!
+D„o-me cabo de tudo estes ladrıes!
+Raios os partam! andai l· que emfim...ª
 
 E deixando a gaiola pendurada
 Continuou a ler o seu latim
@@ -2265,12 +2265,12 @@ Infiltra-nos na alma dolorida
 Um mysticismo heroico e salutar.
 As arvores, de luz inda doiradas,
 Sobre os montes longiquos, solitarios,
-Tinham tomado as f√≥rmas rendilhadas
+Tinham tomado as fÛrmas rendilhadas
         Das plantas dos herbarios.
 Recolhiam-se a casa os lavradores.
 Dormiam virginaes as coisas mansas:
         Os rebanhos e as flores,
-        As aves e as crean√ßas.
+        As aves e as creanÁas.
 
 Ia subindo a escada o velho abbade;
 A sua negra, athletica figura
@@ -2279,8 +2279,8 @@ Destacava na frouxa claridade,
 E introduzindo a chave no portal
         Murmurou entre dentes:
 
-        ¬´Tal e qual... tal e qual!...
-Guisados com arroz s√£o excellentes.¬ª
+        ´Tal e qual... tal e qual!...
+Guisados com arroz s„o excellentes.ª
 
        *       *       *       *       *
 
@@ -2289,11 +2289,11 @@ Tinham o brilho meigo, avelludado
 Do sorriso dos martyres, dos justos.
 Um effluvio dormente e perfumado
 Embebedava as seivas luxuriantes.
-Todas as for√ßas vivas da materia
+Todas as forÁas vivas da materia
 Murmuravam dialogos gigantes
-        Pela amplid√£o etherea.
-S√£o precisos silencios virginaes,
-Disposi√ß√µes sympathicas, nervosas,
+        Pela amplid„o etherea.
+S„o precisos silencios virginaes,
+DisposiÁıes sympathicas, nervosas,
 Para ouvir estas fallas silenciosas
         Dos mudos vegetaes.
 As orvalhadas, frescas espessuras
@@ -2308,64 +2308,64 @@ E n'isto o melro foi direito ao ninho.
 Para o agasalhar andou buscando
 Umas pennugens doces como arminho,
 Um feltrosito assetinado e brando.
-        Chegou l√°, e viu tudo.
+        Chegou l·, e viu tudo.
 Partiu como uma frecha; e louco e mudo
-Correu por todo o matagal; em v√£o!
+Correu por todo o matagal; em v„o!
 Mas eis que solta de repente um grito
-Indo encontrar os filhos na pris√£o.
+Indo encontrar os filhos na pris„o.
 
-¬´Quem vos metteu aqui?!¬ª O mais velhito
-Todo tremente, murmurou ent√£o:
+´Quem vos metteu aqui?!ª O mais velhito
+Todo tremente, murmurou ent„o:
 
-¬´Foi aquelle homem negro.--Quando veio
+´Foi aquelle homem negro.--Quando veio
 Chamei, chamei... Andavas tu na horta...
-Ai que susto, que susto! Elle √© t√£o feio!...
+Ai que susto, que susto! Elle È t„o feio!...
 Tive-lhe tanto medo!... Abre esta porta,
 E esconde-nos debaixo da tua aza!
-Olha, j√° v√£o florindo as assucenas;
+Olha, j· v„o florindo as assucenas;
 Vamos a construir a nossa casa
         N'um bonito logar...
-Ai! quem me dera, minha m√£e, ter pennas
-        Para v√¥ar, v√¥ar!¬ª
+Ai! quem me dera, minha m„e, ter pennas
+        Para vÙar, vÙar!ª
 
         E o melro hallucinado
         Clamou:
 
-                ¬´Senhor! Senhor!
-√â por ventura crime ou √© peccado
+                ´Senhor! Senhor!
+… por ventura crime ou È peccado
         Que eu tenha muito amor
         A estes innocentes?!
-√ì natureza, √≥ Deus, como consentes
+” natureza, Û Deus, como consentes
 Que me roubem assim os meus filhinhos,
         Os filhos que eu criei!
-Quanta d√¥r, quanto amor, quantos carinhos,
+Quanta dÙr, quanto amor, quantos carinhos,
         Quanta noite perdida
             Nem eu sei...
-        E tudo, tudo em v√£o!
+        E tudo, tudo em v„o!
         Filhos da minha vida!
-        Filhos do cora√ß√£o!!...
-N√£o bastaria a natureza inteira,
-N√£o bastaria o c√©o para voardes,
+        Filhos do coraÁ„o!!...
+N„o bastaria a natureza inteira,
+N„o bastaria o cÈo para voardes,
 E prendem-vos assim d'esta maneira!...
         Covardes!
 A luz, a luz, o movimento insano
-Eis o aguilh√£o, a f√© que nos abraza...
+Eis o aguilh„o, a fÈ que nos abraza...
         Encarcerar a aza
-√â encarcerar o pensamento humano.
-A culpa tive-a eu! quasi √° noitinha
-        Parti, deixei-os s√≥s ...
-A culpa tive-a eu, a culpa √© minha,
+… encarcerar o pensamento humano.
+A culpa tive-a eu! quasi · noitinha
+        Parti, deixei-os sÛs ...
+A culpa tive-a eu, a culpa È minha,
         De mais ninguem!... Que atroz!
         E eu devia sabel-o!
-Eu tinha obriga√ß√£o de adivinhar...
+Eu tinha obrigaÁ„o de adivinhar...
 Remorso eterno! eterno pesadello!...
 ...........................................
 Falta-me a luz e o ar!... Oh, quem me dera
-        Ser abutre ou ser f√©ra
+        Ser abutre ou ser fÈra
 Para partir o carcere maldicto!...
-E como a noite √© limpida e formosa!
+E como a noite È limpida e formosa!
         Nem um ai, nem um grito...
-Que noite triste! oh noite silenciosa!...¬ª
+Que noite triste! oh noite silenciosa!...ª
 
        *       *       *       *       *
 
@@ -2381,7 +2381,7 @@ Mergulhavam as sofregas raizes
 A procurar na terra as seivas boas,
 Com a avidez e as raivas tenebrosas
 Das pequeninas feras vigorosas
-Sugando √° noite os peitos das leoas.
+Sugando · noite os peitos das leoas.
 A lua triste, a lua merencorea,
         Desdemona marmorea,
 Rolava pelo azul da immensidade,
@@ -2392,54 +2392,54 @@ E entre a luz do luar e os sons e as flores,
 Na atonia cruel das grandes dores,
         O melro solitario
 Jazia inerte, exanime, sereno,
-Bem como outr'ora a m√£e do Nazareno
+Bem como outr'ora a m„e do Nazareno
         Na noite do calvario!...
 Segundo o seu costume habitual,
         Logo de madrugada
 O padre-cura foi para o quintal,
-Levando a biblia e sobra√ßando a enxada.
+Levando a biblia e sobraÁando a enxada.
         Antes de dizer missa,
 O velho abade inevitavelmente
-        Tratava da hortali√ßa
+        Tratava da hortaliÁa
 E resava a Deus Padre Onipotente
         Varios trechos latinos,
 Salvando d'esta forma juntamente
 As ervilhas, as almas e os pepinos.
 
-E j√° de longe ia bradando:
+E j· de longe ia bradando:
 
-                --¬´Ol√©!
+                --´OlÈ!
         Dormiram bem?... Estimo...
         Eu lhes darei o mimo,
-Canalha vil, grandissima ral√®!
-Ent√£o voc√™s, seus almas do diabo,
-Julgavam que isto que era s√≥ dar cabo,
+Canalha vil, grandissima ralË!
+Ent„o vocÍs, seus almas do diabo,
+Julgavam que isto que era sÛ dar cabo,
         Da horta e do pomar,
 E bico alegre e estomago contente,
 E o camello do cura que se aguente,
-Que engrolle o seu latim e v√° bugiar!...
+Que engrolle o seu latim e v· bugiar!...
 Grandes larapios!... Era o que faltava.
-        Voc√™s irem ao milho,
-        E a mim mandar-me √° fava!
+        VocÍs irem ao milho,
+        E a mim mandar-me · fava!
 Pois muito bem, agora que vos pilho
 Eu vos ensinarei, meus safardanas!
-Voc√™s s√£o mariol√µes, s√£o ratazanas,
-Tem bico √© certo, mas n√£o tem tonsura...
+VocÍs s„o mariolıes, s„o ratazanas,
+Tem bico È certo, mas n„o tem tonsura...
 E nas manhas um melro nunca chega
-√Ås manhas naturaes d'um padre-cura.
+¡s manhas naturaes d'um padre-cura.
 O melhor vinho que encontrar na adega
-√â para hoje, ol√©!... Que bambochata!
-Que petisqueira! Melros com chouri√ßo!...
-        E ent√£o a Fortunata
+… para hoje, olÈ!... Que bambochata!
+Que petisqueira! Melros com chouriÁo!...
+        E ent„o a Fortunata
 Que tem um dedo e um geito para isso!...
 Heide comer-vos todos um a um,
-Lambendo os bei√ßos, com tal gana enfim
+Lambendo os beiÁos, com tal gana enfim
 Que comendo-vos todos, mesmo assim
 Eu fico ainda quasi que em jejum!
-E depois de vos ter dentro da pan√ßa,
+E depois de vos ter dentro da panÁa,
         Depois de vos jantar,
-Voc√™s ver√£o como o velhote dan√ßa,
-Como elle √© melro e sabe assobiar!...¬ª
+VocÍs ver„o como o velhote danÁa,
+Como elle È melro e sabe assobiar!...ª
 
 Mas n'isto o padre cura titubiante,
         Quasi desfallecendo,
@@ -2448,65 +2448,65 @@ Atonito de horror, parou deante
 
 O melro, ao ver aproximar o abade,
         Despertou da atonia,
-Lan√ßando-se furioso contra a grade
+LanÁando-se furioso contra a grade
         Do carcere. Torcia,
-Para os partir os ferros da pris√£o,
+Para os partir os ferros da pris„o,
 Crispando as unhas convulsivamente
-        Com a furia d'um le√£o,
+        Com a furia d'um le„o,
 Batalha inutil, desespero ardente!
 Quebrou as garras, depenou as azas
         E hallucinado, exangue,
         Os olhos como brazas,
 Heroe febril, a gotejar em sangue,
-Partiu n'um v√¥o arrebatado e louco.
+Partiu n'um vÙo arrebatado e louco.
         Trazendo dentro em pouco
 Preso no bico um ramo de veneno,
 E bello e grande e tragico e sereno
 Disse:
-        ¬´Meus filhos, a existencia √© boa
-S√≥ quando √© livre. A liberdade √© a lei.
-Prende-se a aza, mas a alma v√¥a...
-√ì filhos, voemos pelo azul!... Comei!--¬ª
+        ´Meus filhos, a existencia È boa
+SÛ quando È livre. A liberdade È a lei.
+Prende-se a aza, mas a alma vÙa...
+” filhos, voemos pelo azul!... Comei!--ª
 
 E mais sublime do que Christo quando
-Morreu na cruz, maior do que Cat√£o,
+Morreu na cruz, maior do que Cat„o,
 Matou os quatros filhos, trespassando
-Quatro vezes o proprio cora√ß√£o!
+Quatro vezes o proprio coraÁ„o!
 Soltou, fitando o abade, uma pungente
-Gargalhada de lagrimas, de d√¥r,
-E partiu pelo espa√ßo heroicamente,
-Indo cahir, j√° morto, de repente
-N'um carcav√£o com silveiraes em fl√¥r.
+Gargalhada de lagrimas, de dÙr,
+E partiu pelo espaÁo heroicamente,
+Indo cahir, j· morto, de repente
+N'um carcav„o com silveiraes em flÙr.
 
 E o velho abade, livido d'espanto,
         Exclamou afinal:
 
-¬´Tudo que existe √© immaculado e √© santo!
+´Tudo que existe È immaculado e È santo!
 Ha em toda a miseria o mesmo pranto,
-E em todo o cora√ß√£o ha um grito igual.
+E em todo o coraÁ„o ha um grito igual.
 Deus semeou d'almas o universo todo.
 Tudo o que vive ri e canta e chora...
 Tudo foi feito com o mesmo lodo,
 Purificado com a mesma aurora.
-√ì misterio sagrado da existencia,
-        S√≥ hoje te adivinho,
-Ao v√™r que a alma tom a mesma essencia
-Pela d√¥r, pelo amor, pela innocencia,
-Quer guarde um ber√ßo, quer proteja um ninho!
-S√≥ hoje sei que em toda a creatura.
-Desde a mais bella at√© √° mais impura,
+” misterio sagrado da existencia,
+        SÛ hoje te adivinho,
+Ao vÍr que a alma tom a mesma essencia
+Pela dÙr, pelo amor, pela innocencia,
+Quer guarde um berÁo, quer proteja um ninho!
+SÛ hoje sei que em toda a creatura.
+Desde a mais bella atÈ · mais impura,
 Ou n'uma pomba ou n'uma fera brava,
 Deus habita, Deus sonha, Deus murmura!...
 ..........................................
 ..........................................
-Ah, Deus √© bem maior do que eu julgava!...¬ª
+Ah, Deus È bem maior do que eu julgava!...ª
 
 E quedou silencioso. O velho mundo,
-Das suas cren√ßas antigas, n'um momento,
+Das suas crenÁas antigas, n'um momento,
 Viu-o sumir exhausto, moribundo
         Nos abysmos sem fundo
 Do tenebroso mar do Pensamento.
-E chorou e chorou... A Egreja, a Cren√ßa.
+E chorou e chorou... A Egreja, a CrenÁa.
 Rude montanha pavorosa, escura,
 Que enchia o globo com a sombra immensa
 Dos seus setenta seculos d'altura;
@@ -2514,22 +2514,22 @@ O Himalaia de dogmas triumphantes,
 Mais eternos que o bronze e que o granito,
 Onde aos prophetas Deus falava d'antes
 Entre raios e nuvens trovejantes
-L√° dos confins siderios do infinito;
+L· dos confins siderios do infinito;
 Esse colosso enorme, em dois instantes
 Viu-o tremer, fender-se e desabar
          N'uma ruina espantosa,
-S√≥ de tocar-lhe a aza vaporosa
+SÛ de tocar-lhe a aza vaporosa
 D'uma avesinha tremula, a expirar!...
 ......................................
 ......................................
 E, arremessando a biblia, o velho abade
 Murmurou:
 
-        ¬´Ha mais f√© e ha mais verdade
+        ´Ha mais fÈ e ha mais verdade
         Ha mais Deus com certeza
-Nos cardos secos d'um rochedo n√∫
-Que n'essa biblia antiga... √ì Natureza,
-A unica biblia verdadeira √©s tu!...¬ª
+Nos cardos secos d'um rochedo n˙
+Que n'essa biblia antiga... ” Natureza,
+A unica biblia verdadeira Ès tu!...ª
 
 
 
@@ -2537,7 +2537,7 @@ A unica biblia verdadeira √©s tu!...¬ª
 Nota
 
 
-O facto em que se baseia este poemeto, com quanto pouco conhecido, √©
+O facto em que se baseia este poemeto, com quanto pouco conhecido, È
 absolutamente verdadeiro.
 
 Os melros e algumas outras aves, como os pintasilgos e os rouxinoes,
@@ -2546,12 +2546,12 @@ quando lhes encarceram os filhos, envenenam-n'os. Muitas vezes,
 a lingua!
 
 Ora nem todos os melros, pintasilgos e rouxinoes assassinam os filhos,
-quando lh'os prendem. S√≥ o fazem os mais extraordinarios, os mais
-heroicos. O que nos demonstra que a ac√ß√£o √© livre e responsavel, e n√£o
+quando lh'os prendem. SÛ o fazem os mais extraordinarios, os mais
+heroicos. O que nos demonstra que a acÁ„o È livre e responsavel, e n„o
 um simples producto d'uma fatalidade organica.
 
-√â pena que Michelet ignorasse este facto. Que paginas divinas que elle
-n√£o teria escripto! _L'Oiseau_ ficou incompleto.
+… pena que Michelet ignorasse este facto. Que paginas divinas que elle
+n„o teria escripto! _L'Oiseau_ ficou incompleto.
 
 
 
@@ -2561,160 +2561,160 @@ CIRCULAR
 (_Fragmento_)
 
 
-Deus & Filho. Bazar da f√©. Venda for√ßada.
+Deus & Filho. Bazar da fÈ. Venda forÁada.
 Pela barca de Pedro, a Judas consignada,
-Chega um rico sortido em modas da esta√ß√£o.
-V√™r para cr√™r! Surpreza! Atten√ß√£o, occasi√£o
+Chega um rico sortido em modas da estaÁ„o.
+VÍr para crÍr! Surpreza! AttenÁ„o, occasi„o
 Unica! aproveitai, comprai! Pechincha certa!
 Ao bazar do Calvario! Ao Nazareno! Alerta,
-Christ√£os! √â o desfazer da feira. Ultimo dia!
+Christ„os! … o desfazer da feira. Ultimo dia!
 Toda a casta de objecto ou de quinquilharia
-Que esteja em rela√ß√£o com negocios de egreja.
+Que esteja em relaÁ„o com negocios de egreja.
 Vellas especiaes para quando troveja,
 Aplacando de prompto a colera divina.
 Sem cheiro e sem mistura alguma de stearina.
-Santa Barbara, a quem a f√© christ√£ se roja,
-Quando atr√¥a, n√£o gasta as vellas d'outra loja,
+Santa Barbara, a quem a fÈ christ„ se roja,
+Quando atrÙa, n„o gasta as vellas d'outra loja,
 Nem outras recommenda o concilio de Trento.
 Em pacotes de seis. Por junto abatimento.
 
 Agua de Lourdes, fresca. Em pipas, ao quartilho
 E em garrafa. Exigir a marca--Deus & Filho--
 Na etiqueta, e na rolha, a fogo--Providencia--
-Genuina s√≥ a ha √° venda n'esta agencia.
-Dez annos de successo e mil milh√µes de curas
+Genuina sÛ a ha · venda n'esta agencia.
+Dez annos de successo e mil milhıes de curas
 Efficaz contra a caspa e contra as mordeduras
-De cobra cascavel ou c√£o damnado ou pulga
+De cobra cascavel ou c„o damnado ou pulga
 Ou percevejo. Faz, Tartufo assim o julga,
 Nascer ao mesmo tempo o apetite e o cabello,
-B√¥a no hemorroidal e util no serampello.
-Reumatismos, ter√ß√£s e outras molestias varias
+BÙa no hemorroidal e util no serampello.
+Reumatismos, terÁ„s e outras molestias varias
 Cura-as n'um prompo. Expulsa as bichas solitarias
 E expulsa o Demo. Purga: os ventres desentupe-os.
 Sem colicas, com tres ou quatro semicupios.
-Em cegos de nascen√ßa e tisicos de peito
-Isso ent√£o √© instantaneo, √© certo o seu effeito.
+Em cegos de nascenÁa e tisicos de peito
+Isso ent„o È instantaneo, È certo o seu effeito.
 Uma perna amputada unta-se, e em dois instantes
 Torna a crescer e fica inda maior que d'antes.
-Em leicen√ßos n√£o falha. Em d√¥r de dentes, isso
-√â bebel-a e ficar sem d√¥r. N√£o ha feiti√ßo
+Em leicenÁos n„o falha. Em dÙr de dentes, isso
+… bebel-a e ficar sem dÙr. N„o ha feitiÁo
 Que resista. Uma vez uma morta tomou-a,
 Espirrou e ficou inteiramente boa!
 Prevenimos no entanto o publico defuncto
 Que casos d'estes ha uns trinta e dois por junto
 Apenas. Endireita a espinhela cahida,
-Extrae callos, reduz fleim√µes, prolonga a vida,
+Extrae callos, reduz fleimıes, prolonga a vida,
 Marca a roupa, e sem damno algum e sem fedor
-T√≥rna o cabello e a barba √° primitiva c√¥r.
+TÛrna o cabello e a barba · primitiva cÙr.
 
 Reliquias. Sortimento a capricho. Em ossadas
 Dos apostolos, hoje as mais acreditadas
 No mercado, chegou variedade infinita,
-Cabe√ßas de S. Jo√£o, s√≥ vendo se acredita,
+CabeÁas de S. Jo„o, sÛ vendo se acredita,
 Onze mil! onze mil, e damol-as sem ganho!
-Os pre√ßos √© segundo o feitio e o tamanho.
-(E convem declarar e advertir desde j√°
-Que ossos de imita√ß√£o n√£o se encontra por c√°.
+Os preÁos È segundo o feitio e o tamanho.
+(E convem declarar e advertir desde j·
+Que ossos de imitaÁ„o n„o se encontra por c·.
 Atestados legaes e autenticos o provam.)
 Ha um monumental e rico S. Christovam,
 Oito metros de largo e uns oitenta de altura,
-Que, como n√£o tem tido at√© hoje procura,
-Decidimos vender, para liquida√ß√£o,
-A retalho. √â de gra√ßa: o kilo a meio tost√£o.
-O publico achar√° sempre n'este bazar
+Que, como n„o tem tido atÈ hoje procura,
+Decidimos vender, para liquidaÁ„o,
+A retalho. … de graÁa: o kilo a meio tost„o.
+O publico achar· sempre n'este bazar
 De qualquer santo, ainda o mais particular,
-Um esqueleto ou dois continuamente √° venda.
-Desejando por√ß√£o, fazem-se de encommenda.
-Desconto extraordinario em transa√ß√µes por grosso.
+Um esqueleto ou dois continuamente · venda.
+Desejando porÁ„o, fazem-se de encommenda.
+Desconto extraordinario em transaÁıes por grosso.
 Garante-se o fabrico e a solidez do osso
 Que empregamos. A todo o esqueleto montado
 N'esta casa vai junto, e em forma, um atestado
-Escripto sobre a pel' e pela propria m√£o
-Do proprio santo, a quem a carcassa em quest√£o
-Pertencera, e que diz:--Eu juro √° f√® de Deus
-Que estes ossos, tal qual est√£o, eram os meus.--
-Aviso: √© bom comprar pe√ßas sobrecellentes:
+Escripto sobre a pel' e pela propria m„o
+Do proprio santo, a quem a carcassa em quest„o
+Pertencera, e que diz:--Eu juro · fË de Deus
+Que estes ossos, tal qual est„o, eram os meus.--
+Aviso: È bom comprar peÁas sobrecellentes:
 Pelo menos um sacro, um nariz e alguns dentes.
 Encontram-se tambem avulso qualquer d'ellas
 Coccixs, peroneus, omoplatas, costellas.
 Tibias, tarsos, enfim tudo que uma alma pia
-Possa achar n'um manual christ√£o de osteologia.
+Possa achar n'um manual christ„o de osteologia.
 Em dedos do Destino ha um soberbo exemplar:
-√â o mesmo que escreveu outr'ora a Balthasar
-No sal√£o do festim a tragica senten√ßa,
-D√°-se por dez tost√µes essa caneta immensa
+… o mesmo que escreveu outr'ora a Balthasar
+No sal„o do festim a tragica sentenÁa,
+D·-se por dez tostıes essa caneta immensa
 Do Destino ha tambem o olho verdadeiro,
 Em vidro ou em cristal, por duzia ou por milheiro,
 Negros, verdes, azues, obra muito barata,
 Engastado em oiro, em nickel ou em lata.
-E hoje a grande moda, e s√£o d'um bello effeito
-Para bot√µes de punho e alfinetes de peito.
-Ha emfim mais de dez milh√µes de toneladas,
+E hoje a grande moda, e s„o d'um bello effeito
+Para botıes de punho e alfinetes de peito.
+Ha emfim mais de dez milhıes de toneladas,
 De craneos sem valor, e de antigas ossadas,
 Que o caruncho roeu e converteu em cisco,
-Como s√£o vinte mil bra√ßos de S. Francisco,
+Como s„o vinte mil braÁos de S. Francisco,
 Et cet'ra... Esse calcareo, (inutil n'esta casa,)
 Vende-se para esterco a trez vintens a raza.
 
 Vera-cruz. Qualidade esplendida, extra-fina
 Authentica; a melhor que vem da Palestina.
-Em p√≥, em serradura, em lascas, aos boccados,
+Em pÛ, em serradura, em lascas, aos boccados,
 E posta em obra--desde a cama de casados,
-Desde o piano d'Erard ou da credencia at√©
-Ao baculo do bispo e ao _steeck_ do _crev√©_.
+Desde o piano d'Erard ou da credencia atÈ
+Ao baculo do bispo e ao _steeck_ do _crevÈ_.
 Trabalhada a primor em mil objectos varios:
 Em facas de cortar papel ou em rosarios,
 Em imagens do papa ou em boquilhas, em
-Cabides, casti√ßaes, prezepes de Bethlem,
-Bandejas para ch√°, agnus-Dei, cruxifixos,
-Lavatorios, etc. Ao _rabais_. Pre√ßos fixos.
+Cabides, castiÁaes, prezepes de Bethlem,
+Bandejas para ch·, agnus-Dei, cruxifixos,
+Lavatorios, etc. Ao _rabais_. PreÁos fixos.
 Nos nossos armazens com serras a vapor
 Vendemol-a igualmente, a cruz do Redemptor,
-Em ripas; em pranch√µes e em traves collossaes
-Para marcenaria e construc√ß√µes navaes.
+Em ripas; em pranchıes e em traves collossaes
+Para marcenaria e construcÁıes navaes.
 ...........................................
 ...........................................
 
-Como hoje o negocio est√° muito bicudo,
+Como hoje o negocio est· muito bicudo,
 Trespassa-se o armazem do Calvario com tudo
 Que tem dentro. Escrever para o nosso bazar,
-Largo dos Intruj√µes, 5, 1.^o andar.
+Largo dos Intrujıes, 5, 1.^o andar.
 
 
 
 
-A BEN√á√ÉO DA LOCOMOTIVA
+A BEN«√O DA LOCOMOTIVA
 
 
-A obra est√° completa. A machina flameja,
+A obra est· completa. A machina flameja,
 Desenrolando o fumo em ondas pelo ar.
 Mas antes de partir mandem chamar a Egreja
-Que √© preciso que um bispo a venha baptizar.
+Que È preciso que um bispo a venha baptizar.
 
-Como ella √© com certeza o fructo de Cain,
-A filha da raz√£o, da independencia humana,
+Como ella È com certeza o fructo de Cain,
+A filha da raz„o, da independencia humana,
 Botem-lhe na fornalha uns trechos em latim,
-E convertam-n'a √° f√© Catholica Romana.
+E convertam-n'a · fÈ Catholica Romana.
 
 Devem n'ella existir diabolicos peccados,
-Porque √© feita de cobre e ferro; e estes metaes
+Porque È feita de cobre e ferro; e estes metaes
 Sahem da natureza, impios, escommungados,
-Como sahimos n√≥s dos ventres maternaes!
+Como sahimos nÛs dos ventres maternaes!
 
 Vamos, esconjurai-lhe o demo que ella encerra,
-Extrahi a heresia ao a√ßo lampejante!
+Extrahi a heresia ao aÁo lampejante!
 Ella acaba de vir das forjas d'Inglaterra,
 E hade ser com certeza um pouco protestante.
 
 Para que o monstro corra em fervido galope,
-Como um sonho febril, n'um doido turbilh√£o,
-Al√©m do machinista e necessario o hyssope,
-E muita theologia... al√©m d'algum carv√£o.
+Como um sonho febril, n'um doido turbilh„o,
+AlÈm do machinista e necessario o hyssope,
+E muita theologia... alÈm d'algum carv„o.
 
-Atirem-lhe uma hostia √° bocca famulenta,
-Preguem-lhe alguns serm√µes, ensinem-n'a a resar,
+Atirem-lhe uma hostia · bocca famulenta,
+Preguem-lhe alguns sermıes, ensinem-n'a a resar,
 E lancem na caldeira um jorro d'agua benta,
-Que com agua do c√©o talvez n√£o possa andar.
+Que com agua do cÈo talvez n„o possa andar.
 
 
 
@@ -2724,53 +2724,53 @@ A HYDRA
 (Vendo passar seminaristas)
 
 
-Olhae, vede-os passar em legi√µes escuras,
+Olhae, vede-os passar em legiıes escuras,
 Intonsos, apezar de todas as tonsuras,
 Com um ar imbecil, caliginoso, estranho,
 Marcados a tesoira assim como um rebanho,
 E envoltos em crueis balandraus de entremez,
 --As lobas, sob as quaes ha lobos muita vez!...
-√ì galuchos da F√©, recrutas do Divino,
+” galuchos da FÈ, recrutas do Divino,
 Que um chocalho de bronze hiperbolico--um sino--
 Faz erguer, faz dormir, faz deitar, faz andar,
-Eu n√£o sinto por v√≥s, _marionetes_ do altar,
+Eu n„o sinto por vÛs, _marionetes_ do altar,
 Nem odio nem rancor. Sois victimas. Loyola
 Dobra-vos a cerviz com a canga da estola,
 E jungindo-vos, bois nocturnos, ao arado,
 Rasga comvosco o negro e funebre vallado
 Aonde o vosso Deus semeia para a infancia
-A fl√¥r da estupidez e o trigo da ignorancia.
-A Egreja, a cortez√£ sensual de ventre obeso,
+A flÙr da estupidez e o trigo da ignorancia.
+A Egreja, a cortez„ sensual de ventre obeso,
 Hontem mulher de Christo e hoje mulher de Creso,
 Para a rapina odiosa e vil de que se nutre
 Mochos, deu-vos a calva ortodoxa do abutre!
-Matilha de Le√£o XIII a vossa preza √© o mundo,
+Matilha de Le„o XIII a vossa preza È o mundo,
 Tartufo, bode obsceno e theologo profundo,
 Ensina-vos, conforme o ritual mais perfeito,
-A cruzar, como S. Francisco, as m√£os no peito,
-Sob a sotaina arqueando a gravidez das pan√ßas,
-A impor jejuns, benzer caix√µes salgar crean√ßas,
-A grunhir, a ladrar serm√µes, missas cantadas,
-E a escripturar o c√©o por partidas dobradas.
-N√£o vos odeio n√£o, palidos salafrarios;
-V√≥s sois unicamente os comparsas mortuarios
-Do papa, esse Barnum que assombra a multid√£o,
-Com o Espirito Santo a vir comer-lhe a m√£o
+A cruzar, como S. Francisco, as m„os no peito,
+Sob a sotaina arqueando a gravidez das panÁas,
+A impor jejuns, benzer caixıes salgar creanÁas,
+A grunhir, a ladrar sermıes, missas cantadas,
+E a escripturar o cÈo por partidas dobradas.
+N„o vos odeio n„o, palidos salafrarios;
+VÛs sois unicamente os comparsas mortuarios
+Do papa, esse Barnum que assombra a multid„o,
+Com o Espirito Santo a vir comer-lhe a m„o
 Satanaz a frigir (sarrabulhada tragica!)
-Heresiarchas de estopa em caldeir√£o de magica,
+Heresiarchas de estopa em caldeir„o de magica,
 E Jehovah, um urso estupido e cruel
 A lamber-lhe a sandalia, a babojar-lhe o anel,
-E a amea√ßar furibundo este mundo precito
-A rufos de trov√µes no tambor do infinito.
-A Egreja √© uma serpente escura, bicho immundo,
-Gigantesco reptil que d√° a volta ao mundo,
+E a ameaÁar furibundo este mundo precito
+A rufos de trovıes no tambor do infinito.
+A Egreja È uma serpente escura, bicho immundo,
+Gigantesco reptil que d· a volta ao mundo,
 E em cujas espiraes ebrias de raiva insana
 Um Lacconte immortal--a consciencia humana;
-Ha seculo se estorce em convuls√£o atroz.
-Os ellos d'esse monstro implacavel sois v√≥s,
-Sacristas. A cabe√ßa √© o papa.
+Ha seculo se estorce em convuls„o atroz.
+Os ellos d'esse monstro implacavel sois vÛs,
+Sacristas. A cabeÁa È o papa.
                         Ora as serpentes
-Tem a for√ßa na cauda e o veneno nos dentes.
+Tem a forÁa na cauda e o veneno nos dentes.
 
 
 
@@ -2784,37 +2784,37 @@ I
 Valla commum--tasca nojenta,
 Mesa redonda sepulchral,
 Aonde a toalha crapulenta
-√â um len√ßol roto do hospital,
+… um lenÁol roto do hospital,
 
 E aonde as larvas proletarias
 Devoram--lugubres festins!--
 Craneos de heroes, ventres de parias,
 Carcassas podres de arlequins,
 
-Ao contemplar-te, √≥ libertina,
+Ao contemplar-te, Û libertina,
 Um nojo immenso me accomette:
 Tens a avidez de Messalina
 Na boca negra de Machbet!
 
 Na treva aziaga o crime o os vicios,
 Para o _menu_ do teu jantar,
-D√£o-te as crean√ßas dos hospicios
-E as barreg√£s do lupanar.
+D„o-te as creanÁas dos hospicios
+E as barreg„s do lupanar.
 
 Em teu estomago de hyena
-V√£o-se abysmar, monstro cruel,
+V„o-se abysmar, monstro cruel,
 Rios de sangue com gangrena
 E ondas de lagrima com fel.
 
 Cloaca putrida e funerea,
 Feira da ladra edionda e vil,
-√âs o sagu√£o onde a miseria
-Despeja √° noite o seu barril.
+…s o sagu„o onde a miseria
+Despeja · noite o seu barril.
 
 Trituras, lobrega sargeta,
 Sem que o horror te engasgue e abafe
 Os seios virgens de Julieta
-E a pan√ßa obscena de Faltstaff.
+E a panÁa obscena de Faltstaff.
 
 Cinismo atroz que a alma oprime,
 Fetida e funebre impudencia!
@@ -2834,21 +2834,21 @@ Cain e Abel! estrume e luar!
 Oh, _bulimia_ tenebrosa!
 Monstruosidade apocalyptica
 Tudo te serve: ou cancro ou rosa,
-Ou fl√¥r doirada ou fl√¥r syphlitica.
+Ou flÙr doirada ou flÙr syphlitica.
 
 Anjos que vem do paraiso,
 Candura etherea e perfumada,
 Feitos d'um beijo e d'um sorriso,
 N'algum jardim, de madrugada.
 
-V√£o confundir-se n'essa guella,
+V„o confundir-se n'essa guella,
 N'essa pestifera anarchia
 Com quantas lepras uma viella
 Possa escarrar n'uma enxovia!
 
 As guilhotinas homicidas
 Pelo carrasco, o fiel criado,
-Mandam-te o _lunch_ √°s escondidas
+Mandam-te o _lunch_ ·s escondidas
 No seu _panier_ ensanguentado,
 
 E o cadafalso, um salteador,
@@ -2857,14 +2857,14 @@ Feras, que arroja no estertor
 Aos antros podres da tua gulla.
 
 Nada que te encha ou te sufoque.
-Monstro, absorver √© o teu destino.
+Monstro, absorver È o teu destino.
 Depois da ceia de Moloch,
 Ruges co'a fome de Hugolino
 
 Sempre a comer, monstro insensato,
 E a boca sempre escancarada!
 O esquife, harpia, eis o teu prato!
-E o teu talher--a p√° e a enxada!
+E o teu talher--a p· e a enxada!
 
 Valla commum, despenhadeiro
 De lirios brancos e de sapos,
@@ -2874,61 +2874,61 @@ Faz o armazem dos seus farrapos.
 Quantos heroes--oh raiva, oh odio!
 Teu lobo amargo apodreceu
 Desde Aristogiton e Harmodio
-At√© Cam√µes e Galileu!
+AtÈ Camıes e Galileu!
 
 Deus que te fez sempre esfaimada,
-Deu-te tambem, pan√ßa gigante,
+Deu-te tambem, panÁa gigante,
 Por cosinheiro Torquemada,
 E Bonaparte por marchante.
 
 Atila e Nero--o tigre e o lobo,
 Noventa e tres, Saint Barthelemy,
 Eis hecatombes para o globo
-Que s√£o banquetes para ti.
+Que s„o banquetes para ti.
 
 Quando famelica te nutres
 D'um Warterloo, grandiosa prosa,
 Sustentas todos os abutres
-S√≥ co'as migalhas da tua mesa!
+SÛ co'as migalhas da tua mesa!
 
 Para o teu ultimo festim,
 Gargantua sordido e voraz,
-Foi aos a√ßougues de Berlim
+Foi aos aÁougues de Berlim
 A Morte a encher o seu cabaz.
 
 Es magro e funebre molosso
-Ha milh√µes d'annos sempre a uivar:
-√ì Guerra, traz-me o meu almo√ßo!
-√ì Peste, traz-me o meu jantar!
+Ha milhıes d'annos sempre a uivar:
+” Guerra, traz-me o meu almoÁo!
+” Peste, traz-me o meu jantar!
 
 Servo, Fellah, Moujik, Escravo,
-Plebe sem p√£o, mendigos n√∫s,
+Plebe sem p„o, mendigos n˙s,
 Bocas que tem ainda o travo
 Do fel da esponja de Jesus;
 
 Martyres, victimas, proscriptos,
-Legi√£o de heroes resplandecente,
+Legi„o de heroes resplandecente,
 Que ensanguentados e maldictos
 Revoluteiam febrilmente,
 
-Raios no olhar, grilh√µes nos pulsos,
-Ao c√©o em brasa a fronte erguida,
+Raios no olhar, grilhıes nos pulsos,
+Ao cÈo em brasa a fronte erguida,
 Nos sete circulos convulsos,
 Do inferno tragico da Vida;
 
 Todo esse exercito ululante
 Quo em rouco e pavido tropel
 Vem pela historia humana adiante,
-Desde Cain at√© Rossel;
+Desde Cain atÈ Rossel;
 
 Tudo que estoira de miseria,
-Tudo o que ruge na oppress√£o,
+Tudo o que ruge na oppress„o,
 Desde o grilheta da Siberia
-At√© ao paria do Indost√£o;
+AtÈ ao paria do Indost„o;
 
 Todo esse barbaro massacre,
 Da guerra, enorme Leviatan,
-Zama, Farsalia, S. Jo√£o d'Acre,
+Zama, Farsalia, S. Jo„o d'Acre,
 Jena, Austerlitz, Sedan;
 
 Todo esse vomito de horrores
@@ -2937,8 +2937,8 @@ Profundo atlantico de dores,
 Negro Himalaia de agonias,
 
 Todo esse lodo Deus impelle-o
-Ao teu estomago sem d√≥:
-√âs a barriga de Vitellio,
+Ao teu estomago sem dÛ:
+…s a barriga de Vitellio,
 Cheia das pustulas de Job!...
 
 
@@ -2946,83 +2946,83 @@ II
 
 
 E entre esse tabidos fermentos,
-Entre esses horror de coisa m√°s,
-F√≥ssa √° procura de alimentos,
+Entre esses horror de coisa m·s,
+FÛssa · procura de alimentos,
 Um porco immundo--Satanaz.
 
 Essa latrina de Pandora,
-Pensando bem, √© a final
+Pensando bem, È a final
 A escarradeira onde expectora
 Jehovah a bilis immortal.
 
-Como elle √© velho, com o frio
-T√≥sse; o Prudhome diz-lhe ent√£o:
+Como elle È velho, com o frio
+TÛsse; o Prudhome diz-lhe ent„o:
 --Deus, aqui tens este bacio...
-N√£o v√°s cuspir no meu sal√£o.
+N„o v·s cuspir no meu sal„o.
 
-E √°s vezes do alto do infinito,
+E ·s vezes do alto do infinito,
 Talvez depois d'um mau jantar,
 O Padre Eterno faz cabrito
 E enche o bacio a transbordar.
 
 E o pote enorme onde cuspinha
 O truculento Manitu,
-Sem ninguem v√™r, logo √° noitinha
+Sem ninguem vÍr, logo · noitinha
 Vai despejal-o Belzebut.
 
-Vai despejal-o, √≥ crueldade!
-L√° nessas torridas gal√©s,
+Vai despejal-o, Û crueldade!
+L· nessas torridas galÈs,
 Onde Deus assa a humanidade
-No fogo--a que elle aquece os p√©s!
+No fogo--a que elle aquece os pÈs!
 
-Porque, √≥ eternos desherdados
-Da ra√ßa impura de Cain,
+Porque, Û eternos desherdados
+Da raÁa impura de Cain,
 Morrendo sois encaixotados
 Sem agua benta e sem latim.
 
-Se algum vos d√£o √© j√° com ran√ßo,
-√â j√° latim para hospitaes,
+Se algum vos d„o È j· com ranÁo,
+… j· latim para hospitaes,
 Feito com cisco de ripanso
 E as varreduras dos missaes.
 
-A egreja d√°, barata feira!
+A egreja d·, barata feira!
 Ao vosso ultimo estertor
 Oleos de azeite de purgueira
 E ostias de trapos com bolor.
 
-Por isso a valla √© um al√ßap√£o
+Por isso a valla È um alÁap„o
 De d'onde rue a todo instante
-Um tremedal de podrid√£o
+Um tremedal de podrid„o
 N'um mar de enxofre flammejante.
 
 Castigo barbaro e nefando!
-Em monstruozos caldeir√µes
+Em monstruozos caldeirıes
 Ondas de pez tonitruando,
-Roucos, uivando, aos borbot√µes,
+Roucos, uivando, aos borbotıes,
 
-E dentro v√≥s, pobres captivos,
+E dentro vÛs, pobres captivos,
 Em sangue, em chagas, todos nus,
 A morrer sempre e sempre vivos,
 Sempre a coser e sempre crus!
 
 Em lagos rutilos de estanho,
 Bramindo pragas em latim,
-Milh√µes de herejes tomam banho...
+Milhıes de herejes tomam banho...
 Olhae que espiga um banho assim!...
 
 Estes frigidos em certans,
 Dentro do azeite que extravasa.
 Outros perneando, como rans,
-Na empala√ß√£o d'um raio em brasa!
+Na empalaÁ„o d'um raio em brasa!
 
-Uns s√£o torrados sobre grelhas.
+Uns s„o torrados sobre grelhas.
 E os diabos vem continuamente
 N'aquellas nadegas vermelhas
 Cravar com furia o seu tridente!
 
-Muitos estoira-lhes a pan√ßa
+Muitos estoira-lhes a panÁa
 Entre os colericos anneis
-De vinte cilhas, que lembran√ßa!
+De vinte cilhas, que lembranÁa!
 Feitas de cobras cascaveis!
 
 E em torno aos fulgidos brazeiros
@@ -3035,58 +3035,58 @@ Satans freneticos e maus,
 Rabudos como ourangotangos,
 Cornudos como Menelaus!
 
-E √© por n√£o dar uns seis ou sete
-Tost√µes ao odre de um abade
+E È por n„o dar uns seis ou sete
+Tostıes ao odre de um abade
 Que a Providencia vos derrete,
 Impios, por toda a eternidade!
 
 Congrua e folar--palha e bolota
-Ao teu abade, impio, n√£o d√°s?
-Pois bem, Deus p√µe-te de compota
+Ao teu abade, impio, n„o d·s?
+Pois bem, Deus pıe-te de compota
 N'um molho ardente de aguarraz.
 
 Ah, tu rebelde, ah, tu faminto,
 Nunca a chorar foste depor
 Tres mil remorsos com um pinto
-Nas m√£os d'um padre confessor?
+Nas m„os d'um padre confessor?
 
-Ah, tu mandaste a Egreja √° fava?
+Ah, tu mandaste a Egreja · fava?
 Nunca compraste uma cartilha?
 Cose-te em pez, torra-te em lava.
 Anda, meu besta, meu pandilha!
 
-√â em quanto Deus te frita os untos
-E o cora√ß√£o n'uma panella,
+… em quanto Deus te frita os untos
+E o coraÁ„o n'uma panella,
 Que vida airada os bons defunctos
-Passam no c√©o!... que vida aquella!
+Passam no cÈo!... que vida aquella!
 
-Pois c√° por baixo aos magan√µes
+Pois c· por baixo aos maganıes
 Nunca tambem lhes faltou nada;
-Tiveram cren√ßas e milh√µes...
+Tiveram crenÁas e milhıes...
 Deus gosta assim de gente honrada.
 
 Comeram optimos jantares,
 Perfeitamente digeridos;
-Foram christ√£os e titulares.
+Foram christ„os e titulares.
 Bons paes, bons filhos, bons maridos.
 
 Aos seus palacios luculianos
-(O que √© virtude e pundonor!)
+(O que È virtude e pundonor!)
 Durante quasi oitenta annos
-N√£o bateu nunca um s√≥ credor!
+N„o bateu nunca um sÛ credor!
 
 Amaram todos os pecados,
-Que s√£o mortaes, mas s√£o gentis,
+Que s„o mortaes, mas s„o gentis,
 Com todo o encanto fabricados
 Para os banqueiros, em Pariz.
 
 Dormira sempre n'um bom leito
-Co'as mais formosas cortez√£s.
+Co'as mais formosas cortez„s.
 E o ventre sempre satisfeito,
-E livre... todas as manh√£s.
+E livre... todas as manh„s.
 
 Gozaram sim, mas na verdade
-Foram √° missa muitas vezes,
+Foram · missa muitas vezes,
 Com toda a pompa e magestade
 Dentro dos seus _landeaus_ inglezes.
 
@@ -3100,37 +3100,37 @@ E achando a vida um bom lameiro
 Tiveram sempre Auctor dos Mundos
 Por um perfeito cavalheiro.
 
-Deram de gra√ßa a varios santos,
-A Jesus Christo e √° m√£e das D√¥res
-C'roas, chin√≥s, tunicas, mantos,
+Deram de graÁa a varios santos,
+A Jesus Christo e · m„e das DÙres
+C'roas, chinÛs, tunicas, mantos,
 Burseguins d'oiro e resplendores.
 
 Por isso o tal Author, que acabo
 Do vos citar, os tratou bem;
-Deus √© levado do diabo
-S√≥ para os pulhas sem vintem.
+Deus È levado do diabo
+SÛ para os pulhas sem vintem.
 
-E quando ao cabo da func√ß√£o,
---Velhos sem dentes, j√° na espinha,
-A Morte, de chapeu na m√£o,
-Lhes foi tocar √° campainha,
+E quando ao cabo da funcÁ„o,
+--Velhos sem dentes, j· na espinha,
+A Morte, de chapeu na m„o,
+Lhes foi tocar · campainha,
 
 Para espicharem dignamente,
 Agasalhados na sua cama,
 O papa enviou-lhes de presente
-A ben√ß√£o n'este telegrama:
+A benÁ„o n'este telegrama:
 
-¬´Remete ben√ß√£o Divindade.
+´Remete benÁ„o Divindade.
 Legado Pedro quinze contos.
-Escrevi c√©o Hotel Trindade
-Tenham chegada quartos promptos.¬ª
+Escrevi cÈo Hotel Trindade
+Tenham chegada quartos promptos.ª
 
-E ap√≥s um grande funeral,
+E apÛs um grande funeral,
 A que assistiu o _high-life_ inteiro,
 Desde o arcebispo ao general
 E desde o principe ao banqueiro,
 
-Seus corpos, onde n√£o remexe
+Seus corpos, onde n„o remexe
 O verme vil que trinca os parias
 Embalsamados do escabeche
 Em grandes latas funerarias,
@@ -3147,37 +3147,37 @@ E azas soberbas no costado,
 
 Partiram leves, subrepticias.
 Entre o esplendor de cem auroras,
-L√° para o Reino de Delicias.
-Onde estar√£o a estas horas
+L· para o Reino de Delicias.
+Onde estar„o a estas horas
 
-Feitas beb√©s, comendo um keque,
+Feitas bebÈs, comendo um keque,
 Tocando frauta ou tamboril,
 Ou arrastando a aza em leque
-Ingenuamente... √°s _onze mil_.
+Ingenuamente... ·s _onze mil_.
 
 Ah, miseravel, ah precito,
-Que l√° dos baratros christ√£os
+Que l· dos baratros christ„os
 Ergues ao Tigre do infinito
-Os dois archotes das tuas m√£os,
+Os dois archotes das tuas m„os,
 
-V√™ tu como √© conveniente,
+VÍ tu como È conveniente,
 E justo em todos os sentidos,
 Herdar um homem d'um parente
 Seiscentos contos garantidos,
 
-Gozar, sem medo √° vida eterna,
+Gozar, sem medo · vida eterna,
 Toda esta bella patuscada,
 Desde a luxuria mais moderna
-√Å gula mais civilisada,
+¡ gula mais civilisada,
 
-E ao terminar t√£o bom fadario
+E ao terminar t„o bom fadario
 Morrer, ouvindo alguns latins,
 Com treze kilos de calcareo,
 --Onze na alma, e dois nos rins;
 
 E, na mais intima harmonia
 Com Satanaz e com Jesus,
-Ir para a cova √° luz do dia,
+Ir para a cova · luz do dia,
 De farda rica e de gran-cruz,
 
 E entre tocheiros deslumbrantes
@@ -3188,95 +3188,95 @@ N'um gabinete reservado!...
 
 
 
-A S√àSTA DO SNR. ABADE
+A S»STA DO SNR. ABADE
 
 
-O meio dia bateu j√° na torre da Egreja.
-A aldeia √© silenciosa e triste. O sol flameja.
+O meio dia bateu j· na torre da Egreja.
+A aldeia È silenciosa e triste. O sol flameja.
 Entre o surdo murmurio abrasador da luz,
 Como n'um grande forno, os grandes montes nus
 Recosem-se, espirrando as urzes d'entre as fragas.
 Um mendigo demente e coberto de chagas
 Dorme estirado ao sol n'uma modorra espessa;
-E o mosqueiro febril nas lepras da cabe√ßa
-Enterra-lhe zumbindo o caustico das lan√ßas.
-Andam s√≥ pela rua os porcos e as crean√ßas.
-Fome, desola√ß√£o, luto, viuvez, miseria
+E o mosqueiro febril nas lepras da cabeÁa
+Enterra-lhe zumbindo o caustico das lanÁas.
+Andam sÛ pela rua os porcos e as creanÁas.
+Fome, desolaÁ„o, luto, viuvez, miseria
 Na aldeia morta. A terra esqualida e funerea
-Em logar das can√ß√µes da abundancia e do amor,
+Em logar das canÁıes da abundancia e do amor,
 Do trigo verde a rir dentro da sebe em flor,
 Calcinada e cruel cospe violentamente
-S√≥ o cardo torcido, epilectico, ardente,
+SÛ o cardo torcido, epilectico, ardente,
 Rompendo duro e hostil, como a praga blasfema
 D'um assassino quando um carcereiro o algema.
 Secaram-se de todo as fontes e os regatos.
 As cobras na aridez crepitante dos matos
 Silvam. O ar carboniza as arvores sequiosas
 N'uma rutila poeira intensa de ventosas.
-Dos montes nus al√©m nas seccas epidermes
-Os rebanhos s√£o como um pulular de vermes.
-E a bobada do c√©o, concha de zinco em braza,
-Onde n√£o passa a nodoa aerea d'uma aza,
+Dos montes nus alÈm nas seccas epidermes
+Os rebanhos s„o como um pulular de vermes.
+E a bobada do cÈo, concha de zinco em braza,
+Onde n„o passa a nodoa aerea d'uma aza,
 Implacavel contempla a terra solitaria,
-Como um sult√£o fitando a carcassa d'um paria!
+Como um sult„o fitando a carcassa d'um paria!
 
 E o tifo germinou n'esta miseria adusta.
 A epedimia, a alma errante de Locusta.
 Diabolica e subtil fermenta envenenada
 No asfixiante esplendor da atmosphera esbrazeada.
-D'entro da escurid√£o soturna dos casebres
-Os velhos alde√µes, minados pelas febres.
+D'entro da escurid„o soturna dos casebres
+Os velhos aldeıes, minados pelas febres.
 Agonisam; e em seu delirio derradeiro,
 Entre o concavo som da enxada do coveiro
 E o rouco psalmodear dos latins agoirentos,
 Ouvem loucos de dor os funebres lamentos
 Dos magros bois de olhar moribundo e sereno.
-Que est√£o l√† baixo ao p√® do estabulo sem feno,
+Que est„o l‡ baixo ao pË do estabulo sem feno,
 A mugir, a mugir, por terra, abandonados
 Juncto ao velho esqueleto inutil dos arados!
 
-A espa√ßos da profunda e tragica nudez
+A espaÁos da profunda e tragica nudez
 D'uma choupana irrompe um grito de viuvez,
-Um clamor de orfandade... E o sino chora ent√£o
-Lagrimas sepulcraes de bronze na amplid√£o.
+Um clamor de orfandade... E o sino chora ent„o
+Lagrimas sepulcraes de bronze na amplid„o.
 A colera de Deus, cujo olhar encendeia,
 Correu como uma loba hidrophoba na aldeia.
-N√£o ha lume no lar, nem ha p√£o nos armarios.
-Entre os dedos das m√£es famintas os rosarios
+N„o ha lume no lar, nem ha p„o nos armarios.
+Entre os dedos das m„es famintas os rosarios
 Passam piedosamente e inutilmente, em quanto
 A Morte, a hiena magra e vesga, espreita a um canto
-Um ber√ßo onde agonisa um anjo, ho dor cruel!
-Como um roto mendigo √° porta d'um vergel
-Sofregamente espreita algum fructo outoni√ßo
-A tombar j√° sem c√¥r d'um ramo j√° sem vi√ßo!
+Um berÁo onde agonisa um anjo, ho dor cruel!
+Como um roto mendigo · porta d'um vergel
+Sofregamente espreita algum fructo outoniÁo
+A tombar j· sem cÙr d'um ramo j· sem viÁo!
 
 E a aldeia invoca, implora os anjos tutelares.
 Morre de fome e veste as santas nos altares
 Com oiro e com brocado, Os cirios noite e dia
 Alumiam a branca imagem de Maria,
 Como tremulos ais de luz agonisantes
-A erguer-se para o c√©o! Prociss√µes ululantes
-De penitencias v√£o convulsas, desgrenhadas,
-Esfacellando os p√©s nas pedras das cal√ßadas,
+A erguer-se para o cÈo! Procissıes ululantes
+De penitencias v„o convulsas, desgrenhadas,
+Esfacellando os pÈs nas pedras das calÁadas,
 Dilacerando o peito, arrancando os cabellos.
-E com mil vis√µes torvas de pesadellos,
+E com mil visıes torvas de pesadellos,
 Uivando a Deus em rouco e barbaro clamor
-Que seja pae que veja essa infinita d√≥r,
-E l√¢nce √°quella immensa angostia, √°quella magoa
+Que seja pae que veja essa infinita dÛr,
+E l‚nce ·quella immensa angostia, ·quella magoa
 Um olhar onde emfim brilhe uma gota d'agua!
 ...............................................
-Em v√£o, em v√£o, em v√£o! A tarde o sol frenetico
+Em v„o, em v„o, em v„o! A tarde o sol frenetico
 Morre congestionado, estonteado, apopletico,
-E de manh√£ explue na lividez do oriente,
+E de manh„ explue na lividez do oriente,
 Caustico, a chammejar como um remorso ardente!
 E nas noites febris, sem ar, sem roxinoes,
-E que o azul √© um brazeiro esplendido de soes
+E que o azul È um brazeiro esplendido de soes
 E em que parece que ha dispersas na atmosphera
-As vaporisa√ß√µes surdas d'uma cratera,
+As vaporisaÁıes surdas d'uma cratera,
 Por detraz da montanha asperrima, escalvada,
 A lua cheia, rubra, opaca, ensanguentada,
 N'um silencio soturno, esmagador, que opprime,
-Rompe sinistra--como a appari√ß√£o d'um crime!
+Rompe sinistra--como a appariÁ„o d'um crime!
 
 E comtudo n'aquella aridez flamejante,
 Sem um ramo frondoso em que uma ave cante,
@@ -3284,7 +3284,7 @@ N'aquelle illimitado incendio abrasador,
 Oh sarcasmo cruel! ha dois oasis em flor,
 Com duas tropicaes plethoras de verdura:
 
-Um √© o cemiterio, o outro o passal do cura.
+Um È o cemiterio, o outro o passal do cura.
 
 No cemiterio a Vida impetuosa e forte
 Rompe a cantar do ventre uberrimo da Morte.
@@ -3295,185 +3295,185 @@ Tudo isto a latejar, a fecundar, repleto,
 N'um emaranhamento anarchico pulula
 Doido de sol, febril de seiva, ebrio de gula!
 Ha uma saturnal juncto de cada cova,
-Um cadaver que chega √© uma iguaria nova,
-Que os vermes decomp√µem em gangrenas protervas
-Para a sofreguid√£o muda, obscura das hervas.
+Um cadaver que chega È uma iguaria nova,
+Que os vermes decompıem em gangrenas protervas
+Para a sofreguid„o muda, obscura das hervas.
 E quando do seu antro a larva tumular
-Diz √° planta: ¬´Aqui tens na meza o teu jantar,
-Vem comel-o!¬ª milh√µes de raizes--reptis,
+Diz · planta: ´Aqui tens na meza o teu jantar,
+Vem comel-o!ª milhıes de raizes--reptis,
 Sanguesugas que tem por bocas bisturis,
-V√£o haurir, absorver, vampirisar no fundo
+V„o haurir, absorver, vampirisar no fundo
 D'essa cloaca obscena esse banquete immundo,
 Um fetido e viscoso esterquelinio de horrores,
-Que √© o p√£o que Deus fez para engordar as flores!
+Que È o p„o que Deus fez para engordar as flores!
 E da tumba do hospicio hora a hora resvalla
 Uma carga de entulho humano para a valla.
 Juntam-se aos nove e aos dez, rimas de carne morta,
 Na mesma cova. A edade e o sexo pouco importa.
-Confundem-se no podre a√ßougue subterraneo.
+Confundem-se no podre aÁougue subterraneo.
 E em quanto uma raiz de lirio suga um craneo
-E uma pustula d√° o perfume a um nectario,
+E uma pustula d· o perfume a um nectario,
 No azul celeste paira o corvo sanguinario,
 O tumulo suspenso, o esquife que se eleva,
 Brandindo em cada flanco uma foice de treva!
 .................... Dir-se-hia que o Destino,
 O velho Thug, o velho e tragico assassino,
 Depois de uma hecatombe insensata e brutal,
-A escondera, lan√ßando em cima um madrigal,
+A escondera, lanÁando em cima um madrigal,
 Um manto de verdura e corolas vermelhas,
 Todo estrellado do oiro em brasa das abelhas.
 
 E o presbiterio? Olhae:
 
                         Branco como um noivado.
-Trepadeiras √° porta e pombas no telhado.
+Trepadeiras · porta e pombas no telhado.
 Ha n'esse ninho occulto em verdura frondosa
-Como que um bem-estar simples e c√¥r de rosa.
+Como que um bem-estar simples e cÙr de rosa.
 Era um ninho discreto, um bom ninho fiel,
 Para sugar um favo a tres luas de mel.
 Anacreonte, o velho erotico divino,
 Contente encerraria alli o seu destino,
 Pobre, alegre, feliz, sem remorsos, sem dores,
-A calvicie jovial sob um chin√≥ de flores,
+A calvicie jovial sob um chinÛ de flores,
 O copo sobre a meza, a musa sob os joelhos,
 Ao ar livre, a cantar os desejos vermelhos,
-A belleza, o prazer, a juventude e o s√≥l,
-Com a gra√ßa d'um merlo e a voz d'um rouxinol.
+A belleza, o prazer, a juventude e o sÛl,
+Com a graÁa d'um merlo e a voz d'um rouxinol.
 
 Vejamos essa estancia idilica e tranquilla.
-Mas cuidado! ha l√° dentro um padre e um c√£o de fila.
+Mas cuidado! ha l· dentro um padre e um c„o de fila.
 E ambos mordem. Mas, como ambos roncam a sesta,
 Entremos. Logo aqui no pateo pela fresta
 Da tenebrosa adega aberto um poucachinho
 Sahe um aroma intenso e rico de bom vinho.
-O abade √© beberr√£o. Casca-lhe muito e bem.
-L√° pinga como a d'elle isso ninguem na tem.
-Sabe da poda, √© mestre! A adega at√© d√° gosto
-Entrar a gente l√° n'uma tarde de Agosto.
-Que frescura, que aceio e que nectar! No√©
+O abade È beberr„o. Casca-lhe muito e bem.
+L· pinga como a d'elle isso ninguem na tem.
+Sabe da poda, È mestre! A adega atÈ d· gosto
+Entrar a gente l· n'uma tarde de Agosto.
+Que frescura, que aceio e que nectar! NoÈ
 Precisaria ali da capa de Japhet
 A todo o instante, e o proprio abade e mais a ama
 Tem feito d'essa adega o seu quarto de cama
 Varias vezes... O amor pella-se por bom vinho.
-Se Venus foi sua m√£e, Bacho foi seu padrinho.
-Sensata opini√£o que o nosso abade aprova,
-Sobretudo se o vinho √© velho e a mulher nova.
+Se Venus foi sua m„e, Bacho foi seu padrinho.
+Sensata opini„o que o nosso abade aprova,
+Sobretudo se o vinho È velho e a mulher nova.
 Nos rotundos toneis e nas cubas inchadas,
-Pan√ßas monumentaes prenhes de gargalhadas,
+PanÁas monumentaes prenhes de gargalhadas,
 Dormem alegremente e silenciosamente
-Os trinta mil pif√µes que o Padre-Omnipotente,
+Os trinta mil pifıes que o Padre-Omnipotente,
 Em seu alto designio e enfinita bondade,
 Destinou para o odre insaciavel do abade.
 E na fresqueira--um rico e secular thesoiro--
-Ambrosias ideas velhissimas, c√¥r do oiro,
+Ambrosias ideas velhissimas, cÙr do oiro,
 Mormuram baixo em voz cristalina e maviosa
-Uma can√ß√£o de amor entre um beijo e uma rosa,
+Uma canÁ„o de amor entre um beijo e uma rosa,
 E em que a rosa abre ao beijo as petalas vermelhas
-Sob fr√®mito alado e diaphano de abelhas.
-Com t√£o raro elixir, que √® como um sol poente,
-Que j√° n√£o d√° calor, mas que illumina a gente,
-O proprio Satamaz, fa√ßo-lhe essa justi√ßa,
-N√£o tinha repugnancia alguma em dizer missa,
-E eu mesmo, √© minha vergonhosa confic√ß√£o,
-Mas em suma, que diabo!... eu dava em sachrist√£o!
+Sob frËmito alado e diaphano de abelhas.
+Com t„o raro elixir, que Ë como um sol poente,
+Que j· n„o d· calor, mas que illumina a gente,
+O proprio Satamaz, faÁo-lhe essa justiÁa,
+N„o tinha repugnancia alguma em dizer missa,
+E eu mesmo, È minha vergonhosa conficÁ„o,
+Mas em suma, que diabo!... eu dava em sachrist„o!
 
-E junto √° dega existe a tulha sempre cheia...
+E junto · dega existe a tulha sempre cheia...
 Mas subamos depressa emquanto o abade orneia
 A dormir pois se acorda e me conhece, foi-se
 A visita e per cima arruma-me algum coice.
-Vamos p√© ante p√©, de vagarinho. A salla
-√â vasta e branca. Tem nos muros a adornal-a
-Sagrados cora√ß√µes de Jesus flamejantes,
-M√£es, de Deus com olhar no c√©o e dez trinchantes,
+Vamos pÈ ante pÈ, de vagarinho. A salla
+… vasta e branca. Tem nos muros a adornal-a
+Sagrados coraÁıes de Jesus flamejantes,
+M„es, de Deus com olhar no cÈo e dez trinchantes,
 A traspassar-lhe o peito, um Pio nono a cores.
 Cordeirinhos pascaes, anjos, araras, flores,
 Tudo em missanga, e emfim um D. Miguel primeiro
 A froque, que eu comprava a peso de dinheiro.
 Do tecto enegrecido em bategas jucundas
-Pendem bellas ma√ß√£s camoesas rubicundas,
+Pendem bellas maÁ„s camoesas rubicundas,
 Cachos d'uvas ainda a rir, peras marmelas,
-Encaixilhado tudo √° volta com morcellas.
-Em seis bah√∫s de coiro e em arcas de castanho
+Encaixilhado tudo · volta com morcellas.
+Em seis bah˙s de coiro e em arcas de castanho
 Guarda o cura o bragal precioso, o rico amanho
-Caseirinho,--len√ßoes d'uma finura extrema,
-√Ås grozas, rescendendo alecrim e alfazema!
+Caseirinho,--lenÁoes d'uma finura extrema,
+¡s grozas, rescendendo alecrim e alfazema!
 E, segundo se diz, tambem deve haver n'essas
-Arcas monumentaes muita somma de pe√ßas.
+Arcas monumentaes muita somma de peÁas.
 Ao fundo a livraria: uma pequena estante
 N'uma banca ordinaria e simples de estudante.
-No centro tem um v√£o com um Christo inaudito
+No centro tem um v„o com um Christo inaudito
 Nas vascas do caruncho agonisando afflicto,
-Burlesco manipan√ßo alvar de f√≥rmas toscas,
-Negro--das dejec√ß√µes sacrilegas das moscas.
+Burlesco manipanÁo alvar de fÛrmas toscas,
+Negro--das dejecÁıes sacrilegas das moscas.
 Soltos na estante em quatro ou cinco pratelleiras
-Ripan√ßos de ora√ß√µes, de serm√µes e de asneiras,
-Que fornecem ha j√° trinta annos exactos
-P√£o de espirito ao cura e p√£o do corpo aos ratos.
-E entre os livros ha tudo. √â uma loja de ad√©llo.
-Pacotes com rap√©, um baralho, um marmelo,
+RipanÁos de oraÁıes, de sermıes e de asneiras,
+Que fornecem ha j· trinta annos exactos
+P„o de espirito ao cura e p„o do corpo aos ratos.
+E entre os livros ha tudo. … uma loja de adÈllo.
+Pacotes com rapÈ, um baralho, um marmelo,
 Esporas, saquiteis com semente, de ervilha,
 Garfos, um grande corno, um copo, uma rodilha.
 Malgas com marmelada e frascos com compotas,
-E at√© mesmo um chapeu sebento e um par de botas!
+E atÈ mesmo um chapeu sebento e um par de botas!
 Sobre a mesa o tinteiro e o solideo. E aberto
 Um breviario tal, que cheirado de perto
 Fulmina, um breviario exotico, onde emfim
-Ha j√° muito mais sebo e tra√ßa que latim!
+Ha j· muito mais sebo e traÁa que latim!
 
 E a todo e qualquer canto em rumas assassinas,
-Marmeleiros, bord√µes e m√≥cas e clavinas.
+Marmeleiros, bordıes e mÛcas e clavinas.
 E pendendo sombria e, tragica d'um muro,
 Come se fosse a pel' d'um grande monstro escuro,
 A loba, um balandrau de dobra espectraes,
 Feito para espantar as almas e os pardaes,
 
-Contigua √° salla existe a alcova. √â l√° que dorme
+Contigua · salla existe a alcova. … l· que dorme
 O hipopotamo. Vede: O catre e desconforme;
-Cabiam n'esse vasto enxerg√£o √° vontade
-A pregui√ßa d'um porco e a luxuria d'um frade,
-O cura espapa√ßado, esbandalhado, ronca,
+Cabiam n'esse vasto enxerg„o · vontade
+A preguiÁa d'um porco e a luxuria d'um frade,
+O cura espapaÁado, esbandalhado, ronca,
 Inuda-lhe o suor odioso a testa bronca,
-O cacha√ßo taurino e as papeiras que v√£o
-Desde o queixo ao umbigo em gra√ßa ondula√ß√£o.
-A b√¥ca comilona, erotica, sensual
-Traz √° lembran√ßa o fauno obsceno e o canibal.
+O cachaÁo taurino e as papeiras que v„o
+Desde o queixo ao umbigo em graÁa ondulaÁ„o.
+A bÙca comilona, erotica, sensual
+Traz · lembranÁa o fauno obsceno e o canibal.
 E a dentadura podre, esse armazem de guano,
-√â qual desmantelado aqueducto romano.
+… qual desmantelado aqueducto romano.
 Que sordido animal! que bandulho! que bojo!
-Tem cerdas na cabe√ßa e nas orelhas tojo!
+Tem cerdas na cabeÁa e nas orelhas tojo!
 E o nariz? o nariz! que farol! que obelisco!
 Pantagruel deu-lhe a cor, Gargantua deu-lhe o risco.
-√â o nariz de Falstaff, epico, em grando gala,
+… o nariz de Falstaff, epico, em grando gala,
 Purpureado e incendiado a fogos de bengala.
 De quando em quando a ama, herculea mocetona,
---Um peix√£o!--sempre alegre e sempre brincalhona,
-Vem ligeiro enxotar com precau√ß√µes imensas
-Os insectos sem f√® e os moscamos sem cren√ßas,
-Que ousam dep√≤r, que horror! a tal coisa indecente
+--Um peix„o!--sempre alegre e sempre brincalhona,
+Vem ligeiro enxotar com precauÁıes imensas
+Os insectos sem fË e os moscamos sem crenÁas,
+Que ousam depÚr, que horror! a tal coisa indecente
 Nos rubros alcantis d'esse nariz ingente.
-Eu nunca vi, meu Deus, nariz t√£o exquisito!
-Ruge como um trov√£o, silva com um apito!
-√â talvez o nariz por onde tocar√°
+Eu nunca vi, meu Deus, nariz t„o exquisito!
+Ruge como um trov„o, silva com um apito!
+… talvez o nariz por onde tocar·
 Trombeta o Creador no val' de Josaphat!
 Dos mais complexos sons percorre a escala... alcoolica:
 Umas vezes imita uma frauta bucolica
-E outras um cavernoso org√£o de Rilhafolles,
+E outras um cavernoso org„o de Rilhafolles,
 Com um grande Titan bebado a dar as folles.
 As vezes um fragor rouco de temporal
 Quer bramir atravez do Himalaia nasal
 Do abade, mas achando os dois toneis do monte
 Entupido de esterco infecto e de simonte,
-Retrocede e l√° vai por outro sorvedoiro
+Retrocede e l· vai por outro sorvedoiro
 Expluir--com profundo e tremebundo estoiro!...
 ..............................................
-Mas que sastifa√ß√£o beatifica se nota
+Mas que sastifaÁ„o beatifica se nota
 Na vasta estupidez d'aquella cara idiota!
 E sabeis porque dorme olimpico e risonho
-O abade? √â porque teve inda ha pouco esse sonho:
+O abade? … porque teve inda ha pouco esse sonho:
 Sonhou ver desfilar, oh ventura illusoria!
-Um prestito pag√£o, um cortejo de gloria,
+Um prestito pag„o, um cortejo de gloria,
 A acclamal-o. Na frente uma vara sombria
-De bacoros roncava em c√¥ro esta poesia:
+De bacoros roncava em cÙro esta poesia:
 
         Deus fez o porco para o frade.
         Deus destinou-nos os presuntos
@@ -3488,7 +3488,7 @@ Perdizes e perus e patos conclamando:
         Patos, perus, galinhas e perdizes
             Somos felizes!
             Oh, que ventura!
-        Como √© doce morrer tendo a certeza
+        Como È doce morrer tendo a certeza
         De bem assados em manteiga ingleza
             Ir para a meza
             Do senhor cura!
@@ -3497,42 +3497,42 @@ Perdizes e perus e patos conclamando:
 N'um carro triumphal trovejava depois
 Um tonel arrastado a cem juntas de bois:
 
-        O sonho, o canto e a dan√ßa
-        Vivem na minha pan√ßa,
+        O sonho, o canto e a danÁa
+        Vivem na minha panÁa,
             Que trilogia!
-        Sonhar, dan√ßar, cantar!
+        Sonhar, danÁar, cantar!
         A tristeza morreu um bello dia
             N'um lagar.
-       V√°, Padre-mestre, com bizarria!
-       Cantaro √° b√¥ca, toca a virar!
+       V·, Padre-mestre, com bizarria!
+       Cantaro · bÙca, toca a virar!
 
        Meu Padre mestre, nunca o teu bico
-       Provou ainda vinho t√£o rico,
-            Sem confei√ß√£o!
+       Provou ainda vinho t„o rico,
+            Sem confeiÁ„o!
             Vinho como este
        Nunca o bebeste,
-                N√£o!
+                N„o!
 
-       V√° Padre-mestre, p√µe-me um repuxo,
+       V· Padre-mestre, pıe-me um repuxo,
        Muda-me todo para o seu buxo,
-            Meu tubar√£o!
-       Depois rolemos, √°s gargalhadas,
+            Meu tubar„o!
+       Depois rolemos, ·s gargalhadas,
             Dando umbigadas,
-            Dando pan√ßadas
-            No ch√£o!...
+            Dando panÁadas
+            No ch„o!...
 
 Um gracioso tropel de donzellas formosas,
-Frescas e virginaes como bot√µes de rosas,
+Frescas e virginaes como botıes de rosas,
 A saia curta, o rir breigeiro, o arzinho honesto,
-Deixando v√™r a perna e fantasiar o resto,
-Vinha cantando atraz esta can√ß√£o feliz,
-Ao som de theorbas d'oiro e av√©nas pastoris:
+Deixando vÍr a perna e fantasiar o resto,
+Vinha cantando atraz esta canÁ„o feliz,
+Ao som de theorbas d'oiro e avÈnas pastoris:
 
        Somos tresentas sessenta e seis,
        Olhos maganos, bocas em flor...
             Dignas de reis!
        E vimos todas, senhor Prior,
-       Dar-vos aquillo que v√≥s sabeis...
+       Dar-vos aquillo que vÛs sabeis...
        Somos tresentas sessenta e seis!
        Um calendario d'anno bisexto,
             Feito d'amor!
@@ -3541,7 +3541,7 @@ Ao som de theorbas d'oiro e av√©nas pastoris:
        Abra-lhe as folhas, Padre Prior!
 
 Caminhavam por fim, ronceiros, de vagar,
-Os grandes carro√ß√µes da Congrua e P√© de Altar,
+Os grandes carroÁıes da Congrua e PÈ de Altar,
 Puxados a duas mil parelhas de jumentos,
 Zurrando esta epopeia heroica aos quatro ventos:
 
@@ -3550,72 +3550,72 @@ Zurrando esta epopeia heroica aos quatro ventos:
                 Muito magros
        Vem trazer isto a Vossa Senhoria.
        Desculpe, senhor Parocho, a ousadia...
-       A offerta √© bem mesquinha, √© desgra√ßada.
+       A offerta È bem mesquinha, È desgraÁada.
        Uns oitocentos moios simplesmente
-       De milho, de feij√£o, trigo e cevada.
-       E n√≥s sabemos que um t√£o mau presente
+       De milho, de feij„o, trigo e cevada.
+       E nÛs sabemos que um t„o mau presente
             Para o seu dente
-       N√£o chega a nada! n√£o chega a nada!
-            Mas √© boa a inten√ß√£o:
-       N√≥s reservamos para si o gr√£o,
-       E para n√≥s a palha unicamente
+       N„o chega a nada! n„o chega a nada!
+            Mas È boa a intenÁ„o:
+       NÛs reservamos para si o gr„o,
+       E para nÛs a palha unicamente
             Dar ao senhor Prior
-       Miseria assim, √© vergonhoso at√©...
+       Miseria assim, È vergonhoso atÈ...
        Mas aceite este mimo sem valor...
-       Senhor Parocho aceite-o, por quem √©!...
-       E agora, senhor Parocho, a sua ben√ß√£o,
-            Porque os onagros pens√£o
+       Senhor Parocho aceite-o, por quem È!...
+       E agora, senhor Parocho, a sua benÁ„o,
+            Porque os onagros pens„o
        Que ella salva das chammas infernaes;
             E em paga de tal dom, de tal carinho
-       Rogaremos ao c√©o pelo focinho
+       Rogaremos ao cÈo pelo focinho
        Lhe permitta engordar cada vez mais.
        Boa pinga e bom porco alentejano,
        E sempre nedio e alegre e satisfeito!...
-       Senhor Parocho, viva!... at√© p'r√≥ anno...
-       At√© p'r√≥ anno... e muito bom proveito!...
+       Senhor Parocho, viva!... atÈ p'rÛ anno...
+       AtÈ p'rÛ anno... e muito bom proveito!...
 
-O abade, vendo aquella espandosa ova√ß√£o,
-Cresceu como uma torre e inchou como um bal√£o.
+O abade, vendo aquella espandosa ovaÁ„o,
+Cresceu como uma torre e inchou como um bal„o.
 E ao mirar-se com garbo heroico e triumphal
 Surprehendeu-se de annel e cruz episcopal!
 E, impando de vangloria e atonito de espanto,
 Inchou mais meia legua e cresceu outro tanto!
 Contemplou-se depois com magestade ufana,
-E, oh c√©os! viu-se vestido em porpura romana!
-Cardeal! cardeal! cardeal! que honra, que posi√ß√£o!
-E subiu de tal forma ovante na amplid√£o
+E, oh cÈos! viu-se vestido em porpura romana!
+Cardeal! cardeal! cardeal! que honra, que posiÁ„o!
+E subiu de tal forma ovante na amplid„o
 Que o Himalaia, envolto em suas neves eternas,
-Disse a um condor:--Vai ver l√° cima aquellas pernas;--
---Cardeal! N√£o ser√° sonho ou magico feiti√ßo?!
-Eu Cardeal!!...--Apertou entre as m√£os o tonti√ßo,
+Disse a um condor:--Vai ver l· cima aquellas pernas;--
+--Cardeal! N„o ser· sonho ou magico feitiÁo?!
+Eu Cardeal!!...--Apertou entre as m„os o tontiÁo,
 E em logar d'um chapeu tingido com zurrapas,
 Encontrou o diadema olimpico dos papas!
 Papa!... E de tal maneira ergueu a fronte sua
 Que com ella partiu os chavelhos da lua!
-Em torno do nariz e √° volta das orelhas
+Em torno do nariz e · volta das orelhas
 Zumbiam-lhe tremendo os astros, como abelhas.
-Ser papa! ser rei do c√©o e o rei do mundo!
-E l√° do alto do abysmo esplendido e profundo
-Lan√ßou o mar e √° terra a sua ben√ß√£o sagrada.
+Ser papa! ser rei do cÈo e o rei do mundo!
+E l· do alto do abysmo esplendido e profundo
+LanÁou o mar e · terra a sua benÁ„o sagrada.
 E o mar mudou-se em vinho e a terra n'uma empada!
-E o colosso voraz, de v√™r coisas t√£o bellas,
-Debru√ßou-se, agachou-se, escancarou as guelhas,
+E o colosso voraz, de vÍr coisas t„o bellas,
+DebruÁou-se, agachou-se, escancarou as guelhas,
 E enguliu d'uma vez o assombroso follar,
 Bebendo-lhe por cima o vinho todo--o mar!
 Depois empanturrado, inflado, um pouco torto,
 Atirou-se a dormir mais pesado que um morto,
-Arrotando trov√µes..............................
+Arrotando trovıes..............................
 ...............................................
 E em quanto o abade ronca e grunhe sem cuidados
 Dobram plangentemente os sinos afinados,
-Cortam o espa√ßo os ais do estertor derradeiro,
-E entre as germina√ß√µes frescas do bom lameiro
-A √®goa abacial c'oa respectiva cria,
+Cortam o espaÁo os ais do estertor derradeiro,
+E entre as germinaÁıes frescas do bom lameiro
+A Ëgoa abacial c'oa respectiva cria,
 (A quem, se fosse d'elle, o abade chamaria
 Afilhada) lanzuda opipara, pacata,
-Livre, sem albard√£o, sem freio e sem arreata.
+Livre, sem albard„o, sem freio e sem arreata.
 Na monastica paz dos ventres satisfeitos
-Com luserna vi√ßosa e tenra at√© os peitos
+Com luserna viÁosa e tenra atÈ os peitos
 Envolta no esplendor fulvo do sol poente,
 Mansa, fitando o azul,--rincha orthodoxamente!
 
@@ -3630,62 +3630,62 @@ Deus muitissimo padre e muito pouco eterno,
 Teve uma ideia suja, uma ideia infeliz:
 Poz-se a esgaravatar co-o dedo no nariz,
 Tirou d'esse nariz o que um nariz encerra,
-Deitou depois isso c√° baixo, e fez a terra.
-Em seguida tirou da cabe√ßa o chapeu,
-Pol-o em cima da terra, e z√°s, formou o c√©o.
-Mas o chap√©u azul do Padre Omnipotente
+Deitou depois isso c· baixo, e fez a terra.
+Em seguida tirou da cabeÁa o chapeu,
+Pol-o em cima da terra, e z·s, formou o cÈo.
+Mas o chapÈu azul do Padre Omnipotente
 Era um velho penante, um penante indecente,
-J√° muito carcomido e muito esburacado,
-E eis ahi porque o c√©o ficou todo estrellado.
+J· muito carcomido e muito esburacado,
+E eis ahi porque o cÈo ficou todo estrellado.
 Depois o Creador (honra lhe seja feita!)
 Achou a sua obra uma obra imperfeita,
-Mundo serrafa√ßal, globo de fancaria,
+Mundo serrafaÁal, globo de fancaria,
 Que nem um aprendiz de Deus assignaria,
 E furioso escarrou no mundo sublumar,
 E a saliva ao cahir na terra fez o mar.
 Depois, para que a Egreja arranjasse entre os povos
 Com bulas da cruzada alguns cruzados novos,
 E Tartufo podesse inda d'essa maneira
-Jejuar, sem comer de carne √° sexta feira,
-Jehovah fez ent√£o para a cren√ßa devota
+Jejuar, sem comer de carne · sexta feira,
+Jehovah fez ent„o para a crenÁa devota
 A enguia, o bacalhau e a pescada marmota.
-Em seguida metteu a m√£o pelo sovaco,
+Em seguida metteu a m„o pelo sovaco,
 Mais profundo e maior que a caverna de Caco,
-E arrancando de l√° parasitas extranhos,
+E arrancando de l· parasitas extranhos,
 De toda a qualidade e todos os tamanhos
-Lan√ßou sobre a terra, e d'este modo insonte
+LanÁou sobre a terra, e d'este modo insonte
 Fez elle o megatheiro e fez o mastodonte.
-Depois, para provar em summa quanto p√≥de
+Depois, para provar em summa quanto pÛde
 Um Creador, tirou dois pellos do bigode,
-Cortou-os em milh√µes e milh√µes de bocados,
+Cortou-os em milhıes e milhıes de bocados,
 (Obra em que elle estragou quatrocentos machados)
 Dispersou-os no globo, e foi d'esta maneira
 Que nasceu o carvalho o platano e a palmeira.
 ..................................................
 
 Por fim com barro vil, assombro da olaria!
-O que √© que imaginaes que o Creador faria?
-Um pote? n√£o; um bicho, um bipede com rabo,
-A que uns chamam Ad√£o e outros Sim√£o. Ao cabo
-O pobre Creador sentindo-se j√° fraco.
+O que È que imaginaes que o Creador faria?
+Um pote? n„o; um bicho, um bipede com rabo,
+A que uns chamam Ad„o e outros Sim„o. Ao cabo
+O pobre Creador sentindo-se j· fraco.
 (Coitado, tinha feito o universo e um macaco
 Em seis dias!) pensou:--Deixem-nos de asneiras.
-Trago j√° uma d√¥r horrivel nas cadeiras,
-Fastio... Isto d√° cabo at√© d'uma pessoa...
+Trago j· uma dÙr horrivel nas cadeiras,
+Fastio... Isto d· cabo atÈ d'uma pessoa...
 Nada, toca a dormir uma sonata boa!--
-Descal√ßou-se, tirou os oc'los e chin√≥,
-Pitadeou com delicia alguns trov√µes em p√≥,
+DescalÁou-se, tirou os oc'los e chinÛ,
+Pitadeou com delicia alguns trovıes em pÛ,
 Abriu, para cahir n'um somno repentino,
 O alfarrabio chamado o livro do Destino.
 E enflanelando bem a carcassa caduca,
-Com o barrete azul celeste at√© √° nuca,
+Com o barrete azul celeste atÈ · nuca,
 Fez ortodoxamente o seu signal da cruz
-Como qualquer de n√≥s, tossiu, soprou √° luz,
-E de pan√ßa p'ro ar, n'um repoiso bemdicto,
+Como qualquer de nÛs, tossiu, soprou · luz,
+E de panÁa p'ro ar, n'um repoiso bemdicto,
 Espojou-se, estirou-se ao longe do infinito
-N'um immenso enxerg√£o de nevoa e luz doirada.
+N'um immenso enxerg„o de nevoa e luz doirada.
 
-E at√© hoje, que eu saiba, inda n√£o fez mais nada.
+E atÈ hoje, que eu saiba, inda n„o fez mais nada.
 
 
 
@@ -3697,7 +3697,7 @@ I
 
 
 O vigario de Deus na terra disse um dia
-      Aos batalh√µes do clero:
+      Aos batalhıes do clero:
 Tragam-me o manto d'oiro e seda que cobria
       As espaduas de Nero.
 
@@ -3706,32 +3706,32 @@ E trouxeram-lhe o manto, um manto do brocado,
 Com escarros de lodo obsceno, inda empastado
       No sangue de Agripina.
 
-E o papa continuou: ¬´Preciso armar o bra√ßo,
+E o papa continuou: ´Preciso armar o braÁo,
       Para dictar as leis;
-Fabriquem-me uma espada enorme com o a√ßo
-      Das espadas dos r√©is.¬ª
+Fabriquem-me uma espada enorme com o aÁo
+      Das espadas dos rÈis.ª
 
 E trouxeram-lhe o gladio. O papa ficou mudo,
       N'um assombro d'espectro.
-De subito exclamou: ¬´Ainda n√£o √© tudo;
-      Tragam-me agora um sceptro!¬ª
+De subito exclamou: ´Ainda n„o È tudo;
+      Tragam-me agora um sceptro!ª
 
 Trouxeram-lh'o. E depois d'um silencio profundo
-      Rugiu como um le√£o:
-¬´Tragam-me agora o mundo!¬ª E pozeram-lhe o mundo
-      Na palma da sua m√£o.
+      Rugiu como um le„o:
+´Tragam-me agora o mundo!ª E pozeram-lhe o mundo
+      Na palma da sua m„o.
 
 E sopesando o globo e arrancando o montante
       Enorme da bainha,
-Bradou pela amplid√£o: ¬´Sou Jupiter-tonante!
-      Humanidade, √©s minha!
+Bradou pela amplid„o: ´Sou Jupiter-tonante!
+      Humanidade, Ès minha!
 
-Eu tenho o gladio e o sceptro, a excomunh√£o e a bulla;
-      Sou o Deus, sou a F√©.
+Eu tenho o gladio e o sceptro, a excomunh„o e a bulla;
+      Sou o Deus, sou a FÈ.
 Miseravel reptil, Humanidade, oscula
-      A ponta do meu p√©!¬ª
+      A ponta do meu pÈ!ª
 
-E sentando-se sobre o cora√ß√£o da Italia
+E sentando-se sobre o coraÁ„o da Italia
       O satrapa romano
 Estendeu desdenhoso o bico da sandalia
       Para o genero humano!
@@ -3740,70 +3740,70 @@ Estendeu desdenhoso o bico da sandalia
 II
 
 
-  N'esse instante um fantasma entrou nos regios pa√ßos.
+  N'esse instante um fantasma entrou nos regios paÁos.
         Sereno e formidavel.
-  Encarou fixamente o rei, cruzando os bra√ßos
+  Encarou fixamente o rei, cruzando os braÁos
         No peito inabalavel,
 
   E trovejou, deixando o papa sacrosanto
         Livido, espavorido:
-  ¬´Sou a Fraternidade. Entrega-me esse manto
-        E essa espada bandido!¬ª
+  ´Sou a Fraternidade. Entrega-me esse manto
+        E essa espada bandido!ª
 
-  Despeda√ßou-lhe o gladio e a tunica purpurea,
+  DespedaÁou-lhe o gladio e a tunica purpurea,
         E sahiu triumfal.
   E o papa horrorisado, espumando de furia,
         Uivou como um chacal:
 
-  ¬´N'esta invencivel m√£o d'abutre encarquilhada
+  ´N'esta invencivel m„o d'abutre encarquilhada
         Guarda o melhor thesoiro.
   Ficou-me ainda o sceptro. Era de ferro a espada...
-        Prefiro o sceptro... √© d'oiro!¬ª
+        Prefiro o sceptro... È d'oiro!ª
 
-  E o papa viu ent√£o, oh tragica anciedade
+  E o papa viu ent„o, oh tragica anciedade
         Um vulto sobrehumano
-  Avan√ßar e bramir:--O meu nome √© Egualdade;
-        D√°-me o sceptro, tyranno!--
+  AvanÁar e bramir:--O meu nome È Egualdade;
+        D·-me o sceptro, tyranno!--
 
   Quebrou o sceptro e foi-se. E o papa, como um lobo
         Sombrio respondeu:
-  ¬´Na minha forte m√£o ainda sustento o globo...
-        Ainda o globo √© meu!...¬ª
+  ´Na minha forte m„o ainda sustento o globo...
+        Ainda o globo È meu!...ª
 
   E desatou a rir... um riso sanguinario
         De panthera. Depois
 Surgiu novo fantasma herculeo, extraordinario,
         Maior que os outros dois.
 
-  E como o rebentar potente d'um trov√£o
+  E como o rebentar potente d'um trov„o
         Que abala a immensidade
-  O fantasma rugiu:--N√£o me conheces, n√£o!
+  O fantasma rugiu:--N„o me conheces, n„o!
         Chamo-me a Liberdade!
 
-  ¬´Venho buscar o mundo. Entrega-o, salteador!
-        √â meu o globo, harpia!¬ª
+  ´Venho buscar o mundo. Entrega-o, salteador!
+        … meu o globo, harpia!ª
   E arrancou-lh'o. Soltando um grito, no estertor
         Convulso da agonia,
 
   Tombou por terra o papa. E repentinamente
         Viu surgir-lhe do lado
   Um esqueleto a rir, todo fosforecente,
-        Podre, desengon√ßado,
+        Podre, desengonÁado,
 
-  Que he disse:--Morreu, √≥ Papa, o nosso imperio,
+  Que he disse:--Morreu, Û Papa, o nosso imperio,
         Morreu o mundo antigo.
   Tu chamas-te Alexandre, eu chamo-me Tiberio...
         Vem-te deitar commigo!...
 
-  E como um ca√ßador fantastico que leva,
+  E como um caÁador fantastico que leva,
         Sangrenta e moribunda,
   Uma hyena a gemer, de rastos, pela treva
         N'uma noite profunda,
 
   O esqueleto levou para a crypta sombria
-        O cadaver do irm√£o,
+        O cadaver do irm„o,
   Indo dormir os dois na eterna mancebia
-        Da mesma podrid√£o!
+        Da mesma podrid„o!
 
 
 
@@ -3812,17 +3812,17 @@ Post scriptum
 
 
 Quando eu morrer abram-me o peito
-E d'esta jaula, onde houve um le√£o,
+E d'esta jaula, onde houve um le„o,
 Tirem, o carcere era estreito,
-Meu velho e altivo cora√ß√£o.
+Meu velho e altivo coraÁ„o.
 
-Depois sem d√≥ e sem respeito,
-Sem um murmurio de ora√ß√£o,
+Depois sem dÛ e sem respeito,
+Sem um murmurio de oraÁ„o,
 Lancem-no assim, vai satisfeito,
-√Å valla obscura, √° podrid√£o,
+¡ valla obscura, · podrid„o,
 
-Para que durma e se desfa√ßa
-No lodo amargo da Desgra√ßa,
+Para que durma e se desfaÁa
+No lodo amargo da DesgraÁa,
 Por quem bateu continuamente,
 
 Como um tambor que entre a metralha
@@ -3835,14 +3835,14 @@ Rouco, furioso, ancioso, ardente!
 Nota
 
 
-Em seguida √° _morte de D. Jo√£o_ comecei a escrever um novo poema--_A
-Morte do Padre Eterno_,[1] cujo plano completo, at√© aos minimos
+Em seguida · _morte de D. Jo„o_ comecei a escrever um novo poema--_A
+Morte do Padre Eterno_,[1] cujo plano completo, atÈ aos minimos
 detalhes, estava de ha muito elaborado no meu espirito.
 
 Mas em torno d'esta ideia principal germinou um grande numero de ideias
 acessorias, d'onde nasceu um livro novo _A Velhice do Padre Eterno_,
-collec√ß√£o de 50 poesias, que s√£o 50 balas que, partindo de diversos
-pontos, v√£o todas bater no mesmo alvo.
+collecÁ„o de 50 poesias, que s„o 50 balas que, partindo de diversos
+pontos, v„o todas bater no mesmo alvo.
 
 Em 1879 estava adiantada a _Morte do Padre Eterno_ e quasi concluida a
 _Velhice_.
@@ -3850,42 +3850,42 @@ _Velhice_.
 Uma enfermidade de quatro annos successivos interrompeu a obra.
 
 Volvendo a saude, voltou o trabalho. O trabalho nasce espontaneamente da
-alegria, como um fructo nasce espontaneamente d'uma fl√¥r.
+alegria, como um fructo nasce espontaneamente d'uma flÙr.
 
-Publico hoje o 1^o volume da _Velhice do Padre Eterno_. O 2.^o, j√° na
-imprensa, sahir√° a luz com brevidade. No 1.^o volume predomina a satyra,
-no segundo a epopeia. Os dois completam-se. A critica, s√≥ reunidos, os
-poder√° julgar inteiramente.
+Publico hoje o 1^o volume da _Velhice do Padre Eterno_. O 2.^o, j· na
+imprensa, sahir· a luz com brevidade. No 1.^o volume predomina a satyra,
+no segundo a epopeia. Os dois completam-se. A critica, sÛ reunidos, os
+poder· julgar inteiramente.
 
-Creio, se a saude me n√£o faltar, que a _Morte do Padre Eterno_ dentro de
-um anno estar√° impressa.
+Creio, se a saude me n„o faltar, que a _Morte do Padre Eterno_ dentro de
+um anno estar· impressa.
 
-E depois de morto D. Jo√£o e morto Jehovah, resta-me resuscitar Jesus e
+E depois de morto D. Jo„o e morto Jehovah, resta-me resuscitar Jesus e
 desagrilhoar Prometheu.
 
-Esse ultimo poema, o _Prometheu Libertado_, ser√° o fecho da trilogia, o
+Esse ultimo poema, o _Prometheu Libertado_, ser· o fecho da trilogia, o
 complemento da minha obra.
 
-Terei os annos de vida necessarios para escrever esse livro? N√£o sei; no
+Terei os annos de vida necessarios para escrever esse livro? N„o sei; no
 entanto rogo a Deus do fundo da minha alma que me deixe terminar com um
-hymno de esperan√ßa e de harmonia uma batalha de coleras e de sarcasmos.
+hymno de esperanÁa e de harmonia uma batalha de coleras e de sarcasmos.
 
-O plano est√° concebido ha muito. A ideia √© simples e creio que bella. A
-primeira parte √© a epopeia do Trabalho, a glorifica√ß√£o de Prometheu pela
+O plano est· concebido ha muito. A ideia È simples e creio que bella. A
+primeira parte È a epopeia do Trabalho, a glorificaÁ„o de Prometheu pela
 humanidade e pela natureza.
 
 Na segunda parte de Jesus Christo, levantando-se do seu tumulo, vem
 fulminar o abutre e desacorrentar Prometheu.
 
-O heroe √© libertado pelo santo. A cren√ßa e a sciencia, a ras√£o e a f√©,
+O heroe È libertado pelo santo. A crenÁa e a sciencia, a ras„o e a fÈ,
 depois d'um combate do milhares de seculos reunem-se finalmente n'uma
-paz luminosa, n'uma communh√£o indestructivel.
+paz luminosa, n'uma communh„o indestructivel.
 
 A liberdade de Prometheu significa o desaparecimento de todas as
-tyranias, e a resurrei√ß√£o de Jesus a morte de todos os dogmas. Um √© a
-justi√ßa humana, e outro a aspira√ß√£o immortal para uma justi√ßa absoluta.
+tyranias, e a resurreiÁ„o de Jesus a morte de todos os dogmas. Um È a
+justiÁa humana, e outro a aspiraÁ„o immortal para uma justiÁa absoluta.
 O Caucaso e o Golgotha ficam sendo para a humanidade os dois grandes
-altares da religi√£o eterna Futuro!
+altares da religi„o eterna Futuro!
 
 Julho--1885.
 
@@ -3901,38 +3901,38 @@ Aqui encontram-se listados todos os erros encontrados e corrigidos:
 
 
   +---------+--------------------+--------------------+
-  |         |     Original       |     Correc√ß√£o      |
+  |         |     Original       |     CorrecÁ„o      |
   +---------+--------------------+--------------------+
-  |#p√°g.  26| da ladr√£o          | do ladr√£o          |
-  |#p√°g.  33| Atrajectoria       | A trajectoria      |
-  |#p√°g.  34| nolte              | noite              |
-  |#p√°g.  59| Daz                | Das                |
-  |#p√°g.  67| haptisados         | haptisados         |
-  |#p√°g.  69| flu'do             | fluido             |
-  |#p√°g.  86| rollar n√£o ch√£o    | rollar no ch√£o     |
-  |#p√°g.  90| Acharam-se         | Acabaram-se        |
-  |#p√°g. 112| babojar-lhe √° anel | babojar-lhe o anel |
-  |#p√°g. 142| feitia             | feita              |
-  |#p√°g. 146| sandalla           | sandalia           |
-  |#p√°g. 147| encar              | encarquilhada      |
-  |#p√°g. 150| espontaneanente    | espontaneamente    |
+  |#p·g.  26| da ladr„o          | do ladr„o          |
+  |#p·g.  33| Atrajectoria       | A trajectoria      |
+  |#p·g.  34| nolte              | noite              |
+  |#p·g.  59| Daz                | Das                |
+  |#p·g.  67| haptisados         | haptisados         |
+  |#p·g.  69| flu'do             | fluido             |
+  |#p·g.  86| rollar n„o ch„o    | rollar no ch„o     |
+  |#p·g.  90| Acharam-se         | Acabaram-se        |
+  |#p·g. 112| babojar-lhe · anel | babojar-lhe o anel |
+  |#p·g. 142| feitia             | feita              |
+  |#p·g. 146| sandalla           | sandalia           |
+  |#p·g. 147| encar              | encarquilhada      |
+  |#p·g. 150| espontaneanente    | espontaneamente    |
   +---------+--------------------+--------------------+
 
 
 
-A indica√ß√£o da primeira sec√ß√£o dos poemas "_Como se faz um monstro_" e
-"_Fantasmas_" foi adicionada, uma vez que existia refer√™ncia a uma
-segunda sec√ß√£o.
+A indicaÁ„o da primeira secÁ„o dos poemas "_Como se faz um monstro_" e
+"_Fantasmas_" foi adicionada, uma vez que existia referÍncia a uma
+segunda secÁ„o.
 
 
-Foram efectuadas correc√ß√µes no √≠ndice, onde os t√≠tulos de poemas se
-encontravam omissos ou trocados e onde as p√°ginas indicadas n√£o estavam
+Foram efectuadas correcÁıes no Ìndice, onde os tÌtulos de poemas se
+encontravam omissos ou trocados e onde as p·ginas indicadas n„o estavam
 associadas correctamente.
 
 
 Todos os _n_ e _u_ trocados, encontrados no texto, foram rectificados.
 
-Os h√≠fens "supostamente" em falta n√£o foram adicionados.
+Os hÌfens "supostamente" em falta n„o foram adicionados.
 
 
 

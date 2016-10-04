@@ -1,5 +1,5 @@
 The Project Gutenberg EBook of As Farpas (Junho a Julho 1882)
-by E√ßa de Queiroz and Ramalho Ortig√£o
+by EÁa de Queiroz and Ramalho Ortig„o
 
 This eBook is for the use of anyone anywhere at no cost and with
 almost no restrictions whatsoever.  You may copy it, give it away or
@@ -9,7 +9,7 @@ with this eBook or online at www.gutenberg.net
 
 Title: As Farpas (Junho a Julho 1882)
 
-Author: E√ßa de Queiroz and Ramalho Ortig√£o
+Author: EÁa de Queiroz and Ramalho Ortig„o
 
 Release Date: October 6, 2004 [EBook #13630]
 
@@ -22,7 +22,7 @@ Character set encoding: ISO-8859-1
 
 
 
-Produced by Cl√°udia Ribeiro, Larry Bergey and the Online Distributed
+Produced by Cl·udia Ribeiro, Larry Bergey and the Online Distributed
 Proofreading Team. Page images were kindly contributed by Biblioteca
 Nacional de Lisboa.
 
@@ -30,9 +30,9 @@ Nacional de Lisboa.
 
 
 
-[Illustration: E√áA DE QUEIROZ--RAMALHO ORTIG√ÉO--AS FARPAS]
+[Illustration: E«A DE QUEIROZ--RAMALHO ORTIG√O--AS FARPAS]
 
-E√áA DE QUEIROZ--RAMALHO ORTIG√ÉO
+E«A DE QUEIROZ--RAMALHO ORTIG√O
 
 AS FARPAS
 
@@ -40,17 +40,17 @@ _Chronica Mensal_
 
 DA POLITICA, DAS LETRAS E DOS COSTUMES
 
-QUARTA SERIE N.¬∫ 1
+QUARTA SERIE N.∫ 1
 
 JUNHO A JULHO 1882
 
 
 
 
-Ironia, verdadeira liberdade! √âs tu que me livras da ambi√ß√£o de poder,
-da escravid√£o dos partidos da venera√ß√£o da rotina, do pedantismo das
-grandes personagens, das mystifica√ß√µes da politica, do fanatismo dos
-reformadores, da supersti√ß√£o d'este grande universo, e da adora√ß√£o de
+Ironia, verdadeira liberdade! …s tu que me livras da ambiÁ„o de poder,
+da escravid„o dos partidos da veneraÁ„o da rotina, do pedantismo das
+grandes personagens, das mystificaÁıes da politica, do fanatismo dos
+reformadores, da superstiÁ„o d'este grande universo, e da adoraÁ„o de
 mim mesmo.
 
 P.J. PROUDHON
@@ -60,67 +60,67 @@ P.J. PROUDHON
 
 SUMMARIO
 
-A patria portuguesa e os quatro milh√µes d'egoismos de que ella
-consta--Presente estado das ideias--A religi√£o--A politica--A moral--A
-arte--Sentido historico do centenario de Cam√µes, sua influencia e seus
-resultados--Dois annos depois--A celebra√ß√£o do centenario do Marquez de
+A patria portuguesa e os quatro milhıes d'egoismos de que ella
+consta--Presente estado das ideias--A religi„o--A politica--A moral--A
+arte--Sentido historico do centenario de Camıes, sua influencia e seus
+resultados--Dois annos depois--A celebraÁ„o do centenario do Marquez de
 Pombal considerada como symptoma psychologico--Do estadista em geral e
-do Marquez em particular--Addusem-se raz√µes e testemunhos insuspeitos
-para o fim de provar que o estadista √© um agente secundario entre os
-acceleradores do progresso, e que o Marquez de Pombal √© um individuo
+do Marquez em particular--Addusem-se razıes e testemunhos insuspeitos
+para o fim de provar que o estadista È um agente secundario entre os
+acceleradores do progresso, e que o Marquez de Pombal È um individuo
 secundario na classe dos estadistas--Buckle, Guizot, Bastiat, Begehot,
 Herbert Spencer, Wechniakoff, Auguste Comte, Michel Chevalier, e
-outros--Demonstra-se que o Marquez de Pombal exprime a nega√ß√£o de tudo
-aquillo que a liberdade affirma e que a democracia proclama--Coer√ß√£o da
-agricultura, coer√ß√£o da industria, coer√ß√£o do commercio, coer√ß√£o dos
-direitos civis, coer√ß√£o do pensamento--Arruamento geral de todas as
-actividades nacionais pelo systema quadrangular da reedifica√ß√£o da
-Baixa.--Secularisa√ß√£o do jesuitismo na pess√¥a do mesmo Marquez--A
-estatua de Sebasti√£o e o monumento do Terreiro do Pa√ßo--Parallelo do
+outros--Demonstra-se que o Marquez de Pombal exprime a negaÁ„o de tudo
+aquillo que a liberdade affirma e que a democracia proclama--CoerÁ„o da
+agricultura, coerÁ„o da industria, coerÁ„o do commercio, coerÁ„o dos
+direitos civis, coerÁ„o do pensamento--Arruamento geral de todas as
+actividades nacionais pelo systema quadrangular da reedificaÁ„o da
+Baixa.--SecularisaÁ„o do jesuitismo na pessÙa do mesmo Marquez--A
+estatua de Sebasti„o e o monumento do Terreiro do PaÁo--Parallelo do
 cavallo e do cavalleiro--Pede-se o esquecimento para um e uma charrua
 para o outro.
 
        *       *       *       *       *
 
-Asociedade portugueza n'este derradeiro quarteir√£o do seculo pode em
+Asociedade portugueza n'este derradeiro quarteir„o do seculo pode em
 rigor definir-se do seguinte modo:--Ajuntamento fortuito de quatro
-milh√µes d'egoismos explorando-se mutuamente e aborrecendo-se em commum.
+milhıes d'egoismos explorando-se mutuamente e aborrecendo-se em commum.
 
-Chamar patria √° por√ß√£o de territorio em que uma tal aggrega√ß√£o se
+Chamar patria · porÁ„o de territorio em que uma tal aggregaÁ„o se
 encontra seria abusar reprehensivelmente do direito que cada um tem de
-ser metaphorico. O espa√ßo circumscripto pelo cord√£o aduaneiro, dentro do
+ser metaphorico. O espaÁo circumscripto pelo cord„o aduaneiro, dentro do
 qual sujeitos acompanhados das suas chapelleiras e dos seus embrulhos ou
-tomaram j√° assento ou furam aos cotovel√µes uns pelo meio dos outros para
-arranjar logar nas bancadas, pode-se chamar um _omnibus_--e √©
-exactamente o que √©--mas n√£o se pode chamar uma patria. A patria n√£o √© o
-sitio em que nos colloca o acaso do nascimento, √° m√£o direita ou √° m√£o
+tomaram j· assento ou furam aos cotovelıes uns pelo meio dos outros para
+arranjar logar nas bancadas, pode-se chamar um _omnibus_--e È
+exactamente o que È--mas n„o se pode chamar uma patria. A patria n„o È o
+sitio em que nos colloca o acaso do nascimento, · m„o direita ou · m„o
 esquerda de um guarda da alfandega, mas sim o conjunto humano a que nos
-liga solidariamente a convic√ß√£o de um pensamento e de um destino commum.
+liga solidariamente a convicÁ„o de um pensamento e de um destino commum.
 
-J√° um sabio o disse: _Ubi veritas ibi patria._ A patria n√£o √© o solo, √©
+J· um sabio o disse: _Ubi veritas ibi patria._ A patria n„o È o solo, È
 a ideia.
 
        *       *       *       *       *
 
-Para que haja uma patria portugueza √© preciso que exista uma ideia
-portugueza, vinculo da cohes√£o intellectual e da cohes√£o moral que
+Para que haja uma patria portugueza È preciso que exista uma ideia
+portugueza, vinculo da cohes„o intellectual e da cohes„o moral que
 constitue a nacionalidade de um povo.
 
 Sabem dizer-nos se viram para ahi esta ideia?...
 
-N√≥s temol-a procurado de aventura em aventura, de jornada em jornada,
-n'uma peregrina√ß√£o de vinte annos atravez d'esta sociedade, como
+NÛs temol-a procurado de aventura em aventura, de jornada em jornada,
+n'uma peregrinaÁ„o de vinte annos atravez d'esta sociedade, como
 Ulysses, vagabundo atravez da Odyssea, em busca, do fumosinho tenue e
 amigo que adeje no horisonte por cima da primeira cabana d'Ithaca.
 
-As manifesta√ß√µes culminantes da mentalidade collectiva de um povo s√£o: a
-Religi√£o, a Politica, a Moral, a Arte. Vejamos rapidamente se em alguma
-d'estas espheras da nossa elabora√ß√£o mental se revela a unidade de
-pensamento por meio da qual se affirma a existencia de uma na√ß√£o.
+As manifestaÁıes culminantes da mentalidade collectiva de um povo s„o: a
+Religi„o, a Politica, a Moral, a Arte. Vejamos rapidamente se em alguma
+d'estas espheras da nossa elaboraÁ„o mental se revela a unidade de
+pensamento por meio da qual se affirma a existencia de uma naÁ„o.
 
        *       *       *       *       *
 
-Em religi√£o os cidad√£os portuguezes dividem-se, em uma infinidade de
+Em religi„o os cidad„os portuguezes dividem-se, em uma infinidade de
 categorias diversas.
 
 Temos em primeiro logar os livres pensadores, que nunca pensaram, coisa
@@ -128,216 +128,216 @@ alguma sobre este ponto, apesar da liberdade com que se dotaram para
 esse fim.
 
 Temos depois os indifferentes, que se subdividem pelos diversos graus de
-medo que t√™em ao Incognoscivel sempre que ha epidemias ou tremores de
+medo que tÍem ao Incognoscivel sempre que ha epidemias ou tremores de
 terra.
 
 Seguem-se os deistas, que acceitam Deus como entidade abstracta pela
 qual se explica a ordem do cosmos, no qual Deus figura como maquinista,
-e egualmente se explicam as justi√ßas da historia, nas quaes o mesmo Deus
+e egualmente se explicam as justiÁas da historia, nas quaes o mesmo Deus
 se manifesta sob a forma de dedo,--o bem conbecido _dedo de Deus_.
 
-Veem depois os christ√£os, e por ultimo os catholicos. Estes separam-se
-uns dos outros por tantas diferen√ßas de opini√µes quantos s√£o os
-individuos agremiados na Igreja. Ha os que cr√™em na infalibidade do papa
-e os que n√£o cr√™em em tal infalibilidade; os que v√£o √° missa e os que
-n√£o v√£o √° missa; os que se confessam de tudo, os que se n√£o confessam
-sen√£o de certas coisas, e os que de todo em todo se n√£o confessam.
+Veem depois os christ„os, e por ultimo os catholicos. Estes separam-se
+uns dos outros por tantas diferenÁas de opiniıes quantos s„o os
+individuos agremiados na Igreja. Ha os que crÍem na infalibidade do papa
+e os que n„o crÍem em tal infalibilidade; os que v„o · missa e os que
+n„o v„o · missa; os que se confessam de tudo, os que se n„o confessam
+sen„o de certas coisas, e os que de todo em todo se n„o confessam.
 
-Uns encabe√ßam a divindade no Senhor dos Passos da Gra√ßa e, com as suas
+Uns encabeÁam a divindade no Senhor dos Passos da GraÁa e, com as suas
 opas roxas e suas cabelleiras anediadas pela bandolina do culto no
 bairro oriental, olham com despeito para os devotos afrancesados de
-Nossa Senhora de La Salette, divindade de chic suspeito √°s devo√ß√µes da
+Nossa Senhora de La Salette, divindade de chic suspeito ·s devoÁıes da
 Baixa.
 
-Os escolhidos do alto clero, que se gargarejam em suas tribula√ß√µes com
-agua de Nossa Senhora de Lourdes, garantida verdardeiro Jo√£o Maria
+Os escolhidos do alto clero, que se gargarejam em suas tribulaÁıes com
+agua de Nossa Senhora de Lourdes, garantida verdardeiro Jo„o Maria
 Farina, da Gruta, sorriem de desdem pelos que ainda cuidam expurgar-se
-do peccado e clarificar-se para a protec√ß√£o divina com a velha agua
-benta de mendigo de porta de Igreja, prepara√ß√£o de Santo Ignacio, hoje
+do peccado e clarificar-se para a protecÁ„o divina com a velha agua
+benta de mendigo de porta de Igreja, preparaÁ„o de Santo Ignacio, hoje
 desprestigiada e choca.
 
-Aquelles proprios que s√£o por um mesmo e unico santo l√™em entre si
+Aquelles proprios que s„o por um mesmo e unico santo lÍem entre si
 dissidencias acrimoniosas de detalhe.
 
-N√≥s mesmos vimos ha trez annos, na volta da romagem de Nossa Senhora do
-Cabo, dois cirios, que vinham j√° de muito longe a rosnar,
+NÛs mesmos vimos ha trez annos, na volta da romagem de Nossa Senhora do
+Cabo, dois cirios, que vinham j· de muito longe a rosnar,
 engalfinharem-se a final um no outro ao chegar a Cacilhas. Foi uma coisa
 feroz. Os clerigos cessaram interinamente de tomar pitadas para se
 desancarem uns aos outros com as tochas e com os cabos das lanternas,
-desalmadamente. A Senhora, do alto do seu andor pousado no ch√£o, as m√£os
+desalmadamente. A Senhora, do alto do seu andor pousado no ch„o, as m„os
 crusadas no seio, assistia ao debate com uma neutralidade fervorosa e
 commovedora. As sobrepellizes e as capas d'asperges, que regressavam do
-arraial enodoadas de vinho, de chapadas de mel√£o e de areia vermelha,
-desfiavam-se pela fric√ß√£o das bordoadas; nas cabe√ßas quebradas atavam-se
-√° pressa len√ßos eclesiasticos; e no theatro d'esta devo√ß√£o ficou
-bastante sangue e muito rap√© derramado pelos sacerdotes.
+arraial enodoadas de vinho, de chapadas de mel„o e de areia vermelha,
+desfiavam-se pela fricÁ„o das bordoadas; nas cabeÁas quebradas atavam-se
+· pressa lenÁos eclesiasticos; e no theatro d'esta devoÁ„o ficou
+bastante sangue e muito rapÈ derramado pelos sacerdotes.
 
-Devemos mencionar ainda os philosophos espiritualistas, que em religi√£o
-cultivam a _duvida_ com o mesmo ard√¥r de vesania com que alguns
+Devemos mencionar ainda os philosophos espiritualistas, que em religi„o
+cultivam a _duvida_ com o mesmo ardÙr de vesania com que alguns
 hollandezes maniacos cultivaram em tempo a tulipa.
 
 A duvida d'estes philosophos versa sobre os diferentes feitios que pode
-tomar pelo infinito fora a coisa a que elles, √° for√ßa de n√£o saberem o
-que seja, deram o nome de _eterna ess√™ncia._
+tomar pelo infinito fora a coisa a que elles, · forÁa de n„o saberem o
+que seja, deram o nome de _eterna essÍncia._
 
-Enquanto a gente vae em cada manh√£ tratar da sua vida, esses individuos
-v√£o duvidar na solid√£o, ou seja nas trevas de um quarto escuro em seus
-domicilios, ou seja √° beira do oceano, chupados e amarellos como cidras,
-com os olhos esbugalhados para a banda do Bugio. √â at√© onde a ociosidade
+Enquanto a gente vae em cada manh„ tratar da sua vida, esses individuos
+v„o duvidar na solid„o, ou seja nas trevas de um quarto escuro em seus
+domicilios, ou seja · beira do oceano, chupados e amarellos como cidras,
+com os olhos esbugalhados para a banda do Bugio. … atÈ onde a ociosidade
 pode levar meia duzia de vadios sem mais que faser! Tivessem elles em
-que cuidar e n√£o haveria perigo que a _eterna ess√™ncia,_ o _increado_, o
-_absoluto_ e todas as mais queixas de cabe√ßa que os affligem
-continuassem a remoel-os. Officio para as costas, uma enx√≥ e um form√£o
-para as m√£os, com a obriga√ß√£o de ganhar oito tost√µes por dia para
-sustentar mulher e filhos, e ver√£o os philosophos como a cruel duvida se
-lhes desencasqueta que √© um gosto, e lhes sae pela cabe√ßa fora para a
+que cuidar e n„o haveria perigo que a _eterna essÍncia,_ o _increado_, o
+_absoluto_ e todas as mais queixas de cabeÁa que os affligem
+continuassem a remoel-os. Officio para as costas, uma enxÛ e um form„o
+para as m„os, com a obrigaÁ„o de ganhar oito tostıes por dia para
+sustentar mulher e filhos, e ver„o os philosophos como a cruel duvida se
+lhes desencasqueta que È um gosto, e lhes sae pela cabeÁa fora para a
 roupa suja com a primeira camisa que suarem a puxar pelo corpo para
-ganhar a vida, assim como at√© aqui teem puxado peio juizo para dar cabo
+ganhar a vida, assim como atÈ aqui teem puxado peio juizo para dar cabo
 d'ella.
 
-Em conclus√£o: ou seja como ponto de controversia, como motivo de briga
-ou como assumpto de teima, a religi√£o em Portugal √© um elemento de
-desuni√£o, que n√£o s√≥ perturba as rela√ß√µes sociaes mas destroe tambem
-muitas vezes a allian√ßa da familia.
+Em conclus„o: ou seja como ponto de controversia, como motivo de briga
+ou como assumpto de teima, a religi„o em Portugal È um elemento de
+desuni„o, que n„o sÛ perturba as relaÁıes sociaes mas destroe tambem
+muitas vezes a allianÁa da familia.
 
        *       *       *       *       *
 
-Passemos √° politica.
+Passemos · politica.
 
-N'este campo n√£o ha, ideia propriamente nacional,--√© evidente.
+N'este campo n„o ha, ideia propriamente nacional,--È evidente.
 
-Perdendo a pouco e pouco a consciencia da sua tradi√ß√£o historica,
-Portugal, politicamente, n√£o tem hoje papel na civilisa√ß√£o. Est√°
-desempregado. Figura no congresso das na√ß√µes europeias como um paiz sem
-modo de vida. Perante o progresso n√£o tem profiss√£o. A miss√£o que elle
-desempenhou na Renascen√ßa pela obra magnifica dos seus sabios, dos seus
+Perdendo a pouco e pouco a consciencia da sua tradiÁ„o historica,
+Portugal, politicamente, n„o tem hoje papel na civilisaÁ„o. Est·
+desempregado. Figura no congresso das naÁıes europeias como um paiz sem
+modo de vida. Perante o progresso n„o tem profiss„o. A miss„o que elle
+desempenhou na RenascenÁa pela obra magnifica dos seus sabios, dos seus
 navegadores, dos seus commerciantes e dos seus artistas, as excellenles
-condi√ß√µes da sua situa√ß√£o geographica e a paz interior de que tem gosado
+condiÁıes da sua situaÁ„o geographica e a paz interior de que tem gosado
 emquanto a Hispanha se dilacera a si mesma nas eternas lutas
-intermitentes de desaggrega√ß√£o e de unifica√ß√£o das suas provincias,
+intermitentes de desaggregaÁ„o e de unificaÁ„o das suas provincias,
 davam a Portugal o direito e o dever de assumir n'este seculo a
-preponderancia hegemonica dos estados peninsulares, a direc√ß√£o
-espiritual da civilisa√ß√£o iberica. Em vez d'isso Portugal descansa
+preponderancia hegemonica dos estados peninsulares, a direcÁ„o
+espiritual da civilisaÁ„o iberica. Em vez d'isso Portugal descansa
 desde o seculo XVI sobre os monumentos immortaes da sua passada energia
-e acha-se no movimento moderno da ra√ßa latina como uma nacionalidade com
-licen√ßa illimitada para tomar ares. Os seus filhos mais intelligenles e
+e acha-se no movimento moderno da raÁa latina como uma nacionalidade com
+licenÁa illimitada para tomar ares. Os seus filhos mais intelligenles e
 mais fortes, uns perseguidos, outros despresados, abandonaram-o aos
-reis, aos estadistas, aos padres, aos persevejos, √°s moscas, e foram uns
-para os Paizes Baixos fundar e enriquecer a Hollanda e botar √° luz
+reis, aos estadistas, aos padres, aos persevejos, ·s moscas, e foram uns
+para os Paizes Baixos fundar e enriquecer a Hollanda e botar · luz
 Spinosa; outros foram para a America Austral fundar, agricultar e
-enriquecer o Brazil. O resto √© o que ahi est√° ha dusentos annos sentado
-ao sol n'uma ponta de banco do mappa-mundi, a cabecear, a co√ßar os
-joelhos e a ouvir ranger o calabre √° nora da coisa publica, puxada pelo
-governo, velho boi, d'olhos tapados, afeito ao cerco peguinhado do po√ßo
-sem bica, tornando a deitar para baixo a agua que traz para cima, e n√£o
+enriquecer o Brazil. O resto È o que ahi est· ha dusentos annos sentado
+ao sol n'uma ponta de banco do mappa-mundi, a cabecear, a coÁar os
+joelhos e a ouvir ranger o calabre · nora da coisa publica, puxada pelo
+governo, velho boi, d'olhos tapados, afeito ao cerco peguinhado do poÁo
+sem bica, tornando a deitar para baixo a agua que traz para cima, e n„o
 sabendo o proprio governo, nem sabendo ninguem por que ninguem se
-importa com isso, se √© j√° o pau da nora que empurra de traz o animal ou
-se √© ainda o animal que tira para deante o pau da nora.
+importa com isso, se È j· o pau da nora que empurra de traz o animal ou
+se È ainda o animal que tira para deante o pau da nora.
 
 Os differentes partidos que ha muitos annos se succedcm no exercicio do
 poder teem por chefes dois ou tres individuos, cujas personalidades,
 absolutamente destituidas de ideias correlativas ou concomitantes,
 representam as duas ou trez phases por que successivamente vae passando
-e repassando em circulo sobre o mesmo carreiro a rota√ß√£o governativa.
+e repassando em circulo sobre o mesmo carreiro a rotaÁ„o governativa.
 
-Os personagens alludidos teem as inten√ß√µes mais puras e mais honestas
+Os personagens alludidos teem as intenÁıes mais puras e mais honestas
 d'este mundo. Ter outras, deshonestas e impuras, dar-lhes-hia massada, e
-para ahi √© que elles n√£o v√£o.
+para ahi È que elles n„o v„o.
 
-Diz-se tambem que s√£o todos mais ou menos fortes n'essa arte, velha e
+Diz-se tambem que s„o todos mais ou menos fortes n'essa arte, velha e
 atrasada, que se chama a eloquencia e que tem por objecto desfaser pela
-exagera√ß√£o artificial das palavras a justa propor√ß√£o das coisas.
+exageraÁ„o artificial das palavras a justa proporÁ„o das coisas.
 
-S√£o ainda--affirma-se geralmente--habeis parlamentares, o que quer dizer
+S„o ainda--affirma-se geralmente--habeis parlamentares, o que quer dizer
 que possuem o talento de dominar as assembleias por meio de
-transigencias reciprocas e de concess√µes mutuas, rasoirando os
-parlamentos pelo nivel de uma mediocridade discreta, t√£o √¥cca como
-est√©ril.
+transigencias reciprocas e de concessıes mutuas, rasoirando os
+parlamentos pelo nivel de uma mediocridade discreta, t„o Ùcca como
+estÈril.
 
 Por baixo d'essas virtudes, que reconhecemos e veneramos, os homens que
 ha vinte annos se revezam no governo carecem das ideias geraes de que
 procede na sciencia o ponto de vista governativo. As assembleias das
-duas camaras, revezando-se ora para a direita ora para a esquerda, d√£o
+duas camaras, revezando-se ora para a direita ora para a esquerda, d„o
 ou retiram a maioria dos votos a cada um d'aquelles senhores,
 consagrando-se exclusivamente a defendel-os ou a impugnal-os, sem
 portanto sahirem nunca da orbita dos principios que elles representam,
-principios a que n√£o correspondem systemas diversos c que se distinguem
+principios a que n„o correspondem systemas diversos c que se distinguem
 apenas uns dos outros pelos signaes physionomicos dos estadistas que os
 teem no ventre, podendo-se dividir assim: principios governativos
 calvos, principios governativos d'olhos tortos e principios governativos
 de cabellos tingidos.
 
-Nestes esfor√ßos successivos das grandes massas intelligentes da na√ß√£o
-vemos dessorarem-se gera√ß√µes e gera√ß√µes consecutivas de deputados,
-fortes temperamentos alguns, solidos provincianos de boa f√©, que de trez
+Nestes esforÁos successivos das grandes massas intelligentes da naÁ„o
+vemos dessorarem-se geraÁıes e geraÁıes consecutivas de deputados,
+fortes temperamentos alguns, solidos provincianos de boa fÈ, que de trez
 em trez annos o parlamento recebe vivos e honrados do interior das
 provincias para trez annos depois lh'os devolver aniquilados para toda a
 especie d'iniciativa, corrompidos pelo habito de serem mandados,
 castrados na dignidade pela disciplina imposta pelos seus chefes, podres
-no caracter pela fermenta√ß√£o da intriga, indelevelmente marcados para
+no caracter pela fermentaÁ„o da intriga, indelevelmente marcados para
 toda a vida, pelo ferrete official, com uma pelintrice austera e
-miseravel, na figura, com uma c√¥dea veneranda de solemnidade
+miseravel, na figura, com uma cÙdea veneranda de solemnidade
 prudhommesca, estupida e impenetravel, no cerebro.
 
-√â pela mais justa e pela mais completa comprehens√£o do seu destino
+… pela mais justa e pela mais completa comprehens„o do seu destino
 social que tanto os individuos como os povos se disciplinam, se
-fortalecem e se aperfei√ßoam. Em Portugal a incapacidade governativa
+fortalecem e se aperfeiÁoam. Em Portugal a incapacidade governativa
 produsiu, primeiro que tudo, este resultado funesto: fez perder ao paiz
-a no√ß√£o historica do seu destino, cortou o fio da tradi√ß√£o nacional,
-lan√ßando o espirito publico n'uma existencia d'accaso como a das tribus
-bohemias. Depois o predominio da incompetencia scientifica na direc√ß√£o
+a noÁ„o historica do seu destino, cortou o fio da tradiÁ„o nacional,
+lanÁando o espirito publico n'uma existencia d'accaso como a das tribus
+bohemias. Depois o predominio da incompetencia scientifica na direcÁ„o
 dos negocios dissolveu a pouco e pouco a liga que deveria estreitar a
 convergencia de todas as actividades para um fim commum, e pela
-separa√ß√£o dos interesses operou a separa√ß√£o das energias.
+separaÁ„o dos interesses operou a separaÁ„o das energias.
 
-√â assim que em pleno seculo XIX, quando est√° exhuberantemente
+… assim que em pleno seculo XIX, quando est· exhuberantemente
 demonstrado que todos os factos do universo, assim na ordem physica como
 na ordem social, se encadeiam uns nos outros por leis imprescriptiveis
-de contiguidade e de correla√ß√£o, n√≥s vemos em Portugal exercer-se a
-ac√ß√£o do poder no estudo dos phenomenos tratando-os isoladamente, n'um
+de contiguidade e de correlaÁ„o, nÛs vemos em Portugal exercer-se a
+acÁ„o do poder no estudo dos phenomenos tratando-os isoladamente, n'um
 ponto de vista fetichista, de preto botocudo, como se cada um d'esses
 phenomenos, regido por uma lei especial e divina, fosse a causa e o
 effeito de si proprio.
 
-Com mil exemplos se podia comprovar a affirma√ß√£o que fazemos. Mas
-basta-nos um qualquer, tirado ao accaso do monte, para p√¥r essa
-affirma√ß√£o em evidencia de facto.
+Com mil exemplos se podia comprovar a affirmaÁ„o que fazemos. Mas
+basta-nos um qualquer, tirado ao accaso do monte, para pÙr essa
+affirmaÁ„o em evidencia de facto.
 
-Veja-se como em cada legislatura se prop√µe e se discute uma das poucas
-quest√µes graves de que o parlamento ainda se ocupa. Referimo-nos √° coisa
-a que, no cal√£o official em que tem degenerado a lingua patria, se
-chama--_a quest√£o da fazenda_.
+Veja-se como em cada legislatura se propıe e se discute uma das poucas
+questıes graves de que o parlamento ainda se ocupa. Referimo-nos · coisa
+a que, no cal„o official em que tem degenerado a lingua patria, se
+chama--_a quest„o da fazenda_.
 
-Reunidas as camaras e aberto perante ellas o or√ßamento do Estado,
-come√ßa-se invariavelmente por constatar, n'um tremolo elegiaco de
+Reunidas as camaras e aberto perante ellas o orÁamento do Estado,
+comeÁa-se invariavelmente por constatar, n'um tremolo elegiaco de
 symphonia funebre, que continua a existir o deficit. Cada um dos tres
-governos a quem a cor√¥a alternadamente adjudica a mamadeira do systema
-encarrega-se de explicar aos tachigraphos essa occorrencia--ali√°s
-desagradavel, cumpre dizel-o--mas de que elle, governo em exercicio, n√£o
+governos a quem a corÙa alternadamente adjudica a mamadeira do systema
+encarrega-se de explicar aos tachigraphos essa occorrencia--ali·s
+desagradavel, cumpre dizel-o--mas de que elle, governo em exercicio, n„o
 tem a culpa. A responsabilidade cabe ao governo transacto, bem conhecido
 pelos seus esbanjamentos e pela sua incuria.
 
 Para cada um d'esses tres governos sucessivamente encarregados de
-trazerem o deficit ao rega√ßo da representa√ß√£o nacional, o governo que
-immediatamente o precedeu n'esse mesmo encargo √© o ultimo dos imbecis.
+trazerem o deficit ao regaÁo da representaÁ„o nacional, o governo que
+immediatamente o precedeu n'esse mesmo encargo È o ultimo dos imbecis.
 
-Tal √© o conceito formidavel em que cada um dos referidos tres governos
+Tal È o conceito formidavel em que cada um dos referidos tres governos
 tem os outros dois!
 
-A cor√¥a pela sua parte--e √© este o mais augusto do todos os seus
-privilegios--√© successivamente da opini√£o de todos os tres ministerios;
-e depois de haver retirado, com sincero nojo, a sua confian√ßa aos
-imbecis do grupo n.¬∫ 1, n.¬∫ 2 e n.¬∫ 3, a cor√¥a torna a restituir a
-citada confian√ßa, com uma effus√£o de jubilo t√£o sincero como o nojo
-anterior, a cada um dos grupos de imbecis j√° referidos mas collocados
+A corÙa pela sua parte--e È este o mais augusto do todos os seus
+privilegios--È successivamente da opini„o de todos os tres ministerios;
+e depois de haver retirado, com sincero nojo, a sua confianÁa aos
+imbecis do grupo n.∫ 1, n.∫ 2 e n.∫ 3, a corÙa torna a restituir a
+citada confianÁa, com uma effus„o de jubilo t„o sincero como o nojo
+anterior, a cada um dos grupos de imbecis j· referidos mas collocados
 chronologicamente em sentido inverso d'aquelle em que estavam, ou sejam,
-por sua ordem, os imbecis n.¬∫ 3, n.¬∫ 2 e n.¬∫ 1.
+por sua ordem, os imbecis n.∫ 3, n.∫ 2 e n.∫ 1.
 
-Trocadas as descomposturas preliminares sobre a quest√£o da fazenda,
-decide-se que √© indispensavel, _ainda mais uma vez_, recorrer ao
+Trocadas as descomposturas preliminares sobre a quest„o da fazenda,
+decide-se que È indispensavel, _ainda mais uma vez_, recorrer ao
 credito, e faz-se um novo emprestimo. No anno seguinte averigua-se por
 calculos cheios de engenho arithmetico que para pagar os encargos do
-emprestimo do anno anterior n√£o ha outro remedio sen√£o recorrer _ainda
+emprestimo do anno anterior n„o ha outro remedio sen„o recorrer _ainda
 mais uma vez_ ao paiz, e cria-se um novo imposto.
 
 Fazem-se emprestimos para supprir o imposto, criam-se impostos para
@@ -345,463 +345,463 @@ pagar os juros dos emprestimos, tornam-se a fazer emprestimos para
 atalhar os desvios do imposto para o pagamento dos juros, e n'este
 interessante circulo vicioso, mas ingenuo, o deficit--por uma extranha
 birra, admissivel n'um ser teimoso, mas inexplicavel n'um mero saldo
-negativo, em uma n√£o existencia,--augmenta sempre atravez das
-contribui√ß√µes intermittentes com que se destinam a extinguil-o j√° o
-emprestimo contrahido, j√° o imposto cobrado.
+negativo, em uma n„o existencia,--augmenta sempre atravez das
+contribuiÁıes intermittentes com que se destinam a extinguil-o j· o
+emprestimo contrahido, j· o imposto cobrado.
 
 Assim como os alforges dos antigos pobres das feiras e das extinctas
 ordens mendicantes, o deficit tem dois sacos, um para deante outro para
 traz, ambos destinados a receber o vacuo. N'um dos sacos mette-se a
 divida fluctuante, no outro mette-se a divida consolidada. De quando em
 quando ha um relampago de jubilo, porque parece por um momento que o
-alforge do deficit est√° vasio, isto √©, que est√° sem vacuo dentro: √© a
-divida, que se achava em estado de fluctua√ß√£o no saco da frente, que
-passou no estado de consolida√ß√£o para o saco de traz.
+alforge do deficit est· vasio, isto È, que est· sem vacuo dentro: È a
+divida, que se achava em estado de fluctuaÁ„o no saco da frente, que
+passou no estado de consolidaÁ„o para o saco de traz.
 
-A alegria fugaz mas intensa que provem da illus√£o d'esta gigajoga vale o
+A alegria fugaz mas intensa que provem da illus„o d'esta gigajoga vale o
 dinheiro que custa, mas custa sempre alguma coisa, porque de todas as
-vezes que elles mexem na divida, seja para o que f√¥r, mesmo para a mudar
+vezes que elles mexem na divida, seja para o que fÙr, mesmo para a mudar
 de saco, ella cresce.
 
-Pela parte que lhe respeita o paiz espera. O qu√™? O momento em que pela
-boa raz√£o de n√£o haver mais coisa que se collecte, porque estar√°,
-collectado tudo, deixe de haver quem empreste por n√£o haver mais quem
+Pela parte que lhe respeita o paiz espera. O quÍ? O momento em que pela
+boa raz„o de n„o haver mais coisa que se collecte, porque estar·,
+collectado tudo, deixe de haver quem empreste por n„o haver mais quem
 pague.
 
 No emtanto o problema de augmentar a riqueza--unico meio de prover aos
-encargos--√© considerado como absolutamente extranho √° _quest√£o da
-fazenda_. E todavia nem toda a gente ignora que a riqueza n√£o augmenta
-sen√£o pelo desenvolvimento progressivo do trabalho e que este se acha
+encargos--È considerado como absolutamente extranho · _quest„o da
+fazenda_. E todavia nem toda a gente ignora que a riqueza n„o augmenta
+sen„o pelo desenvolvimento progressivo do trabalho e que este se acha
 ligado aos progressos da industria.
 
-Ora emquanto √° industria ... Mas este novo ponto pode ficar para outra
-vez. O feliz encyclopedismo das inaptid√µes do estado proporciona-nos a
-facilidade de poder comprovar a sua incapacidade com um s√≥ facto
+Ora emquanto · industria ... Mas este novo ponto pode ficar para outra
+vez. O feliz encyclopedismo das inaptidıes do estado proporciona-nos a
+facilidade de poder comprovar a sua incapacidade com um sÛ facto
 qualquer, demonstrando que no paiz coliocado sob o patrocinio de um tal
-governo, n√£o pode dar-se sen√£o uma especie de cohes√£o politica:--a liga
+governo, n„o pode dar-se sen„o uma especie de cohes„o politica:--a liga
 dos governados para o despreso convicto dos que governam.
 
        *       *       *       *       *
 
-Na moral estamos como na religi√£o. Cada um tem a sua, feita √° f√≥rma do
-seu p√© como as botas por medida, com a concavidade de uma cupola moldada
-√° protuberancia de cada calo.
+Na moral estamos como na religi„o. Cada um tem a sua, feita · fÛrma do
+seu pÈ como as botas por medida, com a concavidade de uma cupola moldada
+· protuberancia de cada calo.
 
-Ha em primeiro logar as duas grandes circumscrip√ß√µcs--da moral publica e
-da moral privada, inteiramente diversas uma da outra. D'ahi a distinc√ß√£o
+Ha em primeiro logar as duas grandes circumscripÁıcs--da moral publica e
+da moral privada, inteiramente diversas uma da outra. D'ahi a distincÁ„o
 casuistica entre a honestidade politica e a honestidade pessoal. Em
-virtude d'essa distinc√ß√£o o mesmo individuo pode, ser cumulativamente o
+virtude d'essa distincÁ„o o mesmo individuo pode, ser cumulativamente o
 mais honrado dos cavalheiros e o mais abalisado dos velhacos. Na
 politica ha carta branca para tudo: para mentir, para intrigar, para
 caluniar, para trahir, para furtar. No terreno politico o sujeito pode
 ser refalsado, impostor, venal, infiel, servil, covarde. Todos os
-vicios e todas as abjec√ß√µes se acobertam com esta virtude absolutamente
-latitudinaria--a _fidelidade ao partido_. Est√° assentado e decidido para
-todos os effeitos que as nodoas da vida publica n√£o distingem sobre o
-caracter pessoal. O cavalheiro que pela manh√£ leu nos jornaes, ou ouviu
+vicios e todas as abjecÁıes se acobertam com esta virtude absolutamente
+latitudinaria--a _fidelidade ao partido_. Est· assentado e decidido para
+todos os effeitos que as nodoas da vida publica n„o distingem sobre o
+caracter pessoal. O cavalheiro que pela manh„ leu nos jornaes, ou ouviu
 nas camaras, sem as combater e sem as refutar, as ultimas injurias que
 podem ferir o homem no que elle deve ter de mais caro no seu caracter ou
-no seu cora√ß√£o, na sua familia, na sua honra, na sua probidade, no seu
-pudor, no seu brio, vae √° noite jantar regosijado e tranquillo na mais
+no seu coraÁ„o, na sua familia, na sua honra, na sua probidade, no seu
+pudor, no seu brio, vae · noite jantar regosijado e tranquillo na mais
 santa paz da consciencia no aconchego immaculado da familia, na estima
 inalteravel da amisade; e com a gravidade austera, convicta e bondosa,
-de um patriarcha, estende a m√£o suja das suspeitas mais torpes aos seus
-amigos, que lh'a apertam, e d√° a beijar √° sua filha, risonho e calmo, a
-face esbofeteada pelas accusa√ß√µes mais vergonhosas.
+de um patriarcha, estende a m„o suja das suspeitas mais torpes aos seus
+amigos, que lh'a apertam, e d· a beijar · sua filha, risonho e calmo, a
+face esbofeteada pelas accusaÁıes mais vergonhosas.
 
-Um dos principaes caracteriscos da integridade moral de uma pessoa est√°
+Um dos principaes caracteriscos da integridade moral de uma pessoa est·
 no accordo das ideias com as palavras e das palavras com as obras. Na
-intriga constitucional cujo vicio congenito √© a pusilanimidade e a
-hypocrisia, esse accordo √© uma chimera. No parlamento portuguez ninguem
-diz inteiramente, o que pensa, qualquer que seja a quest√£o de que se
-trate. Os negocios om discuss√£o s√£o debatidos por dois aspectos
-radicalmente diversos, na sala e nos corredores da camara. C√° f√≥ra
-diz-se a verdade. L√° dentro faz-se o discurso, o que √© uma coisa
-inteiramente differente e √°s vezes opposta. A eloquencia parlamentar √© a
-institui√ß√£o official da fic√ß√£o sob a f√≥rma litteraria de nenia, de
-cantata, de serm√£o, de estopada ou de descompostura.
+intriga constitucional cujo vicio congenito È a pusilanimidade e a
+hypocrisia, esse accordo È uma chimera. No parlamento portuguez ninguem
+diz inteiramente, o que pensa, qualquer que seja a quest„o de que se
+trate. Os negocios om discuss„o s„o debatidos por dois aspectos
+radicalmente diversos, na sala e nos corredores da camara. C· fÛra
+diz-se a verdade. L· dentro faz-se o discurso, o que È uma coisa
+inteiramente differente e ·s vezes opposta. A eloquencia parlamentar È a
+instituiÁ„o official da ficÁ„o sob a fÛrma litteraria de nenia, de
+cantata, de serm„o, de estopada ou de descompostura.
 
-A influencia do regimen politico sobre a moralisa√ß√£o geral dos
-caracteres √© profunda e fatal. A escola evolucionista tem demonstrado
-por meio de raz√µes experimentaes que a faculdade a que geralmente se d√°
-o nome de _consciencia_ se f√≥rma pelo desenvolvimento de duas tendencias
+A influencia do regimen politico sobre a moralisaÁ„o geral dos
+caracteres È profunda e fatal. A escola evolucionista tem demonstrado
+por meio de razıes experimentaes que a faculdade a que geralmente se d·
+o nome de _consciencia_ se fÛrma pelo desenvolvimento de duas tendencias
 combinadas posto que apparentemente oppostas: a tendencia egoista e a
-tendencia sympathica. Depois da applica√ß√£o da fecunda theoria biologica
-de Darwin ao estudo e √° renova√ß√£o das sciencias sociaes ficou
-perfeitamente estabelecido que a moral, cujo objecto √© o equilibrio
-entre o instincto pessoal da conserva√ß√£o e o instincto social da
-sympathia, tem por base, mais ou menos remota, mais ou menos disfar√ßada,
+tendencia sympathica. Depois da applicaÁ„o da fecunda theoria biologica
+de Darwin ao estudo e · renovaÁ„o das sciencias sociaes ficou
+perfeitamente estabelecido que a moral, cujo objecto È o equilibrio
+entre o instincto pessoal da conservaÁ„o e o instincto social da
+sympathia, tem por base, mais ou menos remota, mais ou menos disfarÁada,
 o interesse.
 
-Nota Spencer que aquelles que sempre tiveram saude s√£o pouco
-compadecidos com as doen√ßas dos outros. A piedade √© a lembran√ßa ou a
-imagem antecipada de um soffrimento, imagem que, produzida em n√≥s pelo
-aspecto d'um soffrimento alheio, nos causa uma d√¥r analoga.
+Nota Spencer que aquelles que sempre tiveram saude s„o pouco
+compadecidos com as doenÁas dos outros. A piedade È a lembranÁa ou a
+imagem antecipada de um soffrimento, imagem que, produzida em nÛs pelo
+aspecto d'um soffrimento alheio, nos causa uma dÙr analoga.
 
-O interesse assim definido √© effectivamente a base de todas as moraes. A
-propria moral do Evangelho o que √© sen√£o a mais lucrativa das
-transac√ß√µes entre o homem e o infinito?
+O interesse assim definido È effectivamente a base de todas as moraes. A
+propria moral do Evangelho o que È sen„o a mais lucrativa das
+transacÁıes entre o homem e o infinito?
 
-Em uma sociedade constituida as tendencias sympathicas est√£o portanto
-naturalmente em propor√ß√£o e em harmonia com as tendencias egoistas
-determinadas pela constitui√ß√£o do meio.
+Em uma sociedade constituida as tendencias sympathicas est„o portanto
+naturalmente em proporÁ„o e em harmonia com as tendencias egoistas
+determinadas pela constituiÁ„o do meio.
 
-Um governo ignorante, vivendo na trapa√ßa, no favoritismo eleitoral, no
+Um governo ignorante, vivendo na trapaÁa, no favoritismo eleitoral, no
 compadrio, nas dependencias aviltantes do dinheiro, fazendo carreira aos
-mediocres humilhados, empecendo o exito no mundo official √°s
+mediocres humilhados, empecendo o exito no mundo official ·s
 inflexibilidades energicas e fecundas, dissolve a moral publica porque,
 corrompendo os interesses legitimos da communidade, abastarda
 correlativamente as sympathias dos individuos.
 
-Um momento depois, como os trez pedagogos comparecessem √° real presen√ßa,
-enrolados √° pressa nas togas do professorado, de barretes de dormir, com
+Um momento depois, como os trez pedagogos comparecessem · real presenÁa,
+enrolados · pressa nas togas do professorado, de barretes de dormir, com
 as competentes pennas de pato aparadas da vespera e mettidas atraz das
 orelhas, o rei disse-lhes:
 
---Esse jumento que ahi est√°, (e estendendo o seu dedo magnimo, com um
+--Esse jumento que ahi est·, (e estendendo o seu dedo magnimo, com um
 largo gesto antigo indicava o principe, vestido de general, de esporas e
 chapeu armado, que bocejava encostado ao sabre de seus antepassados)
 esse real jumento ignora completamente os deveres mais rudimentares de
-um principe para com a sua princesa. E √© para isto que eu tenho tido
-aqui √° engorda durante quinze annos tres burros de tres mestres!... Ora
-muito bem: vou deixar-vos a s√≥s por espa√ßo de cinco minutos com t√£o
+um principe para com a sua princesa. E È para isto que eu tenho tido
+aqui · engorda durante quinze annos tres burros de tres mestres!... Ora
+muito bem: vou deixar-vos a sÛs por espaÁo de cinco minutos com t„o
 repulsivo idiota. Se ao cabo de cinco minutos, contados pelo relogio,
-elle n√£o estiver ao facto d'aquillo que todo o homem de barbas na cara
-deve saber para n√£o vir para aqui a estas horas _nanar_ n'uma cadeira,
-decapito-vos a todos trez esta noite como ca√ß√£o appropriada para
-fecundar os germens originaes da nossa inspira√ß√£o artistica, trabalho de
+elle n„o estiver ao facto d'aquillo que todo o homem de barbas na cara
+deve saber para n„o vir para aqui a estas horas _nanar_ n'uma cadeira,
+decapito-vos a todos trez esta noite como caÁ„o appropriada para
+fecundar os germens originaes da nossa inspiraÁ„o artistica, trabalho de
 que apenas se encontram vestigios na obra de Garrett.
 
 Depois do terramoto, que subverteu muitos monumentos d'arte preciosos
-para a educa√ß√£o esthetica do povo, a dictadura grosseiramente utilitaria
-do marquez de Pombal, primeiramente, e o burguezismo lir√≥ do regimen
-constitucional, depois, deram √° produc√ß√£o artistica da moderna epoca
+para a educaÁ„o esthetica do povo, a dictadura grosseiramente utilitaria
+do marquez de Pombal, primeiramente, e o burguezismo lirÛ do regimen
+constitucional, depois, deram · producÁ„o artistica da moderna epoca
 liberal o caracter pelintra, ao mesmo tempo pretencioso e chato, de
 padre catita, de jesuita amanuensado, de sargento victorioso, caracter
-que distingue a arte portugueza de 1830 para c√°, e que deu o stylo de
-banbolina de paninho, de balaustre azul e branco, de fest√£o de murta e
-d'areia encarnada, a que podemos chamar na historia da decora√ß√£o--o
-_stylo furriel dos batalh√µes da carta_.
+que distingue a arte portugueza de 1830 para c·, e que deu o stylo de
+banbolina de paninho, de balaustre azul e branco, de fest„o de murta e
+d'areia encarnada, a que podemos chamar na historia da decoraÁ„o--o
+_stylo furriel dos batalhıes da carta_.
 
-Onde est√° ahi o artista em cuja obra se ache reflectida a influencia do
-antigo genio portuguez? Onde est√° o escriptor que se possa considerar o
-interprete legitimo do gosto, das ideias, das convic√ß√µes dos sentimentos
+Onde est· ahi o artista em cuja obra se ache reflectida a influencia do
+antigo genio portuguez? Onde est· o escriptor que se possa considerar o
+interprete legitimo do gosto, das ideias, das convicÁıes dos sentimentos
 do publico?
 
 Os escriptores contemporaneos podem-se dividir em quatro grupos. O
 grupo academico official, o grupo dos convulsionarios, o grupo dos
 insubmissos e o grupo dos domesticados.
 
-Os escriptores do primeiro grupo s√£o os velhos caturras coroados pelo
-laurel das commiss√µes retribuidas, semsabor√µes emeritos acommodados pelo
+Os escriptores do primeiro grupo s„o os velhos caturras coroados pelo
+laurel das commissıes retribuidas, semsaborıes emeritos acommodados pelo
 governo em confortaveis cadeiras de caixa, destinadas a receber para o
 Estado os fluxos da litteratura classica. Nunca ninguem no vasto publico
-p√¥de jamais apreciar a obra d'esses sabios, porque tudo quanto elles
-desassimilam em f√≥rma de prosa passa em padiolas, circumdadas de
-respeito, dos prelos das typographias para o gorgulho dos archivos e s√≥
-depois de se ter gorgulho compenetrado por espa√ßo de muitos annos do
-teor d'essas produc√ß√µes √© que ellas chegam √°s casas particulares sob a
-f√≥rma de involucro de generos alimenticios, como as salchichas, ou de
+pÙde jamais apreciar a obra d'esses sabios, porque tudo quanto elles
+desassimilam em fÛrma de prosa passa em padiolas, circumdadas de
+respeito, dos prelos das typographias para o gorgulho dos archivos e sÛ
+depois de se ter gorgulho compenetrado por espaÁo de muitos annos do
+teor d'essas producÁıes È que ellas chegam ·s casas particulares sob a
+fÛrma de involucro de generos alimenticios, como as salchichas, ou de
 simples aromas culinarios, como o cravo da India e o colorau picante.
 
-Os convulsionarios, que s√£o os mais numerosos, denominam-se
+Os convulsionarios, que s„o os mais numerosos, denominam-se
 republicanos, e julgam-se auctorisados, sob esse estandarte de revolta,
 para se collocarem em berrata furibunda e em dessidencia enthusiasmada
-com tudo: com a monarchia, com a religi√£o, com a grammatica, com os
+com tudo: com a monarchia, com a religi„o, com a grammatica, com os
 mesarios da freguezia das Chagas, com os verbos, com as hostias, com as
 luvas, com os breviarios, com a syntaxe, com o imposto, com o Senhor dos
 Passos, com o diccionario, com o codigo e com o senso commum. Nada
-escapa √° dissencia fundamental d'estes escriptores terriveis. Est√£o em
-combate acerrimo com tudo. E com o resto est√£o em contradic√ß√£o. S√£o o
-_clich√©_ negativo do mesmo estado mental de que o governo √© a estampa
-vista em sentido inverso. S√£o o estado posto de cabe√ßa para baixo a
-andar nas m√£os em vez de andar nos p√©s. S√£o o conselheiro Arrobas virado
+escapa · dissencia fundamental d'estes escriptores terriveis. Est„o em
+combate acerrimo com tudo. E com o resto est„o em contradicÁ„o. S„o o
+_clichÈ_ negativo do mesmo estado mental de que o governo È a estampa
+vista em sentido inverso. S„o o estado posto de cabeÁa para baixo a
+andar nas m„os em vez de andar nos pÈs. S„o o conselheiro Arrobas virado
 pelo avesso, e invertido, com uma concavidade concernente a cada bossa,
 e com uma protuberancia relativa a cada buraco da sua natureza.
 
-Os insubmissos, desagremiados da massa, s√£o dez ou doze solitarios
-apenas, que reagem √°s correntes do movimento geral por meio d'algumas
-raz√µes experimentaes postas em verso ou em prosa, e reduzidas a algumas
+Os insubmissos, desagremiados da massa, s„o dez ou doze solitarios
+apenas, que reagem ·s correntes do movimento geral por meio d'algumas
+razıes experimentaes postas em verso ou em prosa, e reduzidas a algumas
 paginas de poema, de romance ou d'historia.
 
 A honesta sinceridade d'estes escriptores, geralmente confundida com um
-cynismo de _pose_, com um charlatanismo de originalidade, √© antipathica
-ao publico, que todavia os l√™ com uma certa avidez, impellido pela
-curiosidade que atrae a multid√£o gulosa do anormal para os livros
+cynismo de _pose_, com um charlatanismo de originalidade, È antipathica
+ao publico, que todavia os lÍ com uma certa avidez, impellido pela
+curiosidade que atrae a multid„o gulosa do anormal para os livros
 d'elles, assim como para as barracas de feira em que se mostram vitellas
-com duas cabe√ßas, das quaes uma de papel√£o; e meninas gordas com seis
-barrigas, todas posti√ßas.
+com duas cabeÁas, das quaes uma de papel„o; e meninas gordas com seis
+barrigas, todas postiÁas.
 
 Os domesticados representam o elemento inoffensivo e ameno das lettras a
 que chamaremos simplesmente _burguezas_ para as distinguirmos por uma
-_nuance_ das lettras consagradas, a que chamamos j√° _officiaes_.
+_nuance_ das lettras consagradas, a que chamamos j· _officiaes_.
 
 Os escriptores d'esta classe acceitam docilmente tudo quanto se acha em
-vigor no regimen vigente para n√£o terem o incommodo de inventar nem o
+vigor no regimen vigente para n„o terem o incommodo de inventar nem o
 desgosto de se comprometterem com as familias particulares ou com os
-poderes publicos por meio de novas exhibi√ß√µes, ali√°s inuteis para a
+poderes publicos por meio de novas exhibiÁıes, ali·s inuteis para a
 marcha regular do intellecto lusitano atravez dos meandros macadamisados
 da Baixa.
 
-Elles v√£o para as glorias da posteridade, assim como os gatos para as
-aventuras de telhado,--pelo cheiro uns dos outros. Quando lhes n√£o
+Elles v„o para as glorias da posteridade, assim como os gatos para as
+aventuras de telhado,--pelo cheiro uns dos outros. Quando lhes n„o
 fareja outro que tivesse passado primeiro, hesitam em sua marcha,
 tremem-lhes as pernas, e acocoram.
 
-Teem convic√ß√µes profundas √°cerca de tudo aquillo de que estavam
-profundamente convencidos os seus maiores, e a sua voca√ß√£o, irresistivel
-e indomavel, √© para fazer tudo o que j√° est√° feito.
+Teem convicÁıes profundas ·cerca de tudo aquillo de que estavam
+profundamente convencidos os seus maiores, e a sua vocaÁ„o, irresistivel
+e indomavel, È para fazer tudo o que j· est· feito.
 
-Em religi√£o s√£o catholicos apostolicos romanos; em politica s√£o
-monarchicos liberaes; em philosophia s√£o ecleticos da escola do grande
-Cousin; em litteratura s√£o pelos modelos classicos modificados pelo
-estro dos grandes mestres pacatos da gera√ß√£o moderna, Mendes Leal,
-Thomaz Ribeiro, Possydonio da Silva e Brito Aranha; em _toilette_ s√£o
+Em religi„o s„o catholicos apostolicos romanos; em politica s„o
+monarchicos liberaes; em philosophia s„o ecleticos da escola do grande
+Cousin; em litteratura s„o pelos modelos classicos modificados pelo
+estro dos grandes mestres pacatos da geraÁ„o moderna, Mendes Leal,
+Thomaz Ribeiro, Possydonio da Silva e Brito Aranha; em _toilette_ s„o
 pelo afamado Keil; em theatro pela grande Emilia das Neves; e em
-culinaria pela lampreia d'ovos de fio com cidr√£o.
+culinaria pela lampreia d'ovos de fio com cidr„o.
 
-Teem √°s vezes gra√ßa, mas sempre fina, de luva branca, propria de
+Teem ·s vezes graÁa, mas sempre fina, de luva branca, propria de
 cavalheiro culto, com uso de sala, dentro do campo da civilidade e nos
-limites da carta. Ha no vocabulario innumeras palavras, ali√°s
+limites da carta. Ha no vocabulario innumeras palavras, ali·s
 perfeitamente boas e honradas, que elles morreriam mil vezes antes que
-ousassem escrevel-as. Por exemplo: Com rela√ß√£o ao logar em que a
-hypocrisia costuma receber os pontap√©s que o bom senso lhe applica,
+ousassem escrevel-as. Por exemplo: Com relaÁ„o ao logar em que a
+hypocrisia costuma receber os pontapÈs que o bom senso lhe applica,
 nenhum d'esses escriptores domesticados diria com simplicidade
-casta--_o trazeiro_. Porqu√™? Porque, pela muita pratica de sal√£o que
-elles teem, sabem perfeitamente que as ¬´madamas¬ª, ao ouvirem um tal
+casta--_o trazeiro_. PorquÍ? Porque, pela muita pratica de sal„o que
+elles teem, sabem perfeitamente que as ´madamasª, ao ouvirem um tal
 vocabulo, immediatamente se retiram fugazes das assembleias tirando por
-conclus√£o do emprego d'esse substantivo masculino que o cavalheiro √©
+conclus„o do emprego d'esse substantivo masculino que o cavalheiro È
 cynico.
 
-Em compensa√ß√£o ha outros termos--os termos proprios de sociedade, que
+Em compensaÁ„o ha outros termos--os termos proprios de sociedade, que
 elles nunca empregam sem os ampliarem por meio de adminiculos
 decorativos. Quando escrevem _natal_, acrescentam sempre--_do
-Redemptor_, e para _cabe√ßas_ dizem as _louras cabe√ßas_, sempre que ellas
-sejam de crean√ßa; sendo de vitella, ainda que egualmente louras,
-retiram-lhes o adjectivo para o n√£o sevandijarem com os contactos
+Redemptor_, e para _cabeÁas_ dizem as _louras cabeÁas_, sempre que ellas
+sejam de creanÁa; sendo de vitella, ainda que egualmente louras,
+retiram-lhes o adjectivo para o n„o sevandijarem com os contactos
 incivis do gado vacum.
 
 O publico derrete de justo enthusiasmo por estes escriptores mansos,
-que, √° similhan√ßa dos elephantes ensinados, estendem a tromba para o
-rega√ßo das familias, em procura do biscoito caseiro com que a gratid√£o
+que, · similhanÁa dos elephantes ensinados, estendem a tromba para o
+regaÁo das familias, em procura do biscoito caseiro com que a gratid„o
 humana folga sempre de remunerar os carinhos dos pachidermes doceis.
 
-Os nomes d'elles nunca se imprimem sen√£o enrabichados a um epitheto
+Os nomes d'elles nunca se imprimem sen„o enrabichados a um epitheto
 obsequioso: o _sympathico_, o _festejado_, o _modesto_, o _cordato_, o
-_bom_. Apesar do qu√™, pouca gente os l√™, por que esses bons rapazes de
-profiss√£o, modestos por modo de vida, para o fim de evitarem o conflicto
-de opini√µes contrarias, embiocam-se frequentemente de mais n'um genero
-de litteratura abstracta ou de litteratura retrospectiva, que √© a mais
-anodina, a mais s√¥rna, a mais bestificante coisa por meio da qual um
+_bom_. Apesar do quÍ, pouca gente os lÍ, por que esses bons rapazes de
+profiss„o, modestos por modo de vida, para o fim de evitarem o conflicto
+de opiniıes contrarias, embiocam-se frequentemente de mais n'um genero
+de litteratura abstracta ou de litteratura retrospectiva, que È a mais
+anodina, a mais sÙrna, a mais bestificante coisa por meio da qual um
 escriptor pode actuar sobre o somno dos seus contemporaneos.
 
-Se s√£o profundas e insanaveis as nossas dissidencias religiosas, e as
-nossas dissidencias politicas, s√£o ainda mais insanaveis e mais
+Se s„o profundas e insanaveis as nossas dissidencias religiosas, e as
+nossas dissidencias politicas, s„o ainda mais insanaveis e mais
 profundas as nossas dissidencias estheticas.
 
-Estamos t√£o separados uns dos outros pelas nossas convic√ß√µes e pelas
-nossas cren√ßas como estamos separados pelos nossos gostos. Os mesmos
+Estamos t„o separados uns dos outros pelas nossas convicÁıes e pelas
+nossas crenÁas como estamos separados pelos nossos gostos. Os mesmos
 artistas, os nossos poetas, os nossos musicos, os nossos pintores
 detestam-se reciprocamente por odios figadaes, de folhetim e de escola.
 Estes odios, mal reprimidos nas conveniencias mutuas da camaradagem,
 rebentam de momento a momento, periodicamente, em brigas renhedissimas,
-que s√£o um dos mais decisivos symptomas da decadencia e da dissolu√ß√£o do
-meio intellectual. Temos d'anno em anno como outras tantas vegeta√ß√µes
-do charco a _quest√£o dos poetas_, a _quest√£o aos jornalistas_, a
-_quest√£o dos pintores_, a _quest√£o dos musicos._
+que s„o um dos mais decisivos symptomas da decadencia e da dissoluÁ„o do
+meio intellectual. Temos d'anno em anno como outras tantas vegetaÁıes
+do charco a _quest„o dos poetas_, a _quest„o aos jornalistas_, a
+_quest„o dos pintores_, a _quest„o dos musicos._
 
-Quando alguma d'essas quest√µes se faz esperar no tempo dado √° sua
+Quando alguma d'essas questıes se faz esperar no tempo dado · sua
 periodicidade, o burguez em espectativa exclama;--A canalha d'esta vez
-ainda se n√£o pegou; √© que est√° mais cara a vinha√ßa!
+ainda se n„o pegou; È que est· mais cara a vinhaÁa!
 
        *       *       *       *       *
 
-De cima abaixo, como v√™em,--na religi√£o, na politica, na moral, na
+De cima abaixo, como vÍem,--na religi„o, na politica, na moral, na
 arte--esphacelamento geral. For qualquer lado que se lhe pegue, a
-sociedade portugueza deixa um peda√ßo na m√£o que lhe loca. Tudo se
+sociedade portugueza deixa um pedaÁo na m„o que lhe loca. Tudo se
 desgruda, tudo se esbandalha no aggregado portuguez a que falta a
-cohes√£o da ideia portugueza.
+cohes„o da ideia portugueza.
 
-N'esta superf√≠cie sociai, inconsistente, mole, despolida, em que nem um
-s√≥ tra√ßo nitido adhere, s√≥ as nodoas se embebem, alastram e aprofundam
+N'esta superfÌcie sociai, inconsistente, mole, despolida, em que nem um
+sÛ traÁo nitido adhere, sÛ as nodoas se embebem, alastram e aprofundam
 como gotas d'oleo n'um papel passento.
 
 No espirito publico, inerte e extagnado como agua apodrecida no fundo de
-um po√ßo, cada immoralidade que cae dentro abre circulos concentricos de
-vibra√ß√µes mephiticas que se alargam do ponto ferido at√© √° circumferenc√≠a
-do reposit√≥rio.
+um poÁo, cada immoralidade que cae dentro abre circulos concentricos de
+vibraÁıes mephiticas que se alargam do ponto ferido atÈ · circumferencÌa
+do repositÛrio.
 
-De cada vez que o Terreiro do Pa√ßo annuncia que toma de aluguel mais uma
-consciencia, o paiz todo, at√© √° raia, p√µe escriptos.
+De cada vez que o Terreiro do PaÁo annuncia que toma de aluguel mais uma
+consciencia, o paiz todo, atÈ · raia, pıe escriptos.
 
        *       *       *       *       *
 
-Foi em face da situa√ß√£o cujas linhas mais proeminentes acabamos de
-esbo√ßar que alguns homens de extranha boa f√© se lembraram de promover ha
-dois annos a celebra√ß√£o nacional do centenario de Luiz de Cam√µes.--_E'a
-prova do espelho posto √° bocca do moribundo para o fim de vereficar se
-elle ainda respira ou n√£o_--disseram ent√£o esses homens ingenuos. E, sem
-receio do terrivel sentido ironico que se poderia ligar √°s suas palavras
+Foi em face da situaÁ„o cujas linhas mais proeminentes acabamos de
+esboÁar que alguns homens de extranha boa fÈ se lembraram de promover ha
+dois annos a celebraÁ„o nacional do centenario de Luiz de Camıes.--_E'a
+prova do espelho posto · bocca do moribundo para o fim de vereficar se
+elle ainda respira ou n„o_--disseram ent„o esses homens ingenuos. E, sem
+receio do terrivel sentido ironico que se poderia ligar ·s suas palavras
 antigas, elles tomaram arrojadamente esta divisa:--_Vereis amor da
-patria n√£o movido de premio vil_.
+patria n„o movido de premio vil_.
 
-Para se julgar imparcialmente da ac√ß√£o das _Farpas_ nos suceessos que
-narramos, √© conveniente recordar uma pequena particularidade: O
+Para se julgar imparcialmente da acÁ„o das _Farpas_ nos suceessos que
+narramos, È conveniente recordar uma pequena particularidade: O
 individuo que propoz, redigiu, explicou e defendeu perante a assembleia
 dos escriptores de Lisboa o programma do cortejo civico do jubileu
 camoneano, tal como elle se realisou depois de officialmente amputado,
 no dia 10 de junho de 1880, foi precisamente o mesmo bohemio que escreve
 eslas linhas.
 
-Este simples detalhe absolutamente insignificante e inutil √° historia do
-centenario, √© importante para a historia das _Farpas_. Por isso ellas,
+Este simples detalhe absolutamente insignificante e inutil · historia do
+centenario, È importante para a historia das _Farpas_. Por isso ellas,
 ainda que immodestamente, o registam.
 
-Foi essa a primeira vez--ser√° provavelmente a ultima--que a redac√ß√£o
+Foi essa a primeira vez--ser· provavelmente a ultima--que a redacÁ„o
 d'estes pequenos livros exorbitou da esphera especulativa da critica
-para a esphera da ac√ß√£o, levando directamente √° rua uma ideia.
+para a esphera da acÁ„o, levando directamente · rua uma ideia.
 
-Se algum dia a moralidade das _Farpas_ houver de ser julgada na opini√£o,
-este facto ser√° fundamental no processo, por que √© pelo accordo ou pelo
+Se algum dia a moralidade das _Farpas_ houver de ser julgada na opini„o,
+este facto ser· fundamental no processo, por que È pelo accordo ou pelo
 desaccordo entre as ideias litterarias e os actos publicos de um
-escriptor que este deve ser definido para a absolvi√ß√£o ou para o
+escriptor que este deve ser definido para a absolviÁ„o ou para o
 desprezo dos seus similhantes.
 
 As _Farpas_ produziam gracejos periodicos desde o mez de maio de 1871.
 Nove annos de ironia persistente prostram de tristeza o temperamento
 mais solido. Rir de tudo ou de quasi tudo aquillo que todos os outros
-respeitam e veneram √© fazer da alegria um exilio e da gargalhada um
+respeitam e veneram È fazer da alegria um exilio e da gargalhada um
 carcere.
 
-N√£o ser de nenhuma seita e de nenhum partido, de nenhum club, de nenhum
-gremio, de nenhum botequim e de nenhum estanco, n√£o ter escola, nem
+N„o ser de nenhuma seita e de nenhum partido, de nenhum club, de nenhum
+gremio, de nenhum botequim e de nenhum estanco, n„o ter escola, nem
 irmandade, nem roda, nem correligionarios, nem companheiros, nem
-mestres, nem discipulos, nem adherentes, nem sequazes, nem amigos, √©
-possuir a liberdade, √© ter por amante a rude musa _aux fortes mamelles
-et aux durs appas_, cujo beijo clandestino e ardente p√µe no cora√ß√£o a
-marca dos fortes mas requeima nos bei√ßos o riso dos engra√ßados.
+mestres, nem discipulos, nem adherentes, nem sequazes, nem amigos, È
+possuir a liberdade, È ter por amante a rude musa _aux fortes mamelles
+et aux durs appas_, cujo beijo clandestino e ardente pıe no coraÁ„o a
+marca dos fortes mas requeima nos beiÁos o riso dos engraÁados.
 
-Alem da grande e amada tristeza, que j√° S. Paulo lastimava,--a tristeza
-de ser s√≥,--na alma das _Farpas_ havia ainda, a melancolia da descren√ßa
-sobre a efficacia dos seus meios artisticos, empregados para p√¥r
+Alem da grande e amada tristeza, que j· S. Paulo lastimava,--a tristeza
+de ser sÛ,--na alma das _Farpas_ havia ainda, a melancolia da descrenÁa
+sobre a efficacia dos seus meios artisticos, empregados para pÙr
 verdades em evidencia.
 
-Onde ha uma corpora√ß√£o que se intitula _Uni√£o e capricho_, onde ha outra
+Onde ha uma corporaÁ„o que se intitula _Uni„o e capricho_, onde ha outra
 que se chama a _Incrivel Almadense_, onde ha _Os prussianos do Seixal_ e
 a _A'vante incrivel canecense_, onde existe a _Academia dos Fenians_ e a
 sociedade de soccorros denominada _Parturiente funebre familiar_, onde
-um collegio de educa√ß√£o p√µe na taboleta _Novo methodo intuitivo_, onde
+um collegio de educaÁ„o pıe na taboleta _Novo methodo intuitivo_, onde
 um jornal de noticias toma o titulo de _Santo Antonio de Lisboa_, onde
-uma camara municipal prop√µe a substitui√ß√£o do nome de _Aldeia Galega_
-pelo de _Linda Aurora do Tejo_, onde uma loja de bebidas, alliando √°
+uma camara municipal propıe a substituiÁ„o do nome de _Aldeia Galega_
+pelo de _Linda Aurora do Tejo_, onde uma loja de bebidas, alliando ·
 beberoca barata o mais illustre nome da poesia contemporanea, se
-intitula _A Casa Garrett_, onde todas estas coisas se d√£o, assim como se
-d√° a um homem o titulo de _Visconde do Marmeleiro,_ sem espanto, sem
-estranhesa, sem sobresalto, o povo perdeu a no√ß√£o do ridiculo, e n√£o ha
-j√° ironia que lhe fa√ßa mossa. As agudezas da arte n√£o o penetram. √â
+intitula _A Casa Garrett_, onde todas estas coisas se d„o, assim como se
+d· a um homem o titulo de _Visconde do Marmeleiro,_ sem espanto, sem
+estranhesa, sem sobresalto, o povo perdeu a noÁ„o do ridiculo, e n„o ha
+j· ironia que lhe faÁa mossa. As agudezas da arte n„o o penetram. …
 preciso uma broca.
 
-As _Farpas_ necessitavam de descan√ßar movendo-se, vindo √° pra√ßa publica,
-indagando se havia para ellas um logar entre a multid√£o, mostrando-se
+As _Farpas_ necessitavam de descanÁar movendo-se, vindo · praÁa publica,
+indagando se havia para ellas um logar entre a multid„o, mostrando-se
 uma vez participantes no movimento do seu tempo.
 
-Quando a commiss√£o dos escriptores reunida para celebrar o centenario,
+Quando a commiss„o dos escriptores reunida para celebrar o centenario,
 publicou o programma que nos encarregou de fazer, a cidade inteira riu
 durante trez dias com trez noites.
 
---√â a cerra√ß√£o da velha ou √© o enterro do bacalhau?--perguntava-se aos
-ch√°s de familia, nas casas particulares, nos botequins, nos pa√ßos dos
+--… a cerraÁ„o da velha ou È o enterro do bacalhau?--perguntava-se aos
+ch·s de familia, nas casas particulares, nos botequins, nos paÁos dos
 nossos reis e nas estalagens.
 
-A na√ß√£o inteira, congrassada no preito de uma ideia commum, representada
-n'uma enorme prociss√£o civica, com os andores dos santos substituidos
+A naÁ„o inteira, congrassada no preito de uma ideia commum, representada
+n'uma enorme prociss„o civica, com os andores dos santos substituidos
 pelos symbolos e pelos tropheus do trabalho e da intelligencia do homem;
-reunidas pelo abra√ßo da solidariedade patriotica todas as classes
-sociaes, que nunca at√© esse dia se haviam encontrado juntas em torno do
+reunidas pelo abraÁo da solidariedade patriotica todas as classes
+sociaes, que nunca atÈ esse dia se haviam encontrado juntas em torno do
 mesmo interesse commum e da mesma sympathia reciproca; os estandartes de
-todas as profiss√µes e os pend√µes de todos os partidos, os mais
+todas as profissıes e os pendıes de todos os partidos, os mais
 radicalmente oppostos e adversos, baixando-se juntos pelo mesmo impulso
-perante a honra e a gloria da patria; o rei √° frente entre os
+perante a honra e a gloria da patria; o rei · frente entre os
 socialistas mais intransigentes e entre os republicanos mais vermelhos,
-os cortez√µes e os officiaes d'officio, os sabios e os cavadores
+os cortezıes e os officiaes d'officio, os sabios e os cavadores
 d'enchada, os juizes com as suas becas, os generaes com os seus
 uniformes, os doutores com os seus capellos, os campinos com os seus
-cavallos √° redea, os pescadores, de pernas nuas e p√©s descalsos com uma
-vela em triumpho, os pastores, de tamancos com cal√ß√µes de pelle de
+cavallos · redea, os pescadores, de pernas nuas e pÈs descalsos com uma
+vela em triumpho, os pastores, de tamancos com calÁıes de pelle de
 cabra, abordoados aos cajados, os soldados com as bandeiras e as
-espingardas coroadas d'oliveira, os cidad√£os, todos emfim, fraternisando
+espingardas coroadas d'oliveira, os cidad„os, todos emfim, fraternisando
 n'um sentimento e n'uma ideia, era effectivamente o espectaculo mais
-proprio para fazer cocegas debaixo dos bra√ßas √° na√ß√£o e para desengonsar
+proprio para fazer cocegas debaixo dos braÁas · naÁ„o e para desengonsar
 pela gargalhada as mandibulas do publico.
 
 Apesar d'isso porem o programma, depois de devidamente modificado pelo
-governo, como o pedia o decoro da cor√¥a e a dignidade do exercito,
-cumpriu-se, e a prociss√£o civica n√£o foi inteiramente o _enterro do
+governo, como o pedia o decoro da corÙa e a dignidade do exercito,
+cumpriu-se, e a prociss„o civica n„o foi inteiramente o _enterro do
 bacalhau_, como se predizia: foi apenas o _enterro da monarchia_.
 
-Nenhum outro facto a n√£o ser a apotheose de Luiz de Cam√µes, seria
+Nenhum outro facto a n„o ser a apotheose de Luiz de Camıes, seria
 possivel invocar como tregoa das divergencias que nos desunem, para
-cohes√£o social do espirito portuguez.
+cohes„o social do espirito portuguez.
 
 Em nenhuma outra, litteratura existe um poeta cuja personalidade se ache
-como a de Cam√µes t√£o profundamente e t√£o indissoluvelmente ligada ao
-genio, √° historia e ao destino do seu paiz. Os Luziadas s√£o a patria
-portugueza affirmada na forma indestructivel e sagrada da arte, s√£o a
+como a de Camıes t„o profundamente e t„o indissoluvelmente ligada ao
+genio, · historia e ao destino do seu paiz. Os Luziadas s„o a patria
+portugueza affirmada na forma indestructivel e sagrada da arte, s„o a
 nacionalidade de um povo manifesta e comprovada por todos os seus
-direitos √° vida historica, direitos immortalisados pela unc√ß√£o de uma
+direitos · vida historica, direitos immortalisados pela uncÁ„o de uma
 poesia eterna.
 
-A celebra√ß√£o solemne do centenario de um tal artista podia ser para a
+A celebraÁ„o solemne do centenario de um tal artista podia ser para a
 sociedade portugueza o que a leitura dos Luziadas foi para os grandes
-cidad√£os nas crises de decadencia nacional,--um estimulo supremo de
+cidad„os nas crises de decadencia nacional,--um estimulo supremo de
 energia e de revivescencia patriotica.
 
 Repellindo com uma bossalidade grosseira, por meio de uma estupidez
-verdadeiramente cornea, esta occasi√£o unica de revincular a tradi√ß√£o
-historica da allian√ßa do rei com o povo, o governo monarchico lavrou o
+verdadeiramente cornea, esta occasi„o unica de revincular a tradiÁ„o
+historica da allianÁa do rei com o povo, o governo monarchico lavrou o
 documento mais formal da sua incompetencia organica para continuar a
 dirigir os destinos do paiz. Este simples facto demonstra do modo mais
 evidente que as fontes do systema representativo que presentemente nos
-rege est√£o profundamente viciadas e insanavelmente corrompidas.
+rege est„o profundamente viciadas e insanavelmente corrompidas.
 
-Um ministerio que procede de tal forma, em opposi√ß√£o radical com o
-espirito da na√ß√£o, e que depois disso continua a manter-se no poder com
+Um ministerio que procede de tal forma, em opposiÁ„o radical com o
+espirito da naÁ„o, e que depois disso continua a manter-se no poder com
 o beneplacito da camara, constitue a prova irrefutavel de que a
-soberania nacional √© uma pura far√ßa dentro de tal regimen, que a
-delega√ß√£o dos poderes √© uma mentira e que o chamado governo
-constitucional √© uma fraude torpe, uma desfar√ßada usurpa√ß√£o hypocrita e
+soberania nacional È uma pura farÁa dentro de tal regimen, que a
+delegaÁ„o dos poderes È uma mentira e que o chamado governo
+constitucional È uma fraude torpe, uma desfarÁada usurpaÁ„o hypocrita e
 cobarde.
 
 Ha poucos dias ainda um deputado proferiu em pleno parlamento a seguinte
 pbrase:
 
-_A camara aguarda as determina√ß√µes do governo_. Este eloquente e
+_A camara aguarda as determinaÁıes do governo_. Este eloquente e
 arrojado tribuno do povo fallou bem. _Multa in paucis_. Toda a
-philosophia da representa√ß√£o nacional portugueza no presente momento
-historico se encerra n'essa synthese sublime e immorredoura:--¬´A camara
-aguarda as determina√ß√µes do governo.¬ª
+philosophia da representaÁ„o nacional portugueza no presente momento
+historico se encerra n'essa synthese sublime e immorredoura:--´A camara
+aguarda as determinaÁıes do governo.ª
 
-A subserviencia do soberano ao dominio de espiritos t√£o garantidamente
-nulos e t√£o perfeitamente chatos como os que o aconselharam no
-centenario de Cam√µes prova-nos que o cerebro da dynastia se acha tocado
+A subserviencia do soberano ao dominio de espiritos t„o garantidamente
+nulos e t„o perfeitamente chatos como os que o aconselharam no
+centenario de Camıes prova-nos que o cerebro da dynastia se acha tocado
 pelas fatalidades atavicas inherentes a um organismo em torno de cuja
-massa encephalica gira sangue do snr D. Jo√£o VI.
+massa encephalica gira sangue do snr D. Jo„o VI.
 
        *       *       *       *       *
 
-Das manifesta√ß√µes publicas a que deu origem o centenario de Cam√µes
+Das manifestaÁıes publicas a que deu origem o centenario de Camıes
 parecia poder-se deduzir:
 
 _Primeiro_--Que o systema monarchico representativo vigente, corrompido
-pela vicia√ß√£o do suffragio, deixando de representar a soberania da
-na√ß√£o, perdera por esse facto a ras√£o de ser,--o que de resto elle
-proprio mostrava comprehender, principiando a brilhar pela aus√™ncia al√©m
-do muito que j√° brilhava pela inanidade.
+pela viciaÁ„o do suffragio, deixando de representar a soberania da
+naÁ„o, perdera por esse facto a ras„o de ser,--o que de resto elle
+proprio mostrava comprehender, principiando a brilhar pela ausÍncia alÈm
+do muito que j· brilhava pela inanidade.
 
 _Segundo_--Que o espirito do publico em Portugal estava adeante das
-institui√ß√µes e que tinha portanto de as substituir ou de as despresar.
+instituiÁıes e que tinha portanto de as substituir ou de as despresar.
 
-_Terceiro_--Que o principio de associa√ß√£o, pelo desenvolvimento enorme
+_Terceiro_--Que o principio de associaÁ„o, pelo desenvolvimento enorme
 que attingira no decurso dos ultimos annos, teria de ser tomado por base
 de toda a reforma por que houvesse de passar no paiz a ordem politica
 assim como a ordem social e a ordem economica.
@@ -810,316 +810,316 @@ assim como a ordem social e a ordem economica.
 
 Admittidas essas hypotheses, o progresso consistiria:
 
-_Primeiro_--Em minar systematicamente as institui√ß√µes, approximando
+_Primeiro_--Em minar systematicamente as instituiÁıes, approximando
 d'ellas subtilmente todos os reagentes que pudessem contribuir para as
-dissolver mais depressa: ideias, argumentos, logica, sab√£o e verdade.
+dissolver mais depressa: ideias, argumentos, logica, sab„o e verdade.
 
 _Segundo_---Em educar o espirito publico por meio de bons livros e de
-bons jornaes, systematisando as ideias, coordenando as aspira√ß√µes,
+bons jornaes, systematisando as ideias, coordenando as aspiraÁıes,
 elevando o gosto, e transformando assim a pouco e pouco a concorrencia
-de actividades desunidas em convergencia de for√ßas combinadas.
+de actividades desunidas em convergencia de forÁas combinadas.
 
-_Terceiro_--Em confederar as corpora√ß√µes de todos os trabalhadores
+_Terceiro_--Em confederar as corporaÁıes de todos os trabalhadores
 associados---duzentos mil homens, mandando em cada anno os seus
 deputados a um congresso livre em que se defendessem os deveres das
 classes trabalhadoras, os seus direitos, os seus interesses, a sua
-situa√ß√£o perante a continuidade historica e perante a solidariedade
-social, o estado das suas rela√ß√µes economicas e moraes com a politica
+situaÁ„o perante a continuidade historica e perante a solidariedade
+social, o estado das suas relaÁıes economicas e moraes com a politica
 interior e com a politica exterior do paiz, fundamentando assim os
 alicerces de um novo regimen de liberdade efficiente, contraposto ao
-velho regimen de auctoridade inutil,--especie de inicia√ß√£o pacifica e
+velho regimen de auctoridade inutil,--especie de iniciaÁ„o pacifica e
 fecunda para o advento de uma verdadeira democracia, para um systema de
-_self-governement_ ou de federalismo economico √° Proudhon.
+_self-governement_ ou de federalismo economico · Proudhon.
 
        *       *       *       *       *
 
-Que √© que se tem feito no espa√ßo de dois annos decorridos desde o
-centenario at√© hoje para o fim de encaminhar as ideias no sentido
-d'essas solu√ß√µes?
+Que È que se tem feito no espaÁo de dois annos decorridos desde o
+centenario atÈ hoje para o fim de encaminhar as ideias no sentido
+d'essas soluÁıes?
 
        *       *       *       *       *
 
-Fundou-se a associa√ß√£o dos escriptores com trezentos e cincoenta
-associados, dos quaes trezentos e quarenta, pelo menos, n√£o s√£o
-escriptores, porque se n√£o p√≥de com precis√£o technica dar esse nome aos
-individuos que por meio das letras n√£o cultivam uma sciencia, uma
-philosophia ou uma arte. As letras s√≥ de per si s√£o puramente um meio.
-Todo o pretendido escriptor que n√£o tem dentro um sabio, um philosopho
-ou um artista, n√£o √© bem um escriptor, √© um escrevente, e isto ainda na
+Fundou-se a associaÁ„o dos escriptores com trezentos e cincoenta
+associados, dos quaes trezentos e quarenta, pelo menos, n„o s„o
+escriptores, porque se n„o pÛde com precis„o technica dar esse nome aos
+individuos que por meio das letras n„o cultivam uma sciencia, uma
+philosophia ou uma arte. As letras sÛ de per si s„o puramente um meio.
+Todo o pretendido escriptor que n„o tem dentro um sabio, um philosopho
+ou um artista, n„o È bem um escriptor, È um escrevente, e isto ainda na
 hypothese de que tenha orthographia e boa lettra. Faltando-lhe esses
-dois predicados nem escrevente √©, √© um esvasiador de tinteiros em prelos
-e de prelos em papel de impress√£o, o que verdadeiramente se deve chamar
+dois predicados nem escrevente È, È um esvasiador de tinteiros em prelos
+e de prelos em papel de impress„o, o que verdadeiramente se deve chamar
 um _troca-tintas,_ apenas.
 
-N'esta associa√ß√£o dos escriptores come√ßou um socio, professor de
-instruc√ß√£o primaria, por annunciar um _curso de leitura para
-analphabetos._ Como epigramma a si mesmos devemos confessar que √© este o
+N'esta associaÁ„o dos escriptores comeÁou um socio, professor de
+instrucÁ„o primaria, por annunciar um _curso de leitura para
+analphabetos._ Como epigramma a si mesmos devemos confessar que È este o
 mais espirituoso que os litteratos reunidos teem botado aos quatro
 ventos do seculo.
 
 Os snrs Consiglieri Pedroso, Adolpho Coelho e Joaquim de Vasconcellos
-teem feito na sociedade dos escriptores prelec√ß√µes importantes sobre
+teem feito na sociedade dos escriptores prelecÁıes importantes sobre
 historia universal, sobre linguistica e sobre critica d'arte. Cremos
-por√©m que estes bellos e desinteressados servi√ßos √° sciencia tanto
-poderiam ser prestados por aquelles cavalheiros na sala da associ√ß√£o dos
+porÈm que estes bellos e desinteressados serviÁos · sciencia tanto
+poderiam ser prestados por aquelles cavalheiros na sala da associÁ„o dos
 escriptores como na sociedade _Luz e Caridade_ ou na de _Maria Pia,
-Protectora dos Portuguezes,_--nova coisa que os do Porto abriram agora √°
-gargalhada do mundo e √° necessidade que os protegidos sentiam n'aquella
+Protectora dos Portuguezes,_--nova coisa que os do Porto abriram agora ·
+gargalhada do mundo e · necessidade que os protegidos sentiam n'aquella
 cidade de jogar a bisca juntos sob a egide d'uma mesma princeza.
 
-Como corpo collectivo a associa√ß√£o dos escriptores tem evitado toda a
+Como corpo collectivo a associaÁ„o dos escriptores tem evitado toda a
 especie de contacto com o movimento social ou com os interesses
 intellectuaes da classe por meio de um melindre de sensitiva e de uma
 pudicicia de vestal velha.
 
-Na qualidade de corpora√ß√£o registrada no governo civil e com estatutos
+Na qualidade de corporaÁ„o registrada no governo civil e com estatutos
 approvados pelo governo, os escriptores teem apenas produzido
 luminarias, dois jantares, um passeio fluvial e algumas assembleias
 geraes.
 
 Em vista de tal esterilidade, os dramaturgos, bem avisados, separaram-se
-ultimamente da corpora√ß√£o e fizeram panella √° parte.
+ultimamente da corporaÁ„o e fizeram panella · parte.
 
-Estreitados por este novo vinculo e aguilhoados em suas imagina√ß√µes pela
-paix√£o ardente das artes scenicas, os escriptores dramaticos n√£o
-principiaram ainda a primeira pe√ßa feita em collabora√ß√£o ou
-separadamente, mas v√£o j√° no quarto ou quinto jantar mensal comido de
-sucia. Bom appetite para o resto de carreira t√£o briosamente encetada √©
+Estreitados por este novo vinculo e aguilhoados em suas imaginaÁıes pela
+paix„o ardente das artes scenicas, os escriptores dramaticos n„o
+principiaram ainda a primeira peÁa feita em collaboraÁ„o ou
+separadamente, mas v„o j· no quarto ou quinto jantar mensal comido de
+sucia. Bom appetite para o resto de carreira t„o briosamente encetada È
 o que do fundo d'alma desejamos a estes espirituosos filhos de
 Melpomone.
 
        *       *       *       *       *
 
-Emquanto a livros destinados a lan√ßar alguma luz sobre o atoleiro tem
+Emquanto a livros destinados a lanÁar alguma luz sobre o atoleiro tem
 havido pouco tempo para os fazer. O snr Antonio de Serpa foi o que
-projectou mais clar√£o. Este notavel estadista fez o favor de nos revelar
-na sua ultima obra que um ministro em Portugal n√£o tem tempo para tratar
-das quest√µes. Todo o dia de um ministro √© pequeno para parlamentar e
-para ouvir requerentes. Ainda bem que por este lado ao menos est√° o
+projectou mais clar„o. Este notavel estadista fez o favor de nos revelar
+na sua ultima obra que um ministro em Portugal n„o tem tempo para tratar
+das questıes. Todo o dia de um ministro È pequeno para parlamentar e
+para ouvir requerentes. Ainda bem que por este lado ao menos est· o
 negocio liquidado. O livro do snr Antonio de Serpa, que foi ministro por
-muitos annos n√£o deixa o menor vislumbre de incerteza sobre esse ponto.
+muitos annos n„o deixa o menor vislumbre de incerteza sobre esse ponto.
 
-Ahi temos o portico da publica governa√ß√£o com os seus ministros
+Ahi temos o portico da publica governaÁ„o com os seus ministros
 dentro.--Truz truz truz!
 
---Quem √©?
+--Quem È?
 
---Est√° em casa o governo?
+--Est· em casa o governo?
 
---Que lhe hade querer? Se √© peditorio, pode entrar; se traz broblema, s.
-ex.¬™ sahiu n'este mesmissimo instante para palacio.
+--Que lhe hade querer? Se È peditorio, pode entrar; se traz broblema, s.
+ex.™ sahiu n'este mesmissimo instante para palacio.
 
-Ficamos sabendo, em summa, e de uma b√¥a vez para sempre, que o governo
-se n√£o ocupa das quest√µes. E' inutil suggerir-lh'as, prop√¥r-lh'as,
-explicar-lh'as, amenisar-lh'as, desfar√ßar-lh'as, imp√¥r-lh'as,
+Ficamos sabendo, em summa, e de uma bÙa vez para sempre, que o governo
+se n„o ocupa das questıes. E' inutil suggerir-lh'as, propÙr-lh'as,
+explicar-lh'as, amenisar-lh'as, desfarÁar-lh'as, impÙr-lh'as,
 estender-lh'as na ponta de um cajado, ou mandar-lh'as a casa n'uma
-travessa com ramos de salsa √° roda e com lim√£o em cima. O governo o que
-n√£o tem √© tempo. Bem! n√£o se lhe falla mais n'isso. O tudo √© haver quem
+travessa com ramos de salsa · roda e com lim„o em cima. O governo o que
+n„o tem È tempo. Bem! n„o se lhe falla mais n'isso. O tudo È haver quem
 explique as coisas!
 
 Varios jornaes com tendencias mais ou menos revolucionarias appareceram,
-desappareceram ou permaneceram depois que o centenario de Cam√µes se
+desappareceram ou permaneceram depois que o centenario de Camıes se
 celebrou, mas em todos esses periodicos tem feito reconhecida falta
-alguem que serenamente nos d√™ dos phenomenos do tempo presente
-explica√ß√µes t√£o cabaes como aquellas em que timbra o snr Antonio de
+alguem que serenamente nos dÍ dos phenomenos do tempo presente
+explicaÁıes t„o cabaes como aquellas em que timbra o snr Antonio de
 Serpa.
 
        *       *       *       *       *
 
-Resta-nos do movimento emmergente da celebra√ß√£o do jubileu camoneano o
-congresso das associa√ß√µes confederadas.
+Resta-nos do movimento emmergente da celebraÁ„o do jubileu camoneano o
+congresso das associaÁıes confederadas.
 
-Para julgarmos do estado das ideias que v√£o ser debatidas n'esse
-parlamento, cuja realisa√ß√£o cumpre confessar que se deve principalmente
-√° iniciativa e √° tenacidade de um unico homem, o snr Theophilo Braga,
-para apreciarmos d'antem√£o a orienta√ß√£o mental e a systematisa√ß√£o de
-principios que as diferentes classes sociaes ter√£o de revelar na
-reuni√£o da dieta cooperativa a que nos referimos, a festa do centenario
+Para julgarmos do estado das ideias que v„o ser debatidas n'esse
+parlamento, cuja realisaÁ„o cumpre confessar que se deve principalmente
+· iniciativa e · tenacidade de um unico homem, o snr Theophilo Braga,
+para apreciarmos d'antem„o a orientaÁ„o mental e a systematisaÁ„o de
+principios que as diferentes classes sociaes ter„o de revelar na
+reuni„o da dieta cooperativa a que nos referimos, a festa do centenario
 do marquez de Pombal, ultimamente celebrada, figura-se-nos ser um
 symptoma culminante e preciossimo.
 
 Antes porem de examinarmos como foi comprehendida pelo publico a
-importancia historica do marquez de Pombal sobre a civilisa√ß√£o
-portugueza, temos de indicar a tra√ßos largos a physionomia do heroe
+importancia historica do marquez de Pombal sobre a civilisaÁ„o
+portugueza, temos de indicar a traÁos largos a physionomia do heroe
 canonisado pelo enthusiasmo popular.
 
        *       *       *       *       *
 
-O marquez de Pombal √© um estadista, um governante,--o que quer dizer--a
+O marquez de Pombal È um estadista, um governante,--o que quer dizer--a
 mais pequena das coisas que um homem grande pode ser.
 
-Buckle...--pois que √© bom citar auctordades extranbas sempre
-que se deseja adduzir opini√µes desinteressadas e argumentos
+Buckle...--pois que È bom citar auctordades extranbas sempre
+que se deseja adduzir opiniıes desinteressadas e argumentos
 insuspeitos--Buckle, um dos primeiros escriptores modernos que fundou em
-bases positivas as leis da civilisa√ß√£o e do progresso, affirma, perante
+bases positivas as leis da civilisaÁ„o e do progresso, affirma, perante
 os factos evidentes superiores a toda a controversia, que todos os
 interesses da sociedade foram sempre na Inglaterra gravemente
 compromettidos por todas as tentativas que os legisladores fizeram para
 os auxiliar. Nenhuma grande reforma, quer legislativa quer executiva,
 foi jamais em paiz algum a obra d'aquelles que governam. Os governos
-constituidos n√£o podem fazer em bem do progresso sen√£o uma coisa:
-dar-lhe possibilidade. Os unicos servi√ßos que um governo pode prestar √°
-civilisa√ß√£o reduzem-se a manter a ordem, a impedir os fortes de opprimir
-os fracos e a tomar algumas precau√ß√µes para o fim de assegurar a saude
-geral. Todo o governo que trasp√µe estes limites ultrapassa o mandato e √©
-criminoso perante a historia.--N√£o somos n√≥s que o dizemos √© Bukle na
-sua _Introduc√ß√£o √° historia da civilisa√ß√¢o em Inglaterra_.
+constituidos n„o podem fazer em bem do progresso sen„o uma coisa:
+dar-lhe possibilidade. Os unicos serviÁos que um governo pode prestar ·
+civilisaÁ„o reduzem-se a manter a ordem, a impedir os fortes de opprimir
+os fracos e a tomar algumas precauÁıes para o fim de assegurar a saude
+geral. Todo o governo que traspıe estes limites ultrapassa o mandato e È
+criminoso perante a historia.--N„o somos nÛs que o dizemos È Bukle na
+sua _IntroducÁ„o · historia da civilisaÁ‚o em Inglaterra_.
 
-Guizot, apesar de todo o seu doutrinarismo, confessa que √©
+Guizot, apesar de todo o seu doutrinarismo, confessa que È
 effectivamente um erro grosseiro o acreditar no poder soberano da
 maquina politica.
 
-Bastiat diz: O Estado n√£o √© mais que uma grande fic√ß√£o atravez da qual
-toda a gente se exfor√ßa por viver √° custa de toda a gente.
+Bastiat diz: O Estado n„o È mais que uma grande ficÁ„o atravez da qual
+toda a gente se exforÁa por viver · custa de toda a gente.
 
 Bagehot, o illustre critico que mais exactamente soube adaptar as leis
-scientificas da evolu√ß√£o biologica aos estudos sociaes, pensa que a
-liberdade ¬´√© o poder que fortifica e desenvolve, √© a luz e o calor do
+scientificas da evoluÁ„o biologica aos estudos sociaes, pensa que a
+liberdade ´È o poder que fortifica e desenvolve, È a luz e o calor do
 mundo politico. Se algum cesarismo conseguiu jamais patentear alguma
 originalidade de espirito, proveio isso de que soube appropriar-se dos
 resultados obtidos pela liberdade ou em tempos passados ou em paizes
-visinhos. Mas ainda em taes casos essa originalidade √© fr√°gil e pouco
-duradoura, e desaparece sempre dentro de um breve espa√ßo de tempo,
-depois de experimentada por uma ou duas gera√ß√µes, exactamente no momento
-em que principiaria a ser necessaria.¬ª
+visinhos. Mas ainda em taes casos essa originalidade È fr·gil e pouco
+duradoura, e desaparece sempre dentro de um breve espaÁo de tempo,
+depois de experimentada por uma ou duas geraÁıes, exactamente no momento
+em que principiaria a ser necessaria.ª
 
-Herbert Spencer explica pela ac√ß√£o physica das martelladas sobre a bossa
+Herbert Spencer explica pela acÁ„o physica das martelladas sobre a bossa
 de uma chapa de ferro os effeitos produzidos sobre o complexo aggregado
-social por essa for√ßa accidental que se chama o governo. Para achatar a
+social por essa forÁa accidental que se chama o governo. Para achatar a
 empola na chapa de ferro o empyrismo bate-lhe em cima com um martello: o
-resultado correspondente a este esfor√ßo √© que a bolha recalcada para
-baixo cada vez incha mais para cima, e a lamina n√£o somente se torna
+resultado correspondente a este esforÁo È que a bolha recalcada para
+baixo cada vez incha mais para cima, e a lamina n„o somente se torna
 mais barriguda do que estava no ponto defeituoso mas contrae ainda
-defeitos novos e imprevistos come√ßando a arrebitar pelas extremidades.
-E' como a d'este martello a ac√ß√£o dos governos sobre a reforma√ß√£o das
+defeitos novos e imprevistos comeÁando a arrebitar pelas extremidades.
+E' como a d'este martello a acÁ„o dos governos sobre a reformaÁ„o das
 sociedades.
 
-Referindo-se √° inutilidade dos homens que governam com rela√ß√£o aos
-destinos dos que s√£o governados, o mesmo Herbert Spencer escreve:
+Referindo-se · inutilidade dos homens que governam com relaÁ„o aos
+destinos dos que s„o governados, o mesmo Herbert Spencer escreve:
 
-¬´Ad√£o Smith ao canto do seu fog√£o impoz ao mundo muito mais
-consideraveis mudan√ßas do que qualquer primeiro ministro. Um general
+´Ad„o Smith ao canto do seu fog„o impoz ao mundo muito mais
+consideraveis mudanÁas do que qualquer primeiro ministro. Um general
 Thompson, que forja as armas necessarias para a guerra contra a lei dos
-cereaes, um Cobden e um Bright, que as aperfei√ßoam e que se servem
-d'ellas, contribuem mais para a civilisa√ß√£n do que qualquer
-porta-sceptro. O facto pode desagradar aos estadistas, mas √©
-indiscutivel. Calculem-se todos os resultados adquiridos j√° pelo livre
+cereaes, um Cobden e um Bright, que as aperfeiÁoam e que se servem
+d'ellas, contribuem mais para a civilisaÁ„n do que qualquer
+porta-sceptro. O facto pode desagradar aos estadistas, mas È
+indiscutivel. Calculem-se todos os resultados adquiridos j· pelo livre
 cambio, juntem-se-lhes os resultados muito maiores ainda que elle nos
-promette, n√£o somente a nos, mas a todas as na√ß√µes que adoptarem o nosso
-principio, e ver-se-ha que a revolu√ß√£o emprehendida por esses homens
+promette, n„o somente a nos, mas a todas as naÁıes que adoptarem o nosso
+principio, e ver-se-ha que a revoluÁ„o emprehendida por esses homens
 excede em grandeza tudo o que jamais fez um potentado. O snr Carlyle
 sabe-o bem: aquelles que preparam verdades novas e que as ensinam aos
-seus similhantes s√£o em nossos dias os verdadeiros poderes, os
-_legisladores n√£o reconhecidos_, os unicos reis. Os que se sentam nos
-thronos e os que comp√µem os gabinetes--toda a gente o sabe--s√£o
-simplesmente os servos d'aquelles homens.¬ª
+seus similhantes s„o em nossos dias os verdadeiros poderes, os
+_legisladores n„o reconhecidos_, os unicos reis. Os que se sentam nos
+thronos e os que compıem os gabinetes--toda a gente o sabe--s„o
+simplesmente os servos d'aquelles homens.ª
 
-Muitos outros exemplos se poderiam acrescentar aos que s√£o referidos por
+Muitos outros exemplos se poderiam acrescentar aos que s„o referidos por
 Spencer.
 
 Os mais complicados problemas sociaes, como o do augmento da riqueza, e
-o do augmento dos bra√ßos, s√£o resolvidos no fundo de uma officina por
+o do augmento dos braÁos, s„o resolvidos no fundo de uma officina por
 simples trabalhadores.
 
-O metallurgista Bessemer por meio da fabrica√ß√£o do a√ßo dota as na√ß√µes
+O metallurgista Bessemer por meio da fabricaÁ„o do aÁo dota as naÁıes
 civilisadas com uma economia de dinheiro que o _Scientific American_
-calcula sobre bases precisas, somente com rela√ß√£o √° produc√ß√£o do a√ßo
+calcula sobre bases precisas, somente com relaÁ„o · producÁ„o do aÁo
 bruto, na quantia de noventa mil contos por anno. Tomando em conta o
-excesso de dura√ß√£o, adquirido nos artefactos pela substitui√ß√£o do ferro
-pelo a√ßo, e devido √° inven√ß√£o de Bessemer, a economia realisada pela Gr√£
-Bretanha unicamente, na dura√ß√£o dos rails dos caminhos de ferro,
+excesso de duraÁ„o, adquirido nos artefactos pela substituiÁ„o do ferro
+pelo aÁo, e devido · invenÁ„o de Bessemer, a economia realisada pela Gr„
+Bretanha unicamente, na duraÁ„o dos rails dos caminhos de ferro,
 eleva-se a um rendimento de quinhentos e sessenta e cinco mil contos.
-Qual √© a medida governativa que jamais produziu um tal resultado?
+Qual È a medida governativa que jamais produziu um tal resultado?
 
-Em 1781, no mesmo anno em que o marquez de Pombal exclamava: _Agora √©
-que Portugal vae √° vela_, Watt descobria a applica√ß√£o do vapor. Decorreu
-apenas um seculo depois da inven√ß√£o do vapor applicado ao movimento de
-uma arvore de rota√ß√£o, e as ultimas estatiscas do snr Bresca mostramnos
-que, somente em Fran√ßa, a for√ßa productiva inventada por Watt se acha
-representada por um milh√£o e cem mil cavallos de vapor. Calculada em
-doze homens e meio a paridade de for√ßa de cada cavallo de vapor, temos
-quatorze milh√µes d'homens correspondentes ao milh√£o e cem mil cavallos.
-Esses vintes e oito milh√µes de bra√ßos d'a√ßo, trabalhando mais do que
-outros tantos milh√µes de bra√ßos humanos, auguentam a for√ßa muscular da
-Fran√ßa, pela dadiva de um simples e modesto operario, em quantidade
-muito maior do que a for√ßa destruida nas guerras pelo imperador
-Napole√£o.
+Em 1781, no mesmo anno em que o marquez de Pombal exclamava: _Agora È
+que Portugal vae · vela_, Watt descobria a applicaÁ„o do vapor. Decorreu
+apenas um seculo depois da invenÁ„o do vapor applicado ao movimento de
+uma arvore de rotaÁ„o, e as ultimas estatiscas do snr Bresca mostramnos
+que, somente em FranÁa, a forÁa productiva inventada por Watt se acha
+representada por um milh„o e cem mil cavallos de vapor. Calculada em
+doze homens e meio a paridade de forÁa de cada cavallo de vapor, temos
+quatorze milhıes d'homens correspondentes ao milh„o e cem mil cavallos.
+Esses vintes e oito milhıes de braÁos d'aÁo, trabalhando mais do que
+outros tantos milhıes de braÁos humanos, auguentam a forÁa muscular da
+FranÁa, pela dadiva de um simples e modesto operario, em quantidade
+muito maior do que a forÁa destruida nas guerras pelo imperador
+Napole„o.
 
-O problema scientifico, n'este momento em resolu√ß√£o, da transmiss√£o da
-for√ßa pelos conductos pneumaticos e pelos fios electricos; p√µe a
-catarata do Niagara ao servi√ßo do trabalho universal, e segundo uma
+O problema scientifico, n'este momento em resoluÁ„o, da transmiss„o da
+forÁa pelos conductos pneumaticos e pelos fios electricos; pıe a
+catarata do Niagara ao serviÁo do trabalho universal, e segundo uma
 memoria do snr Siemens apresentada recentemente ao _Iron and Steele
-Institute_, s√≥ a for√ßa do Niagara √© superior √° de todo o carv√£o que hoje
+Institute_, sÛ a forÁa do Niagara È superior · de todo o carv„o que hoje
 se queima no globo, se todo elle fosse exclusivamente empregado em
 produzir trabalho.
 
 Os homens que mais reconhecida e decisiva influencia teem tido nas
-reformas economicas e sociaes do nosso tempo n√£o s√£o nunca os homens
-d'estado, mas sim os homens d'estudo, simples jornalistas como Jo√£o
-Baptista Say e Carlos Dunoyer, um obscuro cirurgi√£o como Quesnay, um
-modesto professor como Ad√£o Smith.
+reformas economicas e sociaes do nosso tempo n„o s„o nunca os homens
+d'estado, mas sim os homens d'estudo, simples jornalistas como Jo„o
+Baptista Say e Carlos Dunoyer, um obscuro cirurgi„o como Quesnay, um
+modesto professor como Ad„o Smith.
 
-Aquillo que se chama propriamente um _governante_ n√£o √© mais que o resto
+Aquillo que se chama propriamente um _governante_ n„o È mais que o resto
 anachronico de uma velha liturgia hoje extincta. O vulto grosseiro
-d'esse dictador que se chamou Sebasti√£o Jos√© de Carvalho, levantado em
+d'esse dictador que se chamou Sebasti„o JosÈ de Carvalho, levantado em
 triumpho como um symbolo de progresso e de liberdade, com a sua
 cabelleira de rabicho, com os seus autos do Tribunal da Inconfidencia e
-os seus cadernos da Intendencia da Policia debaixo dos bra√ßos, faz-nos o
+os seus cadernos da Intendencia da Policia debaixo dos braÁos, faz-nos o
 effeito de um velho monstro paleontologico, desenterrado das florestas
 carboniferas e reposto, com palha dentro, no meio do espanto da flora e
 da fauna do mundo moderno.
 
 Que significa uma similhante festa dos filhos da liberdade ao
 representante do despotismo? Que sentido absurdo se pode ligar no fim do
-seculo XIX a esta nova e inesperada _Declara√ß√£o dos direitos do
-governo_, depois que a Revolu√ß√£o Franceza nos fez presente a todos n√≥s
-da _Declara√ß√£o dos direitos do homem_?
+seculo XIX a esta nova e inesperada _DeclaraÁ„o dos direitos do
+governo_, depois que a RevoluÁ„o Franceza nos fez presente a todos nÛs
+da _DeclaraÁ„o dos direitos do homem_?
 
-Desde 1789 at√© hoje todos os esfor√ßos dos povos cultos teem tendido
-precisamente a enterrar o principio que n√≥s resuscitamos com a apotheose
-solemne de um estadista. Todo o immenso trabalho da reconstitui√ß√£o
+Desde 1789 atÈ hoje todos os esforÁos dos povos cultos teem tendido
+precisamente a enterrar o principio que nÛs resuscitamos com a apotheose
+solemne de um estadista. Todo o immenso trabalho da reconstituiÁ„o
 social durante este seculo tem consistido para todos os homens livres em
 negar aquillo que a memoria do marquez de Pombal affirma, em eliminar a
-ac√ß√£o do estado sobre os actos dos individuos, reivindicando sobre os
+acÁ„o do estado sobre os actos dos individuos, reivindicando sobre os
 restos das velhas tyrannias auctoritarias todas as liberdades
-proclamadas pela Revolu√ß√£o, a liberdade de imprensa, a liberdade de
-cultos, a liberdade de ensino, a liberdade de associa√ß√£o, a liberdade de
-reuni√£o, a liberdade de commercio, a liberdade de industria, a liberdade
+proclamadas pela RevoluÁ„o, a liberdade de imprensa, a liberdade de
+cultos, a liberdade de ensino, a liberdade de associaÁ„o, a liberdade de
+reuni„o, a liberdade de commercio, a liberdade de industria, a liberdade
 de trabalho.
 
 A personalidade de um estadista da escola do marquez de Pombal
-representa a nega√ß√£o expressa de todas essas liberdades, representa a
-revivescencia do antigo despotismo monarchico, a coer√ß√£o do homem sobre
-o homem, quando o que todos n√≥s pedimos desde Danton para c√°, em nome da
-dignidade da especie, rehabilitada pela sciencia na posse de si mesma, √©
-o livre exercicio da ac√ß√£o do homem sobre a natureza.
+representa a negaÁ„o expressa de todas essas liberdades, representa a
+revivescencia do antigo despotismo monarchico, a coerÁ„o do homem sobre
+o homem, quando o que todos nÛs pedimos desde Danton para c·, em nome da
+dignidade da especie, rehabilitada pela sciencia na posse de si mesma, È
+o livre exercicio da acÁ„o do homem sobre a natureza.
 
-Os unicos povos do globo que ainda hoje acceitam, n√£o diremos com os
-regosijos de um triumpho, mas simplesmente sem discuss√£o, sem protesto
+Os unicos povos do globo que ainda hoje acceitam, n„o diremos com os
+regosijos de um triumpho, mas simplesmente sem discuss„o, sem protesto
 ou sem revolta, o principio da auctoridade representada pelo arbitrio de
-um individuo, s√£o os selvagens; s√£o os aschantis, cujo rei, herdeiro
-unico e for√ßado de todos os seus subditos, tem 3:333 mulheres e um
+um individuo, s„o os selvagens; s„o os aschantis, cujo rei, herdeiro
+unico e forÁado de todos os seus subditos, tem 3:333 mulheres e um
 numero proporcionado de filhos, com o direito de saque sobre toda a
-communidade; s√£o os kafungas do Valle do Niger, onde ninguem se
-approxima do soberano sen√£o com as m√£os no ch√£o e a cabe√ßa arrastada na
-lama; s√£o os abyssinios, que nascem todos escravos do rei seu dono: s√£o
-os malanesios, cujo chefe tem o tratamento de _Deus_; s√£o finalmente os
+communidade; s„o os kafungas do Valle do Niger, onde ninguem se
+approxima do soberano sen„o com as m„os no ch„o e a cabeÁa arrastada na
+lama; s„o os abyssinios, que nascem todos escravos do rei seu dono: s„o
+os malanesios, cujo chefe tem o tratamento de _Deus_; s„o finalmente os
 cafres, os botocudos, os topinambas, os patangonios e os esquimaus.
 
-Na Europa j√° n√£o ha d'isso.
+Na Europa j· n„o ha d'isso.
 
-Com a emancipa√ß√£o intelectual dos governados acabou o prestigio dos
+Com a emancipaÁ„o intelectual dos governados acabou o prestigio dos
 governantes.
 
-A Hispanha, a Italia, a Fran√ßa, a Inglaterra, a Allemanha celebram com
+A Hispanha, a Italia, a FranÁa, a Inglaterra, a Allemanha celebram com
 religiosa piedade filial os centenarios dos seus poetas, dos seus
 artistas, dos seus philosophos, dos seus paes espirituaes, dos seus
-bemfeitores. Em regi√£o nenhuma do mundo arroteada pela civilisa√ß√£o se
+bemfeitores. Em regi„o nenhuma do mundo arroteada pela civilisaÁ„o se
 celebra o culto do estadista, agente ephemero de estados sociaes
 transitorios, especie sempre brutal se triumpha das resistencias, sempre
 impura se se concilia com ellas, engenho destinado a condensar poder e a
-segregar leis, t√£o passageiras como o apparelho de que procedem, e todas
-m√°s sempre que n√£o teem por objecto a revoga√ß√£o d'outras que as
+segregar leis, t„o passageiras como o apparelho de que procedem, e todas
+m·s sempre que n„o teem por objecto a revogaÁ„o d'outras que as
 precederam.
 
 A sciencia anthropologica confirma inteiramente o instincto popular no
@@ -1129,9 +1129,9 @@ psychologica a historia natural dos _grandes homens_, divide estes em
 tres grupos: os monotypicos, os polytipicos e os philosophos. No
 primeiro grupo entram as altas intelligencias monocordes como as dos
 poetas, dos pintores, dos musicos, dos engenheiros, dos astronomos, etc.
-O segundo grupo comp√µe-se dos espiritos de natureza multipla cuja
+O segundo grupo compıe-se dos espiritos de natureza multipla cuja
 actividade se exerce nos trabalhos mais variados, cujos resultados elles
-s√£o todavia impotentes para coordenar em conjuncto. Pertencem a esta
+s„o todavia impotentes para coordenar em conjuncto. Pertencem a esta
 familia Haller, poeta, naturalista, physiologista, auctor de 576 obras e
 de 12:000 artigos bibliographicos; Humboldt, que aprendeu philologia
 aos setenta annos e publicou a ultima parte do _Cosmos_ dos oitenta e um
@@ -1142,42 +1142,42 @@ Auguste Comte, Leibnitz, Lagrange, e na segunda de Newton, Grove, Daniel
 Bernouilli, etc.
 
 Em nenhuma d'essas categorias se comprehendem os estadistas, porque a
-anthropologia psychologica n√£o acceita como grandes homens sen√£o os
-cread√¥res da arte, da sciencia ou da philosophia.
+anthropologia psychologica n„o acceita como grandes homens sen„o os
+creadÙres da arte, da sciencia ou da philosophia.
 
        *       *       *       *       *
 
 Determinada a especie, passemos agora a examinar o individuo.
 
 Durante o seculo XVIII--diz Michel Chevalier--vemos successivamente
-passar na direc√ß√£o dos negocios na maior parte dos Estados, ou seja como
+passar na direcÁ„o dos negocios na maior parte dos Estados, ou seja como
 rei ou como primeiro ministro, um reformador applicado a destruir a
 supremacia da nobresa e do clero, com o fundamento de que a nobresa
 tendia a attribuir-se uma parte das prerogativas do governo em
 detrimento da realesa e por vantagem propria, emquanto o clero aspirava
 a dirigir a sociedade ficando elle, unicamente sujeito a um soberano
-extrangeiro que com uma triplice cor√¥a na cabe√ßa se considerava o rei
+extrangeiro que com uma triplice corÙa na cabeÁa se considerava o rei
 dos reis. N'este presupposto era como senha dada e geralmente obedecida
-suscitar por meios mais ou menos artificiaes, √° falta d'outros mais
+suscitar por meios mais ou menos artificiaes, · falta d'outros mais
 convenientemente entendidos e mais efficazes, o desenvolvimento da
 agricultura, do commercio e das manufacturas, afim de augmentar a
 riqueza dos povos e os recursos do Estado, de que o principe dispunha
-arbitrariamente. Parecia util espalhar a instruc√ß√£o, porque ella
-contribue para formar uma opini√£o publica que pode contrabalan√ßar a
+arbitrariamente. Parecia util espalhar a instrucÁ„o, porque ella
+contribue para formar uma opini„o publica que pode contrabalanÁar a
 auctoridade do clero sobre os espiritos. Quanto ao mechanismo do governo
-punha-se completamente de parte a liberdade. A divisa era: O estado √© o
-principe. Todos o pensavam com quanto o n√£o proclamassem como Luiz XIV.
-Esta fei√ß√£o geral encontra-se em graus diversos, sob formas differentes
-e com accessorios appropriados aos logares e √°s circumstancias em varios
+punha-se completamente de parte a liberdade. A divisa era: O estado È o
+principe. Todos o pensavam com quanto o n„o proclamassem como Luiz XIV.
+Esta feiÁ„o geral encontra-se em graus diversos, sob formas differentes
+e com accessorios appropriados aos logares e ·s circumstancias em varios
 estados durante uma ou outra parte do seculo XVIII. No norte essa
-express√£o √© brilhante na c√¥rte do grande Frederico e da grande
-Catharina; no centro da Europa na c√¥rte de Jos√© II. No sul apparece em
+express„o È brilhante na cÙrte do grande Frederico e da grande
+Catharina; no centro da Europa na cÙrte de JosÈ II. No sul apparece em
 Pombal, e, em grau menor, nos dois hispanhoes rivaes um do outro
 Campomanes e Florida Blanca.
 
-D'esta exposi√ß√£o t√£o clara do systema geral de reformas governativas na
-Europa durante a primeira metade do seculo passado, exposi√ß√£o devida a
-uma auctoridade t√£o insuspeita como a do economista Michel Chevelier,
+D'esta exposiÁ„o t„o clara do systema geral de reformas governativas na
+Europa durante a primeira metade do seculo passado, exposiÁ„o devida a
+uma auctoridade t„o insuspeita como a do economista Michel Chevelier,
 deduz-se immediatamente que o talento politico do marquez de Pombal
 carece de originalidade.
 
@@ -1185,350 +1185,350 @@ Esta circunstancia destroe em grande parte o intuito patriotico que
 geralmente se lhe alttribue de pretender, n'um ponto de vista nacional,
 reformar e reconstituir a sociedade portugueza dissolvida por duzentos
 annos de despotismo monarchico e catholico. O arrojado ministro do rei
-D. Jos√© era apenas um reformador de segunda m√£o. Como revolucionario a
-sua carreira √© de p√© posto no circulo feito em torno das realezas
+D. JosÈ era apenas um reformador de segunda m„o. Como revolucionario a
+sua carreira È de pÈ posto no circulo feito em torno das realezas
 estremecidas por todos os dictadores que se haviam seguido a Richelieu
 no governo das monarchias modernas.
 
-As reformas de Pombal n√£o s√£o o producto puro de um talento pessoal mas
+As reformas de Pombal n„o s„o o producto puro de um talento pessoal mas
 sim os ultimos effeitos de uma corrente contagiosa de ideias, ao tempo
-d'elle quasi todas j√° envelhecidas e refutadas.
+d'elle quasi todas j· envelhecidas e refutadas.
 
-O que elle representa na civilisa√ß√£o n√£o √© a personifica√ß√£o de um genio
-mas sim o advento de um novo poder, que o enfraquecimento das ra√ßas
-reinantes tornava necessario, que ent√£o apparecia pela primeira vez e
+O que elle representa na civilisaÁ„o n„o È a personificaÁ„o de um genio
+mas sim o advento de um novo poder, que o enfraquecimento das raÁas
+reinantes tornava necessario, que ent„o apparecia pela primeira vez e
 que Auguste Comte denominou o _poder ministerial._
 
-Este facto exprime um consideravel progresso politico, de que Pombal √© a
-func√ß√£o. O estabelecimento do poder ministerial √© a revers√£o, ao valor,
-da auctoridade at√© ahi adstricta ao nascimento.
+Este facto exprime um consideravel progresso politico, de que Pombal È a
+funcÁ„o. O estabelecimento do poder ministerial È a revers„o, ao valor,
+da auctoridade atÈ ahi adstricta ao nascimento.
 
-Antes de assumir a dictadura em que o investiu o rei D. Jos√©, Pombal
+Antes de assumir a dictadura em que o investiu o rei D. JosÈ, Pombal
 viajara, residira como embaixador na Inglaterra e na Austria, convivera
 com homens de espirito iniciados nas ideias da philosophia franceza, mas
-nem da revolu√ß√£o intellectual da Fran√ßa nem da revolu√ß√£o economica da
+nem da revoluÁ„o intellectual da FranÁa nem da revoluÁ„o economica da
 Inglaterra elle comprehendeu o mechanismo. Unicamente os processos da
-politica austriaca, de uma meticulosidade italiana e de um rigor allem√£o
+politica austriaca, de uma meticulosidade italiana e de um rigor allem„o
 o penetraram inteiramente.
 
 A imperatriz Maria Thereza, que envolvida nos mais altos negocios da
-politica internacional europeia funda _commiss√µes de_ _castidade_ para
+politica internacional europeia funda _commissıes de_ _castidade_ para
 salvaguardar as esposas das infidelidades maritaes, sem que todavia isso
-a empe√ßa de escrever epistolas ternas a Madame de Pompadour, amante de
-Luiz XV, d√° bem o modelo da politica pombalina, policiando tudo no reino
-desde os primeiros segredos da diplomacia at√© aos ultimos mysterios das
+a empeÁa de escrever epistolas ternas a Madame de Pompadour, amante de
+Luiz XV, d· bem o modelo da politica pombalina, policiando tudo no reino
+desde os primeiros segredos da diplomacia atÈ aos ultimos mysterios das
 alcovas.
 
-Na c√¥rte de Vienna encontrou o marquez de Pombal, em elabora√ß√£o, as
+Na cÙrte de Vienna encontrou o marquez de Pombal, em elaboraÁ„o, as
 ideias que pouco depois deviam constituir o programma politico do
-imperador Jos√© II, cuja impetuosidade de caracter Maria Thereza
-procurara conter em quanto viva e cujos projectos de reforma eram t√£o
-similhantes √°quelles que o marquez realisou em parte como primeiro
-ministro na c√¥rte de Lisboa.
+imperador JosÈ II, cuja impetuosidade de caracter Maria Thereza
+procurara conter em quanto viva e cujos projectos de reforma eram t„o
+similhantes ·quelles que o marquez realisou em parte como primeiro
+ministro na cÙrte de Lisboa.
 
-Aboli√ß√£o da escravid√£o, do direito de primogenitura, dos dizimos, da
-ca√ßa privilegiada; reconhecimento dos judeus e dos protestantes como
-cidad√£os; todo o cidad√£o considerado capaz de alcan√ßar qualquer emprego;
-suppress√£o dos conventos inuteis transformados em hospitaes e em
-estabelecimentos de instruc√ß√£o; desenvolvimento das universidades e das
-academias; protec√ß√£o das pautas √° industria nacional: tal √© a parte do
-programma de Jos√© II que o ministro portuguez procurou p√¥r em execu√ß√£o
+AboliÁ„o da escravid„o, do direito de primogenitura, dos dizimos, da
+caÁa privilegiada; reconhecimento dos judeus e dos protestantes como
+cidad„os; todo o cidad„o considerado capaz de alcanÁar qualquer emprego;
+suppress„o dos conventos inuteis transformados em hospitaes e em
+estabelecimentos de instrucÁ„o; desenvolvimento das universidades e das
+academias; protecÁ„o das pautas · industria nacional: tal È a parte do
+programma de JosÈ II que o ministro portuguez procurou pÙr em execuÁ„o
 no seu paiz.
 
-Mas Jos√© II ia um pouco mais longe, e a declara√ß√£o completa da sua
+Mas JosÈ II ia um pouco mais longe, e a declaraÁ„o completa da sua
 politica ao subir ao throno, pouco mais ou menos pelo mesmo tempo em que
-Pombal cahia, mostra-nos que este n√£o aprendera inteiramente a li√ß√£o que
-as suas convivencias e os suas liga√ß√µes austriacas lhe haviam
+Pombal cahia, mostra-nos que este n„o aprendera inteiramente a liÁ„o que
+as suas convivencias e os suas ligaÁıes austriacas lhe haviam
 ministrado.
 
-O imperador Jos√© II declarou que _reinar sobre homens livres era a sua
-unica paix√£o como rei_. Pombal, preoccupara-se pouco, com a liberdade
-conferida aos cidad√£os que governara. Esta differen√ßa fundamental entre
+O imperador JosÈ II declarou que _reinar sobre homens livres era a sua
+unica paix„o como rei_. Pombal, preoccupara-se pouco, com a liberdade
+conferida aos cidad„os que governara. Esta differenÁa fundamental entre
 o reformador austriaco e o reformador portuguez reflecte-se na obra de
 cada um por meio dos effeitos mais expressivos.
 
 Assim, emquanto o marqucz de Pombal confere o tratamento de magestade ao
-_tribunal da Inquisi√ß√£o_ e funda o famoso e terrivel _tribunal da
-Inconfidencia_, Jos√© II substitue a todas as jurisdi√ß√µes, ecclesiasticas
+_tribunal da InquisiÁ„o_ e funda o famoso e terrivel _tribunal da
+Inconfidencia_, JosÈ II substitue a todas as jurisdiÁıes, ecclesiasticas
 e feudaes, tribunaes civis de varias instancias emmergentes d'um unico
-tribunal supremo. Emquanto Pombal funda a Real Mesa Censoria, Jos√© II
+tribunal supremo. Emquanto Pombal funda a Real Mesa Censoria, JosÈ II
 transfere para os membros das academias e das universidades a censura
-at√© ent√£o exercida pelo clero. Emquanto Pombal reserva para a cor√¥a o
-direito de nomear e de demitir sem mais f√≥rma de processo todos os
-funccionarios da na√ß√£o, Jos√© II funda a lei dos concursos. Emquanto,
-finalmente, Pombal manda suppliciar n'um aulo de f√©, com cincoenta e
+atÈ ent„o exercida pelo clero. Emquanto Pombal reserva para a corÙa o
+direito de nomear e de demitir sem mais fÛrma de processo todos os
+funccionarios da naÁ„o, JosÈ II funda a lei dos concursos. Emquanto,
+finalmente, Pombal manda suppliciar n'um aulo de fÈ, com cincoenta e
 tres condemnados, o pobre cretino Malagrida na idade de setenta e tres
-annos, Jos√© II estabelece o principio da tolerancia, conferindo a toda a
-aggrega√ß√£o religiosa de tres mil almas, de qualquer seita que sejam, o
+annos, JosÈ II estabelece o principio da tolerancia, conferindo a toda a
+aggregaÁ„o religiosa de tres mil almas, de qualquer seita que sejam, o
 direito de edificar um templo e de subsidiar um pastor.
 
-Nas praticas administrativas Pombal √© da escola de Colbert, refutada em
+Nas praticas administrativas Pombal È da escola de Colbert, refutada em
 Inglaterra desde o meiado do seculo. O systema protector pombalino e o
-systema colbertista, de que elle √© copia, d√£o em Portugal e em Fran√ßa
-resultados similhanies. Pombal que recebera da administra√ß√£o de D. Jo√£o
+systema colbertista, de que elle È copia, d„o em Portugal e em FranÁa
+resultados similhanies. Pombal que recebera da administraÁ„o de D. Jo„o
 V um cofre em que nem havia com que pagar o enterro do rei, entrega a D.
-Maria I o erario com uns poucos de milh√µes, um exercito numeroso e uma
-boa esquadra. Colbert escrevia ao soberano em 1662: ¬´Os rendimentos
-estavam redusidos a 21 milh√µes e ainda esses comidos por dois annos;
-hoje est√£o em 50 milh√µes. Ent√£o o rei pagava 20 milh√µes de juros; hoje
-n√£o paga um _sou_.
+Maria I o erario com uns poucos de milhıes, um exercito numeroso e uma
+boa esquadra. Colbert escrevia ao soberano em 1662: ´Os rendimentos
+estavam redusidos a 21 milhıes e ainda esses comidos por dois annos;
+hoje est„o em 50 milhıes. Ent„o o rei pagava 20 milhıes de juros; hoje
+n„o paga um _sou_.
 
-Ent√£o o rei, dependente dos financeiros, n√£o podia fazer despesa alguma
-extraordinaria; hoje, depois da compra de Dunkerque, a Europa v√™-o
-bastante rico para comprar o que quizer. Ent√£o n√£o havia marinha; hoje
-vinte e quatro naus acabam de ser construidas, etc.¬ª
+Ent„o o rei, dependente dos financeiros, n„o podia fazer despesa alguma
+extraordinaria; hoje, depois da compra de Dunkerque, a Europa vÍ-o
+bastante rico para comprar o que quizer. Ent„o n„o havia marinha; hoje
+vinte e quatro naus acabam de ser construidas, etc.ª
 
-A prosperidade de um povo n√£o p√≥de por√©m ser aquilatada pelo dinheiro
-que o principe possue no erario √° sua disposi√ß√£o, nem pelo numero das
-baionetas dos soldados ou das boccas de fogo dos navios que elle tenha √°
-m√£o para fazer guerras. O Estado √© um apparelho, n√£o √© uma
-individualidade. O Estado tem func√ß√µes e n√£o tem mais coisa nenhuma, nem
-bens, nem cren√ßas, nem opini√µes.
+A prosperidade de um povo n„o pÛde porÈm ser aquilatada pelo dinheiro
+que o principe possue no erario · sua disposiÁ„o, nem pelo numero das
+baionetas dos soldados ou das boccas de fogo dos navios que elle tenha ·
+m„o para fazer guerras. O Estado È um apparelho, n„o È uma
+individualidade. O Estado tem funcÁıes e n„o tem mais coisa nenhuma, nem
+bens, nem crenÁas, nem opiniıes.
 
-O Estado tem obriga√ß√£o restricta de ser pobre, exactamente como tem
-obriga√ß√£o de ser atheu. Onde o Estado enriquece, a communidadc est√°
+O Estado tem obrigaÁ„o restricta de ser pobre, exactamente como tem
+obrigaÁ„o de ser atheu. Onde o Estado enriquece, a communidadc est·
 roubada, porque se lhe extorquiu mais em imposto do que se lhe deu em
-servi√ßos, e as rela√ß√µes dos individuos com o Estado, tendo por base a
-troca, n√£o podem ter por fim o lucro do mesmo Estado, representado pelo
-principe, pela c√¥rte, pela nobreza ou por qualquer outra classe
+serviÁos, e as relaÁıes dos individuos com o Estado, tendo por base a
+troca, n„o podem ter por fim o lucro do mesmo Estado, representado pelo
+principe, pela cÙrte, pela nobreza ou por qualquer outra classe
 privilegiada.
 
 Quando o Estado se constitue protector torna-se objecto de uma
-supersti√ß√£o grosseira e perigosa. A f√© posta na protec√ß√£o do governo √©
-uma deriva√ß√£o da f√© no milagre. Essa f√© dissolve todas as aptid√µes,
-todas as iniciativas, todas as for√ßas de uma sociedade. Os que acreditam
-na ac√ß√£o providencial dos estadistas sobre os desenvolvimentos da
-riqueza, e da prosperidade dos povos perturbam tudo pela confus√£o dos
+superstiÁ„o grosseira e perigosa. A fÈ posta na protecÁ„o do governo È
+uma derivaÁ„o da fÈ no milagre. Essa fÈ dissolve todas as aptidıes,
+todas as iniciativas, todas as forÁas de uma sociedade. Os que acreditam
+na acÁ„o providencial dos estadistas sobre os desenvolvimentos da
+riqueza, e da prosperidade dos povos perturbam tudo pela confus„o dos
 poderes de que abdicam, delegando-os no governo. Os proletarios pedem a
-aboli√ß√£o dos direitos de importa√ß√£o dos cereaes e dos tecidos para terem
-o p√£o e o vestido mais barato; os cultivadores e os industriaes requerem
+aboliÁ„o dos direitos de importaÁ„o dos cereaes e dos tecidos para terem
+o p„o e o vestido mais barato; os cultivadores e os industriaes requerem
 direitos prohibitivos de concorrencia para venderem mais caro os
 productos da terra e os das fabricas; os operarios requerem augmento de
-salario; os patr√µes solicitam augmento de trabalho; e todo o accordo,
+salario; os patrıes solicitam augmento de trabalho; e todo o accordo,
 desde que o Estado intervem, se torna impossivel entre aquelles que
 produzem e aquelles que consommem.
 
-Nenhuma das industrias que o marquez de Pombal fundou pela protec√ß√£o lhe
-p√¥de sobreviver na liberdade. Todas as grandes companhias de industria
+Nenhuma das industrias que o marquez de Pombal fundou pela protecÁ„o lhe
+pÙde sobreviver na liberdade. Todas as grandes companhias de industria
 ou de commercio fundadas por elle desappareceram sem o menor vestigio na
-prosperidade ou na riqueza, publica,--a companhia do Maranh√£o, a de
+prosperidade ou na riqueza, publica,--a companhia do Maranh„o, a de
 Pernambuco, a dos Vinhos do Douro, a da pesca da baleia, a da pesca do
 atum. Todas as fabricas que elle montou cahiram successivamente umas
-depois das outras. A raz√£o √© que a industria n√£o √© um artigo de
-importa√ß√£o mas sim um ramo da sciencia applicada. O unico meio de
-suscitar industrias e de crear commercio √© introduzir sciencia e dar
+depois das outras. A raz„o È que a industria n„o È um artigo de
+importaÁ„o mas sim um ramo da sciencia applicada. O unico meio de
+suscitar industrias e de crear commercio È introduzir sciencia e dar
 liberdade.
 
 O vasto plano do marquez de Pombal tendente a uma completa e total
-reconstruc√ß√£o social √©, pela sua mesma natureza absoluta, a nega√ß√£o do
-seu talento politico. Tendo por fim condensar os esfor√ßos da progress√£o
-social, toda a politica efficaz tem necessariamente de ser t√£o lenta
-como essa progress√£o. O snr Oliveira Martins chama ao governo do marquez
+reconstrucÁ„o social È, pela sua mesma natureza absoluta, a negaÁ„o do
+seu talento politico. Tendo por fim condensar os esforÁos da progress„o
+social, toda a politica efficaz tem necessariamente de ser t„o lenta
+como essa progress„o. O snr Oliveira Martins chama ao governo do marquez
 de Pombal um terramoto. Effectivamente o enorme conjuncto d'essas
-disposi√ß√µes legislativas e policiaes destinadas a refazer de um jacto
-uma civilisa√ß√£o, representam uma for√ßa t√£o poderosa e ao mesmo tempo t√£o
+disposiÁıes legislativas e policiaes destinadas a refazer de um jacto
+uma civilisaÁ„o, representam uma forÁa t„o poderosa e ao mesmo tempo t„o
 irracional como o abalo de terra que em alguns minutos destroe uma
 cidade.
 
 O snr Dubost, apreciando na _Revue de Philosophie Positive_ as altas
 qualidades de Danton como homem de estado, diz que o caracter principal
 da sua politica consiste na necessidade que elle comprehendeu de
-renunciar deliberadamente a intentar a reconstruc√ß√£o total da sociedade
+renunciar deliberadamente a intentar a reconstrucÁ„o total da sociedade
 franceza, mantendo-sc energicamente em uma obra relativa, que deve
-consistir em permittir a elabora√ß√£o dos elementos que por si mesmos h√£o
-de gradualmente produzir a reconstitui√ß√£o. Pombal desconhecia
+consistir em permittir a elaboraÁ„o dos elementos que por si mesmos h„o
+de gradualmente produzir a reconstituiÁ„o. Pombal desconhecia
 completamente essas leis fundamentaes da politica, que subordinam as
-func√ß√µes governativas √° independencia do meio social, n√£o permittindo
-medida alguma que a opini√£o n√£o solicite, que a vontade publica n√£o
+funcÁıes governativas · independencia do meio social, n„o permittindo
+medida alguma que a opini„o n„o solicite, que a vontade publica n„o
 reclame.
 
 Condorcet na sua biographia de Turgot, de quem elle foi o amigo e o
-collaborador, diz: ¬´Deve-se evitar na reforma das leis: 1.¬∫ tudo quanto
-possa perturbar a tranquillidade publica; 2.¬∫ tudo quanto produza
-grandes abalos no estado de um grande numero de cidad√£os; 3.¬∫ tudo
+collaborador, diz: ´Deve-se evitar na reforma das leis: 1.∫ tudo quanto
+possa perturbar a tranquillidade publica; 2.∫ tudo quanto produza
+grandes abalos no estado de um grande numero de cidad„os; 3.∫ tudo
 quanto encontre de frente preconceitos ou usos geralmente recebidos.
-Algumas vezes succede que uma lei n√£o pode produzir todo o bem que
-promette ou n√£o se pode p√¥r em execu√ß√£o porque a opini√£o lhe √© adversa;
-n'esses casos _cumpre come√ßar por mudar a opini√£o_.¬ª
+Algumas vezes succede que uma lei n„o pode produzir todo o bem que
+promette ou n„o se pode pÙr em execuÁ„o porque a opini„o lhe È adversa;
+n'esses casos _cumpre comeÁar por mudar a opini„o_.ª
 
-Para o ministro do rei D. Jos√© n√£o havia sen√£o uma opini√£o--a d'lle, e o
-publico n√£o era mais que uma grande massa passiva e bruta, que elle se
-julgava destinado a modelar sob v√°rios aspectos mettendo-a em formas,
+Para o ministro do rei D. JosÈ n„o havia sen„o uma opini„o--a d'lle, e o
+publico n„o era mais que uma grande massa passiva e bruta, que elle se
+julgava destinado a modelar sob v·rios aspectos mettendo-a em formas,
 como se faz aos pudins.
 
 Derivando todas as liberdades da pessoa do rei, elle recalcou sempre
-pelo terror todas as revindica√ß√µes de independencia collectiva ou
+pelo terror todas as revindicaÁıes de independencia collectiva ou
 pessoal. Nunca nos estados modernos da Europa o despotismo assumia um
 caracter mais cruel, mais sanguinario mais implacavel que o do regimen
-pombalino em Portugal. Proudhon diz que a tyrania est√° sempre na ras√£o
-directa da grandeza da massa dominada. A administra√ß√£o do reinado de D.
-Jos√© √© uma excep√ß√£o a esta regra. Em t√£o pequena familia t√£o grande
-oppress√£o como aquella de que a sociedade portugueza deu o espectaculo
-durante o ultimo quarteir√£o do seculo XVIII foi o espanto e o horror do
+pombalino em Portugal. Proudhon diz que a tyrania est· sempre na ras„o
+directa da grandeza da massa dominada. A administraÁ„o do reinado de D.
+JosÈ È uma excepÁ„o a esta regra. Em t„o pequena familia t„o grande
+oppress„o como aquella de que a sociedade portugueza deu o espectaculo
+durante o ultimo quarteir„o do seculo XVIII foi o espanto e o horror do
 mundo civilisado.
 
-A tremenda catastrophe do terramoto lan√ßara o panico, o horror, a
-confus√£o, o desequilibrio em todos os espiritos, em todas as rela√ß√µes
+A tremenda catastrophe do terramoto lanÁara o panico, o horror, a
+confus„o, o desequilibrio em todos os espiritos, em todas as relaÁıes
 sociaes, em todos os interesses economicos. A catastrophe nacional
-derivada d'essa revolu√ß√£o geologica prepara o advento da domina√ß√£o
-pombalina, assim como o terror na revolu√ß√£o franceza prepara o advento
-da domina√ß√£o napoleonica. Em Fran√ßa como em Portugal a sociedade havia
-perdido sob o golpe de uma desgra√ßa esmagadora a faculdade de resistir.
-No meio do desfallecimento geral que por algum tempo se succedeu √°
+derivada d'essa revoluÁ„o geologica prepara o advento da dominaÁ„o
+pombalina, assim como o terror na revoluÁ„o franceza prepara o advento
+da dominaÁ„o napoleonica. Em FranÁa como em Portugal a sociedade havia
+perdido sob o golpe de uma desgraÁa esmagadora a faculdade de resistir.
+No meio do desfallecimento geral que por algum tempo se succedeu ·
 violencia da crise, Pombal pretendeu reconstruir a sociedade perturbada
 exactamente pelo mesmo processo por que reconstruiu a cidade em ruinas:
-ao esquadro e √° regua, como um pedreiro cabe√ßudo e valente, tomando a
+ao esquadro e · regua, como um pedreiro cabeÁudo e valente, tomando a
 symetria pela ordem; sem respeito algum pela dignidade das ideias e dos
-sentimentos; sem a menor no√ß√£o da eleva√ß√£o e da belleza moral; sem arte,
-sem gra√ßa, sem elegancia, sem gosto; n'uma feroz teimosia de omnipotente
+sentimentos; sem a menor noÁ„o da elevaÁ„o e da belleza moral; sem arte,
+sem graÁa, sem elegancia, sem gosto; n'uma feroz teimosia de omnipotente
 sapador, alinhando, razoirando, espalmando, achatando, estupidificando
-tudo. S√£o os brutaes arruamentos quadrangulares da Baixa prolongados a
-toda a √°rea da ordem social.
+tudo. S„o os brutaes arruamentos quadrangulares da Baixa prolongados a
+toda a ·rea da ordem social.
 
 De cima a baixo, de norte a sul, de este a oeste, tudo arruado! Para ali
 os algibebes, para ali os professores, os bacalhoeiros, os poetas e os
-capellistas; para acol√° os retrozeiros, os latoeiros, os artistas e os
-philosophos. Para os sapateiros aqui est√£o as formas; para os
-philosophos aqui est√£o as ideias, para os retrozeiros aqui est√£o as
-linhas; para os artistas aqui est√° a natureza, a sensibilidade, o
-temperamento e a paix√£o.
+capellistas; para acol· os retrozeiros, os latoeiros, os artistas e os
+philosophos. Para os sapateiros aqui est„o as formas; para os
+philosophos aqui est„o as ideias, para os retrozeiros aqui est„o as
+linhas; para os artistas aqui est· a natureza, a sensibilidade, o
+temperamento e a paix„o.
 
-Elle s√≥ gisa, mede, talha, corta, almota√ßa, esposteja, aquartilha,
+Elle sÛ gisa, mede, talha, corta, almotaÁa, esposteja, aquartilha,
 taberneia, baldroca, amesinha e a apilula tudo,--o arroz, o vinho, a
 manteiga, o bacalhau, o briche, o oleo de ricino, o ensino publico e
 particular, as missas, a poesia, a architectura, a musica, a esculptura,
 a philosophia, a historia, a moral e a canella.
 
 A cada um o seu regulamento e o seu arruamento, com quatro forcas e com
-duas mas, direitas, parallelas rectilineas, vindo todas dar √° grande
-pra√ßa central com a besta de bronze ao meio, sustentando em cima,
-vestido √° romana com um sceptro na m√£o, um pulha inepto, de bronze para
+duas mas, direitas, parallelas rectilineas, vindo todas dar · grande
+praÁa central com a besta de bronze ao meio, sustentando em cima,
+vestido · romana com um sceptro na m„o, um pulha inepto, de bronze para
 pensar, de cebo para resistir.
 
-Nos patibulos, que servem de signos geodesicos √° triangula√ß√£o do
+Nos patibulos, que servem de signos geodesicos · triangulaÁ„o do
 systema, nunca durante dez annos deixou de pernear alguem para recreio
 do principe e escarmento dos subditos.
 
-Toda a reclama√ß√£o, ainda a mais moderada, contra medida promulgada pelo
+Toda a reclamaÁ„o, ainda a mais moderada, contra medida promulgada pelo
 omnipotente ministro era considerada crime de lesa-magestade e d'alta
-trai√ß√£o.
+traiÁ„o.
 
-O supplicio dos Tavoras e do duque de Aveiro e o auto de f√© do padre
-Malagrida s√£o monstruosos de mais para que fa√ßamos d'elles argumentos de
-historia. A ferocidade levada a um tal requinte deixa de pertencer √°
-critica; est√° fora da historia assim como est√° fora da humanidade: √© uma
-revers√£o ao canibalismo, cujo estudo compete √° psychologica pathologica.
+O supplicio dos Tavoras e do duque de Aveiro e o auto de fÈ do padre
+Malagrida s„o monstruosos de mais para que faÁamos d'elles argumentos de
+historia. A ferocidade levada a um tal requinte deixa de pertencer ·
+critica; est· fora da historia assim como est· fora da humanidade: È uma
+revers„o ao canibalismo, cujo estudo compete · psychologica pathologica.
 
 Explica-se geralmente pela necessidade politica de abater e de humilhar
-a nobreza esse processo caviloso e infame, em que o ministro de D. Jos√©
-√© ao mesmo tempo juiz e parte, e em que os r√©us s√£o julgados sem defeza
-e sem exame de provas sob a accusa√ß√£o de uma tentativa de regicidio, em
+a nobreza esse processo caviloso e infame, em que o ministro de D. JosÈ
+È ao mesmo tempo juiz e parte, e em que os rÈus s„o julgados sem defeza
+e sem exame de provas sob a accusaÁ„o de uma tentativa de regicidio, em
 que hoje se sabe achar-se completamente innocente a familia Tavora;
 assim como estava innocente o marquez de Gouveia, exhautorado do seu
 titulo, officialmente infamado e encarcerado nos carceres sem ar e sem
-luz do forte da Junqueira desde os dezoito annos de idade at√© os trinta
+luz do forte da Junqueira desde os dezoito annos de idade atÈ os trinta
 e sete; assim como estavam innocentes o marquez d'Alorna, encarcerado
 no mesmo forte: a marqueza d'Alorna e as suas duas filhas, presas no
-convento de Chellas; D. Manoel de Sousa Calhariz, av√¥ do duque de
+convento de Chellas; D. Manoel de Sousa Calhariz, avÙ do duque de
 Palmella, encarcerado na Torre do Bugio, onde morreu; e a infeliz
 duqueza d'Aveiro, a qual, depois de sequestrados todos os seus bens,
-perseguida at√© o seu ulliino suspiro pelo √≥dio do marquez de Pombal,
+perseguida atÈ o seu ulliino suspiro pelo Ûdio do marquez de Pombal,
 morreu no convento do Rato, servindo a cosinha das freiras como creada
-de p√© descal√ßo.
+de pÈ descalÁo.
 
 Singular modo de aviltar uma classe, sagrando-a assim pelo martyrio!
 
 Decorreram mais de cem annos sobre a carnificina canibalesca de 13 de
-janeiro de 1757. Povoam ainda as nossas imagina√ß√µes e vivem eternamente
+janeiro de 1757. Povoam ainda as nossas imaginaÁıes e vivem eternamente
 immortalisadas pelas nossas lagrimas as doces e legendarias figuras
-d'esses fidalgos: a marqueza de Tavora, de uma physionomia t√£o elevada e
-t√£o elegiaca, alta, magra, severa, envolta na sua longa capa alvadia,
-assistindo no patibulo √° descrip√ß√£o do suplicio por que vae passar a sua
-familia, comprimindo no silencio da dignidade toda a explos√£o da d√¥r e
-dobrando, sem um grito, sobre o cepo, a cabe√ßa coroada de cabellos
+d'esses fidalgos: a marqueza de Tavora, de uma physionomia t„o elevada e
+t„o elegiaca, alta, magra, severa, envolta na sua longa capa alvadia,
+assistindo no patibulo · descripÁ„o do suplicio por que vae passar a sua
+familia, comprimindo no silencio da dignidade toda a explos„o da dÙr e
+dobrando, sem um grito, sobre o cepo, a cabeÁa coroada de cabellos
 brancos que o carrasco fere de um golpe de machado pela nuca, fazendo-a
 pender por um instante segura ao busto pela pelle da garganta. O altivo
 e marcial marquez de Tavora, macerado e encanecido, contemplando os
 cadaveres da sua mulher degolada, do seu filho com os ossos esmigalhados
 pelo masso de ferro que um momento depois lhe ha de bater no peito, em
-que elle crusa os bra√ßos, deixando rolar nas faces duas grossas lagrimas
+que elle crusa os braÁos, deixando rolar nas faces duas grossas lagrimas
 mudas e tragicas, unico protesto contra o holocausto necessario para
-desatranvacar dos empe√ßos de familia o caminho que conduz √° alc√¥ca da
-amante do seu rei. O joven Jos√© Maria de Tavora, finalmente, com vinte e
+desatranvacar dos empeÁos de familia o caminho que conduz · alcÙca da
+amante do seu rei. O joven JosÈ Maria de Tavora, finalmente, com vinte e
 um annos de idade, bello, gentil e amado, vestido de veludo preto e
-meias de seda c√¥r de perola, os cabellos annellados e louros presos por
-um la√ßo de fita.
+meias de seda cÙr de perola, os cabellos annellados e louros presos por
+um laÁo de fita.
 
 E na saudade dolorosa que nos desperta esse quadro do pretendido
 aviltamento da aristocracia portugueza ninguem comprehende os tres
 plebeus creados do duque d'Aveiro, egualmente suppliciados por terem
 acompanhado seu amo na emboscada da Ajuda sem todavia haverem
-participado na aggress√£o ao principe.
+participado na aggress„o ao principe.
 
-Esses tres innocentes, Jo√£o Miguel, Braz Jos√© Romeiro e Manoel Alvares
-Ferreira, comparecem no patibulo por ordem do juiz supremo Sebasti√£o
-Jos√© de Carvalho, em camisa e cal√ß√µes, de pernas nuas e p√©s descalsos,
+Esses tres innocentes, Jo„o Miguel, Braz JosÈ Romeiro e Manoel Alvares
+Ferreira, comparecem no patibulo por ordem do juiz supremo Sebasti„o
+JosÈ de Carvalho, em camisa e calÁıes, de pernas nuas e pÈs descalsos,
 despresiveis e grotescos, despoetisados para a legenda sentimental da
 morte pelo julgador egualmente plebeu que, para se extrahir d'esta
-mis√©ria truanesca da simples canalha, se condecora a si mesmo com o
+misÈria truanesca da simples canalha, se condecora a si mesmo com o
 direito de morrer com meias de seda, encorporando-se alguns dias depois
 com o titulo de conde d'Oeiras na mesma nobreza que pretendia aviltar e
 destruir.
 
-√â a isto que os apologistas de Sebasti√£o chamam o nobre intuito
+… a isto que os apologistas de Sebasti„o chamam o nobre intuito
 democratico de elevar a plebe e de constituir a burguezia.
 
 Mais expressivo e mais concludente que este extranho methodo de
-egualisar as condi√ß√µes sociaes, √© na historia da administra√ß√£o pombalina
-o systema geral de persegui√ß√£o sanguinaria a toda a manifesta√ß√£o de
-liberdade affirmada, de castigo tremendo a toda a transgress√£o da lei
-escripta. Chega a n√£o ser preciso desobedecer, basta n√£o gostar
+egualisar as condiÁıes sociaes, È na historia da administraÁ„o pombalina
+o systema geral de perseguiÁ„o sanguinaria a toda a manifestaÁ„o de
+liberdade affirmada, de castigo tremendo a toda a transgress„o da lei
+escripta. Chega a n„o ser preciso desobedecer, basta n„o gostar
 completamente do regimen em vigor para ser immediatamente punido por
-isso. Em 1756 o marquez de Pombal decreta uma gratifica√ß√£o de 400 mil
+isso. Em 1756 o marquez de Pombal decreta uma gratificaÁ„o de 400 mil
 cruzados a todo o delator d'aquelles que disserem mal do seu governo.
-No mesmo anno como lhe desagrade n√£o se sabe porque, o seu collega no
-ministerio Diogo de Mendon√ßa Corte Real, manda-o sahir de Lisboa dentro
-de tres horas e prende-o na pra√ßa de Masag√£o at√© que, cedida essa pra√ßa
-aos marroquinos, √© transportado para as Berlengas, onde morreu esquecido
-e abandonado. Similhante sorte teve o successor de Diogo de Mendon√ßa,
-Thom√© Joaquim da Costa, que o marquez enfastiado mandou, sem culpa
+No mesmo anno como lhe desagrade n„o se sabe porque, o seu collega no
+ministerio Diogo de MendonÁa Corte Real, manda-o sahir de Lisboa dentro
+de tres horas e prende-o na praÁa de Masag„o atÈ que, cedida essa praÁa
+aos marroquinos, È transportado para as Berlengas, onde morreu esquecido
+e abandonado. Similhante sorte teve o successor de Diogo de MendonÁa,
+ThomÈ Joaquim da Costa, que o marquez enfastiado mandou, sem culpa
 formada como o outro, para o castello de Leiria, onde morreu. Em 1753,
 como a Mesa do Bem Commum representasse humildemente em nome dos
 commerciantes de Lisboa contra o privilegio exclusivo do commercio do
-Maranh√£o e do Gr√£o Par√° conferido a uma companhia, encarcera no
+Maranh„o e do Gr„o Par· conferido a uma companhia, encarcera no
 Limoeiro, sem outra forma de processo, todos os commerciantes
-peticionarios e o advogado Jo√£o Thomaz de Negreiro, redactor da peti√ß√£o.
-Este foi degradado por oito annos para Masag√£o. Todos os negociantes
+peticionarios e o advogado Jo„o Thomaz de Negreiro, redactor da petiÁ„o.
+Este foi degradado por oito annos para Masag„o. Todos os negociantes
 foram deportados por mais ou menos annos. Em 1757, em consequencia da
 assuada popular a que deram motivo os monstruosos vexames da Companhia
-dos Vinhos do Alto Douro, manda ao Porto a famosa al√ßada que enforca
-vinte e um homens e cinco mulheres e condemna a degredo, a confisca√ß√£o e
+dos Vinhos do Alto Douro, manda ao Porto a famosa alÁada que enforca
+vinte e um homens e cinco mulheres e condemna a degredo, a confiscaÁ„o e
 a multa 211 pessoas de ambos os sexos. Em 1776, para o fim de castigar
-alguns refractarios ao servi√ßo militar refugiados na Trafaria, manda
+alguns refractarios ao serviÁo militar refugiados na Trafaria, manda
 incendiar de noite as cabanas d'essa pobre aldeia de pescadores e espera
-n'um cinto de bayonetas caladas os desgra√ßados que fogem √°s chammas
+n'um cinto de bayonetas caladas os desgraÁados que fogem ·s chammas
 espavoridos e cegos.
 
-Ningu√©m podia contar com a vida, nenhuma cabe√ßa se considerava segura
-nos respectivos hombros. As cartas eram abertas e lidas n'uma reparti√ß√£o
+NinguÈm podia contar com a vida, nenhuma cabeÁa se considerava segura
+nos respectivos hombros. As cartas eram abertas e lidas n'uma repartiÁ„o
 especial montada para esse fim. O tribunal da Inconfidencia e a
 Intendencia Geral da Policia devassavam todos os segredos. Era-se
-perseguido, preso, condemnado rapidamente, summariamente, sem appella√ß√£o
+perseguido, preso, condemnado rapidamente, summariamente, sem appellaÁ„o
 nem aggravo, por uma carta a um parente, por alguns versos, por uma
-palavra, por um sorriso, por uma simples suspeita. As pris√µes estavam
+palavra, por um sorriso, por uma simples suspeita. As prisıes estavam
 cheias. No forte da Junqueira, a que verdadeiramente se pode chamar a
 Bastilha portugueza, morre o conde d'Obidos e o conde da Ribeira. O
 coronel Thomaz Luiz, accusado de haver recebido em sua casa, na
 provincia de Minas Geraes no Brazil, um jesuita secularisado, morre na
-for√ßa em Lisboa, provando-se mais tarde que nem o supposto crime de que
+forÁa em Lisboa, provando-se mais tarde que nem o supposto crime de que
 o accusavam era verdadeiro. O diplomata Antonio Freire d'Andrade
 Encerrabodes, accusado de haver escripto em uma carta particular a um
-amigo uma phrase desagradavel para o marquez, √© desterrado para a Costa
-d'Africa. O conde de S. Louren√ßo e o visconde de Villa Nova da Cerveira,
+amigo uma phrase desagradavel para o marquez, È desterrado para a Costa
+d'Africa. O conde de S. LourenÁo e o visconde de Villa Nova da Cerveira,
 unicamente por terem sido os familiares do Santo Officio encarregados
 por esse regio tribunal, reconhecido e auctorisado, de prenderem o
-intendente da policia, s√£o sepultados o primeiro no forte da Junqueira,
-o segundo no castello de S. Jo√£o da Foz, onde morreu. Na Junqueira
+intendente da policia, s„o sepultados o primeiro no forte da Junqueira,
+o segundo no castello de S. Jo„o da Foz, onde morreu. Na Junqueira
 estiveram ainda os tres filhos do conde d'Alvor, o letrado Francisco
 Xavier, mais tarde degredado para Angola; o desembargador Antonio da
 Costa Freire, que morreu no forte; e muitos outros.
@@ -1536,30 +1536,30 @@ Costa Freire, que morreu no forte; e muitos outros.
 A disciplina militar do conde de Lippe lembra as arias do general Boum,
 em que a cada phrase corresponde um tiro. Os famosos artigos de guerra,
 em que os fusilamentos apparecem com tanta frequencia, como as virgulas,
-seriam dignos da musica de Offenbach, se n√£o tivessem sido na realidade
+seriam dignos da musica de Offenbach, se n„o tivessem sido na realidade
 um opprobrio da dignidade humana. Pelas culpas mais leves o soldado era
 mettido ao tornilho, carregado d'armas, amarrado nu a uma espingarda e
-zurz√≠do √°s varadas ou moido √°s pranchadas d'espad√£o.
+zurzÌdo ·s varadas ou moido ·s pranchadas d'espad„o.
 
 Na vida civil o mando fazia lei indiscutivel e absoluta, como na vida
-militar. Por occasi√£o das famosas festas da inaugura√ß√£o da estatua
+militar. Por occasi„o das famosas festas da inauguraÁ„o da estatua
 equestre _ordenou-se_ aos ourives e aos particulares que cedessem as
-suas alfaias para servir √° ceia dada √° custa do povo pelo senado de
+suas alfaias para servir · ceia dada · custa do povo pelo senado de
 Lisboa, cujos amigos comeram tresentas arrobas de doce em tres dias.
 
 Da historia geral das reformas emprehendidas pelo marquez de Pombal
 cumpre separar dois factos culminantes de especial importancia no
-progresso: a expuls√£o dos jesuitas e a reforma da instruc√ß√£o publica.
+progresso: a expuls„o dos jesuitas e a reforma da instrucÁ„o publica.
 
-A extinc√ß√£o da Companhia de Jesus foi no marquez de Pombal, assim como
+A extincÁ„o da Companhia de Jesus foi no marquez de Pombal, assim como
 nos demais reformadores regalistas da sua escola e do seu tempo, o
 resultado de um equivoco.
 
-Toda a gente sabe que a obediencia absoluta e cega √© o fundamento da
-ordem instituida por Santo Ignacio de Loyola, assim como √© o fundamento
+Toda a gente sabe que a obediencia absoluta e cega È o fundamento da
+ordem instituida por Santo Ignacio de Loyola, assim como È o fundamento
 de todo o despotismo monarchico. O fim da Companhia de Jesus foi sempre
-desde a sua funda√ß√£o at√© hoje opp√¥r √°s ideias de livre exame, de
-discuss√£o e de governo livre, a monarchia absoluta e o direito divino. O
+desde a sua fundaÁ„o atÈ hoje oppÙr ·s ideias de livre exame, de
+discuss„o e de governo livre, a monarchia absoluta e o direito divino. O
 immenso e insubstituivel poder espiritual sobre o qual se fundamentava
 principalmente o poder temporal dos reis era o poder dos jesuitas. Sem
 elles as monarchias absolutas careciam de base no espirito c na
@@ -1567,8 +1567,8 @@ consciencia dos povos. O marquez de Pombal tendo por unico intuito
 politico fortalecer e affirmar indestructivelmente e para todo o sempre
 o dominio absoluto do despotismo monarchico, errou portanto do modo mais
 pueril, como todos os estadistas monarchicos seus contemporaneos,
-minando por meio da persegui√ß√£o aos jesuitas os alicerces da sua propria
-funda√ß√£o. Nunca um espirito verdadeiramente superior e penetrante, como
+minando por meio da perseguiÁ„o aos jesuitas os alicerces da sua propria
+fundaÁ„o. Nunca um espirito verdadeiramente superior e penetrante, como
 por exemplo o do snr de Bismarck, cahiria n'um tal desacerto.
 
 Imaginem, um architecto que depois de haver construido um palacio de
@@ -1579,84 +1579,84 @@ principios da obediencia e do direito divino, e tirando-lhe em seguida
 debaixo o jesuita, que era o sustentaculo intellectual e moral d'esses
 mesmos principios.
 
-Auguste Comte, cujo alto e poderoso genio philosophico lan√ßa sempre uma
-t√£o intensa e viva luz sobre todos os problemas historicos em que p√µe a
-m√£o, escreve sobre a queda da Companhia de Jesus, facto que elle
+Auguste Comte, cujo alto e poderoso genio philosophico lanÁa sempre uma
+t„o intensa e viva luz sobre todos os problemas historicos em que pıe a
+m„o, escreve sobre a queda da Companhia de Jesus, facto que elle
 considera como o primeiro dos tres grandes agentes que dirigiram a crise
 revolucionaria do fim do seculo XVIII, as seguintes palavras: _A
-aboli√ß√£o da Ordem dos Jesuitas mostrou a decrepitude de um systema
-destruindo pelas suas proprias m√£os o unico poder susceptivel de lhe
+aboliÁ„o da Ordem dos Jesuitas mostrou a decrepitude de um systema
+destruindo pelas suas proprias m„os o unico poder susceptivel de lhe
 retardar a queda_.
 
-A extinc√ß√£o da Companhia de Jesus √© certamente um dos mais fundamentaes
-progressos adquiridos para a liberdade e para a civilisa√ß√£o moderna.
-Attribuir porem e agradecer essa acquisi√ß√£o liberal ao espirito do
-retrogrado e ferrenho ministro do snr D. Jos√© I √© cahir n'um contrasenso
-t√£o absurdo como seria agradecer a destrui√ß√£o de uma machina infernal ao
-artifice que a construia e em cujas m√£os ella rebentou por um erro de
+A extincÁ„o da Companhia de Jesus È certamente um dos mais fundamentaes
+progressos adquiridos para a liberdade e para a civilisaÁ„o moderna.
+Attribuir porem e agradecer essa acquisiÁ„o liberal ao espirito do
+retrogrado e ferrenho ministro do snr D. JosÈ I È cahir n'um contrasenso
+t„o absurdo como seria agradecer a destruiÁ„o de uma machina infernal ao
+artifice que a construia e em cujas m„os ella rebentou por um erro de
 fabrico.
 
-A perfei√ß√£o no modo consciente e raciocinado de eliminar do progresso a
+A perfeiÁ„o no modo consciente e raciocinado de eliminar do progresso a
 influencia jesuitica consistiria em destruir o jesuitismo mantendo pela
 tolerancia a independencia do jesuita. A prova manifesta de que o
-marquez de Pombal n√£o tinha consciencia alguma do servi√ßo que contra sua
-vontade prestou √° liberdade est√° no facto evidente de que, em vez de
-atacar os principios da institui√ß√£o que condemnava, ele n√£o fez mais do
+marquez de Pombal n„o tinha consciencia alguma do serviÁo que contra sua
+vontade prestou · liberdade est· no facto evidente de que, em vez de
+atacar os principios da instituiÁ„o que condemnava, ele n„o fez mais do
 que perseguir os homens que o serviam, expulsando-os do reino e
 sequestrando-lhes os bens, punindo-os e espoliando-os.
 
 Os jesuitas foram-se, mas o jesuitismo ficou. Ficou encarnado e vigente
-na pessoa do propio marquez de Pombal, o qual deante da liberdade n√£o √©
+na pessoa do propio marquez de Pombal, o qual deante da liberdade n„o È
 mais do que um Loyola leigo, um Santo Ignacio de casaca de seda e
 espadim, um pouco mais limpo talvez, mas incomparavelmente menos grande
 do que o antigo, com menos piolhos mas com muito mais teias de aranha na
-cabe√ßa.
+cabeÁa.
 
 Expulsor dos Jesuitas, o marquez de Pombal fez do jesuitismo
 secularisado todo o seu programma de poder.
 
-Santo Ignacio tinha dito: ¬´Se me parecer que o meu superior me prescreve
-ordens em opposi√ß√£o com a minha consciencia, acreditarei n'elle e n√£o
-acreditarei em mim.¬ª Na Constitui√ß√£o da ordem diz-se: ¬´Pareceu-nos em
-Deus nosso Senhor que nenhuma disposi√ß√£o pode induzir obriga√ß√£o de
+Santo Ignacio tinha dito: ´Se me parecer que o meu superior me prescreve
+ordens em opposiÁ„o com a minha consciencia, acreditarei n'elle e n„o
+acreditarei em mim.ª Na ConstituiÁ„o da ordem diz-se: ´Pareceu-nos em
+Deus nosso Senhor que nenhuma disposiÁ„o pode induzir obrigaÁ„o de
 peccado mortal ou venial, a menos que o superior em nome de Jesus
-Christo ou em virtude de obediencia o n√£o ordene.¬ª Na _Medulla
+Christo ou em virtude de obediencia o n„o ordene.ª Na _Medulla
 theologiae moralis_ o padre Busenhaum prescreve no tomo 4, capitulo V:
 _Quum finis est licitus, etiam media sunt licita_.
 
 Todo o systema governativo de Pombal assenta na pratica d'esses
-principios definidos pela companhia. Para elle todo o meio √© licito
-quando lhe parece licito o fim, e, substituindo a invoca√ß√£o eclesiastica
+principios definidos pela companhia. Para elle todo o meio È licito
+quando lhe parece licito o fim, e, substituindo a invocaÁ„o eclesiastica
 de _Nosso Senhor Jezus Christo_ pela formula civil de _El-Rey meu amo_,
 elle arvora a obediencia cega, irraciocinada, absolutamente bruta, em
-lei fundamental da na√ß√£o, assim como era lei fundamental da ordem.
+lei fundamental da naÁ„o, assim como era lei fundamental da ordem.
 
-A t√£o decantada reforma da instruc√ß√£o publica n√£o √© mais de que uma das
+A t„o decantada reforma da instrucÁ„o publica n„o È mais de que uma das
 formas de jesuitismo applicado ao ensino.
 
-A instruc√ß√£o primaria, cultivada sobre a cartilha de Padre Mestre
-Ignacio, continuou como estava subordinada √° Igreja. Os mestres eram
-obrigados ao receber os ordenados no fim de cada mez a exhibir certid√£o
-do parocho attestando que o professor tinha ido √° missa com todos os
+A instrucÁ„o primaria, cultivada sobre a cartilha de Padre Mestre
+Ignacio, continuou como estava subordinada · Igreja. Os mestres eram
+obrigados ao receber os ordenados no fim de cada mez a exhibir certid„o
+do parocho attestando que o professor tinha ido · missa com todos os
 seus alumnos nos domingos e festas de guarda.
 
-Na instruc√ß√£o superior a sciencia √© escrupulosamente decilitrada pelo
+Na instrucÁ„o superior a sciencia È escrupulosamente decilitrada pelo
 legislador a copinho por copinho como a geropiga do saber abodegada no
-casco por conta do lavrador. Nem o alumno p√≥de beber nem o mestre p√≥de
-propinar sen√£o precisamente a doze e a qualidade de licor prescriptas no
-regulamento d'este monopolio. Os Estatutos da Universidade, s√£o uma
-especie d'Estatutos da Companhia dos Vinhos do Alto Douro adstricta √°
+casco por conta do lavrador. Nem o alumno pÛde beber nem o mestre pÛde
+propinar sen„o precisamente a doze e a qualidade de licor prescriptas no
+regulamento d'este monopolio. Os Estatutos da Universidade, s„o uma
+especie d'Estatutos da Companhia dos Vinhos do Alto Douro adstricta ·
 cepa torta da intelligencia.
 
-Qual era o vicio capital do ensino jesuitico? Era a subordina√ß√£o do
-phenomeno ao dogma, era a sujei√ß√£o da observa√ß√£o, do exame, da
+Qual era o vicio capital do ensino jesuitico? Era a subordinaÁ„o do
+phenomeno ao dogma, era a sujeiÁ„o da observaÁ„o, do exame, da
 experiencia e do raciocinio ao arbitrio da auctoridade imposta.
 
-O vicio organico da instruc√ß√£o pombalina √© precisamente o mesmo. Em toda
-essa legisla√ß√£o do ensino publico, o professor √© seguido passo a passo
-atravez de todas as disciplinas que tem de leccionar. Elle n√£o p√≥de
-communicar uma s√≥ no√ß√£o que previamente lhe n√£o houvesse sido suggerida
-pelo legislador. O mestre, segundo Pombal, √© uma pura machina de moer
+O vicio organico da instrucÁ„o pombalina È precisamente o mesmo. Em toda
+essa legislaÁ„o do ensino publico, o professor È seguido passo a passo
+atravez de todas as disciplinas que tem de leccionar. Elle n„o pÛde
+communicar uma sÛ noÁ„o que previamente lhe n„o houvesse sido suggerida
+pelo legislador. O mestre, segundo Pombal, È uma pura machina de moer
 artigos de programmas com corda dada pelo Estado para o exercicio de
 cada anno lectivo.
 
@@ -1664,56 +1664,56 @@ Que importa, para os resultados finaes de um tal modo de instruir, o
 maior ou menor numero de faculdades incluidas nas academias, o maior ou
 menor numero de disciplinas introduzidas nos programmas? Onde faltam os
 livres methodos experimentaes falta toda a especie de ordem positiva na
-coordena√ß√£o das ideias, e diz o snr Herbert Spencer que quando n√£o ha
-ordem na instruc√ß√£o de um homem, quanto mais coisas elle souber tanto
-maior ser√° a confus√£o do seu cerebro.
+coordenaÁ„o das ideias, e diz o snr Herbert Spencer que quando n„o ha
+ordem na instrucÁ„o de um homem, quanto mais coisas elle souber tanto
+maior ser· a confus„o do seu cerebro.
 
-A instruc√ß√£o de um povo n√£o pode nunca ser aquilatada pelo numero dos
+A instrucÁ„o de um povo n„o pode nunca ser aquilatada pelo numero dos
 bachareis formados que as ordens religiosas ou os institutos officiaes
-derramam em cada anno sobre a massa da popula√ß√£o, para o fim de a
-explorarem pela chicana juridica ou de a embalarem pelo palavr√£o
+derramam em cada anno sobre a massa da populaÁ„o, para o fim de a
+explorarem pela chicana juridica ou de a embalarem pelo palavr„o
 dogmatico ou metaphysico.
 
-A verdadeira instruc√ß√£o nacional tem por base a vulgarisa√ß√£o geral das
+A verdadeira instrucÁ„o nacional tem por base a vulgarisaÁ„o geral das
 ideias transmittidas pela maxima liberdade do pensamento, e tem por fim
-o emprego das faculdades intellectuaes de todos os cidad√£os no exercicio
+o emprego das faculdades intellectuaes de todos os cidad„os no exercicio
 dos seus direitos politicos e dos seus direitos civis.
 
-Quando a instruc√ß√£o publica assenta pelo contrario em um campo de
+Quando a instrucÁ„o publica assenta pelo contrario em um campo de
 doutrina arbitraria imposta por um legislador em nome de um regimen
 politico, de uma escola philosophica ou de uma seita religiosa, ha uma
-coisa muito mais util do que ministrar essa instruc√ß√£o, e √© n√£o
-ministrar instruc√ß√£o nenhuma. A falsa instruc√ß√£o √© um veneno inoculado
-no homem. A simples ignorancia, pela sua parte, √© uma das grandes for√ßas
-do espirito. Se n√£o fosse a santa ignorancia, pura e convicta, que
-resistiu pelo bom senso √°s differentes epidemias eruditas de cada
+coisa muito mais util do que ministrar essa instrucÁ„o, e È n„o
+ministrar instrucÁ„o nenhuma. A falsa instrucÁ„o È um veneno inoculado
+no homem. A simples ignorancia, pela sua parte, È uma das grandes forÁas
+do espirito. Se n„o fosse a santa ignorancia, pura e convicta, que
+resistiu pelo bom senso ·s differentes epidemias eruditas de cada
 seculo, a escolastica e a metaphysica teriam dado cabo da humanidade.
 
 Concluindo pois, repetimos que o marquez de Pombal, expulsando os
-jesuitas e reformando os estudos, n√£o extiguiu o jesuitismo,
+jesuitas e reformando os estudos, n„o extiguiu o jesuitismo,
 secularisou-o apenas, deslocando-o da ordem religiosa para a ordem
-civil, arrebatando-o aos padres para o encabe√ßar nos agiotas, nos
+civil, arrebatando-o aos padres para o encabeÁar nos agiotas, nos
 desembargadores, nos generaes e nos doutores de capello.
 
-O jesuita √© perfeitamente odioso e repulsivo pela ac√ß√£o sinistra que
-durante tresentos annos tem exercido sobre a immobilisa√ß√£o da
-intelligencia, sobre a depress√£o da dignidade do homem; mas o jesuita √©
+O jesuita È perfeitamente odioso e repulsivo pela acÁ„o sinistra que
+durante tresentos annos tem exercido sobre a immobilisaÁ„o da
+intelligencia, sobre a depress„o da dignidade do homem; mas o jesuita È
 pelo menos coherente e logico comsigo mesmo; sabe nitidamente o que
 quer, tem perfeitamente correlacionados os seus meios com os seus fins e
-vae ao seu destino preconcebido com uma exactid√£o geometrica, com uma
-firmeza implacavel; sem uma unica tergirvers√£o de linha, sem um unico
+vae ao seu destino preconcebido com uma exactid„o geometrica, com uma
+firmeza implacavel; sem uma unica tergirvers„o de linha, sem um unico
 erro de calculo. O jesuita cae dentro dos seus proprios principios como
 na antiga tactica militar os generaes vencidos cahiam dentro do
 quadrado,--com todas, as baionetas voltadas para o inimigo.
 
-N'esta maneira de acabar ha um ar de grandeza que nos obriga a n√≥s
+N'esta maneira de acabar ha um ar de grandeza que nos obriga a nÛs
 outros, revolucionarios vencedores n'este momento historico, a tirar o
 chapeu e a saudar a coherencia dos vencidos.
 
 Os estadistas da monarchia absoluta, com as suas leis, os seus exercitos
 e os seus principes, morrem feridos pelas suas proprias armas, morrem
 pela discordancia entre os fins propostos e os meios empregados, morrem
-por haverem abra√ßado, em vez da taboa de salva√ß√£o em que fluctuariam, o
+por haverem abraÁado, em vez da taboa de salvaÁ„o em que fluctuariam, o
 trambolho de chumbo que os afunde.
 
 As catastrophes assim determinadas pela insufficiencia intellectual
@@ -1721,196 +1721,196 @@ n'uma classe dirigente, tornam a derrota comica e a ruina grotesca.
 
 O historiador snr Henri Marlin pergunta:
 
-¬´O que √© que faltou √° companhia de Jesus para que ella conseguisse
-realisar os seus planos dictados pelo genio?¬ª E o mesmo historiador
-responde: ¬´Faltou-lhe a rectid√£o, faltou-lhe a franqueza, faltou-lhe o
-espirito verdadeiramente religioso, o qual unicamente podia restituir √°
+´O que È que faltou · companhia de Jesus para que ella conseguisse
+realisar os seus planos dictados pelo genio?ª E o mesmo historiador
+responde: ´Faltou-lhe a rectid„o, faltou-lhe a franqueza, faltou-lhe o
+espirito verdadeiramente religioso, o qual unicamente podia restituir ·
 natureza os seus direitos sem attentar contra as leis eternas do bem e
-da verdade.¬ª
+da verdade.ª
 
 O marquez de Pombal, expulsor dos jesuitas e successor d'elles, cahiu
 por modo mais ridiculo mas por eguaes causas. O que faltou no plano
-pombalino, concebido, como temos obriga√ß√£o de o acreditar, no intuito do
-accelerar o progresso e a prosperidade da patria, foi a _rectid√£o,_ foi
-a _franqueza_, foi esse espirito de abnega√ß√£o e de magnanimidade que na
-egreja se chama _religi√£o_ e que na sociedade se chama a _justi√ßa_.
+pombalino, concebido, como temos obrigaÁ„o de o acreditar, no intuito do
+accelerar o progresso e a prosperidade da patria, foi a _rectid„o,_ foi
+a _franqueza_, foi esse espirito de abnegaÁ„o e de magnanimidade que na
+egreja se chama _religi„o_ e que na sociedade se chama a _justiÁa_.
 
-A sociedade portugueza refeita √° bordoada pelo despotismo pombalino
+A sociedade portugueza refeita · bordoada pelo despotismo pombalino
 offerece o aspecto servil e vergonhoso de um Paraguay burguez,
 incondicionalmente aforado a uma burocracia tarimbeira governada por um
-dos mais antipathicos mand√µes que ainda viu o mundo.
+dos mais antipathicos mandıes que ainda viu o mundo.
 
-Solida natureza mesquinha mas atarracada, refor√ßada pelos quatro couros
-sobrepostos do merceeiro, do esbirro e do cabo d'esquadra, Sebasti√£o de
+Solida natureza mesquinha mas atarracada, reforÁada pelos quatro couros
+sobrepostos do merceeiro, do esbirro e do cabo d'esquadra, Sebasti„o de
 Carvalho--feliz nome onomatopico de que parece rever uma rigidez de
-cacete e uma espessura de baluarte--fez de Portugal √° for√ßa de leis e de
-senten√ßas d'a√ßoite, de sequestro, de pris√£o, de degredo e de morte, um
+cacete e uma espessura de baluarte--fez de Portugal · forÁa de leis e de
+sentenÁas d'aÁoite, de sequestro, de pris„o, de degredo e de morte, um
 paiz de seminaristas e de recrutas, subserviente, medroso, imbecil.
 
 Viu-se o que essa sociedade miseravel tinha dentro logo que por morte do
-dictador ella se julgou desafrontada e come√ßou a desabotoar-se ao sol.
+dictador ella se julgou desafrontada e comeÁou a desabotoar-se ao sol.
 
-O reinado de D. Maria I √© todo a influencia pombalina virada com o
+O reinado de D. Maria I È todo a influencia pombalina virada com o
 dentro para fora e mostrando o miolo de que o reinado anterior fora a
 casca.
 
 Nunca a moral, a arte, o gosto, os caracteres, os costumes attingiram um
 mais sordido rebaixamento. Levantaram-se as calumnias mais torpes contra
-o ministro demittido e desgra√ßado, e uma alluvi√£o de escriptos em prosa
+o ministro demittido e desgraÁado, e uma alluvi„o de escriptos em prosa
 e em verso, da mais chilra insipidez, inundou as salas da aristocracia e
 da burguesia aristocratisada, onde as senhoras merendavam e resavam a
-novena aninhadas no ch√£o, esconjurando o ante-christo desterrado em
-Pombal, entre as gra√ßolas dos padres e dos bobos, n'uma athmosphera
+novena aninhadas no ch„o, esconjurando o ante-christo desterrado em
+Pombal, entre as graÁolas dos padres e dos bobos, n'uma athmosphera
 toireira e beata, cheirando a insenso, a estrume de cavallo, a ureia de
 batina e a ovos molles.
 
-O marquez n√£o deixara um s√≥ homem de pulso, um unico amigo fiel e
+O marquez n„o deixara um sÛ homem de pulso, um unico amigo fiel e
 generoso que o deffendesse na adversidade. A monarchia a que elle
 submettera tudo, tornando-a absoluta, discricionaria e omnipotente,
-escorra√ßava-o e perseguia-o,--que √© sempre assim que os reis pagam aos
-plebeus cuja for√ßa os assombra embora os mantenha e os sirva. O marquez
-de Pombal acabou como Colbert, o qual ao annunciarem-lhe, j√° moribundo,
-a visita de um enviado de Luiz XIV, recusou recebel-o exclamando: ¬´N√£o
-me deixar√° esse homem acabar de morrer em paz? Se eu tivesse feito por
-Deus metade do que fiz por elle, estaria certo n'esta hora da salva√ß√£o
-da minha alma, e assim n√£o sei o que ser√° de mim.¬ª
+escorraÁava-o e perseguia-o,--que È sempre assim que os reis pagam aos
+plebeus cuja forÁa os assombra embora os mantenha e os sirva. O marquez
+de Pombal acabou como Colbert, o qual ao annunciarem-lhe, j· moribundo,
+a visita de um enviado de Luiz XIV, recusou recebel-o exclamando: ´N„o
+me deixar· esse homem acabar de morrer em paz? Se eu tivesse feito por
+Deus metade do que fiz por elle, estaria certo n'esta hora da salvaÁ„o
+da minha alma, e assim n„o sei o que ser· de mim.ª
 
 O governo pombalino, pelo terror que conseguiu inspirar e por meio do
 qual dobrou ao arbitrio do seu programma todas as energias nacionaes,
 produsiu em ultimo resultado esta catastropbe enorme--a obediencia
 geral.
 
-Toda a obediencia √© uma diminui√ß√£o de valor e de dignidade. Onde a
-liberdade existe n√£o ha nunca obediencia, ha apenas accordo. A
-obediencia √© dos fructos do despotismo o mais venenoso. O homem que
+Toda a obediencia È uma diminuiÁ„o de valor e de dignidade. Onde a
+liberdade existe n„o ha nunca obediencia, ha apenas accordo. A
+obediencia È dos fructos do despotismo o mais venenoso. O homem que
 obedece avilta-se; o povo que obedece deprava-se e dissolve-se.
 
-Os individuos que por occasi√£o do centenario do marquez de Pombal se
-encarregaram de encarecer os louvores d'este estadista, n√£o cessaram um
-momento de nos explicar que os actos d'elle se n√£o podem julgar com
-justi√ßa pelas nossas ideias d'hoje, mas pelas ideias do seu tempo; e
-insistem n'isso de um modo proprio para fazer recear que, √° for√ßa de
+Os individuos que por occasi„o do centenario do marquez de Pombal se
+encarregaram de encarecer os louvores d'este estadista, n„o cessaram um
+momento de nos explicar que os actos d'elle se n„o podem julgar com
+justiÁa pelas nossas ideias d'hoje, mas pelas ideias do seu tempo; e
+insistem n'isso de um modo proprio para fazer recear que, · forÁa de
 procurarmos ideias antigas, tenhamos talvez, para ser justos, de julgar
 este personagem sem ideias nenhumas.
 
 Se quizerem fazer o favor de nos conceder que Turgot foi um
-contemporaneo do marquez de Pombal--o que ali√°s a chronologia parece
-demonstrar com uma imparcialidade indiscutivel--n√≥s permittir-nos-hemos
-contrapor algumas ideias do ministro de Luiz XVI √°s do ministro de D.
-Jos√©, e o leitor julgar√° d'essa breve approxima√ß√£o de factos se o
-estado geral das ideias no fim do seculo XVIII √© sufficiente para
+contemporaneo do marquez de Pombal--o que ali·s a chronologia parece
+demonstrar com uma imparcialidade indiscutivel--nÛs permittir-nos-hemos
+contrapor algumas ideias do ministro de Luiz XVI ·s do ministro de D.
+JosÈ, e o leitor julgar· d'essa breve approximaÁ„o de factos se o
+estado geral das ideias no fim do seculo XVIII È sufficiente para
 explicar o atraso das doutrinas economicas e dos principios moraes com
 que nos governou o marquez de Pombal.
 
-Turgot n√£o cr√™ na ac√ß√£o das monarchias absolutas sobre a felicidade dos
+Turgot n„o crÍ na acÁ„o das monarchias absolutas sobre a felicidade dos
 povos, e ao mesmo tempo em que Pombal eternisa pelo bronze da estatua
-equestre o despotismo de D. Jos√©, o ministro francez diz a Luiz XVI: _La
+equestre o despotismo de D. JosÈ, o ministro francez diz a Luiz XVI: _La
 cause du mal, sire, vient de ce que votre nation n'a pas de
-const√≠tution._ Na mesma epoca em que o ministro de D. Jos√© mandava
+constÌtution._ Na mesma epoca em que o ministro de D. JosÈ mandava
 anullar por apocrypho o livro de Velasco de Gouveia, no qual se
 ennunciava o principio da soberania nacional, e exautorava o presidente
-do Desembargo do Pa√ßo, Ignacio Alvares da Silva, por que elle exposera a
-doutrina de que a lei civil em materias de casamento s√≥ podia ser
-alterada pelas c√¥rtes da na√ß√£o, Turgot instiga o herdeiro de Luiz o
+do Desembargo do PaÁo, Ignacio Alvares da Silva, por que elle exposera a
+doutrina de que a lei civil em materias de casamento sÛ podia ser
+alterada pelas cÙrtes da naÁ„o, Turgot instiga o herdeiro de Luiz o
 Grande, o Rei Sol, a reconhecer os direitos do povo firmando com elle o
 pacto constitucional.
 
-Turgot punha acima da subserviencia dos thronos e da supersti√ß√£o dos
-altares a confian√ßa no genio bemfazejo do homem. Foi n'essa convic√ß√£o
+Turgot punha acima da subserviencia dos thronos e da superstiÁ„o dos
+altares a confianÁa no genio bemfazejo do homem. Foi n'essa convicÁ„o
 que elle escreveu sob um retrato de Franklin a epigraphe famosa, que
 sob o regimen pombalino o teria feito condemnar pelo Santo Officio ou
 pela Mesa Sensoria: _Eripiut coelo flumen sceptrumque tyrannis._
 
 A prosperidade nacional que Pombal procurou fundar no monopolio, na
-coer√ß√£o e na tyrannia, procurou Turgot estabelecel-a na liberdade,
+coerÁ„o e na tyrannia, procurou Turgot estabelecel-a na liberdade,
 _creando as municipalidades, separando a egreja do estado,_ decretando a
 _liberdade da terra_, (1773), a _liberdade, da industria e do
-commercio(1776)_, a _liberdade da raz√£o_ (1777).
+commercio(1776)_, a _liberdade da raz„o_ (1777).
 
 Emquanto Pombal intentava cegamente firmar a monarchia absoluta nos
 excessos de rigor que deviam contribuir para a aniquilar mais depressa,
 Turgot previa pela tolerancia tudo quanto podia tornar progressiva a
-ac√ß√£o da realeza, poupando √° humanidade os rios de sangue que ella havia
+acÁ„o da realeza, poupando · humanidade os rios de sangue que ella havia
 de ter que derramar para chegar ao progresso apesar dos obstaculos que
 governos como o de Pombal lhe opposeram.
 
-Condorcet, que j√° citamos, diz na sua biographia de Turgot; ¬´As leis que
-prepararam as mudan√ßas necessarias podem ser differentes para os
-differentes povos, porque s√£o feitas contra abusos e contra abus√µes que
-n√£o teem nem a mesma origem nem os mesmos effeitos; mas as leis que, em
-seguida a essas, estabelecem a ordem mais util √° sociedade devem ser as
-mesmas, pois que devem ser fundadas sobre a natureza do homem.¬ª
+Condorcet, que j· citamos, diz na sua biographia de Turgot; ´As leis que
+prepararam as mudanÁas necessarias podem ser differentes para os
+differentes povos, porque s„o feitas contra abusos e contra abusıes que
+n„o teem nem a mesma origem nem os mesmos effeitos; mas as leis que, em
+seguida a essas, estabelecem a ordem mais util · sociedade devem ser as
+mesmas, pois que devem ser fundadas sobre a natureza do homem.ª
 
-A differen√ßa capital entre o ministro de Luiz XVI e o de D. Jos√© √© essa:
+A differenÁa capital entre o ministro de Luiz XVI e o de D. JosÈ È essa:
 que a politica d'um, fundando-se _no poder absoluto dos reis_, atrasava
 para muito tempo a liberdade do povo; a outra, fundando-se na _natureza
-do homem_, auxilia, quanto o p√≥de auxilar um estadista, o progresso
+do homem_, auxilia, quanto o pÛde auxilar um estadista, o progresso
 moral da humanidade.
 
 Voltaire, aos oitenta annos de idade, no momento em que Paris o
-acclamava e o cobria de cor√¥as no meio do maior triumpho de que ainda
+acclamava e o cobria de corÙas no meio do maior triumpho de que ainda
 foi objecto um homem d'espirito, apeou-se em publico da sua carruagem
 forrada de setim asul e cravejada de estrellas d'ouro, e dirigindo-se a
-Turgot perdido na multid√£o, cahiu de joelhos banhado em lagrimas aos p√©s
-d'elle, e disse-lhe: _Deixe-me ter a gloria de beijar a m√£o que assignou
-a salva√ß√£o do povo_.
+Turgot perdido na multid„o, cahiu de joelhos banhado em lagrimas aos pÈs
+d'elle, e disse-lhe: _Deixe-me ter a gloria de beijar a m„o que assignou
+a salvaÁ„o do povo_.
 
-A m√£o do marquez de Pombal, cheirando a sangue como a de Lady Mackbet,
-envenenaria os bei√ßos que lhe tocassem. Por isso elle triumphante n√£o
+A m„o do marquez de Pombal, cheirando a sangue como a de Lady Mackbet,
+envenenaria os beiÁos que lhe tocassem. Por isso elle triumphante n„o
 teve nunca, como Turgot vencido pela intriga de Maria Antoinette, a
-consagra√ß√£o augusta do livre espirito da humanidade representado por
+consagraÁ„o augusta do livre espirito da humanidade representado por
 Voltaire. Teve apenas as honras de um centenario contradictorio
 celebrado em nome da liberdade pelos representantes de todos aquelles
 que elle opprimiu em nome do despotismo: pela industria que paralysou
-deslocando-a da tradi√ß√£o historica e baseando-a em elementos exoticos e
-posti√ßos; pelo commercio que entravou por meio dos monopolios; pela arte
+deslocando-a da tradiÁ„o historica e baseando-a em elementos exoticos e
+postiÁos; pelo commercio que entravou por meio dos monopolios; pela arte
 que abastardou tyrannisando-a pelo mais chato mau gosto; pela democracia
-que esmagou sob condemna√ß√µes d'a√ßoite, de carce, de deporta√ß√£o, de
+que esmagou sob condemnaÁıes d'aÁoite, de carce, de deportaÁ„o, de
 degredo e de morte; pela mocidade emfim, de cujas altas e
-desinteressadas aspira√ß√µes elle foi a nega√ß√£o accintosa e brutal, porque
-o seu espirito d'odio, de cavila√ß√£o e de mentira, era um espirito
-organicamente velho, mareado de nascen√ßa pelo vicio da senilidade
+desinteressadas aspiraÁıes elle foi a negaÁ„o accintosa e brutal, porque
+o seu espirito d'odio, de cavilaÁ„o e de mentira, era um espirito
+organicamente velho, mareado de nascenÁa pelo vicio da senilidade
 ingenita.
 
        *       *       *       *       *
 
-Estamos can√ßados de ouvir dizer de todos os lados, por todos os oradores
-e por todos os articulistas da festa pombalina, que √© absolutamente
-preciso, para nos pormos √° altura de admirar com o devido respeito o
+Estamos canÁados de ouvir dizer de todos os lados, por todos os oradores
+e por todos os articulistas da festa pombalina, que È absolutamente
+preciso, para nos pormos · altura de admirar com o devido respeito o
 vulto do marquez de Pombal, collocarmo-nos no _devido ponto de vista_.
 Em desconto dos erros que tenhamos commettido, cumpre-nos declarar,
-terminando, que ignoramos completamente qual √© o tal ponto de vista em
-que √© necessario que a gente se colloque.
+terminando, que ignoramos completamente qual È o tal ponto de vista em
+que È necessario que a gente se colloque.
 
-Para escrever estas linhas n√≥s collocamo-nos simplesmente n'uma cadeira,
-em frente do vulto e de um caderno de papel. Visto n'essa situa√ß√£o
+Para escrever estas linhas nÛs collocamo-nos simplesmente n'uma cadeira,
+em frente do vulto e de um caderno de papel. Visto n'essa situaÁ„o
 tranquilla, a olho desarmado e sereno, o unico effeito que nos fez o
-vulto, apparamentado com o seu cal√ß√£o e meia, a sua grande casaca de
+vulto, apparamentado com o seu calÁ„o e meia, a sua grande casaca de
 seda, as suas fivelas, a sua luneta e o seu rabicho, foi o de se parecer
-com o dos ch√©ch√©s. E √© o que francamente te communicamos, na honrada
-sinceridade de bom homem para bom homem, √≥ leitor amigo.
+com o dos chÈchÈs. E È o que francamente te communicamos, na honrada
+sinceridade de bom homem para bom homem, Û leitor amigo.
 
-Emquanto √° estatua do reformador, em que se falla como complemento do
-centenario a cuja celebra√ß√£o acabamos de assistir, ella seria, se a
-fizessem, o monumento funebre elevado √° morte da democracia ou √° do
-senso commum na sociedade portugueza. Mas n√£o a far√£o nunca. E' j√° de
-mais a do Terreiro do Pa√ßo para consignar a estima d'este povo pelo
+Emquanto · estatua do reformador, em que se falla como complemento do
+centenario a cuja celebraÁ„o acabamos de assistir, ella seria, se a
+fizessem, o monumento funebre elevado · morte da democracia ou · do
+senso commum na sociedade portugueza. Mas n„o a far„o nunca. E' j· de
+mais a do Terreiro do PaÁo para consignar a estima d'este povo pelo
 charlatanismo dos seus tyrannos.
 
-O rei D. Jos√© √© absolutamente indigno de estar posto por meio de uma
-peanha n√£o s√≥ acima do nivel mas √° simples altura de qualquer cidad√£o
-honrado. Mero heroe das alcovas dos outros, esse principe rufi√£o est√°
+O rei D. JosÈ È absolutamente indigno de estar posto por meio de uma
+peanha n„o sÛ acima do nivel mas · simples altura de qualquer cidad„o
+honrado. Mero heroe das alcovas dos outros, esse principe rufi„o est·
 abaixo do proprio Luiz XV, de apodrecida memoria. Luiz XV teve um
 merecimento pelo menos no seu reinado, teve por amante a encantadora
-amiga de Diderot, Madame de Pompadour, a cuja liga√ß√£o o rei de Fran√ßa
-deveu a honra de poder cear algumas vezes em _petit comit√©_ com alguns
-dos homens de espirito que escreveram a _Encyclopedia._ D. Jos√© nunca
-exerceu o seu donjuanismo sen√£o entre beatas insipidas, mais pobres
+amiga de Diderot, Madame de Pompadour, a cuja ligaÁ„o o rei de FranÁa
+deveu a honra de poder cear algumas vezes em _petit comitÈ_ com alguns
+dos homens de espirito que escreveram a _Encyclopedia._ D. JosÈ nunca
+exerceu o seu donjuanismo sen„o entre beatas insipidas, mais pobres
 ainda de talento que de pudor.
 
-Quando chegar a hora da justi√ßa n√£o √© a estatua do marquez de Pombal que
-se ha de erigir, √© a de D. Jos√© que se ha de apear. No monumento do
-Terreiro do Pa√ßo o unico que merece continuar a contemplar Cacilhas √© o
+Quando chegar a hora da justiÁa n„o È a estatua do marquez de Pombal que
+se ha de erigir, È a de D. JosÈ que se ha de apear. No monumento do
+Terreiro do PaÁo o unico que merece continuar a contemplar Cacilhas È o
 cavallo. Cumpre rehabilitar, na estima que se lhe deve, o nobre e util
 animal, desaffrontando-o do cavalleiro, que nunca prestou para nada
 n'este mundo, e honrando-o em nome do trabalho honesto com o appenso de
@@ -1924,7 +1924,7 @@ Lisboa 10 de junho de 1882.
 
 
 End of the Project Gutenberg EBook of As Farpas (Junho a Julho 1882)
-by E√ßa de Queiroz and Ramalho Ortig√£o
+by EÁa de Queiroz and Ramalho Ortig„o
 
 *** END OF THIS PROJECT GUTENBERG EBOOK AS FARPAS (JUNHO A JULHO 1882) ***
 
@@ -1932,7 +1932,7 @@ by E√ßa de Queiroz and Ramalho Ortig√£o
 This and all associated files of various formats will be found in:
         http://www.gutenberg.net/1/3/6/3/13630/
 
-Produced by Cl√°udia Ribeiro, Larry Bergey and the Online Distributed
+Produced by Cl·udia Ribeiro, Larry Bergey and the Online Distributed
 Proofreading Team. Page images were kindly contributed by Biblioteca
 Nacional de Lisboa.
 

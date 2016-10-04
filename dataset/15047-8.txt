@@ -1,5 +1,5 @@
 The Project Gutenberg EBook of Bases da ortografia portuguesa
-by GonÃ§alves Viana and Guilherme Abreu
+by Gonçalves Viana and Guilherme Abreu
 
 This eBook is for the use of anyone anywhere at no cost and with
 almost no restrictions whatsoever.  You may copy it, give it away or
@@ -9,7 +9,7 @@ with this eBook or online at www.gutenberg.net
 
 Title: Bases da ortografia portuguesa
 
-Author: GonÃ§alves Viana and Guilherme Abreu
+Author: Gonçalves Viana and Guilherme Abreu
 
 Release Date: February 14, 2005 [EBook #15047]
 
@@ -40,7 +40,7 @@ ORTOGRAFIA PORTUGUESA
 
 POR
 
-A. R. GONÃ‡ALVES VIANNA
+A. R. GONÇALVES VIANNA
 Romanista
 
 G. DE VASCONCELLOS ABREU
@@ -60,79 +60,79 @@ _OFERTA DOS AUTORES_
 
  Ex.^mo Sr.
 
-Para respondermos Ã s perguntas que nos teem sido feitas acÃªrca da
-ortografia adoptada pelos editores tÃ©cnicos da Â«+EnciclopÃ©dia de
-ciÃ©ncia, arte e literatura--Biblioteca de Portugal e Brasil[1]+Â» temos a
-honra de dirijir a V. Ex.Âª esta circular, e rogamos-lhe que faÃ§a tÃ£o
+Para respondermos às perguntas que nos teem sido feitas acêrca da
+ortografia adoptada pelos editores técnicos da «+Enciclopédia de
+ciéncia, arte e literatura--Biblioteca de Portugal e Brasil[1]+» temos a
+honra de dirijir a V. Ex.ª esta circular, e rogamos-lhe que faça tão
 conhecidos, quanto em seu poder esteja, os fundamentos em que essa
 ortografia assenta.
 
-Os princÃ­pios que servem de base Ã  reforma ortogrÃ¡fica iniciada por nÃ³s
-ambos e usada ha dois anos pelo segundo signatÃ¡rio desta circular, em
+Os princípios que servem de base à reforma ortográfica iniciada por nós
+ambos e usada ha dois anos pelo segundo signatário desta circular, em
 escritos particulares e oficiais, e em artigos publicados em alguns
-papÃ©is periÃ³dicos, sÃ£o resultado de estudo consciencioso e larga
-discussÃ£o dos iniciadores. SÃ£o princÃ­pios deduzidos ou antes expressÃ£o
-dos factos glotolÃ³jicos examinados com rigor; sÃ£o todos demonstrÃ¡veis, e
-de simplicidade tal que os poderÃ¡ compreender a sÃ£ intelijÃ©ncia, aÃ­nda
+papéis periódicos, são resultado de estudo consciencioso e larga
+discussão dos iniciadores. São princípios deduzidos ou antes expressão
+dos factos glotolójicos examinados com rigor; são todos demonstráveis, e
+de simplicidade tal que os poderá compreender a sã intelijéncia, aínda
 que para ela sejam estranhos os estudos de glotolojia.
 
-Vamos expÃ´-los Ã  apreciaÃ§Ã£o pÃºblica desde jÃ¡, e assim comeÃ§arÃ¡ a
-preparar-se a crÃ­tica de todos os indivÃ­duos, que, por se prezarem de
-Portugueses, nÃ£o queiram que estranjeiros censurem nÃ£o haver, para a
-nossa formosÃ­ssima lingua, ortografia cientÃ­fica e uniforme a que deva
+Vamos expô-los à apreciação pública desde já, e assim começará a
+preparar-se a crítica de todos os indivíduos, que, por se prezarem de
+Portugueses, não queiram que estranjeiros censurem não haver, para a
+nossa formosíssima lingua, ortografia científica e uniforme a que deva
 chamar-se +Ortografia Portuguesa+.
 
-No futuro Congresso que temos a peito convocar breve, essa crÃ­tica serÃ¡
-o Ãºnico juÃ­z a que todos nÃ³s os Portugueses havemos de nos sujeitar para
-adopÃ§Ã£o de ortografia portuguesa e rejeiÃ§Ã£o absoluta de toda ortografia
+No futuro Congresso que temos a peito convocar breve, essa crítica será
+o único juíz a que todos nós os Portugueses havemos de nos sujeitar para
+adopção de ortografia portuguesa e rejeição absoluta de toda ortografia
 individual, seja quem for seu autor.
 
-  [1] EstÃ£o publicados: o 1.Âº vol. da ColecÃ§Ã£o cientÃ­fica Â«A Literatura
-  e a RelijiÃ£o dos Ãrias na ÃndiaÂ», por G. de Vasconcellos Abreu; e o
-  1.Âº vol. da ColecÃ§Ã£o literÃ¡ria Â«MÃ¡goas de WertherÂ», romance traduzido
-  do orijinal alemÃ£o, de J.W. von Goethe, por A. R. GonÃ§alves Vianna.
+  [1] Estão publicados: o 1.º vol. da Colecção científica «A Literatura
+  e a Relijião dos Árias na Índia», por G. de Vasconcellos Abreu; e o
+  1.º vol. da Colecção literária «Mágoas de Werther», romance traduzido
+  do orijinal alemão, de J.W. von Goethe, por A. R. Gonçalves Vianna.
 
-  O custo de cada volume Ã© de 300 rÃ©is, brochura, 400 rÃ©is, cartonado.
+  O custo de cada volume é de 300 réis, brochura, 400 réis, cartonado.
 
-  Estes volumes por serem os primeÃ­ros, e particularmente Â«WertherÂ»,
-  saÃ­ram com erros tipogrÃ¡ficos que nÃ£o devem ser levados Ã  conta do
+  Estes volumes por serem os primeíros, e particularmente «Werther»,
+  saíram com erros tipográficos que não devem ser levados à conta do
   sistema de ortografia.
 
-  SÃ£o editores tÃ©cnicos A. R. GonÃ§alves Vianna, G. de Vasconcellos Abreu
-  (a quem devem ser dirijidos os manuscritos e toda a correspondÃ©ncia),
+  São editores técnicos A. R. Gonçalves Vianna, G. de Vasconcellos Abreu
+  (a quem devem ser dirijidos os manuscritos e toda a correspondéncia),
   S. Consiglieri Pedroso, em Lisboa.
 
-  SÃ£o editores-impressores Guillard, Ailland & C.Âª, em Paris.
+  São editores-impressores Guillard, Ailland & C.ª, em Paris.
 
-Todos nÃ³s, os que lemos, e mais aÃ­nda os que escrevemos para o pÃºblico,
-sabemos quÃ£o diverjentes sÃ£o as ortografias das vÃ¡rias RedacÃ§Ãµes e
-estabelecimentos tipogrÃ¡ficos. Teem escritores +suas ortografias+
-prÃ³prias, como +as+ teem as imprensas particulares e as do Estado. E nas
-do Estado sÃ£o diferentes +as ortografias+ da Imprensa Nacional e +as+ da
-Imprensa da Universidade--estes plurais sÃ£o a expressÃ£o real de um
+Todos nós, os que lemos, e mais aínda os que escrevemos para o público,
+sabemos quão diverjentes são as ortografias das várias Redacções e
+estabelecimentos tipográficos. Teem escritores +suas ortografias+
+próprias, como +as+ teem as imprensas particulares e as do Estado. E nas
+do Estado são diferentes +as ortografias+ da Imprensa Nacional e +as+ da
+Imprensa da Universidade--estes plurais são a expressão real de um
 facto, sem censura pessoal.
 
-Com a exposiÃ§Ã£o que vamos fazer dos princÃ­pios mais jerais em que
-assenta a reforma ortogrÃ¡fica, por nÃ³s iniciada, temos em vista mostrar,
-a todo o paÃ­s capaz de pensar e ler, que o nosso intuito Ã© realizar uma
-das verdadeiras condiÃ§Ãµes da vida nacional--existÃ©ncia de ortografia
-+uniforme e cientificamente sistemÃ¡tica+ a que deva chamar-se
+Com a exposição que vamos fazer dos princípios mais jerais em que
+assenta a reforma ortográfica, por nós iniciada, temos em vista mostrar,
+a todo o país capaz de pensar e ler, que o nosso intuito é realizar uma
+das verdadeiras condições da vida nacional--existéncia de ortografia
++uniforme e cientificamente sistemática+ a que deva chamar-se
 +Ortografia Portuguesa+.
 
-Sigamos dois bons exemplos a que largos anos deram ha muito jÃ¡ a sanÃ§Ã£o:
-o exemplo da Hispanha e o mais antigo da ItÃ¡lia. V. Ex.Âª a quem
-dirijimos esta nossa exposiÃ§Ã£o, honrar-nos ha dando-lhe a maior
-publicidade que puder; e por certo se julgarÃ¡ honrado se entender que
-com essa publicaÃ§Ã£o presta bom serviÃ§o Ã  pÃ¡tria a quem devemos Ãªste
+Sigamos dois bons exemplos a que largos anos deram ha muito já a sanção:
+o exemplo da Hispanha e o mais antigo da Itália. V. Ex.ª a quem
+dirijimos esta nossa exposição, honrar-nos ha dando-lhe a maior
+publicidade que puder; e por certo se julgará honrado se entender que
+com essa publicação presta bom serviço à pátria a quem devemos êste
 respeito.
 
-De V. Ex.Âª
+De V. Ex.ª
 
 +atentos veneradores+
 
 Lisboa, outubro de 1885.
 
-A. R. GonÃ§alves Vianna. G. de Vasoncellos Abreu.
+A. R. Gonçalves Vianna. G. de Vasoncellos Abreu.
 
 
 
@@ -148,45 +148,45 @@ ORTOGRAFIA PORTUGUESA
 I
 
 
-PRINCÃPIOS JERAIS DE TODA ORTOGRAFIA
+PRINCÍPIOS JERAIS DE TODA ORTOGRAFIA
 
 
-1.Âº Uma lÃ­ngua Ã© um facto social; nÃ£o depende do capricho de ninguÃ©m
-alterÃ¡-la fundamentalmente.
+1.º Uma língua é um facto social; não depende do capricho de ninguém
+alterá-la fundamentalmente.
 
-2.Âº Como facto social Ã© produto complexo, variÃ¡vel por evoluÃ§Ã£o prÃ³pria
-da sociedade cujas relaÃ§Ãµes serve.
+2.º Como facto social é produto complexo, variável por evolução própria
+da sociedade cujas relações serve.
 
-3.Âº A ortografia Ã© o sistema de escrita pelo qual Ã© representada a
-lÃ­ngua dum povo ou duma naÃ§Ã£o num certo estado de evoluÃ§Ã£o glotolÃ³jica.
+3.º A ortografia é o sistema de escrita pelo qual é representada a
+língua dum povo ou duma nação num certo estado de evolução glotolójica.
 
-4.Âº Esta representaÃ§Ã£o deve ser exacta para todo o povo, para toda a
-naÃ§Ã£o e portanto deve respeitar a filiaÃ§Ã£o histÃ³rica.
+4.º Esta representação deve ser exacta para todo o povo, para toda a
+nação e portanto deve respeitar a filiação histórica.
 
-5.Âº Ã‰ evidente, pois, que a ortografia nÃ£o pode ser especial dum modo de
-falar, quer Ãªste seja dum sÃ³ indivÃ­duo, quer duma provÃ­ncia ou dialecto
-da lÃ­ngua.
+5.º É evidente, pois, que a ortografia não pode ser especial dum modo de
+falar, quer êste seja dum só indivíduo, quer duma província ou dialecto
+da língua.
 
-6.Âº Em virtude disto a ortografia nÃ£o pode representar a pronunciaÃ§Ã£o,
-que por certo nÃ£o serÃ¡ una; ha de representar a enunciaÃ§Ã£o, a qual Ã©
-sempre comum ao povo, Ã  naÃ§Ã£o que fala uma sÃ³ lÃ­ngua como seu idioma
-prÃ³prio e exclusivo.
+6.º Em virtude disto a ortografia não pode representar a pronunciação,
+que por certo não será una; ha de representar a enunciação, a qual é
+sempre comum ao povo, à nação que fala uma só língua como seu idioma
+próprio e exclusivo.
 
-7.Âº Na ortografia, por consecuÃ©ncia, nÃ£o se pode fazer uso de sinais que
-indiquem pronÃºncia de uma qualquer letra vogal, excepto quando essa
-vogal careÃ§a de ser pronunciada com modulaÃ§Ã£o especial para a distinÃ§Ã£o
-conveniente do emprÃªgo sintÃ¡ctico do vocÃ¡bulo, ou aÃ­nda (e menos vezes
-em portuguÃªs) para distinguir na grafia Ãºnica modos diferentes de
-silabizaÃ§Ã£o.
+7.º Na ortografia, por consecuéncia, não se pode fazer uso de sinais que
+indiquem pronúncia de uma qualquer letra vogal, excepto quando essa
+vogal careça de ser pronunciada com modulação especial para a distinção
+conveniente do emprêgo sintáctico do vocábulo, ou aínda (e menos vezes
+em português) para distinguir na grafia única modos diferentes de
+silabização.
 
-8.Âº Para se representar a enunciaÃ§Ã£o carece-se de acentuar grÃ¡ficamente
-o vocÃ¡bulo, e a ortografia deve ser tal que, subordinada Ã s leis de
-acentuaÃ§Ã£o na lÃ­ngua falada, mostre para qualquer vocÃ¡bulo a sua sÃ­laba
-tÃ³nica a quem desconheÃ§a o vocÃ¡bulo que lÃª.
+8.º Para se representar a enunciação carece-se de acentuar gráficamente
+o vocábulo, e a ortografia deve ser tal que, subordinada às leis de
+acentuação na língua falada, mostre para qualquer vocábulo a sua sílaba
+tónica a quem desconheça o vocábulo que lê.
 
-_EscÃ³lio_.--Ã‰ evidente que a acentuaÃ§Ã£o grÃ¡fica Ã© inÃºtil na lÃ­ngua
-escrita cuja constituiÃ§Ã£o glotolÃ³jica a determina invariÃ¡velmente: tal o
-latim clÃ¡ssico e as lÃ­nguas jermÃ¡nicas.
+_Escólio_.--É evidente que a acentuação gráfica é inútil na língua
+escrita cuja constituição glotolójica a determina invariávelmente: tal o
+latim clássico e as línguas jermánicas.
 
 
 
@@ -194,440 +194,440 @@ latim clÃ¡ssico e as lÃ­nguas jermÃ¡nicas.
 II
 
 
-PRINCÃPIOS PARTICULARES DA ORTOGRAFIA DA LÃNGUA PORTUGUESA
+PRINCÍPIOS PARTICULARES DA ORTOGRAFIA DA LÍNGUA PORTUGUESA
 
 
-O ensino ortogrÃ¡fico da lÃ­ngua portuguesa reduz-se, portanto, na
-prÃ¡tica, ao ensino de:
+O ensino ortográfico da língua portuguesa reduz-se, portanto, na
+prática, ao ensino de:
 
-I. Leis da acentuaÃ§Ã£o nos vocÃ¡bulos sÃ­mplices e nos compostos.
+I. Leis da acentuação nos vocábulos símplices e nos compostos.
 
-II. Valor histÃ³rico dos fonemas aÃ­nda proferidos e dos que jÃ¡ nÃ£o se
-proferem; influÃ©ncia dÃªstes sÃ´bre a modulaÃ§Ã£o da vogal precedente.
+II. Valor histórico dos fonemas aínda proferidos e dos que já não se
+proferem; influéncia dêstes sôbre a modulação da vogal precedente.
 
-III. Conhecimento dos ditongos e sua dissoluÃ§Ã£o.
+III. Conhecimento dos ditongos e sua dissolução.
 
-IV. SilabizaÃ§Ã£o.
+IV. Silabização.
 
-V. HomÃ³nimos e parÃ³nimos.
+V. Homónimos e parónimos.
 
-VI. FunÃ§Ã£o dos sufixos.
+VI. Função dos sufixos.
 
-VII. ComposiÃ§Ã£o dos vocÃ¡bulos e formaÃ§Ã£o da perÃ­frase nos verbos, e uso
-das enclÃ­ticas.
+VII. Composição dos vocábulos e formação da perífrase nos verbos, e uso
+das enclíticas.
 
-Diremos dÃªstes assuntos em outros tantos paragrafos, definindo, todavia,
+Diremos dêstes assuntos em outros tantos paragrafos, definindo, todavia,
 primeiro, o que entendemos por ortografia portuguesa.
 
-Â«ORTOGRAFIA PORTUGUESAÂ» Ã© o sistema de escrita ou grafia representante
-comum de todos os dialectos do portuguÃªs falado; a sua base Ã© a histÃ³ria
-da linguajem portuguesa considerada como lÃ­ngua e como dialecto.
+«ORTOGRAFIA PORTUGUESA» é o sistema de escrita ou grafia representante
+comum de todos os dialectos do português falado; a sua base é a história
+da linguajem portuguesa considerada como língua e como dialecto.
 
-Considerada como lÃ­ngua, estuda-se a linguajem portuguesa no ponto de
-vista de lÃ­ngua fundamental ou lÃ­ngua mÃ£e, de que, por evoluÃ§Ã£o prÃ³pria,
-se teem derivado outros modos de falar no tempo e no espaÃ§o, depois de
-assentada a evoluÃ§Ã£o glotolÃ³jica realizada em Portugal durante mais de
-um sÃ©culo jÃ¡ desde D. Dinis, e principalmente durante os reinados de D.
-Pedro I, D. Fernando I e D. JoÃ£o I.
+Considerada como língua, estuda-se a linguajem portuguesa no ponto de
+vista de língua fundamental ou língua mãe, de que, por evolução própria,
+se teem derivado outros modos de falar no tempo e no espaço, depois de
+assentada a evolução glotolójica realizada em Portugal durante mais de
+um século já desde D. Dinis, e principalmente durante os reinados de D.
+Pedro I, D. Fernando I e D. João I.
 
 Considerada como dialecto, estuda-se a linguajem portuguesa como
-evoluÃ§Ã£o glotolÃ³jica neo-latina ou romÃ¡nica.
+evolução glotolójica neo-latina ou románica.
 
 
-I--DA ACENTUAÃ‡ÃƒO
+I--DA ACENTUAÇÃO
 
 
-1.Âº A acentuaÃ§Ã£o marcada Ã© tÃ³nica e nÃ£o prosÃ³dica; nÃ£o determina
-modulaÃ§Ã£o da letra vogal, determina a sÃ­laba elevada na enunciaÃ§Ã£o do
-vocÃ¡bulo.
+1.º A acentuação marcada é tónica e não prosódica; não determina
+modulação da letra vogal, determina a sílaba elevada na enunciação do
+vocábulo.
 
-Esta sÃ­laba Ã© uma sÃ³ e a mesma sÃ­laba para cada vocÃ¡bulo na lÃ­ngua
-portuguesa em todo o paÃ­s, com excepÃ§Ãµes esporÃ¡dicas mais ou menos
-justificadas. Exemplos: _hÃ³tel, hotel; bÃ©nÃ§Ã£o, benÃ§Ã£o_.
+Esta sílaba é uma só e a mesma sílaba para cada vocábulo na língua
+portuguesa em todo o país, com excepções esporádicas mais ou menos
+justificadas. Exemplos: _hótel, hotel; bénção, benção_.
 
-_EscÃ³lio._--A acentuaÃ§Ã£o grÃ¡fica Ã© sempre a de vocÃ¡bulo que faz
-excepÃ§Ã£o Ã  regra jeral.
+_Escólio._--A acentuação gráfica é sempre a de vocábulo que faz
+excepção à regra jeral.
 
-2.Âº O sinal grÃ¡fico da acentuaÃ§Ã£o tÃ³nica Ã© por excelÃ©ncia o acento
-agudo. Marca, porÃ©m, Ãªste acento:--vogal tÃ³nica aberta em parÃ³nimos:
-_fÃ´sse, fÃ³sse; sÃªco, sÃ©co; reis_ (pl. de _rei_), _rÃ©is_ (pl. de
-_real_);--_i, u_ tÃ³nicos depois de outra vogal: _paÃ­s_ (cf. _pais_),
-_reÃºne, moÃ­nho, ruÃ­m_;--a vogal _u_ tÃ³nica depois de _g_ em _gÃºe, gÃºi_
-(cf. 4.Âº): _argÃºe, argÃºi_.
+2.º O sinal gráfico da acentuação tónica é por exceléncia o acento
+agudo. Marca, porém, êste acento:--vogal tónica aberta em parónimos:
+_fôsse, fósse; sêco, séco; reis_ (pl. de _rei_), _réis_ (pl. de
+_real_);--_i, u_ tónicos depois de outra vogal: _país_ (cf. _pais_),
+_reúne, moínho, ruím_;--a vogal _u_ tónica depois de _g_ em _gúe, gúi_
+(cf. 4.º): _argúe, argúi_.
 
-3.Âº Pode ser sinal grÃ¡fico da acentuaÃ§Ã£o tÃ³nica o acento circunflexo, e
-o serÃ¡ especialmente nos casos em que no fonema tÃ³nico concorra
-modulaÃ§Ã£o necessÃ¡ria de _Ãª, Ã´_, como fica exemplificado em o nÃºmero
-precedente, e se vÃª mais dos seguintes exemplos: _fÃ´rÃ§a_ (cf. _fÃ³rÃ§a_),
-_modÃªlo_ (cf. _modÃ©lo_), _sossÃªgo_ (cf. _sossÃ©go_), _cÃ´res_ (cf.
-_cÃ³res_), _cÃ´r_ (cf. _cÃ³r_ em _de-cÃ³r_), _vÃªem_ (cf. _veem_, do verbo
-_vir_), _dÃª_ (cf. _de_), _dÃªsse_ (cf. _dÃ©sse_), e aÃ­nda nos vocÃ¡bulos
-sem parÃ³nimos, quando eles sejam esdrÃºxulos ou oxÃ­tonos terminados numa
-dessas vogais seguida ou nÃ£o de _s_, tais: _pÃªssego, portuguÃªs, fÃ´lego,
-mercÃª_.
+3.º Pode ser sinal gráfico da acentuação tónica o acento circunflexo, e
+o será especialmente nos casos em que no fonema tónico concorra
+modulação necessária de _ê, ô_, como fica exemplificado em o número
+precedente, e se vê mais dos seguintes exemplos: _fôrça_ (cf. _fórça_),
+_modêlo_ (cf. _modélo_), _sossêgo_ (cf. _sosségo_), _côres_ (cf.
+_córes_), _côr_ (cf. _cór_ em _de-cór_), _vêem_ (cf. _veem_, do verbo
+_vir_), _dê_ (cf. _de_), _dêsse_ (cf. _désse_), e aínda nos vocábulos
+sem parónimos, quando eles sejam esdrúxulos ou oxítonos terminados numa
+dessas vogais seguida ou não de _s_, tais: _pêssego, português, fôlego,
+mercê_.
 
-4.Âº O acento grave Ã© diferencial: indica sempre a pronunciaÃ§Ã£o
-alfabÃ©tica prÃ³pria da letra vogal alterÃ¡vel, isto Ã©, susceptÃ­vel de ter
-mais de uma pronunciaÃ§Ã£o (_a, e, o_). Emprega-se na ortografia
-exclusivamente em tres circunstÃ¡ncias:--na crase da preposiÃ§Ã£o _a_ com o
-artigo feminino _a, a_ + _a_ (ambos Ã¡tonos) = Ã ;--na sÃ­laba Ã¡tona cuja
-vogal alterÃ¡vel haja de se proferir aberta e Ã¡tona com a sua pronÃºncia
-alfabÃ©tica, para que se distinga o vocÃ¡bulo de outro seu parÃ³nimo, ex.:
-_crÃ¨dor_ (cf. _credor_), _prÃ¨gar_ (cf. _pregar_);--no _u_ de prolacÃ£o
-_gÃ¹e, gÃ¹i_ quando se proferir Ã¡tono (cf. 2.Âº): _argÃ¹ir, agÃ¹entar,
-lingÃ¹Ã­stica_.
+4.º O acento grave é diferencial: indica sempre a pronunciação
+alfabética própria da letra vogal alterável, isto é, susceptível de ter
+mais de uma pronunciação (_a, e, o_). Emprega-se na ortografia
+exclusivamente em tres circunstáncias:--na crase da preposição _a_ com o
+artigo feminino _a, a_ + _a_ (ambos átonos) = à;--na sílaba átona cuja
+vogal alterável haja de se proferir aberta e átona com a sua pronúncia
+alfabética, para que se distinga o vocábulo de outro seu parónimo, ex.:
+_crèdor_ (cf. _credor_), _prègar_ (cf. _pregar_);--no _u_ de prolacão
+_gùe, gùi_ quando se proferir átono (cf. 2.º): _argùir, agùentar,
+lingùística_.
 
-_EscÃ³lio._--Escrevemos _cue_ por _que_ (_qÃ¹e_), _cui_ por _qui_ (_qÃ¹i_);
-ex.: _consecuente, consecuÃ©ncia_.
+_Escólio._--Escrevemos _cue_ por _que_ (_qùe_), _cui_ por _qui_ (_qùi_);
+ex.: _consecuente, consecuéncia_.
 
-5.Âº Os vocÃ¡bulos terminados em _a, o, e, as, os, es_, sÃ£o jeralmente
-enunciados com acentuaÃ§Ã£o na penÃºltima sÃ­laba; logo nÃ£o teem acentuaÃ§Ã£o
-grÃ¡fica marcada. Cf. 2.Âº e corolÃ¡rio de 7.Âº _bis_.
+5.º Os vocábulos terminados em _a, o, e, as, os, es_, são jeralmente
+enunciados com acentuação na penúltima sílaba; logo não teem acentuação
+gráfica marcada. Cf. 2.º e corolário de 7.º _bis_.
 
-5.Âº _bis_. Todo vocÃ¡bulo terminado em _a_ ou _as, o_ ou _os, e_ ou _es_,
-proferido com acentuaÃ§Ã£o noutra sÃ­laba que nÃ£o seja a penÃºltima, tem a
-acentuaÃ§Ã£o marcada na escrita. SÃ£o innÃºmeros os exemplos; em toda esta
-exposiÃ§Ã£o doutrinal os terÃ¡ notado o leitor, pois que saltam Ã  vista,
-sempre como excepÃ§Ã£o, as diÃ§Ãµes cuja grafia Ã© acentuada.
+5.º _bis_. Todo vocábulo terminado em _a_ ou _as, o_ ou _os, e_ ou _es_,
+proferido com acentuação noutra sílaba que não seja a penúltima, tem a
+acentuação marcada na escrita. São innúmeros os exemplos; em toda esta
+exposição doutrinal os terá notado o leitor, pois que saltam à vista,
+sempre como excepção, as dições cuja grafia é acentuada.
 
-6.Âº Os vocÃ¡bulos terminados em outra qualquer vogal (_i, u_), ou em
-vogal pura seguida de outra consoante que nÃ£o seja _s_, e os plurais
-respectivos, sÃ£o jeralmente proferidos com acento na Ãºltima sÃ­laba. Logo
-nÃ£o teem acento grÃ¡fico.
+6.º Os vocábulos terminados em outra qualquer vogal (_i, u_), ou em
+vogal pura seguida de outra consoante que não seja _s_, e os plurais
+respectivos, são jeralmente proferidos com acento na última sílaba. Logo
+não teem acento gráfico.
 
-6.Âº _bis_. Todo vocÃ¡bulo terminado dÃªste modo mas cuja acentuaÃ§Ã£o se faz
-noutra sÃ­laba tem o acento grÃ¡fico nessa sÃ­laba. Ex.: _pedi, pedis;
-funil, 'funis; matiz; pÃ©nsil, pÃ©nseis; cascavel, cascaveis; peru,
-perus; Hindu, Hindus; Caramuru; trÃ­bu, trÃ­bus; PÃºru_.
+6.º _bis_. Todo vocábulo terminado dêste modo mas cuja acentuação se faz
+noutra sílaba tem o acento gráfico nessa sílaba. Ex.: _pedi, pedis;
+funil, 'funis; matiz; pénsil, pénseis; cascavel, cascaveis; peru,
+perus; Hindu, Hindus; Caramuru; tríbu, tríbus; Púru_.
 
-7.Âº Os vocÃ¡bulos cuja Ãºltima sÃ­laba for em vogal nasal, ou em ditongo
-puro ou nasal, teem jeralmente a enunciaÃ§Ã£o acentuada na sÃ­laba final.
-Logo nÃ£o se lhes marca o acento na escrita. Ex.: _marfim; irmÃ£, irmÃ£s;
-irmÃ£o, irmÃ£os; marau, maraus; andai, andais; louvei, louveis; SimÃµes;
-MagalhÃ£es_. Cf. 2.Âº paj. 7 e 13.
+7.º Os vocábulos cuja última sílaba for em vogal nasal, ou em ditongo
+puro ou nasal, teem jeralmente a enunciação acentuada na sílaba final.
+Logo não se lhes marca o acento na escrita. Ex.: _marfim; irmã, irmãs;
+irmão, irmãos; marau, maraus; andai, andais; louvei, louveis; Simões;
+Magalhães_. Cf. 2.º paj. 7 e 13.
 
-7.Âº _bis_. SerÃ¡, porÃ©m, marcada a acentuaÃ§Ã£o dÃªsses vocÃ¡bulos quando ela
-se faÃ§a noutra qualquer sÃ­laba. Ex.: _Ã³rgÃ£o, EstÃªvÃ£o_.
+7.º _bis_. Será, porém, marcada a acentuação dêsses vocábulos quando ela
+se faça noutra qualquer sílaba. Ex.: _órgão, Estêvão_.
 
-_EscÃ³lio_.--Para os contratos Ã© absolutamente indispensÃ¡vel, como bem o
-viu o grande Ministro, distinguir os futuros dos pretÃ©ritos na 3.Âª
-pessoa do plural, sem emprÃªgo do acento grÃ¡fico, fÃ¡cil de esquecer ou de
-ser pÃ´sto depois do contrato escrito e assinado, distinguir-se hÃ£o,
-pois: _jurarÃ£o, juraram (jurÃ¡rÃ£o); venderÃ£o, venderam (vendÃªrÃ£o);
-prescindirÃ£o, prescindiram (prescindÃ­rÃ£o)_; etc.
+_Escólio_.--Para os contratos é absolutamente indispensável, como bem o
+viu o grande Ministro, distinguir os futuros dos pretéritos na 3.ª
+pessoa do plural, sem emprêgo do acento gráfico, fácil de esquecer ou de
+ser pôsto depois do contrato escrito e assinado, distinguir-se hão,
+pois: _jurarão, juraram (jurárão); venderão, venderam (vendêrão);
+prescindirão, prescindiram (prescindírão)_; etc.
 
-_CorolÃ¡rio_.--Por Ãªste motivo o ditongo _Ã£o_, final Ã¡tono de verbos,
-escrever-se ha idÃ©nticamente com _am_; e, por analojia, se escreverÃ¡ a
-sÃ­laba final dos vocÃ¡bulos terminados pelo ditongo Ã¡tono _Ãªe_ com a
-grafia _em_. A acentuaÃ§Ã£o grÃ¡fica de tais vocÃ¡bulos obedece ao princÃ­pio
-5.Âº Ex.: _honram, viajam, ordem, viajem, pÃ´rem, alem_ (= _Ã¡lem,_ v.
+_Corolário_.--Por êste motivo o ditongo _ão_, final átono de verbos,
+escrever-se ha idénticamente com _am_; e, por analojia, se escreverá a
+sílaba final dos vocábulos terminados pelo ditongo átono _êe_ com a
+grafia _em_. A acentuação gráfica de tais vocábulos obedece ao princípio
+5.º Ex.: _honram, viajam, ordem, viajem, pôrem, alem_ (= _álem,_ v.
 _alar_).
 
-_N.B._ Pelo princÃ­pio 5.Âº _bis_ devemos escrever e escrevemos: _porÃ©m,
-ninguÃ©m, tambÃ©m, alÃ©m_, etc.; deverÃ­amos, todavia, usar da ortografia:
-_porÃªe, ninguÃªe, tambÃªe_, etc. DeixÃ¡mos Ãªste ponto para o Congresso.
+_N.B._ Pelo princípio 5.º _bis_ devemos escrever e escrevemos: _porém,
+ninguém, também, além_, etc.; deveríamos, todavia, usar da ortografia:
+_porêe, ninguêe, tambêe_, etc. Deixámos êste ponto para o Congresso.
 
-Ã‰ aÃ­nda evidente que os plurais dÃªstes nomes seguem anÃ¡logamente a regra
+É aínda evidente que os plurais dêstes nomes seguem análogamente a regra
 dada para os plurais dos nomes em _a, o, e_; assim: _ordens, viajens,
-(_Ã³rdÃªes, viÃ¡jÃªes_).
+(_órdêes, viájêes_).
 
-8Âº Os vocÃ¡bulos compostos teem na escrita a acentuaÃ§Ã£o dos seus
-sÃ­mplices respectivamente marcada em obediÃ©ncia aos princÃ­pios que ficam
+8º Os vocábulos compostos teem na escrita a acentuação dos seus
+símplices respectivamente marcada em obediéncia aos princípios que ficam
 expostos.
 
 
-II--DOS FONEMAS E SUA REPRESENTAÃ‡ÃƒO POR LETRAS CONSOANTES
+II--DOS FONEMAS E SUA REPRESENTAÇÃO POR LETRAS CONSOANTES
 
 
-Dois princÃ­pios absolutos determinam a exclusÃ£o de consoante inÃºtil; e
-quatro ordens de outros factos decidem a adopÃ§Ã£o cientÃ­fica de
-representaÃ§Ã£o de fonemas articulados. SÃ£o estes factos:
+Dois princípios absolutos determinam a exclusão de consoante inútil; e
+quatro ordens de outros factos decidem a adopção científica de
+representação de fonemas articulados. São estes factos:
 
 _a)_ valores dialectalmente confundidos: _ch_ (= _tch_), _ch_ (= _x_),
-_x; s, Ã§; s, z_.
+_x; s, ç; s, z_.
 
-_b)_ valores prÃ³ximos confundidos pela falta de observaÃ§Ã£o da
-articulaÃ§Ã£o: _s, x; g_(_a_), _g_(_ue, ui_); _g_(_e, i_), _j_; _c_(_a, o,
+_b)_ valores próximos confundidos pela falta de observação da
+articulação: _s, x; g_(_a_), _g_(_ue, ui_); _g_(_e, i_), _j_; _c_(_a, o,
 u_), _qu_.
 
-_c)_ valor exclusivamente de influÃªncia do fonema articulado sÃ´bre o
+_c)_ valor exclusivamente de influência do fonema articulado sôbre o
 fonema modulado precedente.
 
-_d)_ valores diferentes de um sÃ³ sÃ­mbolo grÃ¡fico: _x_, entre vogais.
+_d)_ valores diferentes de um só símbolo gráfico: _x_, entre vogais.
 
 
 
-II _a_.--EXCLUSÃƒO DE LETRAS CONSOANTES
+II _a_.--EXCLUSÃO DE LETRAS CONSOANTES
 
 
-1.Âº SÃ£o banidos da escrita os sÃ­mbolos grÃ¡ficos sem valor de fonema
-prÃ³prio. SÃ£o eles _th, ph, ch_, respectivamente por _t, f, q_(_u_),
+1.º São banidos da escrita os símbolos gráficos sem valor de fonema
+próprio. São eles _th, ph, ch_, respectivamente por _t, f, q_(_u_),
 _c_(_a, o, u_), _c_; bem assim _y_=_i_.
 
-1.Âº _bis_. PÃ³de manter-se _k=q_(_u_)=_c_(_a, o, u_) nas abreviaturas de
-_quilÃ³metro_=_klm._, etc. Devemos, porÃ©m, escrever por extenso:
-_quilÃ³metro_[1], _quilograma_, etc.
+1.º _bis_. Póde manter-se _k=q_(_u_)=_c_(_a, o, u_) nas abreviaturas de
+_quilómetro_=_klm._, etc. Devemos, porém, escrever por extenso:
+_quilómetro_[1], _quilograma_, etc.
 
-2.Âº SÃ£o banidos da escrita os sÃ­mbolos grÃ¡ficos sem valor. SÃ£o eles as
-consoantes dobradas ou grupos de consoantes nÃ£o proferidas e sem
-influÃ©ncia na modulaÃ§Ã£o antecedente, nem necessidade por derivaÃ§Ã£o
-manifesta de outro vocÃ¡bulo existente em que haja de proferir-se cada
-uma das consoantes, como Ã© _Ejipto_ de que se deriva _ejÃ­pcio_.
+2.º São banidos da escrita os símbolos gráficos sem valor. São eles as
+consoantes dobradas ou grupos de consoantes não proferidas e sem
+influéncia na modulação antecedente, nem necessidade por derivação
+manifesta de outro vocábulo existente em que haja de proferir-se cada
+uma das consoantes, como é _Ejipto_ de que se deriva _ejípcio_.
 
-Exemplos de sÃ­mbolos sem valor prÃ³prio em portuguÃªs:
+Exemplos de símbolos sem valor próprio em português:
 
-_th_ = _t_.--_thermometro_ = _termÃ³metro_; _ether_ = _Ã©ter_; _thio_ =
+_th_ = _t_.--_thermometro_ = _termómetro_; _ether_ = _éter_; _thio_ =
 _tio_.
 
 _ph_ = _f_.--_ethnographia_ = _etnografia_; _philtro_ = _filtro_.
 
-_ch_ = _q_(_u_).--_chimica_ = _quÃ­mica_; _machina_ = _mÃ¡quina_;
+_ch_ = _q_(_u_).--_chimica_ = _química_; _machina_ = _máquina_;
 _chimera_ = _quimera_.
 
 _ch_ = _c_(_a, o_).--_chorographia_ = _corografia_; _mechanica_ =
-_mecÃ¡nica_.
+_mecánica_.
 
-_y_ = _i_.--_lyrio_ = _lÃ­rio_; _physica_ = _fÃ­sica_.
+_y_ = _i_.--_lyrio_ = _lírio_; _physica_ = _física_.
 
 Consoantes dobradas:--_agglomerar_ = _aglomerar_; _prometter_ =
 _prometer_; _commum_ = _comum_; _Philippe_ = _Filipe_.
 
 Grupo de consoantes:--_Christo_ = _Cristo_; _Demosthenes_ =
-_DemÃ³stenes_; _Mattheus_ (que jÃ¡ se escreve, sem razÃ£o, Matheus) =
-_Mateus_; _schola_ = _escola_; _sciencia_ = _ciÃ©ncia_; _phthisica_ =
-_tÃ­sica_.
+_Demóstenes_; _Mattheus_ (que já se escreve, sem razão, Matheus) =
+_Mateus_; _schola_ = _escola_; _sciencia_ = _ciéncia_; _phthisica_ =
+_tísica_.
 
-InfluÃªncia da consoante na modulaÃ§Ã£o precedente:--Vejam-se exemplos em
-_c_, pÃ¡j. 11.
+Influência da consoante na modulação precedente:--Vejam-se exemplos em
+_c_, páj. 11.
 
-1.Âº _EscÃ³lio_.--Conservamos _n_ dobrado, _m_ dobrado, nos vocÃ¡bulos
-derivados de outros, cuja inicial Ã© _n_ ou _m_, por meio das
+1.º _Escólio_.--Conservamos _n_ dobrado, _m_ dobrado, nos vocábulos
+derivados de outros, cuja inicial é _n_ ou _m_, por meio das
 prepositivas _in, em_, toda vez que a prepositiva significa _dentro_; e
-aÃ­nda nalguns poucos vocÃ¡bulos em que _n_ ou _m_ influam na vogal _i_ ou
-_e_. A nasal da prepositiva _com_ sÃ³ a conservamos, por Ãªste motivo, em
+aínda nalguns poucos vocábulos em que _n_ ou _m_ influam na vogal _i_ ou
+_e_. A nasal da prepositiva _com_ só a conservamos, por êste motivo, em
 _connosco_. Escrevemos, pois: _immigrar, immerjir, emmalar, ennobrecer,
-innato_, etc.; _comoÃ§Ã£o, comum, comutar, conexo_, etc.
+innato_, etc.; _comoção, comum, comutar, conexo_, etc.
 
-2.Âº _EscÃ³lio_.--Mantemos as representaÃ§Ãµes grÃ¡ficas das palatais _ch,
-lh, nh_, emquanto nÃ£o houver sÃ­mbolo Ãºnico para cada uma delas.
+2.º _Escólio_.--Mantemos as representações gráficas das palatais _ch,
+lh, nh_, emquanto não houver símbolo único para cada uma delas.
 
-  [1] A ortografia _kilometro_ por _chilometro_ dÃ¡ ocasiÃ£o a traduzir-se
-  Â«metro-de-burroÂ» e nÃ£o Â«mil-metrosÂ». Em grego _kÃ­llos_ significa
-  Â«burroÂ», e _chÃ­lioi_ significa Â«milÂ». Porque razÃ£o, pois, havemos de
+  [1] A ortografia _kilometro_ por _chilometro_ dá ocasião a traduzir-se
+  «metro-de-burro» e não «mil-metros». Em grego _kíllos_ significa
+  «burro», e _chílioi_ significa «mil». Porque razão, pois, havemos de
   escrever _cirurgia, chimera, kilo_, quando o _c_, o _ch_ e o _k_
-  representam a mesma orijem _ch_, transcriÃ§Ã£o latina do [Greek: ch],
+  representam a mesma orijem _ch_, transcrição latina do [Greek: ch],
   grego?
 
 
-3.Âº _EscÃ³lio_.--SÃ³ ao Congresso compete tratar da exclusÃ£o ou
-conservaÃ§Ã£o da aspirante _h_.
+3.º _Escólio_.--Só ao Congresso compete tratar da exclusão ou
+conservação da aspirante _h_.
 
 
-II _b_.--ADOPÃ‡ÃƒO DE LETRAS CONSOANTES
+II _b_.--ADOPÇÃO DE LETRAS CONSOANTES
 
 
-_a)_--1.Âº Escrevem-se com _ch_ as sÃ­labas que sÃ£o proferidas com palatal
-dura, segundo os dialectos, explosiva ou contÃ­nua: _chave, chapeu,
-chuva_; etc. A etimolojia e as lÃ­nguas conjÃ©neres determinam que sigamos
-o exemplo dos nossos clÃ¡ssicos e de vÃ¡rios monumentos escritos usando-se
+_a)_--1.º Escrevem-se com _ch_ as sílabas que são proferidas com palatal
+dura, segundo os dialectos, explosiva ou contínua: _chave, chapeu,
+chuva_; etc. A etimolojia e as línguas conjéneres determinam que sigamos
+o exemplo dos nossos clássicos e de vários monumentos escritos usando-se
 da grafia _ch_.
 
-2.Âº Escrevem-se com _x_ (melhor seria _[.x]*_) as sÃ­labas cuja inicial
-palatal Ã© dura contÃ­nua: _xacoco, xadrez, xarafim; enxÃ¡rcia, enxada,
-enxÃªrga, enxÃ©rga, enxertia, enxaimel, enxame, enxÃºndia; rixa, roixo;_
+2.º Escrevem-se com _x_ (melhor seria _[.x]*_) as sílabas cuja inicial
+palatal é dura contínua: _xacoco, xadrez, xarafim; enxárcia, enxada,
+enxêrga, enxérga, enxertia, enxaimel, enxame, enxúndia; rixa, roixo;_
 etc. Cf. _d)_.
 
-3.Âº Escrevem-se com _s_ as sÃ­labas cuja final Ã© sibilante dura palatal
-e, esporÃ¡dicamente, sibilante dura dental: _mas; basta; foste; dÃ©mos,
-dÃªmos; bosques; portuguÃªs, portugueses_; etc. A etimolojia, o dialecto
-transmontano e as lÃ­nguas conjÃ©neres determinam a grafia _s_.
+3.º Escrevem-se com _s_ as sílabas cuja final é sibilante dura palatal
+e, esporádicamente, sibilante dura dental: _mas; basta; foste; démos,
+dêmos; bosques; português, portugueses_; etc. A etimolojia, o dialecto
+transmontano e as línguas conjéneres determinam a grafia _s_.
 
-4.Âº Escrevem-se com _s_ inicial, ou com _ss_ entre vogais, as sÃ­labas em
-que a sibilante dura Ã© ou dental, ou supra-alveolar, conforme os
-dialectos: _saber, classe, diverso, sessÃ£o, conselho, sossÃªgo, sossÃ©go_,
-etc. DeterminaÃ§Ã£o histÃ³rica e comparaÃ§Ã£o.
+4.º Escrevem-se com _s_ inicial, ou com _ss_ entre vogais, as sílabas em
+que a sibilante dura é ou dental, ou supra-alveolar, conforme os
+dialectos: _saber, classe, diverso, sessão, conselho, sossêgo, sosségo_,
+etc. Determinação histórica e comparação.
 
-5.Âº Escrevem-se com _Ã§_, ou com _c_(_e, i_), inicial as sÃ­labas em que a
-sibilante Ã© dental dura, e sÃ³ Ã© supra-alveolar nas partes do paÃ­s onde
-nÃ£o ha outra sibilante dura inicial: _peÃ§o, ciÃ©ncia, concelho, poÃ§o,
-doÃ§ura, preÃ§o, Ã§apato, Ã§arÃ§a, cÃ¡rcere_, etc. DeterminaÃ§Ã£o histÃ³rica e
-comparaÃ§Ã£o.
+5.º Escrevem-se com _ç_, ou com _c_(_e, i_), inicial as sílabas em que a
+sibilante é dental dura, e só é supra-alveolar nas partes do país onde
+não ha outra sibilante dura inicial: _peço, ciéncia, concelho, poço,
+doçura, preço, çapato, çarça, cárcere_, etc. Determinação histórica e
+comparação.
 
-6.Âº Escrevem-se com _s_ entre duas vogais (uma final da sÃ­laba a que
-pertence a sibilante, outra final da sÃ­laba precedente) as sÃ­labas em
-que a sibilante Ã© branda dental ou, segundo o dialecto, supra-alveolar:
-_posiÃ§Ã£o, coser_ (consuere), _precioso, preso_ (prehensum, cf. _prezo_),
-_preciso, pÃªso, pÃ©so_, etc. DeterminaÃ§Ã£o histÃ³rica e comparaÃ§Ã£o.
+6.º Escrevem-se com _s_ entre duas vogais (uma final da sílaba a que
+pertence a sibilante, outra final da sílaba precedente) as sílabas em
+que a sibilante é branda dental ou, segundo o dialecto, supra-alveolar:
+_posição, coser_ (consuere), _precioso, preso_ (prehensum, cf. _prezo_),
+_preciso, pêso, péso_, etc. Determinação histórica e comparação.
 
-7.Âº Escrevem-se com _z_ inicial as sÃ­labas em que a sibilante Ã© dental
-branda em todo o paÃ­s, Ã  excepÃ§Ã£o daqueles pontos em que se nÃ£o profere
-sibilante inicial senÃ£o supra-alveolar: _azÃªdo, azÃ©do, azebre, razÃ£o,
-cozer, prezo_ (cf. _preso_), etc. DeterminaÃ§Ã£o histÃ³rica e comparaÃ§Ã£o.
+7.º Escrevem-se com _z_ inicial as sílabas em que a sibilante é dental
+branda em todo o país, à excepção daqueles pontos em que se não profere
+sibilante inicial senão supra-alveolar: _azêdo, azédo, azebre, razão,
+cozer, prezo_ (cf. _preso_), etc. Determinação histórica e comparação.
 
-8.Âº Escrevem-se com _z_ final os vocÃ¡bulos que nos seus derivados sÃ£o
-escritos com _c_ (_e, i_) correspondente Ã  sibilante final deles. Assim
-o determina a etimolojia, evidente na derivaÃ§Ã£o, e a pronÃºncia
-dialectal. Exemplos: _infeliz, infelicidade; sÃ­mplez, sÃ­mplices,
-simplicidade; ourÃ­vez, ourivezaria_; etc.
+8.º Escrevem-se com _z_ final os vocábulos que nos seus derivados são
+escritos com _c_ (_e, i_) correspondente à sibilante final deles. Assim
+o determina a etimolojia, evidente na derivação, e a pronúncia
+dialectal. Exemplos: _infeliz, infelicidade; símplez, símplices,
+simplicidade; ourívez, ourivezaria_; etc.
 
-_CorolÃ¡rio_.--Escrevem-se com _z_ infixo os diminutivos e aumentativos
-_zito, -zinho, -zÃ£o_, etc., e os sufixos (derivados do latino _-itia_)
+_Corolário_.--Escrevem-se com _z_ infixo os diminutivos e aumentativos
+_zito, -zinho, -zão_, etc., e os sufixos (derivados do latino _-itia_)
 _-eza, -ez_; bem como os sufixos de verbos, _-izar_, e de nomes,
-_-izaÃ§Ã£o_.
+_-ização_.
 
-_EscÃ³lio_.--Os plurais dos nomes diminutivos formam-se do tema do plural
-do nome fundamental e do plural do sufixo. DÃ£o testemunho os dialectos.
-Assim, pois, escrevemos: _homemzinho, homemzinhos_, nÃ£o _homensinhos;
-acÃ§Ã£ozinha, acÃ§Ãµezinhas_, nÃ£o _acÃ§Ãµesinhas; pÃ£ozinho, pÃ£ezinhos_, nÃ£o
-_pÃ£esinhos; mÃ£ozinha, mÃ£ozinhas; aneizinhos_; etc.
+_Escólio_.--Os plurais dos nomes diminutivos formam-se do tema do plural
+do nome fundamental e do plural do sufixo. Dão testemunho os dialectos.
+Assim, pois, escrevemos: _homemzinho, homemzinhos_, não _homensinhos;
+acçãozinha, acçõezinhas_, não _acçõesinhas; pãozinho, pãezinhos_, não
+_pãesinhos; mãozinha, mãozinhas; aneizinhos_; etc.
 
-_b)_--1.Âº AdoptÃ¡mos, pelo que fica dito em _a)_ 3.Âº, a representaÃ§Ã£o
-grÃ¡fica _s_ para a sibilante palatal dura final de sÃ­laba, que muitas
+_b)_--1.º Adoptámos, pelo que fica dito em _a)_ 3.º, a representação
+gráfica _s_ para a sibilante palatal dura final de sílaba, que muitas
 pessoas julgam ser absolutamente igual a _x_ (_[.x]*_).
 
-2.Âº Por falta mais grave na observaÃ§Ã£o se tem confundido as articulaÃ§Ãµes
+2.º Por falta mais grave na observação se tem confundido as articulações
 _g_(_a_), _g_(_ue, ui_), _j_(_a_), _j_(_e, i_), e ainda _c_(_a_),
-_q_(_ue, ui_). Os pontos articulatÃ³rios sÃ£o diferentes. No congresso
-trataremos estes assuntos. Carecemos de caracteres prÃ³prios para
-distinguir na escrita as articulaÃ§Ãµes _j_(_a_), _g_(_e, i_), _j_(_o,
-u_), nas palavras _Jacob, Jeremias, JosÃ©, Jesus, Jutlandia, Jerusalem,
-geme, gemer, gentes, gymnasio, Gil_; etc.; e Ã© certo que nÃ£o podemos,
-tÃ£o pouco, distinguir _Guilherme, guerra, garra, gume_, causando
-estranheza invencÃ­vel a grafia _Geremias, Gesus_, e ficando aÃ­nda infiel
-_gemer, geral_, e sempre em contradiÃ§Ã£o com uma pronÃºncia _GÃ¨rusalÃ©m_ ou
-_JerusalÃ©m_; tendo nÃ³s, pois, de escrever _Jeremias, Jesus_, adoptÃ¡mos o
-sÃ­mbolo _j_ para os fonemas articulados das sÃ­labas _ja, jo, ju, ge,
-gi_, e por Ãªste sistema grÃ¡fico evitamos tambÃ©m regra especial para a
-conjugaÃ§Ã£o dos verbos em (_-ger, gir_) _-jer, -jir_.
+_q_(_ue, ui_). Os pontos articulatórios são diferentes. No congresso
+trataremos estes assuntos. Carecemos de caracteres próprios para
+distinguir na escrita as articulações _j_(_a_), _g_(_e, i_), _j_(_o,
+u_), nas palavras _Jacob, Jeremias, José, Jesus, Jutlandia, Jerusalem,
+geme, gemer, gentes, gymnasio, Gil_; etc.; e é certo que não podemos,
+tão pouco, distinguir _Guilherme, guerra, garra, gume_, causando
+estranheza invencível a grafia _Geremias, Gesus_, e ficando aínda infiel
+_gemer, geral_, e sempre em contradição com uma pronúncia _Gèrusalém_ ou
+_Jerusalém_; tendo nós, pois, de escrever _Jeremias, Jesus_, adoptámos o
+símbolo _j_ para os fonemas articulados das sílabas _ja, jo, ju, ge,
+gi_, e por êste sistema gráfico evitamos também regra especial para a
+conjugação dos verbos em (_-ger, gir_) _-jer, -jir_.
 
-_EscÃ³lio_.--Ã‰ evidente (pelo que fica dito em _b)_ 2.Âº) a necessidade
-aÃ­nda existente de mantermos o modo de escrever _gue, gui_, nas sÃ­labas
+_Escólio_.--É evidente (pelo que fica dito em _b)_ 2.º) a necessidade
+aínda existente de mantermos o modo de escrever _gue, gui_, nas sílabas
 terminadas na vogal palatal _i_ ou _e_, precedida do fonema gutural
-brando, mostrando-se pelo acento grave sÃ´bre o _u_ da prolaÃ§Ã£o _gÃ¹e,
-gÃ¹i_, as silabizacÃµes _gu-e, gu-i_, como fica dito em 4.Âº de pÃ¡j. 7.
+brando, mostrando-se pelo acento grave sôbre o _u_ da prolação _gùe,
+gùi_, as silabizacões _gu-e, gu-i_, como fica dito em 4.º de páj. 7.
 
-_c)_ Conservamos todo sinal grÃ¡fico de fonema histÃ³rico, hoje nulo, cuja
-influÃ©ncia na vogal precedente Ã© persistente: _acÃ§Ã£o, actor,
-predilecÃ§Ã£o, redacÃ§Ã£o, respectivo, trajectÃ³ria, baptismo, concepÃ§Ã£o_; e
-aÃ­nda quando Ã© facultativa a pronunciaÃ§Ã£o, como em _carÃ¡cter._
+_c)_ Conservamos todo sinal gráfico de fonema histórico, hoje nulo, cuja
+influéncia na vogal precedente é persistente: _acção, actor,
+predilecção, redacção, respectivo, trajectória, baptismo, concepção_; e
+aínda quando é facultativa a pronunciação, como em _carácter._
 
-_EscÃ³lio_.--Os fonemas _i, u_, nÃ£o estÃ£o sujeitos a esta influÃ©ncia:
-_edito_ = _edicto_ (cf. _Ã©dito_); _corruto_ = _corrupto_; _corruÃ§Ã£o_ =
-_corrupÃ§Ã£o_.
+_Escólio_.--Os fonemas _i, u_, não estão sujeitos a esta influéncia:
+_edito_ = _edicto_ (cf. _édito_); _corruto_ = _corrupto_; _corrução_ =
+_corrupção_.
 
 _d)_ Conservamos a grafia _x_ para representar os diferentes fonemas que
-de facto representa na lÃ­ngua portuguesa, porque nÃ£o temos direito, nem
-Congresso nenhum, de impor pronÃºncia pela ortografia. O Congresso poderÃ¡
-assentar as bases para o dicionÃ¡rio ortoÃ©pico; e no tocante a pronÃºncia
-nada mais pode fazer--estabelece o padrÃ£o, dÃ¡ a norma--para que se
-dilijenceie ler dum modo Ãºnico o vocÃ¡bulo escrito.
+de facto representa na língua portuguesa, porque não temos direito, nem
+Congresso nenhum, de impor pronúncia pela ortografia. O Congresso poderá
+assentar as bases para o dicionário ortoépico; e no tocante a pronúncia
+nada mais pode fazer--estabelece o padrão, dá a norma--para que se
+dilijenceie ler dum modo único o vocábulo escrito.
 
-NinguÃ©m pode contestar o direito de se pronunciar o vocÃ¡bulo _exemplo_
+Ninguém pode contestar o direito de se pronunciar o vocábulo _exemplo_
 de uma das seguintes maneiras: _izemplo, isemplo, eizemplo, eisemplo,
-isjemplo_. NinguÃ©m pode contestar o direito de se pronunciar _trouxe:
+isjemplo_. Ninguém pode contestar o direito de se pronunciar _trouxe:
 trou[.x]e, trouce; extravagante: eistravagante, istravagante,
-'stravagante; fixo: fi[.x]o, ficso, ficÃ§o_.
+'stravagante; fixo: fi[.x]o, ficso, ficço_.
 
 
 III--DOS DITONGOS
 
 
-Pelo que fica dito se vÃª qual a maneira por que indicamos a dissoluÃ§Ã£o
-do ditongo. NÃ£o usamos da _diÃ©rese_, tambÃ©m chamada _Ã¡pices_, e mais
-jeralmente _trema_ Â¨, que alguns gramÃ¡ticos entre nÃ³s querem que se use
-na vogal prepositiva ou conjuntiva, e no _u_ das prolaÃ§Ãµes, para neste
-caso mostrar que faz sinÃ©rese com a voz seguinte.
+Pelo que fica dito se vê qual a maneira por que indicamos a dissolução
+do ditongo. Não usamos da _diérese_, também chamada _ápices_, e mais
+jeralmente _trema_ ¨, que alguns gramáticos entre nós querem que se use
+na vogal prepositiva ou conjuntiva, e no _u_ das prolações, para neste
+caso mostrar que faz sinérese com a voz seguinte.
 
-O trema Ã© sinal que nos veiu de paÃ­ses estranhos. Tem na escrita de
-lÃ­nguas europeas significaÃ§Ã£o insubstituÃ­vel; que nas jermÃ¡nicas Ã© fÃ³rma
-abreviada de um _e_, e nesta significaÃ§Ã£o Ãºnicamente o empregamos.
-
-
-IV--DA SILABIZAÃ‡ÃƒO
+O trema é sinal que nos veiu de países estranhos. Tem na escrita de
+línguas europeas significação insubstituível; que nas jermánicas é fórma
+abreviada de um _e_, e nesta significação únicamente o empregamos.
 
 
-Em quanto Ã  sibalizacÃ£o devemos mencionar aqui apenas os tres seguintes
-princÃ­pios:
+IV--DA SILABIZAÇÃO
 
-1.Âº Dividem-se as sÃ­labas, considerando os vocÃ¡bulos como portugueses
-para Ãªste efeito, sem que se atenda Ã  derivaÃ§Ã£o de lÃ­ngua estranha, nem
-Ã  derivaÃ§Ã£o dentro da prÃ³pria lÃ­ngua: _ma-nus-cri-to, cons-pÃ­-cu-o,
-obs-tÃ¡-cu-lo, ins-cre-ver, no-ro-es-te, nor-des-te, pla-nal-to,
+
+Em quanto à sibalizacão devemos mencionar aqui apenas os tres seguintes
+princípios:
+
+1.º Dividem-se as sílabas, considerando os vocábulos como portugueses
+para êste efeito, sem que se atenda à derivação de língua estranha, nem
+à derivação dentro da própria língua: _ma-nus-cri-to, cons-pí-cu-o,
+obs-tá-cu-lo, ins-cre-ver, no-ro-es-te, nor-des-te, pla-nal-to,
 a-lhei-o, mai-or, mai-o-res_.
 
-2.Âº Conserva-se Ã  sÃ­laba a consoante que determina a modulaÃ§Ã£o da sua
-vogal (paj. 11, _c)_): _ac-Ã§Ã£o, fac-tor, cor-rec-to, bap-tis-mal_.
+2.º Conserva-se à sílaba a consoante que determina a modulação da sua
+vogal (paj. 11, _c)_): _ac-ção, fac-tor, cor-rec-to, bap-tis-mal_.
 
-3.Âº Na passajem de uma para outra linha empregamos em ambas as linhas o
-_traÃ§o de uniÃ£o_, tanto o prÃ³prio de vocÃ¡bulos compostos cujos sÃ­mplices
-se distingam na escrita entrepondo-se-lhes o _hÃ­fen_, como o prÃ³prio da
-ligaÃ§Ã£o das vozes enclÃ­ticas Ã s suas subordinantes: _porta--bandeira,
+3.º Na passajem de uma para outra linha empregamos em ambas as linhas o
+_traço de união_, tanto o próprio de vocábulos compostos cujos símplices
+se distingam na escrita entrepondo-se-lhes o _hífen_, como o próprio da
+ligação das vozes enclíticas às suas subordinantes: _porta--bandeira,
 guarda--fato, clara--boia; luso--brasileiro; deu--m'o, louva--lhe,
-dÃ©mo'--lo, louva--o, louvÃ¡--lo, arrepender--se, domÃ¡--lo--ia_.
+démo'--lo, louva--o, louvá--lo, arrepender--se, domá--lo--ia_.
 
 
-V--DOS HOMÃ“NIMOS E PARÃ“NIMOS
+V--DOS HOMÓNIMOS E PARÓNIMOS
 
 
-1.Âº Os homÃ³nimos confundem-se umas vezes na escrita do portuguÃªs como na
-sua pronÃºncia; exemplos: _cedo_ (verbo e advÃ©rbio); _conto_ (verbo e
-nome): _sÃ£o_ (verbo e adjectivo). Outras vezes distinguem-se com
-exactidÃ£o na escrita, embora nÃ£o se distingam em todas as pronÃºncias;
-exemplos: _vez, vÃªs; cem, sem; coser, cozer; sessÃ£o, cessÃ£o; -passo,
-paÃ§o_,--parÃ³nimos no dialecto em que se faÃ§a diferenÃ§a na articulaÃ§Ã£o de
-_s_ para a de _Ã§_ e para a de _z_. Podem aÃ­nda os homÃ³nimos
-distinguir-se na escrita e nÃ£o se distinguirem em pronÃºncia nenhuma:
-_houve, ouve; dÃª-se, dÃªsse_.
+1.º Os homónimos confundem-se umas vezes na escrita do português como na
+sua pronúncia; exemplos: _cedo_ (verbo e advérbio); _conto_ (verbo e
+nome): _são_ (verbo e adjectivo). Outras vezes distinguem-se com
+exactidão na escrita, embora não se distingam em todas as pronúncias;
+exemplos: _vez, vês; cem, sem; coser, cozer; sessão, cessão; -passo,
+paço_,--parónimos no dialecto em que se faça diferença na articulação de
+_s_ para a de _ç_ e para a de _z_. Podem aínda os homónimos
+distinguir-se na escrita e não se distinguirem em pronúncia nenhuma:
+_houve, ouve; dê-se, dêsse_.
 
-_EscÃ³lio._--Distinguem-se na escrita, mas sem exactidÃ£o rigorosa: _hora,
-ora; heis, eis_; e por Ãªrro de analojia falsa, _pelo_ cuja orijem Ã©
-_per-lo_, que deu _pel lo_ e _pe'-lo_ homÃ³nimo, quando se pronuncie
-enfÃ¡ticamente, de _pello_, que etimolÃ³jicamente sÃ³ tem um _l_ e devemos
-escrever (como de facto se escreve nesta ortografia proposta) _pÃªlo_
-(cf. _pÃ©lo, pelo_).
+_Escólio._--Distinguem-se na escrita, mas sem exactidão rigorosa: _hora,
+ora; heis, eis_; e por êrro de analojia falsa, _pelo_ cuja orijem é
+_per-lo_, que deu _pel lo_ e _pe'-lo_ homónimo, quando se pronuncie
+enfáticamente, de _pello_, que etimolójicamente só tem um _l_ e devemos
+escrever (como de facto se escreve nesta ortografia proposta) _pêlo_
+(cf. _pélo, pelo_).
 
-2.Âº Os parÃ³nimos sÃ£o perfeitamente distintos na presente ortografia:
-_pelo, pÃªlo, pÃ©lo; para, pÃ¡ra; crÃª, crÃ©; cesto, sexto_ (homÃ³nimos em
-Lisboa); _fÃ´sse, fÃ³sse; fÃ´rÃ§a, fÃ³rÃ§a; sessÃ£o, cessÃ£o, secÃ§Ã£o; coando,
-quando; quanto, canto; credor, crÃ¨dor; incÃ³modo, incomodo; colhÃªr,
-colhÃ©r; contrato, contracto; alias, aliÃ¡s; alem_ (verbo), _alÃ©m; papeis_
-(verbo), _papÃ©is; reis_ (pl. de _rei_), _rÃ©is_ (pl. de _real_); _bateis_
-(verbo), _batÃ©is; caia, caÃ­a_; etc.
+2.º Os parónimos são perfeitamente distintos na presente ortografia:
+_pelo, pêlo, pélo; para, pára; crê, cré; cesto, sexto_ (homónimos em
+Lisboa); _fôsse, fósse; fôrça, fórça; sessão, cessão, secção; coando,
+quando; quanto, canto; credor, crèdor; incómodo, incomodo; colhêr,
+colhér; contrato, contracto; alias, aliás; alem_ (verbo), _além; papeis_
+(verbo), _papéis; reis_ (pl. de _rei_), _réis_ (pl. de _real_); _bateis_
+(verbo), _batéis; caia, caía_; etc.
 
 
 VI--DOS SUFIXOS
 
 
-Conservamos toda a exactidÃ£o na ortografia dÃªstes elementos morfolÃ³jicos
-cuja funÃ§Ã£o anda tÃ£o ignorada. Pululam os galicismos, os
-estranjeirismos, atÃ© na ortografia da nossa linguajem e na sua
-morfolojia, que nÃ£o sÃ³ em se introduzirem vocÃ¡bulos novos
-desnecessÃ¡rios, e em se esquecer a sintaxe dela.
+Conservamos toda a exactidão na ortografia dêstes elementos morfolójicos
+cuja função anda tão ignorada. Pululam os galicismos, os
+estranjeirismos, até na ortografia da nossa linguajem e na sua
+morfolojia, que não só em se introduzirem vocábulos novos
+desnecessários, e em se esquecer a sintaxe dela.
 
-Ã‰ Ãªrro escrever-se _civilisaÃ§Ã£o_ por _civilizaÃ§Ã£o, organisar_ por
-_organizar; chapeleria_ por _chapelaria; cortez_ por _cortÃªs_; etc.
-
-
-VII--DA COMPOSIÃ‡ÃƒO, DA PERÃFRASE, E DAS ENCLÃTICAS
+É êrro escrever-se _civilisação_ por _civilização, organisar_ por
+_organizar; chapeleria_ por _chapelaria; cortez_ por _cortês_; etc.
 
 
-Dissemos o bastante acÃªrca do primeiro e terceiro dÃªstes pontos. Em
-quanto Ã  perÃ­frase, diremos que as linguajens perifrÃ¡sticas dos verbos
-sÃ£o diferenciadas em linguajens de perÃ­frase consciente e perÃ­frase
+VII--DA COMPOSIÇÃO, DA PERÍFRASE, E DAS ENCLÍTICAS
+
+
+Dissemos o bastante acêrca do primeiro e terceiro dêstes pontos. Em
+quanto à perífrase, diremos que as linguajens perifrásticas dos verbos
+são diferenciadas em linguajens de perífrase consciente e perífrase
 inconsciente.
 
-Ã‰ linguajem perifrÃ¡stica consciente a formada com o presente do verbo
-_haver_. Escrevemo-la, pois, sem hÃ­fen de ligaÃ§Ã£o: _descrevÃª-lo hei,
-louvÃ¡-la has, dar-lh'o ha, amar-nos hemos, unir-vos heis, receber-se
-hÃ£o_.
+É linguajem perifrástica consciente a formada com o presente do verbo
+_haver_. Escrevemo-la, pois, sem hífen de ligação: _descrevê-lo hei,
+louvá-la has, dar-lh'o ha, amar-nos hemos, unir-vos heis, receber-se
+hão_.
 
-Ã‰ linguajem perifrÃ¡stica inconsciente, com tmese evidente, a formada com
-um resto do pretÃ©rito imperfeito do verbo _haver: -ia_ = (hav)_ia, -ias_
-= (hav)_ias, -ia_ = (hav)_ia, -Ã­amos_ = (hav)_Ã­amos, -Ã­eis_ =
-(hav)_Ã­eis, -iam_ = (hav)_iam_. Escrevemos estas linguajens sem o _h_,
+É linguajem perifrástica inconsciente, com tmese evidente, a formada com
+um resto do pretérito imperfeito do verbo _haver: -ia_ = (hav)_ia, -ias_
+= (hav)_ias, -ia_ = (hav)_ia, -íamos_ = (hav)_íamos, -íeis_ =
+(hav)_íeis, -iam_ = (hav)_iam_. Escrevemos estas linguajens sem o _h_,
 perdido com os outros elementos de _hav-_, em todas as pessoas do
-pretÃ©rito imperfeito do verbo _haver_, que entra na perÃ­frase. Exemplos:
-_descrevÃª-lo-ia, deixar-me-ias, aborrecÃª-la-ia, evitÃ¡-lo-Ã­amos,
+pretérito imperfeito do verbo _haver_, que entra na perífrase. Exemplos:
+_descrevê-lo-ia, deixar-me-ias, aborrecê-la-ia, evitá-lo-íamos,
 comportar-vos-ieis, obedecer-lhe-iam_.
 
 
@@ -640,98 +640,98 @@ III
 O NOSSO INTUITO
 
 
-Se quisÃ©ssemos entrar em minudÃ©ncias de linguajem e defender em todos os
-pontos a ortografia que iniciÃ¡mos, terÃ­amos de escrever um livro de
-grosso volume. Se o nosso intuito fÃ´sse ensinar, publicarÃ­amos um
-tratado. Mas Ã© diferente o fim dÃªste escrito, que oferecemos
-gratuitamente aos nossos conterrÃ¡neos, como testemunho de respeito pelas
-cousas da nossa pÃ¡tria: _Damos razÃ£o da reforma iniciada e sujeitamos ao
-sÃ£o critÃ©rio as bases em que esta assenta_. Por Ãªste motivo deixÃ¡mos de
-tratar pontos de que o Congresso terÃ¡ de se ocupar.
+Se quiséssemos entrar em minudéncias de linguajem e defender em todos os
+pontos a ortografia que iniciámos, teríamos de escrever um livro de
+grosso volume. Se o nosso intuito fôsse ensinar, publicaríamos um
+tratado. Mas é diferente o fim dêste escrito, que oferecemos
+gratuitamente aos nossos conterráneos, como testemunho de respeito pelas
+cousas da nossa pátria: _Damos razão da reforma iniciada e sujeitamos ao
+são critério as bases em que esta assenta_. Por êste motivo deixámos de
+tratar pontos de que o Congresso terá de se ocupar.
 
-Andam infelizmente esquecidas por alguns escritores regras de gramÃ¡tica,
-que, a serem lembradas, os nÃ£o deixariam cometer erros imperdoÃ¡veis.
-Temos visto ortografar (e atÃ© pronunciar!!), _passeiando, passeiata,
-ideiou, receiarÃ¡, feichara_, etc., em vez de _passeando, passeata,
-ideou, recearÃ¡, fechara_, etc. Ã‰ certo que a maioria dos leitores sabe
-que, por motivo de a acentuaÃ§Ã£o tÃ³nica se fazer nas tres pessoas do
+Andam infelizmente esquecidas por alguns escritores regras de gramática,
+que, a serem lembradas, os não deixariam cometer erros imperdoáveis.
+Temos visto ortografar (e até pronunciar!!), _passeiando, passeiata,
+ideiou, receiará, feichara_, etc., em vez de _passeando, passeata,
+ideou, receará, fechara_, etc. É certo que a maioria dos leitores sabe
+que, por motivo de a acentuação tónica se fazer nas tres pessoas do
 singular e terceira do plural de todos os presentes dos verbos, como
-_idear, recear, passear_, etc., Ãºnicamente nessas fÃ³rmas pessoais
+_idear, recear, passear_, etc., únicamente nessas fórmas pessoais
 aparece o ditongo _ei_ no radical: _passeio, passeias, passeia,
 passeamos, passeais, passeiam_;--passeava, passeavas_, etc.;--_passeei,
-passeaste_, etc.;--_passearei, passearÃ¡s_, etc.;--_passearia_,
-etc.;--_passeia tu, passeie ele, passeemos nÃ³s, passeai vÃ³s, passeiem
-eles;--que eu passeie, que tu passeies, que ele passeie, que nÃ³s
-passeemos, que vÃ³s passeeis, que eles passeiem;--passear, passeando,
-passeado_. O radical portuguÃªs Ã© _passe-_.
+passeaste_, etc.;--_passearei, passearás_, etc.;--_passearia_,
+etc.;--_passeia tu, passeie ele, passeemos nós, passeai vós, passeiem
+eles;--que eu passeie, que tu passeies, que ele passeie, que nós
+passeemos, que vós passeeis, que eles passeiem;--passear, passeando,
+passeado_. O radical português é _passe-_.
 
-Ã‰ claro que tratar de assuntos como Ãªste nÃ£o Ã© objecto de uma sÃ­mplez
-circular. E se o leitor houver notado que usÃ¡mos nela de modos de
-ortografar para que nÃ£o encontra explicaÃ§Ã£o nos princÃ­pos que ficam
-estabelecidos, atribua o facto a nÃ£o caber a explicaÃ§Ã£o suficiente nos
-princÃ­pios jerais. Cremos que as bases, como ficam postas, constituem
-mÃ©todo sem contradiÃ§Ãµes:--se o Congresso fÃ´r atÃ© suprimir (como julgamos
-que deve suprimir) as letras consoantes inÃºteis nos nomes prÃ³prios e nos
-de famÃ­lia, assinaremos sem dobrar as consoantes _nn, ll_ dos nossos
+É claro que tratar de assuntos como êste não é objecto de uma símplez
+circular. E se o leitor houver notado que usámos nela de modos de
+ortografar para que não encontra explicação nos princípos que ficam
+estabelecidos, atribua o facto a não caber a explicação suficiente nos
+princípios jerais. Cremos que as bases, como ficam postas, constituem
+método sem contradições:--se o Congresso fôr até suprimir (como julgamos
+que deve suprimir) as letras consoantes inúteis nos nomes próprios e nos
+de família, assinaremos sem dobrar as consoantes _nn, ll_ dos nossos
 nomes.
 
-NÃ£o nos preocupa uma idea preconcebida. NÃ£o nos domina um subjectivismo
-apaixonado. Desejamos que no paÃ­s todo se una para discutir de boa fÃ©
-quem tiver estudado o problema, e que Ãªste se resolva estabelecendo-se
+Não nos preocupa uma idea preconcebida. Não nos domina um subjectivismo
+apaixonado. Desejamos que no país todo se una para discutir de boa fé
+quem tiver estudado o problema, e que êste se resolva estabelecendo-se
 ORTOGRAFIA PORTUGUESA.
 
 
 +ALGUNS OUTROS TRABALHOS PUBLICADOS PELOS MESMOS AUTORES+
 
-POR A. R. GONÃ‡ALVES VIANNA
+POR A. R. GONÇALVES VIANNA
 
 Estudos Glottologicos: Graphica e Phonetica. O livro da Escripta do
 Professor Faulmann.--Porto, 1881.
 
-Essai de PhonÃ©tique et de Phonologie de la Langue Portugaise d'aprÃ¨s le
+Essai de Phonétique et de Phonologie de la Langue Portugaise d'après le
 dialecte de Lisbonne.--Paris, 1883.
 
-Ã‰tudes de Grammaire Portugaise.--Louvain, 1884.
+Études de Grammaire Portugaise.--Louvain, 1884.
 
-MÃ¡goas de Werther (romance de J. W. von Goethe trasladado a
-portuguÃªs).--Paris, 1885.
+Mágoas de Werther (romance de J. W. von Goethe trasladado a
+português).--Paris, 1885.
 
 
 POR G. DE VASCONCELLOS ABREU
 
 
-Questions VÃ©diques.--Paris, 1877.
+Questions Védiques.--Paris, 1877.
 
-Sobre a SÃ©de originaria da Gente Ãrica.--Coimbra, 1878.
+Sobre a Séde originaria da Gente Árica.--Coimbra, 1878.
 
-InvestigaÃ§Ã£o sobre o caracter da CivilisacÃ£o Ãrya-hindu.--Lisboa, 1878.
+Investigação sobre o caracter da Civilisacão Árya-hindu.--Lisboa, 1878.
 
-ImportÃ¢ncia capital do sÃ£oskrito como base da Glottologia Ã¡rica e da
-Glottologia Ã¡rica no ensino superior das lettras e da historia.--Lisboa,
+Importância capital do sãoskrito como base da Glottologia árica e da
+Glottologia árica no ensino superior das lettras e da historia.--Lisboa,
 1878.
 
-ContribuiÃ§Ãµes mythologicas.
+Contribuições mythologicas.
 
-Grammatica da lÃ­ngua sÃ£oskrita: Phonologia.--Lisboa, 1879.
+Grammatica da língua sãoskrita: Phonologia.--Lisboa, 1879.
 
 Fragmentos de uma tentativa de Estudo Scoliastico da Epopea Portugueza
-(publicados pelo 3.Âº CentenÃ¡rio de CamÃµes; a 2.Âª parte dÃªste trabalho
-foi traduzida em inglÃªs pelo sr. Donald Fergusson, com o tÃ­tulo
-Â«Buddhist Legends from Fragmentos ... by G. de Vasconcellos Abreu.
+(publicados pelo 3.º Centenário de Camões; a 2.ª parte dêste trabalho
+foi traduzida em inglês pelo sr. Donald Fergusson, com o título
+«Buddhist Legends from Fragmentos ... by G. de Vasconcellos Abreu.
 Translated with additional notes. Ceylon).--1880.--1884.
 
-O Reconhecimento de ChakuntalÃ¡ (texto devanÃ¡grico e traduÃ§Ã£o portuguesa
-do Acto I do cÃ©lebre drama de XacuntalÃ¡ do poeta CalidaÃ§a, segundo a
-recensÃ£o Bengali).--Lisboa, 1878.
+O Reconhecimento de Chakuntalá (texto devanágrico e tradução portuguesa
+do Acto I do célebre drama de Xacuntalá do poeta Calidaça, segundo a
+recensão Bengali).--Lisboa, 1878.
 
-Manual para o Estudo do SÃ£oskrito clÃ¡ssico. Tomo I, Resumo
+Manual para o Estudo do Sãoskrito clássico. Tomo I, Resumo
 Grammatical.--Lisboa, 1881-1882.
 
-De l'Origine probable des ToukhÃ¢res et leurs migrations Ã  travers
-l'Asie.--Louvain. Lisbonne. (MemÃ³ria acerca da orijem dos Teucros,
-apresentada ao Congresso antropolÃ³jico de Lisboa em 1880).
+De l'Origine probable des Toukhâres et leurs migrations à travers
+l'Asie.--Louvain. Lisbonne. (Memória acerca da orijem dos Teucros,
+apresentada ao Congresso antropolójico de Lisboa em 1880).
 
-A literatura e a relijiÃ£o dos Ãrias na Ã­ndia. Primeira Parte.--Paris,
+A literatura e a relijião dos Árias na índia. Primeira Parte.--Paris,
 1885.
 
 
@@ -739,7 +739,7 @@ A literatura e a relijiÃ£o dos Ãrias na Ã­ndia. Primeira Parte.--Paris,
 
 
 End of the Project Gutenberg EBook of Bases da ortografia portuguesa
-by GonÃ§alves Viana and Guilherme Abreu
+by Gonçalves Viana and Guilherme Abreu
 
 *** END OF THIS PROJECT GUTENBERG EBOOK BASES DA ORTOGRAFIA PORTUGUESA ***
 

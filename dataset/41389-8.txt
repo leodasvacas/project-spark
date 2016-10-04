@@ -1,5 +1,5 @@
 The Project Gutenberg EBook of Memoria sobre o melhoramento da cultura da
-Beira e da navega√ß√£o do Mondego, by Ant√≥nio de Almeida
+Beira e da navegaÁ„o do Mondego, by AntÛnio de Almeida
 
 This eBook is for the use of anyone anywhere at no cost and with
 almost no restrictions whatsoever.  You may copy it, give it away or
@@ -7,9 +7,9 @@ re-use it under the terms of the Project Gutenberg License included
 with this eBook or online at www.gutenberg.org
 
 
-Title: Memoria sobre o melhoramento da cultura da Beira e da navega√ß√£o do Mondego
+Title: Memoria sobre o melhoramento da cultura da Beira e da navegaÁ„o do Mondego
 
-Author: Ant√≥nio de Almeida
+Author: AntÛnio de Almeida
 
 Release Date: November 17, 2012 [EBook #41389]
 
@@ -22,7 +22,7 @@ Character set encoding: ISO-8859-1
 
 
 
-Produced by Rita Farinha, Alberto Manuel Brand√£o Sim√µes
+Produced by Rita Farinha, Alberto Manuel Brand„o Simıes
 and the Online Distributed Proofreading Team at
 http://www.pgdp.net (This file was produced from images
 generously made available by The Internet Archive)
@@ -31,10 +31,10 @@ generously made available by The Internet Archive)
 
 
 
-    *Nota de editor:* Devido √† exist√™ncia de erros tipogr√°ficos neste
-    texto, foram tomadas v√°rias decis√µes quanto √† vers√£o final. Em caso
-    de d√∫vida, a grafia foi mantida de acordo com o original. No final
-    deste livro encontrar√° a lista de erros corrigidos.
+    *Nota de editor:* Devido ‡ existÍncia de erros tipogr·ficos neste
+    texto, foram tomadas v·rias decisıes quanto ‡ vers„o final. Em caso
+    de d˙vida, a grafia foi mantida de acordo com o original. No final
+    deste livro encontrar· a lista de erros corrigidos.
 
                                            Rita Farinha (Novembro 2012)
 
@@ -45,7 +45,7 @@ MEMORIA
 SOBRE O
 MELHORAMENTO DA CULTURA DA BEIRA
 E DA
-NAVEGA√á√ÉO DO MONDEGO
+NAVEGA«√O DO MONDEGO
 
 POR
 
@@ -53,8 +53,8 @@ D. Antonio d'Almeida
 
 ALFERES DO EXERCITO
 COM O CURSO COMPLETO DE ENGENHARIA
-EM COMMISS√ÉO HYDROGRAPHICA
-NO CONCELHO DE MONTEM√ìR O VELHO.
+EM COMMISS√O HYDROGRAPHICA
+NO CONCELHO DE MONTEM”R O VELHO.
 
 
 Dezembro de 1857.
@@ -71,7 +71,7 @@ MEMORIA
 SOBRE O
 MELHORAMENTO DA CULTURA DA BEIRA
 E DA
-NAVEGA√á√ÉO DO MONDEGO.
+NAVEGA«√O DO MONDEGO.
 
 
 
@@ -80,7 +80,7 @@ MEMORIA
 SOBRE O
 MELHORAMENTO DA CULTURA DA BEIRA
 E DA
-NAVEGA√á√ÉO DO MONDEGO
+NAVEGA«√O DO MONDEGO
 
 POR
 
@@ -88,8 +88,8 @@ D. Antonio d'Almeida
 
 ALFERES DO EXERCITO
 COM O CURSO COMPLETO DE ENGENHARIA
-EM COMMISS√ÉO HYDROGRAPHICA
-NO CONCELHO DE MONTEM√ìR O VELHO.
+EM COMMISS√O HYDROGRAPHICA
+NO CONCELHO DE MONTEM”R O VELHO.
 
 
 Dezembro de 1857.
@@ -104,329 +104,329 @@ IMPRENSA DA UNIVERSIDADE
 
 Um grande numero de rios da Europa, que antigamente corriam placidos
 entre as suas margens, appresentam hoje um curso extremamente irregular;
-as suas inunda√ß√µes formidaveis causam nos valles, que deveriam
-fertilisar, desastres, cuja repeti√ß√£o deu o alarme √°s povoa√ß√µes
+as suas inundaÁıes formidaveis causam nos valles, que deveriam
+fertilisar, desastres, cuja repetiÁ„o deu o alarme ·s povoaÁıes
 marginaes.
 
-O Sena, o Loire, o Saone, o Is√®re, o Rhodano o Durance t√™m assolado a
-Fran√ßa 'nestes ultimos annos com inunda√ß√µes cada vez maiores. Na Italia
+O Sena, o Loire, o Saone, o IsËre, o Rhodano o Durance tÍm assolado a
+FranÁa 'nestes ultimos annos com inundaÁıes cada vez maiores. Na Italia
 o Tibre e diversos outros rios, pelas suas frequentes enchentes,
 flagellam os valles. Em Portugal o Tejo e o Mondego offerecem phenomenos
-similhantes; se entre n√≥s n√£o foram estes t√£o desastrosos como em outros
+similhantes; se entre nÛs n„o foram estes t„o desastrosos como em outros
 paizes, a perda das sementeiras, das colheitas, dos gados e dos
-instrumentos de lavoura, t√™m sido por vezes o resultado funesto para a
+instrumentos de lavoura, tÍm sido por vezes o resultado funesto para a
 importante classe dos lavradores.
 
-Cabe pois ao Governo, sentinella avan√ßada dos interesses do Paiz, mandar
+Cabe pois ao Governo, sentinella avanÁada dos interesses do Paiz, mandar
 estudar e executar os trabalhos indispensaveis para remediar o mal, aos
 homens da arte indagar qual deva ser o remedio applicavel com mais
 vantagem e menos dispendio.
 
-Conhe√ßo as minhas fracas for√ßas para arrostar com t√£o ardua tarefa,
-por√©m desejo ser util em alguma cousa: se errar, sirva ao menos esta
-memoria de lembrar a penas mais habeis a importancia da quest√£o, para,
+ConheÁo as minhas fracas forÁas para arrostar com t„o ardua tarefa,
+porÈm desejo ser util em alguma cousa: se errar, sirva ao menos esta
+memoria de lembrar a penas mais habeis a importancia da quest„o, para,
 com a emenda, fazer surgir a verdade.
 
-A causa das inunda√ß√µes √©, como todos sabem, a concurrencia rapida e
+A causa das inundaÁıes È, como todos sabem, a concurrencia rapida e
 quasi simultanea em o leito dos rios das massas aquosas parciaes,
-trazidas pelos seus affluentes quando as chuvas s√£o copiosas ou s√£o
-refor√ßadas pelo derretimento das neves nas montanhas; mas sendo a bacia
-dos rios a mesma que outr'ora, n√£o tendo variado as circumstancias
+trazidas pelos seus affluentes quando as chuvas s„o copiosas ou s„o
+reforÁadas pelo derretimento das neves nas montanhas; mas sendo a bacia
+dos rios a mesma que outr'ora, n„o tendo variado as circumstancias
 climatericas, por que motivo os mesmos phenomenos naturaes produzem hoje
-na Europa effeitos que antigamente se n√£o davam e n√£o t√™m lugar ainda
-hoje na America, onde a civilisa√ß√£o est√° menos adiantada? A raz√£o √©
-obvia: √© porque na America as montanhas ainda est√£o cubertas de mattas
-virgens que demoram as aguas, em quanto que na Europa a popula√ß√£o mais
+na Europa effeitos que antigamente se n„o davam e n„o tÍm lugar ainda
+hoje na America, onde a civilisaÁ„o est· menos adiantada? A raz„o È
+obvia: È porque na America as montanhas ainda est„o cubertas de mattas
+virgens que demoram as aguas, em quanto que na Europa a populaÁ„o mais
 densa roteou os montes para se alimentar.
 
-Quasi todos os autores est√£o concordes em attribuir a esta causa os
+Quasi todos os autores est„o concordes em attribuir a esta causa os
 estragos produzidos pelas aguas nos valles.
 
 Juliano narra que no seu tempo o Sena corria sempre limpido com um nivel
-quasi constante; hoje as suas aguas s√£o turvas, e o seu nivel eleva-se
-√°s vezes de 6 at√© 8 metros[1]. Esta mudan√ßa, diz M. Marry, √©
-evidentemente devida √° cultura dos terrenos inclinados, antigamente
-cobertos de mattas. Mais adiante, l√™-se no mesmo tractado: ¬´O que tem
+quasi constante; hoje as suas aguas s„o turvas, e o seu nivel eleva-se
+·s vezes de 6 atÈ 8 metros[1]. Esta mudanÁa, diz M. Marry, È
+evidentemente devida · cultura dos terrenos inclinados, antigamente
+cobertos de mattas. Mais adiante, lÍ-se no mesmo tractado: ´O que tem
 occorrido durante alguns annos successivos na bacia do Rhodano, prova
-que a rotea√ß√£o do Jura e principalmente dos Alpes teve para as bacias
-que recebem as suas aguas as consequencias as mais funestas.¬ª
+que a roteaÁ„o do Jura e principalmente dos Alpes teve para as bacias
+que recebem as suas aguas as consequencias as mais funestas.ª
 
 Voltando ao nosso Mondego, parece que antes de 1400 os senhorios
 obrigavam os rendeiros do campo _a fazerem ahi pousadas e moradas, e a
 morar nas terras corporalmente por si e suas pessoas_.
 
-No cartorio de S. Pedro em Coimbra existe uma senten√ßa proferida na √©ra
+No cartorio de S. Pedro em Coimbra existe uma sentenÁa proferida na Èra
 de 1392 pelo Vigario da dicta cidade contra um inquilino: no pleito foi
 allegado pela senhoria que era costume antigo _pagarem os lavradores que
 morassem nas terras que as Egrejas de Coimbra tinham no campo o dizimo
-dos fructos e crian√ßas_[2] √° Egreja, cujas forem as dictas _terras_[3].
+dos fructos e crianÁas_[2] · Egreja, cujas forem as dictas _terras_[3].
 
-Ouvimos pela primeira vez fallar nas inunda√ß√µes do Mondego em uma Carta
+Ouvimos pela primeira vez fallar nas inundaÁıes do Mondego em uma Carta
 Regia de D. Affonso V, do anno de 1464, que prohibe as queimadas e
-rotea√ß√£o das alturas vertentes no Mondego. (Lei que se n√£o executou por
+roteaÁ„o das alturas vertentes no Mondego. (Lei que se n„o executou por
 iniqua.) Mais tarde o Marquez de Pombal renovou esta lei com o mesmo
-resultado. D'essa √©pocha em diante os clamores dos lavradores do campo
+resultado. D'essa Èpocha em diante os clamores dos lavradores do campo
 subiram ao throno de todos os nossos Monarchas sem que se achasse o
 remedio.
 
-V√™-se que j√° em 1464 se conhecia a causa das cheias, a mesma que hoje
-apontamos, n√£o s√≥ para o Mondego, mas tambem para grande numero de rios
+VÍ-se que j· em 1464 se conhecia a causa das cheias, a mesma que hoje
+apontamos, n„o sÛ para o Mondego, mas tambem para grande numero de rios
 da Europa.
 
-O mar √© provavel banhasse em √©pochas anteriores √° Monarquia todo aquelle
+O mar È provavel banhasse em Èpochas anteriores · Monarquia todo aquelle
 valle a que chamam campos de Coimbra. Santa Eulalia ou Santa Olaia,
-pequeno castello situado em um monte isolado ao Oeste de Monte-m√≥r o
-Velho, na entrada do paul de F√¥ja, tendo sido tomado aos Mouros pelo
+pequeno castello situado em um monte isolado ao Oeste de Monte-mÛr o
+Velho, na entrada do paul de FÙja, tendo sido tomado aos Mouros pelo
 Conde D. Henrique, foi doado por elle ao Mosteiro de Sancta Cruz _com
 todas as rendas, portagens e mais direitos dos navios que entravam pela
 foz do Mondego_[4]. Quatro seculos mais tarde, El-rei D. Manuel mandou
-edificar uma ponte de pedra no paul de F√¥ja em lugar da de madeira que
+edificar uma ponte de pedra no paul de FÙja em lugar da de madeira que
 existia _para obviar aos grandes fracassos que occasionavam aos povos as
-mar√©s que a inundavam_.
+marÈs que a inundavam_.
 
-Em 1790 as mar√©s ainda chegavam √° barca de Monte-m√≥r, junto ao monte da
-Ladroeira[5]; hoje o seu limite √© muito mais visinho ao Oceano; s√≥mente
-as mar√©s grandes do equinocio do outomno fazem-se sentir at√© alli pelo
-empate da agua do rio, que ent√£o traz pouca.
+Em 1790 as marÈs ainda chegavam · barca de Monte-mÛr, junto ao monte da
+Ladroeira[5]; hoje o seu limite È muito mais visinho ao Oceano; sÛmente
+as marÈs grandes do equinocio do outomno fazem-se sentir atÈ alli pelo
+empate da agua do rio, que ent„o traz pouca.
 
-N√£o me demorarei em demonstrar que o campo levanta com os nateiros
-depositados pelas cheias: O convento de Santa Clara, enterrado at√© √°s
+N„o me demorarei em demonstrar que o campo levanta com os nateiros
+depositados pelas cheias: O convento de Santa Clara, enterrado atÈ ·s
 impostas da abobada da Egreja, edificios que desappareceram
 completamente juncto a Coimbra, o provam de sobejo; ora, suppondo que os
 nateiros elevem o campo de um quarto de pollegada por anno, termo medio;
-de certo n√£o serei taxado de exagerado pelos lavradores, admittindo que
-o rio come√ßasse a transbordar desde o anno 1400, pois no anno 1464 j√°
-ouvimos queixas: ser√£o 457 annos, o que nos d√° 19 palmos d'eleva√ß√£o
-desde o anno 1400 at√© agora; ora, segundo o nivelamento feito por
-Estev√£o Cabral em 1790, a agua na ponte de Coimbra estava 63 palmos a
-cima do preamar, logo em 1400 achava-se s√≥mente 44 palmos acima d'este
-plano; se o terreno conservou sempre a mesma inclina√ß√£o relativa,
-resulta que a mar√© em 1400 chegava a uma legoa de Coimbra ou pouco mais,
-pois elle d√° de declive 22 palmos √° 1.^a legoa. Infelizmente n√£o √©
-s√≥mente o campo que levanta; o alveo do rio eleva-se mais depressa pelos
-depositos d'ar√™a trazidos da Beira no tempo das cheias, a ponto que
-chega √° altura dos campos, e o Mondego abre um novo leito; assim tem ido
-correndo √° revelia por todo o valle nos seculos de que fall√°mos,
+de certo n„o serei taxado de exagerado pelos lavradores, admittindo que
+o rio comeÁasse a transbordar desde o anno 1400, pois no anno 1464 j·
+ouvimos queixas: ser„o 457 annos, o que nos d· 19 palmos d'elevaÁ„o
+desde o anno 1400 atÈ agora; ora, segundo o nivelamento feito por
+Estev„o Cabral em 1790, a agua na ponte de Coimbra estava 63 palmos a
+cima do preamar, logo em 1400 achava-se sÛmente 44 palmos acima d'este
+plano; se o terreno conservou sempre a mesma inclinaÁ„o relativa,
+resulta que a marÈ em 1400 chegava a uma legoa de Coimbra ou pouco mais,
+pois elle d· de declive 22 palmos · 1.^a legoa. Infelizmente n„o È
+sÛmente o campo que levanta; o alveo do rio eleva-se mais depressa pelos
+depositos d'arÍa trazidos da Beira no tempo das cheias, a ponto que
+chega · altura dos campos, e o Mondego abre um novo leito; assim tem ido
+correndo · revelia por todo o valle nos seculos de que fall·mos,
 apoiando-se, ora nos montes do norte, ora nos do sul, cubrindo as terras
-com camadas de ar√™a: haja vista o leito antigo ao nivel do campo, e o
-novo encanamento feito em 1792, j√° meio entulhado, deixando apenas um
+com camadas de arÍa: haja vista o leito antigo ao nivel do campo, e o
+novo encanamento feito em 1792, j· meio entulhado, deixando apenas um
 metro d'altura entre seu alveo e o nivel do campo.
 
-Resumindo: ¬´*O valle levanta com os nateiros; as mar√©s retrogradam √°
-propor√ß√£o; o alveo do rio eleva-se mais depressa que o campo; chegando √°
-altura d'este, as aguas procuram um novo leito.*¬ª Eis a indole
+Resumindo: ´*O valle levanta com os nateiros; as marÈs retrogradam ·
+proporÁ„o; o alveo do rio eleva-se mais depressa que o campo; chegando ·
+altura d'este, as aguas procuram um novo leito.*ª Eis a indole
 invariavel do Mondego desde seculos, demonstrada tanto pelos documentos
-historicos como pela observa√ß√£o dos factos que t√™m lugar √° nossa vista.
+historicos como pela observaÁ„o dos factos que tÍm lugar · nossa vista.
 Adiante procuraremos deduzir d'ella as legitimas consequencias. Mas
 antes d'isso lancemos uma vista d'olhos sobre os inconvenientes trazidos
-por um regimen t√£o irregular. S√£o de duas especies: 1.^o considerados em
-rela√ß√£o aos campos; 2.^o em referencia √° navega√ß√£o.
+por um regimen t„o irregular. S„o de duas especies: 1.^o considerados em
+relaÁ„o aos campos; 2.^o em referencia · navegaÁ„o.
 
-Pelo que diz respeito aos campos, o defeito capital do rio √© sem d√∫vida
-a sua grande eleva√ß√£o, que, como j√° vimos, tende sempre a augmentar. No
-estado actual, um metro d'agua no rio, os campos j√° est√£o alagados:
-quando essas inunda√ß√µes v√™m no inverno depois do recolhimento ou antes
-das sementeiras, as aguas n√£o causam mal aos campos, antes pelo
-contrario os fertilizam, √© o seu estrume, nem se emprega outro; sem
-ellas o campo era improductivo, pois o seu solo √© formado de uma areia
+Pelo que diz respeito aos campos, o defeito capital do rio È sem d˙vida
+a sua grande elevaÁ„o, que, como j· vimos, tende sempre a augmentar. No
+estado actual, um metro d'agua no rio, os campos j· est„o alagados:
+quando essas inundaÁıes vÍm no inverno depois do recolhimento ou antes
+das sementeiras, as aguas n„o causam mal aos campos, antes pelo
+contrario os fertilizam, È o seu estrume, nem se emprega outro; sem
+ellas o campo era improductivo, pois o seu solo È formado de uma areia
 fina misturada de humus sem argila quasi nenhuma; mas, quando as cheias
-se apresentam em maio, fins d'agosto ou setembro, o mal √© irreparavel:
-v√£o-se as esperan√ßas e o suor dos lavradores; a colheita est√° perdida.
-Mesmo quando as inunda√ß√µes v√™m em tempo competente, a grande velocidade
+se apresentam em maio, fins d'agosto ou setembro, o mal È irreparavel:
+v„o-se as esperanÁas e o suor dos lavradores; a colheita est· perdida.
+Mesmo quando as inundaÁıes vÍm em tempo competente, a grande velocidade
 que traz a agua despenhada das serras, d'onde desce em torrentes,
-escorregando sobre um terreno de grande declive e n√∫, composto de areias
-roladas sem aggrega√ß√£o quasi alguma, leva comsigo enormes massas de
-ar√™a, que vai depositando pouco e pouco, √° propor√ß√£o que a sua
-velocidade diminue, isso √© no leito do rio navegavel, de modo que por
-baixo do rio temos um _rio d'ar√™as_, parte das quaes, d'involto com as
+escorregando sobre um terreno de grande declive e n˙, composto de areias
+roladas sem aggregaÁ„o quasi alguma, leva comsigo enormes massas de
+arÍa, que vai depositando pouco e pouco, · proporÁ„o que a sua
+velocidade diminue, isso È no leito do rio navegavel, de modo que por
+baixo do rio temos um _rio d'arÍas_, parte das quaes, d'involto com as
 aguas, penetram pelas quebradas, para invadir o campo, que cobrem de
 suas camadas e tornam o terreno improductivo por muito tempo; vejam-se
-os campos de Bol√£o, onde as ar√™as esterilizaram duas legoas de
+os campos de Bol„o, onde as arÍas esterilizaram duas legoas de
 comprimento, sobre um quarto de legoa de largura. Se ao menos o Mondego
 conservasse durante uma grande parte do anno uma estiagem regular, e um
 volume d'agua maior no intervallo de cada cheia, as areias seriam
 conduzidas ao mar pela corrente; mas 15 dias depois da chuva, o rio tem
 mui pouca agua.
 
-Em quanto √° navega√ß√£o, raras vezes no anno essa se faz com commodidade e
-com a brevidade necessaria: assim no ver√£o, a pouca agua que traz o rio,
-ainda essa espalhada em diversos caneiros no mesmo leito, n√£o d√°
+Em quanto · navegaÁ„o, raras vezes no anno essa se faz com commodidade e
+com a brevidade necessaria: assim no ver„o, a pouca agua que traz o rio,
+ainda essa espalhada em diversos caneiros no mesmo leito, n„o d·
 profundidade sufficiente para os mais pequenos barcos poderem navegar
-com facilidade; a navega√ß√£o faz-se ent√£o √° vara, os barqueiros v√™em-se
-na obriga√ß√£o de saltarem muitas vezes ao rio, e mesmo escavar a areia
+com facilidade; a navegaÁ„o faz-se ent„o · vara, os barqueiros vÍem-se
+na obrigaÁ„o de saltarem muitas vezes ao rio, e mesmo escavar a areia
 para abrirem passagem; os barcos levam menos de meia carga, e gastam
 dois e trez dias para ir da Figueira a Coimbra, quando deveriam gastar
 um, mesmo na ausencia de todo o vento: d'ahi resulta uma grande despeza
-de transporte para os generos que seguem esta via de communica√ß√£o
+de transporte para os generos que seguem esta via de communicaÁ„o
 principal de toda a Beira.
 
-Para se conhecer a importancia d'essa navega√ß√£o, direi que a Figueira √©
+Para se conhecer a importancia d'essa navegaÁ„o, direi que a Figueira È
 hoje o 3.^o porto do Reino; 12 barcos cada dia (termo medio) transitam
-pelo rio com generos, o que d√° annualmente 4320 barcos, que, a 5
-carradas cada um, transportam 21600 carradas al√©m dos passageiros, que
-s√£o muitos visto que no inverno, por falta d'estrada, a communica√ß√£o
+pelo rio com generos, o que d· annualmente 4320 barcos, que, a 5
+carradas cada um, transportam 21600 carradas alÈm dos passageiros, que
+s„o muitos visto que no inverno, por falta d'estrada, a communicaÁ„o
 entre Coimbra e Figueira por terra torna-se de uma difficuldade immensa.
 
-Conhecida a causa do mal, que √©, como j√° dissemos, a velocidade com que
+Conhecida a causa do mal, que È, como j· dissemos, a velocidade com que
 as aguas da chuva descem dos montes ao rio, cavando enormes barrocas nos
 flancos da serra, arrastando comsigo as areias para deposital-as no
 leito do Mondego e por cima dos campos, ha duas especies de meios a
 empregar para remover o mal: 1.^o _os meios preventivos_; 2.^o _os meios
-repressivos_. Ninguem duv√≠da, creio, que os primeiros sejam os mais
-suaves e os mais valiosos tanto em politica, em administra√ß√£o, na guerra
-como nas sciencias. A Hygiene √© preferivel √° medicina, e esta prefere
-quando p√≥de a preven√ß√£o √° repress√£o.
+repressivos_. Ninguem duvÌda, creio, que os primeiros sejam os mais
+suaves e os mais valiosos tanto em politica, em administraÁ„o, na guerra
+como nas sciencias. A Hygiene È preferivel · medicina, e esta prefere
+quando pÛde a prevenÁ„o · repress„o.
 
-Os elementos s√£o temiveis, n√£o por si, mas pela somma immensa dos seus
-esfor√ßos parciaes: √© pois antes do seu grande incremento que devemos
+Os elementos s„o temiveis, n„o por si, mas pela somma immensa dos seus
+esforÁos parciaes: È pois antes do seu grande incremento que devemos
 combatel-os, o que para os rios significa que devemos atacal-os na sua
-origem, v√™r se √© possivel diminuir o volume das aguas que chegam
+origem, vÍr se È possivel diminuir o volume das aguas que chegam
 simultaneamente aos valles, demorando-as sobre o declive dos montes, e
-para o Mondego especialmente evitar a alluvi√£o d'ar√™as que v√™m entulhar
+para o Mondego especialmente evitar a alluvi„o d'arÍas que vÍm entulhar
 o alveo.
 
-Os meios at√© hoje empregados no Mondego foram todos
-repressivos,--construir marach√µes, fazer encanamentos parciaes, ora pelo
+Os meios atÈ hoje empregados no Mondego foram todos
+repressivos,--construir marachıes, fazer encanamentos parciaes, ora pelo
 norte, ora pelo sul; o resultado foi sempre o mesmo; o rio melhora por
-algum tempo, entulha-se de ar√™as, √© mister um novo encanamento em cada
+algum tempo, entulha-se de arÍas, È mister um novo encanamento em cada
 seculo[6]; ora, proseguir em um systema de que a experiencia tem
-mostrado a insufficiencia, √© pertinacia pelo menos, √© exp√¥r-se a
-enterrar novos milh√µes no rio, que tudo sepulta debaixo do seu leito[7].
+mostrado a insufficiencia, È pertinacia pelo menos, È expÙr-se a
+enterrar novos milhıes no rio, que tudo sepulta debaixo do seu leito[7].
 Em quanto as aguas descerem das serras em 24 ou 30 horas, em quanto as
-ar√™as, despenhadas das barrocas e dos montes pela impetuosidade da
-torrente, chegarem ao valle onde o declive √© quasi nullo e a largura
-muito maior, em todo o rio e campo se h√£o de depositar, inutilisando em
-poucos annos o melhor encanamento possivel. Com effeito, qual ser√° o
+arÍas, despenhadas das barrocas e dos montes pela impetuosidade da
+torrente, chegarem ao valle onde o declive È quasi nullo e a largura
+muito maior, em todo o rio e campo se h„o de depositar, inutilisando em
+poucos annos o melhor encanamento possivel. Com effeito, qual ser· o
 leito que possa conter uma massa d'aguas que cobre todo o valle do
 Mondego no comprimento de 6 legoas, com meia legoa de largura e altura
-de um at√© 2 metros? Se n√£o √© possivel conter entre mottas esta enorme
-massa d'aguas, que n√£o conhece por margens sen√£o os montes que bordam o
+de um atÈ 2 metros? Se n„o È possivel conter entre mottas esta enorme
+massa d'aguas, que n„o conhece por margens sen„o os montes que bordam o
 campo, se as mesmas causas produzem sempre os mesmos effeitos na ordem
 dos phenomenos naturaes, devemos procurar destruir a causa, recorrer aos
 meios preventivos, por elles diminuiremos o volume das enxurradas que
-sahem de repente ao valle, tornaremos o rio navegavel de ver√£o,
+sahem de repente ao valle, tornaremos o rio navegavel de ver„o,
 conservando-lhe as aguas; evitaremos que uma grande parte das areias
-des√ßam ao rio, tornaremos em fim o seu regimen uniforme e estavel; ent√£o
-s√≥mente deveremos tractar de um encanamento regular, tornado muito mais
-facil, mais durador e menos dispendioso. Estes meios s√£o simples na sua
-execu√ß√£o, e por uma grande felicidade favorecem a agricultura dos
+desÁam ao rio, tornaremos em fim o seu regimen uniforme e estavel; ent„o
+sÛmente deveremos tractar de um encanamento regular, tornado muito mais
+facil, mais durador e menos dispendioso. Estes meios s„o simples na sua
+execuÁ„o, e por uma grande felicidade favorecem a agricultura dos
 montes, ao passo que evitam a ruina do campo, harmonizando o interesse
 geral com o bem dos particulares.
 
-O primeiro meio √© applicavel a todos os terrenos d'encosta, desaguando
+O primeiro meio È applicavel a todos os terrenos d'encosta, desaguando
 no Mondego ou nos affluentes d'este: consiste em cavar barrocas
 horizontaes de um metro de largura (4-1/2 palmos) proximamente, com
-2-1/2 palmos de profundidade, e 130 at√© 140 palmos de comprimento,
-fechadas nas extremidades, collocadas em degr√°os por todo o declive dos
+2-1/2 palmos de profundidade, e 130 atÈ 140 palmos de comprimento,
+fechadas nas extremidades, collocadas em degr·os por todo o declive dos
 montes, com intervallo de cerca 300 palmos entre fileira e fileira.
 Escuso dizer que encontrando-se algum obstaculo como rocha, estrada ou
 valla, interrompe-se a barroca para continuar do lado opposto.
 
-Este meio t√£o simples, que todo lavrador p√≥de executar sem auxilio
+Este meio t„o simples, que todo lavrador pÛde executar sem auxilio
 d'arte, traz comsigo vantagens importantissimas: com effeito, sendo 6
 legoas a distancia entre Coimbra e Lares, sendo meia legoa a largura
 media do campo entre estes dous pontos, e sendo um metro a altura das
-cheias ordinarias, segue-se que o volume d'agoa detido √© 'neste caso de
-92,557,410^{mc}, se, como diz Estev√£o Cabral, a superficie da Beira √© de
+cheias ordinarias, segue-se que o volume d'agoa detido È 'neste caso de
+92,557,410^{mc}, se, como diz Estev„o Cabral, a superficie da Beira È de
 200 legoas quadradas; admittindo que 1/3 seja planicie, restam 134
 legoas quadradas de encostas ou serras, em que se devem abrir barrocas;
 segundo o systema que apresentamos em 1000^m ou 100 hectares devem
 abrir-se 15 barrocas de 1000^m de comprimento cada uma, ou 15000^m, que
-a raz√£o de 0,^{mc}5 por metro corrente, conter√£o 7500^{mc} d'agua;
+a raz„o de 0,^{mc}5 por metro corrente, conter„o 7500^{mc} d'agua;
 admittindo que a legoa quadrada tenha 31 hectares, abriremos por legoa
-quadrada 465,000^m de barrocas as quaes dar√£o um producto de
-232,500^{mc}, e as 134 legoas quadradas ter√£o em deposito
-31,155,000^{mc} d'agua; isto √©, o ter√ßo do volume detido no campo, o que
-ser√° sufficiente para evitar as pequenas cheias de septembro ou de maio,
-que causam damno √°s colheitas; al√©m d'isso as aguas da chuva, obrigadas
-√° descer os degr√°os d'esta grande escada, mesmo depois das barrocas
-cheias, chegar√£o mais lentamente ao rio, dando tempo para escoar as
-primeiras aguas, quebrar√£o a sua grande velocidade, e por consequencia
-n√£o levar√£o t√£o facilmente a terra vegetal e as areias; as terras
-levadas depositar-se-h√£o 'nellas, e facil ser√° ao lavrador pela limpeza
+quadrada 465,000^m de barrocas as quaes dar„o um producto de
+232,500^{mc}, e as 134 legoas quadradas ter„o em deposito
+31,155,000^{mc} d'agua; isto È, o terÁo do volume detido no campo, o que
+ser· sufficiente para evitar as pequenas cheias de septembro ou de maio,
+que causam damno ·s colheitas; alÈm d'isso as aguas da chuva, obrigadas
+· descer os degr·os d'esta grande escada, mesmo depois das barrocas
+cheias, chegar„o mais lentamente ao rio, dando tempo para escoar as
+primeiras aguas, quebrar„o a sua grande velocidade, e por consequencia
+n„o levar„o t„o facilmente a terra vegetal e as areias; as terras
+levadas depositar-se-h„o 'nellas, e facil ser· ao lavrador pela limpeza
 das barrocas estrumar as suas proprias terras, em quanto que hoje, ellas
-v√£o beneficiar os proprietarios da base da montanha. O deposito d'agua
-conservar-se-ha nas barrocas at√© fins d'abril, √©pocha em que findam as
-chuvas, e filtrando na terra conservar-lhe-h√£o humidade at√© o principio
-de junho, isto √©, at√© ao tempo em que √© necessaria aos cereaes; por este
-motivo as terras dos montes tornar-se-h√£o mais productivas, pois todos
+v„o beneficiar os proprietarios da base da montanha. O deposito d'agua
+conservar-se-ha nas barrocas atÈ fins d'abril, Èpocha em que findam as
+chuvas, e filtrando na terra conservar-lhe-h„o humidade atÈ o principio
+de junho, isto È, atÈ ao tempo em que È necessaria aos cereaes; por este
+motivo as terras dos montes tornar-se-h„o mais productivas, pois todos
 sabem que os estrumes precisam ser dissolvidos para penetrar na planta
-em f√≥rma de seiva, e todos lamentam a falta d'agua nos mezes do estio. O
-augmento de produc√ß√£o compensar√° em dois ou trez annos a despeza da
-abertura, que se reduz a 3$000 r√©is por hectare a raz√£o de 20 r√©is o
-metro corrente[8], attendendo a que os mezes d'inverno s√£o os mais
+em fÛrma de seiva, e todos lamentam a falta d'agua nos mezes do estio. O
+augmento de producÁ„o compensar· em dois ou trez annos a despeza da
+abertura, que se reduz a 3$000 rÈis por hectare a raz„o de 20 rÈis o
+metro corrente[8], attendendo a que os mezes d'inverno s„o os mais
 proprios para este trabalho. Os pequenos lavradores podem _abril-as_
 elles mesmos, visto ser o tempo o genero que menos lhes custa a dar
-'naquella esta√ß√£o. Por este meio conseguiremos egualmente augmentar o
-volume d'agua da estiagem, tornando a navega√ß√£o mais facil; pois,
-filtrando por entre as terras, tarde ou cedo a agua l√° ir√° parar. Emfim,
-evitaremos que uma parte das ar√™as venha entulhar o alveo do rio, o que
-√© mais para temer que a propria cheia.
+'naquella estaÁ„o. Por este meio conseguiremos egualmente augmentar o
+volume d'agua da estiagem, tornando a navegaÁ„o mais facil; pois,
+filtrando por entre as terras, tarde ou cedo a agua l· ir· parar. Emfim,
+evitaremos que uma parte das arÍas venha entulhar o alveo do rio, o que
+È mais para temer que a propria cheia.
 
-Este systema novo de irriga√ß√µes, j√° praticado em Fran√ßa em algumas
+Este systema novo de irrigaÁıes, j· praticado em FranÁa em algumas
 partes em vista do melhoramento da cultura, tem correspondido ao que
 d'elle se esperava.
 
 J. R. Pelonceau[9], insigne engenheiro francez, que o aconselha, tendo
-presenciado a sua applica√ß√£o, assevera ser proprio a todo o genero de
+presenciado a sua applicaÁ„o, assevera ser proprio a todo o genero de
 cereaes e legumes, e que as proprias mattas se tornam por este meio mais
-productivas e vi√ßosas.
+productivas e viÁosas.
 
-_O segundo meio_, que propomos √° medita√ß√£o do p√∫blico, √© a planta√ß√£o
+_O segundo meio_, que propomos · meditaÁ„o do p˙blico, È a plantaÁ„o
 d'arvoredos em todas as encostas que vertem no Mondego ou nos seus
-affluentes: a medida n√£o √© nova, j√° o Marquez de Pombal a decretou; se
-tivesse sido executada, n√£o teriamos que lamentar os desastres que
+affluentes: a medida n„o È nova, j· o Marquez de Pombal a decretou; se
+tivesse sido executada, n„o teriamos que lamentar os desastres que
 procuramos remediar. Com effeito, uma montanha plantada de arvores, e
 por consequencia cuberta de terra vegetal e musgos, actua como uma
-esponja, que absorve a agua de repente e n√£o a restitue sen√£o pingo a
+esponja, que absorve a agua de repente e n„o a restitue sen„o pingo a
 pingo; uma montanha calva perde rapidamente a sua terra vegetal, de
-sorte que as chuvas escorregam sobre os seus flancos, dando origem √°s
-torrentes nos logares elevados, e √°s inunda√ß√µes nos valles. Certamente
-esta planta√ß√£o geral das encostas n√£o poder√° ser feita por meio de uma
-Lei violenta, nem t√£o pouco de repente; mas n√£o posso deixar de notar
-que as mattas v√£o desapparecendo da Beira, que a madeira j√° falta, que
-ella tornar-se-ha tanto mais necessaria quanto maior f√¥r o
-desinvolvimento da nossa civilisa√ß√£o. Os caminhos de ferro, as minas de
-Leiria e outras, que por ventura existam na Provincia, ser√£o um dia
+sorte que as chuvas escorregam sobre os seus flancos, dando origem ·s
+torrentes nos logares elevados, e ·s inundaÁıes nos valles. Certamente
+esta plantaÁ„o geral das encostas n„o poder· ser feita por meio de uma
+Lei violenta, nem t„o pouco de repente; mas n„o posso deixar de notar
+que as mattas v„o desapparecendo da Beira, que a madeira j· falta, que
+ella tornar-se-ha tanto mais necessaria quanto maior fÙr o
+desinvolvimento da nossa civilisaÁ„o. Os caminhos de ferro, as minas de
+Leiria e outras, que por ventura existam na Provincia, ser„o um dia
 exploradas, augmentando consideravelmente o consumo d'este genero. A
-exporta√ß√£o vai crescendo d'anno para anno, e os estaleiros da Figueira
-tomar√£o importancia logo que a barra seja de mais facil accesso: tudo
+exportaÁ„o vai crescendo d'anno para anno, e os estaleiros da Figueira
+tomar„o importancia logo que a barra seja de mais facil accesso: tudo
 convida pois o lavrador previdente a semear pinhaes nos terrenos
 arenosos, pouco proprios para outra cultura.
 
 O Governo possue, assim como as Camaras municipaes, muitos terrenos na
 Beira: cuide em mandar plantar mattas, abrir 'nellas barrocas
-horizontaes; o seu desinvolvimento ser√° mais rapido, a agricultura
-conhecer√° os seus verdadeiros interesses, e n√£o ser√° t√£o difficil, como
-se poderia supp√¥r, alcan√ßar esta reforma: ella poder√° exigir dez ou
-vinte annos para completar-se; mas o proveito para a navega√ß√£o do rio e
-para o campo de Coimbra ser√° proporcional ao seu adiantamento. Em um
-paiz como o nosso, em que os particulares n√£o t√™m iniciativa, √© mist√©r
-que o Governo d√™ o exemplo com experiencias bem dirigidas.
+horizontaes; o seu desinvolvimento ser· mais rapido, a agricultura
+conhecer· os seus verdadeiros interesses, e n„o ser· t„o difficil, como
+se poderia suppÙr, alcanÁar esta reforma: ella poder· exigir dez ou
+vinte annos para completar-se; mas o proveito para a navegaÁ„o do rio e
+para o campo de Coimbra ser· proporcional ao seu adiantamento. Em um
+paiz como o nosso, em que os particulares n„o tÍm iniciativa, È mistÈr
+que o Governo dÍ o exemplo com experiencias bem dirigidas.
 
 _Como terceiro meio_ para evitar o entulhamento do rio, proporia
 collocar em todas as barrocas, vallas ou affluentes e no proprio alveo,
-nas suas partes n√£o navegaveis, tapagens, feitas de estacas com ramos de
-salgueiros entrela√ßados; estas tapagens repetidas de 500 em 500 metros
-perpendicularmente √° corrente, deixariam filtrar as aguas, detendo as
-ar√™as; e o seu custo √© t√£o pequeno, que n√£o duv√≠do se venham a fazer com
+nas suas partes n„o navegaveis, tapagens, feitas de estacas com ramos de
+salgueiros entrelaÁados; estas tapagens repetidas de 500 em 500 metros
+perpendicularmente · corrente, deixariam filtrar as aguas, detendo as
+arÍas; e o seu custo È t„o pequeno, que n„o duvÌdo se venham a fazer com
 grande vantagem.
 
-Taes s√£o as medidas, que julgo proprias para evitar o flagello das
-inunda√ß√µes e tornar as aguas uma fonte de riqueza para os habitantes da
-serra. Oxal√° que a opini√£o p√∫blica favore√ßa este meu empenho. Se se
+Taes s„o as medidas, que julgo proprias para evitar o flagello das
+inundaÁıes e tornar as aguas uma fonte de riqueza para os habitantes da
+serra. Oxal· que a opini„o p˙blica favoreÁa este meu empenho. Se se
 applicarem, como entendo deva ser, os tres meios conjunctamente, os
-desastres ir√£o diminuindo em propor√ß√£o do adiantamento do novo systema
-d'agricultura, e desapparecer√£o quando completo na bacia do Mondego;
-tendo ent√£o o rio maior volume medio, arrojar√° para o mar grande parte
-das ar√™as que o entulham. O encanamento ser√° n√£o s√≥ possivel, mas facil,
+desastres ir„o diminuindo em proporÁ„o do adiantamento do novo systema
+d'agricultura, e desapparecer„o quando completo na bacia do Mondego;
+tendo ent„o o rio maior volume medio, arrojar· para o mar grande parte
+das arÍas que o entulham. O encanamento ser· n„o sÛ possivel, mas facil,
 observando as regras de que ninguem discrepa; a saber: 1.^o _As mottas
 devem ser eguaes nas duas margens_, pois fortificar uma d'ellas sem a
-outra, √© attacar a propriedade do visinho[10]. 2.^o _Um encanamento √© um
+outra, È attacar a propriedade do visinho[10]. 2.^o _Um encanamento È um
 trabalho que se deve fazer simultaneamente em todo o valle, sob pena de
-ver destruidos os trabalhos feitos._ 3.^o _Os rios v√£o crescendo para a
-foz; por consequencia a resistencia das mottas deve crescer em propor√ß√£o
-conveniente √° jusante._
+ver destruidos os trabalhos feitos._ 3.^o _Os rios v„o crescendo para a
+foz; por consequencia a resistencia das mottas deve crescer em proporÁ„o
+conveniente · jusante._
 
 
 FIM.
@@ -438,29 +438,29 @@ FIM.
 
 [1] Marry, _Cours de navegation_, pag. 6.
 
-[2] Cria√ß√£o.
+[2] CriaÁ„o.
 
 [3] _O Instituto_, Jornal scientifico e litterario, impresso em Coimbra.
 
 [4] Memorias Montemorienses.
 
-[5] Estev√£o Cabral, _Memoria sobre os melhoramentos do Mondego_.
+[5] Estev„o Cabral, _Memoria sobre os melhoramentos do Mondego_.
 
 [6] Encanamento feito pela margem norte em 1794. Encanamento novo feito
-em 1792, j√° entulhado.
+em 1792, j· entulhado.
 
-[7] Diz Estev√£o Cabral que ao p√© da Ger√≠a ha pedra enterrada,
+[7] Diz Estev„o Cabral que ao pÈ da GerÌa ha pedra enterrada,
 sufficiente para construir uma cidade.
 
-[8] Um vallador a raz√£o de 240 r√©is por dia, faz em terreno do monte 60
-palmos correntes, com a largura e profundidade que indic√¢mos, o que d√° 4
-r√©is por palmo corrente ou 18 r√©is por metro, e n√≥s calcul√¢mos 20 r√©is
+[8] Um vallador a raz„o de 240 rÈis por dia, faz em terreno do monte 60
+palmos correntes, com a largura e profundidade que indic‚mos, o que d· 4
+rÈis por palmo corrente ou 18 rÈis por metro, e nÛs calcul‚mos 20 rÈis
 por metro corrente.
 
-[9] J. R. Pelonceau, _Note sur les d√©bordements des fleuves et
-rivi√®res_.
+[9] J. R. Pelonceau, _Note sur les dÈbordements des fleuves et
+riviËres_.
 
-[10] A este respeito precisamos de uma boa legisla√ß√£o, pois no Mondego
+[10] A este respeito precisamos de uma boa legislaÁ„o, pois no Mondego
 cada um fortifica-se como quer, roubando o terreno do proprietario da
 margem opposta, e tornando o rio cada vez mais sinuoso.
 
@@ -473,9 +473,9 @@ Lista de erros corrigidos
 Aqui encontram-se listados todos os erros encontrados e corrigidos:
 
 +-----------+-------------------------+---------------------------+
-|           |        Original         |         Correc√ß√£o         |
+|           |        Original         |         CorrecÁ„o         |
 +-----------+-------------------------+---------------------------+
-| #p√°g. 15  | profundidode            | profundidade              |
+| #p·g. 15  | profundidode            | profundidade              |
 |           |                         |                           |
 | #nota 10  | raspeito                | respeito                  |
 +-----------+-------------------------+---------------------------+
@@ -485,7 +485,7 @@ Aqui encontram-se listados todos os erros encontrados e corrigidos:
 
 
 End of the Project Gutenberg EBook of Memoria sobre o melhoramento da
-cultura da Beira e da navega√ß√£o do Mondego, by Ant√≥nio de Almeida
+cultura da Beira e da navegaÁ„o do Mondego, by AntÛnio de Almeida
 
 *** END OF THIS PROJECT GUTENBERG EBOOK MEMORIA SOBRE O MELHORAMENTO ***
 
@@ -493,7 +493,7 @@ cultura da Beira e da navega√ß√£o do Mondego, by Ant√≥nio de Almeida
 This and all associated files of various formats will be found in:
         http://www.gutenberg.org/4/1/3/8/41389/
 
-Produced by Rita Farinha, Alberto Manuel Brand√£o Sim√µes
+Produced by Rita Farinha, Alberto Manuel Brand„o Simıes
 and the Online Distributed Proofreading Team at
 http://www.pgdp.net (This file was produced from images
 generously made available by The Internet Archive)

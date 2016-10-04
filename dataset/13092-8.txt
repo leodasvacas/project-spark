@@ -1,5 +1,5 @@
 The Project Gutenberg EBook of As Farpas, Janeiro de 1878
-by Ramalho Ortig√£o and Jos√© Maria E√ßa de Queiroz
+by Ramalho Ortig„o and JosÈ Maria EÁa de Queiroz
 
 This eBook is for the use of anyone anywhere at no cost and with
 almost no restrictions whatsoever.  You may copy it, give it away or
@@ -9,7 +9,7 @@ with this eBook or online at www.gutenberg.net
 
 Title: As Farpas (Janeiro 1878)
 
-Author: Ramalho Ortig√£o and Jos√© Maria E√ßa de Queiroz
+Author: Ramalho Ortig„o and JosÈ Maria EÁa de Queiroz
 
 Release Date: August 2, 2004 [EBook #13092]
 
@@ -22,7 +22,7 @@ Character set encoding: ISO-8859-1
 
 
 
-Produced by Cl√°udia Ribeiro, Larry Bergey and PG Distributed
+Produced by Cl·udia Ribeiro, Larry Bergey and PG Distributed
 Proofreaders. Produced from page scans provided by Biblioteca Nacional
 de Lisboa.
 
@@ -30,9 +30,9 @@ de Lisboa.
 
 
 
-[Illustration: E√áA DE QUEIROZ--RAMALHO ORTIG√ÉO--AS FARPAS]
+[Illustration: E«A DE QUEIROZ--RAMALHO ORTIG√O--AS FARPAS]
 
-RAMALHO ORTIG√ÉO--E√áA DE QUEIROZ
+RAMALHO ORTIG√O--E«A DE QUEIROZ
 
 AS FARPAS
 
@@ -42,11 +42,11 @@ DA POLITICA, DAS LETRAS E DOS COSTUMES
 
 TERCEIRA SERIE TOMO I Janeiro de 1878
 
-Ironia, verdadeira liberdade! √âs tu que me livras da ambi√ß√£o do poder,
-da escravid√£o dos partidos, da venera√ß√£o da rotina, do pedantismo das
-sciencias, da admira√ß√£o das grandes personagens, das mystifica√ß√µes da
-politica, do fanatismo dos reformadores, da supersti√ß√£o d'este grande
-universo, e da adora√ß√£o de mim mesmo.
+Ironia, verdadeira liberdade! …s tu que me livras da ambiÁ„o do poder,
+da escravid„o dos partidos, da veneraÁ„o da rotina, do pedantismo das
+sciencias, da admiraÁ„o das grandes personagens, das mystificaÁıes da
+politica, do fanatismo dos reformadores, da superstiÁ„o d'este grande
+universo, e da adoraÁ„o de mim mesmo.
 
 P.J. PROUDHON
 
@@ -56,34 +56,34 @@ P.J. PROUDHON
 SUMMARIO
 
 
-A romagem dos mortos. Raspail, Courbet, Victor Manuel, Jos√© de Alencar,
+A romagem dos mortos. Raspail, Courbet, Victor Manuel, JosÈ de Alencar,
 Augusto Soromenho.--_A senhora portuense_ e _as Farpas_. O libello
-d'aquella dama. A nossa resposta. N√£o, a mulher portugueza n√£o sabe
+d'aquella dama. A nossa resposta. N„o, a mulher portugueza n„o sabe
 fazer caldo e deve aprender a fazel-o, como se torna a demonstrar. A
-litteratura feminina e a cozinha de minha av√≥.--Da influencia dos hymnos
+litteratura feminina e a cozinha de minha avÛ.--Da influencia dos hymnos
 sobre os cerebros coroados. Cumplicidades do telephonio.--Os cemiterios.
-A interven√ß√£o do sr. marquez d'Avila e a do sr. Luiz Jardim. A
-cabelleira e a formula de s. ex.¬™ Mostra-se que s. ex.¬™ n√£o √© o velho
+A intervenÁ„o do sr. marquez d'Avila e a do sr. Luiz Jardim. A
+cabelleira e a formula de s. ex.™ Mostra-se que s. ex.™ n„o È o velho
 Tobias. O catholicismo e a carta. A liberdade de pensamento e o registro
 civil.--A ex'ma Camara Municipal do Porto ou a quem suas vezes fizer.--A
-situa√ß√£o politica. As ultimas sess√µes parlamentares. Alguns perfis. Os
-partidos. Os compadres. A jumentinha da publica governa√ß√£o.
+situaÁ„o politica. As ultimas sessıes parlamentares. Alguns perfis. Os
+partidos. Os compadres. A jumentinha da publica governaÁ„o.
 
-No breve espa√ßo dos ultimos quinze dias a humanidade pagou √° morte um
+No breve espaÁo dos ultimos quinze dias a humanidade pagou · morte um
 pesado tributo. Escrevemos no meio de tumulos gloriosos e amados.
-Deixaram de existir, em Fran√ßa Raspail e Courbet; na Italia Victor
-Manuel, no Brazil Jos√© de Alencar; em Portugal Augusto Soromenho.
+Deixaram de existir, em FranÁa Raspail e Courbet; na Italia Victor
+Manuel, no Brazil JosÈ de Alencar; em Portugal Augusto Soromenho.
 
 Raspail, entre todos esses o maior, deixa na terra um immenso vacuo
-imprehenchivel. Desappareceu com elle uma das mais poderosas for√ßas
-sociaes do mundo moderno, a por√ß√£o mais fecunda e mais gloriosa da
+imprehenchivel. Desappareceu com elle uma das mais poderosas forÁas
+sociaes do mundo moderno, a porÁ„o mais fecunda e mais gloriosa da
 grande alma do povo.
 
-Ninguem como elle amou a humanidade e ninguem empregou t√£o vastas e t√£o
+Ninguem como elle amou a humanidade e ninguem empregou t„o vastas e t„o
 profundas faculdades no culto do seu amor. Foi o maior contribuinte dos
 descobrimentos scientificos d'este seculo. Creou a chimica organica e
-p√≥de-se dizer que creou tambem a physiologia botanica e a anathomia
-microscopica. Fundou a hygiene em bases novas, n√£o como uma dependencia
+pÛde-se dizer que creou tambem a physiologia botanica e a anathomia
+microscopica. Fundou a hygiene em bases novas, n„o como uma dependencia
 da medicina, mas como um desdobramento da sciencia social. Foi elle o
 que definiu pela primeira vez em fundamentos positivos o dogma do
 suffragio universal. Foi ainda elle o primeiro que proclamou no Hotel de
@@ -95,13 +95,13 @@ socilaes, astronomo, chimico, physiologista, medico, archeologo,
 economista, era alem d'isso um delicado e valente escriptor. O seu genio
 profundo actuou efficazmente no desenvolvimento do estudo dos astros,
 das plantas, dos animaes, do homem, e bem assim na reforma do todas as
-institui√ß√µes politicas e sociaes, na reforma administrativa, na reforma
+instituiÁıes politicas e sociaes, na reforma administrativa, na reforma
 judiciaria, na reforma penitenciaria e na reforma penal. O seu altivo
 caracter de soberano plebeu tornou-o sempre irreconciliavel com todo o
-favor, com lodo o auxilio, com toda a collabora√ß√£o official. Recusou
-todas as distin√ß√µes honorificas, todos os cargos publicos, todos os
-diplomas scientificos ou litterarios. As suas observa√ß√µes astronomicas,
-os seus trabalhos de chimica, as suas applica√ß√µes do microscopio ao
+favor, com lodo o auxilio, com toda a collaboraÁ„o official. Recusou
+todas as distinÁıes honorificas, todos os cargos publicos, todos os
+diplomas scientificos ou litterarios. As suas observaÁıes astronomicas,
+os seus trabalhos de chimica, as suas applicaÁıes do microscopio ao
 estudo das celulas e dos tecidos fizerarn-se n'uma agua furtada humilde
 dos bairros baratos de Paris com os instrumentos mais rudimentares, no
 isolamento austero da independencia o do sacrificio.
@@ -109,236 +109,236 @@ isolamento austero da independencia o do sacrificio.
 Esse intrepido filho do povo tinha a fibra de Galileu, de Giordano Bruno
 e do Bernardo Palissy.
 
-A academia franceza, commovida com uma t√£o exemplar grandeza d'alma,
+A academia franceza, commovida com uma t„o exemplar grandeza d'alma,
 resolveu conferir-lhe em 1833 o premio Montyon, declarando-lhe pela boca
 do grande Geoffroy-Saint-Hilaire que ella o considerava como sendo o
-homem que mais servi√ßos tinha prestado √° sciencia e √° humanidade.
+homem que mais serviÁos tinha prestado · sciencia e · humanidade.
 
-Guizot, ent√£o ministro da instru√ß√£o publica, interveio na resolu√ß√£o da
+Guizot, ent„o ministro da instruÁ„o publica, interveio na resoluÁ„o da
 academia prohibindo que _o premio da virtude cahisse no cofre da
-rebeli√£o_.[1] O chefe do partido conservador francez n√£o podia esquecer
-que f√¥ra esse mesmo sabio obscuro o despremiado o que no anno anterior,
-em plena Restaura√ß√£o, ousara fulminar a vota√ß√£o da lista civil com a
+rebeli„o_.[1] O chefe do partido conservador francez n„o podia esquecer
+que fÙra esse mesmo sabio obscuro o despremiado o que no anno anterior,
+em plena RestauraÁ„o, ousara fulminar a votaÁ„o da lista civil com a
 phrase memoravel paga por elle com 500 francos de multa e 15 mezes de
-cadeia: ¬´Deveria ser enterrado vivo debaixo das ruinas das Tulherias
-todo o cidad√£o que ousasse pedir √° Fran√ßa 14 milh√µes para viver.¬ª
+cadeia: ´Deveria ser enterrado vivo debaixo das ruinas das Tulherias
+todo o cidad„o que ousasse pedir · FranÁa 14 milhıes para viver.ª
 
 [Nota 1: Guizot, que recusou um premio a Raspail, recusou tambem uma
 cadeira no magisterio a Augusto Comte. O illustre historiador teve a
-desgra√ßa de firmar com o seu nome a responsabilidade d'esses dois
+desgraÁa de firmar com o seu nome a responsabilidade d'esses dois
 crimes, inconscientes, da politica nefasta que elle dirigia.]
 
-√â que Raspail, a intelligencia sempre apta para organisar, foi
-egualmente o bra√ßo constantemente pronto para resistir.
+… que Raspail, a intelligencia sempre apta para organisar, foi
+egualmente o braÁo constantemente pronto para resistir.
 
-Portentosa existencia, que ficar√° na historia entre as mais bellas e
-mais estraordinarias legendas do genio do homem! Destinado por seu pae √°
-carreira ecclesiastica, foi educado n'um seminario, come√ßou por ser um
-theologo. Era por√©m de tal modo intenso e explosivo o seu amor de
+Portentosa existencia, que ficar· na historia entre as mais bellas e
+mais estraordinarias legendas do genio do homem! Destinado por seu pae ·
+carreira ecclesiastica, foi educado n'um seminario, comeÁou por ser um
+theologo. Era porÈm de tal modo intenso e explosivo o seu amor de
 verdade e do progresso que, principiando por ensinar theologia aos
-dezenove annos, acabou por alcan√ßar a gloria immarcessivel de ser
+dezenove annos, acabou por alcanÁar a gloria immarcessivel de ser
 condemnado aos oitenta,--aos oitenta annos de idade!--por abuso da
 liberdade de pensamento!
 
-O poder espiritual do mundo moderno era representado em Fran√ßa por uma
-trindade sacrosanta:--Victor Hugo, a for√ßa do sentimento; Raspail, a
-for√ßa do trabalho; Littr√©, a for√ßa da philosophia.
+O poder espiritual do mundo moderno era representado em FranÁa por uma
+trindade sacrosanta:--Victor Hugo, a forÁa do sentimento; Raspail, a
+forÁa do trabalho; LittrÈ, a forÁa da philosophia.
 
-D'esses tres anci√£os o primeiro que desceu ao tumulo √© o que mais
+D'esses tres anci„os o primeiro que desceu ao tumulo È o que mais
 fecundo exemplo nos podia legar, porque as virtudes que o assignalaram
-s√£o d'aquellas que dependem mais da vontade que do entendimento. Esse
+s„o d'aquellas que dependem mais da vontade que do entendimento. Esse
 exemplo de uma actividade sempre enthusiasta, juvenil e ardente, em
-nenhuma outra parte √© mais precioso do que na sociedade portugueza, onde
-as id√©as radicaes, que s√£o as sentinelas avan√ßadas da civilisa√ß√£o, t√£o
+nenhuma outra parte È mais precioso do que na sociedade portugueza, onde
+as idÈas radicaes, que s„o as sentinelas avanÁadas da civilisaÁ„o, t„o
 raramente encontram servidores desinteressados que as mantenham; onde a
-mocidade mais vivaz e intelligente est√° defendendo no parlamento e no
-jornalismo as opini√µes mais retrogradas, onde finalmente o futuro n√£o
+mocidade mais vivaz e intelligente est· defendendo no parlamento e no
+jornalismo as opiniıes mais retrogradas, onde finalmente o futuro n„o
 tem partido.
 
-Possa a memoria do sublime Raspail alentar a perseveran√ßa e a firmeza no
-cora√ß√£o d'aquelles que, longe de todas as correntes officiaes se
+Possa a memoria do sublime Raspail alentar a perseveranÁa e a firmeza no
+coraÁ„o d'aquelles que, longe de todas as correntes officiaes se
 sacrificam heroicamente pelo estudo desprotegido, pelo trabalho talvez
-calumniado, talvez perseguido, ao amor e ao aperfei√ßoamento dos seus
+calumniado, talvez perseguido, ao amor e ao aperfeiÁoamento dos seus
 similhantes!
 
-Que todos os que s√£o mo√ßos e fortes se inclinem sobre esta campa onde
-repousa um triumpho, e reflictam, que √© na pedra tumular de Raspail que
-dever√£o agu√ßar o fio das suas espadas todos aquelles que combatem pela
+Que todos os que s„o moÁos e fortes se inclinem sobre esta campa onde
+repousa um triumpho, e reflictam, que È na pedra tumular de Raspail que
+dever„o aguÁar o fio das suas espadas todos aquelles que combatem pela
 consciencia e pela verdade!
 
        *       *       *       *       *
 
 Courbet foi um conspirador da esthetica, um rebelde ao despotismo de um
-id√©al que elle tinha por condemnado solidariamente com as velhas
-institui√ß√µes sociaes de que fazia parte. A sua vida foi consagrada a
-derrocar pela pintura a inspira√ß√£o da antiga arte assim como derrocou
-pelo uso do poder executivo a columna da pra√ßa Vend√¥me. Louvavel
-empenho, porque Courbet considerava essa inspira√ß√£o uma fonte envenenada
+idÈal que elle tinha por condemnado solidariamente com as velhas
+instituiÁıes sociaes de que fazia parte. A sua vida foi consagrada a
+derrocar pela pintura a inspiraÁ„o da antiga arte assim como derrocou
+pelo uso do poder executivo a columna da praÁa VendÙme. Louvavel
+empenho, porque Courbet considerava essa inspiraÁ„o uma fonte envenenada
 para o trabalho artistico, assim como considerava essa columna um
 symbolo ultrajante para a dignidade humana.
 
-A demoli√ß√£o da columna, que toda a imprensa europea stygmatisou com
-palavras t√£o resentidas e acerbas, n√£o poder√° deixar de ser um dia
+A demoliÁ„o da columna, que toda a imprensa europea stygmatisou com
+palavras t„o resentidas e acerbas, n„o poder· deixar de ser um dia
 olhada pela critica desapaixonada como a consequencia logica e fatal dos
-principios de justi√ßa social constantemente professados pelo immortal
+principios de justiÁa social constantemente professados pelo immortal
 artista.
 
-Courbet foi condemnado a pagar a reconstitui√ß√£o da columna. Breve por√©m
-soar√° a hora em que o nobre espirito francez deixe de considerar
+Courbet foi condemnado a pagar a reconstituiÁ„o da columna. Breve porÈm
+soar· a hora em que o nobre espirito francez deixe de considerar
 puerilmente que se deve ser
 
-_Fier d'√™tre fran√ßais
+_Fier d'Ítre franÁais
 Quand on regarde la colonne!_
 
 Paris, a cidade eterna da arte, a grande martyr, a grande pacificadora,
-comprehender√° em pouco tempo que √© uma injuria ao seu bello destino na
-obra da concilia√ß√£o humana a ostenta√ß√£o orgulhosa de um monumento que o
-distico diz ser: _levantado √† gloria do grande exercito por Napole√£o o
+comprehender· em pouco tempo que È uma injuria ao seu bello destino na
+obra da conciliaÁ„o humana a ostentaÁ„o orgulhosa de um monumento que o
+distico diz ser: _levantado ‡ gloria do grande exercito por Napole„o o
 Grande!!_
 
-Paris, qua vae na proxima exposi√ß√£o celebrar dentro do regimen
+Paris, qua vae na proxima exposiÁ„o celebrar dentro do regimen
 republican a grande festa universal da industria e da paz, Paris cujo
-municipio acaba de votar 546 contos de r√©is para os seus
-estabelecimentos publicos de instruc√ß√£o primaria ao anno corrente, Paris
-que ainda ultimamente consagrou cerca de 5 mil contos √° reorganisa√ß√£o
-dos seus lyceus, n√£o poder√° manter em p√© por muitos annos mais, em uma
-das suas pra√ßas publicas, um symbolo que contradiz todas as suas
-aspira√ß√µes philosophicas e humanitarias, celebrando uma das maiores
-nodoas da civilisa√ß√£o: o triumpho cannibalesco do militarismo sobre os
-direitos do homem, a sujei√ß√£o da Fran√ßa aos caprichos de um despota em
-cuja fronte as justi√ßas da historia estamparam j√° o ferrete da ignommia.
+municipio acaba de votar 546 contos de rÈis para os seus
+estabelecimentos publicos de instrucÁ„o primaria ao anno corrente, Paris
+que ainda ultimamente consagrou cerca de 5 mil contos · reorganisaÁ„o
+dos seus lyceus, n„o poder· manter em pÈ por muitos annos mais, em uma
+das suas praÁas publicas, um symbolo que contradiz todas as suas
+aspiraÁıes philosophicas e humanitarias, celebrando uma das maiores
+nodoas da civilisaÁ„o: o triumpho cannibalesco do militarismo sobre os
+direitos do homem, a sujeiÁ„o da FranÁa aos caprichos de um despota em
+cuja fronte as justiÁas da historia estamparam j· o ferrete da ignommia.
 
 A legenda napoleonica esvahiu-se inteiramente das consciencias, e bastou
-um sopro de Michelet para apagar para todo sempre nas tradi√ß√µes marciaes
-da gera√ß√£o actual o sol de Austerlitz.
+um sopro de Michelet para apagar para todo sempre nas tradiÁıes marciaes
+da geraÁ„o actual o sol de Austerlitz.
 
 Courbet morreu antes da poder ser reembolsado da importancia da multa a
-que o condemnaram como inconoclasta. Mas a posteridade o desaggravar√°,
-ratificando a sua obra, demolindo pela segunda vez a columna Vend√¥me e
+que o condemnaram como inconoclasta. Mas a posteridade o desaggravar·,
+ratificando a sua obra, demolindo pela segunda vez a columna VendÙme e
 pondo no logar d'ella, em vez do genio das batalhas que lhe serve de
 remate, o genio da arte representado na estatua do grande pintor que na
 maneira de conceber e de executar a obra do espirito fundou a escola que
-ser√° uma das glorias d'este seculo, e na maneira de usar do governo em
+ser· uma das glorias d'este seculo, e na maneira de usar do governo em
 que teve parte commetteu o erro sempre fatal em politica de antecipar na
-pratica dos seus actos a opini√£o do seu tempo.
+pratica dos seus actos a opini„o do seu tempo.
 
        *       *       *       *       *
 
 Victor Manuel foi o homem forte por excellencia. Tinha o pulso athletico
-de Godofredo de Bulh√µes. Poderia como elle decepar de um s√≥ golpe da
-espada a cabe√ßa de um boi ou o tronco de um reaccionario; commandou como
-elle uma cruzada,--a cruzada de Novara at√© Roma, como elle chegou a
-terra promettida; morreu mo√ßo como elle, como todos os heroes que tendo
-realisado na terra uma grande miss√£o, se sentem de repente invadidos na
+de Godofredo de Bulhıes. Poderia como elle decepar de um sÛ golpe da
+espada a cabeÁa de um boi ou o tronco de um reaccionario; commandou como
+elle uma cruzada,--a cruzada de Novara atÈ Roma, como elle chegou a
+terra promettida; morreu moÁo como elle, como todos os heroes que tendo
+realisado na terra uma grande miss„o, se sentem de repente invadidos na
 alma pela tristeza immensa dos saciados. Teve a virtude symptomatica dos
 fortes--a colossal bondade. Ninguem abriu bocas mais fundas nas espadas
 dos seus adversarios; ninguem calcou a terra com sapatos mais fortes,
 mais intrepidos e mais bem ferrados, atraz dos tyrannos e dos cabritos,
-atraz das raposas e dos padres. Ninguem trepou com pulm√µes mais rijos √°s
+atraz das raposas e dos padres. Ninguem trepou com pulmıes mais rijos ·s
 altas cumiadas dos Appeninos e da liberdade. Ninguem sorriu com mais
-encanto e com mais prestigio √° fadiga, ao perigo, √°s mulheres e √° morte.
-Era evidentemente um forte. E como a for√ßa √© o maior de todos os
-attractivos humanos, ninguem conciliou como elle em torno de si t√£o
-contradictorias sympathias e t√£o heterogeneas affei√ß√µes: foi o amigo do
+encanto e com mais prestigio · fadiga, ao perigo, ·s mulheres e · morte.
+Era evidentemente um forte. E como a forÁa È o maior de todos os
+attractivos humanos, ninguem conciliou como elle em torno de si t„o
+contradictorias sympathias e t„o heterogeneas affeiÁıes: foi o amigo do
 Papa e de Garibaldi, de Bismark e de Gambetta.
 
 Feliz homem!
 
        *       *       *       *       *
 
-A morte de Jos√© de Alencar, o auctor do _Guarany_ e de _Luciola_,
-representa uma das maiores perdas para a litteratura brazileira, t√£o
-notavel nos ultimos tempos pela coopera√ß√£o dos seus poetas e dos seus
+A morte de JosÈ de Alencar, o auctor do _Guarany_ e de _Luciola_,
+representa uma das maiores perdas para a litteratura brazileira, t„o
+notavel nos ultimos tempos pela cooperaÁ„o dos seus poetas e dos seus
 pensadores.
 
-Na sociedade do Brazil, que o principio da escravid√£o desviou por tantos
+Na sociedade do Brazil, que o principio da escravid„o desviou por tantos
 annos tenebrosos do seu destino e do seu desenvolvimento natural, a
-organisa√ß√£o moderna do trabalho livre √© ao mesmo tempo a crea√ß√£o de um
+organisaÁ„o moderna do trabalho livre È ao mesmo tempo a creaÁ„o de um
 novo elemento social--o povo.
 
-Jos√© de Alencar, romancista, poeta, jornalista, tribuno, influenciando
+JosÈ de Alencar, romancista, poeta, jornalista, tribuno, influenciando
 poderosamente o seu tempo pela penna e pela palavra, era a imagem
 synthetica d'esse poder que se chama a Plebe, que procede da lama, e
 decide da sorte dos imperios.
 
-Elle, que alcan√ß√°ra um dos mais luminosos logares entre os homens mais
+Elle, que alcanÁ·ra um dos mais luminosos logares entre os homens mais
 celebres e mais prestigiosos do seu tempo, sahira do esgoto da cidade,
 procedera da roda dos expostos.
 
-Esse engeitado era a personalisa√ß√£o mais gloriosa da soberania do
+Esse engeitado era a personalisaÁ„o mais gloriosa da soberania do
 trabalho, affirmando elle mesmo o seu direito, desembainhando no throno
-da arte a sua larga espada de justi√ßa, vestindo a tunica e a dalmatica
-azul, cal√ßando as esporas de ouro nos coturnos hordados de lizes, e
-fazendo-se ungir e sagrar pelas multid√µes como os antigos eleitos do
+da arte a sua larga espada de justiÁa, vestindo a tunica e a dalmatica
+azul, calÁando as esporas de ouro nos coturnos hordados de lizes, e
+fazendo-se ungir e sagrar pelas multidıes como os antigos eleitos do
 senhor. E era a elle, como a todo o artista victorioso e triumphante,
-que se deveria dizer como Samuel ao rei Saul: ¬´Deus te elegeu para
-reinar sobre a sua heran√ßa e para livrar os povos das m√£os dos seus
-inimigos.¬ª
+que se deveria dizer como Samuel ao rei Saul: ´Deus te elegeu para
+reinar sobre a sua heranÁa e para livrar os povos das m„os dos seus
+inimigos.ª
 
        *       *       *       *       *
 
 Augusto Soromenho foi o mais infeliz dos trabalhadores. A doce
-consola√ß√£o de cumprir um destino, consola√ß√£o compensadora de tantas
-amarguras e de tantos sacrificios, n√£o foi concedida na terra √°quella
-natureza essencialmente desgra√ßada.
+consolaÁ„o de cumprir um destino, consolaÁ„o compensadora de tantas
+amarguras e de tantos sacrificios, n„o foi concedida na terra ·quella
+natureza essencialmente desgraÁada.
 
-Tinha um incomparavel poder de applica√ß√£o e de estudo e ninguem possuia
-em Portugal uma provis√£o mais copiosa de no√ß√µes e do factos. Foi o
-collaborador do Alexandre Herculano nas investiga√ß√µes da historia
+Tinha um incomparavel poder de applicaÁ„o e de estudo e ninguem possuia
+em Portugal uma provis„o mais copiosa de noÁıes e do factos. Foi o
+collaborador do Alexandre Herculano nas investigaÁıes da historia
 nacional, foi o seu melhor discipulo e o seu unico successor. Ninguem
 melhor do que elle conhecia as fontes e as correntes historicas dos
-nossos costumes e das nossas tradi√ß√µes. Era archeologo, diplomatico,
-jurista, bibliographo. N√£o havia inscrip√ß√£o truncada na epigraphia nem
+nossos costumes e das nossas tradiÁıes. Era archeologo, diplomatico,
+jurista, bibliographo. N„o havia inscripÁ„o truncada na epigraphia nem
 texto ambiguo nos codices que resistisse aos processos da sua sagacidade
-portentosa. A sua memoria phenomenal dava-lhe a omnipresen√ßa de quanto
+portentosa. A sua memoria phenomenal dava-lhe a omnipresenÁa de quanto
 tinha lido no recolhimento de vinte annos de estudo fervoroso e
-incessante. Era um tomo de erudi√ß√£o vastissima, assombrosa, que ninguem
+incessante. Era um tomo de erudiÁ„o vastissima, assombrosa, que ninguem
 consultava de balde em qualquer ponto da historia dos costumes; do
 direito, da politica, do governo, da economia, da arte, da litteratura e
 da lingua.
 
-Faltava-lhe por√©m no seu vasto e poderoso cerebro a faculdade da
-generalisa√ß√£o. N√£o sabia tirar dos factos as leis de que elles s√£o a
-func√ß√£o. N√£o sabia correlacionar. N√£o tinha o poder creador. Por esse
-motivo a isola√ß√£o suffocava a efficiencia da sua actividade. Era um
-instrumento, cujo machinismo precioso parava sem a impuls√£o de energias
+Faltava-lhe porÈm no seu vasto e poderoso cerebro a faculdade da
+generalisaÁ„o. N„o sabia tirar dos factos as leis de que elles s„o a
+funcÁ„o. N„o sabia correlacionar. N„o tinha o poder creador. Por esse
+motivo a isolaÁ„o suffocava a efficiencia da sua actividade. Era um
+instrumento, cujo machinismo precioso parava sem a impuls„o de energias
 concomitantes e confluentes. Mas a sociabilidade litteraria a que elle
-estava condemnado a submetter-se para ser uma for√ßa na civilisa√ß√£o,
+estava condemnado a submetter-se para ser uma forÁa na civilisaÁ„o,
 repugnava ao seu temperamento de uma susceptibilidade intransigente
-aggravada por uma falsa educa√ß√£o.
+aggravada por uma falsa educaÁ„o.
 
-Essa capacidade t√£o prodigiosa de contens√£o, de investiga√ß√£o, de exame,
-de absorp√ß√£o de id√©as, estava na sua natureza alliada a um temperamento
+Essa capacidade t„o prodigiosa de contens„o, de investigaÁ„o, de exame,
+de absorpÁ„o de idÈas, estava na sua natureza alliada a um temperamento
 caprichoso e feminil. Extremamente lymphatico, tendo sido epileptico na
-infancia, n√£o poderia fatalmente deixar de ser o que era: um
+infancia, n„o poderia fatalmente deixar de ser o que era: um
 sentimentalista. A sentimentalidade foi o cachopo de todas os naufragios
 da sua inquieta o attribulada existencia.
 
-A indifferen√ßa perante o conflicto √© uma nobre virtude. Raros a possuem.
-O que succede com as naturezas vulgares √© que a nossa resolu√ß√£o b√¥a,
-conscientemente reflectida, refor√ßada na mais legitima compenetra√ß√£o do
+A indifferenÁa perante o conflicto È uma nobre virtude. Raros a possuem.
+O que succede com as naturezas vulgares È que a nossa resoluÁ„o bÙa,
+conscientemente reflectida, reforÁada na mais legitima compenetraÁ„o do
 dever, da dignidade, da honra, desmaia na conjunctura do conflicto que
-vae provocar entre amigos, entre companheiros, entre camaradas, e n√≥s
-precisamos de reagir sobre n√≥s mesmos com toda a for√ßa da nossa coragem
-para nos determinarmos a effectuar pela nossa iniciativa a explos√£o da
+vae provocar entre amigos, entre companheiros, entre camaradas, e nÛs
+precisamos de reagir sobre nÛs mesmos com toda a forÁa da nossa coragem
+para nos determinarmos a effectuar pela nossa iniciativa a explos„o da
 crise irreconciliavel que presentimos latente, palpitante, dependente da
 palavra decisiva que por um dever de consciencia profundo e sagrado
-vamos lan√ßar ao cora√ß√£o d'aquelles que nos rodeiam. Pois bem: essa
-virtude, t√£o rara, t√£o viril, de desmanchar implacavelmente prazeres
+vamos lanÁar ao coraÁ„o d'aquelles que nos rodeiam. Pois bem: essa
+virtude, t„o rara, t„o viril, de desmanchar implacavelmente prazeres
 para implantar controversias, essa virtude, dizemos, possuia-a Soromenho
-no estado de uma exagera√ß√£o pathologica. O conflicto na convivencia
-social n√£o somente lhe n√£o repugnava mas attrahia-o--como succede √°s
+no estado de uma exageraÁ„o pathologica. O conflicto na convivencia
+social n„o somente lhe n„o repugnava mas attrahia-o--como succede ·s
 mulheres nervosas.
 
-Consideravam-o geralmente uma vibora. Elle era apenas uma crean√ßa. As
+Consideravam-o geralmente uma vibora. Elle era apenas uma creanÁa. As
 suas violencias mais asperas procediam todas logicamente da sua
 sensibilidade doentiamente delicada. Ninguem teve a injuria mais pronta
-pela mesma ras√£o de que ninguem teve egualmente a compaix√£o mais facil.
+pela mesma ras„o de que ninguem teve egualmente a compaix„o mais facil.
 Ninguem proferiu improperios mais pungentes, mas tambem ninguem chorou
 lagrimas mais enternecidas. Os que o viram aggressivo e verberante nas
-sess√µes da Academia, nos conselhos do Lyceu Nacional e do Curso Superior
-de Lettras n√£o conheceram sen√£o metade d'essa physionomia t√£o
-caracteristicamente meridional nos tra√ßos moraes como nas f√≥rmas
+sessıes da Academia, nos conselhos do Lyceu Nacional e do Curso Superior
+de Lettras n„o conheceram sen„o metade d'essa physionomia t„o
+caracteristicamente meridional nos traÁos moraes como nas fÛrmas
 physicas.
 
 Era preciso ouvil-o na intimidade da sua bibliotheca, no terceiro andar
@@ -346,507 +346,507 @@ obscuro e modesto, conhecido de toda a mocidade estudiosa, terceiro
 andar a que tantas vezes subiram para fumar o cigarro democratico da
 camaradagem litteraria Lord Talbot, Lord Stanley, Gayangos, o conde de
 Brandebourg e tantos outros extrangeiros e viajantes illustres, para os
-quaes aquella humilde casa de litterato, t√£o hospitaleira e t√£o pobre,
-tinha altractivos que n√£o podiam propornionar √°s exigencias dos
-philosphos e dos principes, os mais brilhantes sal√µes de Lisboa. Era
+quaes aquella humilde casa de litterato, t„o hospitaleira e t„o pobre,
+tinha altractivos que n„o podiam propornionar ·s exigencias dos
+philosphos e dos principes, os mais brilhantes salıes de Lisboa. Era
 preciso onvil-o ahi dissipar em bonhomia e em sensibilidade todo o
-nervosismo do seu cora√ß√£o com a mesma prodigalidade cem que nas
-assembl√©as officiaes acabara de dispender as violencias do seu cerebro
+nervosismo do seu coraÁ„o com a mesma prodigalidade cem que nas
+assemblÈas officiaes acabara de dispender as violencias do seu cerebro
 imperfeitamente orientado.
 
-Quando alludia √° sua encantadora aldeia natal nas margens do Ave, perto
+Quando alludia · sua encantadora aldeia natal nas margens do Ave, perto
 da Villa do Conde, as doces paizagens do Minho onde elle viajara
-alegremente a p√© nos dias azues da sua mocidade; quando repetia o
+alegremente a pÈ nos dias azues da sua mocidade; quando repetia o
 estribilho de uma saudosa cantiga, os versos melancolicos de uma lenda
 ou de um romance popular; quando narrava a volta de uma _esfolhada_
 nocturna, sob o luar, ouvindo o gotejar da agua no fundo da deveza o
 canto dos rouxinoes atravez da espessura negra dos pomares; quando
-descrevia as madrogradas da ca√ßa √°s perdizes no monte de S. Felix, ou as
+descrevia as madrogradas da caÁa ·s perdizes no monte de S. Felix, ou as
 outras madrugadas mais alegres ainda das romarias minhotas, em que os
-clarinetes amanhecem antes dos melros, fazendo dan√ßar pelos caminhos as
+clarinetes amanhecem antes dos melros, fazendo danÁar pelos caminhos as
 bellas raparigas louras; quando finalmente se referia aos companheiros,
 aos amigos, que deixara dispersos na vida, os seus olhos de arabe,
 negros, rasgados, contemplativos, marejavam-se-lhe de lagrimas, e a sua
 voz cheia, incisiva e dominante, que nunca tremia nem se velava no
-maximo arrebatamento da colera, embargava-se-lhe em solu√ßos,
+maximo arrebatamento da colera, embargava-se-lhe em soluÁos,
 estrangulada pela saudade ao recordar um companheiro da infancia, um bom
-sitio amado, uma velha can√ß√£o querida.
+sitio amado, uma velha canÁ„o querida.
 
 Banido da Academia, banido da Torre do Tombo, os dois unicos campos em
 que se podia exercer com proveito e com honra da patria a actividade da
 sua intelligencia, Augusto Soromenho foi enterrado vivo, e vivo foi
 sepultado n'este medonho tumulo--o despreso.
 
-Nos seus ultimos tempos trabalhava ainda. Trabalhou at√© o seu ultimo
-dia. Ha cerca de um anno padecia uma d√¥r sternalgica, symptomatica do
-aneurisma. Esta d√¥r lancinante, que o privava do movimento, for√ßando-o a
+Nos seus ultimos tempos trabalhava ainda. Trabalhou atÈ o seu ultimo
+dia. Ha cerca de um anno padecia uma dÙr sternalgica, symptomatica do
+aneurisma. Esta dÙr lancinante, que o privava do movimento, forÁando-o a
 parar de repente na rua, obrigou-o a interromper antes d'hontem de
 madrugada a leitura que estava fazendo desde a meia noite na sua
-biblioteca. Acudiu-lhe a sua familia, chamou-se √° pressa um medico.
+biblioteca. Acudiu-lhe a sua familia, chamou-se · pressa um medico.
 Inutilmente. Elle estava morto.
 
 Seria mais que omisso, seria infame, que, tendo conhecido Augusto
 Soromenho desde a sua infancia, o que escreve estas linhas deixasse de
-acrescentar que a reputa√ß√£o t√£o frequentemente discutida d'esse
+acrescentar que a reputaÁ„o t„o frequentemente discutida d'esse
 traballhador desventurado foi sempre pura e immaculada aos olhos de quem
 o tratara intimamente durante o longo decurso de perto de trinta annos.
 O que faz este depoimento deseja para honra da humanidade que os Curcios
-e os Plutarcos encarregados de celebrar a vida e feitos dos Scipi√µes
-illustres e dos Cat√µes celebres achem sempre nos seus heroes tantas
+e os Plutarcos encarregados de celebrar a vida e feitos dos Scipiıes
+illustres e dos Catıes celebres achem sempre nos seus heroes tantas
 qualidades desinteressadas e nobres para serem cobertas de rhetorica,
 quantas aquellas que em Augusto Soromenho foram deturpadas pela
 maledicencia.
 
        *       *       *       *       *
 
-Com esle titulo--_Ao sr. Ramalho Ortig√£o_--publicou o _Diario da Manh√£_
+Com esle titulo--_Ao sr. Ramalho Ortig„o_--publicou o _Diario da Manh„_
 o folhetim seguinte:
 
-_Os exames no Lyceu Nacional--Os fins da educa√ß√£o--Um programma de
-ensino para o sexo feminino--Como se prepara a emancipa√ß√£o das
+_Os exames no Lyceu Nacional--Os fins da educaÁ„o--Um programma de
+ensino para o sexo feminino--Como se prepara a emancipaÁ„o das
 mulheres--Duas catastrophes: o estado da litteratura feminina, e o
 estado da cosinha nacional--Grito afflictivo do paiz: menos odes e mais
 caldo_.
 
-Termina assim o summario do ultimo numero das _Farpas_. Qual de n√≥s
-deixaria de ler com a maxima atten√ß√£o um artigo escripto pelo sr.
+Termina assim o summario do ultimo numero das _Farpas_. Qual de nÛs
+deixaria de ler com a maxima attenÁ„o um artigo escripto pelo sr.
 Ramalho, sobre assumptos de tanto interesse para o nosso sexo? nenhuma
-de certo. E para que se n√£o diga com verdade que o grito afflictivo do
-paiz, do qual o sr. Ramalho se faz org√£o, pedindo-nos caldo, n√£o foi
-ouvido por uma s√≥ mulher portugueza, que, condoida, o soccorresse, venho
-por mim e em nome das senhoras portuenses, dar-lhe n√£o s√≥ _caldo_, mas
-tambem _luz_, que o alumie nas suas investiga√ß√µes √°cerca d'um assumpto,
-que √© realmente grave--a dyspepsia nacional, que s. ex.¬™ attribue √°
-nossa ignorancia culinaria, fazendo assim pesar sobre n√≥s, t√£o tremenda
+de certo. E para que se n„o diga com verdade que o grito afflictivo do
+paiz, do qual o sr. Ramalho se faz org„o, pedindo-nos caldo, n„o foi
+ouvido por uma sÛ mulher portugueza, que, condoida, o soccorresse, venho
+por mim e em nome das senhoras portuenses, dar-lhe n„o sÛ _caldo_, mas
+tambem _luz_, que o alumie nas suas investigaÁıes ·cerca d'um assumpto,
+que È realmente grave--a dyspepsia nacional, que s. ex.™ attribue ·
+nossa ignorancia culinaria, fazendo assim pesar sobre nÛs, t„o tremenda
 responsabilidade.
 
-Se o assumpto de que se trata, n√£o fosse realmente grave,
-contentar-nos-hiamos com o praser que nos d√° sempre a leitura dos
+Se o assumpto de que se trata, n„o fosse realmente grave,
+contentar-nos-hiamos com o praser que nos d· sempre a leitura dos
 escriptos do sr. Ramalho, pela elegancia do seu estylo, e finura do seu
-espirito, e apenas diriamos, na nossa linguagem de cozinheiros: √â pena
-que os escriptos do sr. Ramalho n√£o sejam mais succulentos! s√£o como os
+espirito, e apenas diriamos, na nossa linguagem de cozinheiros: … pena
+que os escriptos do sr. Ramalho n„o sejam mais succulentos! s„o como os
 caldos feitos pelos cosinheiros francezes, de apparencia magnifica,
-depurados at√© √° transparencia, muito aromatisados ... mas sem
+depurados atÈ · transparencia, muito aromatisados ... mas sem
 substancia.
 
 Quer-nos porem parecer, apesar da ironia com que o sr. Ramalho falla
-sempre de n√≥s, que n√£o tem ras√£o para nos querer mal; e que como filho,
-esposo e irm√£o de senhoras portuguezas, e por isso quasi nosso irm√£o,
+sempre de nÛs, que n„o tem ras„o para nos querer mal; e que como filho,
+esposo e irm„o de senhoras portuguezas, e por isso quasi nosso irm„o,
 deseja com certeza a nossa felicidade e se promptificaria da melhor
-vontade a fazer-nos um favor se lh'o pedissemos. Ou√ßa-me pois.
+vontade a fazer-nos um favor se lh'o pedissemos. OuÁa-me pois.
 
-N√£o ensine √° sr.¬™ D. Jeronyma, nem a mulher nenhuma portugueza, como se
-faz esse alambicado caldo francez, t√£o purificado, que por fim como o
-proprio sr. Ramalho confessa, deixa de ser um alimento. Se tem amor √°
+N„o ensine · sr.™ D. Jeronyma, nem a mulher nenhuma portugueza, como se
+faz esse alambicado caldo francez, t„o purificado, que por fim como o
+proprio sr. Ramalho confessa, deixa de ser um alimento. Se tem amor ·
 sua patria, anime-nos, e aconselhe-nos a que continuemos a fazer os
 classicos caldos portuguezes, succulentos e compactos como os faziam
-nossas av√≥s, e como n√≥s todas ainda hoje sabemos fazer. Se o principal
-agente do temperamento d'um povo, do seu caracter e da forma√ß√£o das suas
-id√©as, √©, como s. ex.¬™ diz a sua alimenta√ß√£o, n√£o esque√ßamos que foi
-comendo esses caldos e quasi s√≥ com elles, que os energicos e valentes
+nossas avÛs, e como nÛs todas ainda hoje sabemos fazer. Se o principal
+agente do temperamento d'um povo, do seu caracter e da formaÁ„o das suas
+idÈas, È, como s. ex.™ diz a sua alimentaÁ„o, n„o esqueÁamos que foi
+comendo esses caldos e quasi sÛ com elles, que os energicos e valentes
 portuguezes contiveram sempre em respeito o poder de Castella, e que na
-Africa, e na Asia praticaram ac√ß√µes de t√£o prodigioso valor. E descendo
-√° historia dos nossos dias, lembre-se que os vultos grandiosos dos
-lidadores da epop√©a da liberdade, apesar de alimentados pelo caldo
-nacional e ent√£o infelizmente bem magro, mostraram em cem combates a sua
+Africa, e na Asia praticaram acÁıes de t„o prodigioso valor. E descendo
+· historia dos nossos dias, lembre-se que os vultos grandiosos dos
+lidadores da epopÈa da liberdade, apesar de alimentados pelo caldo
+nacional e ent„o infelizmente bem magro, mostraram em cem combates a sua
 heroica energia, e sua valorosa audacia, sem que o estomago se
-incommodasse com a dyspepsia nacional. √â s√≥ com caldo, e com br√¥a que
+incommodasse com a dyspepsia nacional. … sÛ com caldo, e com brÙa que
 todos os dias se alimentam aqui centenares de homens do povo, que
-supportam, sem cansa√ßo, nem fadiga, durante dez ou doze horas por dia,
-os mais rudes trabalhos; e comtudo n√£o soffrem de dyspepsia. Ser√° por
-terem _mulheres muito instruidas_, ou porque o _caldo que comem √©
+supportam, sem cansaÁo, nem fadiga, durante dez ou doze horas por dia,
+os mais rudes trabalhos; e comtudo n„o soffrem de dyspepsia. Ser· por
+terem _mulheres muito instruidas_, ou porque o _caldo que comem È
 preparado por cosinheiros de 5:000 francos_? deve ser por uma d'estas
-ras√µes, visto que √© o sr. Ramalho quem nol-o affirma.
+rasıes, visto que È o sr. Ramalho quem nol-o affirma.
 
-A dyspepsia n√£o √© em Portugal uma doen√ßa nacional, √© quasi privativa dos
-homens das classes elevadas--e quer que lhe dig√°mos porque? Porque elles
-teem com raras excep√ß√µes, uma mocidade dissipada; porque na idade dos
-quinze aos vinte annos, quando os rapazes inglezes e allem√£es fazem
+A dyspepsia n„o È em Portugal uma doenÁa nacional, È quasi privativa dos
+homens das classes elevadas--e quer que lhe dig·mos porque? Porque elles
+teem com raras excepÁıes, uma mocidade dissipada; porque na idade dos
+quinze aos vinte annos, quando os rapazes inglezes e allem„es fazem
 consistir o seu maior prazer em se exercitarem nos jogos athleticos, e
 todo o seu orgulho em serem vencedores n'uma corrida ou n'uma regata, os
-portuguezes v√£o descan√ßar das lides do estudo nos bancos dos botequins e
-das tavernas, onde √© considerado heroe aquelle que come e bebe mais
+portuguezes v„o descanÁar das lides do estudo nos bancos dos botequins e
+das tavernas, onde È considerado heroe aquelle que come e bebe mais
 brutalmente, e como deus o que engole successivamente vinte e um calices
 de licor ou cognac, o que na pittoresca phraseologia d'esses senhores se
-chama dar uma salva real! Desculpa-os por√©m o axioma do nosso codigo de
-educa√ß√£o: que √© preciso dar muita cabe√ßada para vir a ser homem serio.
+chama dar uma salva real! Desculpa-os porÈm o axioma do nosso codigo de
+educaÁ„o: que È preciso dar muita cabeÁada para vir a ser homem serio.
 
-Conhece o sr. Ramalho, bem melhor do que n√≥s, todos os perigos porque
-passam os rapazes desde que se emancipam da tutella materna, at√© que
+Conhece o sr. Ramalho, bem melhor do que nÛs, todos os perigos porque
+passam os rapazes desde que se emancipam da tutella materna, atÈ que
 chegam a ser homens. Estude o meio de os livrar d'esses perigos, e de
-lhes regenerar os costumes, e ver√° que, quando chegarem a ser chefes de
-familia, seu natural destino, n√£o precisar√£o de encontrar na esposa o
-bra√ßo forte que lhes seja amparo, e ter√£o o estomago s√£o como em
-crian√ßas, podendo digerir perfeitamente um caldo, mesmo quando elle n√£o
-seja perfeitamente transparente, e at√© quando tenha seus vestigios de
-gordura. Fa√ßa isto que lhe pedimos, e todas n√≥s bemdiremos o seu nome,
-pois d'este modo ter√° prestado um importantissimo servi√ßo ao seu paiz.
+lhes regenerar os costumes, e ver· que, quando chegarem a ser chefes de
+familia, seu natural destino, n„o precisar„o de encontrar na esposa o
+braÁo forte que lhes seja amparo, e ter„o o estomago s„o como em
+crianÁas, podendo digerir perfeitamente um caldo, mesmo quando elle n„o
+seja perfeitamente transparente, e atÈ quando tenha seus vestigios de
+gordura. FaÁa isto que lhe pedimos, e todas nÛs bemdiremos o seu nome,
+pois d'este modo ter· prestado um importantissimo serviÁo ao seu paiz.
 
-O seu programma para a educa√ß√£o das mulheres parece-nos excellente para
-a Fran√ßa, Inglaterra e outros paizes onde as meninas s√£o educadas nos
-collegios, longe da familia; mas aqui onde em geral as crean√ßas que os
-frequentam comem e dormem em casa, essa educa√ß√£o que nos habilita a ser
-boas _m√©nag√©res_, j√° que o sr. Ramalho gosta de francezismos,
-recebemol-a n√≥s todas com o exemplo e li√ß√£o de nossas m√£es.
+O seu programma para a educaÁ„o das mulheres parece-nos excellente para
+a FranÁa, Inglaterra e outros paizes onde as meninas s„o educadas nos
+collegios, longe da familia; mas aqui onde em geral as creanÁas que os
+frequentam comem e dormem em casa, essa educaÁ„o que nos habilita a ser
+boas _mÈnagÈres_, j· que o sr. Ramalho gosta de francezismos,
+recebemol-a nÛs todas com o exemplo e liÁ„o de nossas m„es.
 
-Em Portugal onde todo o servi√ßo domestico √© geralmente feito em casa,
-todas n√≥s sabemos como se lava, como se engomma, como se cozinha, como
-se faz doce, como se talha um vestido, etc. Mesmo as senhoras que n√£o
-fazem esses servi√ßos sabem como elles s√£o feitos, pois desde crian√ßas os
-viram fazer. O que n√£o sabemos, l√° isso n√£o, √© _differen√ßar os
+Em Portugal onde todo o serviÁo domestico È geralmente feito em casa,
+todas nÛs sabemos como se lava, como se engomma, como se cozinha, como
+se faz doce, como se talha um vestido, etc. Mesmo as senhoras que n„o
+fazem esses serviÁos sabem como elles s„o feitos, pois desde crianÁas os
+viram fazer. O que n„o sabemos, l· isso n„o, È _differenÁar os
 differentes generos de mobilia e o seu estylo caracteristico nas epocas
 mais notaveis da arte ornamental_, etc. etc.; mas em quanto
-considerarmos, como at√© agora, a vontade, e o gosto do dono da casa, a
+considerarmos, como atÈ agora, a vontade, e o gosto do dono da casa, a
 suprema lei que nos rege na escolha de todos esses artigos em que nos
 falla, deixaremos esses conhecimentos aos cuidados dos nossos maridos.
 
-Em quanto √° nossa educa√ß√£o moral, estamos convencidas que em paiz nenhum
-as mulheres s√£o mais honestas, mais laboriosas, mais dedicadas, mais
-sobrias e economicas, mais submissas √° vontade do marido que n√≥s, e toda
-a eloquencia do sr. Ramalho n√£o √© capaz de abalar sequer a nossa
-convic√ß√£o.
+Em quanto · nossa educaÁ„o moral, estamos convencidas que em paiz nenhum
+as mulheres s„o mais honestas, mais laboriosas, mais dedicadas, mais
+sobrias e economicas, mais submissas · vontade do marido que nÛs, e toda
+a eloquencia do sr. Ramalho n„o È capaz de abalar sequer a nossa
+convicÁ„o.
 
-Em Fran√ßa e em Inglaterra ha muitas mulheres--por
-profiss√£o--enfermeiras, aqui n√£o as ha sen√£o nos hospitaes, e nem se
+Em FranÁa e em Inglaterra ha muitas mulheres--por
+profiss„o--enfermeiras, aqui n„o as ha sen„o nos hospitaes, e nem se
 lhes sente a falta, porque em toda a casa onde ha uma mulher, quer ella
-seja m√£e, esposa, filha, irm√£, ou mesmo criada, ha uma enfermeira
+seja m„e, esposa, filha, irm„, ou mesmo criada, ha uma enfermeira
 sollicita, carinhosa e dedicada, cuja coragem nem sequer vacilla ante os
 horrores do contagio, que tantas vezes aniquilla o animo de homens
 energicos e audaciosos.
 
-Para sabermos fazer prodigios de economia n√£o precisamos de nos alistar
-n'uma escola ingleza, e, se o n√£o soubessemos, a primeira mulher do povo
-que interrogassemos n'ol-o ensinaria. Tambem em Portugal se p√≥de
-sustentar uma familia com 18$000 r√©is por semana, mas n'essa familia--o
-chefe, que trabalha do nascer ao p√¥r do sol, sustenta-se comendo tres
-tigellas de caldo que lhe custam 10 r√©is cada uma, 20 r√©is de sardinhas,
-e 10 r√©is de br√¥a por dia: total 90 r√©is.
+Para sabermos fazer prodigios de economia n„o precisamos de nos alistar
+n'uma escola ingleza, e, se o n„o soubessemos, a primeira mulher do povo
+que interrogassemos n'ol-o ensinaria. Tambem em Portugal se pÛde
+sustentar uma familia com 18$000 rÈis por semana, mas n'essa familia--o
+chefe, que trabalha do nascer ao pÙr do sol, sustenta-se comendo tres
+tigellas de caldo que lhe custam 10 rÈis cada uma, 20 rÈis de sardinhas,
+e 10 rÈis de brÙa por dia: total 90 rÈis.
 
-Conven√ßa os homens, com a sua deslumbrante eloquencia, de que este
-alimento √© muito sufficiente para lhes conservar robustas as for√ßas
-vitaes, e ver√° como n√≥s todas fazemos economias prodigiosas, e como uma
-casa deixar√° de ser uma _l√¥ba_ para se transformar n'uma _burra_.
+ConvenÁa os homens, com a sua deslumbrante eloquencia, de que este
+alimento È muito sufficiente para lhes conservar robustas as forÁas
+vitaes, e ver· como nÛs todas fazemos economias prodigiosas, e como uma
+casa deixar· de ser uma _lÙba_ para se transformar n'uma _burra_.
 
-Mas se considera como o ideal da perfei√ß√£o na mulher, ser ella o _bra√ßo
+Mas se considera como o ideal da perfeiÁ„o na mulher, ser ella o _braÁo
 forte e escudo da familia_, tambem lhe podemos aqui apontar numerosos
 exemplos d'essas. As mulheres de Avintes passam os dias remando e
-guiando barcos no nosso Douro para ganhar o p√£o dos filhos, em quanto os
-maridos ficam em casa cosinhando: j√° v√™ que para qualquer de n√≥s
+guiando barcos no nosso Douro para ganhar o p„o dos filhos, em quanto os
+maridos ficam em casa cosinhando: j· vÍ que para qualquer de nÛs
 realizar o seu ideal basta casar em Avintes.
 
-A educa√ß√£o intellectual das mulheres, quando ellas se n√£o dediquem a ser
-mestras, p√≥de, e at√© deve, assim como a moral, receber, como complemento
-necessario, as li√ßoes dos homens de quem forem esposas. Assim
-reconhecendo no marido superioridade em tudo, at√© mesmo nos
+A educaÁ„o intellectual das mulheres, quando ellas se n„o dediquem a ser
+mestras, pÛde, e atÈ deve, assim como a moral, receber, como complemento
+necessario, as liÁoes dos homens de quem forem esposas. Assim
+reconhecendo no marido superioridade em tudo, atÈ mesmo nos
 conhecimentos litterarios, ser-lhes-ha mais facil ter por ele esse
-respeito que a religi√£o e a sociedade nos imp√µem como o primeiro dever
+respeito que a religi„o e a sociedade nos impıem como o primeiro dever
 da esposa.
 
-Em quanto √° emancipa√ß√£o das mulheres, esse sonho dourado das senhoras
-inglezas--n√≥s, menos profundas pensadoras, n√£o o queremos.
+Em quanto · emancipaÁ„o das mulheres, esse sonho dourado das senhoras
+inglezas--nÛs, menos profundas pensadoras, n„o o queremos.
 
 Entendemos que a naturesa, que nos obriga a soffrer cruciantes dores
-physicas para attingirmos o apogeo da nossa gloria--o ser m√£e, nos
-ensina a todas, que a nossa miss√£o na terra, √© saber soffrer e amar, por
+physicas para attingirmos o apogeo da nossa gloria--o ser m„e, nos
+ensina a todas, que a nossa miss„o na terra, È saber soffrer e amar, por
 isso beijamos com os olhos rasos de lagrimas de alegria o filho que
-acaba de nos fazer soffrer as d√¥res da maternidade, e aben√ßoamos
-reconhecidas a m√£o que prende as nossas algemas de escravas, quando essa
-m√£o √© a de um homem, em quem passados os enthusiasmos da paix√£o,
+acaba de nos fazer soffrer as dÙres da maternidade, e abenÁoamos
+reconhecidas a m„o que prende as nossas algemas de escravas, quando essa
+m„o È a de um homem, em quem passados os enthusiasmos da paix„o,
 encontramos as solidas virtudes que apreciamos e respeitamos.
 
 Regenerados os costumes dos homens, a familia portugueza, constituida
-como at√© agora, poderia ser apresentada como modelo √°s na√ß√µes mais
+como atÈ agora, poderia ser apresentada como modelo ·s naÁıes mais
 civilizadas da Europa.
 
 Filhos ambos da mesma terra, e quasi da mesma idade, considero-me sua
-irm√£ e como tal deixe-me dar-lhe um conselho. Se eu tivesse a sua
+irm„ e como tal deixe-me dar-lhe um conselho. Se eu tivesse a sua
 intelligencia, inquestionavelmente uma das mais brilhantes do paiz, essa
-sua robustez physica, a sua grande cabe√ßa na qual o chap√©o de Thiers ou
+sua robustez physica, a sua grande cabeÁa na qual o chapÈo de Thiers ou
 de Bismark assentaria perfeitamente, dedicar-me-hia a escrever livros,
-que fossem mais uteis do que agradaveis, e deixaria aos palha√ßos dos
+que fossem mais uteis do que agradaveis, e deixaria aos palhaÁos dos
 circos o trabalho de fazer rir o publico.
 
-Em paga de todos os favores, que lhe pe√ßo, prometto fazer-lhe s√≥ um, mas
+Em paga de todos os favores, que lhe peÁo, prometto fazer-lhe sÛ um, mas
 esse importantissimo.
 
-N√£o dizer a nenhuma senhora portugueza com que caldo creseu e medrou o
-sr. Ramalho, sen√£o julgal-o-hiam t√£o criminoso como quem maldiz dos
+N„o dizer a nenhuma senhora portugueza com que caldo creseu e medrou o
+sr. Ramalho, sen„o julgal-o-hiam t„o criminoso como quem maldiz dos
 seus.
 
 Sua
 
-_Irm√£ de Caridade_
+_Irm„ de Caridade_
 
        *       *       *       *       *
 
 Reproduzimos esse importante folhetim porque nos asseguram que
-effectivamente √© escripto por uma senhora. Sob este ponto de vista elle
-√© para n√≥s de um valor inestimavel. Este folhetim √© a mulher. N√£o somos
-j√° agora n√≥s que tenhamos de dar-nos ao trabalho delicado e subtil de a
-retratar. √â ella mesma que vem reproduzir-se n'estas paginas com n'um
+effectivamente È escripto por uma senhora. Sob este ponto de vista elle
+È para nÛs de um valor inestimavel. Este folhetim È a mulher. N„o somos
+j· agora nÛs que tenhamos de dar-nos ao trabalho delicado e subtil de a
+retratar. … ella mesma que vem reproduzir-se n'estas paginas com n'um
 espelho. Esta imagem directa do vivo constitue a mais preciosa
-acquisi√ß√£o da nossa galeria. N√£o somos n√≥s que a descrevemos, que a
+acquisiÁ„o da nossa galeria. N„o somos nÛs que a descrevemos, que a
 phantasiamos, deturpando-a talvez na pureza da sua linha por meio de um
-lapis suspeito de inhabilidade ou de m√° f√©. V√™em que √© ella mesma que
+lapis suspeito de inhabilidade ou de m· fÈ. VÍem que È ella mesma que
 apparece, que faz o favor de mostrar-se viva, a corpo inteiro, na sua
 prosa com atravez de um vidro. Queira approximar-se, meus senhores!
 queiram approximar-se! espreitem por este buraco e vejam-a!
 
-Ahi a teem! √â assim que ella √©. N√£o ha artificio, n√£o ha preparo, n√£o ha
+Ahi a teem! … assim que ella È. N„o ha artificio, n„o ha preparo, n„o ha
 processo nenhum de stylo para a fazer melhor ou peor do que a realidade
-mesma. Reparem bem, meus senhores, que n√£o √© Proudhon que a descreve,
-n√£o √© Coubert que a pinta, n√£o √© Offenbach que a p√µe em musica. √â ella
+mesma. Reparem bem, meus senhores, que n„o È Proudhon que a descreve,
+n„o È Coubert que a pinta, n„o È Offenbach que a pıe em musica. … ella
 mesma, ella em pessoa, que corre uma cortina e apparece.
 
-O que estaes contemplando √© a obra da direc√ß√£o mental que n√≥s mesmos
-imprimimos ao nosso tempo, √© o fructo leg√≠timo e authentico da
-philosophia, da litteratura, da arte, da corrente geral de id√©as que
-temos produzido e impulsionado: √© a nossa mulher tal como nol-a fizeram
+O que estaes contemplando È a obra da direcÁ„o mental que nÛs mesmos
+imprimimos ao nosso tempo, È o fructo legÌtimo e authentico da
+philosophia, da litteratura, da arte, da corrente geral de idÈas que
+temos produzido e impulsionado: È a nossa mulher tal como nol-a fizeram
 os contactos da nossa convivencia--a escola, o jornal, o livro.
-Rev√™de-vos na vossa obra.
+RevÍde-vos na vossa obra.
 
 Esse curioso ente representa a somma de vinte annos de poesia lyrica e
-de p√≥ de arroz, de rhetorica e de _chic_, de doce d'ovos e de cuia, de
-recita√ß√£o ao piano e de tac√µes Luiz XV, de collegio nacional e de
+de pÛ de arroz, de rhetorica e de _chic_, de doce d'ovos e de cuia, de
+recitaÁ„o ao piano e de tacıes Luiz XV, de collegio nacional e de
 _cold-cream_, de figurino e d'agua morna. Glorioso conjuncto.
 
-Vede que lucidez de raz√£o! que firmeza de criterio! que contens√£o de
+Vede que lucidez de raz„o! que firmeza de criterio! que contens„o de
 raciocinio! Como se adivinha bem no poder d'essas faculdades
-intellectuaes a circula√ß√£o facil e viva atravez da rede dos nervos
-encephalicos de um sangue opulento e forte! A mente s√£ que t√£o
+intellectuaes a circulaÁ„o facil e viva atravez da rede dos nervos
+encephalicos de um sangue opulento e forte! A mente s„ que t„o
 vigorosamente se affirma no curioso trecho litterario que acabaes de ler
 presume o organismo mais perfeito, o corpo mais denso, o musculo mais
 racionalmente exercitado por uma sabia hygiene. Pela sua forte maneira
-de pensar podeis ajuizar com seguran√ßa da sua forte maneira de viver.
-Vede e applaude! Aplaudi-a a ella pelo que aprendeu; applaudi-vos a v√≥s
+de pensar podeis ajuizar com seguranÁa da sua forte maneira de viver.
+Vede e applaude! Aplaudi-a a ella pelo que aprendeu; applaudi-vos a vÛs
 mesmo pelo que lhe ensinastes.
 
        *       *       *       *       *
 
 Esta senhora, em nome de todas as outras senhoras, das quaes ella se diz
-interprete, dirigi-se √°s _Farpas_ na pessoa do seu auctor.
+interprete, dirigi-se ·s _Farpas_ na pessoa do seu auctor.
 
-O que s√£o as _Farpas_ com rela√ß√£o √°s mulheres?
+O que s„o as _Farpas_ com relaÁ„o ·s mulheres?
 
-As _Farpas_ s√£o a publica√ß√£o periodica--unica em Portugal--que em
-artigos consecutivos desde a sua appari√ß√£o at√© hoje se tem
-constantemente consagrado por meio dos seus processos de critica √°
-reconstitui√ß√£o dos costumes e √° reorganisa√ß√£o da familia segundo o
+As _Farpas_ s„o a publicaÁ„o periodica--unica em Portugal--que em
+artigos consecutivos desde a sua appariÁ„o atÈ hoje se tem
+constantemente consagrado por meio dos seus processos de critica ·
+reconstituiÁ„o dos costumes e · reorganisaÁ„o da familia segundo o
 criterio porque se dirigem as sociedades modernas; ellas teem combatido
 violentamente o divorcio; teem despojado o adulterio da clamyde
 dramatica em que tantas vezes o envolve a poesia doentia, para o
 flagellarem pelo ridiculo na sua torpeza nua; teem honrado o casamento
-indissoluvel como sendo a mais sagrada das institui√ß√µes perante a
-dignidade humana; teem fulminado o celibato como um aleij√£o physiologico
-e social; teem dado como base √° emancipa√ß√£o da mulher a instruc√ß√£o
-pratica, t√£o defficiente, e a alta cultura do espirito, t√£o
-negligentemente descurada na antiga educa√ß√£o; teem-lhe ensinado que √©
-aprendendo desveladamente a ser util que ella descobrir√° o segredo de
+indissoluvel como sendo a mais sagrada das instituiÁıes perante a
+dignidade humana; teem fulminado o celibato como um aleij„o physiologico
+e social; teem dado como base · emancipaÁ„o da mulher a instrucÁ„o
+pratica, t„o defficiente, e a alta cultura do espirito, t„o
+negligentemente descurada na antiga educaÁ„o; teem-lhe ensinado que È
+aprendendo desveladamente a ser util que ella descobrir· o segredo de
 ser verdadeiramente e eternamente amada; teem sollicitado a sua
-collabora√ß√£o no estudo dos modernos problemas sociaes como factor
-indispensavel √° fixa√ß√£o do nosso destino; teem pedido instantemente para
-ella a funda√ß√£o de novas escolas de ensino especial e de ensino
+collaboraÁ„o no estudo dos modernos problemas sociaes como factor
+indispensavel · fixaÁ„o do nosso destino; teem pedido instantemente para
+ella a fundaÁ„o de novas escolas de ensino especial e de ensino
 superior; teem-lhe dirigido constantemente durante cinco ou seis annos
 palavras graves, affectuosas, sinceras; teem-lhe fallado, como velhas
 amigas dedicadas, dos seus interesses mais caros: das bonecas das suas
 filhas, dos jantares de seu marido, dos arranjos da sua casa, da
 cosinha, do jardim, da adega, do armario das roupas brancas, do valor
 dos alimentos, da ordem, da economia domestica, etc.; teem-lhe feito
-presente de uma infinidade de theorias, de no√ß√µes, de projectos, de
-systemas, de programmas completos, imperfeitamente concebidos--√©
-claro--mas demonstrando uma dedica√ß√£o excepcional, por isso que nenhuma
-das publica√ß√µes periodicas que precederam esta se dirigiu j√°mais √°s
-mulheres a n√£o ser para lhes consagrar romances de uma moralidade
+presente de uma infinidade de theorias, de noÁıes, de projectos, de
+systemas, de programmas completos, imperfeitamente concebidos--È
+claro--mas demonstrando uma dedicaÁ„o excepcional, por isso que nenhuma
+das publicaÁıes periodicas que precederam esta se dirigiu j·mais ·s
+mulheres a n„o ser para lhes consagrar romances de uma moralidade
 suspeita ou versos de uma honestidade duvidosa.
 
-Depois de publicados cerca de quarenta volumes da colle√ß√£o das _Farpas_
+Depois de publicados cerca de quarenta volumes da colleÁ„o das _Farpas_
 uma senhora tem finalmente alguma cousa que dizer ao auctor, e manda-lhe
-o seguinte conselho como resumo da opini√£o collectiva de todas as damas
+o seguinte conselho como resumo da opini„o collectiva de todas as damas
 portuguezas:
 
-¬´Que elle trate d'outro officio e deixe aos _palha√ßos dos circos_ o
-trabalho a que at√© aqui se tem dado de fazer rir os outros!¬ª
+´Que elle trate d'outro officio e deixe aos _palhaÁos dos circos_ o
+trabalho a que atÈ aqui se tem dado de fazer rir os outros!ª
 
-Este simples conselho √© como um relampago, nas trevas do nosso espirito.
-Elle de per si s√≥ basta para nos convencer de que a educa√ß√£o das
-senhoras portuguezas n√£o s√≥ √© igual--como a auctora modestamente
-formula--√° das primeiras mulheres extrangeiras, mas que p√≥de mesmo
+Este simples conselho È como um relampago, nas trevas do nosso espirito.
+Elle de per si sÛ basta para nos convencer de que a educaÁ„o das
+senhoras portuguezas n„o sÛ È igual--como a auctora modestamente
+formula--· das primeiras mulheres extrangeiras, mas que pÛde mesmo
 considerar-se-lhe superior. Effectivamente madame Sand, madame de
-Girardin, Lady Morgan n√£o tiveram nunca para dirigir a um escriptor
-qualquer--amigo ou adversario--uma palavra t√£o lucida, t√£o conceituosa,
-t√£o profunda e ao mesmo tempo t√£o finamente aristocratica, t√£o
+Girardin, Lady Morgan n„o tiveram nunca para dirigir a um escriptor
+qualquer--amigo ou adversario--uma palavra t„o lucida, t„o conceituosa,
+t„o profunda e ao mesmo tempo t„o finamente aristocratica, t„o
 nobremente distincta como aquella com que somos honrados pelo criterio
-da nossa illustre compatriota. Sua excellencia entende que n√£o somos
-mais que _um palha√ßo de circo_, opini√£o profundamente philosophica. √â
+da nossa illustre compatriota. Sua excellencia entende que n„o somos
+mais que _um palhaÁo de circo_, opini„o profundamente philosophica. …
 talvez isso mesmo o que todas as mulheres extrangeiras pensariam se nos
-lessem. √â natural porem que ellas tivessem achado entre as suas perolas,
+lessem. … natural porem que ellas tivessem achado entre as suas perolas,
 entre as suas rendas, por baixo das suas luvas, no fundo de algum velho
 cofre perfumado, de alguma doce gaveta esquecida, entre as mimozas
-recorda√ß√µes perdidas da sua carteira ou do seu cora√ß√£o, um pequeno meio
-qualquer de n√£o chamarem completamente palha√ßo com todas as suas cinco
-lettras e a sua respectiva cedilha, _p-a-l-h-a-√ß-o_ a um homem a quem os
+recordaÁıes perdidas da sua carteira ou do seu coraÁ„o, um pequeno meio
+qualquer de n„o chamarem completamente palhaÁo com todas as suas cinco
+lettras e a sua respectiva cedilha, _p-a-l-h-a-Á-o_ a um homem a quem os
 seus maridos lhes houvessem permittido dirigir uma carta pela imprensa.
 
 Sua excellencia a illustre escriptora portuense tem da dignidade alheia
-e da sua propria dignidade uma comprehens√£o diversa, que n√£o podemos
-deixar de attribuir com orgulho patriotico √° influencia local da rua de
+e da sua propria dignidade uma comprehens„o diversa, que n„o podemos
+deixar de attribuir com orgulho patriotico · influencia local da rua de
 Cedofeita sobre os requintes da delicadeza feminina.
 
-N√£o √© menos original nem menos profundo o modo como a nossa distincta
+N„o È menos original nem menos profundo o modo como a nossa distincta
 compatriota contesta a conveniencia de ensinar physiologia humana e
-chimica culinaria √°s men√≠nas portuguezas. Se sua excellencia tivesse
-effectivamente a instru√ß√£o que n√≥s pretendemos que se lhe deve dar; se
-sua excellencia houvesse comprehendido que a mais nobre miss√£o da mulher
-√©, como diz Michelet, a de alimentar o homem; se para nos provar que
-estava apta para cumprir no seio da sua familia essa miss√£o, sua
+chimica culinaria ·s menÌnas portuguezas. Se sua excellencia tivesse
+effectivamente a instruÁ„o que nÛs pretendemos que se lhe deve dar; se
+sua excellencia houvesse comprehendido que a mais nobre miss„o da mulher
+È, como diz Michelet, a de alimentar o homem; se para nos provar que
+estava apta para cumprir no seio da sua familia essa miss„o, sua
 excellencia nos convencesse de que conhecia a synthese chimica da
-nutri√ß√£o, a evolu√ß√£o cellular, a rela√ß√£o existente entre os phenomenos
-da nutri√ß√£o e do desenvolvimento, do movimento e da combust√£o; se nos
+nutriÁ„o, a evoluÁ„o cellular, a relaÁ„o existente entre os phenomenos
+da nutriÁ„o e do desenvolvimento, do movimento e da combust„o; se nos
 mostrasse que estava habilitada a distinguir os principios alimentares
-pelas suas classifica√ß√µes mais genericas, os que fornecem o calor e a
-for√ßa e os que ministram os alimentos reparadores; se nos revelasse que
+pelas suas classificaÁıes mais genericas, os que fornecem o calor e a
+forÁa e os que ministram os alimentos reparadores; se nos revelasse que
 sabia dirigir technicamente um jantar, ou fazer pelo menos um simples
 caldo, por lhe terem passado pelos olhos, uma vez pelo menos, alguns dos
 eminentes trabalhos consagrados a este assumpto essencialmente vital
-pelo sr. Gautier, que fez um tratado de chimica applicada √° hygiene,
+pelo sr. Gautier, que fez um tratado de chimica applicada · hygiene,
 pelos srs. Moleschott e Geoffrey Saint-Hilaire nas suas cartas sobre as
-substancias aliment√≠cias, pelo sr. Champouillon na sua _Hygiene
-alimentar_, pelo sr. Claude Bernard nas suas li√ß√µes e conferencias, pelo
-sr. Bouchardat na sua memoria sobre a alimenta√ß√£o insuficiente, pelos
+substancias alimentÌcias, pelo sr. Champouillon na sua _Hygiene
+alimentar_, pelo sr. Claude Bernard nas suas liÁıes e conferencias, pelo
+sr. Bouchardat na sua memoria sobre a alimentaÁ„o insuficiente, pelos
 srs. Liebig, Payen, Foussagrives, Gustave le Bon, Letheby, Marvaud,
 Michel Levy, Coulier, Lacassagne, Fleury, Motard, Wurtz, etc.; se sua
 excellencia possuisse finalmente--ainda que no estado da mais ligeira
-tintura--alguma das no√ß√µes em que se basea a theoria da cosinha, que √©
+tintura--alguma das noÁıes em que se basea a theoria da cosinha, que È
 um dos mais importantes factos da hygiene ou da physiologia applicada, o
-seu voto n'esse caso poderia ter discuss√£o.
+seu voto n'esse caso poderia ter discuss„o.
 
 A brilhante ausencia de ideias que sua excellencia manifesta sobre este
-assumpto d√° ao seu voto um caracter irrevogavel, que n√£o pode infundir
-nos adversarios sen√£o admira√ß√£o e respeito.
+assumpto d· ao seu voto um caracter irrevogavel, que n„o pode infundir
+nos adversarios sen„o admiraÁ„o e respeito.
 
-√â inutil que Smith por um lado e o doutor Byasson por outro se tenham
+… inutil que Smith por um lado e o doutor Byasson por outro se tenham
 dado ao trabalho de reconhecer por meio de experiencias feitas sobre o
 seu proprio organismo qual o dispendio de carbone e de azote em cada
-hora, j√° dormindo, j√° caminhando, j√° executando um trabalho mental ou
-muscular, para regular sobre este dispendio a ra√ß√£o alimentar de cada
-individuo. √â inutil que o doutor Franckland e Payen tenham feito as
+hora, j· dormindo, j· caminhando, j· executando um trabalho mental ou
+muscular, para regular sobre este dispendio a raÁ„o alimentar de cada
+individuo. … inutil que o doutor Franckland e Payen tenham feito as
 analyses mais escrupulosas para nos darem um quadro do valor nutritivo
-dos diversos alimentos e da quantidade de for√ßa e de calor desenvolvida
-pela oxyda√ß√£o d'elles. √â inutil que o doutor Chenu e o doutor Shimpton
-nos tenham mostrado pela compara√ß√£o das estat√≠sticas da salubridade nas
-campanhas da Crim√©a e da Italia o extraordinario poder da qualidade da
-alimenta√ß√£o sobre a saude e sobre a energia dos soldados. √â inutil que
-pelo estudo de iguaes estat√≠sticas com rela√ß√£o √° alimenta√ß√£o de
+dos diversos alimentos e da quantidade de forÁa e de calor desenvolvida
+pela oxydaÁ„o d'elles. … inutil que o doutor Chenu e o doutor Shimpton
+nos tenham mostrado pela comparaÁ„o das estatÌsticas da salubridade nas
+campanhas da CrimÈa e da Italia o extraordinario poder da qualidade da
+alimentaÁ„o sobre a saude e sobre a energia dos soldados. … inutil que
+pelo estudo de iguaes estatÌsticas com relaÁ„o · alimentaÁ„o de
 operarios empregados nas grandes industrias se tenha provado que da
-qualidade da alimenta√ß√£o resulta o augmento ou a diminui√ß√£o de 20 a 30
-por cento no trabalho de cada homem. √â inutil que Geoffrey Saint-Hilaire
-nos tenha dito: ¬´Quantos factos na vida das na√ß√µes attribuidos pelos
+qualidade da alimentaÁ„o resulta o augmento ou a diminuiÁ„o de 20 a 30
+por cento no trabalho de cada homem. … inutil que Geoffrey Saint-Hilaire
+nos tenha dito: ´Quantos factos na vida das naÁıes attribuidos pelos
 historiadores a diversas causas complexas e cujo segredo reside
-simplesmente na cosinha das familias!¬ª. √â inutil que toda a sciencia
+simplesmente na cosinha das familias!ª. … inutil que toda a sciencia
 tenha provado que a maioria dos crimes e dos vicios se deve attribuir em
 cada sociedade ao seu regimen alimenticio; que o uso dos alimentos
-nervinos √© uma necessidade inviolavel na rude concorrencia vital do
-nosso tempo; que √© indispensavel perante a moral e perante a justi√ßa
-melhorar a alimenta√ß√£o dos trabalhadores facilitando-lhes a acquisi√ß√£o
+nervinos È uma necessidade inviolavel na rude concorrencia vital do
+nosso tempo; que È indispensavel perante a moral e perante a justiÁa
+melhorar a alimentaÁ„o dos trabalhadores facilitando-lhes a acquisiÁ„o
 dos alimentos plasticos e reparadores geralmente insufficientes na sua
-economia. √â inutil que em todos os paizes civilisados os sabios, os
-philosophos, os estadistas procurem por todos os meios de vulgarisa√ß√£o e
-de associa√ß√£o chamar a atten√ß√£o das mulheres para o estudo e para a
-resolu√ß√£o d'esse grave problema cuja sede √© a cosinha. √â inutil tudo
+economia. … inutil que em todos os paizes civilisados os sabios, os
+philosophos, os estadistas procurem por todos os meios de vulgarisaÁ„o e
+de associaÁ„o chamar a attenÁ„o das mulheres para o estudo e para a
+resoluÁ„o d'esse grave problema cuja sede È a cosinha. … inutil tudo
 quanto se tenha allegado e quanto possa allegar-se para convencer esta
 illustre senhora portuense da vantagem que resultaria para os seus
 similhantes do facto de ella aprender a fazer caldo um pouco menos
-empyricamente do que por tel-o visto fazer √° cozinheira da sua av√≥.
+empyricamente do que por tel-o visto fazer · cozinheira da sua avÛ.
 
-Sua excellencia tem para manter a inalteravel tradi√ß√£o sobre os methodos
-de deitar a carne √° panella nas cosinhas da sua rua este argumento
-supremo: Foi com essa panella √° frente que os portuguezes contiveram em
+Sua excellencia tem para manter a inalteravel tradiÁ„o sobre os methodos
+de deitar a carne · panella nas cosinhas da sua rua este argumento
+supremo: Foi com essa panella · frente que os portuguezes contiveram em
 respeito o poder de Castella e praticaram prodigios de valor Da Asia, na
-Africa e na Epopea da Liberdade. Segundo sua excellencia foi abra√ßados √†
-travessa do cosido que nossos av√≥s descobriram a India e que os paes de
-uns de n√≥s resistiram aos paes dos outros durante o cerco do Porto. Os
-vencidos jantavam no _Bignon_ ou no _Caf√© Anglais_.
+Africa e na Epopea da Liberdade. Segundo sua excellencia foi abraÁados ‡
+travessa do cosido que nossos avÛs descobriram a India e que os paes de
+uns de nÛs resistiram aos paes dos outros durante o cerco do Porto. Os
+vencidos jantavam no _Bignon_ ou no _CafÈ Anglais_.
 
-Em presen√ßa d'essa logica de ferro submettemo-nos humilhados e
+Em presenÁa d'essa logica de ferro submettemo-nos humilhados e
 reverentes. Uma vez que as coisas se passaram como sua excellencia
 affirma, nada se nos offerece retorquir. Mantenha-se o _statu quo_ na
-perfeita educa√ß√£o da mulher portugueza. Continue sua excellencia
+perfeita educaÁ„o da mulher portugueza. Continue sua excellencia
 imaginar que sabe cosinhar, que sabe lavar a roupa, que sabe talhar um
-vestido e que sabe tambem--√≥ leg√≠timo orgulho!--_fazer doce_.--De mais a
-mais--notem--sua excellencia faz doce! N√£o! positivamente nada se nos
-offerece retorquir-lhe. Faz doce? Bem. N√£o precisa de saber mais nada.
-Ahi tem sua excellencia uma opini√£o que lhe garantir√° ¬´as solidas
+vestido e que sabe tambem--Û legÌtimo orgulho!--_fazer doce_.--De mais a
+mais--notem--sua excellencia faz doce! N„o! positivamente nada se nos
+offerece retorquir-lhe. Faz doce? Bem. N„o precisa de saber mais nada.
+Ahi tem sua excellencia uma opini„o que lhe garantir· ´as solidas
 virtudes que seu marido desenvolver no lar domestico passados os
-enthusiasmos da paix√£o¬ª:--sua excellencia gosta de assucar!
+enthusiasmos da paix„oª:--sua excellencia gosta de assucar!
 
-Quem sabe se n√£o ser√° por um effeito do atavismo sobre a gula qae os
-meninos de quinze annos de quem sua excellencia nos falla v√£o beber
+Quem sabe se n„o ser· por um effeito do atavismo sobre a gula qae os
+meninos de quinze annos de quem sua excellencia nos falla v„o beber
 licores para os botequins?
 
-As m√£es dos que amam os jogos athleticos e as proezas musculares teem
-ellas mesmas n√£o a opini√£o do assucar mas sim a do _roast-beef_ e da
-agua fria; n√£o fazem doce, fazem gymnastica, e n√£o ensinam os filhos
-unicamente a comer marmelada, a ir √° novena e a n√£o metter os p√©s nas
-po√ßas; ensinam-lhes o cricket, a nata√ß√£o e o _box_, d√£o-lhes desde a
+As m„es dos que amam os jogos athleticos e as proezas musculares teem
+ellas mesmas n„o a opini„o do assucar mas sim a do _roast-beef_ e da
+agua fria; n„o fazem doce, fazem gymnastica, e n„o ensinam os filhos
+unicamente a comer marmelada, a ir · novena e a n„o metter os pÈs nas
+poÁas; ensinam-lhes o cricket, a nataÁ„o e o _box_, d„o-lhes desde a
 idade mais tenra os habitos mais viris, e, como sabem impedir que elles
-v√£o para os botequins, n√£o costumam encarregar os criticos de lh'os ir
-l√° buscar.
+v„o para os botequins, n„o costumam encarregar os criticos de lh'os ir
+l· buscar.
 
        *       *       *       *       *
 
-Sua excellencia n√£o se recusa unicamente a aprender a fazer bom caldo
-segundo os preceitos de Liebig, que n√≥s lhe aconselhamos suppondo que
+Sua excellencia n„o se recusa unicamente a aprender a fazer bom caldo
+segundo os preceitos de Liebig, que nÛs lhe aconselhamos suppondo que
 Liebig, um dos primeiros chimicos do mundo, sempre saberia um pouco mais
-d'isso do que o Antonio das M√¥√ßas, celebre inculcador de cosinheiras,
+d'isso do que o Antonio das MÙÁas, celebre inculcador de cosinheiras,
 encarregado de ministrar as donas de casa portuenses as suas mestras da
-arte culinaria. Sua excellencia n√£o s√≥ n√£o quer fazer caldo em termos
+arte culinaria. Sua excellencia n„o sÛ n„o quer fazer caldo em termos
 para seu marido, mas nem mesmo quer escolher a mobilia, comprar os
-pratos e os copos, determinar a differen√ßa de c√¥r nos estofos do sal√£o e
+pratos e os copos, determinar a differenÁa de cÙr nos estofos do sal„o e
 da sala de jantar, tornar a casa alegre, ridente, aprasivel e digna,
-pagando assim em elegancia, em delicadeza e em bom gosto √° sociedade
-conjugal um servi√ßo igual √°quelle que recebe d'ella em prote√ß√£o, em
-trabalho e em for√ßa. Sua excellencia prefere _deixar todos esses
+pagando assim em elegancia, em delicadeza e em bom gosto · sociedade
+conjugal um serviÁo igual ·quelle que recebe d'ella em proteÁ„o, em
+trabalho e em forÁa. Sua excellencia prefere _deixar todos esses
 conhecimentos aos cuidados do dono da casa_ (!) _cuja vontade considera
 a lei suprema, na escolha de todos os artigos!_
 
-Ficariamos na mais inquietadora duvida acerca das func√ß√µes que sua
-excellencia deseja exercer no lar domestico, se ella mesma n√£o tivesse a
-bondade de nos explicar que a occupa√ß√£o para que se reserva √© a de
-_aben√ßoar agradecida a m√£o que prende as suas algemas de escrava_ (!)
+Ficariamos na mais inquietadora duvida acerca das funcÁıes que sua
+excellencia deseja exercer no lar domestico, se ella mesma n„o tivesse a
+bondade de nos explicar que a occupaÁ„o para que se reserva È a de
+_abenÁoar agradecida a m„o que prende as suas algemas de escrava_ (!)
 
-O que nos parece √© que esse mister exclusivo de sua excellencia n√£o
+O que nos parece È que esse mister exclusivo de sua excellencia n„o
 promette uma existencia bem divertida em familia ao portador das suas
 algemas!
 
 Se fossemos seu marido declaramos que nos desquitariamos se sua
-excellencia recusasse aprender pelo menos, alem de aben√ßoar os ferros, a
-jogar a bisca. O nosso temperamento n√£o nos permittiria estar a dar-lhe
-constantemente o grilh√£o a aben√ßoar; quereriamos ter a faculdade de
-poder dar-lhe tambem, de quando em quando, para variar, uma b√¥a r√¥lha.
+excellencia recusasse aprender pelo menos, alem de abenÁoar os ferros, a
+jogar a bisca. O nosso temperamento n„o nos permittiria estar a dar-lhe
+constantemente o grilh„o a abenÁoar; quereriamos ter a faculdade de
+poder dar-lhe tambem, de quando em quando, para variar, uma bÙa rÙlha.
 
        *       *       *       *       *
 
-O folhetim de sua excellencia termina com uma allus√£o pessoal √† nossa
+O folhetim de sua excellencia termina com uma allus„o pessoal ‡ nossa
 robustez physica e ao caldo que nol-a creou. Sobre este ponto pedimos
-licen√ßa para ministrar alguns breves esclarecimentos biographicos:
+licenÁa para ministrar alguns breves esclarecimentos biographicos:
 
-Eu--pois que √© bom precisar a clareza dos numeros--eu, auctor d'estas
-linhas, n√£o me creei no regimen dietetico do Chiado ou da Cal√ßada dos
-Clerigos. N√£o, minha senhora: eu creei-me no caldo d'unto e na broa dos
-homens do campo. Estou prevendo que sua excellencia tirar√° d'este facto
-a conclus√£o maliciosa de que n√£o tomei ch√° em pequeno. Que sua
-excellencia n√£o hesite um momento em tirar tal concls√£o! √â at√© favor que
+Eu--pois que È bom precisar a clareza dos numeros--eu, auctor d'estas
+linhas, n„o me creei no regimen dietetico do Chiado ou da CalÁada dos
+Clerigos. N„o, minha senhora: eu creei-me no caldo d'unto e na broa dos
+homens do campo. Estou prevendo que sua excellencia tirar· d'este facto
+a conclus„o maliciosa de que n„o tomei ch· em pequeno. Que sua
+excellencia n„o hesite um momento em tirar tal concls„o! … atÈ favor que
 me faz--para simplificar os dados do problema--o partir do principio de
-que n√£o tomei ease ch√°.
+que n„o tomei ease ch·.
 
 Agora o que tomei, foi o bom ar puro, saudavel e honesto da querida
 courella onde nasci e em que me creei. Entre os preciosos alimentos
 mineraes de que me nutria havia um principio de primeira importancia
-para o perfeito desenvolvimento do meu arcabou√ßo:--o phosphato de cal,
+para o perfeito desenvolvimento do meu arcabouÁo:--o phosphato de cal,
 que eu ingeria em grandes dozes.
 
-A nossa casa, cercada d'arvores, no meio de campos, n√£o tinha sagu√£o,
-n√£o tinha visinhas de cuia do retroz e de sapatos achichelados, n√£o
+A nossa casa, cercada d'arvores, no meio de campos, n„o tinha sagu„o,
+n„o tinha visinhas de cuia do retroz e de sapatos achichelados, n„o
 tinha pia.
 
 A vida que cercou a minha infancia era simples, rude, poderosa, como o
@@ -855,492 +855,492 @@ primeiro plumitivo sou eu. As mulheres eram ingenuas creaturas que, sem
 terem lido nunca Proudhon ou Taine, sem conhecerem nenhuma das theorias
 dos modernos moralistas tinham todavia comprehendido e assimilado por um
 instincto cheio de lucidez, os dois principaes deveres de uma mulher:
-Primeiro ser saudavel; Segundo n√£o ser conhecida. No interior da sua
+Primeiro ser saudavel; Segundo n„o ser conhecida. No interior da sua
 casa eram admiraveis exemplos de dignidade, de trabalho, d'ordem, de
 economia, de bom humor. Madrugavam como as cotovias e nunca o velho
 piano de cauda, que eu conheci ao canto da sala grande, deixou de se
-fechar de memoria d'homems √°s 10 horas da noite, o mais tardar. N√£o se
+fechar de memoria d'homems ·s 10 horas da noite, o mais tardar. N„o se
 desprezavam de cultivar, ellas mesmas, os seus canteiros de tulipas e de
 cravos, e eu seria o primeiro dos artistas portuguezes se conseguisse um
-dia condensar n'um livro toda a somma de methodo, de ordem, de execu√ß√£o
-esthetica, de picante espirito pittoresco, de risonha gra√ßa, de que era
-modelo a incomparavel cosinha da minha av√≥,--aberta ao nivel do pateo
-defronte do po√ßo, cheia das alegrias scintillantes do sol e do balsamico
+dia condensar n'um livro toda a somma de methodo, de ordem, de execuÁ„o
+esthetica, de picante espirito pittoresco, de risonha graÁa, de que era
+modelo a incomparavel cosinha da minha avÛ,--aberta ao nivel do pateo
+defronte do poÁo, cheia das alegrias scintillantes do sol e do balsamico
 perfume dos limoeiros; enfumada, com os dois escabellos de carvalho de
 cada lado da borralheira sobre o vasto lar de granito; a enorme capoeira
-onde se espanejavam os cap√µes; os tropheus ornamentaes dos instrumentos
-agricolas; as prateleiras da lou√ßa reluzente; o corti√ßo da barrela e a
-masseira do p√£o a um canto; os bambolins de paios e de presuntos do
-fumeiro suspensos do tecto; a comprida meza dos m√¥√ßos da lavoura tendo
-em cima a grande celha com a bra√ßada verde dos frescos legumes picada
+onde se espanejavam os capıes; os tropheus ornamentaes dos instrumentos
+agricolas; as prateleiras da louÁa reluzente; o cortiÁo da barrela e a
+masseira do p„o a um canto; os bambolins de paios e de presuntos do
+fumeiro suspensos do tecto; a comprida meza dos mÙÁos da lavoura tendo
+em cima a grande celha com a braÁada verde dos frescos legumes picada
 com as pintas douradas das cenouras entre as avelumeio e gordas
-efflorescencias dos broculos; e no meio d'isso a interven√ß√£o periodica
-do mendigo de estrada, de alforge ao pesco√ßo, que vinha encher a sua
+efflorescencias dos broculos; e no meio d'isso a intervenÁ„o periodica
+do mendigo de estrada, de alforge ao pescoÁo, que vinha encher a sua
 escudela de batatas ou de caldo, em quanto os pardaes mais atrevidos iam
 sem pedir esmola debicar a broa do balaio na testada do forno.
 
-Esse conjuncto exhalava uma penetrante sensa√ß√£o de tepido aconchego, de
+Esse conjuncto exhalava uma penetrante sensaÁ„o de tepido aconchego, de
 suave alegria, de inalteravel paz; inspirava sentimentos praticos e
 honestos; era o complemento e o commentario vivo das velhas historias
-contadas √° lareira; infundia o respeito da tradi√ß√£o; dava o amor da
-familia; explicava o amor √°, terra da patria pela dedica√ß√£o √°s quatro
-bra√ßas de solo cobertas por esse velho tecto.
+contadas · lareira; infundia o respeito da tradiÁ„o; dava o amor da
+familia; explicava o amor ·, terra da patria pela dedicaÁ„o ·s quatro
+braÁas de solo cobertas por esse velho tecto.
 
-A cosinha de minha av√≥ era finalmente uma profunda obra d'arte, da qual
-os mais bellos quadros da escola flamenga, t√£o penetrados como s√£o da
-poesia domestica, n√£o poderam dar-me j√°mais sen√£o uma ideia desbotada e
+A cosinha de minha avÛ era finalmente uma profunda obra d'arte, da qual
+os mais bellos quadros da escola flamenga, t„o penetrados como s„o da
+poesia domestica, n„o poderam dar-me j·mais sen„o uma ideia desbotada e
 fria. Escuso de acrescentar que toda a obra de quantas litteratas tem
-havido em Portugal n√£o pode sen√£o fazer-me sorrir comparada √° obra
-modesta de minha av√≥, que ella tirou n'um preciosa exemplar unico para a
-educa√ßao das suas filhas, para a fixa√ß√£o do respeito, da venera√ß√£o e da
+havido em Portugal n„o pode sen„o fazer-me sorrir comparada · obra
+modesta de minha avÛ, que ella tirou n'um preciosa exemplar unico para a
+educaÁao das suas filhas, para a fixaÁ„o do respeito, da veneraÁ„o e da
 saudade eterna dos seus netos.
 
-A minha robustez physica √© o mais contraproducente dos argumentos que a
+A minha robustez physica È o mais contraproducente dos argumentos que a
 minha contraditora podia adduzir em favor da sua doutrina. Diz Hahnmann
-que a fraqueza do homem principia sempre na fraqueza da m√£e. A minha
-robustez devo-a eu a descender de uma vigorosa ra√ßa de mulheres, que os
+que a fraqueza do homem principia sempre na fraqueza da m„e. A minha
+robustez devo-a eu a descender de uma vigorosa raÁa de mulheres, que os
 nobres cuidados da sua casa e da sua familia tiveram sempre ao abrigo
 das sentimentalidades enervantes e das publicidades burlescas: poucas
-vezes empallideceram nos bailes e n√£o tiveram nunca de que corar aos
+vezes empallideceram nos bailes e n„o tiveram nunca de que corar aos
 folhetins dos periodicos.
 
        *       *       *       *       *
 
-Terminando, agrade√ßo de novo os conselhos de sua excellencia a illustre
-escriptora minha patricia, mas pe√ßo licen√ßa para os n√£o seguir.
-Continuarei a fazer rir os outros, o que me n√£o impedir√° de fazer tambem
+Terminando, agradeÁo de novo os conselhos de sua excellencia a illustre
+escriptora minha patricia, mas peÁo licenÁa para os n„o seguir.
+Continuarei a fazer rir os outros, o que me n„o impedir· de fazer tambem
 chorar alguns, uma ou outra vez, quando for preciso.
 
        *       *       *       *       *
 
-Por occasi√£o da visita de el-rei √° Escola Polytechnica funccionou o
+Por occasi„o da visita de el-rei · Escola Polytechnica funccionou o
 telephonio entre uma das salas da Escola e o Observatorio da Tapada.
 
 Approximando-se do novo apparelho transmissor dos sons, dizem os jornaes
 que sua magestade ouvira--um solo de cornetim!
 
 Houve primeiro duvida sobre se o fio ligava a Escola Polytechnica com o
-Observatorio Astronomico ou se a ligava com a phylarmonica _Uni√£o e
+Observatorio Astronomico ou se a ligava com a phylarmonica _Uni„o e
 Capricho_. O solo era effcctivamente executado pelo Observatorio.
-Emquanto a astronomia tocava cornetim √© natural que, em compensa√ß√£o, a
+Emquanto a astronomia tocava cornetim È natural que, em compensaÁ„o, a
 arte musical se occupasse em determinar uma parallaxe.
 
-A unica cousa que extranhamos √© que o Observatorio n√£o observasse entre
-as suas pe√ßas de musica alguma coisa mais interessante para transmittir
+A unica cousa que extranhamos È que o Observatorio n„o observasse entre
+as suas peÁas de musica alguma coisa mais interessante para transmittir
 a el-rei do que o proprio hymno do mesmo augusto senhor.
 
 Que o Observatorio cultive a especialidade do cornetim, perfeitamente de
 accordo! mas que elle cultive igualmente a especialidade do hymno
-parece-nos um abuso que o principe n√£o levar√° a bem.
+parece-nos um abuso que o principe n„o levar· a bem.
 
-Reflectiu por acaso o Observatorio no que √© o hymno para um cerebro
-coroado? Cremos que o Observatorio n√£o desceu ainda com as suas
-conjecturas ao fundo d'esse abysmo. √â horroroso.
+Reflectiu por acaso o Observatorio no que È o hymno para um cerebro
+coroado? Cremos que o Observatorio n„o desceu ainda com as suas
+conjecturas ao fundo d'esse abysmo. … horroroso.
 
 Para os cerebros coroados o hymno equivale a uma enfermidade monstruosa.
-O observatorio faz certamente ideia do que √© ter zumbidos, n√£o √©
-verdade? Pois ter hymno √© peor. √â ter constantemente, durante toda a
+O observatorio faz certamente ideia do que È ter zumbidos, n„o È
+verdade? Pois ter hymno È peor. … ter constantemente, durante toda a
 vida, em casa, na rua, em viagem, nas cidades, nas villas, nas aldeias,
-sobre as proprias aguas do mar, sempre, por toda a parte como doen√ßa
-chronica, como affec√ß√£o incuravel do nervo acustico, a audi√ßao do mesmo
-trecho de musica!--O que deve levar paulatinamente √° loucura.
+sobre as proprias aguas do mar, sempre, por toda a parte como doenÁa
+chronica, como affecÁ„o incuravel do nervo acustico, a audiÁao do mesmo
+trecho de musica!--O que deve levar paulatinamente · loucura.
 
-Que o Observatorio se compade√ßa do infeliz principe condemnado a t√£o
+Que o Observatorio se compadeÁa do infeliz principe condemnado a t„o
 incomportavel flagello! O Observatorio ha de ter conhecimento das
 contrariedades que amarguram a existencia; o Observatorio ha de ter
-faltas de dinheiro, ha de ter constipa√ß√µes, ha de ter dores de dentes,
+faltas de dinheiro, ha de ter constipaÁıes, ha de ter dores de dentes,
 ha de ter calos. O principe tem tudo isto, e demais a mais tambem tem
 hymno. Poupemol-o ao desgosto de o fazer acompanhar pelo seu triste mal
-√°s regi√µes da sciencia! Inflijamos-lhe o solo, visto que n√£o ha outro
+·s regiıes da sciencia! Inflijamos-lhe o solo, visto que n„o ha outro
 remedio, mas perdoemos-lhe por esta vez o hynmo! Sejamos terriveis, mas
-sejamos justos! A providencia collocou-nos na m√£o o cornetim. O monarcha
-presta-nos submissamente o seu real ouvido. N√£o abusemos d'esse
+sejamos justos! A providencia collocou-nos na m„o o cornetim. O monarcha
+presta-nos submissamente o seu real ouvido. N„o abusemos d'esse
 instrumento poderoso e d'essa orelha innocente! Compenetremo-nos da
-tremenda responsabilidade que pesa sobre nossas cabe√ßas! Somos
+tremenda responsabilidade que pesa sobre nossas cabeÁas! Somos
 cornetistas, mas somos tambem astronomos ... Toquemos o _Pirolito!_
 
-E a posteridade nos aben√ßoar√°.
+E a posteridade nos abenÁoar·.
 
        *       *       *       *       *
 
 Ha tempos que na sociedada portugueza se notava esta grande falta: A
-hydra da reac√ß√£o desapparecera da orbita dos conflictos do poder
+hydra da reacÁ„o desapparecera da orbita dos conflictos do poder
 politico e do poder clerical. Os srs. ministros, reunindo-se em cada
-manh√£ nas secretarias do Terreiro do Pa√ßo, perguntavam angustiadamente
+manh„ nas secretarias do Terreiro do PaÁo, perguntavam angustiadamente
 uns aos outros:
 
---N√£o viram por ahi a hydra?
+--N„o viram por ahi a hydra?
 
 Ninguem a tinha visto por ali. Os joanetes do sr. Barros e Cunha
-entumeciam de impaciencia por n√£o poderem esmagar o monstro; e o sr.
-Mexia, sem hydra que accommetter, sentia-se calvar de humilha√ß√£o na sua
+entumeciam de impaciencia por n„o poderem esmagar o monstro; e o sr.
+Mexia, sem hydra que accommetter, sentia-se calvar de humilhaÁ„o na sua
 dupla qualidade de ministro dos negocios ecclesiasticos e de preterito
 imperfeito do verbo Mexer.
 
        *       *       *       *       *
 
 N'esta conjunctura por tantos titulos dolorosa o sr. marquez d'Avila,
-presidente do conselho, tomou uma resolu√ß√£o heroica: determinou ser
+presidente do conselho, tomou uma resoluÁ„o heroica: determinou ser
 hydra do meio dia por deante. E principiou a accumular engenhosamente as
-suas func√ß√µes de bicha ultramontana com as suas func√ß√µes administrativas
-de homem de estado. Pela manh√£ s. ex.¬™ governa. De tarde s. ex.¬™ rab√™a.
+suas funcÁıes de bicha ultramontana com as suas funcÁıes administrativas
+de homem de estado. Pela manh„ s. ex.™ governa. De tarde s. ex.™ rabÍa.
 
-Eis um dos resultados da dualidade que s. ex.¬™ se dignou de assumir para
-salvar a situa√ß√£o da falta da hydra:
+Eis um dos resultados da dualidade que s. ex.™ se dignou de assumir para
+salvar a situaÁ„o da falta da hydra:
 
        *       *       *       *       *
 
-O servi√ßo dos enterramentos era feito em Lisboa na mais perfeita paz.
-Catholicos e n√£o catholicos eram levados para o cemiterio municipal
+O serviÁo dos enterramentos era feito em Lisboa na mais perfeita paz.
+Catholicos e n„o catholicos eram levados para o cemiterio municipal
 pelos seus respectivos padres ou simplesmente pelos seus amigos ou pelos
 seus parentes, e todos tinham o seu logar na cidads dos mortos como o
 haviam tido na cidade dos vivos. Pendia apenas d'esse facto uma pequena
-quest√£o canonica que o sr. patriarcha de Lisboa resolveu do modo mais
+quest„o canonica que o sr. patriarcha de Lisboa resolveu do modo mais
 exemplarmente sensato, ordenando que, visto considerar-se o cemiterio
-como uma institui√ß√£o municipal, os parochos benzessem as sepulturas dos
-que desejassem repousar em terreno sagrado, e n√£o benzessem as
+como uma instituiÁ„o municipal, os parochos benzessem as sepulturas dos
+que desejassem repousar em terreno sagrado, e n„o benzessem as
 d'aquelles que se contentassem com uma modesta cova simplesmente civil.
-N√£o tinha j√°mais de intervir a policia. O ministerio do reino estava a
+N„o tinha j·mais de intervir a policia. O ministerio do reino estava a
 esse respeito completamente socegado em sua secretaria. Finalmente
-podia-se morrer em Lisboa s√≥ pelo gosto de ser t√£o tranquillamente
+podia-se morrer em Lisboa sÛ pelo gosto de ser t„o tranquillamente
 enterrado.
 
-N'isto o sr. presidente do conselho sobrevem na sua f√≥rma de hydra e
-determina em favor da morte catholica a crea√ß√£o de um muro similhante ao
+N'isto o sr. presidente do conselho sobrevem na sua fÛrma de hydra e
+determina em favor da morte catholica a creaÁ„o de um muro similhante ao
 que o sr. Guillomin imaginou para abrigo da vida privada. A camara
-municipal de Lisboa reune-se para dar cumprimento √° portaria de s.ex.¬™ e
-discutir o modo de levantar o muro. Prop√µem-se a tal respeito varios
+municipal de Lisboa reune-se para dar cumprimento · portaria de s.ex.™ e
+discutir o modo de levantar o muro. Propıem-se a tal respeito varios
 alvitres sobre os quaes predomina em ultima analyse o do sr. dr. Jardim.
 
        *       *       *       *       *
 
 Era previsto que o sr. Jardim seria o vencedor n'este pleito. Concorrem
-de facto n'essa cavalheiro todas as condi√ß√µes que se requisitam para o
-triumpho. Em primeiro logar, pelo lado physico, elle disp√µe da primeira
+de facto n'essa cavalheiro todas as condiÁıes que se requisitam para o
+triumpho. Em primeiro logar, pelo lado physico, elle dispıe da primeira
 cabelleira do paiz. Em segundo logar, pelo lado intellectual, elle tem
-uma formula. A sua formula √© esta: ¬´..._O bucentauro do progresso
-rasgando os flancos da montanha_ ...¬ª Sempre que esse homem terrivel
+uma formula. A sua formula È esta: ´..._O bucentauro do progresso
+rasgando os flancos da montanha_ ...ª Sempre que esse homem terrivel
 arroja para traz das orelhas a sua cabelleira e descarrega sobre os
-auditorios a sua formula, a victoria √© d'elle. A sua existencia tem sido
-uma serie nunca interrompida de triumphos, alcan√ßados pela sua
+auditorios a sua formula, a victoria È d'elle. A sua existencia tem sido
+uma serie nunca interrompida de triumphos, alcanÁados pela sua
 cabelleira e pela sua formula. Foi pintando cheio de cabello e de ardor
 o _bucentauro do progresso rasgando os flancos da montanha_ que elle
 triumphou no quinto anno da sua formatura em direito, na defeza das suas
-theses de doutoramento, na exhibi√ß√£o das provas do seu concurso para
-lente da universidade, nas reuni√µes das associa√ß√µes operarias e
+theses de doutoramento, na exhibiÁ„o das provas do seu concurso para
+lente da universidade, nas reuniıes das associaÁıes operarias e
 phylarmonicas de Coimbra, nos conselhos fiscaes dos bancos hypothecario
-e de Lisboa e A√ßores, nas suas eternas prelec√ß√µes sobre o terceiro
-estado, e finalmente na discuss√£o do muro Guillomin da morte catholica
-ordenado por s. ex.¬™ a nobre hydra de Avila e Bolama.
+e de Lisboa e AÁores, nas suas eternas prelecÁıes sobre o terceiro
+estado, e finalmente na discuss„o do muro Guillomin da morte catholica
+ordenado por s. ex.™ a nobre hydra de Avila e Bolama.
 
        *       *       *       *       *
 
 Foi baseado nos seus principios de direito administrativo e de direito
 canonico extraidos do _bucentauro do progresso rasgando os flancos da
-montanha_, e ardendo em zelo pela sua alta comprehens√£o scientifica e
-philosophica do phenomeno social da religi√£o e do facto biologico da
-morte,--comprehens√£o egualmente haurida do j√° alludido bucentauro
-rasgando os supracitados flancos,--que s.ex.¬™ o sr. doutor convenceu a
-verea√ß√£o lisbonense a approvar n√£o s√≥ a crea√ß√£o de um muro--o que √†
-hydra parecer√° sufficiente--mas a de quatro muros, o que ao bucentauro
+montanha_, e ardendo em zelo pela sua alta comprehens„o scientifica e
+philosophica do phenomeno social da religi„o e do facto biologico da
+morte,--comprehens„o egualmente haurida do j· alludido bucentauro
+rasgando os supracitados flancos,--que s.ex.™ o sr. doutor convenceu a
+vereaÁ„o lisbonense a approvar n„o sÛ a creaÁ„o de um muro--o que ‡
+hydra parecer· sufficiente--mas a de quatro muros, o que ao bucentauro
 ainda parece pouco.
 
 O muro primitivo da hydra com os tres muros complementares do sr. Jardim
-fechar√£o o recinto destinado de ora avante aos enterramentos de todos
-aquelles que morrerem f√≥ra do gremio da religi√£o catholica apostolica
+fechar„o o recinto destinado de ora avante aos enterramentos de todos
+aquelles que morrerem fÛra do gremio da religi„o catholica apostolica
 romana.
 
        *       *       *       *       *
 
-N√≥s suppunhamos que o caracteristico religioso que distinge um catholico
+NÛs suppunhamos que o caracteristico religioso que distinge um catholico
 dos membros de qualquer das outras cinco mil seitas religiosas que
 cobrem a superficie da terra era um facto dos dominios exclusivos da
 consciencia: que esse caracter desapparecia no limiar do obscuro portico
-infinito onde p√°ra a vida; que o cadaver deixava de ter uma religi√£o,
-cessava de pertencer √° igreja, para pertencer exclusivamente √° chimica.
-Suppunhamos que o cemiterio, considerado n√£o s√≥ pelo seu lado civil mas
-mas principalmente ainda pela inten√ß√£o do seu instituto christ√£o, era o
+infinito onde p·ra a vida; que o cadaver deixava de ter uma religi„o,
+cessava de pertencer · igreja, para pertencer exclusivamente · chimica.
+Suppunhamos que o cemiterio, considerado n„o sÛ pelo seu lado civil mas
+mas principalmente ainda pela intenÁ„o do seu instituto christ„o, era o
 campo sagrado do respeito, da tolerancia, do esquecimento de toda a
-discrepancia de id√©as, de toda a offensa, de toda a injuria, a mans√£o
-eterna do perd√£o e do amor para todos aquelles que padeceram na terra as
+discrepancia de idÈas, de toda a offensa, de toda a injuria, a mans„o
+eterna do perd„o e do amor para todos aquelles que padeceram na terra as
 amarguras communs da grande humanidade coberta em toda a redondeza do
-orbe pela larga ben√ß√£o incondicional de Jesus.
+orbe pela larga benÁ„o incondicional de Jesus.
 
 Estavamos grosseiramente illudidos. O cemiterio, o cemiterio de Lisboa,
-pelo menos, o dos Prazeres ou o do Alto de S. Jo√£o, √© puramente um
-recinto de caracter official, destinado √° fermenta√ß√£o exclusiva das
-podrid√µes privilegiadas.
+pelo menos, o dos Prazeres ou o do Alto de S. Jo„o, È puramente um
+recinto de caracter official, destinado · fermentaÁ„o exclusiva das
+podridıes privilegiadas.
 
 Um sr. conselheiro, por exemplo, que morre hydropico na sua cama, bem
 ungido pela liberalidade amiga do seu cura, bem chapinhado em agua benta
 pelo compadrio do seu prior, correcta e apparatosamente amortalhado, com
-as suas cal√ßas de gal√£o de ouro duplamente retesadas pela incha√ß√£o e
+as suas calÁas de gal„o de ouro duplamente retesadas pela inchaÁ„o e
 pelas presilhas, com a sua farda vestida, a sua barba feita, a commenda
-no peito, o espadim ao lado, o chap√©o armado aos p√©s, o cord√£o da ordem
-terceira de S. Francisco √† cinta, vae legitimamente e no uso do mais
+no peito, o espadim ao lado, o chapÈo armado aos pÈs, o cord„o da ordem
+terceira de S. Francisco ‡ cinta, vae legitimamente e no uso do mais
 sagrado direito para o cemiterio, a esperar na morte a trombeta da
-resurrei√ß√£o da carne, como esperou na vida a hora da sua reparti√ß√£o. No
-dia da chamada geral no valle de Josaphat elle por√° na cabe√ßa o seu
-chap√©o de bicos e ir√° tomar o competente logar na gloria eterna, na
-bancada dos conselheiros, √° m√£o direita de Deus Padre Todo Poderoso.
+resurreiÁ„o da carne, como esperou na vida a hora da sua repartiÁ„o. No
+dia da chamada geral no valle de Josaphat elle por· na cabeÁa o seu
+chapÈo de bicos e ir· tomar o competente logar na gloria eterna, na
+bancada dos conselheiros, · m„o direita de Deus Padre Todo Poderoso.
 
-Mas tu, miseravel canalha, tu, concebido no monturo e dado √° luz no cano
-do esgoto, tu que n√£o conheceste pae nem m√£e, producto espontaneo da
-grande immundice anonyma, apparecido como a flor da febre √° superficie
-do pantano, tu que n√£o recebeste baptismo, nem confirma√ß√£o, nem ordem,
+Mas tu, miseravel canalha, tu, concebido no monturo e dado · luz no cano
+do esgoto, tu que n„o conheceste pae nem m„e, producto espontaneo da
+grande immundice anonyma, apparecido como a flor da febre · superficie
+do pantano, tu que n„o recebeste baptismo, nem confirmaÁ„o, nem ordem,
 nem matrimonio, nenhum finalmente d'esses preciosos beneficios que abrem
-o c√©o e que a igreja confere por uma tarifa de pre√ßos superiores aos
-teus capitaes, tu, n√£o tinhas no cemiterio de Lisboa sen√£o um logar
-usurpado, roubado indignamente √°s pessoas de bem. Estoiraste para um
-canto no enchurro em certa noite de inverno. Viveste e morreste f√≥ra dos
-sacramentos da nossa Santa Madre Igreja. √âs como um c√£o. A tua natureza
-humana n√£o √© a da outra gente. A tua podrid√£o n√£o √© a da cabelleira do
-sr. Jardim nem a do abafadoiro do sr. marquez de Avila. Tu √©s uma besta.
-√âs peior ainda: √©s um impio. V√£o conceder-te agora um quintal para ires
+o cÈo e que a igreja confere por uma tarifa de preÁos superiores aos
+teus capitaes, tu, n„o tinhas no cemiterio de Lisboa sen„o um logar
+usurpado, roubado indignamente ·s pessoas de bem. Estoiraste para um
+canto no enchurro em certa noite de inverno. Viveste e morreste fÛra dos
+sacramentos da nossa Santa Madre Igreja. …s como um c„o. A tua natureza
+humana n„o È a da outra gente. A tua podrid„o n„o È a da cabelleira do
+sr. Jardim nem a do abafadoiro do sr. marquez de Avila. Tu Ès uma besta.
+…s peior ainda: Ès um impio. V„o conceder-te agora um quintal para ires
 para debaixo a terra para a estrumeira execranda dos atheus. Muito favor
-te fazem estes bons senhores em te n√£o remetterem √°s equarissagens para
+te fazem estes bons senhores em te n„o remetterem ·s equarissagens para
 o esfollal Ainda que, por outro lado, na equarissagem, esfolado,
 distillado, amanhado convenientemente, podias ainda ter o prazer de uma
 sobrevivencia industrial, util ao teu proximo. Os teus principios
 chimicos, o teu hydrogenio, o teu oxigenio, o teu carbono, o teu azote,
-poderiam achar uma applica√ß√£o pratica e decente. Poderias aspirar na tua
-outra vida a abotoar com os teus ossos as cal√ßas do sr. marquez de Avila
+poderiam achar uma applicaÁ„o pratica e decente. Poderias aspirar na tua
+outra vida a abotoar com os teus ossos as calÁas do sr. marquez de Avila
 e o lustrar com as tuas banhas a cabelleira do sr. Jardim e de outros
 doutores da camara municipal e da igreja. Na estrumeira dos impios que
-te destinam nada mais ser√°s do que um eterno objecto de execra√ß√£o e de
-horror para os teus concidad√£os. Quando passarem por cima da tua cova os
-homens s√©rios, a quem est√° promettido o c√©o sob a palavra de honra do
-padre Marnoco e de outros ecclesiasticos, elles cuspir√£o sobre a tua
-dissolu√ß√£o infecta. As m√£es passar√£o de longe, correndo, com os seus
-filhos pela m√£o, fazendo-te figas. As velhas senhoras aristocraticas,
-entrevendo de passagem o teu cypreste agoirento, benzer-se-h√£o com as
-suas finas m√£os pallidas e rezar√£o os esconjuros mais efficazes no fundo
-tepido dos seus ligeiros _coup√©s_. Assim com as aben√ßoadas sepulturas
-dos santos fazem os benignos milagres, a tua sepultura dar√° os horrendos
-engui√ßos. E eu te affirmo que ainda havemos de v√™r aquelles que eram
-cegos e que recuperaram a vista abra√ßando-se √°s sagradas reliquias de um
+te destinam nada mais ser·s do que um eterno objecto de execraÁ„o e de
+horror para os teus concidad„os. Quando passarem por cima da tua cova os
+homens sÈrios, a quem est· promettido o cÈo sob a palavra de honra do
+padre Marnoco e de outros ecclesiasticos, elles cuspir„o sobre a tua
+dissoluÁ„o infecta. As m„es passar„o de longe, correndo, com os seus
+filhos pela m„o, fazendo-te figas. As velhas senhoras aristocraticas,
+entrevendo de passagem o teu cypreste agoirento, benzer-se-h„o com as
+suas finas m„os pallidas e rezar„o os esconjuros mais efficazes no fundo
+tepido dos seus ligeiros _coupÈs_. Assim com as abenÁoadas sepulturas
+dos santos fazem os benignos milagres, a tua sepultura dar· os horrendos
+enguiÁos. E eu te affirmo que ainda havemos de vÍr aquelles que eram
+cegos e que recuperaram a vista abraÁando-se ·s sagradas reliquias de um
 bom santo, perderam-a outra vez por a prostituirem affirmando-se nas
-vegeta√ß√µes malignas cujas raizes se tenham contaminado no teu humus
-preverso! Finalmente ser√°s detestado, abominado, execrado, maldito,--cem
-mil vezes maldito pelos homens, pelas mulheres, pelas crean√ßas, pela
+vegetaÁıes malignas cujas raizes se tenham contaminado no teu humus
+preverso! Finalmente ser·s detestado, abominado, execrado, maldito,--cem
+mil vezes maldito pelos homens, pelas mulheres, pelas creanÁas, pela
 cidade inteira.
 
-E cuidas tu, miseravel, que poder√°s encontrar um dia na eterna justi√ßa
-inviolavel a compensa√ß√£o d'este despreso systematisado, d'este rancor
-que √© um regulamento municipal, d'este odio que √© uma lei do reino? Como
-te enganas! O que tem de te succeder √© irremissivelmente o seguinte:
+E cuidas tu, miseravel, que poder·s encontrar um dia na eterna justiÁa
+inviolavel a compensaÁ„o d'este despreso systematisado, d'este rancor
+que È um regulamento municipal, d'este odio que È uma lei do reino? Como
+te enganas! O que tem de te succeder È irremissivelmente o seguinte:
 
-No dia do juizo final tu ouvir√°s na profundidade do teu estrume o
+No dia do juizo final tu ouvir·s na profundidade do teu estrume o
 canglor da enorme trombeta mais longa que a via lactea, soprada por um
-anjo que desde o principio do mundo ter√° estado a recolher no pulm√£o
+anjo que desde o principio do mundo ter· estado a recolher no pulm„o
 para os expellir n'esse instante, todos os estampidos da natureza, todos
-os bramidos do mar, todas as erup√ß√µes dos vulc√µes, todas as quedas das
-catadupas, todos os estrondos reunidos do vendaval, do trov√£o e do raio.
-N√£o ter√°s remedio sen√£o acordar,--quer queiras, quer n√£o--do teu pesado
-somno da materia bruta. Ser√°s levado √° revista do grande valle por dois
+os bramidos do mar, todas as erupÁıes dos vulcıes, todas as quedas das
+catadupas, todos os estrondos reunidos do vendaval, do trov„o e do raio.
+N„o ter·s remedio sen„o acordar,--quer queiras, quer n„o--do teu pesado
+somno da materia bruta. Ser·s levado · revista do grande valle por dois
 ceruleos cherubins de pequenas azas luminosas suspensas nas espaduas
-como moxilasinhas feitas da pennugem do sol. Esses cherubins dir-te-h√£o
-com a sua doce voz pollida, affectuosa, mas vibrante: ¬´Vocemec√™ ha de
-ter a bondade de passar ali para a m√£o esquerda de Deus Padre porque √©
-condemnado.¬ª Tentar√°s escapulir-te, safar-te para a podrid√£o de que
-tinhas vindo. Appellar√°s para o juiz supremo. O arbitro da eterna
-justi√ßa inquebrantavel cravar√° em ti os seus olhos. Tu o ver√°s tambem a
-elle, com a sua longa barba que envolver√° toda a terra, o seu bigode de
+como moxilasinhas feitas da pennugem do sol. Esses cherubins dir-te-h„o
+com a sua doce voz pollida, affectuosa, mas vibrante: ´VocemecÍ ha de
+ter a bondade de passar ali para a m„o esquerda de Deus Padre porque È
+condemnado.ª Tentar·s escapulir-te, safar-te para a podrid„o de que
+tinhas vindo. Appellar·s para o juiz supremo. O arbitro da eterna
+justiÁa inquebrantavel cravar· em ti os seus olhos. Tu o ver·s tambem a
+elle, com a sua longa barba que envolver· toda a terra, o seu bigode de
 interminaveis nuvens grisalhas, de cujas guias, ao contacto dos seus
-dedos, chispar√£o os raios na amplid√£o infinita. Ouvir√°s a sua grande
-voz, cujas sylabas cair√£o na tua alma, a uma por uma, mais pesadas que o
-Monte Branco e que o Nevado de Sorata. Elle dir√°:--¬´Deram-lhe o
-baptismo? N√£o. Deram-lhe a confirma√ß√£o? N√£o. Deram-lhe a penitencia?
-N√£o. Deram-lhe a absolvi√ß√£o da culpa? N√£o. N√£o lhe deram nada. O
-cherubim tem raz√£o. Passe para a m√£o esquerda.¬ª Ent√£o passar√°s para a
-esquerda. O teu anjo custodio abrir√° um al√ßap√£o aos teus p√©s e gritar√°
-para baixo, para as profundidades do immenso vortice:--¬´Fogo eterno para
-um!¬ª Depois do que, te toc√°ra com um sopro. Tu despenhar-te-has cortando
-o espa√ßo como um astro cadente, sem luz, similhante a uma estrella
-sombria feita de lama, at√© te submergires no tremendo abysmo, na puni√ß√£o
-eterna. E ser√° por todos os seculos dos seculos, sem fim j√°mais.
+dedos, chispar„o os raios na amplid„o infinita. Ouvir·s a sua grande
+voz, cujas sylabas cair„o na tua alma, a uma por uma, mais pesadas que o
+Monte Branco e que o Nevado de Sorata. Elle dir·:--´Deram-lhe o
+baptismo? N„o. Deram-lhe a confirmaÁ„o? N„o. Deram-lhe a penitencia?
+N„o. Deram-lhe a absolviÁ„o da culpa? N„o. N„o lhe deram nada. O
+cherubim tem raz„o. Passe para a m„o esquerda.ª Ent„o passar·s para a
+esquerda. O teu anjo custodio abrir· um alÁap„o aos teus pÈs e gritar·
+para baixo, para as profundidades do immenso vortice:--´Fogo eterno para
+um!ª Depois do que, te toc·ra com um sopro. Tu despenhar-te-has cortando
+o espaÁo como um astro cadente, sem luz, similhante a uma estrella
+sombria feita de lama, atÈ te submergires no tremendo abysmo, na puniÁ„o
+eterna. E ser· por todos os seculos dos seculos, sem fim j·mais.
 
-Eis ahi tens o que te espera, segundo a religi√£o do dr. Jardim e outros.
-Religi√£o bem diversa da do santo velho Tobias, que com as suas tremulas
-m√£os decrepitas violava piedosamente as leis vigentes e enterrava elle
+Eis ahi tens o que te espera, segundo a religi„o do dr. Jardim e outros.
+Religi„o bem diversa da do santo velho Tobias, que com as suas tremulas
+m„os decrepitas violava piedosamente as leis vigentes e enterrava elle
 mesmo os infelizes condemnados pelo rei da Assyria a ficarem insepultos!
-Bem diversa da d'aquelles christ√£os da igreja primitiva, que assombravam
+Bem diversa da d'aquelles christ„os da igreja primitiva, que assombravam
 Tertulliano empregando mais perfumes para embalsamar os seus mortos do
-que os pag√£os consumiam para celebrar os seus sacrificios; lavavam os
+que os pag„os consumiam para celebrar os seus sacrificios; lavavam os
 cadaveres, envolviam-os em seda; vellavam-os durante tres dias antes do
-os conduzirem √° sepultura, onde ao som dos hymnos e dos psalmos os
-collocavam estendidos com a face voltada para o nascer do sol. E n√£o
+os conduzirem · sepultura, onde ao som dos hymnos e dos psalmos os
+collocavam estendidos com a face voltada para o nascer do sol. E n„o
 resumiam a caridade em enterrar unicamente os seus correligionarios: os
-primeiros christ√£os enterravam tambem, indistinctamente, todos os pag√£os
+primeiros christ„os enterravam tambem, indistinctamente, todos os pag„os
 pobres e desamparados, todos os hereticos, todos os atheus, todos os
 impios. Para lhes merecer o amor bastava ser homem. Para lhes merecer o
-sacrificio bastava ser desgra√ßado. Por isso disia o imperdor Juliano que
-f√¥ra a obra gratuita e incondicional de enterrar os mortos a que mais
-contribira para o estabelecimenlo e para a propaga√ß√£o do christianismo.
+sacrificio bastava ser desgraÁado. Por isso disia o imperdor Juliano que
+fÙra a obra gratuita e incondicional de enterrar os mortos a que mais
+contribira para o estabelecimenlo e para a propagaÁ„o do christianismo.
 
        *       *       *       *       *
 
-Agora, estabelecido o novo cemiterio, resta-nos v√™r como s. ex.¬™ o
-ministro do reino resolver√° os conflictos promovidos contra elle mesmo
-por s. ex.¬™ a hydra. E sobre este ponto temos algumas duvidas a que
+Agora, estabelecido o novo cemiterio, resta-nos vÍr como s. ex.™ o
+ministro do reino resolver· os conflictos promovidos contra elle mesmo
+por s. ex.™ a hydra. E sobre este ponto temos algumas duvidas a que
 muito desejavamos que o sr. Jardim prestasse por um momento as suas
 esclarecidas madeixas e o seu profundo bucentauro, ou--porque o digamos
-n'outros termos--a atten√ß√£o do seu genio. Eis um dos casos sobre que
-pretendemos consultar s. ex¬™:
+n'outros termos--a attenÁ„o do seu genio. Eis um dos casos sobre que
+pretendemos consultar s. ex™:
 
        *       *       *       *       *
 
 Imagine o sr. doutor que o seu reverente servo auctor d'estas linhas,
-n√£o querendo enterrar-se de todo por uma s√≥ vez, resolvia enterrar-se
-por partes e dar √° terra uma das suas pernas para a terra se ir
+n„o querendo enterrar-se de todo por uma sÛ vez, resolvia enterrar-se
+por partes e dar · terra uma das suas pernas para a terra se ir
 entretendo.
 
 N'esta hypothese pergunta-se:
 
-Onde √© que o sr. doutor determina que se sepulte a perna de que eu tenha
+Onde È que o sr. doutor determina que se sepulte a perna de que eu tenha
 o capricho de descartar-me?
 
-Estou prevendo que o bucentauro de s. ex.¬™, attribuindo
+Estou prevendo que o bucentauro de s. ex.™, attribuindo
 indifferentemente a qualquer das minhas pernas a paternidade do presente
-escripto, me prescrever√° o logar destinado por s. ex.¬™ para os membros
+escripto, me prescrever· o logar destinado por s. ex.™ para os membros
 impios e locomotores.
 
-A isto por√©m replico a s. ex.¬™ que a minha perna quer se trate da
-direita, quer se trata da esquerda, √© boa catholica apostolica romana.
-Tinha eu oito dias de idade, ex'mo sr. quando a acompanhei √† pia
+A isto porÈm replico a s. ex.™ que a minha perna quer se trate da
+direita, quer se trata da esquerda, È boa catholica apostolica romana.
+Tinha eu oito dias de idade, ex'mo sr. quando a acompanhei ‡ pia
 baptismal, e ahi lhe foi perguntado pelo parocho da minha freguezia, em
-lingua latina, que ella a esse tempo ainda n√£o tinha tido tempo de
+lingua latina, que ella a esse tempo ainda n„o tinha tido tempo de
 aprender, se queria baptisar-se, ao que meu padrinho respondeu _Volo_! E
 este volo era como se fosse a minha propria perna que houvesse aprendido
 as linguagens e que assim ousasse exprimir-se. Mas lhe perguntou o
-parocho se ella acreditava na communica√ß√£o dos santos, na resurrei√ß√£o da
+parocho se ella acreditava na communicaÁ„o dos santos, na resurreiÁ„o da
 carne e na vida eterna. Ao que ella respondeu, sempre pela boca do meu
 padrinho, que em tudo acreditava piamente e que era por isso que ali
-tinha ido com o seu respectivo p√© e com o pequeno apendice que era o
-resto da minha exigua e innocente pessoa. Desde esse dia at√© hoje bem
+tinha ido com o seu respectivo pÈ e com o pequeno apendice que era o
+resto da minha exigua e innocente pessoa. Desde esse dia atÈ hoje bem
 varias e bem extranhas aventuras se teem passado com a perna cujas
-cren√ßas religiosas nos cabe discutir para averiguar o logar que lhe
-compete na funeral mans√£o. Ella por√©m, ex'mo. sr. doutor, apezar de
-todas as vicissitudes que tem atravessado na vida, nunca at√© hoje
-contradisse--que me conste--as declara√ß√µes latinas feitas em seu nome
-por meu padrinho: _Volo, credo, abrenuntio_. Ella portanto √© catholica,
-e tem direito √° sepultura sagrada na terra e √° bemaventuran√ßa no
-paraiso. O sr. Jardim n√£o p√≥de de modo alguma mandal-a para o cemiterio
+crenÁas religiosas nos cabe discutir para averiguar o logar que lhe
+compete na funeral mans„o. Ella porÈm, ex'mo. sr. doutor, apezar de
+todas as vicissitudes que tem atravessado na vida, nunca atÈ hoje
+contradisse--que me conste--as declaraÁıes latinas feitas em seu nome
+por meu padrinho: _Volo, credo, abrenuntio_. Ella portanto È catholica,
+e tem direito · sepultura sagrada na terra e · bemaventuranÁa no
+paraiso. O sr. Jardim n„o pÛde de modo alguma mandal-a para o cemiterio
 dos atheus.
 
        *       *       *       *       *
 
-Supponhamos agora que o sr. doutor determina que o logar que compete √°
-funeral jazida de uma das minhas pernas √© o cemiterio catholico. A essa
-resolu√ß√£o tenho egualmente de opp√¥r-me com os fundamentos seguintes:
+Supponhamos agora que o sr. doutor determina que o logar que compete ·
+funeral jazida de uma das minhas pernas È o cemiterio catholico. A essa
+resoluÁ„o tenho egualmente de oppÙr-me com os fundamentos seguintes:
 
-Uma vez nascida em Portugal, o baptismo, a confiss√£o, a missa, a
-communh√£o, a pratica de todos os sacramentos e de todas as ceremonias
-n√£o significa da parte da minha perna uma affirma√ß√£o religiosa mas sim
-uma affirma√ß√£o civil.
+Uma vez nascida em Portugal, o baptismo, a confiss„o, a missa, a
+communh„o, a pratica de todos os sacramentos e de todas as ceremonias
+n„o significa da parte da minha perna uma affirmaÁ„o religiosa mas sim
+uma affirmaÁ„o civil.
 
-Pelas leis do reino a religi√£o catholica apostolica romana n√£o √©
-facultativa, √© obrigatoria. A minha perna n√£o p√≥de entrar no estado sem
+Pelas leis do reino a religi„o catholica apostolica romana n„o È
+facultativa, È obrigatoria. A minha perna n„o pÛde entrar no estado sem
 ter previamente passado pela igreja. Na falta de um registro que
-substitua o assento baptimal para a consigna√ß√£o do nascimento, a minha
-perna nem sequer portugueza p√≥de ser emquanto n√£o f√¥r baptisada! Em todo
-o decurso da vida civil, ella n√£o p√≥de dar um s√≥ passo sem primeiramente
-demonstrar que √© catholica. Sem a certid√£o de baptismo, primeiro, sem o
+substitua o assento baptimal para a consignaÁ„o do nascimento, a minha
+perna nem sequer portugueza pÛde ser emquanto n„o fÙr baptisada! Em todo
+o decurso da vida civil, ella n„o pÛde dar um sÛ passo sem primeiramente
+demonstrar que È catholica. Sem a certid„o de baptismo, primeiro, sem o
 attestado passado pelo parocho da frequencia de todos os demais
-sacramentos depois, ella n√£o p√≥de fazer exame de instruc√ß√£o primaria;
-n√£o p√≥de matricular-se em nenhuma das escolas; n√£o p√≥de entrar no
+sacramentos depois, ella n„o pÛde fazer exame de instrucÁ„o primaria;
+n„o pÛde matricular-se em nenhuma das escolas; n„o pÛde entrar no
 exercito, nem na armada, nem no professorado, nem no funccionalismo, nem
-na magistratura, nem na representa√ß√£o nacional. N√£o sendo catholica n√£o
-p√≥de ter nacionalidade, n√£o p√≥de ter profiss√£o, n√£o p√≥de ter estado, n√£o
-p√≥de ter mulher, n√£o p√≥de ter filhos, n√£o p√≥de nem ao menos ter nome!
+na magistratura, nem na representaÁ„o nacional. N„o sendo catholica n„o
+pÛde ter nacionalidade, n„o pÛde ter profiss„o, n„o pÛde ter estado, n„o
+pÛde ter mulher, n„o pÛde ter filhos, n„o pÛde nem ao menos ter nome!
 
-A todas as portas da sociedade portugueza se pergunta √° minha perna
-antes de a deixar penetrar, se ella √© catholica, exactamente como se lhe
-pergunta se ella est√° isempta do recrutamento e se √© vaccinada.
+A todas as portas da sociedade portugueza se pergunta · minha perna
+antes de a deixar penetrar, se ella È catholica, exactamente como se lhe
+pergunta se ella est· isempta do recrutamento e se È vaccinada.
 
-Desde que veiu √° luz em Portugal a minha perna, pelo simples facto de
-nascer, pertence irremissivilmente √° igreja. Sem previa licen√ßa da
-igreja ella n√£o p√≥de dar um unico passo para dentro do estado ou para
-dentro da familia. Esta simples aspira√ß√£o, t√£o modesta: ser filha de meu
-pae e de minha m√£e--a minha perna est√° prohibida de a ter sem que a
+Desde que veiu · luz em Portugal a minha perna, pelo simples facto de
+nascer, pertence irremissivilmente · igreja. Sem previa licenÁa da
+igreja ella n„o pÛde dar um unico passo para dentro do estado ou para
+dentro da familia. Esta simples aspiraÁ„o, t„o modesta: ser filha de meu
+pae e de minha m„e--a minha perna est· prohibida de a ter sem que a
 igreja diga que sim. Chega mesmo a ser impossivel o poder eu demonstrar
 de um modo juridico e authentico que a minha perna seja effectivamente
-minha emquanto a igreja n√£o disser tambem que sim. De sorte que, quando
+minha emquanto a igreja n„o disser tambem que sim. De sorte que, quando
 eu ouso dizer _a minha perna_, sirvo-me de uma arrojada methaphora, que
 espero me seja relevada pelo sr. dr. Jardim. O que eu rigorosamente
-deveria dizer em linguagem litteral, para me referir √° minha perna,
+deveria dizer em linguagem litteral, para me referir · minha perna,
 era--a perna da igreja.
 
 Se estamos pois n'um paiz onde o estado priva absolutamente a minha
-perna da faculdade de escolher uma religi√£o, chumbando-lhe elle mesmo o
+perna da faculdade de escolher uma religi„o, chumbando-lhe elle mesmo o
 catholicismo no tornozello, como se chumba a grelheta n'um condemnado,
 recuso absolutamente ao sr. dr. Jardim e a todos os demais doutores o
-direito de affirmarem que a minha perna tenha ua religi√£o. Pelo facto de
+direito de affirmarem que a minha perna tenha ua religi„o. Pelo facto de
 ser baptisada, de ouvir missa, de se confessar ao menos uma vez cada
-anno, de commungar pela Paschoa da Resurrei√ß√£o, de jejuar √° sexta feira,
-de acreditar na infallibilidade do papa, etc., a minha perna n√£o est√° na
-religi√£o, est√° apenas na lei civil, est√° na carta. Em quanto a cren√ßas
-religiosas, o mais que se poder√° dizer da minha perna, apezar de
-baptisada, de jejuada, de confessada, etc., √© que ella √© cartista.
+anno, de commungar pela Paschoa da ResurreiÁ„o, de jejuar · sexta feira,
+de acreditar na infallibilidade do papa, etc., a minha perna n„o est· na
+religi„o, est· apenas na lei civil, est· na carta. Em quanto a crenÁas
+religiosas, o mais que se poder· dizer da minha perna, apezar de
+baptisada, de jejuada, de confessada, etc., È que ella È cartista.
 
-Como por√©m a crea√ß√£o das duas especies de cemiterios imaginados em
-Lisboa pelo sr. Jardim e pelo sr. marquez de Avila n√£o p√≥de ter por fim
-separar os cidad√£os que obedecem √° carta dos cidad√£os que lhe n√£o
+Como porÈm a creaÁ„o das duas especies de cemiterios imaginados em
+Lisboa pelo sr. Jardim e pelo sr. marquez de Avila n„o pÛde ter por fim
+separar os cidad„os que obedecem · carta dos cidad„os que lhe n„o
 obedecem--o que seria absurdo por equivaler a acompanhar a mesma lei de
 dois regulamentos oppostos, um para o cumprimento d'ella e outro para a
-sua transgress√£o,--√© claro que n√£o p√≥de ser unicamente pelo facto de
+sua transgress„o,--È claro que n„o pÛde ser unicamente pelo facto de
 estarem os restos de alguem dentro da lei civil que se lhes ha de
 designar a sepultura sagrada.
 
-Em conclus√£o final: Dada a coexistencia de dois cemiterios, um catholico
-outro n√£o catholico para o fim de enterrar todo o mundo, a minha perna
-pela impossibilidade de se determinar rigorosamente se ella √©
-effectivamente catholica ou se n√£o √© catholica, acha-se no caso especial
-de n√£o poder ser mandada nem para um nem para outro d'esses cemiterios,
-e de ter de ficar insepulta em quanto o sr. dr. Jardim n√£o mandar o
+Em conclus„o final: Dada a coexistencia de dois cemiterios, um catholico
+outro n„o catholico para o fim de enterrar todo o mundo, a minha perna
+pela impossibilidade de se determinar rigorosamente se ella È
+effectivamente catholica ou se n„o È catholica, acha-se no caso especial
+de n„o poder ser mandada nem para um nem para outro d'esses cemiterios,
+e de ter de ficar insepulta em quanto o sr. dr. Jardim n„o mandar o
 contrario.
 
-Ora succede que todos os cidad√£os portuguezes, sem excep√ß√£o alguma, se
-encontram precisamente nas mesmas condi√ß√µes em que se acha a minha
+Ora succede que todos os cidad„os portuguezes, sem excepÁ„o alguma, se
+encontram precisamente nas mesmas condiÁıes em que se acha a minha
 perna.
 
-N√£o se p√≥de affirmar que alguem √© catholico ou que o n√£o √© emquanto a
-crea√ß√£o do registro civil n√£o assegurar a cada cidad√£o a livre faculdade
-de exercer ou n√£o qualquer d'estes direitos: nascer sem padre, casar sem
+N„o se pÛde affirmar que alguem È catholico ou que o n„o È emquanto a
+creaÁ„o do registro civil n„o assegurar a cada cidad„o a livre faculdade
+de exercer ou n„o qualquer d'estes direitos: nascer sem padre, casar sem
 padre, morrer sem padre.
 
        *       *       *       *       *
 
 Excellentissima camara municipal da muito nobre, sempre leal e invicta
-cidade do Porto ou quem suas vezes fizer--Pa√ßos da Camara na Pra√ßa Nova,
+cidade do Porto ou quem suas vezes fizer--PaÁos da Camara na PraÁa Nova,
 esquina do Laranjal
 
 Porto
 
-Excellentissima camara e minha boa senhora. √â cheio dos maiores cuidados
-pela preciosa saude de v. ex.¬™ que lan√ßamos m√£o da pena para, em nome de
-todos os forasteiros que foram a essa cidade por occasi√£o da cerimonia
-inaugural da ponte sobre o Douro, dirigir a v. ex.¬™ algumas regras.
+Excellentissima camara e minha boa senhora. … cheio dos maiores cuidados
+pela preciosa saude de v. ex.™ que lanÁamos m„o da pena para, em nome de
+todos os forasteiros que foram a essa cidade por occasi„o da cerimonia
+inaugural da ponte sobre o Douro, dirigir a v. ex.™ algumas regras.
 
-Principiaremos por dar a v. ex.¬™ uma breve noticia da festa em que
-tomamos parte e em que v. ex.¬™ teve as suas raz√µes para n√£o se dignar de
+Principiaremos por dar a v. ex.™ uma breve noticia da festa em que
+tomamos parte e em que v. ex.™ teve as suas razıes para n„o se dignar de
 comparecer.
 
-Por convite da direc√ß√£o da companhia dos caminhos de ferro portuguezes
-reunimo-nos na esta√ß√£o das Devezas no dia 4 do mez de novembro passado
-pelas 11 horas da manh√£. Cerca de uma hora depois partiamos em um grande
-comboyo extraordinario e paravamos em frente do Porto, √° entrada da nova
+Por convite da direcÁ„o da companhia dos caminhos de ferro portuguezes
+reunimo-nos na estaÁ„o das Devezas no dia 4 do mez de novembro passado
+pelas 11 horas da manh„. Cerca de uma hora depois partiamos em um grande
+comboyo extraordinario e paravamos em frente do Porto, · entrada da nova
 ponte, na margem esquerda do rio. Maravilhoso espectaculo o que
-presenceamos desde Gaya at√© √° esta√ß√£o de Campanh√£ e do qual procurarei,
-certamente debalde, dar uma longiqua ideia a v. ex.¬™!
+presenceamos desde Gaya atÈ · estaÁ„o de Campanh„ e do qual procurarei,
+certamente debalde, dar uma longiqua ideia a v. ex.™!
 
 Um delicioso dia de outomno, de um largo tom lacteo e ceruleo como o de
-uma perola azul, abra√ßa amorosamente a natureza e banhava a paizagem
+uma perola azul, abraÁa amorosamente a natureza e banhava a paizagem
 n'uma luz vaporosa impregnada da frescura dos orvalhos e do aroma das
 violetas. A cidade fronteira desdobrava aos nossos olhos todos os seus
 encantos topographicos, desde a Foz, envolta na sua athmosphera
-maritima, salgada e humida, at√© os montes long√≠nquos do lado opposto,
-levemente esfumados no horisonte sob as douradas pulverisa√ß√µes do sol.
+maritima, salgada e humida, atÈ os montes longÌnquos do lado opposto,
+levemente esfumados no horisonte sob as douradas pulverisaÁıes do sol.
 Viamos a ridente collina de Villar coberta de verdura e coroada pelo
 Palacio de cristal; os copados bosques do Candal e de Valle de Amores; o
 caes da Ribeira com a sua arcaria denegrida e o seu pittoresco mercado
@@ -1348,91 +1348,91 @@ de velhas barracas alpendradas brunidas pelo sol; a ingreme ladeira da
 Corticeira; o parque das Fontainhas; a casaria emassada das freguezias
 da Se e do Bomfim, com os seus predios esguios, terminando quase em
 _pignon_ como na Hollanda: uns bem aprimados, tesos, vidrosos,
-reluzentes, forrados de faian√ßa, outros barrigudos, sombrios enodoados,
-fazendo fincap√© para n√£o cambalearem como ebrios taciturnos; outros,
-ainda, pintados de branco, pintados de azul, pintados de c√¥r de rosa,
-com chamin√©s bordadas e claras-boias phantasistas rematadas por
+reluzentes, forrados de faianÁa, outros barrigudos, sombrios enodoados,
+fazendo fincapÈ para n„o cambalearem como ebrios taciturnos; outros,
+ainda, pintados de branco, pintados de azul, pintados de cÙr de rosa,
+com chaminÈs bordadas e claras-boias phantasistas rematadas por
 trabalhosas ventoinhas, jocundos, satisfeitos de si, rindo pelas sacadas
 abertas ornadas de craveiros e de alecrins; depois, de valle em valle,
 os lindos suburbios de Riba Douro: o choupal do Areinho, as espessas e
-murmurosas frescuras das quintas de Quebrant√µes, da Oliveira, da
-freguezia de Avintes; a bahia do Freixo, onde o rio tem a configura√ß√£o
+murmurosas frescuras das quintas de Quebrantıes, da Oliveira, da
+freguezia de Avintes; a bahia do Freixo, onde o rio tem a configuraÁ„o
 de um pequeno lago circular dominado por um elegante palacio Luiz XV, de
-torre√µes e eirados senhoriaes, cuja elegante escadaria exterior mergulha
+torreıes e eirados senhoriaes, cuja elegante escadaria exterior mergulha
 venezianamente na agua.
 
-Todas as eminencias que viam o ponto onde paramos para a celebra√ß√£o da
+Todas as eminencias que viam o ponto onde paramos para a celebraÁ„o da
 ceremonia inaugural estava litteralmente cobertas de gente. Os montes
-proximos achavam-se completamente submergidos sob uma espessa vegeta√ß√£o
+proximos achavam-se completamente submergidos sob uma espessa vegetaÁ„o
 humana. Em frente, todos os degraus da penedia, todos os socalcos, todos
 os jardins, todos os quintaes, todas as janellas, todos os muros, todos
 os telhados, todas as superficies, todos os contornos, todas as arestas,
 tinham um debrum de gente.--Enorme romagem nunca vista. A cidade do
-Porto em peso e 40 ou 60 mil peregrinos advindos de todas as regi√µes do
+Porto em peso e 40 ou 60 mil peregrinos advindos de todas as regiıes do
 paiz estavam ahi reunidos. Para que?
 
-Para celebrar um puro facto scientifico--a solu√ß√£o de um problema de
-mechanica. N'este simples facto, exm.¬™ camara, que symptoma! que
-phenomeno! que revolu√ß√£o!
+Para celebrar um puro facto scientifico--a soluÁ„o de um problema de
+mechanica. N'este simples facto, exm.™ camara, que symptoma! que
+phenomeno! que revoluÁ„o!
 
-Ha bens poucos annos ainda s√≥ o fanatismo religioso tinha o poder de
+Ha bens poucos annos ainda sÛ o fanatismo religioso tinha o poder de
 determinar as grandes romagens a S. Thiago de Campostella, a S. Torquato
-de Guimar√£es, √° senhora da Nazareth, √° senhora do Cabo. Os peregrinos
-iam ent√£o solicitar a interven√ß√£o milagrosa dos bons santos nos seus
-casos pathologicos, nas suas ambi√ß√µes pessoaes, nas suas quest√µes
+de Guimar„es, · senhora da Nazareth, · senhora do Cabo. Os peregrinos
+iam ent„o solicitar a intervenÁ„o milagrosa dos bons santos nos seus
+casos pathologicos, nas suas ambiÁıes pessoaes, nas suas questıes
 domesticas: os paralyticos iam pedir movimento, os cegos iam pedir luz,
-os tristes iam pedir consola√ß√£o, os turbulentos iam pedir paz, e os
-mendigos suspensos nas suas moletas, com o grande alforge ao pesco√ßo, a
-longa barba cor de greda empastada no suor da jornada e no p√≥ dos
-caminhos, iam simplesmente √° beira das estradas pedir p√£o em troca de
+os tristes iam pedir consolaÁ„o, os turbulentos iam pedir paz, e os
+mendigos suspensos nas suas moletas, com o grande alforge ao pescoÁo, a
+longa barba cor de greda empastada no suor da jornada e no pÛ dos
+caminhos, iam simplesmente · beira das estradas pedir p„o em troca de
 plangentes ladainhas e de arrastadas melopeas nazaes.
 
-Os peregrinos √° ponte sobre o Douro n√£o eram movidos por interesse algum
+Os peregrinos · ponte sobre o Douro n„o eram movidos por interesse algum
 pessoal.
 
 Esta romagem de novo genero exprime uma mentalidade nova; mostra que, se
 o nosso apparelho social mantem ainda por um lado os mesmos aspectos
-exteriores da sua velha structura, por outro lado elle annuncia j√° uma
+exteriores da sua velha structura, por outro lado elle annuncia j· uma
 funccionalidade diversa.
 
-Um poder absolutamente novo, que n√£o √© o poder religioso nem o poder
-politico, com quanto n√£o affirmado ainda nas institui√ß√µes, revela-se j√°
-por este facto na comprehens√£o dos espiritos. Esse novo poder,
+Um poder absolutamente novo, que n„o È o poder religioso nem o poder
+politico, com quanto n„o affirmado ainda nas instituiÁıes, revela-se j·
+por este facto na comprehens„o dos espiritos. Esse novo poder,
 irrevogavelmente destinado a substituir todos aquelles que sob diversos
-nomes teem gerido at√© hoje a direc√ß√£o da sociedade, √© na esphera
+nomes teem gerido atÈ hoje a direcÁ„o da sociedade, È na esphera
 espiritual a sciencia e na esphera temporal a industria.
 
-A ponte sobre o Douro √© a mais bella e a mais perfeita express√£o
+A ponte sobre o Douro È a mais bella e a mais perfeita express„o
 symbolica d'esse poder, ao qual o paiz inteiro acaba de prestar o culto
 mais unanime, o mais desinteressado, o mais convicto, o mais solemne de
-que ha exemplo na historia das manifesta√ß√µes do applauso publico. Era
-t√£o superiormente elevado o caracter d'esta grande festa da civilisa√ß√£o,
+que ha exemplo na historia das manifestaÁıes do applauso publico. Era
+t„o superiormente elevado o caracter d'esta grande festa da civilisaÁ„o,
 que perante o objecto d'ella desappareceram como por encanto n'esse dia
-todas as incompatibilidades, todas as dissidencias, todas as distinc√ß√µes
+todas as incompatibilidades, todas as dissidencias, todas as distincÁıes
 de gerachia, de seita e de partido, que dividem a sociedade portugueza.
-A direc√ß√£o da companhiados caminhos de ferro teve o bom gosto de
-convidar para o banquete que se seguiu √° solemnidade da inaugura√ß√£o os
-individuos representantes das opini√µes mais extremas, o mundo official e
+A direcÁ„o da companhiados caminhos de ferro teve o bom gosto de
+convidar para o banquete que se seguiu · solemnidade da inauguraÁ„o os
+individuos representantes das opiniıes mais extremas, o mundo official e
 o mundo dissidente, tudo o que ha mais retrogado e tudo o que ha mais
 progressivo, os mais ferrenhos conservadores e os mais ardentes
-revolucionarios. Estes personagens t√£o justamente surprehendidos de se
-acharem juntos pela primeira vez na sua vida, tomando parte em um almo√ßo
-cujos convivas n√£o tinham precisamente por fim devorarem-se uns aos
+revolucionarios. Estes personagens t„o justamente surprehendidos de se
+acharem juntos pela primeira vez na sua vida, tomando parte em um almoÁo
+cujos convivas n„o tinham precisamente por fim devorarem-se uns aos
 outros e serem os bifes de si mesmos, confraternisaram do modo mais
 tolerante e mais affectuoso, porque, acima de todas as suas divergencias
-episodicas de opini√£o, havia um sentimento de attrac√ß√£o commum, de
-concilia√ß√£o geral, em nome do qual ahi tinham convergido todos. E esse
+episodicas de opini„o, havia um sentimento de attracÁ„o commum, de
+conciliaÁ„o geral, em nome do qual ahi tinham convergido todos. E esse
 sentimento era o respeito do trabalho, d'essa immensa e irresistivel
-for√ßa anonyma, obscura, lenta, perseverante, que o seio das
+forÁa anonyma, obscura, lenta, perseverante, que o seio das
 bibliothecas, das fabricas, dos laboratorios, dos gabinetes de estudo,
 vae dando em cada dia aos destinos humanos um novo impulso para o
-aperfei√ßoamento e para a felicidade.
+aperfeiÁoamento e para a felicidade.
 
-N√£o foram os reis nem os exercitos nem os padres, mas n√£o foram tambem
+N„o foram os reis nem os exercitos nem os padres, mas n„o foram tambem
 os jacobinos nem os demagogos nem os atheus os que teem guiado e
-dirigido at√© hoje a humanidade na sua ascen√ß√£o atravez da historia. Foi
+dirigido atÈ hoje a humanidade na sua ascenÁ„o atravez da historia. Foi
 elle unicamente, foi o trabalho modestamente, obscuramente exercido nos
-remansos da paz, nos recolhimentos da applica√ß√£o e do estudo o que
+remansos da paz, nos recolhimentos da applicaÁ„o e do estudo o que
 determinou todas as conquistas, todas as victorias, todos os triumphos
 das sociedades.
 
@@ -1441,60 +1441,60 @@ victorias, um d'esses triumphos:--a conquista de perto de meio seculo de
 paz; a victoria, proporcional a esse periodo, da intelligencia do homem
 sobre as fatalidades da natureza, o triumpho finalmente do destino
 progressivo do nosso espirito sobre a immobilidade das nossas
-institui√ß√µes.
+instituiÁıes.
 
 Ha cerca de quarenta annos apenas, ex.'ma camara, essas duas montanhas
-estreitamente enla√ßadas agora por um abra√ßo de ferro, eram separadas por
-um rio vermelho de sangue. Nos mesmos logares onde n√≥s agora nos
+estreitamente enlaÁadas agora por um abraÁo de ferro, eram separadas por
+um rio vermelho de sangue. Nos mesmos logares onde nÛs agora nos
 reunimos para regar o solo com o champagne das agapes modernas, os
-nossos paes e os nossos av√≥s espingardeavam-se convictamente, decidindo
-com o sacrificio das suas vidas a quest√£o de palacio a esse tempo
+nossos paes e os nossos avÛs espingardeavam-se convictamente, decidindo
+com o sacrificio das suas vidas a quest„o de palacio a esse tempo
 debatida entre dois principes.
 
-A guerra com tal fundamento seria hoje insustentavel. √â evidente que
+A guerra com tal fundamento seria hoje insustentavel. … evidente que
 progredimos, e o facto de irmos ao Porto, desinteressadamente, aos
 milhares, celebrar um facto industrial, significa a mais eloquente
-affirma√ß√£o d'esse progresso.
+affirmaÁ„o d'esse progresso.
 
 A cidade do Porto que por muitas vezes tem recebido a visita dos seus
-principes, dos seus reis, dos seus generaes, dos seus mand√µes de toda a
+principes, dos seus reis, dos seus generaes, dos seus mandıes de toda a
 especie, teve pela primeira vez n'esse dia a visita do povo.
 
-Como foi que v. ex.¬™, representante do municipio portuense recebem este
-seu novo hospede? N√£o lhe apparecendo!
+Como foi que v. ex.™, representante do municipio portuense recebem este
+seu novo hospede? N„o lhe apparecendo!
 
-V. ex.¬™, que tem dado a esse espinha√ßo os tratos mais violentos e mais
+V. ex.™, que tem dado a esse espinhaÁo os tratos mais violentos e mais
 irracionaes para conseguir encurvar-se e acocorar-se n'uma reverencia
-satisfatoriamente abjecta diante de todas as testas coroadas; v. ex.¬™
-que tem desengon√ßado e desarticulado a rhetorica municipal debaixo dos
-p√©s da real familia; v. ex.¬™ que conserva ainda entre os ferros velhos
+satisfatoriamente abjecta diante de todas as testas coroadas; v. ex.™
+que tem desengonÁado e desarticulado a rhetorica municipal debaixo dos
+pÈs da real familia; v. ex.™ que conserva ainda entre os ferros velhos
 do seu stylo declamatorio--ao mesmo tempo alambicado e labrego--_as
 chaves d'esse heroico baluarte_ depostas em cada anno por v.
-ex.¬™--dizemos--n√£o teve um dito, uma palavra, um gesto sequer, para
+ex.™--dizemos--n„o teve um dito, uma palavra, um gesto sequer, para
 agradecer a cincoenta mil viajantes a mais solemne e a mais
-extraordinaria manifesta√ß√£o de estima de que ainda foi objecto uma
+extraordinaria manifestaÁ„o de estima de que ainda foi objecto uma
 cidade por parte dos representantes de um paiz inteiro.
 
-Este simples facto basta para nos provar que v. ex.¬™ desconhece
-completamente qual √© o espirito municipal das modernas sociedades
-democraticas, que v. ex.¬™ est√° cem annos atraz do seu tempo, e cem furos
-abaixo da miss√£o em que foi investida pelos suffragios da popula√ß√£o
-portuense, t√£o energica, t√£o intelligente e t√£o progressiva.
+Este simples facto basta para nos provar que v. ex.™ desconhece
+completamente qual È o espirito municipal das modernas sociedades
+democraticas, que v. ex.™ est· cem annos atraz do seu tempo, e cem furos
+abaixo da miss„o em que foi investida pelos suffragios da populaÁ„o
+portuense, t„o energica, t„o intelligente e t„o progressiva.
 
-√â possivel que v. ex.¬™ tivesse tido que fazer n'esse dia que houvesse
+… possivel que v. ex.™ tivesse tido que fazer n'esse dia que houvesse
 contrahido compromissos anteriores, que se achasse por ventura associada
 com alguma camara sua visinha para uma honesta merenda, para uma boa
 patuscada, para alguma das bem conhecidas _sapateiradas_, nas quaes todo
 o nosso ser se disgrega do mundo exterior para se abysmar no arroz do
-forno e na carne assada no espeto. Mas n'esse caso porque √© que v. ex.¬™
-nos n√£o preveniu? Durante a ausencia de v. ex.¬™, minha boa senhora, a
+forno e na carne assada no espeto. Mas n'esse caso porque È que v. ex.™
+nos n„o preveniu? Durante a ausencia de v. ex.™, minha boa senhora, a
 sua cidade estava immunda. Se tivessemos sido contemplados com um aviso
-telegraphico n√≥s, que fomos d'aqui unicamente com as nossas camizas,
+telegraphico nÛs, que fomos d'aqui unicamente com as nossas camizas,
 teriamos levado tambem as nossas vassouras nas malas e a nossa
-resigna√ß√£o para o desgosto de a n√£o vermos no espirito.
+resignaÁ„o para o desgosto de a n„o vermos no espirito.
 
-Acceite minha senhora a express√£o dos nossos sentimentos, t√£o cordeaes
-como aquelles que v. ex.¬™ nos n√£o exprimiu.
+Acceite minha senhora a express„o dos nossos sentimentos, t„o cordeaes
+como aquelles que v. ex.™ nos n„o exprimiu.
 
 
        *       *       *       *       *
@@ -1508,20 +1508,20 @@ Eis o que ao depois occorreu:
 
        *       *       *       *       *
 
-A pacata bestinha da governa√ß√£o andou a monte por alguns mezes,
-choutando ao acaso, pungidas nos ilhaes pelos tac√µes do sr. Barros e
+A pacata bestinha da governaÁ„o andou a monte por alguns mezes,
+choutando ao acaso, pungidas nos ilhaes pelos tacıes do sr. Barros e
 Cunha e sobre a anca pela ponteira do guarda sol do mesmo illustre
-estadista e cavalleiro. Para onde √© que s. ex.¬™, coberto de zelo e de
+estadista e cavalleiro. Para onde È que s. ex.™, coberto de zelo e de
 suor, queria com tanta violencia equestre encaminhar a onagra?
 
---Para a senda da moralidade e da economia! bradava s. ex.¬™ com uma das
-m√£os na redea e com a outra m√£o sobre a carta constitucional.
+--Para a senda da moralidade e da economia! bradava s. ex.™ com uma das
+m„os na redea e com a outra m„o sobre a carta constitucional.
 
 Mas os burriqueiros experimentados no trilho peguinhado pela burrinha
-bambeavam dubitativamente a cabe√ßa, e do alto das montanhas, com a m√£o
+bambeavam dubitativamente a cabeÁa, e do alto das montanhas, com a m„o
 aberta em viseira sobre os olhos, dilatando a vista ao futuro, diziam:
 
---N√£o. Para onde elle vae √© para a senda de Cacilhas √° Cova da Piedade.
+--N„o. Para onde elle vae È para a senda de Cacilhas · Cova da Piedade.
 
 E deixaram-o ir.
 
@@ -1530,411 +1530,411 @@ E deixaram-o ir.
 Como porem soasse o momento psychologico em que a asninha do governo,
 com a sella no ventre, considerou que ia de longada para muito longe da
 estrebaria, apertou-lhe as entranhas a nostalgia da cevada, e fitando a
-orelha, baixando a cabe√ßa, cravando os olhos sinistros nos cascos
+orelha, baixando a cabeÁa, cravando os olhos sinistros nos cascos
 deanteiros, arrojou ao firmamento ingrato duas parelhas de coices
 adiante dos quaes ascendeu da albarda para as alturas o vulto do grande
 homem. Depois do que elle baqueou no charco fronteiro, como se a
-perfidia das r√£s o tivesse aferrado pelo coccix e attrahido ao
-abysmo,--sempre com uma das m√£os na carta, mas j√° tem a outra m√£o na
+perfidia das r„s o tivesse aferrado pelo coccix e attrahido ao
+abysmo,--sempre com uma das m„os na carta, mas j· tem a outra m„o na
 redea.
 
        *       *       *       *       *
 
 Cousa verdadeiramente admiravel de ver foi a velocidade com que a
-cavalgadurinha do Estado principiou ent√£o a dar terra para feij√µes,
-retrocedendo para casa e bebendo o espa√ßo com o freio nos dentes e com a
-saudade da mangedoura na alma.--T√£o poderoso e fecundo √© o ascendente
-moral que exerce o principio sagrado da ra√ß√£o sobre as actividades
+cavalgadurinha do Estado principiou ent„o a dar terra para feijıes,
+retrocedendo para casa e bebendo o espaÁo com o freio nos dentes e com a
+saudade da mangedoura na alma.--T„o poderoso e fecundo È o ascendente
+moral que exerce o principio sagrado da raÁ„o sobre as actividades
 officiaes!
 
        *       *       *       *       *
 
-Quando as boninas e os representantes da na√ß√£o tornaram a ver a burrinha
+Quando as boninas e os representantes da naÁ„o tornaram a ver a burrinha
 do poder no prado florido onde convalescia entre os idylios do ocio o
-dente do sr. Fontes, grande foi o ardor e a emula√ß√£o entre os
-circumstantes que √° porfia queriam segurar a asna. Coube essa gloria ao
-sr. Jos√© Dias Ferreira.
+dente do sr. Fontes, grande foi o ardor e a emulaÁ„o entre os
+circumstantes que · porfia queriam segurar a asna. Coube essa gloria ao
+sr. JosÈ Dias Ferreira.
 
-Empolgando com m√£o dextra e firme a camba do freio √° alimaria do poder,
-o sr. Jos√© Dias exclamou triumphante e glorioso:
+Empolgando com m„o dextra e firme a camba do freio · alimaria do poder,
+o sr. JosÈ Dias exclamou triumphante e glorioso:
 
 --A mim, rapazes!
 
-E gritando em coro: ¬´Ave, Jos√© vencedor!¬ª--os rapazes foram a elle.
+E gritando em coro: ´Ave, JosÈ vencedor!ª--os rapazes foram a elle.
 
        *       *       *       *       *
 
-Eis sen√£o quando, que h√£o de ver os rapazes que a elle tinham ido e bem
+Eis sen„o quando, que h„o de ver os rapazes que a elle tinham ido e bem
 assim elle mesmo?
 
-Atonitos elles v√™em--caso que os olhos se lhes recusam acreditar--que a
-burra j√° n√£o est√° devoluta, que a albarda tem gente em cima!
+Atonitos elles vÍem--caso que os olhos se lhes recusam acreditar--que a
+burra j· n„o est· devoluta, que a albarda tem gente em cima!
 
-Effectivamente emquanto o sr. Jos√© Dias intrepido segurava a redea, o
+Effectivamente emquanto o sr. JosÈ Dias intrepido segurava a redea, o
 sr. Fontes veloz encavalgara o poder.
 
        *       *       *       *       *
 
-O primeiro acto do novo cavalleiro foi alijar dos alforges as provis√µes
-do governo que o precedera. S. ex.¬™ sacou os 150 contos de tijolo para a
+O primeiro acto do novo cavalleiro foi alijar dos alforges as provisıes
+do governo que o precedera. S. ex.™ sacou os 150 contos de tijolo para a
 Penitenciaria e atirou-os para um lado. Sacou os vinte e quatro conegos,
 rochuchundos, atochadas como paios, e atirou-os para o outro lado. Tirou
-depois os quinze beneficiados com os seus competentes livros de c√¥ro e o
-seu devido rap√©; tirou a cadeira de Sanskrito com o seu professor em
-cima; tirou a matta do Bussaco forrada de papel e enchuma√ßada de algod√£o
-para sua magestada passear; tirou o porto artificial de Leix√µes cheio de
+depois os quinze beneficiados com os seus competentes livros de cÙro e o
+seu devido rapÈ; tirou a cadeira de Sanskrito com o seu professor em
+cima; tirou a matta do Bussaco forrada de papel e enchumaÁada de algod„o
+para sua magestada passear; tirou o porto artificial de Leixıes cheio de
 dourados bergantins e de ligeiras caravellas com os seus competentes
 nautas, obra de grande pacienca e curiosidade; mais tirou o _Times_; e,
 como ainda restasse o que quer que fosse no fundo dos alforges, foram
-estes virados com o de dentro para f√≥ra, e appareceu por ultimo o sr.
+estes virados com o de dentro para fÛra, e appareceu por ultimo o sr.
 Venancio Deslandes, director da Imprensa Nacional e secretario da
-commiss√£o da exposi√ß√£o de Paris. S. ex.¬™ trazia empunhada e aberta a
-delicada umbela de linho cru forrada de tafet√° azul com a qual s. ex.¬™
-abrigava dos raios solares desde o Terreiro do Pa√ßo at√© √° rua do Duque
-de Bragan√ßa a fronte capitolina do ex-sr. presidente do conselho de
-ministros. O ar de s. ex.¬™ o sr. Deslandes era cheio de uma grave
-auctoridade, e √° sombra do chapeu de sol de linho cru forrado de tafet√°
+commiss„o da exposiÁ„o de Paris. S. ex.™ trazia empunhada e aberta a
+delicada umbela de linho cru forrada de tafet· azul com a qual s. ex.™
+abrigava dos raios solares desde o Terreiro do PaÁo atÈ · rua do Duque
+de BraganÁa a fronte capitolina do ex-sr. presidente do conselho de
+ministros. O ar de s. ex.™ o sr. Deslandes era cheio de uma grave
+auctoridade, e · sombra do chapeu de sol de linho cru forrado de tafet·
 azul o seu rosto parecia envolto na aureola de uma competencia genial!
 
 Despejado o alforge o cavalleiro pediu um exemplar do codigo fundamental
 da monarchia, que metteu em uma das bolsas; depois, lembrando-se das
 causas que determinaram o partido regenerador a abster-se de governar
-durante alguns mezes e querendo obviar √° repeti√ß√£o d'essa
+durante alguns mezes e querendo obviar · repetiÁ„o d'essa
 intermittencia, pediu o dentista Guerreiro e acondicionou-o na outra
 bolsa do alforge ministerial.
 
-Sorrindo em seguida e despedindo-se do sr. Jos√© Dias do alto da burra,
-enfiou a trote marcial provincias da publica administra√ß√£o em f√≥ra.
+Sorrindo em seguida e despedindo-se do sr. JosÈ Dias do alto da burra,
+enfiou a trote marcial provincias da publica administraÁ„o em fÛra.
 
        *       *       *       *       *
 
-E todos seguiram pressurosos o chibante cavalleiro. T√£o s√≥mente no mesmo
+E todos seguiram pressurosos o chibante cavalleiro. T„o sÛmente no mesmo
 logar em que sr. Fontes tivera estado a chumbar o seu dente foi visto
-nas ervas o sr. marquez d'Avila, acocorado na solid√£o, a chapinhar com
+nas ervas o sr. marquez d'Avila, acocorado na solid„o, a chapinhar com
 arnica o seu galo.
 
        *       *       *       *       *
 
-Na semana seguinte √°quella em que estes successos occorreram houve
+Na semana seguinte ·quella em que estes successos occorreram houve
 jantares de convite em todos os restaurantes de Lisboa. Estes banquetes
 eram o resultado de apostas feitas contra e a favor da victoria do sr.
 Fontes pelos _gentlemen_ do _turf_ politico.
 
 O sr. Fontes depois d'esse notavel triumpho ficou marcado gloriosamente
-como o _Gladiateur_, e ninguem mais tornar√° a apostar contra o nobre
-estadista sem a condi√ß√£o previa de que se sobrecarregue com mais alguns
-kilogrammas de chumbo o dente de s. ex.¬™
+como o _Gladiateur_, e ninguem mais tornar· a apostar contra o nobre
+estadista sem a condiÁ„o previa de que se sobrecarregue com mais alguns
+kilogrammas de chumbo o dente de s. ex.™
 
 
        *       *       *       *       *
 
 
-Uma vista d'olhos a uma das ultimas sess√µes da camara dos senhores
+Uma vista d'olhos a uma das ultimas sessıes da camara dos senhores
 deputados:
 
        *       *       *       *       *
 
 Enorme concorrencia nas galerias. Senhoras, diplomatas, escriptores,
 funccionarios publicos, militares, operarios, enchem as tribunas desde
-os parapeitos at√© ao tecto.
+os parapeitos atÈ ao tecto.
 
-Na sala um sugeito, embrulhado no seu paletot, com a perna tra√ßada sobre
+Na sala um sugeito, embrulhado no seu paletot, com a perna traÁada sobre
 o joelho, preside somnolentamente como um dilettante enfastiado.
 
-Serve de secretario, lan√ßando apontamentos a uma larga folha de papel um
+Serve de secretario, lanÁando apontamentos a uma larga folha de papel um
 individuo que ha poucos mezes se chamava apenas Alfredo, mas que, em
 resultado de um lucto occorrido durante o ultimo interregno parlamentar,
 publicou nos jornaes que principiava a chamar-se em testemunho de
-d√¥r--Alfredo Angelino. S. ex.¬™ traja rigorosmente de negro.
+dÙr--Alfredo Angelino. S. ex.™ traja rigorosmente de negro.
 
 Em frente da presidencia alinham-se os srs. ministros devidamente
-encasados nos seus _fauteuils_. N√£o teem uma apparencia espirituosamente
-feliz, mas parecem refrigerados nas cadeiras do poder e olham o espa√ßo
-com a express√£o passiva e t√£o caracteristicamente pacata dos individuos
-calidos quando instalados em decoc√ß√µes emolientes de alfavaca de cobra.
+encasados nos seus _fauteuils_. N„o teem uma apparencia espirituosamente
+feliz, mas parecem refrigerados nas cadeiras do poder e olham o espaÁo
+com a express„o passiva e t„o caracteristicamente pacata dos individuos
+calidos quando instalados em decocÁıes emolientes de alfavaca de cobra.
 
-No meio do amphitheatro um digno sr. deputado, com uma das m√£os sobre o
-cora√ß√£o, a outra m√£o alongada patheticamente no espa√ßo, est√° orando.
+No meio do amphitheatro um digno sr. deputado, com uma das m„os sobre o
+coraÁ„o, a outra m„o alongada patheticamente no espaÁo, est· orando.
 
-Em torno do tribuno agrupam-se em p√© varios representantes da Na√ß√£o.
+Em torno do tribuno agrupam-se em pÈ varios representantes da NaÁ„o.
 
-Uns roli√ßos, atochados, vermelhos, semelham tympanites enformadas em
-amplas sobrecasacas pomposas. Sente--se que elles respiram com exfor√ßo.
-O abuso do feij√£o suffoca-os como o sangue de Danton suffocava
-Robespierre--S√£o os empaturrados da coisa publica.
+Uns roliÁos, atochados, vermelhos, semelham tympanites enformadas em
+amplas sobrecasacas pomposas. Sente--se que elles respiram com exforÁo.
+O abuso do feij„o suffoca-os como o sangue de Danton suffocava
+Robespierre--S„o os empaturrados da coisa publica.
 
-Outros magros, defecados, pallidos, com as orelhas l√≠vidas, os p√©s
-mettidos para dentro, as cal√ßas esbambeadas pelas joelheiras dos
-sedentarios, teem sorrisos que se parecem com as referidas cal√ßas e que
-descobrem mucoses desbotadas e dentes morbidos.--S√£o os espinhelas
+Outros magros, defecados, pallidos, com as orelhas lÌvidas, os pÈs
+mettidos para dentro, as calÁas esbambeadas pelas joelheiras dos
+sedentarios, teem sorrisos que se parecem com as referidas calÁas e que
+descobrem mucoses desbotadas e dentes morbidos.--S„o os espinhelas
 cahidas do systema que felizmente nos rege.
 
-No fundo escuro da bancada sobresaem da c√¥r sombria dos vestuarios de
-inverno duas m√£os longas, pallidas, frias, magras, de um aspecto
-dramatico, boas para assignarem um decreto de proscrip√ß√£o ou uma
-senten√ßa de morte. O dono utilisa-as em explorar o seu proprio nariz
-inoffensivamente, n'uma abstra√ß√£o magnanima.
+No fundo escuro da bancada sobresaem da cÙr sombria dos vestuarios de
+inverno duas m„os longas, pallidas, frias, magras, de um aspecto
+dramatico, boas para assignarem um decreto de proscripÁ„o ou uma
+sentenÁa de morte. O dono utilisa-as em explorar o seu proprio nariz
+inoffensivamente, n'uma abstraÁ„o magnanima.
 
---Sr. presidente--diz o orador, e a sua voz √© pungente, elegiaca,
-lacrimejante--Sr. presidente! onde n√£o ha religi√£o n√£o ha dignidade.
+--Sr. presidente--diz o orador, e a sua voz È pungente, elegiaca,
+lacrimejante--Sr. presidente! onde n„o ha religi„o n„o ha dignidade.
 
 Um ecclesiastico, alto, magro, macilento, volve para o orador o seu
 estrabismo convergente, de mystico, e applaude-o com um grave meneio de
-cabe√ßa.
+cabeÁa.
 
 Este padre, de aspecto sombrio e inquisitorial, e aquelle orador de
 vinte e cinco a trinta annos, cheio de robustez, de saude, de mocidade,
-est√£o ambos de accordo sobre esse ponto: que a dignidade √© uma
-resultante da religi√£o. E todavia √© a religi√£o que obriga esse pallido
-mystico a conciliar-se com o celibato, a sequestrar-se na contempla√ß√£o,
+est„o ambos de accordo sobre esse ponto: que a dignidade È uma
+resultante da religi„o. E todavia È a religi„o que obriga esse pallido
+mystico a conciliar-se com o celibato, a sequestrar-se na contemplaÁ„o,
 a abandonar todos os bens terrenos pela posse dos fructos celestiaes, a
-submetter-se pela humilha√ß√£o, pelo desprezo de si mesmo, a offerecer uma
+submetter-se pela humilhaÁ„o, pelo desprezo de si mesmo, a offerecer uma
 face quando o esbofetearem na outra, finalmente a padecer e a
-resignar-se. E √© pelo contrario a dignidade que obriga esse rapaz
-sanguineo e robusto a caminhar na direc√ß√£o opposta √° d'esse anemico, a
-constituir a familia, a luctar, a n√£o perder tempo em contempla√ß√µes e em
+resignar-se. E È pelo contrario a dignidade que obriga esse rapaz
+sanguineo e robusto a caminhar na direcÁ„o opposta · d'esse anemico, a
+constituir a familia, a luctar, a n„o perder tempo em contemplaÁıes e em
 extasis, a ser pratico e positivo, a ter filhos gordos e camisas
 lavadas, a resistir finalmente e a triumphar na grande lucta pela vida
 moderna, em que as costelletas com batatas, as garrafas de Collares e as
-botas novas n√£o caem do ceu cob a f√≥rma de man√°, caem unicamente do
-trabalho perseverante e rude sob a forma de riqueza. Elles por√©m est√£o
-ambos de accordo emquanto √° allian√ßa indissoluvel da dignidade de um e
-da religi√£o do outro perante o principio transcendente da rhetorica
+botas novas n„o caem do ceu cob a fÛrma de man·, caem unicamente do
+trabalho perseverante e rude sob a forma de riqueza. Elles porÈm est„o
+ambos de accordo emquanto · allianÁa indissoluvel da dignidade de um e
+da religi„o do outro perante o principio transcendente da rhetorica
 constitucional.
 
 Diz mais o orador:
 
---¬´Sr. presidente!--e a entona√ß√£o do tribuno continua a ser lacrimosa e
+--´Sr. presidente!--e a entonaÁ„o do tribuno continua a ser lacrimosa e
 pathetica--li os sarcasmos de Voltaire, as ironias de Swift, as
-investiga√ß√µes de Renan, os de-esperos de Schopenhauer, Hartman
-inventando religi√µes para o futuro, Buchner divinisando a materia. Tudo
-isto porem n√£o apagou na minha alma a doce esperan√ßa que n'ella lan√ßaram
+investigaÁıes de Renan, os de-esperos de Schopenhauer, Hartman
+inventando religiıes para o futuro, Buchner divinisando a materia. Tudo
+isto porem n„o apagou na minha alma a doce esperanÁa que n'ella lanÁaram
 aquellas palavras divinas, que dizem: Bemaventurados os que soffrem
-porque elles ser√£o consolados¬ª.
+porque elles ser„o consoladosª.
 
 E muitas vozes enthusiasticas e convictas bradam de todos os lados da
-camara:--¬´Muito bem! muito bem!¬ª
+camara:--´Muito bem! muito bem!ª
 
-√Å morbida corrente intellectual do pessimismo allem√£o representado por
-Hartman e por Schopenhauer a Inglaterra opp√µe o naturalissimo de Darwin
-e as poderosas systematisa√ß√µes de Spencer, a Fran√ßa opp√µe o positivismo
-victorioso de Augusto Comte e de Littr√©. Em Portugal, onde estas
-quest√µes n√£o foram nunca ventiladas sen√£o por pobres escriptores
-desconhecidos em periodicos t√£o desconhecidos como elles, a camara dos
-srs. deputados ouve pela primeira vez a solu√ß√£o official d'esse debate.
+¡ morbida corrente intellectual do pessimismo allem„o representado por
+Hartman e por Schopenhauer a Inglaterra oppıe o naturalissimo de Darwin
+e as poderosas systematisaÁıes de Spencer, a FranÁa oppıe o positivismo
+victorioso de Augusto Comte e de LittrÈ. Em Portugal, onde estas
+questıes n„o foram nunca ventiladas sen„o por pobres escriptores
+desconhecidos em periodicos t„o desconhecidos como elles, a camara dos
+srs. deputados ouve pela primeira vez a soluÁ„o official d'esse debate.
 Ao optimismo leibniziano, ao deismo kantiano, ao ideologismo hegeliano,
 ao inconscientismo de Hartman, ao pessimismo de Schopenhauer e de Julius
 Bahnsen, ao naturalismo de Darwin, ao positivismo de Spencer, de Stuart
-Mill e de Littr√©, a intellectualidade portugueza responde mostrando a
-alma virginal do sr. Manuel d'Assump√ß√£o. E a comprehens√£o mais perfeita
+Mill e de LittrÈ, a intellectualidade portugueza responde mostrando a
+alma virginal do sr. Manuel d'AssumpÁ„o. E a comprehens„o mais perfeita
 dos destinos do universo fica de uma vez para sempre definida depois
 d'isto: a alma do nosso Manuel persiste inabalavel nas suas primitivas
-cren√ßas. Que queria a philosophia moderna? A philosophia moderna n√£o
-queria evidentemente sen√£o uma coisa: apagar a esperan√ßa na alma d'este
-mo√ßo. Pois ficar√° sabendo que o n√£o conseguiu. A camara dos deputados da
-na√ß√£o portuguez esmaga toda a obra do entendimento moderno
-collocando-lhe em cima o sr. Assump√ß√£o e a esperan√ßa da sua alma, no
+crenÁas. Que queria a philosophia moderna? A philosophia moderna n„o
+queria evidentemente sen„o uma coisa: apagar a esperanÁa na alma d'este
+moÁo. Pois ficar· sabendo que o n„o conseguiu. A camara dos deputados da
+naÁ„o portuguez esmaga toda a obra do entendimento moderno
+collocando-lhe em cima o sr. AssumpÁ„o e a esperanÁa da sua alma, no
 meio dos applausos geraes de todo o parlamento.
 
-E, n√£o obstante, querem dizer alguns que a politica n√£o √© mais do que a
-applica√ß√£o da philosophia √° direc√ß√£o pratica das sociedades.
+E, n„o obstante, querem dizer alguns que a politica n„o È mais do que a
+applicaÁ„o da philosophia · direcÁ„o pratica das sociedades.
 
-A politica de Bismark √© um grande poder social porque atraz d'elle est√°,
-como o peito pelo outro lado da coura√ßa, a disciplina philosophica de
+A politica de Bismark È um grande poder social porque atraz d'elle est·,
+como o peito pelo outro lado da couraÁa, a disciplina philosophica de
 Kant, de Hegel e de Hartman.
 
-Danton, a alma da Revolu√ß√£o, era na esphera executiva o instrumento da
+Danton, a alma da RevoluÁ„o, era na esphera executiva o instrumento da
 philosophia da Encyclopedia; e a primeira republica franceza baqueou
 precisamente no dia em que o principio philosophico que determinou o
-grande movimento cahiu com a cabe√ßa de Danton, guilhotinado pela
+grande movimento cahiu com a cabeÁa de Danton, guilhotinado pela
 indisciplina mental.
 
-Foi ainda a anarchia das id√©as, resultante da falta de um methodo
+Foi ainda a anarchia das idÈas, resultante da falta de um methodo
 philosophico, que comprometteu o destino da segunda republica em 1848.
 
-Finalmente para que a democracia se fundasse em Fran√ßa sobre bases
+Finalmente para que a democracia se fundasse em FranÁa sobre bases
 definitivas foi preciso que Danton resuscitasse para gloria das ideias e
-para honra do espirito humano na pessoa de Gambetta, que √© o filho
-triumphante da philosophia positiva do seculo XIX, assim como Danton √© o
+para honra do espirito humano na pessoa de Gambetta, que È o filho
+triumphante da philosophia positiva do seculo XIX, assim como Danton È o
 filho damasiadamente precoce da philosophia do seculo passado.
 
-Na Italia o que √© a politica actual, que libertou e unificou a grande
-peninsula, sen√£o a somma das expecula√ß√µes de uma longa serie de
-pensadores, desde Dante, o vidente, at√© esse taciturno Leopardi, que foi
+Na Italia o que È a politica actual, que libertou e unificou a grande
+peninsula, sen„o a somma das expeculaÁıes de uma longa serie de
+pensadores, desde Dante, o vidente, atÈ esse taciturno Leopardi, que foi
 o alliado intellectual de Hartman assim como Victor Manuel foi o alliado
 politico do imperador Guilherme?
 
-Em todos os estados actualmente em dissolu√ß√£o qual √© a causa do mal
-sen√£o a perturba√ß√£o da mentalidade pelo empyrismo da politica
-arbitraria? Ser√° preciso citar a Turquia? Ser√° preciso citar a Hispanha?
+Em todos os estados actualmente em dissoluÁ„o qual È a causa do mal
+sen„o a perturbaÁ„o da mentalidade pelo empyrismo da politica
+arbitraria? Ser· preciso citar a Turquia? Ser· preciso citar a Hispanha?
 
 Mas a Hispanha renasce em cada ida, em cada hora, com um assombroso
-vigor intellectual, que em poucos annos despeda√ßar√° todos os velhos
-preconceitos e todas as caducas institui√ß√µes que embargarem a sua
-ascen√ß√£o politica. O federalismo, forma definitiva da civilisa√ß√£o na
-peninsula iberica, est√°-se affirmando no paiz visinho de um modo que nos
+vigor intellectual, que em poucos annos despedaÁar· todos os velhos
+preconceitos e todas as caducas instituiÁıes que embargarem a sua
+ascenÁ„o politica. O federalismo, forma definitiva da civilisaÁ„o na
+peninsula iberica, est·-se affirmando no paiz visinho de um modo que nos
 certifica da impossibilidade de um retrocesso. O federalismo perde a
-pouco e pouco o caracter de uma opini√£o partidaria. √â um resultado
-philosophico, que em toda a Hispanha est√° sendo pacificmente revisto e
+pouco e pouco o caracter de uma opini„o partidaria. … um resultado
+philosophico, que em toda a Hispanha est· sendo pacificmente revisto e
 contraprovado por todas as sciencias: pela mechanica, pela mesologia,
 pela climatologia, pela ethnologia, pela anthropologia, pela
-linguistica, pela historia. Quando esta id√©a chegar ao cabo da sua
-elabora√ß√£o especulativa, ella converter-se-ha em uma lei sociologica e
-actuar√° sobre o seu fito, irresistivelmente, como uma for√ßa da natureza.
+linguistica, pela historia. Quando esta idÈa chegar ao cabo da sua
+elaboraÁ„o especulativa, ella converter-se-ha em uma lei sociologica e
+actuar· sobre o seu fito, irresistivelmente, como uma forÁa da natureza.
 
-Quando por toda a parte a philosophia estabelece e dilata t√£o
-experimentalmente e t√£o evidentemente os seus dominios sobre o destino
+Quando por toda a parte a philosophia estabelece e dilata t„o
+experimentalmente e t„o evidentemente os seus dominios sobre o destino
 humano, a camara dos srs. deputados em Portugal applaude na sua grande
-maioria a condemna√ß√£o da critica e do pensamento moderno; declara-se
-indissoluvelmente abra√ßada √° theologia; e a todas as conquistas da
-sciencia no presente seculo ella opp√µe triumphantemente a posse d'esta
-no√ß√£o: ¬´Bemaventurados os que soffrem porque elles ser√£o consolados.¬ª
+maioria a condemnaÁ„o da critica e do pensamento moderno; declara-se
+indissoluvelmente abraÁada · theologia; e a todas as conquistas da
+sciencia no presente seculo ella oppıe triumphantemente a posse d'esta
+noÁ„o: ´Bemaventurados os que soffrem porque elles ser„o consolados.ª
 
-A ironia emudece de pasmo deante de um symptoma t√£o patente de
+A ironia emudece de pasmo deante de um symptoma t„o patente de
 esphacelamento cerebral.
 
 Estamos n'um congresso de legisladores ou estamos n'um seminario de
-caturras?--√â unicamente o que perguntamos.
+caturras?--… unicamente o que perguntamos.
 
        *       *       *       *       *
 
-O medo como a camara pensa d√°-nos a justa medida do modo como a camara
-governa. Ha muitos annos que ella n√£o toma uma unica medida tendente a
-coordenar e a systhematisar harmonicamente os esfor√ßos da progress√£o
+O medo como a camara pensa d·-nos a justa medida do modo como a camara
+governa. Ha muitos annos que ella n„o toma uma unica medida tendente a
+coordenar e a systhematisar harmonicamente os esforÁos da progress„o
 social.
 
-A reforma da lei eleitoral, fonte da reconstitui√ß√£o politica, est√° por
+A reforma da lei eleitoral, fonte da reconstituiÁ„o politica, est· por
 fazer.
 
-A liberdade religiosa n√£o est√° regulamentada de modo que torne effectivo
+A liberdade religiosa n„o est· regulamentada de modo que torne effectivo
 o principio em que se funda.
 
-A distribui√ß√£o racional do imposto ainda n√£o foi definida.
+A distribuiÁ„o racional do imposto ainda n„o foi definida.
 
-Finalmente a organisa√ß√£o da instruc√ß√£o publicia, esse elemento vital de
+Finalmente a organisaÁ„o da instrucÁ„o publicia, esse elemento vital de
 uma sociedade em movimento, acha-se por enunciar. N'este ponto a mesma
-Turquia est√° muito adeante de n√≥s.
+Turquia est· muito adeante de nÛs.
 
-Os parlamentos, sem direc√ß√£o mental, sem criterio scientifico, sem
+Os parlamentos, sem direcÁ„o mental, sem criterio scientifico, sem
 destino politico, esterelisam-se successivamente na phraseologia e
 dissolvem-se na banalidade.
 
 As crises parlamentares determinadas unicamente pelo conflicto dos
-personagens impacientes ou despeitados attrahem periodicamente √°s
-camaras uma grande concorrencia de ouvintes que n√£o recebem ahi sen√£o as
-mais perigosas li√ß√µes de cynismo e de immoralidade.
+personagens impacientes ou despeitados attrahem periodicamente ·s
+camaras uma grande concorrencia de ouvintes que n„o recebem ahi sen„o as
+mais perigosas liÁıes de cynismo e de immoralidade.
 
-Das duas coisas uma: ou o espirito publico est√° bastante corrompido para
-assimilar sem perturb√ß√£o do seu organismo a entoxica√ß√£o d'esses
-exemplos, e n'esse caso seria um paiz condemnado √† dissolu√ß√£o; ou a
+Das duas coisas uma: ou o espirito publico est· bastante corrompido para
+assimilar sem perturbÁ„o do seu organismo a entoxicaÁ„o d'esses
+exemplos, e n'esse caso seria um paiz condemnado ‡ dissoluÁ„o; ou a
 burguezia, cumplice n'esta decadencia, tem ainda um resto de senso
 moral, e n'esse caso revoltar-se-ha e o actual regimen politico ha de
-cair como caiu em Fran√ßa o segundo imperio por effeito de um movimento
-similhante √°quelle a que Luiz Veuillot chamou a _revolu√ß√£o do despreso_.
+cair como caiu em FranÁa o segundo imperio por effeito de um movimento
+similhante ·quelle a que Luiz Veuillot chamou a _revoluÁ„o do despreso_.
 
-√Å similhan√ßa de um corpo morto o parlamento immobilisou-se por falta de
-circula√ß√£o intellectual. Os partidos politicos s√£o os centros nervosos
+¡ similhanÁa de um corpo morto o parlamento immobilisou-se por falta de
+circulaÁ„o intellectual. Os partidos politicos s„o os centros nervosos
 do systema representativo. Atrophiados esses centros o systema cessa de
-funccionar. Ora qual √© o estado dos partidos politicos em Portugal?
+funccionar. Ora qual È o estado dos partidos politicos em Portugal?
 
        *       *       *       *       *
 
-Ha um partido que est√° hoje no poder. √â um partido conservador. √â
-catholico, √© monarchico, √© auctoritario, √© proteccionista, √©
-militarista, √© unitario. Quer um parlamento com duas camaras, uma
-electiva e outra hereditaria; quer uma igreja e uma religi√£o do Estado;
+Ha um partido que est· hoje no poder. … um partido conservador. …
+catholico, È monarchico, È auctoritario, È proteccionista, È
+militarista, È unitario. Quer um parlamento com duas camaras, uma
+electiva e outra hereditaria; quer uma igreja e uma religi„o do Estado;
 quer as alfandegas com as suas velhas pautas; quer um exercito
-permanente com os seus respectivos canh√µes Krupp e a sua competente pena
-de morte; quer as colonias com o seu antigo systema de direc√ß√£o e de
+permanente com os seus respectivos canhıes Krupp e a sua competente pena
+de morte; quer as colonias com o seu antigo systema de direcÁ„o e de
 governo; quer ainda fazer o seu gancho de negocio e ter um estaleiro,
-uma fabrica de polvora, uma imprensa, uma fundi√ß√£o de typo, uma fabrica
+uma fabrica de polvora, uma imprensa, uma fundiÁ„o de typo, uma fabrica
 de cordas, uma photographa, etc.
 
 Ha por outro lado quatro ou cinco partidos que alternativamente se
 disgregam ou se unificam, conforme as necessidades da sua tactica, e que
-pelas suas id√©as n√£o formam realmente sen√£o um partido unico: o partido
-opposicionista. Que differen√ßa ha entre este partido na opposi√ß√£o e o
-partido actualmente no governo? √â revolucionario? N√£o: √© egualmente
-conservador. √â racionalista? N√£o: √© egualmente catholico. √â
-evolucionista? N√£o: √© egualmente auctoritario. Quer a liberdade da
-industria e a liberdade do commercio? N√£o: quer egualmente a protec√ß√£o
+pelas suas idÈas n„o formam realmente sen„o um partido unico: o partido
+opposicionista. Que differenÁa ha entre este partido na opposiÁ„o e o
+partido actualmente no governo? … revolucionario? N„o: È egualmente
+conservador. … racionalista? N„o: È egualmente catholico. …
+evolucionista? N„o: È egualmente auctoritario. Quer a liberdade da
+industria e a liberdade do commercio? N„o: quer egualmente a protecÁ„o
 das pautas. Quer egualmente o exercito com os seus generaes, e a
 universidade de Coimbra com os seus theologos; quer egualmenle a
-magistratura anarchica, a instruc√ß√£o cahotica, o suffragio corrompido, o
+magistratura anarchica, a instrucÁ„o cahotica, o suffragio corrompido, o
 governo arbitrario. Tambem quer fazer de quando em quando para se
 distrahir o seu bico de obra, e procura manter para esse fim a imprensa,
-a photographia, a cordoaria, a fundi√ß√£o, etc.
+a photographia, a cordoaria, a fundiÁ„o, etc.
 
-A unica opini√£o que a opposi√ß√£o diz ter e que ella accusa o governo de
-n√£o professar √© a opini√£o abstracta da economia, da ordem, da moralidade
-e do progresso. Como por√©m todos os governos, qualquer que seja o
+A unica opini„o que a opposiÁ„o diz ter e que ella accusa o governo de
+n„o professar È a opini„o abstracta da economia, da ordem, da moralidade
+e do progresso. Como porÈm todos os governos, qualquer que seja o
 partido de que elles procedam, teem successivamente cahido do poder
-perante a accusa√ß√£o de n√£o servirem o progresso, a moralidade, a ordem e
-a economia, devemos acreditar que, ou essas virtudes, que ali√°s n√£o
-p√≥dem constituir principios de programma, s√£o communs a todos os
-partidos ou n√£o s√£o especiaes de partido nenhum.
+perante a accusaÁ„o de n„o servirem o progresso, a moralidade, a ordem e
+a economia, devemos acreditar que, ou essas virtudes, que ali·s n„o
+pÛdem constituir principios de programma, s„o communs a todos os
+partidos ou n„o s„o especiaes de partido nenhum.
 
-Os partidos portanto n√£o se differen√ßam sen√£o pelos nomes dos individuos
-mais ou menos numerosos do que elles se comp√µem. N'esta ausencia
-completa de id√©as contrapostas o governo em Portugal, versando
-constantemente sobre si proprio, d√°-nos o espectaculo de um organismo
-vivo isolado na crea√ß√£o, alimentando-se na sua propria substancia e
+Os partidos portanto n„o se differenÁam sen„o pelos nomes dos individuos
+mais ou menos numerosos do que elles se compıem. N'esta ausencia
+completa de idÈas contrapostas o governo em Portugal, versando
+constantemente sobre si proprio, d·-nos o espectaculo de um organismo
+vivo isolado na creaÁ„o, alimentando-se na sua propria substancia e
 digerindo-se pouco e pouco a si mesmo.
 
        *       *       *       *       *
 
-Deixando de ser uma lucta de principios e de id√©as a politica
-converte-se fatalmente em uma quest√£o de compadres.
+Deixando de ser uma lucta de principios e de idÈas a politica
+converte-se fatalmente em uma quest„o de compadres.
 
-O compadrio elevado √° cathegoria de institui√ß√£o nacional, domina tudo,
-corrompe tudo, dissolve tudo. Os partidos que n√£o p√≥dem conquistar o
-appoio da opini√£o pelas id√©as que representam, procuram manter-se pelo
-appoio dos compadres que favorecem. √â na propor√ß√£o exacta do numero dos
+O compadrio elevado · cathegoria de instituiÁ„o nacional, domina tudo,
+corrompe tudo, dissolve tudo. Os partidos que n„o pÛdem conquistar o
+appoio da opini„o pelas idÈas que representam, procuram manter-se pelo
+appoio dos compadres que favorecem. … na proporÁ„o exacta do numero dos
 compadres que annualmente despacha e emprega, que um partido augmenta ou
-diminue de adeptos, progride ou retrograda na confian√ßa da cor√¥a e no
+diminue de adeptos, progride ou retrograda na confianÁa da corÙa e no
 favor da urna.
 
-O dogma fundamental do compadrio imp√µe-se por tal modo que transforma
-todas as outras no√ß√µes moraes segundo o criterio de que elle √© a
-express√£o. Transforma a justi√ßa, a honra, a probidade, a propria
+O dogma fundamental do compadrio impıe-se por tal modo que transforma
+todas as outras noÁıes moraes segundo o criterio de que elle È a
+express„o. Transforma a justiÁa, a honra, a probidade, a propria
 consciencia. Nenhum partido politico ousa violar o compadrio: seria
-commetter a mais vil e a mais nefanda das trai√ß√µes politicas!
+commetter a mais vil e a mais nefanda das traiÁıes politicas!
 
-Despachando o compadre mais servi√ßal com exclus√£o do adversario mais
-competente todo o governo honesto julga praticar um acto de gratid√£o e
-de lealdade. E ninguem v√™ quanto ha de profundamente subversivo da ordem
-moral n'este simples facto t√£o vulgar, t√£o frequente, t√£o despercebido:
-a exclus√£o da competencia! Excluir a competencia, ou quando menos
+Despachando o compadre mais serviÁal com exclus„o do adversario mais
+competente todo o governo honesto julga praticar um acto de gratid„o e
+de lealdade. E ninguem vÍ quanto ha de profundamente subversivo da ordem
+moral n'este simples facto t„o vulgar, t„o frequente, t„o despercebido:
+a exclus„o da competencia! Excluir a competencia, ou quando menos
 preteril-a, por um anno, por um mez, por um dia, por uma hora que seja,
-√© commetter o attentado mais criminoso de que o Estado p√≥de ser r√©o
-deante da sociedade. Esse attentado resume todas as viola√ß√µes do direito
-e todas as affrontas da justi√ßa. √â um roubo violento e descarado,
+È commetter o attentado mais criminoso de que o Estado pÛde ser rÈo
+deante da sociedade. Esse attentado resume todas as violaÁıes do direito
+e todas as affrontas da justiÁa. … um roubo violento e descarado,
 aggravado com a offensa do merito, com a injuria da capacidade, com o
-insulto ao trabalho, com o escarneo √° moral, com o ultrage ao dever.
+insulto ao trabalho, com o escarneo · moral, com o ultrage ao dever.
 
-Na politica portugueza, que tem o seu cal√£o como as mulheres publicas e
+Na politica portugueza, que tem o seu cal„o como as mulheres publicas e
 como os ratoneiros, esse crime infame toma o nome dourado de
 _compromisso politico ou de acto de fidelidade partidaria_. E do
-ministro que o pratica e para o qual se deveria pedir a pris√£o
-correccional ou o degredo com trabalhos publicos, a opini√£o diz
-apenas:--√â fiel aos seus correligionarios, sabe ser amigo, despachou o
+ministro que o pratica e para o qual se deveria pedir a pris„o
+correccional ou o degredo com trabalhos publicos, a opini„o diz
+apenas:--… fiel aos seus correligionarios, sabe ser amigo, despachou o
 compadre, vou para o partido d'elle.
 
-O officio do governo √© servir o paiz. Como por√©m o paiz, por effeito do
-machinismo eleitoral, √© representado constantemente pelos compadres do
-governo, o officio do governo em ultima analyse n√£o √© mais do que servir
-o compadre. Est√° no seu destino. Gra√ßas aos elementos de corrup√ß√£o de
-que o governo disp√µe, o cidad√£o, n√£o votando como cidad√£o mas votando
-como compadre, d√° o primeiro impulso que p√µe em movimento toda a
-engrenagem do systema: elegendo o compadre √© elle mesmo que funda a
+O officio do governo È servir o paiz. Como porÈm o paiz, por effeito do
+machinismo eleitoral, È representado constantemente pelos compadres do
+governo, o officio do governo em ultima analyse n„o È mais do que servir
+o compadre. Est· no seu destino. GraÁas aos elementos de corrupÁ„o de
+que o governo dispıe, o cidad„o, n„o votando como cidad„o mas votando
+como compadre, d· o primeiro impulso que pıe em movimento toda a
+engrenagem do systema: elegendo o compadre È elle mesmo que funda a
 tyrannia absoluta e despotica do compadrio que depois o governa.
 
-A sociedade est√° √° merc√™ do compadre. E se ha poder que possa
-contrabalan√ßar alguma vez, em dadas conjuncturas, o poder do compadre,
-esse poder √© unicamente--o da comadre.
+A sociedade est· · mercÍ do compadre. E se ha poder que possa
+contrabalanÁar alguma vez, em dadas conjuncturas, o poder do compadre,
+esse poder È unicamente--o da comadre.
 
-A aptid√£o provada, a capacidade, o talento, o trabalho, a firmesa no
-dever, a tenacidade no estudo, a mais alta comprehens√£o e o mais
+A aptid„o provada, a capacidade, o talento, o trabalho, a firmesa no
+dever, a tenacidade no estudo, a mais alta comprehens„o e o mais
 rigoroso cumprimento da solidariedade e da honra--palavras, palavras,
 unicamente palavras! Na esphera dos fattos, na ordem pratica, positiva,
 real; compadrice, comadrice--eis tudo.
@@ -1942,31 +1942,31 @@ real; compadrice, comadrice--eis tudo.
        *       *       *       *       *
 
 Um unico remedio poderia reconstituir a politica portugueza, cuja
-decadencia √© tanto mais lamentavel quanto √© certo que a sociedade que
-ella tem por fim dirigir est√° na anarchia economica e tende para uma
+decadencia È tanto mais lamentavel quanto È certo que a sociedade que
+ella tem por fim dirigir est· na anarchia economica e tende para uma
 miseria que se tornaria inevitavel sem os supprimentos do Brazil. Esse
 remedio e a entrada no parlamento de um partido novo constituido de
-quatro ou cinco individuos de opini√µes radicaes: republicanos,
+quatro ou cinco individuos de opiniıes radicaes: republicanos,
 socialistas, federalistas, positivistas--o que quizerem--com tanto que
-sejam homens profundamente convictos e determinados √° peleja de cada dia
+sejam homens profundamente convictos e determinados · peleja de cada dia
 e de cada hora. Este pequeno partido, desde que tivesse um criterio
 philosophico, determinaria uma corrente de ideias de tal modo poderosa
 que obrigaria todos os conservadores a confederarem-se para lhe
-resistir, n√£o j√° pela phraseologia e pela rhetorica mas pelo estudo
-reflectido e consciencioso de todos os problemas da civilisa√ß√£o. E das
-concess√µes mutuas e successivas, feitas, j√° ao principio da ordem pelos
-revolucionarios impacientes, j√° ao principio do progresso pelos
+resistir, n„o j· pela phraseologia e pela rhetorica mas pelo estudo
+reflectido e consciencioso de todos os problemas da civilisaÁ„o. E das
+concessıes mutuas e successivas, feitas, j· ao principio da ordem pelos
+revolucionarios impacientes, j· ao principio do progresso pelos
 conservadores retrogrados, resultaria para a sociedade o movimento
-actualmente paralysado no conflicto das pequenas paix√µes e dos
+actualmente paralysado no conflicto das pequenas paixıes e dos
 mesquinhos interesses das mediocridades dirigentes e triumphantes.
 
        *       *       *       *       *
 
 Falhando o meio que propomos pela falta doa quatro homens que
-sollicitamos, resta-nos ent√£o adoptar o expediente ultimamente proposto
+sollicitamos, resta-nos ent„o adoptar o expediente ultimamente proposto
 pela municipalidade de Lisboa:--tratar o parlamentarisrao pela cal. Mas
 que quanto antes, n'esse caso, a municipalidade effectue o seu projecto:
-caiar o palacio das c√¥rtes, branquear por f√≥ra o parlamento--_dealbatum
+caiar o palacio das cÙrtes, branquear por fÛra o parlamento--_dealbatum
 sepulchrum_!
 
 
@@ -1976,7 +1976,7 @@ sepulchrum_!
 
 
 End of the Project Gutenberg EBook of As Farpas, Janeiro de 1878,
-by Ramalho Ortig√£o and Jos√© Maria E√ßa de Queiroz
+by Ramalho Ortig„o and JosÈ Maria EÁa de Queiroz
 
 *** END OF THIS PROJECT GUTENBERG EBOOK AS FARPAS ***
 
@@ -1984,7 +1984,7 @@ by Ramalho Ortig√£o and Jos√© Maria E√ßa de Queiroz
 This and all associated files of various formats will be found in:
         http://www.gutenberg.net/1/3/0/9/13092/
 
-Produced by Cl√°udia Ribeiro, Larry Bergey and PG Distributed
+Produced by Cl·udia Ribeiro, Larry Bergey and PG Distributed
 Proofreaders. Produced from page scans provided by Biblioteca Nacional
 de Lisboa.
 

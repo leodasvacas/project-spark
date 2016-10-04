@@ -1,4 +1,4 @@
-The Project Gutenberg EBook of HabitaÃ§Ãµes Operarias, by Teixeira Bastos
+The Project Gutenberg EBook of Habitações Operarias, by Teixeira Bastos
 
 This eBook is for the use of anyone anywhere at no cost and with
 almost no restrictions whatsoever.  You may copy it, give it away or
@@ -6,7 +6,7 @@ re-use it under the terms of the Project Gutenberg License included
 with this eBook or online at www.gutenberg.org
 
 
-Title: HabitaÃ§Ãµes Operarias
+Title: Habitações Operarias
 
 Author: Teixeira Bastos
 
@@ -16,7 +16,7 @@ Language: Portuguese
 
 Character set encoding: ISO-8859-1
 
-*** START OF THIS PROJECT GUTENBERG EBOOK HABITAÃ‡Ã•ES OPERARIAS ***
+*** START OF THIS PROJECT GUTENBERG EBOOK HABITAÇÕES OPERARIAS ***
 
 
 
@@ -32,15 +32,15 @@ O IDEAL MODERNO
 BIBLIOTHECA
 POPULAR
 DE
-ORIENTAÃ‡ÃƒO
+ORIENTAÇÃO
 SOCIALISTA
 
 
-HABITAÃ‡Ã•ES OPERARIAS
+HABITAÇÕES OPERARIAS
 
 DIRECTORES
 
-MAGALHÃƒES LIMA
+MAGALHÃES LIMA
 
 E
 
@@ -49,14 +49,14 @@ TEIXEIRA BASTOS
 
 
 COMP.^A N.^AL EDITORA
-SECÃ‡ÃƒO EDITORIAL
+SECÇÃO EDITORIAL
 ADM. J. GUEDES--LISBOA
 
 
 O IDEAL MODERNO
 
 
-HabitaÃ§Ãµes Operarias
+Habitações Operarias
 
 
 
@@ -66,547 +66,547 @@ Teixeira Bastos
 
 
 LISBOA
-SECÃ‡ÃƒO EDITORIAL DA COMPANHIA NACIONAL EDITORA
+SECÇÃO EDITORIAL DA COMPANHIA NACIONAL EDITORA
 Administrador--JUSTINO GUEDES
-50, Largo do Conde BarÃ£o, Lisboa
+50, Largo do Conde Barão, Lisboa
 AGENCIAS
-Porto, Largo dos Loyos, 47, 1.Âº
+Porto, Largo dos Loyos, 47, 1.º
 38, Rua da Quitanda, Rio de Janeiro
 1898
 
 
 
 
-HABITAÃ‡Ã•ES OPERARIAS
+HABITAÇÕES OPERARIAS
 
 
 I
 
-A questÃ£o social abrange muitos problemas, sendo evidentemente um dos
-principaes o da habitaÃ§Ã£o. Ã‰ tal a importancia d'elle, que pertence na
-actualidade ao numero dos assumptos que chamam mais a attenÃ§Ã£o, nÃ£o sÃ³
+A questão social abrange muitos problemas, sendo evidentemente um dos
+principaes o da habitação. É tal a importancia d'elle, que pertence na
+actualidade ao numero dos assumptos que chamam mais a attenção, não só
 dos socialistas, como dos economistas e dos philantropos de todos os
-centros da civilisaÃ§Ã£o.
+centros da civilisação.
 
-NÃ£o se busca a soluÃ§Ã£o definitiva do problema da habitaÃ§Ã£o, a qual
-depende, como a de todos os outros problemas sociaes, das transformaÃ§Ãµes
-por que estÃ£o passando as sociedades contemporaneas, em obediencia Ã¡ lei
-historica da evoluÃ§Ã£o; o eminente economista belga, Hector Denis, ainda
-ha poucos mezes, no _Congresso internacional das habitaÃ§Ãµes operarias_,
+Não se busca a solução definitiva do problema da habitação, a qual
+depende, como a de todos os outros problemas sociaes, das transformações
+por que estão passando as sociedades contemporaneas, em obediencia á lei
+historica da evolução; o eminente economista belga, Hector Denis, ainda
+ha poucos mezes, no _Congresso internacional das habitações operarias_,
 effectuado na Belgica, demonstrou a necessidade, para se attingir o
-desejado fim, de uma transformaÃ§Ã£o do regimen da propriedade. O que se
-espera n'este momento, Ã© encontrar os meios praticos de fornecer aos
-operarios, e em geral Ã¡s classes menos favorecidas, melhor habitaÃ§Ã£o do
-que aquellas em que vivem, isto Ã©, casas economicas e hygienicas.
+desejado fim, de uma transformação do regimen da propriedade. O que se
+espera n'este momento, é encontrar os meios praticos de fornecer aos
+operarios, e em geral ás classes menos favorecidas, melhor habitação do
+que aquellas em que vivem, isto é, casas economicas e hygienicas.
 
 Este problema, que preoccupa ha muito tempo, em todos os paizes, os que
-se interessam pela questÃ£o social, e ainda os que sÃ³ desejam melhorar o
+se interessam pela questão social, e ainda os que só desejam melhorar o
 viver dos proletarios, tem sido descurado em Portugal, nomeadamente em
 Lisboa, o nosso primeiro centro operario.
 
-NÃ£o ha casas baratas em boas condiÃ§Ãµes hygienicas, casas para gente
-pobre, habitaÃ§Ãµes para operarios!
+Não ha casas baratas em boas condições hygienicas, casas para gente
+pobre, habitações para operarios!
 
 Duas vezes por anno, invariavelmente, nos mezes de maio e novembro,
-ouve-se este clamor, sahido de todos os recantos da cidade, Ã©choando na
-imprensa e extendendo-se uma ou outra vez atÃ© o seio da Camara Municipal
+ouve-se este clamor, sahido de todos os recantos da cidade, échoando na
+imprensa e extendendo-se uma ou outra vez até o seio da Camara Municipal
 de Lisboa ou do Parlamento.
 
-Passados, porÃ©m, os dias 25 de maio e 25 de novembro,--dias em que os
-inquilinos teem de pagar aos senhorios a renda de uma casa, da qual sÃ³
-comeÃ§am a gosar 36 dias depois, anticipaÃ§Ã£o esta que vae por vezes atÃ©
+Passados, porém, os dias 25 de maio e 25 de novembro,--dias em que os
+inquilinos teem de pagar aos senhorios a renda de uma casa, da qual só
+começam a gosar 36 dias depois, anticipação esta que vae por vezes até
 41 dias, porque muitos senhorios exigem agora a renda no dia
 20,--passados esses dias, para os pobres frequentes vezes de tristeza e
 lagrimas, o clamor que se ouvia distinctamente, esmorece e extingue-se,
 para reapparecer mezes depois, com a mesma intensidade e, em quantos
-casos, com augmento de razÃ£o.
+casos, com augmento de razão.
 
 Desconsolador queixume!
 
-Com effeito, a gente pobre, o proletariado, nÃ£o encontra casas salubres,
+Com effeito, a gente pobre, o proletariado, não encontra casas salubres,
 alegres e confortaveis.
 
 Percorram-se em Lisboa os bairros onde de preferencia residem os
 operarios, como, por exemplos a Alfama, esses restos immundos da cidade
 velha[1], ou a freguezia de Santos-o-Velho, algumas ruas em que se
-accumula uma parte consideravel da populaÃ§Ã£o laboriosa; e o que se vÃª?
+accumula uma parte consideravel da população laboriosa; e o que se vê?
 
 Pocilgas infectas e nauseabundas, sem ar, sem luz do dia, nem as mais
-simples condiÃ§Ãµes de hygiene, exhalando cheiros deleterios, em ruas
+simples condições de hygiene, exhalando cheiros deleterios, em ruas
 estreitas, tortuosas, onde, raras vezes, ou por poucos instantes, entra
 um raio de sol!
 
 E vive-se alli?
 
-Vive-se e soffre-se! E o que Ã© mais e muito peor, procria-se!
-Multiplicam-se as geraÃ§Ãµes na miseria e no vicio, n'essa agglomeraÃ§Ã£o
+Vive-se e soffre-se! E o que é mais e muito peor, procria-se!
+Multiplicam-se as gerações na miseria e no vicio, n'essa agglomeração
 anti-hygienica e immoral, n'essa quasi promiscuidade suja e degradante.
 
-E quem se preoccupa entre nÃ³s com este estado de cousas, quem tenta
-remediar o mal, quem emprehende a construcÃ§Ã£o de casas baratas,
-espaÃ§osas, expostas Ã¡ claridade vivificante do sol, com boa aereaÃ§Ã£o,
-com todas as condiÃ§Ãµes aconselhadas pela hygiene?
+E quem se preoccupa entre nós com este estado de cousas, quem tenta
+remediar o mal, quem emprehende a construcção de casas baratas,
+espaçosas, expostas á claridade vivificante do sol, com boa aereação,
+com todas as condições aconselhadas pela hygiene?
 
 Os proprietarios, os donos de fabricas, os proprios operarios?
-AssociaÃ§Ãµes de beneficencia, ou sociedades por acÃ§Ãµes? O municipio ou o
+Associações de beneficencia, ou sociedades por acções? O municipio ou o
 Estado?
 
-Na realidade, jÃ¡ por diversas vezes a imprensa diaria tem noticiado uma
-ou outra tentativa sympathica, no sentido de construir habitaÃ§Ãµes
-baratas e hygienicas para os pobres ou para os operarios; jÃ¡ o municipio
-tem approvado projectos de edificaÃ§Ãµes economicas; atÃ© mesmo no
+Na realidade, já por diversas vezes a imprensa diaria tem noticiado uma
+ou outra tentativa sympathica, no sentido de construir habitações
+baratas e hygienicas para os pobres ou para os operarios; já o municipio
+tem approvado projectos de edificações economicas; até mesmo no
 Parlamento se tem discorrido sobre este assumpto de interesse capital
-para a maioria da populaÃ§Ã£o nos centros industriaes
+para a maioria da população nos centros industriaes
 
-De positivo, de pratico, porÃ©m, quasi nada se tem feito!
+De positivo, de pratico, porém, quasi nada se tem feito!
 
 
 II
 
 Nos paizes extrangeiros muito se tem feito com o fim de melhorar as
-habitaÃ§Ãµes operarias, as casas para gente pobre.
+habitações operarias, as casas para gente pobre.
 
-Bastar-nos-hia citar a Suissa, uma naÃ§Ã£o pequena e pobre como a nossa. E
-a Suissa que, no ponto de vista politico, Ã© uma naÃ§Ã£o modÃªlo, no ponto
-de vista da remodelaÃ§Ã£o social estÃ¡ ainda longe de attingir a mesma
-altura. Apesar d'isso, muito tem realisado. A questÃ£o das casas para
-operarios dispertou alli a attenÃ§Ã£o publica e a solicitude dos donos de
-fabricas. LavollÃ©e na sua interessante obra--_Les classes ouvriÃ¨res en
+Bastar-nos-hia citar a Suissa, uma nação pequena e pobre como a nossa. E
+a Suissa que, no ponto de vista politico, é uma nação modêlo, no ponto
+de vista da remodelação social está ainda longe de attingir a mesma
+altura. Apesar d'isso, muito tem realisado. A questão das casas para
+operarios dispertou alli a attenção publica e a solicitude dos donos de
+fabricas. Lavollée na sua interessante obra--_Les classes ouvrières en
 Europe_--publicada em 1882, reuniu elementos curiosissimos. Extrahiremos
 para aqui alguns.
 
-Na Suissa teem sido ensaiados todos os systemas para dar Ã¡ gente pobre,
-em particular aos operarios, habitaÃ§Ãµes salubres, espaÃ§osas, que fiquem
+Na Suissa teem sido ensaiados todos os systemas para dar á gente pobre,
+em particular aos operarios, habitações salubres, espaçosas, que fiquem
 a poucos passos das officinas e que sejam baratas o mais possivel. Em
 grande parte teem tirado optimo resultado, apesar das difficuldades que
-tinham a vencer, das quaes nÃ£o eram decerto as menos importantes o rigor
-do clima e a agglomeraÃ§Ã£o anti-hygienica, devida Ã¡ pequenez das cidades.
+tinham a vencer, das quaes não eram decerto as menos importantes o rigor
+do clima e a agglomeração anti-hygienica, devida á pequenez das cidades.
 
-Muitos operarios e industriaes, graÃ§as Ã¡ industria caracteristica do
+Muitos operarios e industriaes, graças á industria caracteristica do
 paiz, a relojoaria, lhes permittir que trabalhem isolados, podem gosar a
 felicidade de viver em familia e no meio do campo[2]. Habitam _chalets_
-de madeira, espaÃ§osos, arejados, bem limpos, expostos ao bom sol e
+de madeira, espaçosos, arejados, bem limpos, expostos ao bom sol e
 afastados uns dos outros. Rarissimas vezes precisam sahir para ir
 procurar fora trabalho.
 
-Ha excepÃ§Ãµes, localidades onde os operarios estÃ£o como os nossos
-relativamente a habitaÃ§Ãµes.
+Ha excepções, localidades onde os operarios estão como os nossos
+relativamente a habitações.
 
-Schaffhouse, por exemplo, onde os bairros operarios sÃ£o insalubres[3].
-Em NeuchÃ¢tel os operarios que teem familia pagam de renda annual 250 a
-300 francos por casas mÃ¡s; um quarto custa de 120 a 150 francos[4]. Em
-Genebra as habitaÃ§Ãµes miseraveis, insalubres, em ruas estreitas e
-tortuosas, como as da nossa Alfama, arrendam-se ainda por preÃ§os muito
-mais elevados: um quarto nÃ£o custa menos de 150 francos e um alojamento
+Schaffhouse, por exemplo, onde os bairros operarios são insalubres[3].
+Em Neuchâtel os operarios que teem familia pagam de renda annual 250 a
+300 francos por casas más; um quarto custa de 120 a 150 francos[4]. Em
+Genebra as habitações miseraveis, insalubres, em ruas estreitas e
+tortuosas, como as da nossa Alfama, arrendam-se ainda por preços muito
+mais elevados: um quarto não custa menos de 150 francos e um alojamento
 para uma familia 450 francos[5].
 
-Boehmert[6], em 1872, citava casos de viverem familias n'um sÃ³ quarto,
+Boehmert[6], em 1872, citava casos de viverem familias n'um só quarto,
 n'um estado vizinho da promiscuidade. E outros de casas com oito ou nove
 compartimentos habitadas por tres ou quatro familias, tendo de mais a
-mais hospedes permanentes! NÃ£o era tambem raro encontrar-se um quarto
-estreito e baixo, onde dormiam seis, sete e mais homens, isto Ã©, o que
+mais hospedes permanentes! Não era tambem raro encontrar-se um quarto
+estreito e baixo, onde dormiam seis, sete e mais homens, isto é, o que
 succede em Lisboa nos _quartos de malta_.
 
 Mas na Suissa, onde quer que se denuncie a existencia do mal, todos
 procuram remedial-o. Assim, o operario encontrou por toda a parte
-poderosos auxiliares para sahir d'essa situaÃ§Ã£o miseravel. Sociedades de
-construcÃ§Ã£o e associaÃ§Ãµes operarias, proprietarios e fabricantes,
+poderosos auxiliares para sahir d'essa situação miseravel. Sociedades de
+construcção e associações operarias, proprietarios e fabricantes,
 especuladores e philantropos disputam entre si os melhores systemas de
-casas boas e baratas para dar Ã¡ gente pobre. VÃª-se ahi, par a par, o
-typo _mulhousiano_, isto Ã©, de casas independentes e isoladas para uma
-sÃ³ familia, a habitaÃ§Ã£o caserna, as casas agrupadas de duas a duas ou de
+casas boas e baratas para dar á gente pobre. Vê-se ahi, par a par, o
+typo _mulhousiano_, isto é, de casas independentes e isoladas para uma
+só familia, a habitação caserna, as casas agrupadas de duas a duas ou de
 quatro a quatro, mas tendo cada uma entrada separada, os bairros
 operarios, etc.
 
-Estes ultimos multiplicaram-se em alguns cantÃµes, como em Argovia,
+Estes ultimos multiplicaram-se em alguns cantões, como em Argovia,
 Zurich, Glaris e Saint-Gall[7]. Entre os mais notaveis podem-se citar,
 em primeiro logar, os da grande fabrica de machinas de Escher, Wyss
 & C.^a, em Zurich.
 
-Em 1881, fundou-so um em ZiegelbrÃ¼ck, o qual se compÃµe de dois
-edificios, podendo fornecer habitaÃ§Ã£o para quarenta familias. Cada
+Em 1881, fundou-so um em Ziegelbrück, o qual se compõe de dois
+edificios, podendo fornecer habitação para quarenta familias. Cada
 familia fica separada das outras por um corredor, e occupa uma sala,
 dois ou tres quartos, uma cozinha, um subterraneo, uma casa para lenha e
 um pequeno quintal[8].
 
-Diz LavollÃ©e que todos estes melhoramentos teem sempre em vista a
+Diz Lavollée que todos estes melhoramentos teem sempre em vista a
 caridade intelligente e o lucro bem entendido[9].
 
-AssociaÃ§Ãµes de varios generos promovem essas construcÃ§Ãµes economicas e
-teem visto os seus esforÃ§os coroados do mais brilhante resultado. A par
+Associações de varios generos promovem essas construcções economicas e
+teem visto os seus esforços coroados do mais brilhante resultado. A par
 umas das outras, sem se odiarem, sem se guerrearem, rivalisando
-pacificamente nas fÃ´rÃ§as dispendidas, vemos em alguns centros
+pacificamente nas fôrças dispendidas, vemos em alguns centros
 industriaes fundarem-se, desenvolverem-se e prosperarem sociedades de
-capitalistas e aggremiaÃ§Ãµes de operarios com o fim exclusivo de
+capitalistas e aggremiações de operarios com o fim exclusivo de
 construirem casas baratas e bairros salubres para as classes laboriosas
 e pobres.
 
-Na BasilÃ©a, por exemplo, uma das principaes cidades da Suissa, ao lado
-da _AssociaÃ§Ã£o para a construcÃ§Ã£o de habitaÃ§Ãµes operarias_, fundada em
+Na Basiléa, por exemplo, uma das principaes cidades da Suissa, ao lado
+da _Associação para a construcção de habitações operarias_, fundada em
 1870 com o capital de 327:300 francos, e da _Sociedade de utilidade
 publica_, fundada em 1851 e cujo capital de 100:000 francos foi
-consagrado Ã¡ construcÃ§Ã£o de casas do systema _mulhousiano_, existe a
-_Sociedade basilense de construcÃ§Ã£o de casas baratas_ formada sÃ³ por
-operarios, entre os quaes predominam os das construcÃ§Ãµes civis[10].
+consagrado á construcção de casas do systema _mulhousiano_, existe a
+_Sociedade basilense de construcção de casas baratas_ formada só por
+operarios, entre os quaes predominam os das construcções civis[10].
 
 Esta ultima empresa, estabelecida por dez membros, cujo capital
-primitivo nÃ£o passava de 1:000 francos, contava em junho de 1873, 120
+primitivo não passava de 1:000 francos, contava em junho de 1873, 120
 associados que tinham elevado o capital a 15:000 fr. por meio de
 collectas, que variavam de 100 a 1:000 francos.
 
 Possue duas classes de socios. Uns compromettem-se a trazer um capital
-nÃ£o inferior a 1:000 francos, nem superior a 6:000, e tomam uma parte
+não inferior a 1:000 francos, nem superior a 6:000, e tomam uma parte
 activa na empresa, consagrando-lhe todo o seu tempo, todas as suas
-fÃ´rÃ§as, e toda a sua intelligencia, em troca de salarios fixos ou de uma
+fôrças, e toda a sua intelligencia, em troca de salarios fixos ou de uma
 percentagem sobre os lucros. Os outros, devendo concorrer com o mesmo
-capital, uma terÃ§a parte do qual Ã© pago no acto da inscripÃ§Ã£o, e as duas
-restantes em prestaÃ§Ãµes maiores ou menores, consagram as suas aptidÃµes Ã¡
-administraÃ§Ã£o e Ã¡ contabilidade da empresa, recebendo honorarios certos,
-senhas de presenÃ§a ou uma parte dos lucros determinada pela assemblÃ©a.
+capital, uma terça parte do qual é pago no acto da inscripção, e as duas
+restantes em prestações maiores ou menores, consagram as suas aptidões á
+administração e á contabilidade da empresa, recebendo honorarios certos,
+senhas de presença ou uma parte dos lucros determinada pela assembléa.
 
-A sociedade conta tambem com associados ou subscriptores de obrigaÃ§Ãµes.
-Ã‰ considerado tal o possuidor de uma ou mais obrigaÃ§Ãµes, no valor de 100
-francos cada uma. As obrigaÃ§Ãµes rendem 5 por cento e dÃ£o direito a 20
+A sociedade conta tambem com associados ou subscriptores de obrigações.
+É considerado tal o possuidor de uma ou mais obrigações, no valor de 100
+francos cada uma. As obrigações rendem 5 por cento e dão direito a 20
 por cento dos lucros liquidos[11].
 
-Na Suissa ha muitas associaÃ§Ãµes d'este genero. E, na verdade, as que se
-compÃµem unicamente de operarios sÃ£o as mais interessantes de todas as
+Na Suissa ha muitas associações d'este genero. E, na verdade, as que se
+compõem unicamente de operarios são as mais interessantes de todas as
 sociedades constructoras.
 
-Em FranÃ§a, na Inglaterra e na Allemanha tambem as ha.
+Em França, na Inglaterra e na Allemanha tambem as ha.
 
-Em Darmstadt a associaÃ§Ã£o operaria (_arbeiterverein_) fundou, em 1868,
-uma sociedade cooperativa de construcÃ§Ã£o que tem por fim comprar
-terrenos para edificaÃ§Ãµes e construir casas para operarios nos terrenos
-que adquirir. Alli, como por toda a parte, as casas sÃ£o vendidas aos
+Em Darmstadt a associação operaria (_arbeiterverein_) fundou, em 1868,
+uma sociedade cooperativa de construcção que tem por fim comprar
+terrenos para edificações e construir casas para operarios nos terrenos
+que adquirir. Alli, como por toda a parte, as casas são vendidas aos
 locatarios. O membro da sociedade que occupa a casa, paga 4 por cento do
 capital dispendido, e uma annuidade, variando entre 5 a 30 por cento, e
 torna-se proprietario n'um prazo de tempo maior ou menor, desde 3 annos
-e 4 mezes atÃ© 41 annos e um mez[12].
+e 4 mezes até 41 annos e um mez[12].
 
-As sociedades de capitalistas sÃ£o, porÃ©m, muito mais numerosas e, em
-geral, todas prosperam, prestando valioso serviÃ§o Ã¡s classes
+As sociedades de capitalistas são, porém, muito mais numerosas e, em
+geral, todas prosperam, prestando valioso serviço ás classes
 trabalhadoras.
 
-A _AssociaÃ§Ã£o para a construcÃ§Ã£o de habitaÃ§Ãµes operarias_ que se fundou,
-em 1870, na BasilÃ©a e Ã¡ qual jÃ¡ alludimos, tinha o seu capital dividido
-em acÃ§Ãµes de cem francos cada uma, e em dezembro d'esse anno
-inteiramente subscripto. Empresa philantropica, Ã© administrada
+A _Associação para a construcção de habitações operarias_ que se fundou,
+em 1870, na Basiléa e á qual já alludimos, tinha o seu capital dividido
+em acções de cem francos cada uma, e em dezembro d'esse anno
+inteiramente subscripto. Empresa philantropica, é administrada
 gratuitamente e os accionistas recebem 4 por cento de juro.
-Posteriormente emittiu obrigaÃ§Ãµes de 4 e meio por cento no valor de
+Posteriormente emittiu obrigações de 4 e meio por cento no valor de
 313:000 francos. Em fins de abril de 1882 o fundo de reserva elevava-se
 a 180:000 francos[13].
 
 Na cidade de Heilbronn, no Wurtemberg, um dos principaes centros
 industriaes da Allemanha, uma companhia, constituida principalmente por
 fabricantes, fundou um bairro operario que se tem desenvolvido pouco a
-pouco. As acÃ§Ãµes vencem um juro maximo de 4 por cento, sendo o excedente
-dos lucros destinado a constituir um fundo de reserva para a construcÃ§Ã£o
+pouco. As acções vencem um juro maximo de 4 por cento, sendo o excedente
+dos lucros destinado a constituir um fundo de reserva para a construcção
 de novas casas. Em 1856, edificaram vinte predios, e em 1861 outros
 vinte.[14]
 
 Na Belgica pullulam as companhias constructoras de casas para operarios.
-Na Antuerpia ha, desde 1867, uma sociedade para a construcÃ§Ã£o e
-melhoramento de casas de operarios que tem por fim edificar habitaÃ§Ãµes
-salubres e baratas, extendendo a Ã¡rea da sua acÃ§Ã£o Ã¡s communas vizinhas.
-Fundou-se com o capital de 2 milhÃµes de francos, dividido em 4:000
-acÃ§Ãµes de 500 francos cada uma, e realisando logo 350:000 francos. Em
-1876 tinha construido 82 casas para uma sÃ³ familia cada uma, dispersas
-pela cidade e arrabaldes. O preÃ§o de cada casa era, em media, 2:800 a
+Na Antuerpia ha, desde 1867, uma sociedade para a construcção e
+melhoramento de casas de operarios que tem por fim edificar habitações
+salubres e baratas, extendendo a área da sua acção ás communas vizinhas.
+Fundou-se com o capital de 2 milhões de francos, dividido em 4:000
+acções de 500 francos cada uma, e realisando logo 350:000 francos. Em
+1876 tinha construido 82 casas para uma só familia cada uma, dispersas
+pela cidade e arrabaldes. O preço de cada casa era, em media, 2:800 a
 3:000 francos e a renda, tambem em media, 3,75 francos a 4 francos por
 semana[15].
 
 Em Bruxellas, a _Immobiliaria bruxellense_ e a _Sociedade anonyma das
-habitaÃ§Ãµes operarias na agglomeraÃ§Ã£o bruxellense_ rivalisam na
-construcÃ§Ã£o de casas para operarios e em geral para gente pobre. Aquella
-fundou-se, em 1865, com o capital de 5 milhÃµes de francos; esta, em
+habitações operarias na agglomeração bruxellense_ rivalisam na
+construcção de casas para operarios e em geral para gente pobre. Aquella
+fundou-se, em 1865, com o capital de 5 milhões de francos; esta, em
 1868, com egual capital. Em 1871, tinha a primeira realisado 900:100
 francos do seu capital, e a segunda 766:500 francos; e construido
-aquella 36 casas com 16 armazens e 188 habitaÃ§Ãµes, e esta 145 predios,
+aquella 36 casas com 16 armazens e 188 habitações, e esta 145 predios,
 reunidos em quatro grupos[16].
 
-Em Verviers, a _Sociedade vervierense para a construcÃ§Ã£o de casas para
-operarios_, constituida, em 1867, com o capital de um milhÃ£o de francos,
+Em Verviers, a _Sociedade vervierense para a construcção de casas para
+operarios_, constituida, em 1867, com o capital de um milhão de francos,
 distribue aos accionistas dividendos que oscillam entre 4 e 6 por cento,
 e tinha construido, em 1871, 37 predios em quatro grupos, comprehendendo
-67 habitaÃ§Ãµes, cuja renda variava em 4 e 21 francos por mez[17].
+67 habitações, cuja renda variava em 4 e 21 francos por mez[17].
 
-Por estas rapidas notas vÃª-se que no extrangeiro as sociedades de
-construcÃ§Ã£o de casas para operarios teem-se desenvolvido e prosperado.
-Ao mesmo tempo que Ã© incontestavel o serviÃ§o por ellas prestado tanto Ã¡s
-classes trabalhadoras, como em geral Ã¡s populaÃ§Ãµes industriaes e Ã¡ gente
-pobre, quasi todas teem alcanÃ§ado uma compensaÃ§Ã£o razoavel, um juro
+Por estas rapidas notas vê-se que no extrangeiro as sociedades de
+construcção de casas para operarios teem-se desenvolvido e prosperado.
+Ao mesmo tempo que é incontestavel o serviço por ellas prestado tanto ás
+classes trabalhadoras, como em geral ás populações industriaes e á gente
+pobre, quasi todas teem alcançado uma compensação razoavel, um juro
 modico e equitativo, para os capitaes empregados.
 
-Nem todas as sociedades que se propÃµem dar ao operariado _habitaÃ§Ãµes
-economicas_ obedecem sinceramente a inspiraÃ§Ãµes philantropicas. Muitas,
+Nem todas as sociedades que se propõem dar ao operariado _habitações
+economicas_ obedecem sinceramente a inspirações philantropicas. Muitas,
 em Paris, por exemplo, visam em especial aos interesses dos accionistas,
-visto que em regra as habitaÃ§Ãµes pequenas offerecem maior rendimento do
+visto que em regra as habitações pequenas offerecem maior rendimento do
 que os predios grandes e luxuosos. Jules Simon, negando que essas
 sociedades cumprissem realmente o seu programma, dizia dos
 proprietarios: "Bemfeitores, se assim quizerem, mas bemfeitores que teem
 interesse em o ser"[18].
 
-A acÃ§Ã£o official em alguns paizes tambem tem sido importante.
+A acção official em alguns paizes tambem tem sido importante.
 
 No Wurtemberg, por exemplo, o proprio Estado fez-se constructor,
 edificando para as familias dos empregados dos correios e dos caminhos
-de ferro 36 predios com habitaÃ§Ãµes para 200 inquilinos[19]. Mais
-notavel, porÃ©m, Ã© a intervenÃ§Ã£o do Conselho do condado de Londres,
+de ferro 36 predios com habitações para 200 inquilinos[19]. Mais
+notavel, porém, é a intervenção do Conselho do condado de Londres,
 demolindo as casas insalubres que os operarios habitavam n'um dos
 bairros da grande cidade, e construindo no mesmo local novas casas,
 confortaveis e hygienicas. Referindo-se a este melhoramento, declarou o
 delegado do Conselho do condado de Londres no _Congresso internacional
-das habitaÃ§Ãµes operarias_, que as construcÃ§Ãµes feitas pelo Conselho e
-destinadas aos operarios sÃ£o casas municipaes. "Desde 1892,
-construiram-se 47 casas. Comprehendiam 1:639 divisÃµes e serviam de
-residencia a 7:038 pessoas. A despesa total subiu a mais de dez miihÃµes.
-Actualmente, (1897) estÃ¡ em reconstrucÃ§Ã£o o bairro insalubre de Boundary
+das habitações operarias_, que as construcções feitas pelo Conselho e
+destinadas aos operarios são casas municipaes. "Desde 1892,
+construiram-se 47 casas. Comprehendiam 1:639 divisões e serviam de
+residencia a 7:038 pessoas. A despesa total subiu a mais de dez miihões.
+Actualmente, (1897) está em reconstrucção o bairro insalubre de Boundary
 street, que foi demolido por ordem da municipalidade. O antigo bairro
-continha 730 predios habitados por 15:719 pessoas. As novas casas serÃ£o
+continha 730 predios habitados por 15:719 pessoas. As novas casas serão
 todas construidas em conformidade com os preceitos da hygiene. No centro
-do bairro serÃ¡ formado um parque.
+do bairro será formado um parque.
 
-"O preÃ§o total da reconstrucÃ§Ã£o, e os juros dos emprestimos, a pagar no
-decurso de 60 annos, estÃ¡ avaliado em, 8.290:250 francos. O preÃ§o medio
-do aluguer, por semana, Ã© de 3,14 francos.
+"O preço total da reconstrucção, e os juros dos emprestimos, a pagar no
+decurso de 60 annos, está avaliado em, 8.290:250 francos. O preço medio
+do aluguer, por semana, é de 3,14 francos.
 
-"Em 60 annos, o condado de Londres terÃ¡ a plena propriedade de todas as
+"Em 60 annos, o condado de Londres terá a plena propriedade de todas as
 casas, livres de todas as dividas"[20].
 
 O Conselho municipal de Londres inaugurou em 28 de janeiro de 1893 um
-grande estabelecimento social para fazer concorrencia Ã¡ exploraÃ§Ã£o
+grande estabelecimento social para fazer concorrencia á exploração
 particular das casas mobiladas, de ordinario infectas e repugnantes.
 Esse edificio foi construido no bairro de Drary Lane e convenientemente
-mobilado e Ã© bastante espaÃ§oso para accommodar 375 homens. Os locatarios
-encontram ahi asseio, confÃ´rto, condiÃ§Ãµes hygienicas, calor e luz. Teem
-alÃ©m d'isso em commum uma grande sala de recreio e musica, uma
+mobilado e é bastante espaçoso para accommodar 375 homens. Os locatarios
+encontram ahi asseio, confôrto, condições hygienicas, calor e luz. Teem
+além d'isso em commum uma grande sala de recreio e musica, uma
 bibliotheca de 1:000 volumes, um vasto refeitorio, uma cozinha para os
-locatarios prepararem os seus alimentos, uma sala de desinfecÃ§Ã£o para as
+locatarios prepararem os seus alimentos, uma sala de desinfecção para as
 roupas, um lavadoiro, um gabinete para enxugar a roupa lavada, uma casa
-de costura, duas salas de banhos, etc. O preÃ§o de todas estas
-commodidades Ã© approximadamente de cem rÃ©is por dia.
+de costura, duas salas de banhos, etc. O preço de todas estas
+commodidades é approximadamente de cem réis por dia.
 
-Na Suissa, a cidade de Zurich deliberou, ha cÃªrca de um anno, fornecer
+Na Suissa, a cidade de Zurich deliberou, ha cêrca de um anno, fornecer
 alojamento aos operarios occupados nos trabalhos communaes, 600 chefes
 de familia e 300 celibatarios. Para construir casas destinadas a uma ou
 duas familias operarias, adquiriu por 940:000 francos um terreno nas
-vizinhanÃ§as da cidade, medindo 22 hectares. E para facilitar aos
-habitantes da nova povoaÃ§Ã£o rapidas e economicas communicaÃ§Ãµes, combinou
-com as companhias de caminhos de ferro a organisaÃ§Ã£o de comboios de
+vizinhanças da cidade, medindo 22 hectares. E para facilitar aos
+habitantes da nova povoação rapidas e economicas communicações, combinou
+com as companhias de caminhos de ferro a organisação de comboios de
 operarios. Adquiriu tambem no interior da cidade um certo numero de
 casas para residencia dos operarios celibatarios[21].
 
-O governo do cantÃ£o de BasilÃ©a, desejando tambem construir casas para os
+O governo do cantão de Basiléa, desejando tambem construir casas para os
 seus empregados e operarios, fez edificar, a titulo de ensaio, quatro
 predios de dois andares, sendo dois de um typo e dois de outro; um para
 tres familias, dispondo cada uma de tres quartos, uma cozinha, um
 subterraneo e uma mansarda; outro tambem para tres familias, tendo cada
-uma dois quartos, uma cozinha, um subterraneo e uma mansarda. AlÃ©m
-d'isso, cada familia dispÃµe de um jardim, e cada um dos predios tem
+uma dois quartos, uma cozinha, um subterraneo e uma mansarda. Além
+d'isso, cada familia dispõe de um jardim, e cada um dos predios tem
 lavadoiro commum, comprehendendo duas salas[22].
 
 Na Italia, o Conselho communal de Veneza deliberou construir casas para
 o operariado, e contrahiu um emprestimo de 500:000 francos para a
-realisaÃ§Ã£o d'essa idÃ©a[23].
+realisação d'essa idéa[23].
 
-Emfim, citemos ainda a deliberaÃ§Ã£o tomada em 1894 pelo Conselho communal
-de Vienna de Austria, para combater a lamentavel situaÃ§Ã£o dos
+Emfim, citemos ainda a deliberação tomada em 1894 pelo Conselho communal
+de Vienna de Austria, para combater a lamentavel situação dos
 operarios--90:000 individuos pelo menos accumulados em casas insalubres
 e estreitissimas. O doutor Friedjung, conselheiro municipal, tomou a
 iniciativa da seguinte proposta, que foi approvada pelos seus collegas:
 
-"1.Âº Crear um fundo especial com o producto da venda dos terrenos dos
+"1.º Crear um fundo especial com o producto da venda dos terrenos dos
 baluartes ou pelo menos com a metade d'elle;
 
-2.Âº Empregar este capital na construcÃ§Ã£o, na peripheria da cidade, de
+2.º Empregar este capital na construcção, na peripheria da cidade, de
 pequenas casas economicas e especialmente de casas operarias que, em
-virtude da lei de 9 de fevereiro de 1892, serÃ£o isentas de contribuiÃ§Ãµes
-e cujos alugueres serÃ£o determinados de forma que o capital nÃ£o aufira
+virtude da lei de 9 de fevereiro de 1892, serão isentas de contribuições
+e cujos alugueres serão determinados de forma que o capital não aufira
 um juro superior a 2 1/2 por cento;
 
-3.Âº Estas casas serÃ£o alugadas em primeiro logar aos empregados menores
-da cidade e aos operarios que trabalham em serviÃ§o d'ella; em seguida
+3.º Estas casas serão alugadas em primeiro logar aos empregados menores
+da cidade e aos operarios que trabalham em serviço d'ella; em seguida
 poder-se-ha alargar o circulo dos locatarios;
 
-4.Âº Os juros vencidos pelo capital serÃ£o consignados Ã¡ construcÃ§Ã£o de
+4.º Os juros vencidos pelo capital serão consignados á construcção de
 outras casas com o mesmo destino"[24].
 
 
 III
 
 O Governo e as camaras municipaes, mas principalmente estas deveriam,
-quando nÃ£o tomassem a iniciativa, pelo menos auxiliar, tanto quanto
+quando não tomassem a iniciativa, pelo menos auxiliar, tanto quanto
 possivel, todas as tentativas, qualquer que fosse a sua origem, para
 melhorar a sorte dos operarios e em geral da gente pobre, construindo
-para elles habitaÃ§Ãµes economicas e hygienicas. A acÃ§Ã£o do Estado e dos
-municipios pode ajudar efficazmente os esforÃ§os dos individuos ou das
+para elles habitações economicas e hygienicas. A acção do Estado e dos
+municipios pode ajudar efficazmente os esforços dos individuos ou das
 collectividades por meio de incentivos creados para o desenvolvimento da
-construcÃ§Ã£o d'essas casas. Em toda a parte, nos Estados Unidos da
-America, na Inglaterra, na Allemanha, em FranÃ§a, na Belgica a protecÃ§Ã£o
+construcção d'essas casas. Em toda a parte, nos Estados Unidos da
+America, na Inglaterra, na Allemanha, em França, na Belgica a protecção
 governamental ou communal tem vindo mais ou menos directamente em
-auxilio das tentativas dos individuos ou das associaÃ§Ãµes.
+auxilio das tentativas dos individuos ou das associações.
 
-Diz o sr. AdÃ£es Bermudes no seu interessante livro que tem por titulo
-_Projecto para a organisaÃ§Ã£o d'uma sociedade promotora de habitaÃ§Ãµes
-economicas destinadas Ã¡s classes laboriosas e menos abastadas_: "Nos
+Diz o sr. Adães Bermudes no seu interessante livro que tem por titulo
+_Projecto para a organisação d'uma sociedade promotora de habitações
+economicas destinadas ás classes laboriosas e menos abastadas_: "Nos
 outros paizes, camaras e governos interveem pecuniaria, legislativa e
-moralmente na questÃ£o das habitaÃ§Ãµes proletarias,--estabelecendo
-subsidios, auctorisando os estabelecimentos officiaes de crÃ©dito a fazer
-emprestimos com juro reduzido, concedendo garantias de juros Ã¡s
+moralmente na questão das habitações proletarias,--estabelecendo
+subsidios, auctorisando os estabelecimentos officiaes de crédito a fazer
+emprestimos com juro reduzido, concedendo garantias de juros ás
 sociedades constructoras, isentando do imposto os materiaes de
-construcÃ§Ã£o, isentando de direitos de registo a transmissÃ£o da pequena
+construcção, isentando de direitos de registo a transmissão da pequena
 propriedade ou permittindo o seu pagamento em annuidades, isentando-a da
-contribuiÃ§Ã£o predial, de rendas de casas e sumptuaria, garantindo, sem
-complicaÃ§Ãµes onerosas, os direitos dos senhorios contra os abusos dos
+contribuição predial, de rendas de casas e sumptuaria, garantindo, sem
+complicações onerosas, os direitos dos senhorios contra os abusos dos
 locatarios, e os direitos d'estes contra as exigencias desrazoaveis
 d'aquelles, expropriando os bairros insalubres, promulgando medidas
-repressivas contra as habitaÃ§Ãµes doentias, constituindo para os pequenos
+repressivas contra as habitações doentias, constituindo para os pequenos
 empregados publicos alojamentos modelos, multiplicando os cursos
-populares de hygiene, abrindo concursos para a apresentaÃ§Ã£o de projectos
-de habitaÃ§Ãµes economicas, concedendo terrenos, participando nas despesas
-das vias de communicaÃ§Ã£o, illuminaÃ§Ã£o, encannamentos, etc., etc."[25].
+populares de hygiene, abrindo concursos para a apresentação de projectos
+de habitações economicas, concedendo terrenos, participando nas despesas
+das vias de communicação, illuminação, encannamentos, etc., etc."[25].
 
 Em Portugal, os poderes constituidos quasi nada teem feito para melhorar
-as habitaÃ§Ãµes operarias. Toda a legislaÃ§Ã£o destinada a fomentar a
-construcÃ§Ã£o das casas economicas reduz-se verdadeiramente Ã¡ isenÃ§Ã£o, por
-um certo numero de annos, da contribuiÃ§Ã£o predial, concedida aos predios
+as habitações operarias. Toda a legislação destinada a fomentar a
+construcção das casas economicas reduz-se verdadeiramente á isenção, por
+um certo numero de annos, da contribuição predial, concedida aos predios
 urbanos que se edifiquem em Lisboa e Porto para serem arrendados por
-menos de 50$000 rÃ©is ou que forem divididos em andares ou quartos
+menos de 50$000 réis ou que forem divididos em andares ou quartos
 separados, sendo cada alojamento alugado a diverso inquilino, tambem por
 menos d'aquella quantia. A lei de 17 de maio de 1880 sobre a
-contribuiÃ§Ã£o predial e o respectivo regulamento, de 25 de agosto de
-1881, fixou o prazo de cinco annos para o gÃ´so da isenÃ§Ã£o a contar do
+contribuição predial e o respectivo regulamento, de 25 de agosto de
+1881, fixou o prazo de cinco annos para o gôso da isenção a contar do
 primeiro em que os predios estiverem nas circumstancias de serem
 habitados. Em 1888, pela lei de 2 de agosto, foi esse prazo elevado ao
-dÃ´bro, isto Ã©, a dez annos.
+dôbro, isto é, a dez annos.
 
-O fito d'esta isenÃ§Ã£o foi necessariamente incitar os capitalistas a
-desenvolverem a construcÃ§Ã£o de habitaÃ§Ãµes economicas destinadas ao
-proletariado e em geral Ã¡s classes menos abastadas. O resultado obtido
-foi infelizmente quasi nullo. Os capitalistas que nÃ£o quizeram continuar
+O fito d'esta isenção foi necessariamente incitar os capitalistas a
+desenvolverem a construcção de habitações economicas destinadas ao
+proletariado e em geral ás classes menos abastadas. O resultado obtido
+foi infelizmente quasi nullo. Os capitalistas que não quizeram continuar
 a ter os seus cabedaes empregados em papeis do Estado ou de companhias
-que dÃ£o juros certos ou divividendos convidativos, preferiram
+que dão juros certos ou divividendos convidativos, preferiram
 immobilisal-os em predios de luxo e em casas enormes para rendas
-superiores a 200$000 e 300$000 rÃ©is annuaes, correndo o risco de as
-conservarem deshabitadas, a construirem habitaÃ§Ãµes economicas para
+superiores a 200$000 e 300$000 réis annuaes, correndo o risco de as
+conservarem deshabitadas, a construirem habitações economicas para
 pequenas rendas, proprias para servirem de abrigo a familias pobres ou
 apenas remediadas.
 
-Essa aberraÃ§Ã£o do senso economico teve as suas naturaes consequencias,
+Essa aberração do senso economico teve as suas naturaes consequencias,
 logo que se declarou a crise financeira em Portugal e que peorou
 apreciavelmente o cambio do Brasil sobre Londres. O regresso de muitas
 familias brazileiras que residiam em Lisboa, ao seu paiz natal, e a
-diminuiÃ§Ã£o dos rendimentos, ou a quebra dos recursos que feriram entre
-nÃ³s numerosas familias, em virtude d'aquelle acontecimento, fez com que
+diminuição dos rendimentos, ou a quebra dos recursos que feriram entre
+nós numerosas familias, em virtude d'aquelle acontecimento, fez com que
 ficassem com escriptos, sobretudo nos arredores da Avenida da Liberdade,
 predios inteiros, de alto a baixo. E emquanto isto succedia, notava-se a
-falta de casas para rendas inferiores a 250$000 rÃ©is annuaes.
+falta de casas para rendas inferiores a 250$000 réis annuaes.
 
-O que a isenÃ§Ã£o, primeiro por cinco e depois por dez annos, da
-contribuiÃ§Ã£o predial nÃ£o conseguiu realisar, poder-se-hia ter obtido por
+O que a isenção, primeiro por cinco e depois por dez annos, da
+contribuição predial não conseguiu realisar, poder-se-hia ter obtido por
 outras providencias legislativas?
 
 Talvez; mas outros projectos de lei apresentados ao Parlamento, tendo em
 vista o mesmo fim, nunca foram approvados.
 
-Na sessÃ£o de 15 de janeiro de 1883, o governo regenerador entÃ£o no poder
-submetteu Ã¡ Camara dos deputados uma proposta de lei assignada por
+Na sessão de 15 de janeiro de 1883, o governo regenerador então no poder
+submetteu á Camara dos deputados uma proposta de lei assignada por
 Fontes Pereira de Mello e pelo sr. Hintze Ribeiro, e destinada a
-promover a construcÃ§Ã£o de casas baratas e hygienicas.
+promover a construcção de casas baratas e hygienicas.
 
 A proposta era do teor seguinte:
 
-"Art. 1.Âº Ã‰ o Governo auctorisado a conceder Ã¡ empresa que em Lisboa se
-organizar para a construcÃ§Ã£o de casas destinadas Ã¡ habitaÃ§Ã£o das classes
-laboriosas e menos abastadas, mediante o pagamento de rendas nÃ£o
-superiores a 50$000 rÃ©is por anno:
+"Art. 1.º É o Governo auctorisado a conceder á empresa que em Lisboa se
+organizar para a construcção de casas destinadas á habitação das classes
+laboriosas e menos abastadas, mediante o pagamento de rendas não
+superiores a 50$000 réis por anno:
 
-1.Âº IsenÃ§Ã£o de contribuiÃ§Ã£o predial por espaÃ§o de vinte annos;
+1.º Isenção de contribuição predial por espaço de vinte annos;
 
-2.Âº IsenÃ§Ã£o de contribuiÃ§Ã£o de registo quanto aos terrenos para esse fim
+2.º Isenção de contribuição de registo quanto aos terrenos para esse fim
 adquiridos;
 
-3.Âº A facilidade de escolher nas mattas nacionaes as madeiras que lhe
+3.º A facilidade de escolher nas mattas nacionaes as madeiras que lhe
 convierem, e que, sem prejuizo para o Estado, puderem ser cortadas,
-pagando-as pelos preÃ§os regulares do mercado.
+pagando-as pelos preços regulares do mercado.
 
-Â§ 1.Âº Os projectos das edificaÃ§Ãµes serÃ£o submettidos Ã¡ approvaÃ§Ã£o do
-Governo, devendo satisfazer Ã¡s necessarias condiÃ§Ãµes de perspectiva,
-solidez, capacidade e hygiene; o Governo fiscalisarÃ¡ os trabalhos de
-construcÃ§Ã£o, afim de que essas condiÃ§Ãµes sejam devidamente attendidas.
+§ 1.º Os projectos das edificações serão submettidos á approvação do
+Governo, devendo satisfazer ás necessarias condições de perspectiva,
+solidez, capacidade e hygiene; o Governo fiscalisará os trabalhos de
+construcção, afim de que essas condições sejam devidamente attendidas.
 
-Â§ 2.Âº Os estatutos da empresa que se organisar nos termos d'esta lei,
-serÃ£o egualmente submettidos Ã¡ approvaÃ§Ã£o do Governo, sem embargo do que
-dispÃµe a lei de 22 de junho de 1867.
+§ 2.º Os estatutos da empresa que se organisar nos termos d'esta lei,
+serão egualmente submettidos á approvação do Governo, sem embargo do que
+dispõe a lei de 22 de junho de 1867.
 
-Art. 2.Âº Fica revogada a legislaÃ§Ã£o em contrario, etc."
+Art. 2.º Fica revogada a legislação em contrario, etc."
 
-Esta proposta, que morreu nas pastas das commissÃµes de obras publicas,
-fazenda e saude publica, Ã¡s quaes foi enviada pela Camara dos deputados,
+Esta proposta, que morreu nas pastas das commissões de obras publicas,
+fazenda e saude publica, ás quaes foi enviada pela Camara dos deputados,
 era justificada no relatorio preambular do seguinte modo:
 
-"Um dos emprehendimentos que muito convÃ©m animar, Ã© sem duvida o da
-construcÃ§Ã£o de casas especialmente destinadas Ã¡ habitaÃ§Ã£o das classes
+"Um dos emprehendimentos que muito convém animar, é sem duvida o da
+construcção de casas especialmente destinadas á habitação das classes
 laboriosas e mais desprovidas de meios pecuniarios.
 
-"Nos centros de larga actividade onde maiores sÃ£o as desproporÃ§Ãµes da
+"Nos centros de larga actividade onde maiores são as desproporções da
 riqueza individual, e onde a par dos grandes capitaes, subsiste a
-privaÃ§Ã£o e a miseria, procurar suavisar a sorte dos que luctam e
-trabalham para viver, Ã© pensamento que nÃ£o deve desamparar os que
+privação e a miseria, procurar suavisar a sorte dos que luctam e
+trabalham para viver, é pensamento que não deve desamparar os que
 legislam e governam.
 
-"Ã‰ precisamente nas cidades mais populosas que as condiÃ§Ãµes de
+"É precisamente nas cidades mais populosas que as condições de
 subsistencia se tornam por vezes em extremo difficeis para muitos dos
-que aliÃ¡s, com valioso concurso dos seus aturados esforÃ§os, efficazmente
-contribuem para a realisaÃ§Ã£o das mais avantajadas conquistas do
+que aliás, com valioso concurso dos seus aturados esforços, efficazmente
+contribuem para a realisação das mais avantajadas conquistas do
 progresso.
 
-"E nÃ£o raro acontece que, os que, por necessidade sua, mais efficazmente
-se entregam a uma labutaÃ§Ã£o penosa, teem de procurar agasalho em
+"E não raro acontece que, os que, por necessidade sua, mais efficazmente
+se entregam a uma labutação penosa, teem de procurar agasalho em
 circumstancias taes, que, pela sua nociva influencia, concorrem para
 lhes depreciar os unicos capitaes que possuem: a saude e a energia.
 
-"Para todos esses, facultar habitaÃ§Ãµes apropriadas aos fracos recursos
-de que podem dispÃ´r e accommodadas Ã¡s instantes reclamaÃ§Ãµes da hygiene,
-Ã© resolver e um dos seus elementos fundamentaes--a ardua questÃ£o da
+"Para todos esses, facultar habitações apropriadas aos fracos recursos
+de que podem dispôr e accommodadas ás instantes reclamações da hygiene,
+é resolver e um dos seus elementos fundamentaes--a ardua questão da
 existencia da sociedade."
 
 A falta de sinceridade dos ministros, quando assim se exprimiam,
-justificando a proposta, revela-se Ã¡ evidencia no facto de que, nÃ£o
-tendo chegado a entrar em discussÃ£o n'aquella legislatura, nÃ£o tornou
+justificando a proposta, revela-se á evidencia no facto de que, não
+tendo chegado a entrar em discussão n'aquella legislatura, não tornou
 ella a ser renovada nem foi substituida por outra de iniciativa
 ministerial, apesar dos signatarios do projecto terem estado
-posteriormente no poder por largos periodos. Sempre a legislaÃ§Ã£o a favor
+posteriormente no poder por largos periodos. Sempre a legislação a favor
 do proletariado tem sido em Portugal simplesmente uma arma politica,
 utilisada para enfraquecer o movimento revolucionario.
 
 De mais amplas vistas do que a proposta de lei de Fontes e do sr.
-Hintze, era o projecto apresentado em sessÃ£o de 17 de maio de 1884 Ã¡
-Camara dos deputados pelo sr. Augusto Fuschini; mas que tambem nÃ£o teve
-seguimento, perdendo-se na pasta da commissÃ£o de obras publicas, Ã¡ qual
+Hintze, era o projecto apresentado em sessão de 17 de maio de 1884 á
+Camara dos deputados pelo sr. Augusto Fuschini; mas que tambem não teve
+seguimento, perdendo-se na pasta da commissão de obras publicas, á qual
 foi enviado.
 
 Os beneficios propostos pelo illustre deputado para serem concedidos
-pelo Estado nÃ£o se destinavam a uma sÃ³ empresa, mas a todas que se
-organizassem para a construcÃ§Ã£o de habitaÃ§Ãµes economicas para as classes
-laboriosas e menos abastadas, "mediante o pagamento de rendas nÃ£o
-superiores em Lisboa e Porto a 40$000 rÃ©is por anno e nos restantes
-centros do paiz a 25$000 rÃ©is por anno."
+pelo Estado não se destinavam a uma só empresa, mas a todas que se
+organizassem para a construcção de habitações economicas para as classes
+laboriosas e menos abastadas, "mediante o pagamento de rendas não
+superiores em Lisboa e Porto a 40$000 réis por anno e nos restantes
+centros do paiz a 25$000 réis por anno."
 
 As vantagens a conceder seriam:
 
-1.Âº IsenÃ§Ã£o de contribuiÃ§Ã£o predial por espaÃ§o de vinte annos;
+1.º Isenção de contribuição predial por espaço de vinte annos;
 
-2.Âº IsenÃ§Ã£o de contribuiÃ§Ã£o de registo quanto aos terrenos para esse fim
+2.º Isenção de contribuição de registo quanto aos terrenos para esse fim
 adquiridos;
 
-3.Âº A faculdade de escolherem nas mattas nacionaes as madeiras que lhes
+3.º A faculdade de escolherem nas mattas nacionaes as madeiras que lhes
 convierem e que sem prejuizo para o Estado podem ser cortadas.
 
-Estas concessÃµes sÃ£o as mesmas da proposta ministerial, mas o pagamento
-das madeiras em vez de ser pelos preÃ§os reguladores do mercado seria
-"por um preÃ§o de montagem inferior a 25% do fixado pela ultima praÃ§a."
+Estas concessões são as mesmas da proposta ministerial, mas o pagamento
+das madeiras em vez de ser pelos preços reguladores do mercado seria
+"por um preço de montagem inferior a 25% do fixado pela ultima praça."
 
 Haveria rateio entre os pedidos feitos pelas empresas se o volume total
 das madeiras requisitadas em cada anno excedesse o que poderia ser
@@ -614,462 +614,462 @@ fornecido pelo Estado. E o Governo reservar-se-hia a faculdade de
 fiscalizar o emprego das madeiras.
 
 As empresas teriam ainda direito a receber das camaras municipaes o
-reembolso de metade do custo effectivo dos terrenos que fÃ´ssem
-applicados para abertura de ruas, praÃ§as e outros logradouros communs e
+reembolso de metade do custo effectivo dos terrenos que fôssem
+applicados para abertura de ruas, praças e outros logradouros communs e
 publicos.
 
 Mas as empresas que se constituissem, assim como teriam vantagens,
-teriam egualmente obrigaÃ§Ãµes. Eram estas as seguintes:
+teriam egualmente obrigações. Eram estas as seguintes:
 
-1.Âº Alugar as casas, ou divisÃµes, durante vinte annos, por uma renda
+1.º Alugar as casas, ou divisões, durante vinte annos, por uma renda
 nunca superior a 8% do seu custo effectivo, incluindo o valor do
 terreno;
 
-2.Âº Transmittir aos inquilinos a posse da casa ou divisÃ£o habitada por
+2.º Transmittir aos inquilinos a posse da casa ou divisão habitada por
 elles, mediante annuidades pelo menos de 8%, accumuladas n'uma caixa,
 pelo seu custo effectivo, comprehendendo o valor do terreno e um premio
-de construcÃ§Ã£o nunca superior a 10% do preÃ§o do mesmo terreno; as
-empresas estabeleceriam para isso tabellas de amortisaÃ§Ã£o por trimestre
+de construcção nunca superior a 10% do preço do mesmo terreno; as
+empresas estabeleceriam para isso tabellas de amortisação por trimestre
 para os periodos de quatorze, dezoito e vinte e dois annos; na hypothese
 de morte ou impossibilidade physica do inquilino e no caso da familia,
-ou legitimo herdeiro, nÃ£o poder sustentar o contracto, ser-lhe-hiam
-entregues as prestaÃ§Ãµes pagas, accumuladas em metade da taxa e nos
+ou legitimo herdeiro, não poder sustentar o contracto, ser-lhe-hiam
+entregues as prestações pagas, accumuladas em metade da taxa e nos
 mesmos periodos por que a empresa tivesse contractado a venda;
 
-3.Âº Crear caixas economicas para deposito de quaesquer quantias, desde o
-minimo de 50 rÃ©is, com juros contados dia a dia n'uma taxa nunca
-inferior a 4%; e capitalisaÃ§Ã£o trimestral;
+3.º Crear caixas economicas para deposito de quaesquer quantias, desde o
+minimo de 50 réis, com juros contados dia a dia n'uma taxa nunca
+inferior a 4%; e capitalisação trimestral;
 
-4.Âº Permittir o pagamento anticipado das rendas por mez, trimestre ou
+4.º Permittir o pagamento anticipado das rendas por mez, trimestre ou
 semestre;
 
-5.Âº NÃ£o consentir a sublocaÃ§Ã£o das casas ou divisÃµes, sob pena de
-immediata rescisÃ£o dos contractos de aluguer.
+5.º Não consentir a sublocação das casas ou divisões, sob pena de
+immediata rescisão dos contractos de aluguer.
 
-As casas vendidas aos inquilinos nas condiÃ§Ãµes indicadas no n.Âº 2,
-gosariam da isenÃ§Ã£o do imposto predial por mais cinco annos, isto Ã©, o
-periodo da isenÃ§Ã£o seria elevado de vinte a vinte e cinco annos.
-Ficaria, porÃ©m, sem effeito esta concessÃ£o e a empresa obrigada a
-reembolsar o Estado das sommas correspondentes da contribuibuiÃ§Ã£o
-predial alÃ©m dos vinte annos, se o contracto da venda fosse annullado ou
-rescindido. Aos inquilinos que n'essas condiÃ§Ãµes se tornassem
-proprietarios, concederia o Governo, desde que se provasse a acquisiÃ§Ã£o,
+As casas vendidas aos inquilinos nas condições indicadas no n.º 2,
+gosariam da isenção do imposto predial por mais cinco annos, isto é, o
+periodo da isenção seria elevado de vinte a vinte e cinco annos.
+Ficaria, porém, sem effeito esta concessão e a empresa obrigada a
+reembolsar o Estado das sommas correspondentes da contribuibuição
+predial além dos vinte annos, se o contracto da venda fosse annullado ou
+rescindido. Aos inquilinos que n'essas condições se tornassem
+proprietarios, concederia o Governo, desde que se provasse a acquisição,
 50% do imposto sobre rendas de casas, que houvessem pago, capitalisadas
-as sommas annuaes na taxa de 5% e isenÃ§Ã£o do imposto de registo.
+as sommas annuaes na taxa de 5% e isenção do imposto de registo.
 
-As empresas perderiam todas as concessÃµes e indemnisariam o Estado
-quando vendessem as habitaÃ§Ãµes por forma differente da indicada ou a
-outra pessoa que nÃ£o fÃ´sse o inquilino.
+As empresas perderiam todas as concessões e indemnisariam o Estado
+quando vendessem as habitações por forma differente da indicada ou a
+outra pessoa que não fôsse o inquilino.
 
-Os projectos das edificaÃ§Ãµes e planos dos bairros seriam submettidos Ã¡
-approvaÃ§Ã£o do Governo e deveriam satisfazer Ã¡s condiÃ§Ãµes de boa
-exposiÃ§Ã£o, salubridade, perspectiva, solidez, capacidade e hygiene. O
-Governo fiscalisaria tambem os trabalhos de construcÃ§Ã£o e approvaria os
-contractos de venda e as tabellas de fixaÃ§Ã£o de rendas e amortisaÃ§Ã£o.
+Os projectos das edificações e planos dos bairros seriam submettidos á
+approvação do Governo e deveriam satisfazer ás condições de boa
+exposição, salubridade, perspectiva, solidez, capacidade e hygiene. O
+Governo fiscalisaria tambem os trabalhos de construcção e approvaria os
+contractos de venda e as tabellas de fixação de rendas e amortisação.
 
-A auctorisaÃ§Ã£o dada ao Governo para fazer as concessÃµes mencionadas, sÃ³
-estaria em vigor por espaÃ§o de tres annos a contar da promulgaÃ§Ã£o da
+A auctorisação dada ao Governo para fazer as concessões mencionadas, só
+estaria em vigor por espaço de tres annos a contar da promulgação da
 lei.
 
-O projecto do sr. Augusto Fuschini, como dissemos, nÃ£o teve melhor sorte
+O projecto do sr. Augusto Fuschini, como dissemos, não teve melhor sorte
 do que a proposta de lei de 15 de janeiro de 1883.
 
 
 IV
 
 Se os poderes constituidos nunca mais se preoccuparam com a falta de
-habitaÃ§Ãµes hygienicas e baratas para o proletariado e em geral para a
-gente pobre, nÃ£o Ã© porque desde entÃ£o cessassem as reclamaÃ§Ãµes
-populares; antes com insistencia se torna Ã©cho d'ellas a imprensa
+habitações hygienicas e baratas para o proletariado e em geral para a
+gente pobre, não é porque desde então cessassem as reclamações
+populares; antes com insistencia se torna écho d'ellas a imprensa
 quotidiana, especialmente a democratica.
 
-De mais largo fÃ´lego sÃ£o, porÃ©m, dois estudos sobre o assumpto,
-publicados o primeiro em 1891 e o segundo em 1897, e jÃ¡ por nÃ³s citados
-n'estas paginas. SÃ£o a _HabitaÃ§Ã£o do operario e classes menos
+De mais largo fôlego são, porém, dois estudos sobre o assumpto,
+publicados o primeiro em 1891 e o segundo em 1897, e já por nós citados
+n'estas paginas. São a _Habitação do operario e classes menos
 abastadas_, pelo sr. Guilherme Augusto de Santa Rita, e o _Projecto para
-a organisaÃ§Ã£o d'uma Sociedade promotora de habitaÃ§Ãµes economicas
-destinadas Ã¡s classes laboriosas e menos abastadas_, pelo sr. A. R.
-AdÃ£es Bermudes.
+a organisação d'uma Sociedade promotora de habitações economicas
+destinadas ás classes laboriosas e menos abastadas_, pelo sr. A. R.
+Adães Bermudes.
 
 O pensamento do sr. Guilherme de Santa Rita acha-se formulado n'um
 projecto de lei com que fechou o seu opusculo. O Governo seria
-auctorisado a fazer certas concessÃµes a uma sociedade anonyma de
+auctorisado a fazer certas concessões a uma sociedade anonyma de
 responsabilidade limitada que se organisasse expressa e exclusivamente
-para edificar casas de rendas atÃ© o limite maximo de 50$000 rÃ©is por
-anno nos concelhos de Lisboa e Porto, e 25$000 rÃ©is em todos os outros.
+para edificar casas de rendas até o limite maximo de 50$000 réis por
+anno nos concelhos de Lisboa e Porto, e 25$000 réis em todos os outros.
 Passados quatro annos, se na pratica tivessem dado bom resultado,
 poder-se-hiam extender os beneficios da lei a outras companhias que se
 constituissem para o mesmo fim.
 
 As vantagens offerecidas eram:
 
-1.Âº Garantia do complemento do juro de 6% sobre cada prestaÃ§Ã£o
-desembolsada do capital de mil contos de rÃ©is, que seria o fixado para a
+1.º Garantia do complemento do juro de 6% sobre cada prestação
+desembolsada do capital de mil contos de réis, que seria o fixado para a
 sociedade;
 
-2.Âº Um terÃ§o da superficie dos terrenos das cÃªrcas dos conventos
+2.º Um terço da superficie dos terrenos das cêrcas dos conventos
 existentes em Lisboa, Porto e outras terras, os quaes pelo fallecimento
 da ultima freira estivessem ou viessem a estar desoccupados;
 
-3.Âº IsenÃ§Ã£o de contribuiÃ§Ã£o de registo pela compra de todos os terrenos,
+3.º Isenção de contribuição de registo pela compra de todos os terrenos,
 ou predios rusticos, nos concelhos de Lisboa e Porto que pela sua
-proximidade dos centros fabris se prestassem a construcÃ§Ãµes economicas,
+proximidade dos centros fabris se prestassem a construcções economicas,
 os quaes poderiam ser expropriados por utilidade publica;
 
-4.Âº IsenÃ§Ã£o, durante dez annos, de impostos sobre os materiaes
-empregados nas construcÃ§Ãµes;
+4.º Isenção, durante dez annos, de impostos sobre os materiaes
+empregados nas construcções;
 
-5.Âº IsenÃ§Ã£o da contribuiÃ§Ã£o predial, por espaÃ§o de dez annos, para os
+5.º Isenção da contribuição predial, por espaço de dez annos, para os
 predios construidos pela sociedade;
 
-6.Âº IsenÃ§Ã£o da mesma contribuiÃ§Ã£o para os predios que fossem vendidos
-pela Sociedade ao primitivo inquilino, pelo espaÃ§o de tantos annos
-quantos lhe fossem marcados pela tabella das amortisaÃ§Ãµes por que essa
+6.º Isenção da mesma contribuição para os predios que fossem vendidos
+pela Sociedade ao primitivo inquilino, pelo espaço de tantos annos
+quantos lhe fossem marcados pela tabella das amortisações por que essa
 venda se effectuasse;
 
-7.Âº IsenÃ§Ã£o de contribuiÃ§Ã£o de renda de casa aos primitivos inquilinos
-que pontual e integralmente pagassem a renda e a amortisaÃ§Ã£o e por tanto
-tempo quanto pela referida amortisaÃ§Ã£o lhes fosse marcado;
+7.º Isenção de contribuição de renda de casa aos primitivos inquilinos
+que pontual e integralmente pagassem a renda e a amortisação e por tanto
+tempo quanto pela referida amortisação lhes fosse marcado;
 
-8.Âº IsenÃ§Ã£o de contribuiÃ§Ã£o de registo ao primitivo inquilino que por
-meio de amortisaÃ§Ãµes se tornou proprietario da casa que habita.
+8.º Isenção de contribuição de registo ao primitivo inquilino que por
+meio de amortisações se tornou proprietario da casa que habita.
 
 As sociedades constructoras ficariam obrigadas:
 
-1.Âº A alugar as casas ou divisÃµes por uma renda nunca superior a 8%
-sobre o seu custo effectivo incluindo valor do terreno, conservaÃ§Ã£o,
-seguros e administraÃ§Ã£o;
+1.º A alugar as casas ou divisões por uma renda nunca superior a 8%
+sobre o seu custo effectivo incluindo valor do terreno, conservação,
+seguros e administração;
 
-2.Âº A embolsar o Estado das importancias despendidas em complementos de
-juro, deduzindo-as do dividendo quando este fÃ´r superior a 6%;
+2.º A embolsar o Estado das importancias despendidas em complementos de
+juro, deduzindo-as do dividendo quando este fôr superior a 6%;
 
-3.Âº A construir Ã¡ beira das ruas, pelo menos atÃ© em dois terÃ§os de
-superficie, predios de um sÃ³ pavimento, com jardim de 6 metros, e
-isolados uns dos outros pelo menos 1^m,20; no terÃ§o restante, casas
-agrupadas com egual porÃ§Ã£o de metros para jardins, predios de mais de um
+3.º A construir á beira das ruas, pelo menos até em dois terços de
+superficie, predios de um só pavimento, com jardim de 6 metros, e
+isolados uns dos outros pelo menos 1^m,20; no terço restante, casas
+agrupadas com egual porção de metros para jardins, predios de mais de um
 andar, etc.;
 
-4.Âº A ter ao seu serviÃ§o um determinado numero de medicos como
-inspectores das condiÃ§Ãµes hygienicas das casas e da situaÃ§Ã£o do terreno
+4.º A ter ao seu serviço um determinado numero de medicos como
+inspectores das condições hygienicas das casas e da situação do terreno
 a ellas destinado;
 
-5.Âº A permittir que os inquilinos pudessem, por meio de annuidades
+5.º A permittir que os inquilinos pudessem, por meio de annuidades
 accumuladas n'uma taxa nunca inferior a 6%, tornar-se proprietarios das
-casas, ou divisÃµes, que habitarem pelo seu custo effectivo,
-comprehendendo valor do terreno, conservaÃ§Ã£o, seguro e administraÃ§Ã£o, e
+casas, ou divisões, que habitarem pelo seu custo effectivo,
+comprehendendo valor do terreno, conservação, seguro e administração, e
 augmentado com um premio nunca inferior a 8% sobre o custo da
-construcÃ§Ã£o e valor do terreno, ou nunca superior a 7 1/2%, nÃ£o tendo
+construcção e valor do terreno, ou nunca superior a 7 1/2%, não tendo
 sido o terreno comprado;
 
-6.Âº A estabelecer para esse effeito tabellas de amortisaÃ§Ã£o por
+6.º A estabelecer para esse effeito tabellas de amortisação por
 trimestre para os periodos de quatorze, dezoito e vinte e dois annos;
 
-7.Âº A permittir o pagamento anticipado das rendas por semana, mez,
+7.º A permittir o pagamento anticipado das rendas por semana, mez,
 trimestre e semestre;
 
-8.Âº A arrendar as casas, logo depois de construidas, por ordem da
-inscripÃ§Ã£o dos pretendentes, publicando essa ordem em dois dos jornaes
+8.º A arrendar as casas, logo depois de construidas, por ordem da
+inscripção dos pretendentes, publicando essa ordem em dois dos jornaes
 mais lidos da capital;
 
-9.Âº A permitir que o individuo que se quizesse tornar proprietario da
-casa que se estivesse construindo, apresentasse uma planta das divisÃµes,
+9.º A permitir que o individuo que se quizesse tornar proprietario da
+casa que se estivesse construindo, apresentasse uma planta das divisões,
 devendo conformar-se tanto quanto possivel com ella o engenheiro da
 sociedade constructora;
 
-10.Âº A consentir que o interessado ou seu representante fiscalisasse a
-construcÃ§Ã£o;
+10.º A consentir que o interessado ou seu representante fiscalisasse a
+construcção;
 
-11.Âº A nÃ£o permittir a sublocaÃ§Ã£o das casas ou divisÃµes, sob pena de
-rescisÃ£o do contracto;
+11.º A não permittir a sublocação das casas ou divisões, sob pena de
+rescisão do contracto;
 
-12.Âº A fazer em cada grupo ou bairro composto de 500 predios e n'um
+12.º A fazer em cada grupo ou bairro composto de 500 predios e n'um
 d'elles de mais de um pavimento, lojas destinadas a cooperativas de
 consumo de generos alimenticios e artigos de vestuario; e a reservar os
 primeiros andares do referido predio para o estabelecimento de uma caixa
-economica e associaÃ§Ã£o de soccorro mÃºtuo;
+economica e associação de soccorro mútuo;
 
-13.Âº A crear caixas economicas para deposito de quaesquer quantias desde
-o minimo de 50 rÃ©is com juros contados dia a dia n'uma taxa nunca
-inferior a 4 por % e capitalisaÃ§Ã£o semestral;
+13.º A crear caixas economicas para deposito de quaesquer quantias desde
+o minimo de 50 réis com juros contados dia a dia n'uma taxa nunca
+inferior a 4 por % e capitalisação semestral;
 
-14.Âº A nÃ£o effectuar vendas dos terrenos cedidos pelo Estado, ou
-adquiridos por meio de expropriaÃ§Ã£o por utilidade publica.
+14.º A não effectuar vendas dos terrenos cedidos pelo Estado, ou
+adquiridos por meio de expropriação por utilidade publica.
 
-SÃ£o estas as principaes clausulas do projecto de lei formulado pelo sr.
+São estas as principaes clausulas do projecto de lei formulado pelo sr.
 Guilherme de Santa Rita.
 
-O plano do illustre architecto sr. AdÃ£es Bermudes differe essencialmente
+O plano do illustre architecto sr. Adães Bermudes differe essencialmente
 do precedente, como dos projectos apresentados ao Parlamento, porque
-dispensa a coadjuvaÃ§Ã£o do Estado. PropÃµe a formaÃ§Ã£o de uma sociedade
-anonyma de responsabilidade limitada com o capital social de rÃ©is
-100:000$000 dividido em mil acÃ§Ãµes de 100$000 rÃ©is cada uma, mas podendo
-ser augmentada por uma ou mais vezes pela creaÃ§Ã£o de novas acÃ§Ãµes e
-unicamente por deliberaÃ§Ã£o da assemblÃ©a geral dos accionistas. Essa
-sociedade, cuja duraÃ§Ã£o seria de 30 annos, teria por fim "auxiliar os
+dispensa a coadjuvação do Estado. Propõe a formação de uma sociedade
+anonyma de responsabilidade limitada com o capital social de réis
+100:000$000 dividido em mil acções de 100$000 réis cada uma, mas podendo
+ser augmentada por uma ou mais vezes pela creação de novas acções e
+unicamente por deliberação da assembléa geral dos accionistas. Essa
+sociedade, cuja duração seria de 30 annos, teria por fim "auxiliar os
 operarios e empregados, e em geral as classes pouco abastadas, creando
-habitaÃ§Ãµes sadias, confortaveis e convenientemente construidas, que lhes
-serÃ£o alugadas ou vendidas por preÃ§os modicos, com faculdade de
-pagamento em prestaÃ§Ãµes." As operaÃ§Ãµes da sociedade comprehenderiam a
-compra de terrenos e a sua valorisaÃ§Ã£o pela edificaÃ§Ã£o de casas
+habitações sadias, confortaveis e convenientemente construidas, que lhes
+serão alugadas ou vendidas por preços modicos, com faculdade de
+pagamento em prestações." As operações da sociedade comprehenderiam a
+compra de terrenos e a sua valorisação pela edificação de casas
 economicas; o aluguer puro e simples, ou com promessa de venda d'estas
 casas; a venda firme ou condicional, a prompto pagamento, ou a prazo,
 dos terrenos e casas de que fosse proprietaria; e o resgate dos immoveis
 vendidos por troca, ou a dinheiro.
 
-O sr. AdÃ£es Bermudes juntou ao projecto de estatutos um caderno de
+O sr. Adães Bermudes juntou ao projecto de estatutos um caderno de
 encargos para os locatarios e o plano financeiro da sociedade.
 
 Eis as principaes clausulas do caderno de encargos. A partir do dia em
-que o locatario tomar posse da casa, comeÃ§a a contar-se o vencimento do
+que o locatario tomar posse da casa, começa a contar-se o vencimento do
 aluguer e, nos casos de compra, a contar-se o juro de 5% sobre o valor
-da casa e do terreno annexo. As habitaÃ§Ãµes e jardins sÃ£o alugados
-simplesmente ou com faculdade de compra por meio de amortisaÃ§Ãµes, nÃ£o
-podendo todavia o comprador valer-se da promessa da venda senÃ£o depois
-do pagamento integral do preÃ§o da propriedade.
+da casa e do terreno annexo. As habitações e jardins são alugados
+simplesmente ou com faculdade de compra por meio de amortisações, não
+podendo todavia o comprador valer-se da promessa da venda senão depois
+do pagamento integral do preço da propriedade.
 
 A sociedade alugaria e venderia as suas casas a pessoas honestas e
-sÃ©rias, dando a preferencia nos grupos construidos para uma corporaÃ§Ã£o
-determinada de operarios ou empregados aos membros da mesma corporaÃ§Ã£o.
+sérias, dando a preferencia nos grupos construidos para uma corporação
+determinada de operarios ou empregados aos membros da mesma corporação.
 Cada grupo teria um ou mais typos de casas com jardim.
 
-As mensalidades, pagas adeantadamente, comprehenderiam sÃ³ a importancia
+As mensalidades, pagas adeantadamente, comprehenderiam só a importancia
 do aluguer, nunca excedendo 8% ao anno do custo effectivo da
-propriedade, ou essa importancia e as amortisaÃ§Ãµes, calculadas estas de
-maneira que, accumuladas na taxa de 5% durante 15 ou 20 annos, dÃªem ao
-locatario a propriedade pelo reembolso do seu custo Ã¡ sociedade.
+propriedade, ou essa importancia e as amortisações, calculadas estas de
+maneira que, accumuladas na taxa de 5% durante 15 ou 20 annos, dêem ao
+locatario a propriedade pelo reembolso do seu custo á sociedade.
 
-Por falta de pagamento, nas Ã©pochas marcadas, das sommas devidas pelo
+Por falta de pagamento, nas épochas marcadas, das sommas devidas pelo
 locatario, o arrendamento poderia ser rescindido um mez depois do
-vencimento a que faltasse; mas em caso de doenÃ§a, ou de forÃ§a maior, a
+vencimento a que faltasse; mas em caso de doença, ou de força maior, a
 sociedade poderia conceder maiores prazos de pagamento. No caso da morte
 do chefe de familia a sociedade prestaria todas as ajudas para que os
 seus herdeiros o pudessem substituir; e com esse fim procuraria
 facilitar aos seus locatarios o seguro de vida.
 
 A sociedade teria egualmente o direito de rescindir o contracto quando o
-procedimento do locatario, ou d'aquelles pelos quaes elle fÃ´r
+procedimento do locatario, ou d'aquelles pelos quaes elle fôr
 responsavel, se tornasse notoriamente escandaloso porque elle deixaria
-entÃ£o de satisfazer a uma das condiÃ§Ãµes principaes que o fizeram
+então de satisfazer a uma das condições principaes que o fizeram
 admittir pela sociedade.
 
-Tanto nas casas alugadas como nas vendidas, nÃ£o seria admittido o
-estabelecimento de tabernas, tabolagens ou profissÃµes insalubres e
+Tanto nas casas alugadas como nas vendidas, não seria admittido o
+estabelecimento de tabernas, tabolagens ou profissões insalubres e
 incommodativas.
 
-A sociedade empregaria os mais dedicados esforÃ§os para obter dos poderes
-publicos em proveito dos locatarios a isenÃ§Ã£o das contribuiÃ§Ãµes predial
+A sociedade empregaria os mais dedicados esforços para obter dos poderes
+publicos em proveito dos locatarios a isenção das contribuições predial
 e de renda de casa, e ainda a do registo para os que se tornassem
-proprietarios das habitaÃ§Ãµes; estudaria, de commum accÃ´rdo com os
+proprietarios das habitações; estudaria, de commum accôrdo com os
 locatarios, o melhor meio de crear estabelecimentos de utilidade
 publica, taes como: mercearias, adegas, padarias, por meio de
 cooperativas; e emfim solicitaria do Governo e da municipalidade a
-creaÃ§Ã£o de outros, taes como eschola, gymnasio, lavadoiros hospital,
+creação de outros, taes como eschola, gymnasio, lavadoiros hospital,
 etc., para assegurar o bem-estar, a saude e o desenvolvimento moral,
 physico, e intellectual das classes laboriosas e menos abastadas.
 
-Conforme o plano traÃ§ado pelo sr. AdÃ£es Bermudes, haveria no bairro
-operario fundado pela sociedade, habitaÃ§Ãµes economicas independentes,
+Conforme o plano traçado pelo sr. Adães Bermudes, haveria no bairro
+operario fundado pela sociedade, habitações economicas independentes,
 collectivas e especiaes. As primeiras, constando de predios para um ou
-mais moradores, teriam entre 2 e 9 divisÃµes em cada morada e o preÃ§o do
-aluguer por mez entre 1$900 rÃ©is e 4$870 rÃ©is e de compra, ou
-amortisaÃ§Ã£o mensal, entre 1$425 rÃ©is e 3$650 rÃ©is. O aluguer nos
-segundos seria de 1$375 rÃ©is por mez. Nos terceiros, tendo cada um 6 ou
-7 divisÃµes, o preÃ§o da renda mensal seria de 6$000, 6$135 e 20$000 rÃ©is
-e amortisaÃ§Ã£o correspondente 4$500, 4$600 e 15$000 rÃ©is. As habitaÃ§Ãµes
+mais moradores, teriam entre 2 e 9 divisões em cada morada e o preço do
+aluguer por mez entre 1$900 réis e 4$870 réis e de compra, ou
+amortisação mensal, entre 1$425 réis e 3$650 réis. O aluguer nos
+segundos seria de 1$375 réis por mez. Nos terceiros, tendo cada um 6 ou
+7 divisões, o preço da renda mensal seria de 6$000, 6$135 e 20$000 réis
+e amortisação correspondente 4$500, 4$600 e 15$000 réis. As habitações
 economicas collectivas comprehenderiam dois vastos edificios de tres
 pavimentos, com 32 quartos independentes em cada edificio e destinados a
-alojar nas melhores condiÃ§Ãµes de hygiene, moral, independencia e
-economia, operarios celibatÃ¡rios de ambos os sexos.
+alojar nas melhores condições de hygiene, moral, independencia e
+economia, operarios celibatários de ambos os sexos.
 
 No bairro haveria dois edificios destinados a estabelecimentos de
-utilidade publica, que seriam: cooperativa de alimentaÃ§Ã£o; cooperativa
+utilidade publica, que seriam: cooperativa de alimentação; cooperativa
 de vestuario e de mobiliario; adega economica; cozinha e restaurant
 economico; escholas, creche, officinas de apprendizagem e gymnasio;
-hospital, maternidade, posto vaccinico e posto de desinfecÃ§Ã£o; banhos e
+hospital, maternidade, posto vaccinico e posto de desinfecção; banhos e
 lavadouros publicos; egreja; theatro-club, bibliotheca, cooperativa de
-producÃ§Ã£o e bazar de vendas; estaÃ§Ã£o de policia e de incendios e caixa
-economica; administraÃ§Ã£o geral do bairro, estaÃ§Ã£o postal e vaccaria.
+producção e bazar de vendas; estação de policia e de incendios e caixa
+economica; administração geral do bairro, estação postal e vaccaria.
 
-Ã‰, como se vÃª por estas rapidas notas, um plano grandioso, o que
+É, como se vê por estas rapidas notas, um plano grandioso, o que
 concebeu o illustre architecto. Infelizmente nem o opusculo a que nos
-temos referido, nem as conferencias publicas realisadas pelo sr. AdÃ£es
-Bermudes sobre habitaÃ§Ãµes economicas produziram o desejado effeito
-prÃ¡tico.
+temos referido, nem as conferencias publicas realisadas pelo sr. Adães
+Bermudes sobre habitações economicas produziram o desejado effeito
+prático.
 
-A commissÃ£o organisadora das festas commemorativas do quarto centenario
+A commissão organisadora das festas commemorativas do quarto centenario
 do descobrimento do caminho maritimo da India, comprehendendo a
-necessidade de fomentar a construcÃ§Ã£o de casas para o operariado,
-incluiu na sÃ©rie de concursos, que resolveu abrir no anno do centenario,
-um para projectos de habitaÃ§Ãµes economicas. Ã‰ mais um incentivo
-puramente theorico, mas todavia digno de menÃ§Ã£o.
+necessidade de fomentar a construcção de casas para o operariado,
+incluiu na série de concursos, que resolveu abrir no anno do centenario,
+um para projectos de habitações economicas. É mais um incentivo
+puramente theorico, mas todavia digno de menção.
 
 
 V
 
-Para os operarios, particularmente, alguma cousa tem feito a acÃ§Ã£o
-industrial. O sr. Guilherme Santa Rita, no seu opusculo _HabitaÃ§Ãµes do
+Para os operarios, particularmente, alguma cousa tem feito a acção
+industrial. O sr. Guilherme Santa Rita, no seu opusculo _Habitações do
 operario e classes menos abastadas_, mencionava com louvor as tentativas
-de vÃ¡rias companhias que construiram habitaÃ§Ãµes para os seus operarios.
+de várias companhias que construiram habitações para os seus operarios.
 
-A _Companhia de FiaÃ§Ã£o e Tecidos Lisbonense_, em Alcantara, iniciou em
-1873 a construcÃ§Ã£o de habitaÃ§Ãµes economicas com esse destino. Dez annos
+A _Companhia de Fiação e Tecidos Lisbonense_, em Alcantara, iniciou em
+1873 a construcção de habitações economicas com esse destino. Dez annos
 depois albergava 49 familias de operarios. Construiu posteriormente dois
-predios na rua de S. Joaquim, a Santo Amaro, que abrangem uma Ã¡rea de
-1.239 metros quadrados. Os predios teem rez-do-chÃ£o e dois andares e dÃ£o
-residencia a dezoito familias. Cada habitaÃ§Ã£o consta de quatro a oito
-compartimentos mais ou menos espaÃ§osos. As rendas regulam entre 3$000 e
-5$500 rÃ©is por mez.
+predios na rua de S. Joaquim, a Santo Amaro, que abrangem uma área de
+1.239 metros quadrados. Os predios teem rez-do-chão e dois andares e dão
+residencia a dezoito familias. Cada habitação consta de quatro a oito
+compartimentos mais ou menos espaçosos. As rendas regulam entre 3$000 e
+5$500 réis por mez.
 
-A _Companhia Lisbonense de Estamparia e Tinturaria de AlgodÃµes_ possuia
-em 1891, quando veiu Ã¡ luz o livro do sr. Santa Rita, doze predios
+A _Companhia Lisbonense de Estamparia e Tinturaria de Algodões_ possuia
+em 1891, quando veiu á luz o livro do sr. Santa Rita, doze predios
 compostos de tres pavimentos com seis inquilinos cada um, os quaes
-pagavam de renda mensal entre 400 rÃ©is e 5$000 rÃ©is.
+pagavam de renda mensal entre 400 réis e 5$000 réis.
 
-A _Companhia do Fabrico de AlgodÃµes de Xabregas_ tambem construiu dois
-grupos de habitaÃ§Ãµes, formando um bairro operario denominado _Villa
+A _Companhia do Fabrico de Algodões de Xabregas_ tambem construiu dois
+grupos de habitações, formando um bairro operario denominado _Villa
 Flamiano_. Cada grupo de casas consta de lojas e primeiros andares,
-dando um dos grupos habitaÃ§Ãµes a quarenta inquilinos e o outro a trinta
-e dois. As rendas mensaes eram, em 1891, de 3$000 rÃ©is para as casas com
+dando um dos grupos habitações a quarenta inquilinos e o outro a trinta
+e dois. As rendas mensaes eram, em 1891, de 3$000 réis para as casas com
 quatro compartimentos, 1$500 para as de tres e 1$200 para as de dois. A
-_Companhia do Fabrico de AlgodÃµes de Xabregas_ fornece agua em
+_Companhia do Fabrico de Algodões de Xabregas_ fornece agua em
 abundancia aos inquilinos, tanto para os gastos domesticos como para a
 lavagem de roupas. Representa isto uma vantagem capital sobre o ponto de
 vista hygienico.
 
-Em 1890, por occasiÃ£o de uma epidemia de variola, um redactor do
+Em 1890, por occasião de uma epidemia de variola, um redactor do
 _Seculo_ andou visitando as casas onde havia variolosos e descreveu com
 sombrias tintas os repugnantes quadros de miseria que encontrou. A
-immundicie convertera em antros pestilentos algumas habitaÃ§Ãµes novas e
+immundicie convertera em antros pestilentos algumas habitações novas e
 hygienicas, por exemplo, em Alcantara. Se a falta de asseio, se a
 ausencia completa de limpeza, se pode attribuir em grande parte ao
-desmazelo e ao relaxamento, provenientes da carencia de educaÃ§Ã£o, tambem
-por outro lado Ã© uma consequencia da carestia da agua, carestia tanto
-mais apreciavel, quanto mais precÃ¡rias sÃ£o as condiÃ§Ãµes economicas do
+desmazelo e ao relaxamento, provenientes da carencia de educação, tambem
+por outro lado é uma consequencia da carestia da agua, carestia tanto
+mais apreciavel, quanto mais precárias são as condições economicas do
 operariado.
 
 As familias operarias, e em geral as das classes pobres, consomem pouca
-agua. Raras sÃ£o em Lisboa as que se utilisam do fornecimento feito pela
-_Companhia das Aguas_, porque o preÃ§o da agua Ã© carissimo. O preÃ§o de
-duzentos rÃ©is por cada metro cubico de agua Ã©, na realidade,
-exorbitante. Se a agua, posta em casa, nÃ£o pode ser gratuita, como Ã© o
-ar e a luz do sol, em virtude das despesas com a canalisaÃ§Ã£o para o seu
-transporte do manancial distante, deveria ser fornecida por um preÃ§o
+agua. Raras são em Lisboa as que se utilisam do fornecimento feito pela
+_Companhia das Aguas_, porque o preço da agua é carissimo. O preço de
+duzentos réis por cada metro cubico de agua é, na realidade,
+exorbitante. Se a agua, posta em casa, não pode ser gratuita, como é o
+ar e a luz do sol, em virtude das despesas com a canalisação para o seu
+transporte do manancial distante, deveria ser fornecida por um preço
 minimo, de maneira que todos a pudessem gastar em abundancia. Mas a
-_Companhia das Aguas_ fornece-a por um preÃ§o exorbitante, e exige ainda
-mais a cada um dos consumidores o aluguer de um contador. Ã‰ uma despesa
+_Companhia das Aguas_ fornece-a por um preço exorbitante, e exige ainda
+mais a cada um dos consumidores o aluguer de um contador. É uma despesa
 excessiva para as classes menos abastadas.
 
-Recorrem ellas, por isso, ao chafariz publico, ou a algum poÃ§o de agua
+Recorrem ellas, por isso, ao chafariz publico, ou a algum poço de agua
 potavel; mas se ahi encontram a agua gratuita, teem de dispender tempo e
-forÃ§as na conducÃ§Ã£o d'ella para as habitaÃ§Ãµes.
+forças na conducção d'ella para as habitações.
 
-O consumo da agua feito pela gente pobre e pelo operariado Ã©,
-portanto, muito diminuto; e todavia convem nÃ£o esquecer, como dizia
-Lavoisier, que da agua _dependem a fÃ´rÃ§a e a saude dos cidadÃ£os_.
+O consumo da agua feito pela gente pobre e pelo operariado é,
+portanto, muito diminuto; e todavia convem não esquecer, como dizia
+Lavoisier, que da agua _dependem a fôrça e a saude dos cidadãos_.
 
-Ora se as casas nÃ£o prestam, a carestia da agua ainda as torna peores. E
+Ora se as casas não prestam, a carestia da agua ainda as torna peores. E
 assim o operariado, na sua maxima parte, continua a viver em casas
-velhas e infectas, n'uma accumulaÃ§Ã£o insalubre e immoral.
+velhas e infectas, n'uma accumulação insalubre e immoral.
 
-A iniciativa particular, Ã¡ parte o pouco que algumas companhias teem
+A iniciativa particular, á parte o pouco que algumas companhias teem
 feito em beneficio dos seus operarios, raras vezes tem diligenciado, no
-nosso paiz, e nomeadamente na capital, melhorar as condiÃ§Ãµes de
-habitaÃ§Ã£o das classes pobres e em especial do proletariado. Nem a
-philantropia nem a especulaÃ§Ã£o teem estimulado sufficientemente a
+nosso paiz, e nomeadamente na capital, melhorar as condições de
+habitação das classes pobres e em especial do proletariado. Nem a
+philantropia nem a especulação teem estimulado sufficientemente a
 iniciativa particular.
 
-A benemerita tentativa da _Companhia Commercial Constructora_ Ã© talvez o
+A benemerita tentativa da _Companhia Commercial Constructora_ é talvez o
 principal producto da iniciativa particular no nosso meio.
 
-A _Companhia Commercial Constructora_ Ã© uma sociedade anonyma de
+A _Companhia Commercial Constructora_ é uma sociedade anonyma de
 responsabilidade limitada, cujos estatutos foram discutidos e approvados
-em assemblÃ©a geral de 4 de janeiro de 1890. Formou-se com o capital de
-100.000$000 rÃ©is, dividido em 1:000 acÃ§Ãµes de 100$000 rÃ©is cada uma,
-sendo a emissÃ£o coberta em tres ou quatro dias e nÃ£o apparecendo papel
+em assembléa geral de 4 de janeiro de 1890. Formou-se com o capital de
+100.000$000 réis, dividido em 1:000 acções de 100$000 réis cada uma,
+sendo a emissão coberta em tres ou quatro dias e não apparecendo papel
 no mercado.
 
-A companhia adquiriu uns terrenos que da calÃ§ada dos Barbadinhos, por
+A companhia adquiriu uns terrenos que da calçada dos Barbadinhos, por
 onde teem entrada, se extendem para S.O. Ahi pretendia edificar um
-grande bairro operario. Como inicio de trabalho submetteu logo Ã¡
-approvaÃ§Ã£o da camara municipal de Lisboa um projecto para a abertura de
+grande bairro operario. Como inicio de trabalho submetteu logo á
+approvação da camara municipal de Lisboa um projecto para a abertura de
 seis ruas.
 
-O pensamento da empresa--segundo informaÃ§Ãµes que nos foram
+O pensamento da empresa--segundo informações que nos foram
 obsequiosamente prestadas por um dos fundadores--era construir casas
-espaÃ§osas e confortaveis, com muito ar e muita luz, predios de
-rez-do-chÃ£o e um ou dois andares, com as trazeiras sobre pateos vastos e
-soalheiros, habitaÃ§Ãµes destinadas para residencia de familias de
-operarios. N'essas casas haveria desde o quarto para homem sÃ³ atÃ© a
-habitaÃ§Ã£o de 5 e 6 compartimentos. Projectava tambem construir um predio
+espaçosas e confortaveis, com muito ar e muita luz, predios de
+rez-do-chão e um ou dois andares, com as trazeiras sobre pateos vastos e
+soalheiros, habitações destinadas para residencia de familias de
+operarios. N'essas casas haveria desde o quarto para homem só até a
+habitação de 5 e 6 compartimentos. Projectava tambem construir um predio
 especial para operarios que vivessem isolados, o qual teria um extenso
 corredor ao centro com quartos de um e do outro lado e uma cozinha
 commum, mas com tantas fornalhas quantos fossem os inquilinos, onde cada
-um poderia ir aquecer o seu cafÃ© ou cozinhar os seus parcos alimentos.
+um poderia ir aquecer o seu café ou cozinhar os seus parcos alimentos.
 
 A crise financeira e economica veiu infelizmente impedir que a companhia
-realisasse Ã¡ risca o seu vasto plano.
+realisasse á risca o seu vasto plano.
 
 Tem no emtanto construidos com frente para as ruas Affonso Domingos e
-Machado de Castro 44 predios, comprehendendo habitaÃ§Ãµes para mais de 200
+Machado de Castro 44 predios, comprehendendo habitações para mais de 200
 inquilinos e lojas apropriadas para alguns estabelecimentos. As
-habitaÃ§Ãµes teem de 3 a 6 compartimentos e andam sempre alugadas, sendo a
-renda de cada uma de 2$500 rÃ©is para cima. Faculta a companhia o
-pagamento Ã¡s semanas e aos semestres, sondo no primeiro caso a renda
-semanal a quarta parte da mensalidade e considerando como compensaÃ§Ã£o
-annual a differenÃ§a correspondente a quatro semanas, e abatendo no
+habitações teem de 3 a 6 compartimentos e andam sempre alugadas, sendo a
+renda de cada uma de 2$500 réis para cima. Faculta a companhia o
+pagamento ás semanas e aos semestres, sondo no primeiro caso a renda
+semanal a quarta parte da mensalidade e considerando como compensação
+annual a differença correspondente a quatro semanas, e abatendo no
 segundo caso 5 por cento sobre o total das seis mensalidades.
 
-As casas possuem as necessarias condiÃ§Ãµes hygienicas e sÃ£o tÃ£o
-confortaveis e attrahentes que teem sido procuradas, nÃ£o exclusivamente
+As casas possuem as necessarias condições hygienicas e são tão
+confortaveis e attrahentes que teem sido procuradas, não exclusivamente
 por operarios, mas tambem por pessoas de outras classes, como officiaes
-do exercito e da armada, funccionarios publicos, etc. A maioria, porÃ©m,
-dos moradores Ã© composta de operarios da Fabrica de Tabacos.
+do exercito e da armada, funccionarios publicos, etc. A maioria, porém,
+dos moradores é composta de operarios da Fabrica de Tabacos.
 
-O bairro operario, que tem apenas communicaÃ§Ã£o com a calÃ§ada dos
+O bairro operario, que tem apenas communicação com a calçada dos
 Barbadinhos, carece de ter sahida tambem para a travessa do Matto
 Grosso, tanto para commodidade dos habitantes, como por causa dos
-exgÃ´ttos, que por ora se ligam com a canalisaÃ§Ã£o geral da cidade, de
-modo insufficiente e sÃ³ por favor, por intermedio do encanamento
+exgôttos, que por ora se ligam com a canalisação geral da cidade, de
+modo insufficiente e só por favor, por intermedio do encanamento
 particular de um predio vizinho. A companhia comprometteu-se por
-contracto com a camara municipal a pagar o preÃ§o da avaliaÃ§Ã£o do terreno
-a expropriar para a communicaÃ§Ã£o da rua Affonso Domingos com a travessa
-do Matto Grosso, mas altas influencias burocrÃ¡ticas de que dispÃµe o
+contracto com a camara municipal a pagar o preço da avaliação do terreno
+a expropriar para a communicação da rua Affonso Domingos com a travessa
+do Matto Grosso, mas altas influencias burocráticas de que dispõe o
 proprietario do terreno teem levantado obstaculos no ministerio do Reino
-Ã¡ approvaÃ§Ã£o d'essa obra de utilidade municipal.
+á approvação d'essa obra de utilidade municipal.
 
 A _Companhia Commercial Constructora_ tem diligenciado contribuir para o
-melhoramento material e moral e para as commodidades da populaÃ§Ã£o do
-bairro operario. O primeiro cuidado d'ella foi facilitar a instrucÃ§Ã£o
-elementar aos filhos e Ã¡s filhas dos operarios. Promoveu por isso a
+melhoramento material e moral e para as commodidades da população do
+bairro operario. O primeiro cuidado d'ella foi facilitar a instrucção
+elementar aos filhos e ás filhas dos operarios. Promoveu por isso a
 abertura de aulas, chegando a haver tres escholas primarias no interior
 do bairro, das quaes uma tomou bem depressa um tal desenvolvimento que o
-professor, por falta de casa com a Ã¡rea correspondente Ã¡ frequencia dos
+professor, por falta de casa com a área correspondente á frequencia dos
 alumnos, se viu obrigado a ir estabelecer-se fora do bairro operario. A
-companhia ambicionava, porÃ©m, mais do que a eschola primaria; pensava em
-crear um asylo para educaÃ§Ã£o de creanÃ§as por meio de subscripÃ§Ã£o; a
-crise aberta em marÃ§o de 1891 fel a, porÃ©m, desistir, ou antes modificar
-a idÃ©a primitiva; e entÃ£o trabalhou para que a _Sociedade protectora dos
+companhia ambicionava, porém, mais do que a eschola primaria; pensava em
+crear um asylo para educação de creanças por meio de subscripção; a
+crise aberta em março de 1891 fel a, porém, desistir, ou antes modificar
+a idéa primitiva; e então trabalhou para que a _Sociedade protectora dos
 asylos da infancia_ fundasse nos terrenos do bairro operario a nova casa
 do asylo votada para ser estabelecida na freguezia de Santa Engracia, e
-viu os seus esforÃ§os coroados do mais completo exito.
+viu os seus esforços coroados do mais completo exito.
 
 A casa do asylo foi com effeito edificada em terreno do bairro operario
-e dÃ¡ hoje educaÃ§Ã£o e alimento uma vez por dia a cerca de 200 creanÃ§as,
+e dá hoje educação e alimento uma vez por dia a cerca de 200 creanças,
 em grande parte pertencentes a familias que residem no bairro.
 
-A companhia promoveu ainda a abertura de uma pharmacia e a creaÃ§Ã£o de um
+A companhia promoveu ainda a abertura de uma pharmacia e a creação de um
 monte-pio para os habitantes do bairro operario, mas foi infeliz n'essas
 tentativas, como egualmente o foi n'um talho e n'uma sapataria, mas
-unicamente por negligencia e desmazÃªlo dos donos dos estabelecimentos,
-ou das pessoas collocadas Ã¡ frente d'elles.
+unicamente por negligencia e desmazêlo dos donos dos estabelecimentos,
+ou das pessoas collocadas á frente d'elles.
 
-Outro tanto nÃ£o succedeu com um armazem de generos alimenticios, com uma
+Outro tanto não succedeu com um armazem de generos alimenticios, com uma
 carvoaria e com uma loja de barbeiro, estabelecidas tambem por
 iniciativa da empresa constructora no interior do bairro operario.
 
-A companhia faculta a venda, a pequenas prestaÃ§Ãµes ou a prompto
+A companhia faculta a venda, a pequenas prestações ou a prompto
 pagamento, dos predios, depois de construidos, quer aos operarios, quer
-a quaesquer outros locatarios. Por ora sÃ³ vendeu duas casas, mas nenhuma
+a quaesquer outros locatarios. Por ora só vendeu duas casas, mas nenhuma
 a operarios.
 
 Emfim, a _Companhia Commercial Constructora_ distribuiu aos accionistas,
@@ -1077,86 +1077,86 @@ no segundo anno da sua existencia, um dividendo de 3 por cento, e nos
 annos posteriores invariavelmente 3 1/2 por cento.
 
 Em 1890 ao mesmo tempo que de um grupo de capitalistas sahia esta
-tentativa sympathica, pretendendo iniciar em Lisboa a construcÃ§Ã£o de
+tentativa sympathica, pretendendo iniciar em Lisboa a construcção de
 casas hygienicas e economicas, apropriadas para operarios e para gente
 pobre, gerava-se uma outra no seio do operariado tendo o mesmo fim
 humanitario e levantado, digno de incitamento e de louvor por mirar ao
 melhoramento material e reflexamente moral, das classes laboriosas.
 
-A segunda tentativa, incomparavelmente mais modesta por nÃ£o dispor de
-capitaes, representava sÃ³mente o concurso de boas vontades. Mas estas,
+A segunda tentativa, incomparavelmente mais modesta por não dispor de
+capitaes, representava sómente o concurso de boas vontades. Mas estas,
 sendo bem dirigidas e auxiliadas com inquebrantavel persistencia,
 poderiam com o decorrer dos annos levar a cabo a sua empresa, formando
-lentamente um capital, e applicando-o na construcÃ§Ã£o de pequenas casas Ã¡
+lentamente um capital, e applicando-o na construcção de pequenas casas á
 medida que o fossem creando. Os iniciadores, que eram operarios e
 lojistas da freguezia de Santa Engracia, em Alfama, desejavam tambem,
-como os capitalistas, fundar nas circumvizinhanÃ§as um bairro operario.
-Por meio de collectas mensaes ou semanaes, se fÃ´ssem numerosos os
+como os capitalistas, fundar nas circumvizinhanças um bairro operario.
+Por meio de collectas mensaes ou semanaes, se fôssem numerosos os
 socios, poderiam facilmente em poucos mezes obter os fundos
-indispensaveis para dar comeÃ§o Ã¡ primeira casa. Mas esta iniciativa do
+indispensaveis para dar começo á primeira casa. Mas esta iniciativa do
 operariado falhou infelizmente como tantas outras.
 
 Foi bem differente a sorte, com prazer o registamos, de uma outra
 tentativa da mesma natureza iniciada em fins de 1894 por um grupo de
 pequenos commerciantes, empregados no commercio, e operarios que
-organisaram uma _Cooperativa Popular de ConstrucÃ§Ã£o Predial_.
+organisaram uma _Cooperativa Popular de Construcção Predial_.
 
-Esta sociedade tem por fim construir dentro da Ã¡rea da cidade,
-habitaÃ§Ãµes para os associados, adquirindo tambem os terrenos precisos
+Esta sociedade tem por fim construir dentro da área da cidade,
+habitações para os associados, adquirindo tambem os terrenos precisos
 para ellas e para jardins ou ruas contiguas. A sorte designa o socio que
 ha de ser o proprietario de cada casa que se projecta construir.
 
-O capital social Ã© indeterminado, mas nÃ£o inferior a 400$000 rÃ©is; e
-constitue-se com as quotas dos associados e prestaÃ§Ãµes do custo das
-propriedades, formando o capital disponivel destinado Ã¡ compra dos
-terrenos e construcÃ§Ã£o dos predios; e com os lucros das vendas dos
+O capital social é indeterminado, mas não inferior a 400$000 réis; e
+constitue-se com as quotas dos associados e prestações do custo das
+propriedades, formando o capital disponivel destinado á compra dos
+terrenos e construcção dos predios; e com os lucros das vendas dos
 diplomas, estatutos e cadernetas, quaesquer donativos, saldos de
-liquidaÃ§Ãµes, juros dos socios eliminados ou fallecidos sem herdeiros e
+liquidações, juros dos socios eliminados ou fallecidos sem herdeiros e
 uma percentagem sobre os lucros liquidos da sociedade, pelo menos a
 vigesima parte, compondo um fundo de reserva destinado a cobrir as
 faltas do capital disponivel.
 
-SÃ³ podem ser socios d'esta cooperativa pessoas que vivam do seu trabalho
+Só podem ser socios d'esta cooperativa pessoas que vivam do seu trabalho
 manual, sendo expressamente excluidos della os proprietarios e
 capitalistas; mas qualquer pessoa pode ser admittida como socio
-protector nÃ£o usufruindo os direitos reconhecidos aos socios ordinarios.
-Estes ultimos contribuem com uma quota minima de 20 rÃ©is semanaes,
+protector não usufruindo os direitos reconhecidos aos socios ordinarios.
+Estes ultimos contribuem com uma quota minima de 20 réis semanaes,
 podendo tambem contribuir com tres d'essas quotas; e teem de adquirir os
-estatutos pelo preÃ§o de 100 rÃ©is, a caderneta pelo preÃ§o de 20 rÃ©is e o
-diploma de socio pelo preÃ§o de 200 rÃ©is. Os que forem contemplados no
-sorteio, ao qual sÃ£o admittidos todos os que tenham pelo menos um anno
+estatutos pelo preço de 100 réis, a caderneta pelo preço de 20 réis e o
+diploma de socio pelo preço de 200 réis. Os que forem contemplados no
+sorteio, ao qual são admittidos todos os que tenham pelo menos um anno
 de inscriptos e estejam em dia no pagamento das quotas, devem satisfazer
-adeantadamente 3$000 rÃ©is mensaes, desde que principiem a habitar a casa
-atÃ© completo pagamento d'ella, juro e mais despesas inherentes Ã¡
-construcÃ§Ã£o. AlÃ©m d'isso, teem a pagar todas as verbas de seguros,
-contribuiÃ§Ãµes, etc. Os socios protectores contribuem com qualquer
+adeantadamente 3$000 réis mensaes, desde que principiem a habitar a casa
+até completo pagamento d'ella, juro e mais despesas inherentes á
+construcção. Além d'isso, teem a pagar todas as verbas de seguros,
+contribuições, etc. Os socios protectores contribuem com qualquer
 donativo.
 
 O socio pode desligar-se da cooperativa sempre que queira, avisando a
-direcÃ§Ã£o com dez dias de antecedencia para o levantamento do seu capital
-e juros; o capital soffrerÃ¡, porÃ©m, um desconto de 15 por cento se
+direcção com dez dias de antecedencia para o levantamento do seu capital
+e juros; o capital soffrerá, porém, um desconto de 15 por cento se
 pretender sahir antes do prazo de seis annos. O que tiver sido
-contemplado no sorteio receberÃ¡ os titulos da posse do predio desde que
-tenha terminado o seu pagamento; mas fica obrigado a pertencer Ã¡
-cooperativa atÃ© que tenham casa todos os socios que entraram no sorteio
+contemplado no sorteio receberá os titulos da posse do predio desde que
+tenha terminado o seu pagamento; mas fica obrigado a pertencer á
+cooperativa até que tenham casa todos os socios que entraram no sorteio
 em que lhe tocou a vez.
 
-As habitaÃ§Ãµes, segundo os estatutos da sociedade, serÃ£o construidas
+As habitações, segundo os estatutos da sociedade, serão construidas
 isoladas, ou em grupos, independentes umas das outras, com solidez e
-obedecendo aos preceitos da hygiene; terÃ£o um sÃ³ pavimento e quintal,
-destinando-se a uma sÃ³ familia e occupando o espaÃ§o minimo de 77 metros
-quadrados. Os terrenos serÃ£o adquiridos por compra, ou por concessÃ£o
-feita pelo Governo ou pela camara municipal Ã¡ sociedade, sendo
+obedecendo aos preceitos da hygiene; terão um só pavimento e quintal,
+destinando-se a uma só familia e occupando o espaço minimo de 77 metros
+quadrados. Os terrenos serão adquiridos por compra, ou por concessão
+feita pelo Governo ou pela camara municipal á sociedade, sendo
 preferidos os que estejam mais perto do centro da cidade. A escriptura
-da compra do terreno serÃ¡ lavrada em nome do socio contemplado pela
-sorte; o que nÃ£o queira habitar a casa, pode ceder o direito a qualquer
+da compra do terreno será lavrada em nome do socio contemplado pela
+sorte; o que não queira habitar a casa, pode ceder o direito a qualquer
 consocio que entrasse no mesmo sorteio.
 
-A _Cooperativa Popular de ConstrucÃ§Ã£o Predial_ jÃ¡ tem quasi concluido o
+A _Cooperativa Popular de Construcção Predial_ já tem quasi concluido o
 primeiro predio que resolveu construir, para o qual adquiriu terreno no
-bairro operario da _Companhia Commercial Constructtora_. Esta nÃ£o sÃ³
-lh'o cedeu em condiÃ§Ãµes favoraveis, como lhe reserva para novas
-edificaÃ§Ãµes todo o terreno contiguo, com frente para a rua Bartholomeu
+bairro operario da _Companhia Commercial Constructtora_. Esta não só
+lh'o cedeu em condições favoraveis, como lhe reserva para novas
+edificações todo o terreno contiguo, com frente para a rua Bartholomeu
 da Costa. Consta-nos que a cooperativa vae proceder em breve a segundo
 sorteio.
 
@@ -1168,95 +1168,95 @@ servir de incentivo a outras empresas de identica natureza.
 VI
 
 Segundo o dr. Julien Pioger, auctor do excellente livro _La question
-sanitaire_, o individuo Ã© o elemento essencial da sociedade e o seu
+sanitaire_, o individuo é o elemento essencial da sociedade e o seu
 valor social depende do seu estado de saude. De todos os factores
 sociaes que actuam fortemente sobre a saude do individuo, um dos mais
-importantes Ã© sem duvida a habitaÃ§Ã£o. Em todos os paizes as estatisticas
-accusam uma enorme differenÃ§a de mortalidade entre os bairros ricos, de
-predios bons, espaÃ§ados, salubres, e os bairros pobres, de casas
-accumuladas e infectas, onde de ordinario vive a populaÃ§Ã£o operaria.
+importantes é sem duvida a habitação. Em todos os paizes as estatisticas
+accusam uma enorme differença de mortalidade entre os bairros ricos, de
+predios bons, espaçados, salubres, e os bairros pobres, de casas
+accumuladas e infectas, onde de ordinario vive a população operaria.
 
-O estado desolador das habitaÃ§Ãµes dos operarios e das classes menos
-abastadas nÃ£o pode continuar. A continuaÃ§Ã£o do mal produz o seu
+O estado desolador das habitações dos operarios e das classes menos
+abastadas não pode continuar. A continuação do mal produz o seu
 aggravamento. E da residencia de familias numerosas em pessimas
-condiÃ§Ãµes hygienicas, em casas sem ar, sem luz do sol, sem agua com
-abundancia, resulta o augmento da mortalidade. Douglas Galton, cÃ©lebre
-hygienista inglez, calculou em dez annos a mÃ©dia do excesso, da vida
+condições hygienicas, em casas sem ar, sem luz do sol, sem agua com
+abundancia, resulta o augmento da mortalidade. Douglas Galton, célebre
+hygienista inglez, calculou em dez annos a média do excesso, da vida
 normal adquirida nos bairros operarios que em Inglaterra teem sido
 construidos, obedecendo aos mais severos preceitos da hygiene.
 
 O mal sente-se com mais ou menos intensidade em todos os paizes[26], e
 tanto que muitos socialistas reconhecem a insufficiencia das
-providencias tomadas e da acÃ§Ã£o desenvolvida pela iniciativa particular.
-No _Congresso internacional das habitaÃ§Ãµes operarias_, reunido na
+providencias tomadas e da acção desenvolvida pela iniciativa particular.
+No _Congresso internacional das habitações operarias_, reunido na
 Belgica em meados de 1897, os delegados do Conselho Geral do Sena
-apresentaram e defenderam a seguinte moÃ§Ã£o, que foi violentamente
+apresentaram e defenderam a seguinte moção, que foi violentamente
 combatida pelo delegado do Governo francez:
 
 
 "O Congresso
 
-"Considerando que Ã© indispensavel garantir a todos os seres humanos
-habitaÃ§Ãµes salubres;
+"Considerando que é indispensavel garantir a todos os seres humanos
+habitações salubres;
 
-"Que Ã© equitativo que o preÃ§o do aluguer esteja em relaÃ§Ã£o com o
+"Que é equitativo que o preço do aluguer esteja em relação com o
 producto do trabalho;
 
-"Considerando que, se Ã© para desejar antes de tudo a iniciativa
-particular, a sua acÃ§Ã£o Ã© muitas vezes insufficiente, que em todo o caso
-Ã© aleatoria e que seria imprudente contar apenas com ella;
+"Considerando que, se é para desejar antes de tudo a iniciativa
+particular, a sua acção é muitas vezes insufficiente, que em todo o caso
+é aleatoria e que seria imprudente contar apenas com ella;
 
-"Considerando que os meios de acÃ§Ã£o nÃ£o sÃ£o os mesmos em todos os
+"Considerando que os meios de acção não são os mesmos em todos os
 paizes, nem sequer em todos os pontos de um paiz;
 
-"Considerando que as leis existentes com razÃ£o sanccionam a necessidade
-da intervenÃ§Ã£o dos poderes publicos:
+"Considerando que as leis existentes com razão sanccionam a necessidade
+da intervenção dos poderes publicos:
 
-"Ã‰ de parecer:
+"É de parecer:
 
-"Que a intervenÃ§Ã£o dos poderes publicos Ã© necessaria para a soluÃ§Ã£o do
-problema das habitaÃ§Ãµes salubres e baratas--deixando aos Estados,
+"Que a intervenção dos poderes publicos é necessaria para a solução do
+problema das habitações salubres e baratas--deixando aos Estados,
 provincias, departamentos ou communas o cuidado de determinar a forma
-que deve ter essa intervenÃ§Ã£o."
+que deve ter essa intervenção."
 
 
-Se a iniciativa particular pouco tem feito e atÃ©, desajudada da
-protecÃ§Ã£o official, pouco pode fazer entre nÃ³s, onde nÃ£o surgem
+Se a iniciativa particular pouco tem feito e até, desajudada da
+protecção official, pouco pode fazer entre nós, onde não surgem
 philantropos como Peadrody, que consagrou a este melhoramento social
-meio milhÃ£o de libras esterlinas com os juros accumulados, ou como a
+meio milhão de libras esterlinas com os juros accumulados, ou como a
 sympathica americana Octavia Hill, que dedicou toda a sua fortuna ao
 conforto dos infelizes em Nova York e em Londres, compete ao Governo e
-Ã¡s camaras municipaes attender a esta urgente necessidade, procurando
-por qualquer forma dar um energico incitamento Ã¡ edificaÃ§Ã£o de
-habitaÃ§Ãµes baratas e hygienicas para operarios e em geral para as
+ás camaras municipaes attender a esta urgente necessidade, procurando
+por qualquer forma dar um energico incitamento á edificação de
+habitações baratas e hygienicas para operarios e em geral para as
 classes menos favorecidas de meios de fortuna.
 
     [1] O sr. Guilherme Augusto de Santa Rita, intelligente funccionario
     publico e escriptor illustre, n'um opusculo publicado em 1891, sob o
-    titulo de _HabitaÃ§Ã£o do operario e classes menos abastadas_,
+    titulo de _Habitação do operario e classes menos abastadas_,
     descreve assim as casas infectas e velhas de Alfama:
 
-    Â«Penetrando n'essas habitaÃ§Ãµes, o sentimento experimentado Ã© um
-    mixto de compaixÃ£o e repugnancia. A ascensÃ£o pela tortuosa escada,
-    cujos degraus, cheios de caruncho, rangem sob os nossos pÃ©s, quasi
-    constitue um heroismo; heroismo Ã© quasi supportar o vapor que
-    exhalam, impregnado de emanaÃ§Ãµes mephiticas de toda a especie, desde
-    a dos exgottos atÃ© Ã¡quella que infelizmente symbolisa a pobreza. E
-    de dentro de cada quarto embalde nos acariciarÃ¡ o ouvido uma risada
-    franca, a nota alegre d'uma canÃ§Ã£o. Embalde, porque Ã© atroador o
-    chÃ´ro das creanÃ§as junto ao ralho das mÃ£es. Se entramos Ã© bem pouco
-    edificante o espectaculo. SÃ£o dois, sÃ£o tres, compartimentos ao
-    todo, e o _mÃ©nage_ Ã© constituido por 6, por 7 e 8 pessoas! Que
-    desalinho, que falta de ordem e de asseio em toda a casa! IrmÃ£os de
-    ambos os sexos, o pae e a mÃ£e dormem n'um sÃ³ quarto, e se algum ou
+    «Penetrando n'essas habitações, o sentimento experimentado é um
+    mixto de compaixão e repugnancia. A ascensão pela tortuosa escada,
+    cujos degraus, cheios de caruncho, rangem sob os nossos pés, quasi
+    constitue um heroismo; heroismo é quasi supportar o vapor que
+    exhalam, impregnado de emanações mephiticas de toda a especie, desde
+    a dos exgottos até áquella que infelizmente symbolisa a pobreza. E
+    de dentro de cada quarto embalde nos acariciará o ouvido uma risada
+    franca, a nota alegre d'uma canção. Embalde, porque é atroador o
+    chôro das creanças junto ao ralho das mães. Se entramos é bem pouco
+    edificante o espectaculo. São dois, são tres, compartimentos ao
+    todo, e o _ménage_ é constituido por 6, por 7 e 8 pessoas! Que
+    desalinho, que falta de ordem e de asseio em toda a casa! Irmãos de
+    ambos os sexos, o pae e a mãe dormem n'um só quarto, e se algum ou
     mais d'um d'elles adoece, continuam dormindo naquella promiscuidade,
     porque o _que tiver de ser ha de ser_! Inexoravel, a variola visita
-    d'alto a baixo, quantas vezes! estes predios, e as pobres creanÃ§as
-    de preferencia vÃ£o na sua garra estrumar as vallas dos cemiterios!
-    Todas ellas teem umas compleiÃ§Ãµes rachiticas. uma pallidez
+    d'alto a baixo, quantas vezes! estes predios, e as pobres creanças
+    de preferencia vão na sua garra estrumar as vallas dos cemiterios!
+    Todas ellas teem umas compleições rachiticas. uma pallidez
     caracteristica de debilidade congenita, olhares espantados, ventas
     dilatadas, grandes angulos de ossos, e um ar de timidez e
-    desconfianÃ§a que inspira dÃ³. Asphyxia-se dentro d'essas casas e
+    desconfiança que inspira dó. Asphyxia-se dentro d'essas casas e
     quasi nos assalta a nostalgia do sol.
 
     Pois esses quartos custam oito, dez e doze moedas por anno.
@@ -1295,78 +1295,78 @@ classes menos favorecidas de meios de fortuna.
 
     [18] _Figaro_ 16 mars 1894.
 
-    [19] _LavolÃ©e_, ob. cit. vol. I pag. 124.
+    [19] _Lavolée_, ob. cit. vol. I pag. 124.
 
-    [20] _La revue Socialiste_, n.Âº 152 de aoÃ»t 1897, pag. 245.
+    [20] _La revue Socialiste_, n.º 152 de août 1897, pag. 245.
 
-    [21] _La revue Socialiste_, n.Âº 146 de fevrier 1897, pag. 241.
+    [21] _La revue Socialiste_, n.º 146 de fevrier 1897, pag. 241.
 
-    [22] Idem n.Âº 148 de avril 1897, pag. 503.
+    [22] Idem n.º 148 de avril 1897, pag. 503.
 
-    [23] Idem n.Âº 140 de aoÃ»t 1896, pag. 247.
+    [23] Idem n.º 140 de août 1896, pag. 247.
 
-    [24] _La Revue Socialiste_, n.Âº 111 de mars 1894, pag. 371.
+    [24] _La Revue Socialiste_, n.º 111 de mars 1894, pag. 371.
 
     [25] Ob. cit. pag. 90.
 
-    [26] Um inquerito feito em 1893 Ã¡s habitaÃ§Ãµes insalubres de
-    Amsterdam mostrou que, n'um sÃ³ bairro, numerosos operarios residiam
-    em subterraneos infectos. Eram 197 essas habitaÃ§Ãµes. D'entre 154
-    visitadas pela commissÃ£o, 45 eram francamente inhabitaveis, 37
+    [26] Um inquerito feito em 1893 ás habitações insalubres de
+    Amsterdam mostrou que, n'um só bairro, numerosos operarios residiam
+    em subterraneos infectos. Eram 197 essas habitações. D'entre 154
+    visitadas pela commissão, 45 eram francamente inhabitaveis, 37
     humidas e 72 satisfazendo um pouco as exigencias da hygiene. Viviam
     ahi accumulados, quasi como animaes, 639 adultos. Em subterraneos de
     2^m,30 de profundidade, de 2^m,50 de largura e 1^m,90 de altura,
     dormiam uma noite inteira cinco pessoas tendo apenas para respirar
-    11 metros cubicos de ar, quando a mÃ©dia Ã© de 8 metros cubicos por
-    pessoa e por hora. (_La Revue Socialiste_ n.Âº 103--juillet 1893 p.
+    11 metros cubicos de ar, quando a média é de 8 metros cubicos por
+    pessoa e por hora. (_La Revue Socialiste_ n.º 103--juillet 1893 p.
     107.)
 
     Em Hamburgo, segundo uma estatistica official, o numero de
-    habitaÃ§Ãµes subterraneas augmenta de anno para anno. De 1880 a 1886 o
+    habitações subterraneas augmenta de anno para anno. De 1880 a 1886 o
     augmento foi de 91%, subindo de 5:138 a 8:650 esses alojamentos
-    insalubres. Viviam n'esses subterraneos 31:436 pessoas! (Idem, n.Âº
+    insalubres. Viviam n'esses subterraneos 31:436 pessoas! (Idem, n.º
     97--janvier 1893 p. 110.)
 
 
 
 
 
-PROPAGANDA DE INSTRUCÃ‡ÃƒO
+PROPAGANDA DE INSTRUCÇÃO
 
 Para Portuguezes e Brazileiros
 
 
 OS DICCIONARIOS DO POVO
 
-N.Âº 1--Diccionario da lingua portugueza (3.Âª ediÃ§Ã£o).
+N.º 1--Diccionario da lingua portugueza (3.ª edição).
 
-N.Âº 2--Diccionario francez-portuguez (2.Âª ediÃ§Ã£o).
+N.º 2--Diccionario francez-portuguez (2.ª edição).
 
-N.Âº 3--Diccionario portuguez-francez (2.Âª ediÃ§Ã£o).
+N.º 3--Diccionario portuguez-francez (2.ª edição).
 
-N.Âº 4--Diccionario inglez-portuguez.
+N.º 4--Diccionario inglez-portuguez.
 
-N.Âº 5--Diccionario portuguez-inglez.
+N.º 5--Diccionario portuguez-inglez.
 
-Cada volume contÃ©m cerca de 800 paginas. PreÃ§os: brochado, 500 rÃ©is;
-encadernado em percalina, 600 rÃ©is; em carneira, 700 rÃ©is.
+Cada volume contém cerca de 800 paginas. Preços: brochado, 500 réis;
+encadernado em percalina, 600 réis; em carneira, 700 réis.
 
 
 BIBLIOTHECA DO POVO E DAS ESCOLAS
 
-Esta util e valiosissima bibliotheca consta jÃ¡ de 199 volumes, alguns
-dos quaes teem a approvaÃ§Ã£o do governo portuguez, para uso das escolas
-normaes e aulas primarias, e outros sÃ£o geralmente adoptados em varias
+Esta util e valiosissima bibliotheca consta já de 199 volumes, alguns
+dos quaes teem a approvação do governo portuguez, para uso das escolas
+normaes e aulas primarias, e outros são geralmente adoptados em varias
 escolas do paiz.
 
-PreÃ§o de cada volume, 50 rÃ©is.
+Preço de cada volume, 50 réis.
 
 
-O IDEAL MODERNO BIBLIOTHECA POPULAR DE ORIENTAÃ‡ÃƒO SOCIAL
+O IDEAL MODERNO BIBLIOTHECA POPULAR DE ORIENTAÇÃO SOCIAL
 
-Volumes publicados:--Paz e arbitragem--A dissoluÃ§Ã£o do regimen
+Volumes publicados:--Paz e arbitragem--A dissolução do regimen
 capitalista.--O federalismo--Bolsas de trabalho--O
-cooperativismo--HabitaÃ§oes operarias.
+cooperativismo--Habitaçoes operarias.
 
 Volumes a publicar:--O federalismo--O humanismo--O socialismo--O
 feminismo, etc., etc.
@@ -1375,9 +1375,9 @@ feminismo, etc., etc.
 
 
 
-End of the Project Gutenberg EBook of HabitaÃ§Ãµes Operarias, by Teixeira Bastos
+End of the Project Gutenberg EBook of Habitações Operarias, by Teixeira Bastos
 
-*** END OF THIS PROJECT GUTENBERG EBOOK HABITAÃ‡Ã•ES OPERARIAS ***
+*** END OF THIS PROJECT GUTENBERG EBOOK HABITAÇÕES OPERARIAS ***
 
 ***** This file should be named 24853-8.txt or 24853-8.zip *****
 This and all associated files of various formats will be found in:

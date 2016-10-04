@@ -1,4 +1,4 @@
-The Project Gutenberg EBook of Compendio da rela√ßam, que veyo da India o
+The Project Gutenberg EBook of Compendio da relaÁam, que veyo da India o
 anno de 1691, by Vicente Barbosa
 
 This eBook is for the use of anyone anywhere at no cost and with
@@ -7,7 +7,7 @@ re-use it under the terms of the Project Gutenberg License included
 with this eBook or online at www.gutenberg.org
 
 
-Title: Compendio da rela√ßam, que veyo da India o anno de 1691
+Title: Compendio da relaÁam, que veyo da India o anno de 1691
 
 Author: Vicente Barbosa
 
@@ -23,7 +23,7 @@ Character set encoding: ISO-8859-1
 
 
 Produced by Pedro Saborano (Este ficheiro foi produzido
-a partir da digitaliza√ß√£o do original, disponibilizada
+a partir da digitalizaÁ„o do original, disponibilizada
 pela Biblioteca Nacional de Portugal - This file was
 produced from images generously made available by the
 National Library of Portugal)
@@ -33,7 +33,7 @@ National Library of Portugal)
 
 
 
-Compendio da Rela√ßam,
+Compendio da RelaÁam,
 Que Veyo da India o Anno De 1691.
 
 A El-Rey N. S. Dom Pedro II.
@@ -47,405 +47,405 @@ LISBOA
 Na officina de Manoel Lopes Ferreyra.
 M. DC. XCII.
 
-_Com todas as licen√ßas necessarias_.
+_Com todas as licenÁas necessarias_.
 
 
 
 
 Partio o Padre Dom Antonino Vintimilha no anno de 1683.dessa Corte de
 Lisboa para este Emporio do Oriente, vencidas as grandes difficuldades,
-que experimentou em Madrid, impedindolhe o fervoroso desejo de passar √†
-India, o grande credito, [q'] as suas singulares virtudes tinha√µ grangeado
-em toda Espanha, & continuou na mesma estima√ßa√µ neste Oriente pelo
-indefesso zelo, com que sempre procurou a salva√ßa√µ das almas. Agora neste
+que experimentou em Madrid, impedindolhe o fervoroso desejo de passar ‡
+India, o grande credito, [q'] as suas singulares virtudes tinhaı grangeado
+em toda Espanha, & continuou na mesma estimaÁaı neste Oriente pelo
+indefesso zelo, com que sempre procurou a salvaÁaı das almas. Agora neste
 presente anno de 1687.em que tratta o Governador deste Estado, Dom Rodrigo
-da Costa, de assentar h[~u]a feitoria na vastissima Ilha de Born√®o, a qual
-tem de circumferencia 550.legoas, & de que se espera√µ para a Coroa de
+da Costa, de assentar h[~u]a feitoria na vastissima Ilha de BornËo, a qual
+tem de circumferencia 550.legoas, & de que se esperaı para a Coroa de
 Portugal grandes utilidades, porque sobre ser muito abundante de todos os
 generos de mantimentos, se acha nella grande quantidade de diamantes, que
-excedem aos de Golcond√¢, de pedras bazares melhores, que as das outras
-partes, pimenta mayor que a de Sir√ªla, canfora muita, & fina, madeira
+excedem aos de Golcond‚, de pedras bazares melhores, que as das outras
+partes, pimenta mayor que a de Sir˚la, canfora muita, & fina, madeira
 muito forte, muitas minas de metaes, principalmente de ouro, & finalmente
 gr[~a]de ab[~u]dancia de todas as cousas, que nas mais partes do Oriente
-se acha√µ.
+se achaı.
 
-E dando noticia o Capit√£o Luis Francisco Coutinho, Fidalgo de grandes
-prendas, muy zeloso do servi√ßo de Deos, & de Sua Magestade, deste designio
+E dando noticia o Capit„o Luis Francisco Coutinho, Fidalgo de grandes
+prendas, muy zeloso do serviÁo de Deos, & de Sua Magestade, deste designio
 do Governador, aos Padres da Divina Providencia, lhes representou quanto
-necessaria seria h[~u]a missa√µ naquella terra, pois sendo descuberta ha
+necessaria seria h[~u]a missaı naquella terra, pois sendo descuberta ha
 196.annos, nunca fora cultivada de Operarios Evangelicos, & que aceitando
-a ditta missa√µ, todo o gasto correria por sua-conta. Foi ta√µ bem aceita de
+a ditta missaı, todo o gasto correria por sua-conta. Foi taı bem aceita de
 todos os Religiosos deste Convento esta proposta, & principalmente do
 Padre Dom Antonino Vintimilha, [~q] logo se offereceo para esta empresa,
-promettendo ao Capita√µ partir na primeira mon√ßa√µ, como succedeo a 6.de
-Mayo; & foi ta√µ feliz a viagem, que admirou aos navegantes, por serem muy
-c√µtinuas naquelles mares as tempestades.
+promettendo ao Capitaı partir na primeira monÁaı, como succedeo a 6.de
+Mayo; & foi taı feliz a viagem, que admirou aos navegantes, por serem muy
+cıtinuas naquelles mares as tempestades.
 
 Aos 12.de Junho chegou a Malaca, & em 3.dias que alli se deteve, reduzio a
 hum Bracmane, natural de Goa, o qual levou em sua companhia para a China,
-& a h[~u]a molher nobre, que havia 12.annos abra√ß√†ra a seita de Luthero, &
-tambem a hum seu grande bemfeitor, chamado Joa√µ Vaz, o qual padecia
-grandes afflic√ß√µes por h[~u]a divida, & estando irremisivelmente para o
+& a h[~u]a molher nobre, que havia 12.annos abraÁ‡ra a seita de Luthero, &
+tambem a hum seu grande bemfeitor, chamado Joaı Vaz, o qual padecia
+grandes afflicÁıes por h[~u]a divida, & estando irremisivelmente para o
 prenderem, deu o Padre h[~u]a Imagem do Padre S. Caetano, a qual o livrou
 daquella molestia com tanta felicidade, que se foi casual, por ser
 inopinada, a teve por milagrosa.
 
 Alegre com as primicias do seu trabalho, & por ter achado a ovelha
-perdida, partio aos 20.deste mez, proseguindo a viagem com grande bonan√ßa
-at√® os 13.de Julho, em que aportou na Cidade de Mac√¢o, aonde desembarcando
+perdida, partio aos 20.deste mez, proseguindo a viagem com grande bonanÁa
+atË os 13.de Julho, em que aportou na Cidade de Mac‚o, aonde desembarcando
 com Luis Francisco, por causa de hum rijo t[~e]poral, esteve perdida a
-embarca√ßa√µ, & o esquife com hum marinheiro com a furia do vento
+embarcaÁaı, & o esquife com hum marinheiro com a furia do vento
 desappareceo, mas ao outro dia se achou em terra, livre, sem saber referir
 o modo; o que se sabe de certo he, que toda aquella noite esteve o servo
-de Deos em ora√ßa√µ, implorando o auxilio divino por intercessa√µ do grande
+de Deos em oraÁaı, implorando o auxilio divino por intercessaı do grande
 Patriarca S. Caetano, & he de crer, fossem ouvidos os seus rogos pelas
 circunstancias do successo.
 
 Seis meses assistio nesta Cidade, dos quaes, sinco passou retirado em
-h[~u]a Ermida da jurisdic√ßa√µ dos Padres Augustinhos em virtuosos
-exercicios, mas como neste lugar pelo retiro na√µ podia exercitar o
+h[~u]a Ermida da jurisdicÁaı dos Padres Augustinhos em virtuosos
+exercicios, mas como neste lugar pelo retiro naı podia exercitar o
 Sacramento da Penitencia, passou para o Convento dos mesmos Religiosos,
-sugeitando-se em tudo √† obediencia de seu Prelado, como se fora o seu mais
-inferior subdito. Aqui era√µ ta√µ frequentes as confiss√µes, que todo o dia
+sugeitando-se em tudo ‡ obediencia de seu Prelado, como se fora o seu mais
+inferior subdito. Aqui eraı taı frequentes as confissıes, que todo o dia
 lhe levava o confessionario.
 
 Nesta Cidade foi Deos servido dar a conhecer os prodigiosos merecimentos
 de S. Caetano, por meyo de h[~u]a Imagem sua, a qual mandou o Padre a
-h[~u]a matrona illustre, que de 13.partos que tivera, nenhum cheg√†ra a
+h[~u]a matrona illustre, que de 13.partos que tivera, nenhum cheg‡ra a
 receber a agoa do Baptismo; & o mesmo foi applicar-selhe a estampa do
 Santo em 2.de Dezembro de 1687.que lograr o feliz nascimento de h[~u]a
 filha da qual em desempenho da divida se chamou Caetana, & foi a primeira
 creatura, a que naquellas partes se impoz este nome.
 
-Aos 12.de Janeiro de 1688.proseguio a sua viagem para Born√®o, & sendo muy
+Aos 12.de Janeiro de 1688.proseguio a sua viagem para BornËo, & sendo muy
 prospera, o foi tambem muito mysteriosa, por aportar em Banjar-massem aos
-2.de Fevereiro, dia por tantas ras√µes para sua sagrada Religia√µ celebre, &
-para aquella missa√µ venturoso, por ter tomado o servo de Deos a Senhora da
+2.de Fevereiro, dia por tantas rasıes para sua sagrada Religiaı celebre, &
+para aquella missaı venturoso, por ter tomado o servo de Deos a Senhora da
 Puresa por protectora de toda aquella Ilha. Com este feliz annuncio
-entr√†ra√µ pelo rio acima, parando em o surgidouro em dia de Santa Agueda,
+entr‡raı pelo rio acima, parando em o surgidouro em dia de Santa Agueda,
 tambem mysterioso para o Padre, por lhe cair em sorte de protectora sua
 aquelle anno. Aqui celebrou Missa com extraordinario jubilo de sua alma,
 por se ver introdusido naquelle porto, em que lhe vaticinava grandes
-venturas seu espirito. Mas logo lhe √ßo√ßobrou este alvoro√ßo o temor, em que
-pusera√µ aos nossos as noticias das proximas insolencias daquelles Mouros,
-com [q'] tinha√µ trattado alguns passageiros, & receosos de correrem
-semelhante fortuna, intentava√µ sairse daquelle porto.
+venturas seu espirito. Mas logo lhe ÁoÁobrou este alvoroÁo o temor, em que
+puseraı aos nossos as noticias das proximas insolencias daquelles Mouros,
+com [q'] tinhaı trattado alguns passageiros, & receosos de correrem
+semelhante fortuna, intentavaı sairse daquelle porto.
 
-Sendo esta para o Padre a mayor afflic√ßa√µ, na√µ foi bastante ao divertir,
-que em a semana Santa celebrasse com toda a edifica√ßa√µ os Divinos
+Sendo esta para o Padre a mayor afflicÁaı, naı foi bastante ao divertir,
+que em a semana Santa celebrasse com toda a edificaÁaı os Divinos
 Officios, exposto em a Quinta Feira Mayor, com a possivel decencia, o
 Divino Sacramento, procurando com espirituaes practicas, que examinadas as
-consciencias, fisessem todos h[~u]a exacta confissa√µ. Fora√µ de tanta
-admira√ß√£o estas festivas demonstra√ß√µes, que hum Capita√µ Mouro mandou para
+consciencias, fisessem todos h[~u]a exacta confissaı. Foraı de tanta
+admiraÁ„o estas festivas demonstraÁıes, que hum Capitaı Mouro mandou para
 ajuda dos gastos hum pouco de ouro, o qual o Padre Vintimilha com seu
-desinteresse costumado lhe tornou a m√£dar, ficando o Mouro admirado do
+desinteresse costumado lhe tornou a m„dar, ficando o Mouro admirado do
 desapego, & os nossos mais confirmados do despreso com que trattava as
 cousas do mundo.
 
 Neftes, & outros louvaveis exercicios se occupava o servo de Deos, para
-divertir a pena de na√µ trattar aquella gente. Qu√£do o Senhor permittio,
-que quatro daquelles Gentios Beaj√πs, levados de curiosidade, viessem √†
-nossa embarca√ßa√µ, & pedindo se disparasse alg[~u]a pe√ßa, como sa√µ de sua
+divertir a pena de naı trattar aquella gente. Qu„do o Senhor permittio,
+que quatro daquelles Gentios Beaj˘s, levados de curiosidade, viessem ‡
+nossa embarcaÁaı, & pedindo se disparasse alg[~u]a peÁa, como saı de sua
 naturesa muy pusillanimes, o mesmo foi sentirem o estrondo, que
 retiraremse temerosos, & nesta vista lhes cobrou o Padre tanto amor, que
-come√ßou a idear o modo, [~q] teria para ficar naquella terra.
+comeÁou a idear o modo, [~q] teria para ficar naquella terra.
 
-Dahi a poucos dias viera√µ nove, ou dez barcos dos mesmos Beaj√πs a
-commerciar com os Mouros, & na√µ effeituando cousa alg[~u]a, h[~u] dos
-nossos, sena√µ por superior impulso, ao menos por lisongear ao Padre, lhes
-foi persuadir que viessem √† nossa embarca√ßa√µ, o que sem difficuldade
-fisera√µ, & entrando no barco, fora√µ do Padre com taes demonstra√ß√µes de
-affecto recebidos, que na despedida se mostr√†ra√µ muito satisfeitos, na√µ
+Dahi a poucos dias vieraı nove, ou dez barcos dos mesmos Beaj˘s a
+commerciar com os Mouros, & naı effeituando cousa alg[~u]a, h[~u] dos
+nossos, senaı por superior impulso, ao menos por lisongear ao Padre, lhes
+foi persuadir que viessem ‡ nossa embarcaÁaı, o que sem difficuldade
+fiseraı, & entrando no barco, foraı do Padre com taes demonstraÁıes de
+affecto recebidos, que na despedida se mostr‡raı muito satisfeitos, naı
 sendo pouca causa darlhes o servo de Deos alg[~u]as cousas, ainda que de
-pouca valia, como na√µ vistas naquellas partes, de alg[~u]a estima√ßa√µ.
-Depois destes viera√µ outros dous, os quaes se detivera√µ menos tempo, por
-virem com hum Mouro espia, & em quanto assistira√µ na embarca√ßa√µ, era
-notavel o respeito, com que trattava√µ ao Padre quasi publicando-se
+pouca valia, como naı vistas naquellas partes, de alg[~u]a estimaÁaı.
+Depois destes vieraı outros dous, os quaes se detiveraı menos tempo, por
+virem com hum Mouro espia, & em quanto assistiraı na embarcaÁaı, era
+notavel o respeito, com que trattavaı ao Padre quasi publicando-se
 agradecidos a quem com tanto extremo procurava remediallos.
 
-A demonstra√ßa√µ de affecto, que estes experiment√†ra√µ em o Padre, obrigou a
-outros tres, dos quaes hum delles assim pelo tratto, como pela presen√ßa,
-mostrava ser pessoa de authoridade, ao virem ver; & como na√µ vinha√µ
-acompanhados de algum Mouro, julg√†ra√µ expediente os nossos darlhes a
-entender, como o Padre de remotissimas terras viera √†quelle lugar sem
-outro algum intento, mais que a livrallos da cegueira, em que vivia√µ, &
-ensinarlhes o que convinha a sua salva√ßa√µ: destas ras√µes se mostr√†ra√µ
+A demonstraÁaı de affecto, que estes experiment‡raı em o Padre, obrigou a
+outros tres, dos quaes hum delles assim pelo tratto, como pela presenÁa,
+mostrava ser pessoa de authoridade, ao virem ver; & como naı vinhaı
+acompanhados de algum Mouro, julg‡raı expediente os nossos darlhes a
+entender, como o Padre de remotissimas terras viera ‡quelle lugar sem
+outro algum intento, mais que a livrallos da cegueira, em que viviaı, &
+ensinarlhes o que convinha a sua salvaÁaı: destas rasıes se mostr‡raı
 agradar, o que vendo o servo de Deos, deu a cada hum seu Rosario, o qual
-receb√®ra√µ de joelhos com grande venera√ßa√µ, & ensinados a persignarse, o
-fisera√µ com tanta facilidade, que fic√†ra√µ admirados os nossos, & muito
-mais contente o Padre, por ver qua√µ facil seria √†quelles Gentios abra√ßar
-as ceremonias de nossa Santa F√®.
+recebËraı de joelhos com grande veneraÁaı, & ensinados a persignarse, o
+fiseraı com tanta facilidade, que fic‡raı admirados os nossos, & muito
+mais contente o Padre, por ver quaı facil seria ‡quelles Gentios abraÁar
+as ceremonias de nossa Santa FË.
 
-Estes fora√µ os progressos da nova missa√µ at√® os 27.de Mayo, em o qual dia
-os da nao se ach√†ra√µ desembara√ßados para se partirem a Mac√¢o, & foi t√£o
-grande a carga de pimenta, & outros generos, que n√£o a podendo levar toda
-a embarca√ß√£o (ainda que era das mayores, [q'] frequent√£o aquelles mares)
-deix√†r√£o grande parte em terra, servindo a todos de grande admira√ß√£o tanta
-ganancia. Verdade he, que em todo o tempo que alli se detiver√£o, n√£o
+Estes foraı os progressos da nova missaı atË os 27.de Mayo, em o qual dia
+os da nao se ach‡raı desembaraÁados para se partirem a Mac‚o, & foi t„o
+grande a carga de pimenta, & outros generos, que n„o a podendo levar toda
+a embarcaÁ„o (ainda que era das mayores, [q'] frequent„o aquelles mares)
+deix‡r„o grande parte em terra, servindo a todos de grande admiraÁ„o tanta
+ganancia. Verdade he, que em todo o tempo que alli se detiver„o, n„o
 cessou o servo de Deos de implorar em o sacrificio da Missa com Ladainhas,
 & preces, o favor divino, em o bom successo daquella jornada (conhecendo,
-que delle pendi√£o muito os augmentos da nova missa√µ) & piamente se p√≥de
-crer fossem ouvidos os seus rogos, concedendo t√£o prosperos successos at√®
+que delle pendi„o muito os augmentos da nova missaı) & piamente se pÛde
+crer fossem ouvidos os seus rogos, concedendo t„o prosperos successos atË
 a ultima hora de sua partida, a qual soi muy saudosa ao Padre, porque todo
 o seu empenho era assistir entre aquella gente, como repetidas veses pedio
-ao Capit√£o, o que lhe n√£o concedeo por temer da aleivosia daquelles
+ao Capit„o, o que lhe n„o concedeo por temer da aleivosia daquelles
 barbaros, corresse algum perigo a sua vida, contentandoo com lhe
-prometter, que na segunda mon√ß√£o o faria.
+prometter, que na segunda monÁ„o o faria.
 
-Em a vigilia do glorioso Precursor cheg√†r√£o a Mac√¢o, aonde logo o Padre se
-retirou √† sua antigua penha, n√£o se livrando c√µ pouca difficuldade das
-grandes instancias, com que todos os Religiosos pedi√£o escolhesse os seus
-Conventos por domicilio: porque como reconheci√£o nelle h[~u]a vida muy
-exemplar, desejav√£o a sua companhia. No retiro da penha gastava a noite em
-santos exercicios, & o dia todo na Paroquia de S.Louren√ßo em o
+Em a vigilia do glorioso Precursor cheg‡r„o a Mac‚o, aonde logo o Padre se
+retirou ‡ sua antigua penha, n„o se livrando cı pouca difficuldade das
+grandes instancias, com que todos os Religiosos pedi„o escolhesse os seus
+Conventos por domicilio: porque como reconheci„o nelle h[~u]a vida muy
+exemplar, desejav„o a sua companhia. No retiro da penha gastava a noite em
+santos exercicios, & o dia todo na Paroquia de S.LourenÁo em o
 Confessionario.
 
-Chegada j√† a mon√ßa√µ de Born√®o, partio a 18.de Fevereiro de 1689.levando
+Chegada j‡ a monÁaı de BornËo, partio a 18.de Fevereiro de 1689.levando
 hum mancebo China intellig[~e]te, & practico, a quem para este effeito deu
-liberdade Luis Francisco Coutinho, & outro chamado Louren√ßo, de na√ßa√µ
-Beaj√π, a quem pelo mesmo respeito libertou Fructuoso Leyte, a 30.do mesmo
-mez cheg√†ra√µ ao Porto de Banj√†r.
+liberdade Luis Francisco Coutinho, & outro chamado LourenÁo, de naÁaı
+Beaj˘, a quem pelo mesmo respeito libertou Fructuoso Leyte, a 30.do mesmo
+mez cheg‡raı ao Porto de Banj‡r.
 
-Rasa√µ he, que agora que come√ßa a trattar com os Gentios desta Ilha o Padre
-D. Antonino, demos h[~u]a breve noticia de seus costumes: adora√µ a hum s√≥
+Rasaı he, que agora que comeÁa a trattar com os Gentios desta Ilha o Padre
+D. Antonino, demos h[~u]a breve noticia de seus costumes: adoraı a hum sÛ
 Deos, que castiga os maos, & premea os bons, ao qual faz[~e] sacrificios
-de prefumes; na√µ tem algum Idolo, como as mais na√ß√µes do Oriente: casa√µse
-com h[~u]a s√≥ molher, a qual zela√µ em tanto extremo, que presumindo
-offensa, com a morte do offensor vinga√µ o aggravo, do que procede serem as
-molheres muy recolhidas, & recatadas; c√µd[~e]na√µ o furto, aborrecem a
+de prefumes; naı tem algum Idolo, como as mais naÁıes do Oriente: casaıse
+com h[~u]a sÛ molher, a qual zelaı em tanto extremo, que presumindo
+offensa, com a morte do offensor vingaı o aggravo, do que procede serem as
+molheres muy recolhidas, & recatadas; cıd[~e]naı o furto, aborrecem a
 mentira; vivem entre si com muita caridade, sendo todos os seus bens
-communs; mostra√µse muy generosos com aquelles, de que recebem algum
-beneficio; sa√µ muito amigos de gloria, ainda que pela conseguir perca√µ a
-vida. Estas sa√µ em summa as informa√ß√µes, que se puder√°√µ ter deste
+communs; mostraıse muy generosos com aquelles, de que recebem algum
+beneficio; saı muito amigos de gloria, ainda que pela conseguir percaı a
+vida. Estas saı em summa as informaÁıes, que se puder·ı ter deste
 Gentilismo.
 
-Tornando pois a continuar a nossa rela√ßa√µ, quando o Padre chegou a Banj√†r,
-estava√µ em guerra os Mouros com os Beaj√πs, pelo que lhe era muy
-difficultosa a communica√ßa√µ, & para facilitar o tratto dos Beaj√πs, sem o
-saberem os Mouros, fretou hum lantim (embarca√ßa√µ commoda, & pequena) &
-logo desta resolu√ßa√µ se vio o acerto, porque come√ß√†ra√µ a concorrer alguns
-Beaj√πs das povoa√ß√µes visinhas, ou por curiosidade, ou por verem a seu
-payzano Louren√ßo.
+Tornando pois a continuar a nossa relaÁaı, quando o Padre chegou a Banj‡r,
+estavaı em guerra os Mouros com os Beaj˘s, pelo que lhe era muy
+difficultosa a communicaÁaı, & para facilitar o tratto dos Beaj˘s, sem o
+saberem os Mouros, fretou hum lantim (embarcaÁaı commoda, & pequena) &
+logo desta resoluÁaı se vio o acerto, porque comeÁ‡raı a concorrer alguns
+Beaj˘s das povoaÁıes visinhas, ou por curiosidade, ou por verem a seu
+payzano LourenÁo.
 
-Aos 10.de Mar√ßo deu principio a h[~u]a Novena ao glorioso Esposo da Virgem
-S. Joseph, Protector de nossa sagrada Religia√µ, para o que o Capita√µ
+Aos 10.de MarÁo deu principio a h[~u]a Novena ao glorioso Esposo da Virgem
+S. Joseph, Protector de nossa sagrada Religiaı, para o que o Capitaı
 Manoel de Araujo Gracez em o mesmo lantim levantou h[~u] Altar com a
 possivel decencia. Ao segundo dia da Novena veyo hum venerando velho com
 h[~u]a filha sua, hum neto mancebo, & h[~u]a molher de mayor idade, para
-ver o servo de Deos, o qual os recebeo com carinhosas demonstra√ß√µes de
-affecto, significandolhes, [~q] segund√†ra aquella jornada, s√≥ a fim de os
-livrar dos erros, em que fora√µ criados, ensin√£dolhe o unico meyo de sua
-salva√ßa√µ, o que elles ouvira√µ com tanto agrado, [~q] dera√µ a entender
-seria recebido de todos c√µ gr√£de estima√ßa√µ.
+ver o servo de Deos, o qual os recebeo com carinhosas demonstraÁıes de
+affecto, significandolhes, [~q] segund‡ra aquella jornada, sÛ a fim de os
+livrar dos erros, em que foraı criados, ensin„dolhe o unico meyo de sua
+salvaÁaı, o que elles ouviraı com tanto agrado, [~q] deraı a entender
+seria recebido de todos cı gr„de estimaÁaı.
 
-Daqui em diante frequ[~e]tava√µ os Beaj√πs o lantim, os quaes logo come√ß√†ra√µ
-a acclamar ao servo de Deos por seu Tat√πm, que na sua lingoa he o mesmo
-que, Avo, titulo entre elles de suma venera√ßa√µ, & respeito; & o tratava√µ
-com tanta familiaridade, & carinho, que trazia√µ a sua presen√ßa as suas
-molheres, filhos, & filhas, casadas, & donzellas (cousa que elles recata√µ
-com grande excesso) para lhe beijarem a ma√µ, & o santo habito, & o
-reconhecessem por seu Tat√πm, ao qual tambem offerecia√µ alguns limitados
-presentes, que constava√µ de h[~u]a gallinha, ou de hum pouco de arroz, ou
-de alg[~u]as hervas cheirosas, os quaes elle em o princip√¨o regeitava, o
-que lhes causava grade desconsola√ßa√µ, no que advertindo, achou conveniente
-aceitallas, com tanto, que na√µ fossem cousas de mayor valor, que as
+Daqui em diante frequ[~e]tavaı os Beaj˘s o lantim, os quaes logo comeÁ‡raı
+a acclamar ao servo de Deos por seu Tat˘m, que na sua lingoa he o mesmo
+que, Avo, titulo entre elles de suma veneraÁaı, & respeito; & o tratavaı
+com tanta familiaridade, & carinho, que traziaı a sua presenÁa as suas
+molheres, filhos, & filhas, casadas, & donzellas (cousa que elles recataı
+com grande excesso) para lhe beijarem a maı, & o santo habito, & o
+reconhecessem por seu Tat˘m, ao qual tambem offereciaı alguns limitados
+presentes, que constavaı de h[~u]a gallinha, ou de hum pouco de arroz, ou
+de alg[~u]as hervas cheirosas, os quaes elle em o principÏo regeitava, o
+que lhes causava grade desconsolaÁaı, no que advertindo, achou conveniente
+aceitallas, com tanto, que naı fossem cousas de mayor valor, que as
 referidas.
 
-Com ta√µ bons principios se continuou, & acabou a Novena, coroada de
-h[~u]as luminarias, que cercava√µ todo o lantim, do qual sahio hum mediano
+Com taı bons principios se continuou, & acabou a Novena, coroada de
+h[~u]as luminarias, que cercavaı todo o lantim, do qual sahio hum mediano
 esquife, que levava arvorada h[~u]a resplandec[~e]te Cruz, de mais de
-20.palmos, que gyr√£do o rio, se recolheo com h[~u]a estrondosa salva de
-artilheria de duas nossas embarca√ß√µes, que estava√µ j√† naquelle porto, sem
-que esta func√ßa√µ causasse perturba√ßa√µ alg[~u]a aos naturaes, antes
-manifesto contentamento; cousa, que sem particular mo√ßa√µ do Ceo, se julgou
-ser impossivel naquella t√©rra.
+20.palmos, que gyr„do o rio, se recolheo com h[~u]a estrondosa salva de
+artilheria de duas nossas embarcaÁıes, que estavaı j‡ naquelle porto, sem
+que esta funcÁaı causasse perturbaÁaı alg[~u]a aos naturaes, antes
+manifesto contentamento; cousa, que sem particular moÁaı do Ceo, se julgou
+ser impossivel naquella tÈrra.
 
-Entre este concurso veyo o Governador, ou Capita√µ de h[~u]a daquellas
-povoa√ß√µes, que se chama Ang√¢, acompanhado de toda sua familia, visitar ao
-Padre, & o trattou com tanto decoro, & affecto, que julg√†ra√µ os nossos
+Entre este concurso veyo o Governador, ou Capitaı de h[~u]a daquellas
+povoaÁıes, que se chama Ang‚, acompanhado de toda sua familia, visitar ao
+Padre, & o trattou com tanto decoro, & affecto, que julg‡raı os nossos
 conveniente lhe fosse pagar a visita, o que fez em o dia seguinte,
-ac√µpanhado de 13.pessoas. Difficultosa cousa seria referir o alvoro√ßo de
+acıpanhado de 13.pessoas. Difficultosa cousa seria referir o alvoroÁo de
 todo aquelle povo, que concorreo a este recebimento, por[q'] em bayles, em
-variedade de instrumentos, & outras alegres demonstra√ß√µes, parecia hum
+variedade de instrumentos, & outras alegres demonstraÁıes, parecia hum
 glorioso triunfo, procurando todos, que o servo de Deos consentisse ser
-acclamado por seu Rey, o que ao Padre servio de tanta confusa√µ, quanta era
-a sua humildade, & aos nossos de tanta admira√ßa√µ, quanta requeria ta√µ rara
+acclamado por seu Rey, o que ao Padre servio de tanta confusaı, quanta era
+a sua humildade, & aos nossos de tanta admiraÁaı, quanta requeria taı rara
 supplica.
 
-Prostrouse aos p√®s do Vara√µ Apostolico o bom velho do Ang√¢, para beijarlhe
-seu santo habito, a cuja imita√ßa√µ velhos, & mo√ßos, grandes, & pequenos,
-procurava√µ fazer o mesmo, huns se lan√ßava√µ a seus p√®s, outros o abra√ßava√µ,
-& alguns ao menos o tocava√µ, & o Ang√¢ queria logo, logo (ao que parece)
-abra√ßar nossa Santa Ley, pois (segundo deu a entender) a seguiria at√® por
+Prostrouse aos pËs do Varaı Apostolico o bom velho do Ang‚, para beijarlhe
+seu santo habito, a cuja imitaÁaı velhos, & moÁos, grandes, & pequenos,
+procuravaı fazer o mesmo, huns se lanÁavaı a seus pËs, outros o abraÁavaı,
+& alguns ao menos o tocavaı, & o Ang‚ queria logo, logo (ao que parece)
+abraÁar nossa Santa Ley, pois (segundo deu a entender) a seguiria atË por
 ella perder a vida, se fosse necessario. Em consequencia do que, se
-offereceo a ir pessoalmente dar parte aos Senhores de Tomong√πm, & Dama√µ,
-Principes supremos, que habita√µ o interior daquella Ilha, hum dos quaes
+offereceo a ir pessoalmente dar parte aos Senhores de Tomong˘m, & Damaı,
+Principes supremos, que habitaı o interior daquella Ilha, hum dos quaes
 era seu genro; & para se determinarem as circunstancias da Embayxada,
-prometteo de vir ao outro dia, o que na√µ pode ser, por se passar toda a
-noite em bayles, em applauso do seu Tat√πm, & de can√ßado na√µ pode commprir
-a promessa, mas veyo logo ao seguinte dia, em que foi recebido do Capita√µ
+prometteo de vir ao outro dia, o que naı pode ser, por se passar toda a
+noite em bayles, em applauso do seu Tat˘m, & de canÁado naı pode commprir
+a promessa, mas veyo logo ao seguinte dia, em que foi recebido do Capitaı
 Manoel de Araujo Gracez com muito apparato, & banqueteado com igual
 grandesa.
 
-Na conferencia determinou o Capita√µ, que em nome do Padre levasse o Ang√¢
+Na conferencia determinou o Capitaı, que em nome do Padre levasse o Ang‚
 hum presente aos Principes, & como a passagem havia de ser por terras dos
-Mouros, a quem o Ang√¢ era sugeito, se offereceo o Capita√µ Manoel de
-Araujo, por ser muito amigo do Rey, alcan√ßar licen√ßa; mas como elle estava
-distante, & por alg[~u]as occurrencias na√µ o pode o Capita√µ buscar, & na√µ
-podendo o Ang√¢ sofrer tanta dila√ßa√µ, pelo grande alvoro√ßo, que tinha,
-m√£dou dizer, que lhe levassem o presente para os Principes, que sem
-embargo da licen√ßa queria ir, para o [~q] ao dia seguinte o foi buscar o
-Padre, & lhe entregou o mimo, que constava de duas caixas, em que hia√µ
+Mouros, a quem o Ang‚ era sugeito, se offereceo o Capitaı Manoel de
+Araujo, por ser muito amigo do Rey, alcanÁar licenÁa; mas como elle estava
+distante, & por alg[~u]as occurrencias naı o pode o Capitaı buscar, & naı
+podendo o Ang‚ sofrer tanta dilaÁaı, pelo grande alvoroÁo, que tinha,
+m„dou dizer, que lhe levassem o presente para os Principes, que sem
+embargo da licenÁa queria ir, para o [~q] ao dia seguinte o foi buscar o
+Padre, & lhe entregou o mimo, que constava de duas caixas, em que hiaı
 alg[~u]as curiosidades da China de pouco custo, & alg[~u]s anneis, &
 braceletes de vidro, & por remate h[~u]a lamina bordada com a Imagem de N.
 Senhora da Puresa, & outra do Patriarca S. Caetano, para que tomassem
 posse daquellas terras, & reduzissem aquelles povos ao verdadeiro
 conhecimento de Deos.
 
-Ta√µ aceito foi √† Divina bondade este obsequio, que o mesmo foi apparecer o
-Ang√¢ naquellas terras, & descobriremse as sagradas Imagens, que
-commoveremse todos incontinentemente com prodigioso alvoro√ßo a admittirem
-a este Vara√µ Apostolico, para cujo effeito prepar√†ra√µ muitas embarca√ß√µes,
-que havia em o porto, & dera√µ principio a h[~u]a de 14.bra√ßas, muito
-ornada, para o condusir, & em breve tempo se preparou, & o viera√µ esperar
-√† bocca do rio, em que se terminava a sua jurisdic√ßa√µ, na√µ passando a
-diante por causa das guerras c√µ os Mouros, & deste porto despach√†ra√µ ao
-Ang√¢, c√µ o Embayxador dos Mouros (que tinha ido trattar com elles pazes)
-que procurasse permisso de entrar naquelle rio, em que estava o seu Tat√ªm;
-& por haver alg[~u]a demora na chegada do Ang√¢, & o Dam√£o desejava ver ao
-Padre, o mandou visitar por hum cunhado seu, & depois por hum seu irm√£o
-lhe m√£dou dizer, que se fosse por seu consentimento, o levaria logo a sua
-casa, mas que por muitas, & efficazes ras√µes n√£o era conveniente: logo
-depois deste recado chegou o Ang√¢ com o presente do Dam√£o, que constava de
-huns bem curiosos cestinhos de palha, & c√£na, de ervas odoriferas, & de
-outras cousas, entre as quaes vinh√£o huns bollinhos cheirosos, que estim√£o
-tanto, que se n√£o concedem, sen√£o a pessoas muito grandes, & que viv√£o
-entre elles, para que os n√£o levem f√≥ra do Estado, por cuja causa se
-origin√£o muitas guerras, & notando-se que as raizes das ervas vinh√£o cheas
+Taı aceito foi ‡ Divina bondade este obsequio, que o mesmo foi apparecer o
+Ang‚ naquellas terras, & descobriremse as sagradas Imagens, que
+commoveremse todos incontinentemente com prodigioso alvoroÁo a admittirem
+a este Varaı Apostolico, para cujo effeito prepar‡raı muitas embarcaÁıes,
+que havia em o porto, & deraı principio a h[~u]a de 14.braÁas, muito
+ornada, para o condusir, & em breve tempo se preparou, & o vieraı esperar
+‡ bocca do rio, em que se terminava a sua jurisdicÁaı, naı passando a
+diante por causa das guerras cı os Mouros, & deste porto despach‡raı ao
+Ang‚, cı o Embayxador dos Mouros (que tinha ido trattar com elles pazes)
+que procurasse permisso de entrar naquelle rio, em que estava o seu Tat˚m;
+& por haver alg[~u]a demora na chegada do Ang‚, & o Dam„o desejava ver ao
+Padre, o mandou visitar por hum cunhado seu, & depois por hum seu irm„o
+lhe m„dou dizer, que se fosse por seu consentimento, o levaria logo a sua
+casa, mas que por muitas, & efficazes rasıes n„o era conveniente: logo
+depois deste recado chegou o Ang‚ com o presente do Dam„o, que constava de
+huns bem curiosos cestinhos de palha, & c„na, de ervas odoriferas, & de
+outras cousas, entre as quaes vinh„o huns bollinhos cheirosos, que estim„o
+tanto, que se n„o concedem, sen„o a pessoas muito grandes, & que viv„o
+entre elles, para que os n„o levem fÛra do Estado, por cuja causa se
+origin„o muitas guerras, & notando-se que as raizes das ervas vinh„o cheas
 de terras, se soube ser esta entre elles a mayor finesa, porque com ella
-signific√£o dar posse de seus Estados.
+signific„o dar posse de seus Estados.
 
-Sendo perguntado o Ang√¢ daquelles Principes √†cerca do seu Tat√ªm, lhes
+Sendo perguntado o Ang‚ daquelles Principes ‡cerca do seu Tat˚m, lhes
 manifestou o summo despreso, que professava das cousas temporaes, o modo,
-& instituto de sua Religi√£o, que prohibe n√£o s√≥ ter rendas, mas tambem
+& instituto de sua Religi„o, que prohibe n„o sÛ ter rendas, mas tambem
 mendigar o preciso sustento, & que seu unico intento era instruillos em a
-verdadeira Religi√£o, sem a qual se n√£o p√≥de alcan√ßar o Ceo. A tudo isto
-respond√®r√£o muito conformes, que por isso o estimav√£o muito mais, & que
-entendi√£o ser hum homem celeste, do qual esperav√£o grandes felicidades, &
-para confirma√ß√£o desta sua F√®, estando j√† a armada para partir, vir√£o cair
-do Ceo hum globo de fogo, pelo que entend√®r√£o, que a sua vinda era para os
+verdadeira Religi„o, sem a qual se n„o pÛde alcanÁar o Ceo. A tudo isto
+respondËr„o muito conformes, que por isso o estimav„o muito mais, & que
+entendi„o ser hum homem celeste, do qual esperav„o grandes felicidades, &
+para confirmaÁ„o desta sua FË, estando j‡ a armada para partir, vir„o cair
+do Ceo hum globo de fogo, pelo que entendËr„o, que a sua vinda era para os
 alumiar: por esta causa, aonde quer que chegava a noticia do servo de
-Deos, todos o vinh√£o ver, pedindolhe, que lhe fisesse o sinal da Cruz com
-agoa b[~e]ta, a qual tambem levav√£o com rara estima√ß√£o; a ras√£o de a
-estimarem tanto foi, porque na primeira visita, advertido o Ang√¢ pelo
-Beaj√π Louren√ßo, que tomasse agoa benta (que estava ao entrar da porta)
-porque o havia de livrar de muitos males; fello alli, & lhe cobrou tal f√©,
-que quando foi aos Principes, levou della bastante provis√£o, & de crer he,
-obre Deos alguns prodigios, pois a procur√£o com tanto extremo: o que se
-sabe he, que todos os Beaj√πs, que vem a este Var√£o Apostolico, fic√£o
-attonitos, sem saberem explicar o que divis√£o em seu semblante, & algum
+Deos, todos o vinh„o ver, pedindolhe, que lhe fisesse o sinal da Cruz com
+agoa b[~e]ta, a qual tambem levav„o com rara estimaÁ„o; a ras„o de a
+estimarem tanto foi, porque na primeira visita, advertido o Ang‚ pelo
+Beaj˘ LourenÁo, que tomasse agoa benta (que estava ao entrar da porta)
+porque o havia de livrar de muitos males; fello alli, & lhe cobrou tal fÈ,
+que quando foi aos Principes, levou della bastante provis„o, & de crer he,
+obre Deos alguns prodigios, pois a procur„o com tanto extremo: o que se
+sabe he, que todos os Beaj˘s, que vem a este Var„o Apostolico, fic„o
+attonitos, sem saberem explicar o que divis„o em seu semblante, & algum
 houve dos nossos, que de si affirmou o mesmo.
 
-Estando a nova miss√£o em t√£o bons termos, se levantou h[~u]a voz entre os
+Estando a nova miss„o em t„o bons termos, se levantou h[~u]a voz entre os
 Mouros, que publicava nos queriamos apoderar de sua terra, para o que
-deramos aos Beaj√πs grande copia de ouro. Notavel embara√ßo podia deste
-alarido resultar √† missa√µ: mas a Providencia Divina, por cuja conta estava
-este negocio, permittio que aos quatro de Janeiro √†s nove horas da noite,
-viessem dous filhos do Tomong√ªm, & Dam√£o, acompanhados de huns seus tios,
-& outras pessoas expostas a gr√£de perigo, & por isso mettidos nas
-escotilhas da embarca√ßa√µ. Chegados ao lantim, mand√†r√£o chamar ao Capit√£o
-Manoel de Araujo, & resolutos lhe disser√£o, que ainda que havia mais de
-hum mez, que estav√£o esperando por elles com tanto incommodo, esperari√£o
-at√® o outro dia, em que sahisse o barco daquelle porto; & receberi√£o ao
-servo de Deos, para o que fari√£o quantas obriga√ß√µes quisessem. O Capit√£o,
-que conhecia por largas experiencias, ser evidentes disposi√ß√µes da Divina
-v√µtade, condescendeo com os rogos daquelles Principes, de que fic√†r√£o t√£o
-alvoro√ßados, que hum delles pedio h[~u]a faca para tirar sangue dos bra√ßos
-(que entre elles he a mayor demonstra√ß√£o de contentamento) & assim logo se
-despedir√£o dos nossos, por n√£o ser conhecidos de seus contrarios.
+deramos aos Beaj˘s grande copia de ouro. Notavel embaraÁo podia deste
+alarido resultar ‡ missaı: mas a Providencia Divina, por cuja conta estava
+este negocio, permittio que aos quatro de Janeiro ‡s nove horas da noite,
+viessem dous filhos do Tomong˚m, & Dam„o, acompanhados de huns seus tios,
+& outras pessoas expostas a gr„de perigo, & por isso mettidos nas
+escotilhas da embarcaÁaı. Chegados ao lantim, mand‡r„o chamar ao Capit„o
+Manoel de Araujo, & resolutos lhe disser„o, que ainda que havia mais de
+hum mez, que estav„o esperando por elles com tanto incommodo, esperari„o
+atË o outro dia, em que sahisse o barco daquelle porto; & receberi„o ao
+servo de Deos, para o que fari„o quantas obrigaÁıes quisessem. O Capit„o,
+que conhecia por largas experiencias, ser evidentes disposiÁıes da Divina
+vıtade, condescendeo com os rogos daquelles Principes, de que fic‡r„o t„o
+alvoroÁados, que hum delles pedio h[~u]a faca para tirar sangue dos braÁos
+(que entre elles he a mayor demonstraÁ„o de contentamento) & assim logo se
+despedir„o dos nossos, por n„o ser conhecidos de seus contrarios.
 
-Em quanto durav√£o estes contrattos chegou o cunhado do Sind√ªm Principe
+Em quanto durav„o estes contrattos chegou o cunhado do Sind˚m Principe
 mais poderoso, que os referidos; o qual sabendo acaso em as terras do
-Dam√£o a vinda do servo de Deos, se veyo logo √† embarca√ß√£o, & sabendo n√£o
-estar ahi o Padre, sem mais deten√ßa se passou ao lantim, a√µde se queixou
-aos Principes de n√£o ter[~e] avisado a seu cunhado o Sind√ªm, & que se
-quisesse, em sua mesma gal√® o levaria √†s terras de seu cunhado, em que n√£o
+Dam„o a vinda do servo de Deos, se veyo logo ‡ embarcaÁ„o, & sabendo n„o
+estar ahi o Padre, sem mais detenÁa se passou ao lantim, aıde se queixou
+aos Principes de n„o ter[~e] avisado a seu cunhado o Sind˚m, & que se
+quisesse, em sua mesma galË o levaria ‡s terras de seu cunhado, em que n„o
 poderia haver perigo, por estar em paz com o Mouro; & que ao menos depois
-de estar algum tempo com o Dam√£o, & Tomong√ªm, o deixassem ir ao Sind√ªm, o
+de estar algum tempo com o Dam„o, & Tomong˚m, o deixassem ir ao Sind˚m, o
 qual tanto que tivesse noticia, logo o viria buscar, & finalmente lhe
-pedio, que n√£o partisse, sem que elle mesmo o acompanhasse.
+pedio, que n„o partisse, sem que elle mesmo o acompanhasse.
 
-Aos 10.do mesmo mez cheg√†r√£o outros seis Beaj√πs de terras distantes quinze
-dias de jornada, os quaes s√≥ ent√£o tiver√£o noticia do servo de Deos, & lhe
-trouxer√£o alg[~u]as limitadas offertas, pedindolhe, que depois de estar em
-as terras do Tomong√ªm, se passasse a ensinalos, & alivialos em as suas; &
-em quanto estiver√£o c√µ elle, n√£o se satisfazi√£o de o abra√ßar, & lhe beijar
-as m√£os, a [~q] o Padre respondia c√µ semelhantes express√µes de affecto.
+Aos 10.do mesmo mez cheg‡r„o outros seis Beaj˘s de terras distantes quinze
+dias de jornada, os quaes sÛ ent„o tiver„o noticia do servo de Deos, & lhe
+trouxer„o alg[~u]as limitadas offertas, pedindolhe, que depois de estar em
+as terras do Tomong˚m, se passasse a ensinalos, & alivialos em as suas; &
+em quanto estiver„o cı elle, n„o se satisfazi„o de o abraÁar, & lhe beijar
+as m„os, a [~q] o Padre respondia cı semelhantes expressıes de affecto.
 
-Nesta consola√ß√£o vivia o Padre, quando Deos, para purificar sua paciencia,
-lhe permittio h[~u]a consideravel pena, por causa de os nossos come√ßarem a
-presumir ser fingido o tratto dos Beaj√πs, & que n√£o era c√µveniente deixalo
-em t√£o grande perigo; o que foi causa de se mostrar o Capit√£o Manoel de
-Araujo menos effectivo, & fervoroso; mas conhecendo o Var√£o Apostolico a
-novidade, com grande zelo protestou da parte de Deos ao Capit√£o, o gr√£de
-d√£no, que resultaria √†quelles povos, n√£o o deixar em sua companhia, & que
-a perdi√ß√£o daquellas almas seria por conta sua.
+Nesta consolaÁ„o vivia o Padre, quando Deos, para purificar sua paciencia,
+lhe permittio h[~u]a consideravel pena, por causa de os nossos comeÁarem a
+presumir ser fingido o tratto dos Beaj˘s, & que n„o era cıveniente deixalo
+em t„o grande perigo; o que foi causa de se mostrar o Capit„o Manoel de
+Araujo menos effectivo, & fervoroso; mas conhecendo o Var„o Apostolico a
+novidade, com grande zelo protestou da parte de Deos ao Capit„o, o gr„de
+d„no, que resultaria ‡quelles povos, n„o o deixar em sua companhia, & que
+a perdiÁ„o daquellas almas seria por conta sua.
 
-Mas n√£o he muito fosse t√£o grande o sentimento, de quem com tanta ansia
+Mas n„o he muito fosse t„o grande o sentimento, de quem com tanta ansia
 solicitava esta empresa, que chegou a affirmar em h[~u]a carta sua estas
-formaes palavras: _Certo, certo, certo, deix√†ra agora a gloria do Paraiso,
-por trabalhar nesta vinha do Senhor at√® o fim do mundo, sem mais premio,
-que acertar a fazer sua divina vontade_. Commov√®r√£o ao Capit√£o as ras√µes
+formaes palavras: _Certo, certo, certo, deix‡ra agora a gloria do Paraiso,
+por trabalhar nesta vinha do Senhor atË o fim do mundo, sem mais premio,
+que acertar a fazer sua divina vontade_. CommovËr„o ao Capit„o as rasıes
 do Padre a condescender com o seu desejo, para o que, chegado o dia 25.de
-Junho, em que desfeito o b√£co de area, era facil a navega√ß√£o, ditta Missa,
+Junho, em que desfeito o b„co de area, era facil a navegaÁ„o, ditta Missa,
 depois de administrar a alg[~u]as pessoas o Sacramento da Penitencia, se
-embarc√†r√£o o Capit√£o Manoel de Araujo Gracez com sinco Portugueses, & o
+embarc‡r„o o Capit„o Manoel de Araujo Gracez com sinco Portugueses, & o
 servo de Deos com quatro mancebos, hum China, a quem tinha dado liberdade
-Luis Francisco, outro da mesma na√ß√£o, que voluntariam[~e]te se offereceo,
-o Beaj√π Louren√ßo, & hum marinheiro natural de Beng√¢lla, & √†lem destes dous
-parentes do Tomong√ªm, & Dam√£o, que tinh√£o vindo para o acompanhar; & pedir
-ao Capit√£o, n√£o faltasse em func√ß√£o t√£o grande, & para que esta fosse mais
-sol[~e]ne, arvor√†r√£o h[~u]a Cruz de incorruptivel madeira, & da mesma
+Luis Francisco, outro da mesma naÁ„o, que voluntariam[~e]te se offereceo,
+o Beaj˘ LourenÁo, & hum marinheiro natural de Beng‚lla, & ‡lem destes dous
+parentes do Tomong˚m, & Dam„o, que tinh„o vindo para o acompanhar; & pedir
+ao Capit„o, n„o faltasse em funcÁ„o t„o grande, & para que esta fosse mais
+sol[~e]ne, arvor‡r„o h[~u]a Cruz de incorruptivel madeira, & da mesma
 h[~u]a tarja com as Armas de Portugal com esta letra na circumferencia:
 _Lusitanorum virtus, & gloria_.
 
-Finalmente partir√£o para o rio dos Beaj√πs, no qual ach√†r√£o muitas
-embarca√ß√µes promptas, em as quaes estari√£o 800.pessoas, alg[~u]as das
-quaes entr√†r√£o na nossa, & a for√£o lev√£do aonde estava o Tomong√ªm, &
-Dam√£o, & desde ella vier√£o √† nossa, & abra√ßando o Capit√£o, se lan√ß√†r√£o aos
-p√®s do servo de Deos o Tomong√ªm, & Dam√£o, sem se apartarem delle, dizendo
-o Tomong√ªm a dous filhos seus, & a toda a sua comitiva, o imitassem na
-venera√ß√£o, & reconhecessem ao Padre por seu verdadeiro Senhor.
+Finalmente partir„o para o rio dos Beaj˘s, no qual ach‡r„o muitas
+embarcaÁıes promptas, em as quaes estari„o 800.pessoas, alg[~u]as das
+quaes entr‡r„o na nossa, & a for„o lev„do aonde estava o Tomong˚m, &
+Dam„o, & desde ella vier„o ‡ nossa, & abraÁando o Capit„o, se lanÁ‡r„o aos
+pËs do servo de Deos o Tomong˚m, & Dam„o, sem se apartarem delle, dizendo
+o Tomong˚m a dous filhos seus, & a toda a sua comitiva, o imitassem na
+veneraÁ„o, & reconhecessem ao Padre por seu verdadeiro Senhor.
 
-Sentado o Dam√£o no meyo do servo de Deos, & do Capit√£o, attento hum, &
+Sentado o Dam„o no meyo do servo de Deos, & do Capit„o, attento hum, &
 outro, lhe significou o Padre o motivo, que o obrigava a ficar entre
 elles, o qual era para lhes ensinar sem algum interesse o verdadeiro
-caminho do Ceo, ao que respond√®r√£o, que assim o queri√£o, & se obrigav√£o a
-tello em toda a venera√ß√£o, o que pretend√®r√£o firmar com sangue de suas
-veas, mas n√£o lho permittir√£o os nossos.
+caminho do Ceo, ao que respondËr„o, que assim o queri„o, & se obrigav„o a
+tello em toda a veneraÁ„o, o que pretendËr„o firmar com sangue de suas
+veas, mas n„o lho permittir„o os nossos.
 
-Entregouselhes logo a Santa Cruz, a que ador√†r√£o todos, & o Escudo das
-Armas de Portugal, que promett√®r√£o collocar ao p√® da Cruz na primeira
-Igreja, que logo levantari√£o, & que prometti√£o viver debaixo da Coroa de
-Portugal, para o que andari√£o trajados ao nosso modo, & por este respeito
-se lhes der√£o vestidos, que levava√µ para este effeito, por o terem assim
-dado a entender; & por rematte pedir√£o ao Capit√£o; n√£o faltasse em os
-communicar todos os annos, para conhecer a summa estima√ß√£o, que fazi√£o do
-seu Tat√ªm. Concluidas estas ceremonias, se despedir√£o levando o Padre em
+Entregouselhes logo a Santa Cruz, a que ador‡r„o todos, & o Escudo das
+Armas de Portugal, que promettËr„o collocar ao pË da Cruz na primeira
+Igreja, que logo levantari„o, & que prometti„o viver debaixo da Coroa de
+Portugal, para o que andari„o trajados ao nosso modo, & por este respeito
+se lhes der„o vestidos, que levavaı para este effeito, por o terem assim
+dado a entender; & por rematte pedir„o ao Capit„o; n„o faltasse em os
+communicar todos os annos, para conhecer a summa estimaÁ„o, que fazi„o do
+seu Tat˚m. Concluidas estas ceremonias, se despedir„o levando o Padre em
 h[~u]as grandes andas, no que elle consentio, por temer, que a repugnancia
 lhes motivasse algum dissabor, que mal lograsse o seu intento.
 
-Estes sa√µ os felices principios desta nova missa√µ, da qual se esper√£o
-muitos, & venturosos progressos ao credito da Religi√£o Theatina, & gloria
-da Coroa de Portugal, por ser[~e] ambas t√£o empenhadas na propaga√ß√£o da F√®
+Estes saı os felices principios desta nova missaı, da qual se esper„o
+muitos, & venturosos progressos ao credito da Religi„o Theatina, & gloria
+da Coroa de Portugal, por ser[~e] ambas t„o empenhadas na propagaÁ„o da FË
 Catholica.
 
 LAUS DEO.
 
 
-Notas da transcri√ß√£o:
+Notas da transcriÁ„o:
 
-Por n√£o existir nenhum caracter ascii correspondente a algumas letras,
+Por n„o existir nenhum caracter ascii correspondente a algumas letras,
 foram elas substituidas no texto pelos marcadores apresentados na
 seguinte lista:
 
@@ -458,7 +458,7 @@ seguinte lista:
 
 
 
-End of the Project Gutenberg EBook of Compendio da rela√ßam, que veyo da
+End of the Project Gutenberg EBook of Compendio da relaÁam, que veyo da
 India o anno de 1691, by Vicente Barbosa
 
 *** END OF THIS PROJECT GUTENBERG EBOOK COMPENDIO DA RELAAM ***
@@ -468,7 +468,7 @@ This and all associated files of various formats will be found in:
         http://www.gutenberg.org/1/9/9/4/19947/
 
 Produced by Pedro Saborano (Este ficheiro foi produzido
-a partir da digitaliza√ß√£o do original, disponibilizada
+a partir da digitalizaÁ„o do original, disponibilizada
 pela Biblioteca Nacional de Portugal - This file was
 produced from images generously made available by the
 National Library of Portugal)

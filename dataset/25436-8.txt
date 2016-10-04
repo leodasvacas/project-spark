@@ -22,7 +22,7 @@ Character set encoding: ISO-8859-1
 
 
 
-Produced by Pedro Saborano. A partir da digitaliza√ß√£o
+Produced by Pedro Saborano. A partir da digitalizaÁ„o
 disponibilizada pela bibRIA.
 
 
@@ -90,7 +90,7 @@ PERSONAGENS
 Carlos e Bertha
 
 
-_Carlos est√° trabalhando √° sua secret√°ria._
+_Carlos est· trabalhando · sua secret·ria._
 
           _Bertha lendo um romance junto d'elle._
 
@@ -98,18 +98,18 @@ _Carlos est√° trabalhando √° sua secret√°ria._
 Carlos (_descansando do trabalho a que se entrega e preparando um
 cigarro_)
 
-        Darei √° penna um pouco de repouso
-        E descan√ßo ao trabalho a que me prendo...
+        Darei · penna um pouco de repouso
+        E descanÁo ao trabalho a que me prendo...
 
 Bertha
 
-    N'esse caso est√°s hoje pregui√ßoso?
+    N'esse caso est·s hoje preguiÁoso?
 
 Carlos
 
-        N√£o; mas emquanto o meu cigarro accendo,
+        N„o; mas emquanto o meu cigarro accendo,
         Vou desviar a tua vista immersa
-        No romance a que prestes atten√ß√£o...
+        No romance a que prestes attenÁ„o...
 
 Bertha (_interrompendo_)
 
@@ -121,7 +121,7 @@ Carlos
 
 Bertha (_fechando o livro_)
 
-                               E porque n√£o!
+                               E porque n„o!
     Tambem fecho o meu livro por momentos
 
 Carlos (_interrompendo_)
@@ -131,26 +131,26 @@ Carlos (_interrompendo_)
 
 Bertha
 
-    Errados s√£o taes pensamentos,
-    √â bonita, e desperta algo interesse
+    Errados s„o taes pensamentos,
+    … bonita, e desperta algo interesse
 
 Carlos
 
         Ora adeus! Um romance trivial,
         Muitas vezes de pura phantazia.
         Mas que as mulheres acham principal
-        Possuir como b√¥a companhia,
-        Sim! romance d'am√¥r n√£o √© verdade?
+        Possuir como bÙa companhia,
+        Sim! romance d'amÙr n„o È verdade?
 
 Bertha
 
-    √â d'am√¥r, com effeito; dizes bem,
+    … d'amÙr, com effeito; dizes bem,
     E tanto assim, que na realidade,
-    ¬´Meus Amores¬ª √© nome que elle tem
+    ´Meus Amoresª È nome que elle tem
 
 Carlos
 
-        ¬´Meus Amores¬ª!! Tem gra√ßa! Com tal titulo,
+        ´Meus Amoresª!! Tem graÁa! Com tal titulo,
         Faria eu um romance original
 
 Bertha
@@ -159,7 +159,7 @@ Bertha
 
 Carlos
 
-        Eu, pois; e cr√™ que em mais d'um capitulo...
+        Eu, pois; e crÍ que em mais d'um capitulo...
 
 Bertha (_interrompendo_)
 
@@ -167,76 +167,76 @@ Bertha (_interrompendo_)
 
 Carlos
 
-        Tolinha!... sempre tens cada lembran√ßa!
-        O casamento assumpto n√£o daria
-        E nem com isso ingenua crean√ßa,
+        Tolinha!... sempre tens cada lembranÁa!
+        O casamento assumpto n„o daria
+        E nem com isso ingenua creanÁa,
         Vale a pena augmentar a livraria!
 
 Bertha (_admirada_)
 
-    Ent√£o!?
+    Ent„o!?
 
 Carlos
 
-        Ent√£o, buscava mui s√≥mente
+        Ent„o, buscava mui sÛmente
         A historia de todo o meu passado,
         Narrando o que a minha alma ainda sente...
 
-Bertha (_√°parte_)
+Bertha (_·parte_)
 
-    Patife!! Todo o instante √© bem az√°do
-    Para dizer-me s√≥ palavras duras!
-    (_alto_) De f√≥rma que passavas em revista?...
+    Patife!! Todo o instante È bem az·do
+    Para dizer-me sÛ palavras duras!
+    (_alto_) De fÛrma que passavas em revista?...
 
 Carlos
 
         Todas as minhas mil e uma aventuras,
         Em que nunca deixou d'haver conquista
-        Nem falhou o mais duro cora√ß√£o...
+        Nem falhou o mais duro coraÁ„o...
 
-Bertha (_√°parte_)
+Bertha (_·parte_)
 
-    √â demais!!! Mas vingan√ßa vou jurar!
-    (_alto_) E no livro da sua confec√ß√£o
+    … demais!!! Mas vinganÁa vou jurar!
+    (_alto_) E no livro da sua confecÁ„o
              Poderei eu tambem collaborar?
 
 Carlos
 
-        Quem! tu? Da esposa, am√¥r e s√≥ constancia,
-        Tanto √© o que poder√°s descrever.
+        Quem! tu? Da esposa, amÙr e sÛ constancia,
+        Tanto È o que poder·s descrever.
 
 Bertha (_altiva_)
 
-    Qual! Esse am√¥r j√°mais teve importancia,
-    N√£o acabaste ha pouco de o dizer!
+    Qual! Esse amÙr j·mais teve importancia,
+    N„o acabaste ha pouco de o dizer!
         Acredita meu caro, que ha de sobra
         Elementos na minha mocidade,
-        Que possam refor√ßar a tua obra
+        Que possam reforÁar a tua obra
         E dar-lhe bem maior publicidade!...
 
 Carlos (_ironicamente_)
 
         Ah! eu creio. Acredito plenamente!
-        E p√≥des convencer-te que n√£o peccas,
-        Se quizeres exp√¥r sinceramente
+        E pÛdes convencer-te que n„o peccas,
+        Se quizeres expÙr sinceramente
         O muito que adoravas as bonecas...
 
 Bertha (_irritada_)
 
-    Senhor! Consentir, n√£o posso que altere
-    A traduc√ß√£o das minhas express√µes!
-    Saiba que me melindra e s√≥ me f√©re,
-    Suppondo que sentidas vibra√ß√µes
+    Senhor! Consentir, n„o posso que altere
+    A traducÁ„o das minhas expressıes!
+    Saiba que me melindra e sÛ me fÈre,
+    Suppondo que sentidas vibraÁıes
     A recordar um tempo bem feliz,
-    Se fundam em t√£o simples innocencia!...
+    Se fundam em t„o simples innocencia!...
 
 Carlos (_surprehendido_)
 
-        Perd√£o se a offendi!
+        Perd„o se a offendi!
 
 Bertha (_continuando_)
 
-                                    √â como diz:
+                                    … como diz:
     E repito com muita consciencia,
     Ter os dados precizos e bastantes,
     Para com elles dar mais um motivo
@@ -245,67 +245,67 @@ Bertha (_continuando_)
 
 Carlos (_mais surprehendido_)
 
-        O que!?... pensar√°s tu em desvendar
+        O que!?... pensar·s tu em desvendar
         Um segredo, ou talvez, algum mysterio?!!...
 
 Bertha
 
-    N√£o sei; apenas julgo acrescentar,
-    Que s√≥ digo a verdade e fallo a s√©rio...
+    N„o sei; apenas julgo acrescentar,
+    Que sÛ digo a verdade e fallo a sÈrio...
 
 Carlos (_surprezo_)
 
-        Devo ent√£o supp√¥r n'essa affirmativa
+        Devo ent„o suppÙr n'essa affirmativa
         Que fosses n'outro tempo aventuroza?!!
 
 Bertha
 
     Se fui!... e como tenho inda bem viva
-    A recorda√ß√£o da vida amorosa,
-    T√£o cheia de prazer, de tanto g√¥zo!...
+    A recordaÁ„o da vida amorosa,
+    T„o cheia de prazer, de tanto gÙzo!...
 
 Carlos (_irritado_)
 
-        Senhora! n√£o graceje! e se √© sincera,
+        Senhora! n„o graceje! e se È sincera,
         Explique e narre tudo a seu espozo?...
 
 Bertha
 
-    Ceus! N√£o queira avivar a primavera
-    Das minhas aventuras; por Deus pe√ßo?
+    Ceus! N„o queira avivar a primavera
+    Das minhas aventuras; por Deus peÁo?
 
 Carlos (_admiradissimo_)
 
         Das suas aventuras?! Todavia,
-        O fim de taes palavras eu n√£o me√ßo,
+        O fim de taes palavras eu n„o meÁo,
         E desejo saber o que existia,
-        Que advinhal-o, n√£o posso, nem eu sei!
+        Que advinhal-o, n„o posso, nem eu sei!
 
 Bertha
 
     Que havia de existir? O que? Senhor?
-    Digo-lhe s√≥, que muito, muito amei
+    Digo-lhe sÛ, que muito, muito amei
     E gosei as delicias do amor!...
 
 Carlos
 
-        Comtudo, diga de que f√≥rma e como?!
+        Comtudo, diga de que fÛrma e como?!
 
 Bertha
 
     Contar-lho, era fazer um bom romance
-    Que ao certo n√£o cabia n'um s√≥ t√¥mo!...
+    Que ao certo n„o cabia n'um sÛ tÙmo!...
 
 Carlos (_impaciente_)
 
-        Lembro que em desespero n√£o me lance!
+        Lembro que em desespero n„o me lance!
         Exigindo me conte a sua historia!
 
 Bertha
 
     Ah! quer? pois bem; e visto que me obriga
     A dizer-lhe o que tenho de memoria,
-    Vou tudo j√° contar
+    Vou tudo j· contar
                                  Escute...
 
 Carlos
@@ -314,33 +314,33 @@ Carlos
 
 Bertha
 
-    Recorda-me que outr'ora, n√£o sei quando,
+    Recorda-me que outr'ora, n„o sei quando,
     D'intenso amor minha alma despertava,
-    E o cora√ß√£o dizia palpitando,
+    E o coraÁ„o dizia palpitando,
     Que d'amor, uma outra alma se aliava:
         E acode-me senhor ao pensamento,
-        Que nunca tornar√° a reviver,
-        Nem t√£o incomparavel sentimento,
+        Que nunca tornar· a reviver,
+        Nem t„o incomparavel sentimento,
         Nem hora que assimille esse prazer.
-    Era bem nova ainda, era crean√ßa,
-    Mas dentro em pouco, eu j√° comprehendia,
-    Que a minha vida at√© ahi t√£o mansa,
-    Da mais louca paix√£o em febre ardia
+    Era bem nova ainda, era creanÁa,
+    Mas dentro em pouco, eu j· comprehendia,
+    Que a minha vida atÈ ahi t„o mansa,
+    Da mais louca paix„o em febre ardia
     E d'outros mil affectos era preza...
 
 Carlos (_interrompendo_)
 
-        E n√£o ousaes Senhora v√™r-me rude?!
+        E n„o ousaes Senhora vÍr-me rude?!
 
 Bertha
 
-    N√£o. Se d'amor √© feita a Natureza,
-    Amar, n√£o √© peccado, mas virtude!
+    N„o. Se d'amor È feita a Natureza,
+    Amar, n„o È peccado, mas virtude!
 
 Carlos
 
-        Se √°s vezes n√£o reverte em sacrilegio
-            Findae a narrativa por quem s√µes!
+        Se ·s vezes n„o reverte em sacrilegio
+            Findae a narrativa por quem sıes!
 
 Bertha
 
@@ -355,21 +355,21 @@ Bertha
 
     Depois, senhor, se o tempo bem corria,
     Bem mais depressa o meu amor galgava,
-    At√© que em sorridente e lindo dia.
-    Qual vulc√£o, chamma intensa o inflamava.
+    AtÈ que em sorridente e lindo dia.
+    Qual vulc„o, chamma intensa o inflamava.
     Estavam satisfeitos os desejos
     Da mulher, que contente e delirante,
     Se deixou cahir sofrega de beijos,
-    Nos bra√ßos d'um querido e terno amante...
+    Nos braÁos d'um querido e terno amante...
 
 Carlos (_surprehendidissimo_)
 
-        Nos bra√ßos d'um amante hein!... hein! Senhora?!
-        E ent√£o, com que coragem inaudita,
-        Faz tal revela√ß√£o s√≥mente agora,
+        Nos braÁos d'um amante hein!... hein! Senhora?!
+        E ent„o, com que coragem inaudita,
+        Faz tal revelaÁ„o sÛmente agora,
         A esposa indigna, mil vezes maldicta!
         .....................................
-        Nos bra√ßos d'um amante, n√£o √© assim?!!
+        Nos braÁos d'um amante, n„o È assim?!!
         E com que arrojo, com que atrevimento,
         Procura descobrir perante mim
         O seu infame e vil procedimento!
@@ -377,12 +377,12 @@ Carlos (_surprehendidissimo_)
 Bertha (_interrompendo_)
 
     Chame-lhe tudo quanto bem quizer,
-    Se pequei, se cahi, por√©m, no abysmo,
+    Se pequei, se cahi, porÈm, no abysmo,
     A eito n'elle cahe muita mulher.
 
 Carlos
 
-        Mas, meu Deus! √â demais tanto cynismo!!
+        Mas, meu Deus! … demais tanto cynismo!!
         .......................................
         De forma, que a mulher por mim sonhada,
         E que eu ardentemente possui,
@@ -399,25 +399,25 @@ Carlos
 
 Bertha
 
-    Que quer?! √© um engano natural...
+    Que quer?! È um engano natural...
     Suppoz, julgou que eu era uma beldade,
     Conquistou-me como um grande ideal
     Emanado dos Ceus, ente divino,
     Mulher de formosura incomparavel,
         De olhar meigo, suave e rosto fino,
         Imagem linda, santa e adoravel,
-        Nympha, que a muza canta em d√¥ce estylo,
+        Nympha, que a muza canta em dÙce estylo,
         Em poema sublime, em verso bello,
         O quadro mais perfeito de Murillo,
         E da sculptura, a estatua modello.
-    Sonhou-me assim, por√©m foi sonho err√≥neo
-    Hoje, eis apenas o ente que n√£o passa
+    Sonhou-me assim, porÈm foi sonho errÛneo
+    Hoje, eis apenas o ente que n„o passa
     D'um objecto preciso ao matrimonio,
-    Sem que tenha sequer uma s√≥ gra√ßa
+    Sem que tenha sequer uma sÛ graÁa
     D'aquellas que o Senhor imaginou.
     Hoje eis a mulher simples e vulgar,
     Sem os dons d'outro tempo que passou,
-    E que ao v√™r-me, pens√°ra architetar.
+    E que ao vÍr-me, pens·ra architetar.
         Emfim: Mulher inutil, sem valor...
 
 Carlos
@@ -427,56 +427,56 @@ Carlos
 
 Bertha
 
-    Oh! meu Senh√¥r:
-    Isso √© t√£o futil, √© t√£o secundario,
+    Oh! meu SenhÙr:
+    Isso È t„o futil, È t„o secundario,
     Que de f'rido, mostrar-se-me aparente,
-    Creia, revela em b√¥a consciencia,
-    Nem s√™r constante, nem s√™r coherente...
+    Creia, revela em bÙa consciencia,
+    Nem sÍr constante, nem sÍr coherente...
 
 Carlos (_desesperado_)
 
-        Basta senhora, se √© muita a prudencia
-        Minha, maior √© inda a gran cordura
-        Com que ou√ßo semilhante confiss√£o,
+        Basta senhora, se È muita a prudencia
+        Minha, maior È inda a gran cordura
+        Com que ouÁo semilhante confiss„o,
         De deshonra, de vergonha e amargura!...
 
-Bertha (_√°parte_)
+Bertha (_·parte_)
 
-    E para mim, de tanta inspira√ß√£o!
+    E para mim, de tanta inspiraÁ„o!
 
 Carlos (_continuando_)
 
         Basta, sim! E nem mais uma palavra
-        Que aggrave t√£o fataes desenganos,
-        Nem augmente a d√¥r que em minha alma lavra,
+        Que aggrave t„o fataes desenganos,
+        Nem augmente a dÙr que em minha alma lavra,
         Sabendo que motivos bem profanos
-        Ao meu l√°r desventura agora traz:
-        Ao l√°r onde at√© aqui s√≥mente via,
-        Ninho feito de am√¥r, feito de p√°z,
+        Ao meu l·r desventura agora traz:
+        Ao l·r onde atÈ aqui sÛmente via,
+        Ninho feito de amÙr, feito de p·z,
         Na mais leal e santa companhia;
-        Ninho feito de ben√ß√£os infinitas,
+        Ninho feito de benÁ„os infinitas,
         Canto da mais risonha f'licidade
-        Por Deus enviada em gra√ßas bemdictas,
-        Ber√ßo de s√£ virtude e honestidade...
+        Por Deus enviada em graÁas bemdictas,
+        BerÁo de s„ virtude e honestidade...
         ....................................
-        E s√≥ agora, s√≥ n'este momento,
-        De t√£o louca illus√£o tenho o alcance!
+        E sÛ agora, sÛ n'este momento,
+        De t„o louca illus„o tenho o alcance!
 
-Bertha (_√°parte_)
+Bertha (_·parte_)
 
-    Gra√ßas! e parabens ao meu talento,
-    Que j√° encontra assumpto p'ra um romance!
+    GraÁas! e parabens ao meu talento,
+    Que j· encontra assumpto p'ra um romance!
 
 Carlos (_continuando_)
 
-        E s√≥ agora, apenas n'este instante,
+        E sÛ agora, apenas n'este instante,
         Vem dizer, revelar, esta Senhora,
-        Que ousou cahir nos bra√ßos d'um amante!!
+        Que ousou cahir nos braÁos d'um amante!!
 
 Bertha
 
-    E que a partir d'ent√£o, desde essa hora,
-    Sem que √° minha mente outra ideia assome,
+    E que a partir d'ent„o, desde essa hora,
+    Sem que · minha mente outra ideia assome,
     Eu nunca deixarei de bemdizer
     O seu amor, a vida e o seu nome!...
 
@@ -484,27 +484,27 @@ Carlos (_com rancor_)
 
         Nome que eu desejara conhecer,
         Para em sangue vingar o atroz insulto
-        Hoje lan√ßado ao rosto d'um marido
+        Hoje lanÁado ao rosto d'um marido
         Cuja honra, lhe devera ser um culto!
             Ah! Senhora, depois de ter ouvido
-            Revela√ß√µes fataes e t√£o extranhas.
+            RevelaÁıes fataes e t„o extranhas.
             Depois de supportar tantas surprezas,
-        Indique-me o auctor d'essas fa√ßanhas
+        Indique-me o auctor d'essas faÁanhas
         O seu cumplice para taes proezas?!
 
 Bertha
 
-    Pensa ent√£o n'uma breve desaffronta?
+    Pensa ent„o n'uma breve desaffronta?
 
 Carlos
 
         Nem mais, senhora, e bem depressa,
-        Que √© esse o sentimento que desponta
-        N'um peito que √° loucura se arreme√ßa!
+        Que È esse o sentimento que desponta
+        N'um peito que · loucura se arremeÁa!
 
 Bertha
 
-    E afinal, o que lucra, n√£o me diz?
+    E afinal, o que lucra, n„o me diz?
 
 Carlos (_estupefacto_)
 
@@ -517,23 +517,23 @@ Bertha
 
 Carlos
 
-        Surprehende-nos a f√≥rma audaciosa
-        Como allude √° baixeza do seu feito!!...
+        Surprehende-nos a fÛrma audaciosa
+        Como allude · baixeza do seu feito!!...
 
 Bertha
 
-    Ou√ßa!... A avivar a data venturoza
-    Do que acabo d'exp√¥r, pende ao meu peito
-    Um retrato: Quer v√™r Vossa Excellencia?...
+    OuÁa!... A avivar a data venturoza
+    Do que acabo d'expÙr, pende ao meu peito
+    Um retrato: Quer vÍr Vossa Excellencia?...
 
 Carlos
 
-        Que a tanto n√£o avance, eu a aconselho!!
+        Que a tanto n„o avance, eu a aconselho!!
 
 Bertha (_mostrando o retrato_)
 
     Pois meu amigo, tenha paciencia,
-    J√° agora ha-de v√™r-se n'este espelho...
+    J· agora ha-de vÍr-se n'este espelho...
 
 Carlos (_surprehendido_)
 
@@ -542,9 +542,9 @@ Carlos (_surprehendido_)
 Bertha
 
     Sim, pois quem?
-    Quem a n√£o ser o meu real senh√¥r,
+    Quem a n„o ser o meu real senhÙr,
     Se eu nunca, nunca amei a mais ninguem!
-    Se eu j√°mais conheci um outro am√¥r?!...
+    Se eu j·mais conheci um outro amÙr?!...
 
 Carlos (_sem comprehender_)
 
@@ -553,25 +553,25 @@ Carlos (_sem comprehender_)
 Bertha (_interrompendo_)
 
     Diga-me, se em vista d'esta scena,
-    De tanta sensa√ß√£o e sentimento,
-    Em verdade, lhe vale, ou n√£o, a pena
-    Dar apre√ßo e val√¥r ao casamento?...
+    De tanta sensaÁ„o e sentimento,
+    Em verdade, lhe vale, ou n„o, a pena
+    Dar apreÁo e valÙr ao casamento?...
 
-Carlos (_com do√ßura_)
+Carlos (_com doÁura_)
 
         Eu comprehendo esposa da minha alma!
-        √â dos Deuses o gosto da vingan√ßa?!
+        … dos Deuses o gosto da vinganÁa?!
 
 Bertha
 
     Que espero e creio tenha a palma,
-    De mais firmar o bem d'esta alian√ßa!
+    De mais firmar o bem d'esta alianÁa!
 
-Carlos (_abra√ßando Bertha_)
+Carlos (_abraÁando Bertha_)
 
         Oh! sim, minha querida, ente adorado!
-        Aproveito a li√ß√£o de ensino duro;
-        E cr√™, que de falar-te no passado,
+        Aproveito a liÁ„o de ensino duro;
+        E crÍ, que de falar-te no passado,
         Nunca mais:
                                  Eu prometo
 
@@ -595,7 +595,7 @@ End of the Project Gutenberg EBook of Uma scena conjugal, by Luiz Couceiro
 This and all associated files of various formats will be found in:
         http://www.gutenberg.org/2/5/4/3/25436/
 
-Produced by Pedro Saborano. A partir da digitaliza√ß√£o
+Produced by Pedro Saborano. A partir da digitalizaÁ„o
 disponibilizada pela bibRIA.
 
 

@@ -1,5 +1,5 @@
-The Project Gutenberg EBook of Serm√£o contra o Filosofismo do Seculo XIX, by 
-Jos√© Agostinho de Macedo
+The Project Gutenberg EBook of Serm„o contra o Filosofismo do Seculo XIX, by 
+JosÈ Agostinho de Macedo
 
 This eBook is for the use of anyone anywhere at no cost and with
 almost no restrictions whatsoever.  You may copy it, give it away or
@@ -7,9 +7,9 @@ re-use it under the terms of the Project Gutenberg License included
 with this eBook or online at www.gutenberg.org
 
 
-Title: Serm√£o contra o Filosofismo do Seculo XIX
+Title: Serm„o contra o Filosofismo do Seculo XIX
 
-Author: Jos√© Agostinho de Macedo
+Author: JosÈ Agostinho de Macedo
 
 Release Date: July 24, 2010 [EBook #33245]
 
@@ -17,7 +17,7 @@ Language: Portuguese
 
 Character set encoding: ISO-8859-1
 
-*** START OF THIS PROJECT GUTENBERG EBOOK SERM√ÉO CONTRA O FILOSOFISMO ***
+*** START OF THIS PROJECT GUTENBERG EBOOK SERM√O CONTRA O FILOSOFISMO ***
 
 
 
@@ -28,39 +28,39 @@ Produced by Pedro Saborano
 
 
 
-                                 SERM√ÉO
+                                 SERM√O
 
                           CONTRA O FILOSOFISMO
 
                                    DO
 
-                              SECULO XIX.¬∫,
+                              SECULO XIX.∫,
 
-                                PR√âGADO
+                                PR…GADO
 
                                    NA
 
-                    IGREJA DE S. JULI√ÉO DE LISBOA
+                    IGREJA DE S. JULI√O DE LISBOA
 
          NA QUINTA DOMINGA DE QUARESMA DO ANNO DE M. DCCC. XI.
 
                                   POR
 
-                       JOS√â AGOSTINHO DE MACEDO,
+                       JOS… AGOSTINHO DE MACEDO,
 
-             _Pr√©gador do Principe Regente Nosso Senhor._
+             _PrÈgador do Principe Regente Nosso Senhor._
 
 
 
 
                                  LISBOA,
-                           NA IMPRESS√ÉO REGIA.
+                           NA IMPRESS√O REGIA.
                                   1811.
-                              _Com licen√ßa._
+                              _Com licenÁa._
 
                       *      *      *      *      *
 
-    _Vende-se na loja de Desiderio Marques Le√£o, ao Calhariz, N. 12._
+    _Vende-se na loja de Desiderio Marques Le„o, ao Calhariz, N. 12._
 
 
 
@@ -68,50 +68,50 @@ Produced by Pedro Saborano
 ADVERTENCIA.
 
 
-N√£o he muito proprio de hum Serm√£o hum Prologo, mas os ataques
+N„o he muito proprio de hum Serm„o hum Prologo, mas os ataques
 reiterados dos meus gratuitos inimigos me tem obrigado a prevenir o
-Publico em qualquer composi√ß√£o minha, ainda que seja de puro
+Publico em qualquer composiÁ„o minha, ainda que seja de puro
 divertimento, e he muito mais indispensavel huma preliminar advertencia
-em composi√ß√£o t√£o s√©ria como he este Serm√£o, no qual fa√ßo triunfar a
-Religi√£o dos ataques do moderno Filosofismo. E para comp√¥r este
+em composiÁ„o t„o sÈria como he este Serm„o, no qual faÁo triunfar a
+Religi„o dos ataques do moderno Filosofismo. E para compÙr este
 Discurso, seria licito ler alguma coiza! Parece que sim, e que sem hum
-profundo conhecimento dos escritos dos Apologistas da Religi√£o Christ√£
-n√£o poderia nem levantar a fian√ßa do presente edificio. Certos
-estouvados se atrev√™r√£o a lan√ßar-me em rosto, que roubava Antonio Vieira
-para compor meus Serm√µes. Ora pois abatamos este importuno Fantasma de
+profundo conhecimento dos escritos dos Apologistas da Religi„o Christ„
+n„o poderia nem levantar a fianÁa do presente edificio. Certos
+estouvados se atrevÍr„o a lanÁar-me em rosto, que roubava Antonio Vieira
+para compor meus Sermıes. Ora pois abatamos este importuno Fantasma de
 Vieira, e rebatamos esta livre calumnia, e dita por quem nem leo Vieira,
-e s√≥ ouvio dizer que Raynal fall√°ra de hum Serm√£o deste Jesuita pelo bom
-successo de nossas armas contra as de Hollanda. Saib√£o pois que eu, que
-componho hum Serm√£o como o presente, n√£o necessito de Vieira, que n√£o
-tem hum s√≥ discurso, onde se ache huma instruc√ß√£o christ√£, e que o
-desprezei com todo o meu cora√ß√£o depois que li o principio de hum Serm√£o
-de Mandato pr√©gado na Capella Real no anno de 1655, e neste principio
-estas escandalosas palavras==Tomo 4. pag. 358. ¬ß 379. col. 2. regra 4.:
+e sÛ ouvio dizer que Raynal fall·ra de hum Serm„o deste Jesuita pelo bom
+successo de nossas armas contra as de Hollanda. Saib„o pois que eu, que
+componho hum Serm„o como o presente, n„o necessito de Vieira, que n„o
+tem hum sÛ discurso, onde se ache huma instrucÁ„o christ„, e que o
+desprezei com todo o meu coraÁ„o depois que li o principio de hum Serm„o
+de Mandato prÈgado na Capella Real no anno de 1655, e neste principio
+estas escandalosas palavras==Tomo 4. pag. 358. ß 379. col. 2. regra 4.:
 _Este cavallo branco he a sagrada Humanidade de Christo._==Nunca mais
 o detestavel Vieira.
 
-Ora como at√© nos doirados domicilios da crapula, e ociosidade, onde a
-libertinagem ousa levantar a voz contra a Religi√£o, torpissimos
-ignorantes fall√£o de Serm√µes, e dos meus Serm√µes, saib√£o estes Gazetaes
-eruditos, que para comp√¥r este gravissimo Discurso eu li, e estudei.
+Ora como atÈ nos doirados domicilios da crapula, e ociosidade, onde a
+libertinagem ousa levantar a voz contra a Religi„o, torpissimos
+ignorantes fall„o de Sermıes, e dos meus Sermıes, saib„o estes Gazetaes
+eruditos, que para compÙr este gravissimo Discurso eu li, e estudei.
 
    1. S. Gregorio Nazianzeno, _Orat. cont. Jul._
    2. S. Fulgencio, _De Fide ad Pet._
    3. S. Cyrillo, _Cath. cont. Juli._
    4. O Cardeal Gerdil, _Impug. do Emilio._
-      O mesmo, _Introduc√ß√£o ao estudo da Religi√£o._
+      O mesmo, _IntroducÁ„o ao estudo da Religi„o._
    5. Mazoti, _Discursos contra a cred._, T. 2.
    6. Vascelchi, _Provas do Christ._
    7. Roberti sobre a leitura dos Liv. de _Methafysica_.
-      O mesmo, _Impugna√ß√£o do Livro La Predication_.
+      O mesmo, _ImpugnaÁ„o do Livro La Predication_.
 
-N√£o posso ser mais ingenuo: estas s√£o as fontes: o Discurso he meu, as
+N„o posso ser mais ingenuo: estas s„o as fontes: o Discurso he meu, as
 provas dos santissimos, e doctissimos Mestres do Christianismo.
 
 
 
 
-SERM√ÉO
+SERM√O
 CONTRA O FILOSOFISMO
 DO SECULO XIX.
 
@@ -120,136 +120,136 @@ DO SECULO XIX.
                                       Sap. Cap. I.
 
 
-N√£o ha, nem p√≥de haver coiza mais aborrecivel, e mais detestavel aos
-olhos da boa raz√£o, que a entonada soberba de hum malevolo ignorante. O
-homem sisudo n√£o p√≥de olhar sem indigna√ß√£o para essa interminavel
+N„o ha, nem pÛde haver coiza mais aborrecivel, e mais detestavel aos
+olhos da boa raz„o, que a entonada soberba de hum malevolo ignorante. O
+homem sisudo n„o pÛde olhar sem indignaÁ„o para essa interminavel
 cohorte dos que neste seculo se dizem livres pensadores, quando
 contempla o soberbo, e ultrajante gesto, ou amargo surrizo com que
-elles olh√£o para o homem de bem, que fiel a seus principios, e
-consequente em sua cren√ßa, e conducta, respeita sua Religi√£o, e a
+elles olh„o para o homem de bem, que fiel a seus principios, e
+consequente em sua crenÁa, e conducta, respeita sua Religi„o, e a
 reconhece divina em sua fonte, e sua origem. Deste rizo, e deste
-soberbissimo signal de huma ultrajante compaix√£o, quantas vezes tenho eu
+soberbissimo signal de huma ultrajante compaix„o, quantas vezes tenho eu
 sido testemunha, e tambem objecto no meio desta Capital! Eu julgava que
-apenas aconteceria isto no meio das pra√ßas da nova, e mais prostituida
+apenas aconteceria isto no meio das praÁas da nova, e mais prostituida
 Babylonia, mas eu o vi realizado tambem em Lisboa. Se o medo, e o terror
-de hum justo castigo continha, e exteriormente refreava estes est√≥lidos
+de hum justo castigo continha, e exteriormente refreava estes estÛlidos
 motejadores no centro de hum Governo Catholico, e vigilante, elles
-deix√°r√£o cahir de todo a m√°scara, e mostr√°r√£o sem pejo a impudentissima
-face em quanto sentimos o ferreo jugo do c√°os revolucionario, que nos
-invadio, e tyrannizou por nove continuos mezes. Ent√£o, ent√£o esses
+deix·r„o cahir de todo a m·scara, e mostr·r„o sem pejo a impudentissima
+face em quanto sentimos o ferreo jugo do c·os revolucionario, que nos
+invadio, e tyrannizou por nove continuos mezes. Ent„o, ent„o esses
 malevolos academicos do segredo, e das visagens, imaginando,
-vertiginosos e illusos, que havi√£o levantado, e firmado o estandarte
-de sua nem realizada, nem possivel liberdade, insult√°r√£o os verdadeiros
-fieis, e os tax√°r√£o de fraqueza, e pusillanimidade, e os titulos menos
-affrontosos que lhes dav√£o, er√£o os de fan√°ticos, cr√©dulos, e
-supersticiosos. E quem seri√£o estes miseraveis entusiastas? Por ventura
+vertiginosos e illusos, que havi„o levantado, e firmado o estandarte
+de sua nem realizada, nem possivel liberdade, insult·r„o os verdadeiros
+fieis, e os tax·r„o de fraqueza, e pusillanimidade, e os titulos menos
+affrontosos que lhes dav„o, er„o os de fan·ticos, crÈdulos, e
+supersticiosos. E quem seri„o estes miseraveis entusiastas? Por ventura
 alguns Celsos, Jamblicos, ou Profirios doctos, e profundos Filosofos
 successores em Athenas, e Alexandria daquelles famosissimos oraculos do
 Epicurcismo, e Platonismo? Algum daquelles que apoiados com a
-incredulidade, e poder de hum Imperante como Julianno pertender√£o com
+incredulidade, e poder de hum Imperante como Julianno pertender„o com
 seus escriptos, e doctrina solapar os alicerces do nascente
-Christianismo? Seria honrar, e desvanecer excessivamenre estes √°tomos de
-sabedoria, se eu os comparasse a t√£o formidaveis, e terriveis talentos
-da antiguidade. S√£o verdadeiramente huns √°tomos, e perdidos no espa√ßo
-immenso dos mal√©volos; huns obscuros adeptos do Illuminismo cobertos
+Christianismo? Seria honrar, e desvanecer excessivamenre estes ·tomos de
+sabedoria, se eu os comparasse a t„o formidaveis, e terriveis talentos
+da antiguidade. S„o verdadeiramente huns ·tomos, e perdidos no espaÁo
+immenso dos malÈvolos; huns obscuros adeptos do Illuminismo cobertos
 agora de hum ridiculo eterno com os contrarios effeitos daquellas a
-que elles chamav√£o profundas theorias de moral, e de politica: esmagados
+que elles chamav„o profundas theorias de moral, e de politica: esmagados
 agora debaixo do pezo das vergonhosas derrotas do monstro em que
-confiav√£o, e que por certo ignora sua existencia, e do qual n√£o podi√£o,
+confiav„o, e que por certo ignora sua existencia, e do qual n„o podi„o,
 como a experiencia lhes diz, esperar mais que opprobrios, ferros,
-escravid√£o, e morte. Huns famintos, mas vaidosos mendigos, que esperav√£o
-entrar na divis√£o da preza dos sanguinarios Tigres, cuja avidade, e
-cobi√ßa insaciavel at√© se rouba a si mesma para se saborear no roubo, e
-n√£o haver intervallo neste seu natural exercicio: huns ociosos perennes,
-que nesses asilos da embriaguez se asoalh√£o a si mesmos por fortissimos
-espiritos, e n√£o deix√£o a bocas alheias a trombeta de sua fama, e do
+escravid„o, e morte. Huns famintos, mas vaidosos mendigos, que esperav„o
+entrar na divis„o da preza dos sanguinarios Tigres, cuja avidade, e
+cobiÁa insaciavel atÈ se rouba a si mesma para se saborear no roubo, e
+n„o haver intervallo neste seu natural exercicio: huns ociosos perennes,
+que nesses asilos da embriaguez se asoalh„o a si mesmos por fortissimos
+espiritos, e n„o deix„o a bocas alheias a trombeta de sua fama, e do
 renome de seus relevantes, e sublimissimos engenhos, homens finalmente,
-que sem mais estudo, sem mais Universidade, sem mais applica√ß√£o, sem
+que sem mais estudo, sem mais Universidade, sem mais applicaÁ„o, sem
 mais livros que o Monitor, sem mais academias que as conferencias
-das tr√©vas nos subterraneos da cr√°pula, e das enigmaticas, e symbolicas
-ferramentas, ous√£o clamar, que n√≥s os verdadeiros fieis, acreditando, e
-respeitando nossos santos, e adoraveis dogmas, n√£o fazemos de nossa
-natural raz√£o aquelle uso que podiamos, e que deviamos fazer. Que
-dando-nos a Natureza olhos para ver, desgra√ßada, e voluntariamente nos
-fazemos c√©gos; e que querendo ser humildes, e obsequiosos crentes, nos
-tornamos pessimos raciocinadores, que a nossa cren√ßa faz resvalar a
+das trÈvas nos subterraneos da cr·pula, e das enigmaticas, e symbolicas
+ferramentas, ous„o clamar, que nÛs os verdadeiros fieis, acreditando, e
+respeitando nossos santos, e adoraveis dogmas, n„o fazemos de nossa
+natural raz„o aquelle uso que podiamos, e que deviamos fazer. Que
+dando-nos a Natureza olhos para ver, desgraÁada, e voluntariamente nos
+fazemos cÈgos; e que querendo ser humildes, e obsequiosos crentes, nos
+tornamos pessimos raciocinadores, que a nossa crenÁa faz resvalar a
 dignidade do ente pensador para a classe do bruto, que deshonra a
-humanidade, sepulta, ou estraga o mais precioso talento que nos d√©ra o
+humanidade, sepulta, ou estraga o mais precioso talento que nos dÈra o
 Creador, que vergonhosamente nos classificamos abaixo dos animaes rudes,
-acima de cuja esf√©ra estavamos constituidos pelas faculdades
+acima de cuja esfÈra estavamos constituidos pelas faculdades
 intellectuaes. Eis-aqui o que eu mesmo escutei, o que eu mesmo soffri; e
 ouvindo discorrer tanto a estes livres pensadores, nunca pude arrancar
-de suas eloquentissimas linguas a causa, e o motivo desta t√£o
-filosofica accusa√ß√£o. Mas estas id√©as √¥ccas expostas em sesquipedais
-express√µes, que parecem destiladas pelo vagaroso, e enfatico intervallo
+de suas eloquentissimas linguas a causa, e o motivo desta t„o
+filosofica accusaÁ„o. Mas estas idÈas Ùccas expostas em sesquipedais
+expressıes, que parecem destiladas pelo vagaroso, e enfatico intervallo
 que ha entre huma, e outra, e apoiadas com os estrondosos nomes de
 Raynal, Voltaire, e Helvecio, e proferidas diante da juventude
-inconsiderada, ociosa, e irreflexiva, obrig√£o a se formar de n√≥s aquelle
+inconsiderada, ociosa, e irreflexiva, obrig„o a se formar de nÛs aquelle
 conceito, que se forma de hum rebanho de animaes brutos, e estupidos que
-se despenh√£o, e precipit√£o c√©gos por aquelles combros por onde v√™m
+se despenh„o, e precipit„o cÈgos por aquelles combros por onde vÍm
 arrojar-se o primeiro, ou por onde os chama o silvo de hum pastor, ou a
-sombra de huma vara. Aquelles que assim nos trat√£o, e insult√£o s√£o
+sombra de huma vara. Aquelles que assim nos trat„o, e insult„o s„o
 acclamados, e tidos em conta de espiritos pensadores, amigos do bom
-siso, e defensores da verdade, e at√© redemptores da oppressa raz√£o, que
-sabem magistralmente purgar-se a si, e aos outros de preoccupa√ß√µes
+siso, e defensores da verdade, e atÈ redemptores da oppressa raz„o, que
+sabem magistralmente purgar-se a si, e aos outros de preoccupaÁıes
 defendendo-os dos ataques da ignorancia, do fanatismo, e infantil
 credulidade.
 
-N√£o sei, Senhores, se podereis ter ouvido em paz, e sem se vos
-desprender o fogo da ira, e da indigna√ß√£o, coizas t√£o vis, e t√£o
+N„o sei, Senhores, se podereis ter ouvido em paz, e sem se vos
+desprender o fogo da ira, e da indignaÁ„o, coizas t„o vis, e t„o
 affrontosas; mas socegai, que talvez seja este o dia do triunfo mais
-illustre da nossa F√© contra o Filosofismo do Seculo XIX. Eu vos amo,
+illustre da nossa FÈ contra o Filosofismo do Seculo XIX. Eu vos amo,
 prezo, e respeito tanto como a verdade, e discorrerei de maneira que
-empenhe todas as for√ßas da raz√£o, e da eloquencia, e farei que t√£o
-escandalosas vilanias se n√£o dig√£o mais, ou se n√£o dig√£o impunemente aos
+empenhe todas as forÁas da raz„o, e da eloquencia, e farei que t„o
+escandalosas vilanias se n„o dig„o mais, ou se n„o dig„o impunemente aos
 verdadeiros fieis. Mas porque caminho dirigirei eu os passos do
-entendimento a esta baliza? Os apologistas da Religi√£o nada tem at√©
-agora omittido: s√£o conhecidos seus escriptos. Holland, e Valceschi
-respond√™r√£o a Mirabaud, Bergier a Freret, Abbadie, e Hautevile a
+entendimento a esta baliza? Os apologistas da Religi„o nada tem atÈ
+agora omittido: s„o conhecidos seus escriptos. Holland, e Valceschi
+respondÍr„o a Mirabaud, Bergier a Freret, Abbadie, e Hautevile a
 Wolaston. A Celso respondeo Origenes, a Juliano S. Cyrillo, a Profirio o
 maior de todos os Oradores, Nazianzeno: eu responderei a todos. Os
-modernos Incredulos n√£o s√£o mais que serviz, e miseraveis √©ccos destes
-antigos sofistas: e cr√™de que tem mais pezo, e for√ßa hum fragmento de
+modernos Incredulos n„o s„o mais que serviz, e miseraveis Èccos destes
+antigos sofistas: e crÍde que tem mais pezo, e forÁa hum fragmento de
 Profirio, ou de Celso, que toda a supposta, formidavel artilharia
 encyclopedista: e hum Occelo, e hum Timeo mais que o confusissimo
 systema da Natureza. Estando pois todas as varedas batidas, e todos os
-meios empregados, eu n√£o posso dizer-vos que seguirei hum caminho novo,
-seguirei o mais plano, obvio, e descoberto, e que possa ser pizado at√©
+meios empregados, eu n„o posso dizer-vos que seguirei hum caminho novo,
+seguirei o mais plano, obvio, e descoberto, e que possa ser pizado atÈ
 pelos entendimentos menos agudos, e penetrantes sem o afan de profundas
-especula√ß√µes. Eu confrontarei o uso ou emprego da raz√£o natural, que
-fazem os verdadeiros fieis com o uso, e emprego, que da mesma raz√£o
+especulaÁıes. Eu confrontarei o uso ou emprego da raz„o natural, que
+fazem os verdadeiros fieis com o uso, e emprego, que da mesma raz„o
 fazem os incredulos. Constituirei de huma parte estes estrondosissimos
-panegyristas, e redemptores da raz√£o, que segundo elles dizem, e
-assoalh√£o, lhes serve para ver, e conhecer todas as coizas sem ter
-necessidade da F√©, e que desprez√£o, ou regeit√£o magistralmente tudo o
-que ou n√£o comprehendem, ou n√£o v√™m com a mesma raz√£o. D'outra parte
-constituirei os verdadeiros crentes os mais rendidos, e sugeitos √°s suas
-decis√µes, e mais apartados do espirito de duvida: e comparando, ou
+panegyristas, e redemptores da raz„o, que segundo elles dizem, e
+assoalh„o, lhes serve para ver, e conhecer todas as coizas sem ter
+necessidade da FÈ, e que desprez„o, ou regeit„o magistralmente tudo o
+que ou n„o comprehendem, ou n„o vÍm com a mesma raz„o. D'outra parte
+constituirei os verdadeiros crentes os mais rendidos, e sugeitos ·s suas
+decisıes, e mais apartados do espirito de duvida: e comparando, ou
 confrontando hum com outro partido, fazendo entrar em fechado campo os
 humildes, e simplices crentes com os soberbissimos e eruditissimos
-Sofistas como v√≠ra o vale de Therebintho de huma parte hum Gigante, e
+Sofistas como vÌra o vale de Therebintho de huma parte hum Gigante, e
 d'outra parte num joven pastor, farei ver, e conhecer victoriosamente a
-qual dos dois convenha o braz√£o e o timbre de fazer uso, e o melhor uso
+qual dos dois convenha o braz„o e o timbre de fazer uso, e o melhor uso
 das faculdades intellectuaes, qual dos dois honre, ou qual avilte a
-raz√£o, e a humanidade, e qual dos dois mere√ßa a compaix√£o como enganado,
+raz„o, e a humanidade, e qual dos dois mereÁa a compaix„o como enganado,
 e obtuso, qual seja digno de louvor como atilado, e consequente.
 
-Conhe√ßo, Senhores, que a vantagem est√° da nossa parte, e que se
-tornar√° evidentissima com o meu Discurso, e tambem conhe√ßo que assim
-como os mysteriosos das vizagens, e dos signaes da esquadria se obstin√£o
+ConheÁo, Senhores, que a vantagem est· da nossa parte, e que se
+tornar· evidentissima com o meu Discurso, e tambem conheÁo que assim
+como os mysteriosos das vizagens, e dos signaes da esquadria se obstin„o
 em planos de profunda tactica e politica sublime para igualizar,
 republicanizar, domocratizar, e fraternizar o Mundo depois que elles
-mesmos, e n√£o outros, o encade√°r√£o aos p√©s do monstruoso despotismo de
+mesmos, e n„o outros, o encade·r„o aos pÈs do monstruoso despotismo de
 hum obscuro aventureiro, sem que se envergonhem nem do mesmo ridiculo de
-que est√£o cobertos; tambem para se vingarem da verdade que lhes d√©r nos
-olhos, se obstinar√£o ainda mais na impostura, e no engano. Se algum
+que est„o cobertos; tambem para se vingarem da verdade que lhes dÈr nos
+olhos, se obstinar„o ainda mais na impostura, e no engano. Se algum
 destes miseraveis existe no meio deste immenso auditorio, e se tem
-trazido para aqui o compasso para medir o que n√£o entende, esperando
+trazido para aqui o compasso para medir o que n„o entende, esperando
 escutar as frazes do neologismo de seus ridiculos periodicos, eu lhe
-pe√ßo, que se digne hum pouco de desfranzir as arqueadas filosoficas
-sobrancelhas, e ouvir por hum instante hum Christ√£o desapaixonadamente,
-e desenganar-se-ha, que s√≥ no seio do Christianismo, e no rega√ßo da
-F√© se acha o Orador sublime, o Filosofo profundo, e o homem da raz√£o, e
+peÁo, que se digne hum pouco de desfranzir as arqueadas filosoficas
+sobrancelhas, e ouvir por hum instante hum Christ„o desapaixonadamente,
+e desenganar-se-ha, que sÛ no seio do Christianismo, e no regaÁo da
+FÈ se acha o Orador sublime, o Filosofo profundo, e o homem da raz„o, e
 da verdade.
 
 
@@ -258,779 +258,779 @@ da verdade.
 DISCURSO.
 
 
-Dizem pois os mysteriosos censores, e n√£o tem j√°mais deixado de o
-repetir o mais insignificante folheto da escola tenebrosa, que n√≥s os
-Christ√£os nem fazemos, nem queremos fazer uso de nossa raz√£o natural;
-que quando se trata dos mysterios da Religi√£o, accreditamos, e
-emudecemos; que n√£o damos conta aos outros homens dos motivos da nossa
-f√©; que conservamos como encadeadas as faculdades racionaes, e
+Dizem pois os mysteriosos censores, e n„o tem j·mais deixado de o
+repetir o mais insignificante folheto da escola tenebrosa, que nÛs os
+Christ„os nem fazemos, nem queremos fazer uso de nossa raz„o natural;
+que quando se trata dos mysterios da Religi„o, accreditamos, e
+emudecemos; que n„o damos conta aos outros homens dos motivos da nossa
+fÈ; que conservamos como encadeadas as faculdades racionaes, e
 intellectuaes sem entrarmos no conhecimento analytico destes mesmos
 motivos. Tal he a primeira calumnia, que envolta em rebombantes
 periodos, sahio do famoso Club de Holbac, e havia de muitos annos antes
 apparecido no impio Livro _O Militar Filosofo_; tal he o primeiro
 improperio que vem na vanguarda dos impugnadores, e refutadores
-analyticos da verdade da Religi√£o Christ√£. Tal he o principio
-puerilmente rebatido at√© ao enj√¥o, em tantos livros de identica
-substancia, de identica doctrina, e at√© de titulos identicos, e que j√°
-desafi√£o a irris√£o do homem sisudo, vendo que aquellas c√©gas, e
-tenebrosas Toupeiras n√£o sabem mais que hum caminho subterraneo;
-_Systema da Natureza_; _Filosofia da Natureza_; _A Natureza_; _Religi√£o
+analyticos da verdade da Religi„o Christ„. Tal he o principio
+puerilmente rebatido atÈ ao enjÙo, em tantos livros de identica
+substancia, de identica doctrina, e atÈ de titulos identicos, e que j·
+desafi„o a irris„o do homem sisudo, vendo que aquellas cÈgas, e
+tenebrosas Toupeiras n„o sabem mais que hum caminho subterraneo;
+_Systema da Natureza_; _Filosofia da Natureza_; _A Natureza_; _Religi„o
 da Natureza_; _Codigo da Natureza_; _Moral da Natureza_. Tal he o grande
-achado com que se esmalt√£o os noventa e nove volumes do palavrosissimo
-Sofista de Fresney. A estes malevolos oraculos, em que n√£o cabe a
-sabedoria, eu poderia j√° dizer as mesmas palavras que o Martyr Luciano
-disse em Antiochia ao soberbo Proconsul: Sabe, que n√≥s os Christ√£os
-n√£o nos dirigimos, e levamos como tu julgas por huma indisputada, e
-paternal tradi√ß√£o como fazem os teus Filosofos. Deos he o Auctor da
-nossa cren√ßa, e Deos nos falla de Deos. (Euseb. Hist. Eccl. Liv. 9. c.
+achado com que se esmalt„o os noventa e nove volumes do palavrosissimo
+Sofista de Fresney. A estes malevolos oraculos, em que n„o cabe a
+sabedoria, eu poderia j· dizer as mesmas palavras que o Martyr Luciano
+disse em Antiochia ao soberbo Proconsul: Sabe, que nÛs os Christ„os
+n„o nos dirigimos, e levamos como tu julgas por huma indisputada, e
+paternal tradiÁ„o como fazem os teus Filosofos. Deos he o Auctor da
+nossa crenÁa, e Deos nos falla de Deos. (Euseb. Hist. Eccl. Liv. 9. c.
 6.) Isto poderia fazer emudecer os monstros, mas comecemos de mais longe.
 
-Sabei, ou n√£o o affecteis ignorar, que os primeiros annunciadores do
-Evangelho, tiver√£o √° frente dentro em Jerusalem os mesmos Hebreos
+Sabei, ou n„o o affecteis ignorar, que os primeiros annunciadores do
+Evangelho, tiver„o · frente dentro em Jerusalem os mesmos Hebreos
 incredulos, e pertinacissimos, e que a estes mesmos Hebreos se disse, e
-se provou, que o alimento da nova cren√ßa em o Christianismo era muito
-racionavel. Sabei, ou n√£o o affecteis ignorar, que o mesmo Apostolo, que
+se provou, que o alimento da nova crenÁa em o Christianismo era muito
+racionavel. Sabei, ou n„o o affecteis ignorar, que o mesmo Apostolo, que
 havia sido perseguidor, fallara ao Areopago de Athenas, e aos Filosofos
-de Roma, e que dissera, que o obsequio, que nosso entendimenio fazia √°
-F√©, era muito racionavel. Por ventura o Areopago de Athenas,
+de Roma, e que dissera, que o obsequio, que nosso entendimenio fazia ·
+FÈ, era muito racionavel. Por ventura o Areopago de Athenas,
 celebradissimo por sua sabedoria, e prudencia, e as Academias da
-douta Grecia, e soberbissima Roma er√£o ajuntamentos de gente escolhida,
-ou capaz de se deixar embair de admira√ß√£o pela doctrina de Paulo, e de
-abra√ßar sem escrupuloso exame, e sem huma muito filosofica discuss√£o os
-elevadissimos mysterios, que elle lhe propunha? Que injusti√ßa he esta
-dos fataes encyclopedistas, e seus adeptos, cujas ramifica√ß√µes se
-estendem tanto pelos domicilios da cr√°pula, e politica desta Capital!
+douta Grecia, e soberbissima Roma er„o ajuntamentos de gente escolhida,
+ou capaz de se deixar embair de admiraÁ„o pela doctrina de Paulo, e de
+abraÁar sem escrupuloso exame, e sem huma muito filosofica discuss„o os
+elevadissimos mysterios, que elle lhe propunha? Que injustiÁa he esta
+dos fataes encyclopedistas, e seus adeptos, cujas ramificaÁıes se
+estendem tanto pelos domicilios da cr·pula, e politica desta Capital!
 Porque alguns humildes idiotas, e medrosos dos astutos, e capciosos
 sofismas emudecem aos altisonantes nomes de Pitaval, e Raynal, ou dizem
-simplesmente que accredit√£o, fazer commum a todos, e at√© a mim, esta
+simplesmente que accredit„o, fazer commum a todos, e atÈ a mim, esta
 linguagem, constituindo de seu plenissimo poder ao som de altas punhadas
 nas marmoreas bancas huma enorme distancia, e huma irreconciliavel
 inimizade entre o discorrer, e o accreditar! E se eu vos fizer ver, oh
 malevolos, e incapazes da luz da verdadeira Filosofia, que nenhum dos
-Filosofos antigos, e modernos fez tanto uso da natural raz√£o em seus
-principios, e opini√µes, quanto faz em sua Religi√£o hum verdadeiro
-crente? E se pelo contrario eu vos mostrar com evidencia que n√£o existe
-hum individuo, que menos empregue a raz√£o, ou que a empregue mais
+Filosofos antigos, e modernos fez tanto uso da natural raz„o em seus
+principios, e opiniıes, quanto faz em sua Religi„o hum verdadeiro
+crente? E se pelo contrario eu vos mostrar com evidencia que n„o existe
+hum individuo, que menos empregue a raz„o, ou que a empregue mais
 despropositadamente que hum incredulo do estupido rebanho dos fortes
-pensadores? Eu j√° poderia cortar de hum golpe a grande quest√£o,
-constituindo-vos diante dos olhos a pueril differen√ßa dos innovadores em
-materias puramente Filosoficas, e perguntar-vos se he mais chegado √°
-raz√£o o systema de Taliamed, ou o de Delisle sobre a formac√£o do
-Universo, e produc√ß√£o das creaturas, se a cosmogonia de Mois√©s? Se he
-mais conforme aos dictames da raz√£o natural o systema de Buffon, que
+pensadores? Eu j· poderia cortar de hum golpe a grande quest„o,
+constituindo-vos diante dos olhos a pueril differenÁa dos innovadores em
+materias puramente Filosoficas, e perguntar-vos se he mais chegado ·
+raz„o o systema de Taliamed, ou o de Delisle sobre a formac„o do
+Universo, e producÁ„o das creaturas, se a cosmogonia de MoisÈs? Se he
+mais conforme aos dictames da raz„o natural o systema de Buffon, que
 pertende, que huma pancada dada por hum Cometa no corpo do Sol, das
-lascas que salt√°r√£o se fizer√£o todos os globos que em torno delle gir√£o
-com t√£o compassados, e Regulares movimentos, se a crea√ß√£o do mesmo
+lascas que salt·r„o se fizer„o todos os globos que em torno delle gir„o
+com t„o compassados, e Regulares movimentos, se a creaÁ„o do mesmo
 Sol, e dos astros pela voz de hum Deos Omnipotente como nos declara
-Moys√©s? Mas deixemos por agora esta confronta√ß√£o de objectos
+MoysÈs? Mas deixemos por agora esta confrontaÁ„o de objectos
 particulares para procedermos com methodo em materia de tanto momento, e
-consequencia; e conheceremos quaes sej√£o os c√©gos, e os inconsequentes.
+consequencia; e conheceremos quaes sej„o os cÈgos, e os inconsequentes.
 
-Eu me persuado que estes zelosissimos Apostolos da raz√£o n√£o s√£o t√£o
-encarni√ßados inimigos da cren√ßa Christ√£, que em odio da mesma cren√ßa
-queir√£o abolir, e exterminar de todo a mesma f√© humana; nem se poderia
+Eu me persuado que estes zelosissimos Apostolos da raz„o n„o s„o t„o
+encarniÁados inimigos da crenÁa Christ„, que em odio da mesma crenÁa
+queir„o abolir, e exterminar de todo a mesma fÈ humana; nem se poderia
 entrar em argumento com estes filosofantes, se negassem este primeiro, e
-evidente principio: e tambem me persuado, que se n√£o p√≥de imaginar num
+evidente principio: e tambem me persuado, que se n„o pÛde imaginar num
 homem nem mais irracionavel, nem mais infeliz do que aquelle, que
-vivesse com o firme presuposto de n√£o dar j√°mais credito a outro homem,
-que falle, ou escreva, salvo se sua escritura, e suas palavras n√£o forem
+vivesse com o firme presuposto de n„o dar j·mais credito a outro homem,
+que falle, ou escreva, salvo se sua escritura, e suas palavras n„o forem
 immediatamente apoiadas com o actual, e perenne testemunho dos
-sentidos. E se he bom uso, segundo lhes oi√ßo dizer, aquelle que se faz
-da raz√£o humana accreditando os homens que fall√£o, ou escrevem, julgo,
-que n√£o dir√£o, que he mao uso aquelle, que se faz da raz√£o accreditando
-a Deos. Eu creio, que este ser√° chamado por elles mesmos o uso mais
+sentidos. E se he bom uso, segundo lhes oiÁo dizer, aquelle que se faz
+da raz„o humana accreditando os homens que fall„o, ou escrevem, julgo,
+que n„o dir„o, que he mao uso aquelle, que se faz da raz„o accreditando
+a Deos. Eu creio, que este ser· chamado por elles mesmos o uso mais
 perfeito, mais excellente que se possa fazer da faculdade racional, pois
-v√™m, que assim discorr√™r√£o, e pratic√°r√£o n√£o os idiotas, e simplices
+vÍm, que assim discorrÍr„o, e pratic·r„o n„o os idiotas, e simplices
 crentes, mas hum Newton, hum Locke, e hum Pascal. Sim, dizem os
 mysteriosos, ou ridiculos iniciados, se esse Deos existe, e, se acaso
-existindo, esse Deos fallou... N√£o se d√™m tanta pressa, Senhores, eu sei
-que at√© esses limites chega toda a sua subterranea, tenebrosa, e
-escondida illumina√ß√£o. Trataremos ainda destes dois grandes objectos,
-por agora bastar√° ver, que se os pensadores fortes acredit√£o mais os
-homens que Deos, e se n√≥s acreditamos mais Deos, que os homens,
-temos da nossa parte huma incomparavel vantagem, e igual √°quella que
+existindo, esse Deos fallou... N„o se dÍm tanta pressa, Senhores, eu sei
+que atÈ esses limites chega toda a sua subterranea, tenebrosa, e
+escondida illuminaÁ„o. Trataremos ainda destes dois grandes objectos,
+por agora bastar· ver, que se os pensadores fortes acredit„o mais os
+homens que Deos, e se nÛs acreditamos mais Deos, que os homens,
+temos da nossa parte huma incomparavel vantagem, e igual ·quella que
 tem hum homem de bom siso sobre hum varrido mentecapto. Creio, que esta
 duvida dos mysterioros umbriferos sobre a demonstrada existencia de
-Deos, he huma especie de espantalho, que me tem querido p√¥r, pois o mais
-superlativo Veneravel, e o do mais empinado cabe√ßo do Libano, sabe muito
+Deos, he huma especie de espantalho, que me tem querido pÙr, pois o mais
+superlativo Veneravel, e o do mais empinado cabeÁo do Libano, sabe muito
 bem, que hum verdadeiro Atheismo depois de se haver sofisticado tanto,
 ao menos para o estabelecer como provavel, em os dois confusos volumes
-do inintelligivel Systema da Natureza, segundo a confiss√£o at√© do mesmo
+do inintelligivel Systema da Natureza, segundo a confiss„o atÈ do mesmo
 Vanini, e Spinosa, he hum verdadeiro delirio. He justo, que os Senhores
-politicos tenebrosos proced√£o, e argumentem de boa f√©, e que n√£o s√°i√£o
-de suas trincheiras, que s√£o as do Deismo, e n√£o as do Atheismo, e
-presuposta a verdade que elles absolutamente se n√£o atrevem a negar, que
-existe hum Deos, cujas provas _a priori_ at√© agora n√£o tentadas, eu
-produzirei bem depressa em hum Tratado particular, para consola√ß√£o
-da raz√£o humana; eu me n√£o devo obrigar agora a outra demonstra√ß√£o mais,
-que √° demonstra√ß√£o de ter fallado aos homens. E quantas vezes, e de
-quantas maneiras tem elle fallado destes dogmas, que n√≥s accreditamos, e
-desta Religi√£o, que s√≥s professamos? Por que meios t√£o maravilhosos, t√£o
-estupendos n√£o tem elle annunciado aos mortaes seus profundos mysterios,
+politicos tenebrosos proced„o, e argumentem de boa fÈ, e que n„o s·i„o
+de suas trincheiras, que s„o as do Deismo, e n„o as do Atheismo, e
+presuposta a verdade que elles absolutamente se n„o atrevem a negar, que
+existe hum Deos, cujas provas _a priori_ atÈ agora n„o tentadas, eu
+produzirei bem depressa em hum Tratado particular, para consolaÁ„o
+da raz„o humana; eu me n„o devo obrigar agora a outra demonstraÁ„o mais,
+que · demonstraÁ„o de ter fallado aos homens. E quantas vezes, e de
+quantas maneiras tem elle fallado destes dogmas, que nÛs accreditamos, e
+desta Religi„o, que sÛs professamos? Por que meios t„o maravilhosos, t„o
+estupendos n„o tem elle annunciado aos mortaes seus profundos mysterios,
 as Leis, e os Decretos de sua immortal vontade? Fallou primeiro muitos
-seculos antes pela lingua, e pela penna de alguns homens, que t√£o
-exactamente annunci√°r√£o, e descrev√™r√£o os futuros acontecimentos desta
-Religi√£o, e do seu Auctor, bem como os mais imparciaes, e fieis
-Historiografos descrevem os factos presentes, ou √° pouco acontecidos
+seculos antes pela lingua, e pela penna de alguns homens, que t„o
+exactamente annunci·r„o, e descrevÍr„o os futuros acontecimentos desta
+Religi„o, e do seu Auctor, bem como os mais imparciaes, e fieis
+Historiografos descrevem os factos presentes, ou · pouco acontecidos
 debaixo de seus mesmos olhos: e estes futuros acontecimentos
-pontualmente verificados, al√©m de seres contingentes, er√£o destituidos,
+pontualmente verificados, alÈm de seres contingentes, er„o destituidos,
 (conforme a capacidade do entendimento humano) de toda a apparencia,
 e probabilidade de se verificarem: oppostos a todos os raciocinios, a
 todas as conjecturas humanas, a todo o systema dos tempos em que se
-escrev√™r√£o; e al√©m disto repugnantes entre si, como s√£o repugnantes, e
+escrevÍr„o; e alÈm disto repugnantes entre si, como s„o repugnantes, e
 apparecem contradictorios em huma mesma personagem, em hum mesmo culto;
-pobreza, e grandeza; exalta√ß√£o, e ignominia; throno, e patibulo;
-desterros, e conquistas; estragos, e multiplica√ß√£o; persegui√ß√µes, e
+pobreza, e grandeza; exaltaÁ„o, e ignominia; throno, e patibulo;
+desterros, e conquistas; estragos, e multiplicaÁ„o; perseguiÁıes, e
 victorias. Fallou em segundo lugar, pela boca de seu mesmo Filho, pondo
-por elle fim evidentissimamente √° primeira allian√ßa, e juntamente ao
-Altar, ao Sacerdocio, e ao Principado de huma lei figurativa, e s√≥
-permanente antes da realidade: e dando principio nelle, e por elle √°
-nova allian√ßa, conductora de verdadeiras ben√ß√£os a todas as Na√ß√µes,
-conforme os clarissimos vaticinios de todos os Profetas. Fallou com √°
+por elle fim evidentissimamente · primeira allianÁa, e juntamente ao
+Altar, ao Sacerdocio, e ao Principado de huma lei figurativa, e sÛ
+permanente antes da realidade: e dando principio nelle, e por elle ·
+nova allianÁa, conductora de verdadeiras benÁ„os a todas as NaÁıes,
+conforme os clarissimos vaticinios de todos os Profetas. Fallou com ·
 voz de huma grande parte do Mundo, que passou rapidissimamente do
-culto id√≥latra, que era a Religi√£o dominante, e quasi universal √° cren√ßa
-Christ√£; dos encantadores deleites √° temperan√ßa Evangelica; das soberbas
-riquezas √° desprezivel pobreza; do ambicioso commando √° humilde
-sugei√ß√£o, bastando doze homens simplices, e ignorados para fazerem esta
-moral revolu√ß√£o por toda a parte do immenso Imperio Romano. Fallou com a
-voz de huma grande multid√£o de homens literatos do Gentilismo, que
-conhecendo, sentindo, e admirando a santidade desta Religi√£o, e a
-sublimidade destas doctrinas, julg√°r√£o huma rematada loucura sua antiga
-sapiencia, e se torn√°r√£o como hum Justino, de Filosofos Pag√£os em
+culto idÛlatra, que era a Religi„o dominante, e quasi universal · crenÁa
+Christ„; dos encantadores deleites · temperanÁa Evangelica; das soberbas
+riquezas · desprezivel pobreza; do ambicioso commando · humilde
+sugeiÁ„o, bastando doze homens simplices, e ignorados para fazerem esta
+moral revoluÁ„o por toda a parte do immenso Imperio Romano. Fallou com a
+voz de huma grande multid„o de homens literatos do Gentilismo, que
+conhecendo, sentindo, e admirando a santidade desta Religi„o, e a
+sublimidade destas doctrinas, julg·r„o huma rematada loucura sua antiga
+sapiencia, e se torn·r„o como hum Justino, de Filosofos Pag„os em
 Theologos, e Mestres do Christianismo. Fallou finalmente com o sangue de
 hum numero portentoso de Martyres, cuja constancia acompanhada sempre de
-hum silencioso, e pacifico soffrimento excede todas as for√ßas da humana
+hum silencioso, e pacifico soffrimento excede todas as forÁas da humana
 natureza, nem cabe nos confins da humana Filosofia.
 
-Agora eu vos pergunto, √≥ espiritos incredulos, √≥ mysteriosos pensadores,
-grandes columnas dos Liceos centraes, e dos Printaneos universaes, √≥
-eruditos profundos em Monitor, e mais nada; √≥ estupidos sequazes do
+Agora eu vos pergunto, Û espiritos incredulos, Û mysteriosos pensadores,
+grandes columnas dos Liceos centraes, e dos Printaneos universaes, Û
+eruditos profundos em Monitor, e mais nada; Û estupidos sequazes do
 Filosofismo Wandalico, e revolucionario, quem vos tem fallado, quem vos
-tem feito pensar, e cr√™r cousas contrarias aos principios, e dictames
-desta minha f√©, na qual se observa, e se escuta manifestamente a palavra
-de hum Deos, que fallou aos homens? N√≥s somos iguaes nisto s√≥: _Eu
-creio, v√≥s accreditais_. Por√©m n√≥s somos differentes nos motivos, nos
-auctores, nos testemunhos, eu, da minha cren√ßa, v√≥s da vossa
-incredulidade, e futilissimas duvidas. Dizei-me pois, quem sej√£o
-aquelles que vos tem fallado de viva voz, ou por escripura? Ah! v√≥s vos
+tem feito pensar, e crÍr cousas contrarias aos principios, e dictames
+desta minha fÈ, na qual se observa, e se escuta manifestamente a palavra
+de hum Deos, que fallou aos homens? NÛs somos iguaes nisto sÛ: _Eu
+creio, vÛs accreditais_. PorÈm nÛs somos differentes nos motivos, nos
+auctores, nos testemunhos, eu, da minha crenÁa, vÛs da vossa
+incredulidade, e futilissimas duvidas. Dizei-me pois, quem sej„o
+aquelles que vos tem fallado de viva voz, ou por escripura? Ah! vÛs vos
 correis, e envergonhais de os nomear! Tambem eu me envergonho, e corro
-de proferir seu nome, para que n√£o julgue, ou se n√£o persuada algum
+de proferir seu nome, para que n„o julgue, ou se n„o persuada algum
 idiota dos doirados crapulosos domicilios de Lisboa, que eu me digne
-de instituir huma confronta√ß√£o entre os vossos mestres de F√©, e os meus.
+de instituir huma confrontaÁ„o entre os vossos mestres de FÈ, e os meus.
 Seria fazer o mais injurioso parallelo nomear Freret, Boulanger,
 Diderot, e d'Alembert, e depois os mais sublimes Profetas, e os Santos,
-e doutissimos Mestres do Christianismo, ainda no seu ber√ßo, como hum
+e doutissimos Mestres do Christianismo, ainda no seu berÁo, como hum
 Origenes, hum Athanazio, hum Tertuliano, e hum sublimissimo Nazianzeno.
-Direi s√≥mente em geral, que estes Corif√©os, Enciclopedistas, e Oraculos
-do Filosofismo s√£o crentes de propria inven√ß√£o, e mestres de proprio
+Direi sÛmente em geral, que estes CorifÈos, Enciclopedistas, e Oraculos
+do Filosofismo s„o crentes de propria invenÁ„o, e mestres de proprio
 moto, trepados em pestilenciaes cadeiras, mestres sempre fluctuantes,
 sempre incertos, sempre discordantes entre si, sempre contradictorios
 comsigo mesmo como hum Jaques, que em huma pagina exalta o Evangelho
-como huma produc√£o divina, e logo n'outra pagina o deprime como num
-parto da simplicidade, e do Fanatismo: mestres, que se da sua cren√ßa ou
+como huma produc„o divina, e logo n'outra pagina o deprime como num
+parto da simplicidade, e do Fanatismo: mestres, que se da sua crenÁa ou
 de seus sofismaticos escritos dependesse o mais pequeno, e o mais
 insignificante negocio domestico de seus discipulos, ou alguma de suas
 terrenas vantagens, ou fico que a todos os de sua escola pareceria summa
 imprudencia fazer-se incredulos sobre a sua honrada, e scientifica palavra.
 
-Mas n√£o he este o lugar para esta discuss√£o, he tempo sim de confrontar
-uso de raz√£o com uso de raz√£o, o uso que eu fa√ßo com o uso que v√≥s
-fazeis, ou vos considerei como discipulos, ou vos assoalheis como irm√£os
+Mas n„o he este o lugar para esta discuss„o, he tempo sim de confrontar
+uso de raz„o com uso de raz„o, o uso que eu faÁo com o uso que vÛs
+fazeis, ou vos considerei como discipulos, ou vos assoalheis como irm„os
 terriveis, e veneraveis: e se esta disputa terminar em desvantagem
-vossa, sereis obrigados a confessar racionavel a minha f√©, depois que
-tantas vezes a tendes escarnecido, e me tendes provocado, e at√©
-reprehendido como rebelde ao bom sizo, como desprovido de raz√£o, e at√©
-ingrato √° humanidade. E porque? Oi√ß√£o este porque os Povos mais
-selvagens, e incultos da terra, e dig√£o sen√£o he nova at√© entre
+vossa, sereis obrigados a confessar racionavel a minha fÈ, depois que
+tantas vezes a tendes escarnecido, e me tendes provocado, e atÈ
+reprehendido como rebelde ao bom sizo, como desprovido de raz„o, e atÈ
+ingrato · humanidade. E porque? OiÁ„o este porque os Povos mais
+selvagens, e incultos da terra, e dig„o sen„o he nova atÈ entre
 elles tanta extravagancia, e tanta brutalidade! Porque a despeito de
 hum arbitrario fabricador de systemas, de hum arguto, e sagaz
 filosofante, de hum fantastico pensador, tenho dado credito, e o dou ao
-Supremo Ser, √° Suprema, e primeira verdade, que fallou em todos os
+Supremo Ser, · Suprema, e primeira verdade, que fallou em todos os
 Seculos, que fallou em todas as lingoas, que fallou em sua propria
 pessoa, ensinando-nos por si mesmo dogmas unidos, e ligados entre si com
-hum la√ßo maravilhoso, e, se nem todos s√£o accessiveis ao entendimento
-humano, s√£o todos conformes aos dictames da recta, e natural raz√£o.
+hum laÁo maravilhoso, e, se nem todos s„o accessiveis ao entendimento
+humano, s„o todos conformes aos dictames da recta, e natural raz„o.
 
-O que acabo de dizer, que a minha f√©, e a minha cren√ßa tem alguns
+O que acabo de dizer, que a minha fÈ, e a minha crenÁa tem alguns
 artigos que parecem inacessiveis ao entendimento, humano desabafa alguma
-cousa meus implacaveis accusadores da consterna√ß√£o, e aperto em que os
-lan√ßou a primeira parte da indicada confronta√ß√£o: porque, se he verdade,
-dizem elles, como eu confesso, que a Religi√£o tem alguns dogmas n√£o
-perceptiveis ao entendimento humano, eis-aqui porque eu Christ√£o, a
-respeito dos mysterios da F√©, sou obrigado a renunciar o lume da raz√£o
-natural: em quanto n√≥s... Em quanto v√≥s, oh! Pitavais, oh! Rainais! sois
-obrigados a renunciar o lume da raz√£o natural a respeito dos mysterios
+cousa meus implacaveis accusadores da consternaÁ„o, e aperto em que os
+lanÁou a primeira parte da indicada confrontaÁ„o: porque, se he verdade,
+dizem elles, como eu confesso, que a Religi„o tem alguns dogmas n„o
+perceptiveis ao entendimento humano, eis-aqui porque eu Christ„o, a
+respeito dos mysterios da FÈ, sou obrigado a renunciar o lume da raz„o
+natural: em quanto nÛs... Em quanto vÛs, oh! Pitavais, oh! Rainais! sois
+obrigados a renunciar o lume da raz„o natural a respeito dos mysterios
 da Natureza. Esta minha resposta assim vibrada, talvez seja pouco
 sucosa, e muito restricta, he preciso que eu a exponha com mais
-perspicuidade, e extens√£o.
+perspicuidade, e extens„o.
 
-Assim como he hum indispensavel dever do homem pensar segundo a raz√£o
+Assim como he hum indispensavel dever do homem pensar segundo a raz„o
 natural, tambem he hum dever indispensavel do mesmo homem conhecer os
-confins, ou as balizas que a Natureza constituio a esta raz√£o; e ainda
-que exacta, e precisamente se n√£o poss√£o determinar quaes sej√£o estas
-balizas, conhece-se com tudo que existem muito √° quem das cousas
-invesiveis, e imateriaes. E que conta se d√° a si mesma esta t√£o
-orgulhosa raz√£o das cousas corporeas hum pouco superiores, ou
-distantes dos nossos sentidos? Que conta se d√° daquellas mesmas cousas
-que temos entre as m√£os, e que com o olho armado de lentes subtilissimas
-examinamos todos os dias? Que raz√£o n√≥s damos do movimento de hum
+confins, ou as balizas que a Natureza constituio a esta raz„o; e ainda
+que exacta, e precisamente se n„o poss„o determinar quaes sej„o estas
+balizas, conhece-se com tudo que existem muito · quem das cousas
+invesiveis, e imateriaes. E que conta se d· a si mesma esta t„o
+orgulhosa raz„o das cousas corporeas hum pouco superiores, ou
+distantes dos nossos sentidos? Que conta se d· daquellas mesmas cousas
+que temos entre as m„os, e que com o olho armado de lentes subtilissimas
+examinamos todos os dias? Que raz„o nÛs damos do movimento de hum
 insecto, da sobida de huma lavareda, da tendencia de huma pedra para o
-centro da gravidade, da respira√ß√£o de hum animal, do fenomeno regular do
+centro da gravidade, da respiraÁ„o de hum animal, do fenomeno regular do
 fluxo, e do refluxo, da causa immediata do magnetismo, dos espantosos
 effeitos da electricidade, das fases da lua, da marcha excentrica, e
-irregular de hum Cometa, do movimento de hum Planeta, da sua accelera√ß√£o
-na raz√£o inversa do quadrado da distancia ao centro da revolu√ß√£o? E quem
-seria t√£o desasisado que em lugar de confessar limitada a sua raz√£o,
-negasse pertinazmente a existencia destes objectos porque os n√£o
+irregular de hum Cometa, do movimento de hum Planeta, da sua acceleraÁ„o
+na raz„o inversa do quadrado da distancia ao centro da revoluÁ„o? E quem
+seria t„o desasisado que em lugar de confessar limitada a sua raz„o,
+negasse pertinazmente a existencia destes objectos porque os n„o
 comprehende? Que conceito formariamos daquelle profundo pensador, que
-porque os n√£o entendia os julgasse, e reputasse a todos outras
-tantas imagina√ß√µes sem fundamento, ou outras tantas illus√µes da
-fantazia, e dos sentidos? N√£o se dir√° de hum menino, que tocasse apenas
-o septimo anno de sua idade, que n√£o usa da sua raz√£o, e que injuria a
-Natureza que lha communicou, porque sen√£o levanta com o entendimento a
+porque os n„o entendia os julgasse, e reputasse a todos outras
+tantas imaginaÁıes sem fundamento, ou outras tantas illusıes da
+fantazia, e dos sentidos? N„o se dir· de hum menino, que tocasse apenas
+o septimo anno de sua idade, que n„o usa da sua raz„o, e que injuria a
+Natureza que lha communicou, porque sen„o levanta com o entendimento a
 especular os mysterios, e a resolver os problemas da mais recondita
 Filosofia? Dir-se-ha com verdade, que considerando a molleza de suas
-fibras, e a immaturidade de seus org√£os, estes pensamentos altos, e
-estas profundas especula√ß√µes n√£o s√£o ainda para elle, e que muito faz,
+fibras, e a immaturidade de seus org„os, estes pensamentos altos, e
+estas profundas especulaÁıes n„o s„o ainda para elle, e que muito faz,
 attendida a sua idade, se se adianta hum pouco em o material
-conhecimento das letras, e em huma superficial combina√ß√£o das syllabas.
-E se este menino por n√£o poder penetrar, e conceber sciencias maiores
-que estes seus primeiros rudimentos da leitura, negasse que existi√£o
+conhecimento das letras, e em huma superficial combinaÁ„o das syllabas.
+E se este menino por n„o poder penetrar, e conceber sciencias maiores
+que estes seus primeiros rudimentos da leitura, negasse que existi„o
 mais sciencias, e mais reconditos conhecimentos das causas, e dos
-effeitos, todos se riri√£o, e lhe n√£o dari√£o o nome de louco em atten√ß√£o
-√° sua muito tenra, e delicada idade. Direis que eu discorro com clareza,
-mas he porque se trata de huma raz√£o tenra, e novi√ßa, mas que o
-argumento n√£o tem for√ßa onde se trata de huma raz√£o perfeita, e chegada
-√° sua devida maturidade. Seja embora a raz√£o madura, e perfeita,
-dizei-me p√≥de ella acaso transgredir seus naturaes limites? P√≥de acaso
-deixar de ser raz√£o anuviada do sentido material, e c√©ga para todos os
-objectos que n√£o forem corporeos? E n√£o s√£o pr√≥vas desta verdade alguns
-incredulos escarnecido por v√≥s mesmos, por terem a affirmado como
+effeitos, todos se riri„o, e lhe n„o dari„o o nome de louco em attenÁ„o
+· sua muito tenra, e delicada idade. Direis que eu discorro com clareza,
+mas he porque se trata de huma raz„o tenra, e noviÁa, mas que o
+argumento n„o tem forÁa onde se trata de huma raz„o perfeita, e chegada
+· sua devida maturidade. Seja embora a raz„o madura, e perfeita,
+dizei-me pÛde ella acaso transgredir seus naturaes limites? PÛde acaso
+deixar de ser raz„o anuviada do sentido material, e cÈga para todos os
+objectos que n„o forem corporeos? E n„o s„o prÛvas desta verdade alguns
+incredulos escarnecido por vÛs mesmos, por terem a affirmado como
 Mirabaud, que nada mais existe em o Universo, que corpo, e materia: ou
 por haverem affirmado que esta materia he Deos, que esta materia he a
 Providencia, que esta materia he aquella immaterial substancia, Arbitro
 supremo, e separado da Natureza, que eu, simples, temo, e adoro como
 hum ser infinito, de ordem superior, e todo espiritual? Lembrai-vos, que
-he identico o vosso caso, e o do tenro menino, que porque n√£o tem
-entendimento capaz de formar id√©as mais sublimes, cuida que toda a
+he identico o vosso caso, e o do tenro menino, que porque n„o tem
+entendimento capaz de formar idÈas mais sublimes, cuida que toda a
 sciencia humana consista em saber contar hum pouco melhor, e em combinar
 com mais facilidade algumas syllabas materiaes.
 
 Torno outra vez ao campo com as empunhadas armas do parallelo, e vos
-pe√ßo, que me digais se acaso seja honrar a humanidade, ou pizalla, e
+peÁo, que me digais se acaso seja honrar a humanidade, ou pizalla, e
 desprezalla furiosamente depois de ter com mil provas conhecido a
-limitada capacidade da raz√£o, at√© no conhecimento, e analyse das cousas
-sensiveis, que s√£o de sua immediata jurisdic√ß√£o, atrribuir-lhe tanto
-dominio, e dar-lhe huma vista t√£o aguda, e penetrante, que nem das
-cousas invesiveis, nem da Natureza Divina, nem das Divinas opera√ß√µes, se
-n√£o deva acreditar, nem mais, nem menos, sen√£o aquillo que a mesma
-raz√£o p√≥de comprehender, e isto com tanta seguran√ßa ensinado pelos
-Veneraveis aos adeptos dos primeiros gr√°os, ou dos primeiros momos, ou
-visagens, que quem pensar d'outra maneira se deva logo constituir √°
-carga cerrada na classe dos brutos animaes, desprovidos de raz√£o, e de
-conhecimento. E he isto conhecer, como he de obrigac√£o de todo o mortal
+limitada capacidade da raz„o, atÈ no conhecimento, e analyse das cousas
+sensiveis, que s„o de sua immediata jurisdicÁ„o, atrribuir-lhe tanto
+dominio, e dar-lhe huma vista t„o aguda, e penetrante, que nem das
+cousas invesiveis, nem da Natureza Divina, nem das Divinas operaÁıes, se
+n„o deva acreditar, nem mais, nem menos, sen„o aquillo que a mesma
+raz„o pÛde comprehender, e isto com tanta seguranÁa ensinado pelos
+Veneraveis aos adeptos dos primeiros gr·os, ou dos primeiros momos, ou
+visagens, que quem pensar d'outra maneira se deva logo constituir ·
+carga cerrada na classe dos brutos animaes, desprovidos de raz„o, e de
+conhecimento. E he isto conhecer, como he de obrigac„o de todo o mortal
 raciocinante, os limites do entendimento humano, e do humano discurso?
-Em que direis v√≥s que estes Veneraveis, ridiculamente mitrados,
+Em que direis vÛs que estes Veneraveis, ridiculamente mitrados,
 annunciando enfaticos o ramo d'Acacia, e que a carne deixa os ossos, se
-distinguem de hum insensato, que com azas posti√ßas presuma levantar o
-v√¥o, e girar em torno das orbitas dos Planetas?
+distinguem de hum insensato, que com azas postiÁas presuma levantar o
+vÙo, e girar em torno das orbitas dos Planetas?
 
-Por√©m os crentes n√£o fech√£o voluntariamente os olhos da raz√£o? N√£o se
-immergem voluntariamente nas tr√©vas da F√©? V√≥s aqui dissimulais com
+PorÈm os crentes n„o fech„o voluntariamente os olhos da raz„o? N„o se
+immergem voluntariamente nas trÈvas da FÈ? VÛs aqui dissimulais com
 vossa costumada perfidia, e malicia ter visto a clara luz que eu vos
-mostrei na manifesta palavra de Deos, a cujo clar√£o inextinguivel
-n√≥s caminh√¢mos, e confundis com hum de vossos ordinarios sofismas as
-tr√©vas do entendimento com as tr√©vas da raz√£o: mas eu vos farei bem
-depressa conhecer quaes sej√£o, e a quem perten√ß√£o as primeiras, quaes
-sej√£o, e a quem perten√ß√£o as segundas. Tr√©vas de entendimento s√£o
-aquellas de que se v√™ rodeado nosso espirito, quando, por mais que
-investigue, e procure descortinar certos arcanos da Religi√£o, n√£o chega
+mostrei na manifesta palavra de Deos, a cujo clar„o inextinguivel
+nÛs caminh‚mos, e confundis com hum de vossos ordinarios sofismas as
+trÈvas do entendimento com as trÈvas da raz„o: mas eu vos farei bem
+depressa conhecer quaes sej„o, e a quem pertenÁ„o as primeiras, quaes
+sej„o, e a quem pertenÁ„o as segundas. TrÈvas de entendimento s„o
+aquellas de que se vÍ rodeado nosso espirito, quando, por mais que
+investigue, e procure descortinar certos arcanos da Religi„o, n„o chega
 a conhecer, nem o seu modo, nem o seu fim, nem a sua causa: eis aqui
-aquelle abysmo insondavel √° vista do qual bradava o Apostolo--_oh
-altitudo_! Mas isto s√£o tr√©vas necessarias a que podemos chamar sagradas
-sombras, em quanto se deriv√£o, e se derram√£o da incomprehensivel
-Natureza do Ser Divino, e das Divinas opera√ß√µes, e por isto s√£o tr√©vas
-universaes para todos os entendimentos creados, s√£o tr√©vas para mim, e
-para os profundos pensadores; s√£o sombras minhas, e sombras vossas
-por mais que vos chameis illuminados, nem s√£o mais dos Egypcios, que dos
+aquelle abysmo insondavel · vista do qual bradava o Apostolo--_oh
+altitudo_! Mas isto s„o trÈvas necessarias a que podemos chamar sagradas
+sombras, em quanto se deriv„o, e se derram„o da incomprehensivel
+Natureza do Ser Divino, e das Divinas operaÁıes, e por isto s„o trÈvas
+universaes para todos os entendimentos creados, s„o trÈvas para mim, e
+para os profundos pensadores; s„o sombras minhas, e sombras vossas
+por mais que vos chameis illuminados, nem s„o mais dos Egypcios, que dos
 Hebreos, nem mais dos Gregos, que dos Romanos, nem mais dos incredulos,
-que dos infieis, ou dos idolatras. Por√©m quando, ou por hum estranho
-orgulho n√£o se queir√£o nem conhecer, nem confessar estas tr√©vas, ou
-conhecendo-as, e confessando-as se fech√£o os olhos √° luz da divina
-palavra, que torna firme a nossa f√© no meio destas mesmas sombras, ent√£o
-as tr√©vas que er√£o s√≥ do entendimento pass√£o para a raz√£o, e se torn√£o
+que dos infieis, ou dos idolatras. PorÈm quando, ou por hum estranho
+orgulho n„o se queir„o nem conhecer, nem confessar estas trÈvas, ou
+conhecendo-as, e confessando-as se fech„o os olhos · luz da divina
+palavra, que torna firme a nossa fÈ no meio destas mesmas sombras, ent„o
+as trÈvas que er„o sÛ do entendimento pass„o para a raz„o, e se torn„o
 trevas voluntarias, e por isso trevas culpaveis, trevas deshonrosas,
 trevas de homem, que por ser pertinacissimo, renuncia os dictames da
-recta raz√£o, e desce, e se faz semelhante aos mesmos brutos.
+recta raz„o, e desce, e se faz semelhante aos mesmos brutos.
 
-Eu me mag√¥o, e penalizo, oh espiritos incredulos, devendo dizer-vos que
-esta t√£o tenebrosa, e aviltada raz√£o, he pontualmente a vossa, a
-tanto mais me penalizo quando mais conhe√ßo que v√≥s quereis ser homens
-pensadores f√≥ra do uso commum, e da vulgar esfera. Mas talvez que vos
+Eu me magÙo, e penalizo, oh espiritos incredulos, devendo dizer-vos que
+esta t„o tenebrosa, e aviltada raz„o, he pontualmente a vossa, a
+tanto mais me penalizo quando mais conheÁo que vÛs quereis ser homens
+pensadores fÛra do uso commum, e da vulgar esfera. Mas talvez que vos
 lembre alguma resposta, que vos livre ao menos em parte desta vergonhosa
 infamia. Pensai, estudai, meditai, consultai os vossos mais meditabundos
-Veneraveis, l√™-de, e rel√™-de vossos amados livros, o vosso Tindal, o
+Veneraveis, lÍ-de, e relÍ-de vossos amados livros, o vosso Tindal, o
 vosso Collins, o vosso Bolimbrocke, o vosso prezadissimo Oraculo de
-Fresney, v√™-de se nesse erario de paralogismos podeis achar algum
-argumento, alguma palavra que vos possa destruir o vergonhoso lab√©o de
-serdes em materias de F√© homens desprovidos de raz√£o. Eu mesmo, n√£o
-posso encontrar, por mais que subtilize, huma s√≥ vereda por onde vos
-possaes escapar. V√≥s me concedesteis j√°, n√£o o podeis negar, que existe
-Deos, v√≥s tambem me deveis conceder que elle haja revelado aos homens o
+Fresney, vÍ-de se nesse erario de paralogismos podeis achar algum
+argumento, alguma palavra que vos possa destruir o vergonhoso labÈo de
+serdes em materias de FÈ homens desprovidos de raz„o. Eu mesmo, n„o
+posso encontrar, por mais que subtilize, huma sÛ vereda por onde vos
+possaes escapar. VÛs me concedesteis j·, n„o o podeis negar, que existe
+Deos, vÛs tambem me deveis conceder que elle haja revelado aos homens o
 culto com que quiz ser adorado pelos mesmos homens, que o revelou, e
 manifestou de huma maneira descoberra, e sensivel, milagrosa em cada
 huma de suas circumstancias que este culto, para ser digno delle, devia
-conter verdades superiores √° esfera do humano entendimento, e que de
-outro lado este humano entendimento he t√£o pouco penetrante, que n√£o
-p√≥de presumir sem loucura que conhece, e entende todas as verdades
-fysicas, e naturaes. E porque estes Dogmas da F√© se envolvem em
-magestosas sombras, e sagrada obscuridade, v√≥s recusaes acredita-los sem
-que se vos torne evidente sua possibilidade, ordem, e economia; e n√≥s os
-fieis que os acredit√¢mos sem t√£o filosoficas delicadezas somos tratados
-por v√≥s, profundissimos pensadores, e accreditadores das verdades, do
+conter verdades superiores · esfera do humano entendimento, e que de
+outro lado este humano entendimento he t„o pouco penetrante, que n„o
+pÛde presumir sem loucura que conhece, e entende todas as verdades
+fysicas, e naturaes. E porque estes Dogmas da FÈ se envolvem em
+magestosas sombras, e sagrada obscuridade, vÛs recusaes acredita-los sem
+que se vos torne evidente sua possibilidade, ordem, e economia; e nÛs os
+fieis que os acredit‚mos sem t„o filosoficas delicadezas somos tratados
+por vÛs, profundissimos pensadores, e accreditadores das verdades, do
 Monitor, de estupidos inimigos do bom siso, e de pessimos raciocinantes.
 
-N√≥s, continu√£o os Veneraveis a clamar, n√£o dizemos que v√≥s sois pessimos
-racionantes, dizemos s√≥mente que conservaes em estupido ocio a
-raz√£o, e o discurso. Isto he huma retirada que eu n√£o podia esperar, mas
-esta mesma retirada n√£o os salva de serem seguidos, e feridos com as
-armas da raz√£o. Dizem pois, que eu por ser crente, sou constrangido a
+NÛs, continu„o os Veneraveis a clamar, n„o dizemos que vÛs sois pessimos
+racionantes, dizemos sÛmente que conservaes em estupido ocio a
+raz„o, e o discurso. Isto he huma retirada que eu n„o podia esperar, mas
+esta mesma retirada n„o os salva de serem seguidos, e feridos com as
+armas da raz„o. Dizem pois, que eu por ser crente, sou constrangido a
 conservar em ocio vituperoso o discurso humano, sepultando o maior
-talento, ou dom da Natureza, que he o lume da raz√£o. Grande Deos! E era
-de esperar isto de homens que tem olhos para ver, e raz√£o para
+talento, ou dom da Natureza, que he o lume da raz„o. Grande Deos! E era
+de esperar isto de homens que tem olhos para ver, e raz„o para
 discorrer! E era de esperar huma semelhante impostura? Entrai oh
 incredulos, em alguma daquellas respeitavel Bibliothecas conservadoras,
-e depositarias da sapiencia Christ√£, e alongai a vista para o
-assombroso, e surprendente n√∫mero daquelles volumes cheios de
-amplissimas provas da verdade da Religi√£o Evangelica, e para que n√£o
-digaes que constituo ante vossos olhos alguma Legenda cr√©dula, algum
-Mistico a que chamais Visionario, l√™-de unicamente Grocio, e Locke ambos
+e depositarias da sapiencia Christ„, e alongai a vista para o
+assombroso, e surprendente n˙mero daquelles volumes cheios de
+amplissimas provas da verdade da Religi„o Evangelica, e para que n„o
+digaes que constituo ante vossos olhos alguma Legenda crÈdula, algum
+Mistico a que chamais Visionario, lÍ-de unicamente Grocio, e Locke ambos
 defensores, ambos demonstradores da verdade do Christianismo, e de
-seus augustos Dogmas. Aqui achareis demonstra√ß√µes luminosissimas, e
-levadas at√© a evidencia; os quaes os mais pertinazes das vossas
-nocturnas, e tenebrosas escolas n√£o se atrev√™r√£o ainda a responder, e os
-mais atrevidos n√£o tiver√£o ainda outra resposta que dar mais do que
+seus augustos Dogmas. Aqui achareis demonstraÁıes luminosissimas, e
+levadas atÈ a evidencia; os quaes os mais pertinazes das vossas
+nocturnas, e tenebrosas escolas n„o se atrevÍr„o ainda a responder, e os
+mais atrevidos n„o tiver„o ainda outra resposta que dar mais do que
 vilipendios, e motejos plebeos: e quando tem querido dar resposta, como
-serios argumentantes, n√£o tem feito mais que opp√¥r √°s provas daquelles
-dois profundos Filosofos, fabulosas rela√ß√µes, Padres suppostos,
-Escrituras falsificadas, Authores suspeitos, e desacreditados, e se v√≥s
-chamais √°s provas do Christianismo fructos do ocio Christ√£o, que
-chamarei eu a taes objec√ß√µes, fructos da vossa pensadora incredulidade?
+serios argumentantes, n„o tem feito mais que oppÙr ·s provas daquelles
+dois profundos Filosofos, fabulosas relaÁıes, Padres suppostos,
+Escrituras falsificadas, Authores suspeitos, e desacreditados, e se vÛs
+chamais ·s provas do Christianismo fructos do ocio Christ„o, que
+chamarei eu a taes objecÁıes, fructos da vossa pensadora incredulidade?
 A respeito pois da Essencia Divina, da sua immensidade, da sua
 immutabilidade, da sua eternidade, que tem imaginado de grande, e que
 descobrimento tem feito os vossos profundos pensadores, e os maiores
-oraculos do maior Oriente, para que se n√£o creia em nossos pensadores
-Christ√£os? Tudo quanto disser√£o sobre a Natureza Divina os Socrates, os
-Plat√µes, os Democritos, os Zenos, e outros Mestres pelo muito uso que
-fizer√£o da raz√£o natural dignos de fama, e de memoria, he apenas hum
+oraculos do maior Oriente, para que se n„o creia em nossos pensadores
+Christ„os? Tudo quanto disser„o sobre a Natureza Divina os Socrates, os
+Platıes, os Democritos, os Zenos, e outros Mestres pelo muito uso que
+fizer„o da raz„o natural dignos de fama, e de memoria, he apenas hum
 balbuciamento de tenros meninos a respeito do que ensina o menos
-profundo dos Theologos Christ√£os, e o mais superficial, e insignificante
-dos nossos livros. A causa de t√£o grande differen√ßa entre uso de raz√£o,
-e uso de raz√£o, se vos dignaes escutalla o mesmo Evangelho a est√°
+profundo dos Theologos Christ„os, e o mais superficial, e insignificante
+dos nossos livros. A causa de t„o grande differenÁa entre uso de raz„o,
+e uso de raz„o, se vos dignaes escutalla o mesmo Evangelho a est·
 declarando. De differente maneira edifica aquelle que escolhe para o
 edificio hum terreno compacto, e pedregoso, do que edifica aquelle, que
-escolhe hum terreno movedi√ßo, e solto; o primeiro n√£o tem medo de
+escolhe hum terreno movediÁo, e solto; o primeiro n„o tem medo de
 levantar alto da terra o edificio que constroe, em quanto o segundo,
-attendida a natureza do terreno, se v√™ obrigado a conservar muito
-baixo o edificio, nem p√µe huma pedra sobre outra pedra sem receio de que
-crescendo o pezo cahia tudo confuso, e despeda√ßado sobre o infiel
+attendida a natureza do terreno, se vÍ obrigado a conservar muito
+baixo o edificio, nem pıe huma pedra sobre outra pedra sem receio de que
+crescendo o pezo cahia tudo confuso, e despedaÁado sobre o infiel
 terreno. De similhante maneira acontece a hum entendimento, que tem
-fundamentado suas decis√µes sobre o firmissimo alicerce da sua F√©. Sobre
-estas bases se p√≥de levantar com a raz√£o, at√© ao solio do Immortal, para
-investigar a Essencia Divina, e as Divinas perfei√ß√µes sem erro, e
+fundamentado suas decisıes sobre o firmissimo alicerce da sua FÈ. Sobre
+estas bases se pÛde levantar com a raz„o, atÈ ao solio do Immortal, para
+investigar a Essencia Divina, e as Divinas perfeiÁıes sem erro, e
 conhecer sem perigo cousas remotas, e distantes do entendimento humano.
 Pelo contrario os incredulos, e os Veneraveis que tanto me tem taxado de
-embecilidade, sem o fundamento da F√©, por pouco que se queir√£o levantar
-com a raz√£o, devem sempre temer huma confusa ruina de caprichosos
-fantasmas, e vergonhosas contradic√ß√µes.
+embecilidade, sem o fundamento da FÈ, por pouco que se queir„o levantar
+com a raz„o, devem sempre temer huma confusa ruina de caprichosos
+fantasmas, e vergonhosas contradicÁıes.
 
-Ainda com o impeto, e for√ßa desta evidencia n√£o emudecem os
+Ainda com o impeto, e forÁa desta evidencia n„o emudecem os
 pertinacissimos impugnadores, ou refutadores analyticos: que ha que
 dizer (erguem elles animosamente a voz) que ha que dizer a estas
-nossas livres fantazias, √°s quaes se d√° o odioso nome de caprichosas!
-Por ventura, n√£o s√£o elas hum amplo patrimonio, hum direito innato do
-espirito humano? Custa-vos acaso, que n√≥s os pensadores recusando cr√™r,
+nossas livres fantazias, ·s quaes se d· o odioso nome de caprichosas!
+Por ventura, n„o s„o elas hum amplo patrimonio, hum direito innato do
+espirito humano? Custa-vos acaso, que nÛs os pensadores recusando crÍr,
 nos conservemos na posse daquella liberdade de pensar que a Natureza nos
-deo, e que tanto tem dilatado os nossos Veneraveis, e da qual t√£o
-injustamente nos despoja a F√©? Ah! Illusos fraternizadores, e
-niveladores! E porque n√£o dizeis, que tambem a Filosofia despoja o
-entendimento humano da liberdade de pensar? Quantos v√¥os de engenho he
-preciso refrear, quantos systemas he preciso regeitar, quantas inven√ß√µes
-he preciso sacrificar, √°s leis daquella, que segundo o vario gosto dos
-Seculos se chama boa, e razoavel Fysica? Vos que accusaes a F√© de ligar
-o entendimento, e de o condemnar a huma individa servid√£o, porque n√£o
+deo, e que tanto tem dilatado os nossos Veneraveis, e da qual t„o
+injustamente nos despoja a FÈ? Ah! Illusos fraternizadores, e
+niveladores! E porque n„o dizeis, que tambem a Filosofia despoja o
+entendimento humano da liberdade de pensar? Quantos vÙos de engenho he
+preciso refrear, quantos systemas he preciso regeitar, quantas invenÁıes
+he preciso sacrificar, ·s leis daquella, que segundo o vario gosto dos
+Seculos se chama boa, e razoavel Fysica? Vos que accusaes a FÈ de ligar
+o entendimento, e de o condemnar a huma individa servid„o, porque n„o
 accusaes tambem as Sciencias, que todas tem seus principios, suas
-regras, seus confins, que da mesma sorte que pratica a F√©, p√µem hum
+regras, seus confins, que da mesma sorte que pratica a FÈ, pıem hum
 freio, e prescrevem leis ao licencioso entendimento?
 
-Com effeito, ou se considerem as sciencias, ou se considere a F√©, ou
-isto em v√≥s he huma grosseira impostura, ou huma equivoca√ß√£o pueril,
-porque esta liberdade de pensar de que dizeis vos despoja a F√©, v√≥s por
+Com effeito, ou se considerem as sciencias, ou se considere a FÈ, ou
+isto em vÛs he huma grosseira impostura, ou huma equivocaÁ„o pueril,
+porque esta liberdade de pensar de que dizeis vos despoja a FÈ, vÛs por
 certo a julgais, e a entendeis huma liberdade sabia, digna de hum homem
-racional, e n√£o huma liberdade de fernetico, ou de hum sonhador
+racional, e n„o huma liberdade de fernetico, ou de hum sonhador
 febricitante. Ora dizei-me em que vos violenta, ou vos constrange esta
-F√©, cuja prepotencia v√≥s tanto exageraes? Ella vos obriga a dizer que
-existe Deos, e esta existencia j√° est√° demonstrada pela raz√£o natural.
-Ella vos obriga a confessar que este Deos existente fall√°ra aos homens,
+FÈ, cuja prepotencia vÛs tanto exageraes? Ella vos obriga a dizer que
+existe Deos, e esta existencia j· est· demonstrada pela raz„o natural.
+Ella vos obriga a confessar que este Deos existente fall·ra aos homens,
 e he evidente que elle fallou pelo exactissimo complemento dos
 vatecinios. Ella vos obriga a confessar, que as palavras deste Deos
-s√£o infaliveis, e he inegavel que n√£o podem deixar de ser infalliveis
-pois s√£o de hum Deos que encerra em si todas as perfei√ß√µes. F√≥ra disto
-eu n√£o posso, nem he possivel descobrir cousa em que se constranja, ou
-tyrannize, como v√≥s dizeis, a vossa liberdade; salvo se vos queixaes de
-perder aquella liberdade que quereis ter de ajuntar contradic√ß√µes, de
+s„o infaliveis, e he inegavel que n„o podem deixar de ser infalliveis
+pois s„o de hum Deos que encerra em si todas as perfeiÁıes. FÛra disto
+eu n„o posso, nem he possivel descobrir cousa em que se constranja, ou
+tyrannize, como vÛs dizeis, a vossa liberdade; salvo se vos queixaes de
+perder aquella liberdade que quereis ter de ajuntar contradicÁıes, de
 engrazar impossiveis, e de dar ao Mundo (como tendes feito em tantos
-Livros ineptos quantos ha desde o Militar Filosofo, at√© √°s pr√≥vas do
-Mahometismo, ultima produc√ß√£o de Holbac,) quimericas imagina√ß√µes por
+Livros ineptos quantos ha desde o Militar Filosofo, atÈ ·s prÛvas do
+Mahometismo, ultima producÁ„o de Holbac,) quimericas imaginaÁıes por
 verdades demonstradas. Se quereis permanecer neste estado como vos
 prescreve o Codigo de Weishaupt, o de loucos varridos ainda he mais
 vantajoso.
 
-E, √° vista disto, que estrepito se n√£o tem feito, e se n√£o continua
+E, · vista disto, que estrepito se n„o tem feito, e se n„o continua
 ainda a fazer pelos subterraneos, que tremem da Policia vigilante, que
 os faz ir republicanizar, e igualizar em masmorras, sobre a
-miseravel escravid√£o do humano entendimento, e sobre o tyrannico
-imperio, que a F√©, segundo elles clam√£o, tem usurpado sobre a raz√£o
-natural? Que queixas eu n√£o tenho ouvido fazer sobre os pequenos
+miseravel escravid„o do humano entendimento, e sobre o tyrannico
+imperio, que a FÈ, segundo elles clam„o, tem usurpado sobre a raz„o
+natural? Que queixas eu n„o tenho ouvido fazer sobre os pequenos
 progressos que tem feito no Mundo, depois da entrada do Christianismo a
-profana Litteratura? Que compaix√£o n√£o fingem ter dos engenhos
-catholicos, que tendo azas com que poderi√£o sobir acima das nuvens, se
-curv√£o, e encolhem ao jugo da cren√ßa, abatendo os v√¥os, e andando quasi
-de rojo pela terra? Mas se se quizer examinar, ou v√™r s√≥mente que cousa
-seja este remontar-se sobre as nuvens, achar-se-ha que n√£o he outra
-cousa mais que arrancar do entendimento (√° for√ßa de pensar livremente) o
+profana Litteratura? Que compaix„o n„o fingem ter dos engenhos
+catholicos, que tendo azas com que poderi„o sobir acima das nuvens, se
+curv„o, e encolhem ao jugo da crenÁa, abatendo os vÙos, e andando quasi
+de rojo pela terra? Mas se se quizer examinar, ou vÍr sÛmente que cousa
+seja este remontar-se sobre as nuvens, achar-se-ha que n„o he outra
+cousa mais que arrancar do entendimento (· forÁa de pensar livremente) o
 innato conceito da honestidade, o innato horror do vicio, fazer das
-ac√ß√µes justas, e das ac√ß√µes injustas huma inven√ß√£o do interesse, ou
-apenas huma das ceremonias da vida civ√≠l, e da conducta politica;
-collocar, e estabelecer na for√ßa maior hum justo direito de roubar, e de
-matar seus similhantes; tirar das m√£os aos Principes, e aos Dominantes a
-espada punidora de suas escandalosas maldades; e fundar toda obriga√ß√£o
-que tem os homens de honrar, e obedecer a Deos, n√£o em seu infinito
+acÁıes justas, e das acÁıes injustas huma invenÁ„o do interesse, ou
+apenas huma das ceremonias da vida civÌl, e da conducta politica;
+collocar, e estabelecer na forÁa maior hum justo direito de roubar, e de
+matar seus similhantes; tirar das m„os aos Principes, e aos Dominantes a
+espada punidora de suas escandalosas maldades; e fundar toda obrigaÁ„o
+que tem os homens de honrar, e obedecer a Deos, n„o em seu infinito
 merecimento, e em seu supremo dominio, mas unicamente em seu
 irresistivel poder. Eis-aqui, dizem elles, hum pensar livre, nobre,
-generoso, honrado, sublime, e n√£o pensar com humildade, e sugei√ß√£o de
-escravos, como fazem os Christ√£os. Eis-aqui o que se chama despregar
-soltamente as azas do entendimento, desferir com magestade os v√¥os como
+generoso, honrado, sublime, e n„o pensar com humildade, e sugeiÁ„o de
+escravos, como fazem os Christ„os. Eis-aqui o que se chama despregar
+soltamente as azas do entendimento, desferir com magestade os vÙos como
 nos ensina o nosso Mestre Veissauph, e todos os nossos Cavalheiros do
-Libano, eis-aqui o que escutamos aos nossos Veneraveis, quando descal√ß√£o
-as formidaveis, e tremendas luvas para nos fazerem v√™r a luz em o ultimo
-dos nossos gr√°os, que vem a ser, ensinar-nos em Methafysica o
+Libano, eis-aqui o que escutamos aos nossos Veneraveis, quando descalÁ„o
+as formidaveis, e tremendas luvas para nos fazerem vÍr a luz em o ultimo
+dos nossos gr·os, que vem a ser, ensinar-nos em Methafysica o
 Pantheismo, e em Moral, a Igualdade acephala, e anarquica. Eis-aqui o
-que se chama entranhar-se no conhecimento da verdade, e n√£o querer a
-vida, se n√£o para a empregar na indaga√ß√£o da verdade, sem levar sempre
-ao lado o c√©go, e molestissimo pedagogo da cren√ßa sobrenatural. Eis-aqui
-o que nos inculcou, e o que n√≥s estudamos nos mais que sobrehumanos
-escritos do nosso Cidad√£o Genebrino.
+que se chama entranhar-se no conhecimento da verdade, e n„o querer a
+vida, se n„o para a empregar na indagaÁ„o da verdade, sem levar sempre
+ao lado o cÈgo, e molestissimo pedagogo da crenÁa sobrenatural. Eis-aqui
+o que nos inculcou, e o que nÛs estudamos nos mais que sobrehumanos
+escritos do nosso Cidad„o Genebrino.
 
-√Å vista disto, Senhores, eu creio, que ainda quando a F√© vo-lo n√£o
-vedasse, v√≥s n√£o quererieis huma similhante liberdade de pensar, s√≥ para
-manter o dec√¥ro da vossa raz√£o, e para n√£o mostrar ao Mundo que
+¡ vista disto, Senhores, eu creio, que ainda quando a FÈ vo-lo n„o
+vedasse, vÛs n„o quererieis huma similhante liberdade de pensar, sÛ para
+manter o decÙro da vossa raz„o, e para n„o mostrar ao Mundo que
 constituis na extravagancia, e na loucura a gloria d'espirito forte, e
-pensador profundo. Resta pois que os valentes pensadores bat√£o outro
-caminho que lhes possa lembrar, porque as veredas at√© agora tentadas os
-n√£o tem conduzido, nem podem conduzir √° sua t√£o v√£mente preconizada
-victoria. Mas elles s√£o de fecundo engenho, e fertil de estratagemas
-na guerra anti-christ√£; acolhem-se √° sua ultima trincheira, conforme a
-tactica do guerreiro, ou campi√£o de Genebra, que he a dos milagres que
-n√≥s acreditamos como simplices, fundando nelles hum dos motivos da
-credibilidade da F√©. Milagres, que elles como sabios, e profundos
-pensadores desprez√£o, ou orgulhosamente desconhecem. Mas he preciso
-antes que venhamos √°s m√£os, que os meus inimigos mostrem boa f√© em o seu
-ataque, e que se n√£o tornem como costum√£o pessimos pensadores,
-escrevendo, e divulgando, n√£o sem motejos, e improperios, que n√≥s os
-fieis somos cr√©dulos em tudo aquillo que se nos offerece prodigioso com
+pensador profundo. Resta pois que os valentes pensadores bat„o outro
+caminho que lhes possa lembrar, porque as veredas atÈ agora tentadas os
+n„o tem conduzido, nem podem conduzir · sua t„o v„mente preconizada
+victoria. Mas elles s„o de fecundo engenho, e fertil de estratagemas
+na guerra anti-christ„; acolhem-se · sua ultima trincheira, conforme a
+tactica do guerreiro, ou campi„o de Genebra, que he a dos milagres que
+nÛs acreditamos como simplices, fundando nelles hum dos motivos da
+credibilidade da FÈ. Milagres, que elles como sabios, e profundos
+pensadores desprez„o, ou orgulhosamente desconhecem. Mas he preciso
+antes que venhamos ·s m„os, que os meus inimigos mostrem boa fÈ em o seu
+ataque, e que se n„o tornem como costum„o pessimos pensadores,
+escrevendo, e divulgando, n„o sem motejos, e improperios, que nÛs os
+fieis somos crÈdulos em tudo aquillo que se nos offerece prodigioso com
 tanto, que encerre em si alguma cousa de devoto, e de mistico. Mas eu os
-considero t√£o amestrados na Ecclesiastica Historia, que n√£o ignor√£o oue
-os tempos de huma t√£o abusiva, e facil credulidade, ou n√£o exist√≠r√£o na
-Igreja, ou se existir√£o em algum Seculo de decadencia, e domina√ß√£o
-Gotica comprehend√™r√£o em si hum pequeno numero de pessoas idiotas, e
-vulgares, frac√ß√µes infinitezimas em o todo dos illustrados Christ√£os:
-elles n√£o ignor√£o que a derramada luz da severa critica, da sagrada
-Hermeneutica, e das profundas indaga√ß√µes litterarias tem at√© destruido,
-e acabado a sua memoria. Al√©m de que, esta cren√ßa dos milagres,
-exceptuando aquelles que est√£o registrados nas Santas Escrituras, n√£o he
-entre n√≥s cren√ßa divina, nem absoluta, nem sempre igual; he sim huma
-cren√ßa medida sempre pelo maior, ou menor valor da authoridade em que se
-firma. E √° vista disto, quem p√≥de taixar de aviltamento da raz√£o o uso
-que n√≥s fazemos do bom siso, a respeito dos acontecimentos milagrosos?
+considero t„o amestrados na Ecclesiastica Historia, que n„o ignor„o oue
+os tempos de huma t„o abusiva, e facil credulidade, ou n„o existÌr„o na
+Igreja, ou se existir„o em algum Seculo de decadencia, e dominaÁ„o
+Gotica comprehendÍr„o em si hum pequeno numero de pessoas idiotas, e
+vulgares, fracÁıes infinitezimas em o todo dos illustrados Christ„os:
+elles n„o ignor„o que a derramada luz da severa critica, da sagrada
+Hermeneutica, e das profundas indagaÁıes litterarias tem atÈ destruido,
+e acabado a sua memoria. AlÈm de que, esta crenÁa dos milagres,
+exceptuando aquelles que est„o registrados nas Santas Escrituras, n„o he
+entre nÛs crenÁa divina, nem absoluta, nem sempre igual; he sim huma
+crenÁa medida sempre pelo maior, ou menor valor da authoridade em que se
+firma. E · vista disto, quem pÛde taixar de aviltamento da raz„o o uso
+que nÛs fazemos do bom siso, a respeito dos acontecimentos milagrosos?
 Tem por ventura a Natureza ensinado aos homens outra regra de dar
-credito, ou de o negar √°s mais estranhas, e inexperadas aventuras, mais
+credito, ou de o negar ·s mais estranhas, e inexperadas aventuras, mais
 que a qualidade, e o numero daquelles, que nos referem, e
-testemunh√£o extraordinarios acontecimentos? Dir√£o por acaso que usa
-rectamente de sua raz√£o aquelle, que porque hum facto he milagroso,
-conta em nada a authoridade, a multid√£o, o caracter, as luzes das suas
-testemunhas oculares! Usa bem da raz√£o, quem reputa ignorantes os homens
+testemunh„o extraordinarios acontecimentos? Dir„o por acaso que usa
+rectamente de sua raz„o aquelle, que porque hum facto he milagroso,
+conta em nada a authoridade, a multid„o, o caracter, as luzes das suas
+testemunhas oculares! Usa bem da raz„o, quem reputa ignorantes os homens
 mais doutos, os mais agudos, e penetrantes por insensatos, os mais
 prudentes por superficiaes, e os mais santos, e virtuosos por
-impostores?... Mas se os milagres s√£o impossiveis, como he possivel que
-se acreditem? Tambem a vossa raz√£o vos diz que os milagres s√£o
+impostores?... Mas se os milagres s„o impossiveis, como he possivel que
+se acreditem? Tambem a vossa raz„o vos diz que os milagres s„o
 impossiveis? Oh entendimentos felizes! E podesteis desde as vossas
 tenebrosas, e nocturnas cavernas do mysterio, e das vizagens, sobir aos
-ceos, e tomar huma exacta medida das for√ßas da Divindade, e,
-considerando, ou a subita vista de hum c√©go, ou a ressurrei√ß√£o de hum
-morto dicidir magistralmente, que n√£o chega a tanto o infinito poder
-do absoluto Arbitro da Natureza? Eu na verdade, n√£o tenho medido palmo a
-palmo como v√≥s fizesteis esta Divina Omnipotencia: todavia, parece cousa
-f√≥ra de raz√£o, que quem imp√¥z as leis √° Natureza, se haja elle mesmo
+ceos, e tomar huma exacta medida das forÁas da Divindade, e,
+considerando, ou a subita vista de hum cÈgo, ou a ressurreiÁ„o de hum
+morto dicidir magistralmente, que n„o chega a tanto o infinito poder
+do absoluto Arbitro da Natureza? Eu na verdade, n„o tenho medido palmo a
+palmo como vÛs fizesteis esta Divina Omnipotencia: todavia, parece cousa
+fÛra de raz„o, que quem impÙz as leis · Natureza, se haja elle mesmo
 feito escravo destas leis, com manifesta injuria de sua essencial,
-absoluta, e dispotica domina√ß√£o. Mas se he preciso, oh grandes, oh
+absoluta, e dispotica dominaÁ„o. Mas se he preciso, oh grandes, oh
 profundos pensadores, tirar a Deos o poder absoluto de operar milagres,
-e considerar, e ter quantos se cont√£o, ou de Moys√©s, ou dos Profetas, ou
-os de J. C. por outras tantas fabulosas inven√ß√µes, ent√£o he preciso
+e considerar, e ter quantos se cont„o, ou de MoysÈs, ou dos Profetas, ou
+os de J. C. por outras tantas fabulosas invenÁıes, ent„o he preciso
 tambem negar todas as historias profanas, nenhuma das quaes tem por si a
-centesima parte daquellas pr√≥vas, que tornam autentica, e indubitavel a
+centesima parte daquellas prÛvas, que tornam autentica, e indubitavel a
 Historia Divina.
 
-Eu j√° come√ßo, de sentir algum tedio, em rebater huma calumnia que talvez
-fosse ferir em reverbera√ß√£o com nula ignominia, que fructo, os
-escarnecedores, e motejadores da cren√ßa Christ√£. E agora que penso
-socegadamente me doe de n√£o ter nesta contesta√ß√£o usado antes da do√ßura,
+Eu j· comeÁo, de sentir algum tedio, em rebater huma calumnia que talvez
+fosse ferir em reverberaÁ„o com nula ignominia, que fructo, os
+escarnecedores, e motejadores da crenÁa Christ„. E agora que penso
+socegadamente me doe de n„o ter nesta contestaÁ„o usado antes da doÁura,
 que do rigor, para attrahir os incredulos: mas eu lhes supplico que se
-persuad√£o que este calor, e esta aspereza, que tem respirado o meu
-Discurso, n√£o he culpa minha, mas se he licito dizello assim, he culpa
+persuad„o que este calor, e esta aspereza, que tem respirado o meu
+Discurso, n„o he culpa minha, mas se he licito dizello assim, he culpa
 da verdade. Esta verdade he branda de sua natureza, suave, e tranquilla,
-mas quando se v√™ impugnada, e atacada com audacia, e com injusti√ßa,
+mas quando se vÍ impugnada, e atacada com audacia, e com injustiÁa,
 accende-se, inflamma-se em nobre ira, muda o sereno aspecto em
 carregado, e severo, veste-se de todas as armas, e toma huma lingoagem,
 ou tom, que faz sentir, a quem a ultraja, todo o seu incontrastavel
-valor. Com toda esta indigna√ß√£o pois, que he mais indigna√ß√£o da verdade,
-que indigna√ß√£o minha, crei√£o que o meu cora√ß√£o os n√£o p√≥de escusar,
+valor. Com toda esta indignaÁ„o pois, que he mais indignaÁ„o da verdade,
+que indignaÁ„o minha, crei„o que o meu coraÁ„o os n„o pÛde escusar,
 ainda que deseje encontrar motivos de se Compadecer. Infelizes! Vivem em
-hum Mundo, e frequent√£o sociedades onde os serios, e verdadeiros
-pensadores, n√£o s√£o mui aplaudidos: de outro lado elles querem
+hum Mundo, e frequent„o sociedades onde os serios, e verdadeiros
+pensadores, n„o s„o mui aplaudidos: de outro lado elles querem
 sobresahir ao vulgo, e parecer homens, ainda entre os doutos, d'hum
-pensar profundo. As materias de Religi√£o lisonge√£o, ainda mais que as
+pensar profundo. As materias de Religi„o lisonge„o, ainda mais que as
 outras, seus menos regulados costumes, o pouco trabalho de huma
-superficial, e desatenta leitura os surte de breves senten√ßas, ou
-triviaes apothegmas, capazes de nutrirem a sua intere√ßada incredulidade,
-e de excitar a admira√ß√£o dos idiotas. Entre estes apothegmas, eis-aqui o
-principal. Que a faculdade racional, he superflua nos Christ√£os, os
-quaes devem crer, e n√£o discorrer, porque se discorressem, talvez n√£o
+superficial, e desatenta leitura os surte de breves sentenÁas, ou
+triviaes apothegmas, capazes de nutrirem a sua intereÁada incredulidade,
+e de excitar a admiraÁ„o dos idiotas. Entre estes apothegmas, eis-aqui o
+principal. Que a faculdade racional, he superflua nos Christ„os, os
+quaes devem crer, e n„o discorrer, porque se discorressem, talvez n„o
 acreditassem. Mas o paralello, que fiz do nosso discorrer, com o
-discorrer dos incredulos, n√£o ter√° dissipado todo o seu engano? P√©zem os
-principios de que fazemos partir, n√≥s a nossa cren√ßa, elles a sua
-incredulidade, e tenh√£o, n√£o digo vergonha de si, e de sua
-scientifica soberba, mas tenh√£o d√≥ da sua alma, que Deos pelos caminhos
-da raz√£o tinha conduzido ao rega√ßo da F√©. Confessem que se obstin√£o a
-pensar brutalmente, por huma soberbissima nauzea de pensar Christ√£mente.
-Que lhes fez J. C. para o n√£o quererem acreditar como Mestre de huma
-doutrina celestial? Para que martyris√£o perpetuamente seu espirito, e
+discorrer dos incredulos, n„o ter· dissipado todo o seu engano? PÈzem os
+principios de que fazemos partir, nÛs a nossa crenÁa, elles a sua
+incredulidade, e tenh„o, n„o digo vergonha de si, e de sua
+scientifica soberba, mas tenh„o dÛ da sua alma, que Deos pelos caminhos
+da raz„o tinha conduzido ao regaÁo da FÈ. Confessem que se obstin„o a
+pensar brutalmente, por huma soberbissima nauzea de pensar Christ„mente.
+Que lhes fez J. C. para o n„o quererem acreditar como Mestre de huma
+doutrina celestial? Para que martyris„o perpetuamente seu espirito, e
 sua consciencia, contrastando a evidente santidade de seus Dogmas, a
-evidencia das Profecias que o annunci√£o, a evidencia dos factos que o
-comprov√£o, a evidencia dos milagres que o demonstr√£o? Basta.
+evidencia das Profecias que o annunci„o, a evidencia dos factos que o
+comprov„o, a evidencia dos milagres que o demonstr„o? Basta.
 
 Juliano Apostata tinha sempre na boca a inraciocinabilidade que os
-incredulos nos opp√µem, e dizia que em n√≥s Christ√£os, tudo era crer.
-Por√©m o immortal Orador Nazianzeno lhe disse, e o confundio desta
-maneira (Orat. 1.¬™ Cont. Julianum) Podes tu, que tanto admiras, e amas
-tanto as Seitas Gentilicas, reprehender-nos a n√≥s que fazemos esta
-honra, ou mais depressa esta justi√ßa ao nosso Divino Mestre, e √°
+incredulos nos oppıem, e dizia que em nÛs Christ„os, tudo era crer.
+PorÈm o immortal Orador Nazianzeno lhe disse, e o confundio desta
+maneira (Orat. 1.™ Cont. Julianum) Podes tu, que tanto admiras, e amas
+tanto as Seitas Gentilicas, reprehender-nos a nÛs que fazemos esta
+honra, ou mais depressa esta justiÁa ao nosso Divino Mestre, e ·
 sublimidade excellentissima, e inimitavel de seus dictames? Os teus
-amados Pytagoricos n√£o tem por huma lei fundamental da sua escola,
-dever-se eximir das mais difficultosas quest√µes que se lhes proponh√£o
-com aquelle seu decantado--Ipse dixit!--E n√≥s porque n√£o damos outra
-raz√£o de nossos mysterios, mais que os ditos de hum Legislador conhecido
-com mil pr√≥vas por Divino, e infalivel, somos chamados por ti automatos
+amados Pytagoricos n„o tem por huma lei fundamental da sua escola,
+dever-se eximir das mais difficultosas questıes que se lhes proponh„o
+com aquelle seu decantado--Ipse dixit!--E nÛs porque n„o damos outra
+raz„o de nossos mysterios, mais que os ditos de hum Legislador conhecido
+com mil prÛvas por Divino, e infalivel, somos chamados por ti automatos
 insensatos, ou animaes sem entendimento?
 
-Esta he huma parte do t√£o gabado discurso dos incredulos desta idade,
-declarar-nos r√©os de aviltada, e desprezada raz√£o, porque nos apoiamos
-em huma manifesta authoridade suprema: por√©m elles n√£o tem na boca a
+Esta he huma parte do t„o gabado discurso dos incredulos desta idade,
+declarar-nos rÈos de aviltada, e desprezada raz„o, porque nos apoiamos
+em huma manifesta authoridade suprema: porÈm elles n„o tem na boca a
 toda a ora, mais que certos nomes, que, ou a audacia tem feito famosos,
-ou tornou c√©lebres: a habilidade de vestir √° moderna, e com estilo
-moderno as blasfemias antigas; como por exemplo--n√£o he de crer que hum
-Deos, que he todo bondade, e misericordia haja de condemnar hum t√£o
-grande numero de creaturas, que vivem f√≥ra da sua Igreja--(E porque as
-n√£o ha de poder condemnar, achando que a sua infidelidade he culpavel!)
-Mas n√£o se busquem tantos _porques_. Disse-o hum Sofista de Par√≠s, ou de
+ou tornou cÈlebres: a habilidade de vestir · moderna, e com estilo
+moderno as blasfemias antigas; como por exemplo--n„o he de crer que hum
+Deos, que he todo bondade, e misericordia haja de condemnar hum t„o
+grande numero de creaturas, que vivem fÛra da sua Igreja--(E porque as
+n„o ha de poder condemnar, achando que a sua infidelidade he culpavel!)
+Mas n„o se busquem tantos _porques_. Disse-o hum Sofista de ParÌs, ou de
 Genebra. _Ipse dixit_. Este Sofista he hum homem que tem em linha igual
 a momentanea lascivia, e a continencia Evangelica. He hum homem cujos
-incendiarios escritos for√£o lan√ßados nas chamas pelos Decretos dos
+incendiarios escritos for„o lanÁados nas chamas pelos Decretos dos
 Tribunaes seculares, e vive em toda a terra infamado, e infame pela sua
-manifesta impiedade. _Ipse dixit_. He hum Tolland que diz que n√£o ha lei
-que obrigue os homens a seguir a Religi√£o revelada; e que seria Deos
+manifesta impiedade. _Ipse dixit_. He hum Tolland que diz que n„o ha lei
+que obrigue os homens a seguir a Religi„o revelada; e que seria Deos
 injusto se houvesse promulgado tal lei. E este Tolland arrastra-se em
-Londres de huma priz√£o para outra priz√£o, e morre foragido em o
+Londres de huma priz„o para outra priz„o, e morre foragido em o
 frio, e nebuloso inferno de Holanda; _Ipse dixit_. Este he o mestre
 alegado, acreditado, e seguido. Seja embora condemnado, e proscripto
-pelos Magistrados civ√≠s, he mestre _Ipse dixit_.
+pelos Magistrados civÌs, he mestre _Ipse dixit_.
 
-P√≥de haver maior incoherencia; maior injusti√ßa, que lan√ßar-nos em rosto
-a n√≥s o _ipse dixit_ de huma Authoridade Soberana, sustentada com tanta
+PÛde haver maior incoherencia; maior injustiÁa, que lanÁar-nos em rosto
+a nÛs o _ipse dixit_ de huma Authoridade Soberana, sustentada com tanta
 evidencia, e conservar para si, e querer que valha o _ipse dixit_
 vacilante, e humano, e pronunciado por homens sem costumes, sem leis,
 sem patria, sem outra authoridade mais que a dos atavios ridiculos da
-Confraria das tr√©vas, e dos subterraneos?
+Confraria das trÈvas, e dos subterraneos?
 
 Destruamos finalmente o ultimo sofisma destas almas malevolas, ou
-dissolvamos o ultimo la√ßo de huma fraudolenta equivoca√ß√£o com que
-pertendem tapar os olhos aos simplices. N√≥s acreditamos os Mysterios, he
-verdade: a respeito dos Mysterios acreditados, tudo nos Christ√£os he
-crer, mas a respeito dos motivos de acreditar, tudo em os Christ√£os he
-v√™r. Tudo he crer, a respeito dos Mysterios, porque estes sendo remotos
-dos sentidos, e superiores √° raz√£o humana, s√≥ podem ser objectos da
-cren√ßa: mas tudo he v√™r a respeito dos motivos da cren√ßa, porque as
-provas da revela√ß√£o destes Mysterios s√£o tantas, e t√£o irresistiveis,
-que o espirito mais pertinaz n√£o p√≥de exigir outras maiores, e renovando
-outra vez a confronta√ß√£o entre n√≥s, e os incredulos, digo, que em n√≥s,
-tudo he crer com summa raz√£o aquillo que devemos crer, e nelles tudo he
-negar, sem raz√£o alguma de negar, e com todas as raz√µes de crer.
+dissolvamos o ultimo laÁo de huma fraudolenta equivocaÁ„o com que
+pertendem tapar os olhos aos simplices. NÛs acreditamos os Mysterios, he
+verdade: a respeito dos Mysterios acreditados, tudo nos Christ„os he
+crer, mas a respeito dos motivos de acreditar, tudo em os Christ„os he
+vÍr. Tudo he crer, a respeito dos Mysterios, porque estes sendo remotos
+dos sentidos, e superiores · raz„o humana, sÛ podem ser objectos da
+crenÁa: mas tudo he vÍr a respeito dos motivos da crenÁa, porque as
+provas da revelaÁ„o destes Mysterios s„o tantas, e t„o irresistiveis,
+que o espirito mais pertinaz n„o pÛde exigir outras maiores, e renovando
+outra vez a confrontaÁ„o entre nÛs, e os incredulos, digo, que em nÛs,
+tudo he crer com summa raz„o aquillo que devemos crer, e nelles tudo he
+negar, sem raz„o alguma de negar, e com todas as razıes de crer.
 
-Se destes principios innegaveis, sobre materias de Religi√£o, eu des√ßo a
-analysar o uso da raz√£o que os mysteriosos, e tenebrosos fazem sobre
+Se destes principios innegaveis, sobre materias de Religi„o, eu desÁo a
+analysar o uso da raz„o que os mysteriosos, e tenebrosos fazem sobre
 materias de moral, e de politica, eu os descubro igualmente monstruosos,
-e inconsequentes. Assim como a incredulidade os conduz voluntariamente √°
-sua eterna perdi√ß√£o, a mesma incredulidade os conduz √° sua desgra√ßa
-temporal. Todos os homens desej√£o efficacissimamente a sua ventura
+e inconsequentes. Assim como a incredulidade os conduz voluntariamente ·
+sua eterna perdiÁ„o, a mesma incredulidade os conduz · sua desgraÁa
+temporal. Todos os homens desej„o efficacissimamente a sua ventura
 moral, e a sua ventura politica, como individuos unidos em sociedade, e
-diz-se que hum homem faz bom uso de sua natural raz√£o, quando escolhe, e
-emprega os meios mais aptos, e porporcionados para aquelle fim. E ser√°
-fazer bom uso da raz√£o para ser feliz na ordem moral, n√£o conhecer
-differen√ßa alguma entre o justo, e o injusto! N√£o se embara√ßar com a
+diz-se que hum homem faz bom uso de sua natural raz„o, quando escolhe, e
+emprega os meios mais aptos, e porporcionados para aquelle fim. E ser·
+fazer bom uso da raz„o para ser feliz na ordem moral, n„o conhecer
+differenÁa alguma entre o justo, e o injusto! N„o se embaraÁar com a
 qualidade dos meios, com tanto que se consiga o fim? Julgar licito,
-matar, roubar, calumniar, ou denegrir o seu similhante, para se avan√ßar
-pelos caminhos da ambi√ß√£o! Julgar licito o furto com tanto que se
-empregue a maior for√ßa, e affirmar, como eu ouvi a hum, que a passagem
-violenta do dominio de quaisquer cousa de humas m√£os para outras m√£os
-n√£o he delicto, porque a objecto arrancado n√£o muda de essencia na sua
-passagem, e n√£o ha mais que a differen√ßa de seu possuidor, e que nunca
-p√≥de neste caso haver perturbac√£o na sociedade, porque o direito da
-propriedade, he quimerico, e se existe, he s√≥ fundado na maior for√ßa, e
-que por isto (continuava elle) er√£o licitas, e justas as conquistas, e
-usurpa√ß√µes de hum monstro? Ser√° fazer hum bom uso da raz√£o natural, n√£o
-julgar o adulterio hum crime, mas hum simples galanteio, e s√≥ estranhado
+matar, roubar, calumniar, ou denegrir o seu similhante, para se avanÁar
+pelos caminhos da ambiÁ„o! Julgar licito o furto com tanto que se
+empregue a maior forÁa, e affirmar, como eu ouvi a hum, que a passagem
+violenta do dominio de quaisquer cousa de humas m„os para outras m„os
+n„o he delicto, porque a objecto arrancado n„o muda de essencia na sua
+passagem, e n„o ha mais que a differenÁa de seu possuidor, e que nunca
+pÛde neste caso haver perturbac„o na sociedade, porque o direito da
+propriedade, he quimerico, e se existe, he sÛ fundado na maior forÁa, e
+que por isto (continuava elle) er„o licitas, e justas as conquistas, e
+usurpaÁıes de hum monstro? Ser· fazer hum bom uso da raz„o natural, n„o
+julgar o adulterio hum crime, mas hum simples galanteio, e sÛ estranhado
 pelo Gotico, brusco, anti-social, e preocupado? E com que descaramento,
-e impudencia nos diz hum monstro t√£o desmoralizado como este, que
-emprega a sua vida na indaga√ß√£o da verdade, e que n√£o tem outro intento
-mais que reformar, e regenerar o Mundo! E n√£o vemos n√≥s espalhados estes
+e impudencia nos diz hum monstro t„o desmoralizado como este, que
+emprega a sua vida na indagaÁ„o da verdade, e que n„o tem outro intento
+mais que reformar, e regenerar o Mundo! E n„o vemos nÛs espalhados estes
 atrocissimos principios pelos escritos da escola encyclopedista, e no
-malvado Livro que se chama--Os Costumes?--E a marcha da Revolu√ß√£o, n√£o
-foi coherente a estes principios? As ac√ß√µes de que somos testemunhas n√£o
-s√£o Corolarios destes infernaes theoremas de Helvecio! Ora ainda antes
-que falle no uso da raz√£o que fazem os crentes, pelo que pertence √°
-moral, n√£o se envergonhar√£o, e n√£o se confundir√£o estes malevolos
-espiritos, em quem n√£o cabe a sabedoria, se eu lhes disser que os mesmos
-Filosofos Pag√£os, que inquir√≠r√£o, e anciosamente busc√°r√£o o caminho da
-felicidade moral, fizeram melhor uso da sua raz√£o constituindo a suprema
-ventura na pratica da virtude, e chamando virtude s√≥ √°quillo que era
-conforme ao puro dictame da Natureza? Lei√£o, e envergonhem-se, os
+malvado Livro que se chama--Os Costumes?--E a marcha da RevoluÁ„o, n„o
+foi coherente a estes principios? As acÁıes de que somos testemunhas n„o
+s„o Corolarios destes infernaes theoremas de Helvecio! Ora ainda antes
+que falle no uso da raz„o que fazem os crentes, pelo que pertence ·
+moral, n„o se envergonhar„o, e n„o se confundir„o estes malevolos
+espiritos, em quem n„o cabe a sabedoria, se eu lhes disser que os mesmos
+Filosofos Pag„os, que inquirÌr„o, e anciosamente busc·r„o o caminho da
+felicidade moral, fizeram melhor uso da sua raz„o constituindo a suprema
+ventura na pratica da virtude, e chamando virtude sÛ ·quillo que era
+conforme ao puro dictame da Natureza? Lei„o, e envergonhem-se, os
 principios de Socrates, quando se introduz em algum dos Dialogos de
-Plat√£o, e os axiomas, e senten√ßas d'outros Filosofos que religiosamente
-nos guard√°r√£o Plutarcho, e Diogenes Laercio. Lei√£o, se a tanto se
+Plat„o, e os axiomas, e sentenÁas d'outros Filosofos que religiosamente
+nos guard·r„o Plutarcho, e Diogenes Laercio. Lei„o, se a tanto se
 atrevem, os escritos immortaes, e admiraveis de hum Marco Tulio, e
-fixem-se ao menos no sonho de Scipi√£o, no Tratado das Obriga√ß√µes Civ√≠s,
-e nas eloquentissimas disserta√ß√µes sobre os verdadeiros bens, e os
-verdadeiros males. Lei√£o as engenhosas, e eloquentes paginas de Seneca:
+fixem-se ao menos no sonho de Scipi„o, no Tratado das ObrigaÁıes CivÌs,
+e nas eloquentissimas dissertaÁıes sobre os verdadeiros bens, e os
+verdadeiros males. Lei„o as engenhosas, e eloquentes paginas de Seneca:
 os profundos pensamentos de Epiteto, e os Tratados sublimes do Filosofo
-Imperante Marco Aurelio. Oh desgra√ßa digna de lagrimas de sangue! Que
-h√£o de l√™r estes detestaveis monstros, cuja liberdade de pensar, de que
-t√£o c√©gamente se ufan√£o, voluntariamente se encadeia, e n√£o tem outro
-uso livre, mais que a diversa modifica√ß√£o que lhe d√° o discurso do
-Veneravel, que elles escut√£o com a face cosida com a terra, e com as
-encruzadas m√£os acobertadas de sanguinarias luvas.
+Imperante Marco Aurelio. Oh desgraÁa digna de lagrimas de sangue! Que
+h„o de lÍr estes detestaveis monstros, cuja liberdade de pensar, de que
+t„o cÈgamente se ufan„o, voluntariamente se encadeia, e n„o tem outro
+uso livre, mais que a diversa modificaÁ„o que lhe d· o discurso do
+Veneravel, que elles escut„o com a face cosida com a terra, e com as
+encruzadas m„os acobertadas de sanguinarias luvas.
 
-Lancem-se os olhos para os actuaes resultados da Revolu√ß√£o, veremos quem
-faz melhor uso da raz√£o na ordem moral, para a felicidade. E se eu
-contemplar os verdadeiros Christ√£os nesta mesma ordem moral? Bastar√°
-abrir o Evangelho, bastar√° demorar hum pouco a vista sobre a
+Lancem-se os olhos para os actuaes resultados da RevoluÁ„o, veremos quem
+faz melhor uso da raz„o na ordem moral, para a felicidade. E se eu
+contemplar os verdadeiros Christ„os nesta mesma ordem moral? Bastar·
+abrir o Evangelho, bastar· demorar hum pouco a vista sobre a
 conducta dos primeiros fieis, sobre os escritos adoraveis dos primeiros
-Mestres do Christianismo. Dizei-me, he fazer m√°o uso da raz√£o natural,
-assustar-se, n√£o s√≥ com o crime, mas at√© com a id√©a, e pensamento do
-mesmo crime? Ser√° fazer m√°o uso da raz√£o natural buscar a ventura, e
-tranquillidade da vida moral s√≥ pelo emprego, e pelo exercicio da
-virtude? Ser superior √° inquieta, e turbulenta ambi√ßao, √° desasocegada,
-e desconfiada avareza, ao s√≥rdido, e vil interesse, √° deslumbrada
-soberba, ao s√≥rdido, e vil interesse da gloria popular, e finalmente, √°
-vergonhosa incontinencia? Ser√° fazer m√°o uso da raz√£o natural, abra√ßar
-os dictames da temperan√ßa, fugir da glotonaria, ser moderado, paciente,
-humano, compasivo, sensivel, generoso? Ser√° fazer m√°o uso da raz√£o
-natural, chegar com isso, que tanto assoalhais, e n√£o tendes, e a que
-chamais filantropia, a hum t√£o subido gr√°o de heroismo, que se amem,
-n√£o s√≥ os homens em geral, como similhantes mas at√© os mesmos inimigos,
-porque s√£o homens? Ser√° fazer m√°o uso da raz√£o natural vencer os
+Mestres do Christianismo. Dizei-me, he fazer m·o uso da raz„o natural,
+assustar-se, n„o sÛ com o crime, mas atÈ com a idÈa, e pensamento do
+mesmo crime? Ser· fazer m·o uso da raz„o natural buscar a ventura, e
+tranquillidade da vida moral sÛ pelo emprego, e pelo exercicio da
+virtude? Ser superior · inquieta, e turbulenta ambiÁao, · desasocegada,
+e desconfiada avareza, ao sÛrdido, e vil interesse, · deslumbrada
+soberba, ao sÛrdido, e vil interesse da gloria popular, e finalmente, ·
+vergonhosa incontinencia? Ser· fazer m·o uso da raz„o natural, abraÁar
+os dictames da temperanÁa, fugir da glotonaria, ser moderado, paciente,
+humano, compasivo, sensivel, generoso? Ser· fazer m·o uso da raz„o
+natural, chegar com isso, que tanto assoalhais, e n„o tendes, e a que
+chamais filantropia, a hum t„o subido gr·o de heroismo, que se amem,
+n„o sÛ os homens em geral, como similhantes mas atÈ os mesmos inimigos,
+porque s„o homens? Ser· fazer m·o uso da raz„o natural vencer os
 movimentos tumultuosos da ira, e soffocar os internos brados de todas as
-paix√µes, apenas se fazem escutar nos cora√ß√£o do homem? Confrontesse a
-conducta aos verdadeiros Christ√£os, que no ber√ßo da Religi√£o revelada
-apparec√™r√£o no meio do Imperio da corrup√ß√£o, e dos vicios com a conducta
-destes illuminados, que rejeit√£o, e desconhecem o foro interno da
-consciencia, e que n√£o admittem para regra das ac√ß√µes humanas, mais do
-que o temor dos castigos temporaes, ou a esperan√ßa das recompensas
-terrenas, e ent√£o se conhecer√° quem haja feito melhor uso da raz√£o
-natural. Elles n√£o querem conhecer sen√£o delictos externos, e publicos,
-n√≥s conhecemos al√©m destes mesmos delictos, peccados, e reconhecemos at√©
-crime aquillo mesmo que n√£o foi mais que lembrado, ou imaginado.
+paixıes, apenas se fazem escutar nos coraÁ„o do homem? Confrontesse a
+conducta aos verdadeiros Christ„os, que no berÁo da Religi„o revelada
+apparecÍr„o no meio do Imperio da corrupÁ„o, e dos vicios com a conducta
+destes illuminados, que rejeit„o, e desconhecem o foro interno da
+consciencia, e que n„o admittem para regra das acÁıes humanas, mais do
+que o temor dos castigos temporaes, ou a esperanÁa das recompensas
+terrenas, e ent„o se conhecer· quem haja feito melhor uso da raz„o
+natural. Elles n„o querem conhecer sen„o delictos externos, e publicos,
+nÛs conhecemos alÈm destes mesmos delictos, peccados, e reconhecemos atÈ
+crime aquillo mesmo que n„o foi mais que lembrado, ou imaginado.
 Moral verdadeiramente pura, cuja sublime evidencia arrancou da boca do
 Sofista de Genebra aquelle admiravel elogio que elle faz ao Evangelho.
-Tanto p√≥de a Verdade! A malicia, e a impiedade, nunca poder√£o contrastar
-sua victoriosa for√ßa! E poder√° ainda dizer a impudencia, que n√≥s os
-fieis n√£o fazemos bom uso da nossa raz√£o, quando buscamos a felicidade
+Tanto pÛde a Verdade! A malicia, e a impiedade, nunca poder„o contrastar
+sua victoriosa forÁa! E poder· ainda dizer a impudencia, que nÛs os
+fieis n„o fazemos bom uso da nossa raz„o, quando buscamos a felicidade
 em a ordem moral?
 
 Se eu quero dilatar, e espraiar o pensamento pela ordem politica, e
 social em que os homens existem, ainda se torna mais patente a
-desgra√ßada condi√ß√£o da incredulidade, que ousa taxar-nos de irracionaes,
-e at√© mentecaptos. Veja o Mundo espantado, vej√£o os homens todos
+desgraÁada condiÁ„o da incredulidade, que ousa taxar-nos de irracionaes,
+e atÈ mentecaptos. Veja o Mundo espantado, vej„o os homens todos
 assombrados com o medonho quadro que lhe offerece a consternada Europa
-depois que rebentou o Volc√£o revolucionario, se he fazer bom uso da
-raz√£o natural, ter preparado com sofisticas id√©as de igualdade, e de
-liberdade o caos em que se afund√°r√£o todas as Jerarquias, todas as
-Classes, todas as Institui√ß√µes, todas as Leis, que o pezo dos Seculos, e
-a vontade unanime, e universal dos homens havi√£o sanccionado? He fazer
-bom uso da raz√£o perturbar de tal maneira a sociedade, a titulo de lhe
+depois que rebentou o Volc„o revolucionario, se he fazer bom uso da
+raz„o natural, ter preparado com sofisticas idÈas de igualdade, e de
+liberdade o caos em que se afund·r„o todas as Jerarquias, todas as
+Classes, todas as InstituiÁıes, todas as Leis, que o pezo dos Seculos, e
+a vontade unanime, e universal dos homens havi„o sanccionado? He fazer
+bom uso da raz„o perturbar de tal maneira a sociedade, a titulo de lhe
 buscar em hum novo estado, e em huma nova ordem de cousas huma
-prometida, mas fantastica felicidade? Que procedimento t√£o chegado √°
-raz√£o, soltarem-se sanguinarios Tigres, e levados do instincto, ou da
-for√ßa de nunca vista ferocidade, derramarem rios de sangue, n√£o s√≥ pela
-terra que os vio nascer, mas quasi por todo o globo atonito √° novidade
-de scenas t√£o barbaras, e t√£o atrozes, vendo que ellas for√£o preparadas,
+prometida, mas fantastica felicidade? Que procedimento t„o chegado ·
+raz„o, soltarem-se sanguinarios Tigres, e levados do instincto, ou da
+forÁa de nunca vista ferocidade, derramarem rios de sangue, n„o sÛ pela
+terra que os vio nascer, mas quasi por todo o globo atonito · novidade
+de scenas t„o barbaras, e t„o atrozes, vendo que ellas for„o preparadas,
 conduzias, e executadas por aquelle mesmo Filosofismo orgulhoso, que se
-dizia regenerador do Mundo, e salvador da raz√£o aviltada, e abatida aos
-p√©s do Fanatismo, e da Supresti√ß√£o! He fazer bom uso da raz√£o natural,
+dizia regenerador do Mundo, e salvador da raz„o aviltada, e abatida aos
+pÈs do Fanatismo, e da SuprestiÁ„o! He fazer bom uso da raz„o natural,
 preparar a assinte sobre as ruinas de Thronos, e sobre reliquias de
-Na√ß√µes esmagadas, o Throno, ou as bases para se levantar o Colosso do
+NaÁıes esmagadas, o Throno, ou as bases para se levantar o Colosso do
 mais atroz, e escandaloso Despotismo que vio o Mundo em os annaes da
-Tyrania! O que os nossos mesmos olhos est√£o vendo, e o que n√≥s t√£o
-desgra√ßadamente temos sentido n√£o exige mais pr√≥vas, e demonstra√ß√µes; as
+Tyrania! O que os nossos mesmos olhos est„o vendo, e o que nÛs t„o
+desgraÁadamente temos sentido n„o exige mais prÛvas, e demonstraÁıes; as
 lagrimas que temos derramado, o sangue que temos vertido, os males
-pezadissimos que temos suportado, mostr√£o bem a que ponto de
-melhoramento cheg√°ra o Mundo politico pelos esfor√ßos dos livres
-pensadores que tanto exalt√£o, e aprego√£o o bom uso da sua raz√£o, e tanto
-tax√£o o nosso procedimento de hum rematado desvario.
+pezadissimos que temos suportado, mostr„o bem a que ponto de
+melhoramento cheg·ra o Mundo politico pelos esforÁos dos livres
+pensadores que tanto exalt„o, e aprego„o o bom uso da sua raz„o, e tanto
+tax„o o nosso procedimento de hum rematado desvario.
 
 E podereis dizer, malevolos, e publicos perturbadores da paz, e do
-socego das Na√ß√µes, que o verdadeiro fiel faz m√°o uso da sua raz√£o, em
-quanto permanece tranquillo naquella situa√ß√£o em que o constutuio a
-Providencia, sugeito como lhe manda a Religi√£o √°s Potestades dominantes,
+socego das NaÁıes, que o verdadeiro fiel faz m·o uso da sua raz„o, em
+quanto permanece tranquillo naquella situaÁ„o em que o constutuio a
+Providencia, sugeito como lhe manda a Religi„o ·s Potestades dominantes,
 sem murmurar, sem innovar, sem rebelar, reconhecendo na suprema
-Jerarquia a authoridade emanada de Deos. Quando se v√≠r√£o, oh Ceos! Com
-que pejo o digo! Quando se v√≠r√£o em Portugal tantos p√©rfidos, tantos
-traidores votados j√° √° execra√ß√£o, e indigna√ß√£o publica, pelas decis√µes
-de rectissimas Senten√ßas? No Seculo do illuminismo, em que se diz se
-levant√°ra o bom uso da raz√£o sobre o abatido fantasma de velhas
-preoccupa√ß√µes. E he fazer bom uso da raz√£o natural, conjurar contra a
-propria Patria, contra a propria Na√ß√£o, querer lan√ßar-lhe ao colo os
+Jerarquia a authoridade emanada de Deos. Quando se vÌr„o, oh Ceos! Com
+que pejo o digo! Quando se vÌr„o em Portugal tantos pÈrfidos, tantos
+traidores votados j· · execraÁ„o, e indignaÁ„o publica, pelas decisıes
+de rectissimas SentenÁas? No Seculo do illuminismo, em que se diz se
+levant·ra o bom uso da raz„o sobre o abatido fantasma de velhas
+preoccupaÁıes. E he fazer bom uso da raz„o natural, conjurar contra a
+propria Patria, contra a propria NaÁ„o, querer lanÁar-lhe ao colo os
 ferros de hum Tyranno, despoja-la de sua gloria, soberania,
-independencia, representa√ß√£o, e grandeza? Ser√° fazer bom uso da raz√£o
-natural attrahir sobre a propria cabe√ßa os males que preparav√£o aos
-outros? Ser√° fazer bom uso da raz√£o natural sacrificar a hum monstro que
+independencia, representaÁ„o, e grandeza? Ser· fazer bom uso da raz„o
+natural attrahir sobre a propria cabeÁa os males que preparav„o aos
+outros? Ser· fazer bom uso da raz„o natural sacrificar a hum monstro que
 permanece em huma absoluta ignorancia da sua existencia, a
-reputa√ß√£o, a liberdade, o estabelecimento, e a ternissima posse daquella
-Patria, e daquelle Reino que lhes deo o ber√ßo? Confronte-se o uso da
-raz√£o que fazem estes profundos pensadores, com o uso da raz√£o que faz o
-honesto Cidad√£o, ainda que seja o mais ignorante, e idiota, e
+reputaÁ„o, a liberdade, o estabelecimento, e a ternissima posse daquella
+Patria, e daquelle Reino que lhes deo o berÁo? Confronte-se o uso da
+raz„o que fazem estes profundos pensadores, com o uso da raz„o que faz o
+honesto Cidad„o, ainda que seja o mais ignorante, e idiota, e
 conhecer-se-ha com evidencia de que parte esteja a vantagem.
 
-Mas he t√£o grande, e t√£o profunda a cegueira, ou a pertinacia destes
-monstros, que nenhuma raz√£o os convence, porque huma alma malevola n√£o
-d√° entrada √° verdadeira sabedoria. Fieis, fechai os ouvidos aos
+Mas he t„o grande, e t„o profunda a cegueira, ou a pertinacia destes
+monstros, que nenhuma raz„o os convence, porque huma alma malevola n„o
+d· entrada · verdadeira sabedoria. Fieis, fechai os ouvidos aos
 enganadores discursos dos impios, debaixo de sua lingoa existe o veneno
-dos √°spides, elles err√£o, e errar√£o sempre, _erraverunt ab utero, locuti
+dos ·spides, elles err„o, e errar„o sempre, _erraverunt ab utero, locuti
 sunt falsa_. Fugi do precipicio a que vos conduz sua revoltosa doutrina.
-Sabei que n√£o querem Throno, n√£o querem Altar, n√£o querem Leis. Segui as
-maximas celestiaes da Religi√£o, cujas luminosas provas longe de
-aviltarem a raz√£o, a enobrecem, a purific√£o, a exalt√£o, e fazendo o
-verdadeiro homem de bem na terra, em quanto o torn√£o virtuoso, nos
-assegur√£o, e affian√ß√£o huma eterna Bemaventuran√ßa.
+Sabei que n„o querem Throno, n„o querem Altar, n„o querem Leis. Segui as
+maximas celestiaes da Religi„o, cujas luminosas provas longe de
+aviltarem a raz„o, a enobrecem, a purific„o, a exalt„o, e fazendo o
+verdadeiro homem de bem na terra, em quanto o torn„o virtuoso, nos
+assegur„o, e affianÁ„o huma eterna BemaventuranÁa.
 
 
                                                             Disse.
@@ -1040,10 +1040,10 @@ assegur√£o, e affian√ß√£o huma eterna Bemaventuran√ßa.
 
 
 
-End of the Project Gutenberg EBook of Serm√£o contra o Filosofismo do Seculo
-XIX, by Jos√© Agostinho de Macedo
+End of the Project Gutenberg EBook of Serm„o contra o Filosofismo do Seculo
+XIX, by JosÈ Agostinho de Macedo
 
-*** END OF THIS PROJECT GUTENBERG EBOOK SERM√ÉO CONTRA O FILOSOFISMO ***
+*** END OF THIS PROJECT GUTENBERG EBOOK SERM√O CONTRA O FILOSOFISMO ***
 
 ***** This file should be named 33245-8.txt or 33245-8.zip *****
 This and all associated files of various formats will be found in:

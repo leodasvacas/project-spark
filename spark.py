@@ -8,15 +8,32 @@ my_stop_words = ["des", "dum", "duma", "ella", "et", "he", "hum", "huma", "les",
 
 sw = get_stop_words('pt') + my_stop_words
 
+DEFAULT_ENCODING = "iso-8859-1"
 BOOK_CONTENTS_START_DELIMITER = "*** START OF THIS PROJECT GUTENBERG EBOOK"
 BOOK_CONTENTS_END_DELIMITER   = "*** END OF THIS PROJECT GUTENBERG EBOOK"
 
 def get_author(entry):
-    for line in entry[1].splitlines():
-        if line.startswith("Author: "):
+    bookContents = entry[1].decode(DEFAULT_ENCODING, "replace")
+    author = encoding = None
+    lines = bookContents.splitlines()
+    i = 0
+    while i < len(lines):
+        line = lines[i]
+        if author and encoding:
+            break;
+        if not author and line.startswith("Author: "):
             author = line[8:].strip()
-            break
-    return (author, entry[1])
+        if not encoding and line.startswith("Character set encoding: "):
+            encoding = line[24:].strip().lower()
+            if not encoding == DEFAULT_ENCODING:
+                bookContents = entry[1].decode(encoding, "replace")
+                lines = bookContents.splitlines()
+                author = None
+                i = -1
+        i += 1
+    print ("author is %s" % author)
+    print ("encoding is %s" % encoding)
+    return (author, bookContents)
 
 def word_count(text):
     wordcount={}
@@ -54,7 +71,7 @@ sc  = SparkContext()
 input_path = sys.argv[1] if len(sys.argv) > 1 else "dataset"
 output_path = sys.argv[2] if len(sys.argv) > 2 else "output"
 
-rdd = sc.wholeTextFiles(input_path)
+rdd = sc.binaryFiles(input_path)
 rdd = rdd.map(get_author).mapValues(word_count).reduceByKey(merge)
 rdd = rdd.mapValues(sort_dict).mapValues(lambda x: x[0:5])
 print(rdd.saveAsTextFile(output_path))

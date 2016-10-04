@@ -1,5 +1,5 @@
-The Project Gutenberg EBook of Orpheu N¬∫2, by 
-M√°rio de S√°-Carneiro and Fernando Ant√≥nio Nogueira Pessoa and √Çngelo Vaz Pinto Azevedo Coutinho de Lima and Lu√≠s de Montalvor
+The Project Gutenberg EBook of Orpheu N∫2, by 
+M·rio de S·-Carneiro and Fernando AntÛnio Nogueira Pessoa and ¬ngelo Vaz Pinto Azevedo Coutinho de Lima and LuÌs de Montalvor
 
 This eBook is for the use of anyone anywhere at no cost and with
 almost no restrictions whatsoever.  You may copy it, give it away or
@@ -7,13 +7,13 @@ re-use it under the terms of the Project Gutenberg License included
 with this eBook or online at www.gutenberg.org
 
 
-Title: Orpheu N¬∫2
+Title: Orpheu N∫2
        Revista Trimestral de Literatura
 
-Author: M√°rio de S√°-Carneiro
-        Fernando Ant√≥nio Nogueira Pessoa
-        √Çngelo Vaz Pinto Azevedo Coutinho de Lima
-        Lu√≠s de Montalvor
+Author: M·rio de S·-Carneiro
+        Fernando AntÛnio Nogueira Pessoa
+        ¬ngelo Vaz Pinto Azevedo Coutinho de Lima
+        LuÌs de Montalvor
 
 Illustrator: Guilherme de Santa-Rita
 
@@ -23,7 +23,7 @@ Language: Portuguese
 
 Character set encoding: ISO-8859-1
 
-*** START OF THIS PROJECT GUTENBERG EBOOK ORPHEU N¬∫2 ***
+*** START OF THIS PROJECT GUTENBERG EBOOK ORPHEU N∫2 ***
 
 
 
@@ -51,8 +51,8 @@ Editor: ANTONIO FERRO
 
 DIRECTORES
 
-*Fernando Pess√¥a*
-*Mario de S√°-Carneiro*
+*Fernando PessÙa*
+*Mario de S·-Carneiro*
 
 
 *ANO I--1915*     *N.^o 2*     *Abril-Maio-Junho*
@@ -60,24 +60,24 @@ DIRECTORES
 
 *SUMARIO*
 
-ANGELO DE LIMA                _Poemas In√©ditos_
-MARIO DE S√Å-CARNEIRO          _Poemas sem Suporte_
+ANGELO DE LIMA                _Poemas InÈditos_
+MARIO DE S¡-CARNEIRO          _Poemas sem Suporte_
 EDUARDO GUIMARAENS            _Poemas_
-RAUL LEAL                     _Atelier_ (novela vert√≠gica)
+RAUL LEAL                     _Atelier_ (novela vertÌgica)
 VIOLANTE DE CYSNEIROS (?)     _Poemas_
-ALVARO DE CAMPOS              _Ode Mar√≠tima_
-LU√çS DE MONTALV√îR             _Narciso_ (poema)
-FERNANDO PESS√îA               _Chuva obl√≠qua_ (poemas interseccionistas)
+ALVARO DE CAMPOS              _Ode MarÌtima_
+LUÕS DE MONTALV‘R             _Narciso_ (poema)
+FERNANDO PESS‘A               _Chuva oblÌqua_ (poemas interseccionistas)
 
 
-*Colabora√ß√£o especial do futurista*
+*ColaboraÁ„o especial do futurista*
 
 *SANTA RITA PINTOR*
 
 *(4 hors-texte duplos)*
 
 
-_Redac√ß√£o_: 190, Rua do Ouro--Livraria Brazileira.
+_RedacÁ„o_: 190, Rua do Ouro--Livraria Brazileira.
 _Oficinas_: Tipografia do Comercio, 10, Rua da Oliveira,
 ao Carmo--Telefone 2724
 
@@ -86,93 +86,93 @@ LISBOA
 
 
 
-"Orpheu" iniciar√° na _rentr√©e_ uma longa s√©rie de conferencias de
-afirma√ß√£o, sendo as primeiras as seguintes:
+"Orpheu" iniciar· na _rentrÈe_ uma longa sÈrie de conferencias de
+afirmaÁ„o, sendo as primeiras as seguintes:
 
 
 A Torre Eiffel e o Genio do Futurismo, por _Santa Rita Pintor_.
 
 A Arte e a Heraldica, pelo pintor _Manuel Jardim_.
 
-Teatro Futurista no Espa√ßo, pelo _Dr. Raul Leal_.
+Teatro Futurista no EspaÁo, pelo _Dr. Raul Leal_.
 
 As Esfinges e os Guindastes: estudo do bi-metalismo psicologico, por
-_Mario de S√°-Carneiro_.
+_Mario de S·-Carneiro_.
 
 
-*SERVI√áO DA REDAC√á√ÉO*
+*SERVI«O DA REDAC«√O*
 
 
-Varias raz√µes, tanto de ordem administrativa, como referentes √°
-assun√ß√£o de responsabilidades literarias perante o publico, levaram
-o _comit√©_ redactorial de _ORPHEU_ a achar preferivel que a direc√ß√£o
-da revista f√¥sse assumida pelos actuais directores, n√£o envolvendo
-tal determina√ß√£o a minima discordancia com o nosso camarada Lu√≠s
-de Montalv√¥r, cuja colabora√ß√£o, ali√°s, ilustra o presente numero.
+Varias razıes, tanto de ordem administrativa, como referentes ·
+assunÁ„o de responsabilidades literarias perante o publico, levaram
+o _comitÈ_ redactorial de _ORPHEU_ a achar preferivel que a direcÁ„o
+da revista fÙsse assumida pelos actuais directores, n„o envolvendo
+tal determinaÁ„o a minima discordancia com o nosso camarada LuÌs
+de MontalvÙr, cuja colaboraÁ„o, ali·s, ilustra o presente numero.
 
 
-De principio, concordara o _comit√©_ redactorial de _ORPHEU_ em n√£o
-inserir colabora√ß√£o artistica: por isso mesmo se adoptou uma capa que
-o era, brilhante composi√ß√£o do arquitecto Jos√© Pacheco. Posteriormente
-√° sa√≠da do primeiro numero, julgou, por√™m, o mesmo _comit√©_ que seria
+De principio, concordara o _comitÈ_ redactorial de _ORPHEU_ em n„o
+inserir colaboraÁ„o artistica: por isso mesmo se adoptou uma capa que
+o era, brilhante composiÁ„o do arquitecto JosÈ Pacheco. Posteriormente
+· saÌda do primeiro numero, julgou, porÍm, o mesmo _comitÈ_ que seria
 interessante inserir em cada numero desenhos ou quadros de *um*
 colaborador, em vista do que decidiu *fixar* a capa, tirando-lhe o
 caracter artistico e dando-lhe um simples e normal aspecto tipografico.
-A realisa√ß√£o desta parte do nosso programa come√ßa no numero actual com
-a inser√ß√£o dos quatro definitivos trabalhos futuristas de Santa Rita
+A realisaÁ„o desta parte do nosso programa comeÁa no numero actual com
+a inserÁ„o dos quatro definitivos trabalhos futuristas de Santa Rita
 Pintor.
 
 
 O _Manifesto da Nova Literatura_, que havia sido anunciado como devendo
-fazer parte do n.^o 2 de _ORPHEU_, n√£o √© n√™le inserto nem o acompanha.
-√â motivo disto a circunstancia de que, envolvendo a confec√ß√£o d√™sse
+fazer parte do n.^o 2 de _ORPHEU_, n„o È nÍle inserto nem o acompanha.
+… motivo disto a circunstancia de que, envolvendo a confecÁ„o dÍsse
 manifesto o desenvolvimento de principios de ordem altamente scientifica
-e abstracta, √™le n√£o p√¥de ficar concluido a tempo de ser inserto. Ou
-aparecer√° com o 3.^o numero da revista, ou mesmo antes, talvez, em
+e abstracta, Íle n„o pÙde ficar concluido a tempo de ser inserto. Ou
+aparecer· com o 3.^o numero da revista, ou mesmo antes, talvez, em
 opusculo ou folheto separado.
 
 
-O 3.^o numero de _ORPHEU_ ser√° publicado em outubro, com o atraso dum
-m√™s, portanto--para que a sua ac√ß√£o n√£o seja prejudicada pela
-√©poca-morta.
+O 3.^o numero de _ORPHEU_ ser· publicado em outubro, com o atraso dum
+mÍs, portanto--para que a sua acÁ„o n„o seja prejudicada pela
+Època-morta.
 
 
 Os _hors texte_ de Santa Rita Pintor insertos no presente numero foram
-fotogravados nos _ateliers_ da *Ilustradora* segundo clich√©s de
+fotogravados nos _ateliers_ da *Ilustradora* segundo clichÈs de
 
 
 *BARROS & GALAMAS*
 146, Rua da Palma--LISBOA
 
 
-*CONDI√á√ïES*
+*CONDI«’ES*
 
 
 Toda a correspondencia deve ser dirigida aos Directores.
 
 
 Convidamos todos os Artistas cuja simpatia esteja com a indole desta
-Revista a enviarem-nos colabora√ß√£o. No caso de n√£o ser inserta
+Revista a enviarem-nos colaboraÁ„o. No caso de n„o ser inserta
 devolveremos os originais.
 
 
-S√£o nossos depositarios em Portugal os srs. Monteiro & C.^a, Livraria
+S„o nossos depositarios em Portugal os srs. Monteiro & C.^a, Livraria
 Brazileira--190 e 192, Rua Aurea, Lisboa.
 
 
-_ORPHEU_ publicar√° um numero incerto de paginas, nunca inferior a 72,
-ao pre√ßo invariavel de 30 centavos o numero avulso, em Portugal, e
-1$500 r√©is fracos no Brazil.
+_ORPHEU_ publicar· um numero incerto de paginas, nunca inferior a 72,
+ao preÁo invariavel de 30 centavos o numero avulso, em Portugal, e
+1$500 rÈis fracos no Brazil.
 
 
 *ASSINATURAS*
 
-(Ao ano--S√©rie de 4 numeros)
+(Ao ano--SÈrie de 4 numeros)
 
 
 Portugal, Espanha e Colonias portuguesas     1 escudo
-Brazil                                       5$000 r√©is (moeda fraca)
-Uni√£o Postal                                 6 francos
+Brazil                                       5$000 rÈis (moeda fraca)
+Uni„o Postal                                 6 francos
 
 
 
@@ -184,17 +184,17 @@ Uni√£o Postal                                 6 francos
 Acaba de aparecer:
 
 
-*C√âU EM FOGO*
+*C…U EM FOGO*
 
 NOVELAS POR
 
-MARIO DE S√Å-CARNEIRO
+MARIO DE S¡-CARNEIRO
 
 
-GRANDE SOMBRA--MIST√âRIO
+GRANDE SOMBRA--MIST…RIO
 O HOMEM DOS SONHOS--ASAS--EU-PROPRIO O OUTRO
 A ESTRANHA MORTE DO PROF. ANTENA
-O FIXADOR DE INSTANTES--RESSURREI√á√ÉO
+O FIXADOR DE INSTANTES--RESSURREI«√O
 
 
 1 VOLUME DE 350 PAGINAS
@@ -202,16 +202,16 @@ O FIXADOR DE INSTANTES--RESSURREI√á√ÉO
 
 CAPA DESENHADA POR
 
-JOS√â PACHECO
+JOS… PACHECO
 
 
-Pre√ßo 70 centavos
+PreÁo 70 centavos
 
 
 
 
 
-*POEMAS IN√âDITOS*
+*POEMAS IN…DITOS*
 
 DE
 
@@ -228,22 +228,22 @@ _*CANTICO--SEMI-RAMI*_
 Como Ideaes e Virginaes Amantes!...
 --Oh! Memoria de Amor Religiosa!...
 
---J√° Fui... uma Crean√ßa Pubescente
+--J· Fui... uma CreanÁa Pubescente
 Que des'brocha em Amor Inconsciente
 Como n'um Vago Sonho... Commovente
 Desabrocha uma Rosa Olorescente
 --A Adolescente... Casta e Curiosa!
 
---E j√° Fui... a Galante com Requinte
+--E j· Fui... a Galante com Requinte
 Para dar-me, Esquivando-me em Acinte
 De P'rigos da Ventura Cyspresinte
 --Sensitiva... Ao Brisar, do Sol Orinte...
 --A Nubente... Temente e Desejosa!
 
---E j√° Fui... a Noivada pelo Amante,
-A Cingida de Abra√ßo Palpitante,
+--E j· Fui... a Noivada pelo Amante,
+A Cingida de AbraÁo Palpitante,
 Anxe do Sacrificio Inebriante!
---A Fl√¥r que Quebra o Gyneceu... Hiante,
+--A FlÙr que Quebra o Gyneceu... Hiante,
 --A Desvirgada... Grata e Dolorosa!
 
 --Oh! Memoria de Amor Religiosa!
@@ -251,19 +251,19 @@ Anxe do Sacrificio Inebriante!
 Como Ideaes e Virginaes Amantes...
 --Oh! Noute em Teu Amor... Silenciosa!
 
-J√° Fui... como a Senhora, sim, durante
+J· Fui... como a Senhora, sim, durante
 Uns Tempos de Ventura Confortante
 Nos Confortos de um Lar... Hoje Distante...
---Como Dista, da Noute, um Pa√ßo Encante...
-J√° Fui... uma Matrona Virtuosa!...
+--Como Dista, da Noute, um PaÁo Encante...
+J· Fui... uma Matrona Virtuosa!...
 
-E j√° Fui... a Devota pelo Amor,
+E j· Fui... a Devota pelo Amor,
 A Adulterin... que Trahe o seu Senhor!...
 
-E a que sentiu Doer o Cora√ß√£o
+E a que sentiu Doer o CoraÁ„o
 Ao Fim de Tanta e Cada uma Vez
-Por cada Intento s√≥ Colh√™r Revez
-Nas Esp'ran√ßas da Sua Devo√ß√£o!...
+Por cada Intento sÛ ColhÍr Revez
+Nas Esp'ranÁas da Sua DevoÁ„o!...
 
 Oh! Noute! em Teu Amor Silenciosa!
 Oh! Estrellas, na Noute, Scintillantes
@@ -273,22 +273,22 @@ Oh! Memoria de Amor Religiosa!
 . . . . . . . . . . . . . . . . . . . . . . . . .
 
 E se Ha de Amor, algum Amor Eleito,
-Aquella Tambem Fui, que Ninguem F√¥sse,
+Aquella Tambem Fui, que Ninguem FÙsse,
 Que, n'um Mysterio, como o Inferno, Doce,
 Amei a Minha Filha, no seu Leito...
 
 Sim, se Ha de Amor algum Amor Eleito,
-Minhas Irm√£s, Cingi-me ao Vosso Peito
+Minhas Irm„s, Cingi-me ao Vosso Peito
 E Ouvi-Me esta Memoria Dolorosa...
 
-J√° Fui Aquella que Perdeu a Esp'ran√ßa,
+J· Fui Aquella que Perdeu a Esp'ranÁa,
 E Errou Espasma Noutes sem Termino,
 Entre a Treva das Selvas Pavorosa,
 Anxe em busca de Amantes do Destino...
 
---E A que Lembrou os Tempos de Crean√ßa!...
+--E A que Lembrou os Tempos de CreanÁa!...
 
---E j√° Fui como a Sombra da Saudade
+--E j· Fui como a Sombra da Saudade
 Amando a Lua, pela Immensidade!
 
 --Oh Noute! em Teu Amor, Silenciosa!
@@ -302,81 +302,81 @@ Como Ideaes e Virginaes Amantes!
 _*NEITHA-KRI*_
 
 
-√ì Noute Immensa pela Immensid√£o!
-Recebe em Ti a minha Confiss√£o.
-Eu Nunca disse ao Verdadeiro, N√£o!
-Nem devoro em Remorso o Cora√ß√£o!...
+” Noute Immensa pela Immensid„o!
+Recebe em Ti a minha Confiss„o.
+Eu Nunca disse ao Verdadeiro, N„o!
+Nem devoro em Remorso o CoraÁ„o!...
 
 Sou a Grande Rainha Neitha-Kri...
 Sou Devota da Noute Pensadora...
-E Neith √© grande, pelos Ceus Senhora...
+E Neith È grande, pelos Ceus Senhora...
 E Eu, Sua Filha, Sou Nofrei-Ari!...
 
-Meu Irm√£o era o Rei Mentha-Suf'reh!...
+Meu Irm„o era o Rei Mentha-Suf'reh!...
 --E Morreu Enlevado em Sonho Ideal
 D'um Phyltro que Eu lhe dei para tomar!...
---Mentha-Suf'reh n√£o Conheceu o Mal
+--Mentha-Suf'reh n„o Conheceu o Mal
 --E o Destino Elegeu-me p'ra Reinar
 Sobre os Milagres do Paiz d'Esneh!...
 
 --Sou a Grande Rainha Neitha-Kri!
 --Sou Devota da Noute Pensadora
---E Neith √© Grande! pelos Ceus Senhora!
+--E Neith È Grande! pelos Ceus Senhora!
 --Sou a Rainha!... Sou Nofrei-Ari!...
 
 --No meu Corpo Divino e Perfumado
-Tenho a Carne C√¥r Mate da Belleza
-Que √© Ammarella de C√¥r e Delicada,
-Da C√¥r Loura da Chamma Incendiada...
+Tenho a Carne CÙr Mate da Belleza
+Que È Ammarella de CÙr e Delicada,
+Da CÙr Loura da Chamma Incendiada...
 --Tenho o Porte das Damas da Nobreza
 Nas Formas do Meu Corpo Consagrado!...
 
 --A Thiara Suprema que Investi
 Coroa a Minha Fronte Sobranceira,
 Real, Sagrada, Mystice, Altaneira...
---E Ent√£o--√≥ Neith--sou Divina em Ti!...
+--E Ent„o--Û Neith--sou Divina em Ti!...
 
 Na Sombra d'Esta C'roa dos Thanitas
 Palpitam-me no Seio Delicado
 Anceios de Desejos Escondidos,
 Mysteriosos, quasi Indefinidos,
 Mesmo ao Saber do Meu Olhar Velado
---Que tu, √≥ Noute! em Teu Amor Excitas...
+--Que tu, Û Noute! em Teu Amor Excitas...
 
 O Peitoral Sagrado da Magia
 Repousa nos seus Ouros Esmaltados,
 Frio sobre os meus Seios Excitados,
 Como tacite, Oraculo, do Dia...
 
---Sob o P√™-ch√™nte Cintural Pendente
+--Sob o PÍ-chÍnte Cintural Pendente
 Sobre o Vigor suavemente Curvo
-Das minhas C√¥xas no meu star de Hyerata
+Das minhas CÙxas no meu star de Hyerata
 Que Antros Ardentes e que, Amor, Dilata
 De um Ardor Fulguroso... porque Turvo...
 De que Immanencia... de que Immanescente?...
 
---√ì Noute minha M√£e na Immensid√£o!
---√ì Noute Grande, pelos C√©us Senhora...
---Scintil d'Estrellas n'Essa Solid√£o...
+--” Noute minha M„e na Immensid„o!
+--” Noute Grande, pelos CÈus Senhora...
+--Scintil d'Estrellas n'Essa Solid„o...
 --Eu, Sobre a Terra, Sou a Vencedora!...
 
 --Erguida nas Sandalias Encurvadas
-Sou de P√© ante Ti, √≥ Verdadeira!
+Sou de PÈ ante Ti, Û Verdadeira!
 Dama da Vida, pelo Amor Ungida...
 Senhora Principal... Dama da Vida!
-Eu, Tua Padre-M√£e!--a Derradeira...
+Eu, Tua Padre-M„e!--a Derradeira...
 --Entre as Vagas de Incenso a Ti Votadas...
 
---Meu Olhar √© Fulguro docemente,
+--Meu Olhar È Fulguro docemente,
 Como se n'este Espelho da Verdade
 Da minha Alma Polytica de Rei,
 --N'Aquella Presciencia com que Sei
 --Se Reflectisse a Minha Lealdade
 --Ou a Luz d'Algum Astro Transcendente...
 
---E os meus Bra√ßos Frementes Alongados,
+--E os meus BraÁos Frementes Alongados,
 Cingidos nos Annilos Rictuaes,
-T√™em na M√£o o Seter dos Grandes Paes
+TÍem na M„o o Seter dos Grandes Paes
 Como as Chaves dos Sellos Reservados...
 
 Sou mais Sabia que os Sabios--Eu emfim
@@ -388,10 +388,10 @@ Em que Esquecem--a par da Dor do Mal--
 Os Estrangeiros, o seu Lar Deixado...
 --Que Encontram outro Lar juncto de Mim...
 
---Meu olhar √© Fulguro docemente
+--Meu olhar È Fulguro docemente
 Em Profunda Dulcissima Certeza
 Como as Astres do Ceu Immanescente...
-E M√£e--√≥ Neith-eu! √≥ mais que Pura!
+E M„e--Û Neith-eu! Û mais que Pura!
 --Como as Estrellas d'um Fulgor Fremente...
 --Sou a Ventura Filha da Tristeza
 D'Esse Teu Medictar Saudosamente...
@@ -409,9 +409,9 @@ _*NINIVE*_
 --Alem Foi--a Ninive da Piedade,
 A Cidade do Lucto Singular
 E a Sepultura da Semi-Rami...
---E Hoje... st√° por Ali, Vaga, a Saudade...
+--E Hoje... st· por Ali, Vaga, a Saudade...
 --E anda no Ceu Supremo a Eterna Istar...
---E... Passa, √°s Vezes, a Serpente...--Ali!...
+--E... Passa, ·s Vezes, a Serpente...--Ali!...
 
 
 
@@ -424,9 +424,9 @@ Da Sepultura da Semi-Rami...
       --Dorme a Semi!...
 
 --Morreu na Guerra em um Paiz Distante...
---Na Expedi√ß√£o Fatal em que Morreram
-Trez Milh√µes de Soldados...--e ainda Mais...
---E os Guardas d'A Que F√¥ra a Triumphante
+--Na ExpediÁ„o Fatal em que Morreram
+Trez Milhıes de Soldados...--e ainda Mais...
+--E os Guardas d'A Que FÙra a Triumphante
 --Fieis..., os Seus Cem Guardas Immortaes...
 Na Piedade Final do Ultimo Preito
 Denotando os Seus Corpos Vigorosos
@@ -435,7 +435,7 @@ O Feretro Sagrado da Semi...
 --Por Caminhos Infindos Escabrosos
 Em Terras de Inimigos... e Chacaes...
 --Por Soes de Fogo...--Vastos Areaes...
---E Pav√¥res Sacros de Paiz Levante...
+--E PavÙres Sacros de Paiz Levante...
 --Trouxeram Seu Cadaver do Distante
       --E Inhumaram-A Alli...
 --Fria e Saudosa!...
@@ -453,40 +453,40 @@ Teu Gesto Gloro Gerou a Vida!...
 --E Apoz Teu Gesto...
 --Supremo... Immesto...
 --Grande e Tacida...
---Depoz... √â a Noute na Immensidade!...
+--Depoz... … a Noute na Immensidade!...
 
 
 
 
---E a M√£e do Rei do Reino Sul-Occaso
+--E a M„e do Rei do Reino Sul-Occaso
 Disse a Mu-Ang--Alguma Vez, Accaso...
---Olha a Nuvem no C√©u... e como Corre!...
+--Olha a Nuvem no CÈu... e como Corre!...
 --Assim as Horas da Ventura Minha...
---Quem Tem Filhos na Terra--Esse N√£o Morre!...
+--Quem Tem Filhos na Terra--Esse N„o Morre!...
 --Despozae--Se Sois Rei--uma Rainha
---Que √â Tanto como V√≥s Pela Grandeza...
+--Que … Tanto como VÛs Pela Grandeza...
 --E... Depois... de Espozardes a Belleza
-Podeis Seguir Ent√£o Vossa Encaminha!...
+Podeis Seguir Ent„o Vossa Encaminha!...
 . . . . . . . . . . . . . . . . . . . . . . . . .
---E o Rei Mu-An' disse √° Rainha, Ent√£o...
---Junto de V√≥s... Enlevo-me de Encanto...
---Longe, Por√©m, do Meu Paiz--Ha tanto,--
-Que Nem, Meus Reinos, J√° Eu Sei se S√£o...
---Volto ao Meu Reino... n'Esta D√¥r Tamanha...
---Seja--A da M√£e do Rei--Esta Montanha
+--E o Rei Mu-An' disse · Rainha, Ent„o...
+--Junto de VÛs... Enlevo-me de Encanto...
+--Longe, PorÈm, do Meu Paiz--Ha tanto,--
+Que Nem, Meus Reinos, J· Eu Sei se S„o...
+--Volto ao Meu Reino... n'Esta DÙr Tamanha...
+--Seja--A da M„e do Rei--Esta Montanha
 Onde Alastra Este Bosque de Arvoredo
 Junto ao Lago... em que Estamos... em Adeus!...
---√ì M√£e do Rei... V√≥s M'Enlevaes nos C√©us
---Mas o Meu Cora√ß√£o Soffre em Segr√™do!...
+--” M„e do Rei... VÛs M'Enlevaes nos CÈus
+--Mas o Meu CoraÁ„o Soffre em SegrÍdo!...
 . . . . . . . . . . . . . . . . . . . . . . . . .
 
 
 
 
 --Quantos... desde Chu-Si a Kuan-Su
---Filhos do C√©u nas Filhas do Kiang
+--Filhos do CÈu nas Filhas do Kiang
 --Consagraram no Throno dos Hoang
---Aureolados do Pav√£o Azu?...
+--Aureolados do Pav„o Azu?...
 --E Algum Dia... Encostaram-se Tranquilos
 Sobre a Meza de Joias do _Estar Manso_
 --E Cerraram os Olhos nos Seus Cilos...
@@ -502,21 +502,21 @@ _*EDD'ORA ADDIO...--MIA SOAVE!...*_
 Aos meus amigos d'ORPPHEU
 
 
---Mia Soave...--Ave?!...--Alm√©a?!...
+--Mia Soave...--Ave?!...--AlmÈa?!...
 --Maripoza Azual...--Transe!...
 Que d'Alado Lidar, Canse...
---Dorta em Paz...--Transpasse Id√©a!...
+--Dorta em Paz...--Transpasse IdÈa!...
 
---Do Occaso pela Epop√©a...
+--Do Occaso pela EpopÈa...
 Dorto... Stringe... o Corpo Elance...
-Vae √Å Campa...--Il C'or descanse...
---Mia Soave...--Ave!...--Alm√©a!...
+Vae ¡ Campa...--Il C'or descanse...
+--Mia Soave...--Ave!...--AlmÈa!...
 
---N√£o Doe Por Ti Meu Peito...
---N√£o Choro no Orar Cicio...
+--N„o Doe Por Ti Meu Peito...
+--N„o Choro no Orar Cicio...
 --Em Profano...--Edd'ora... Eleito!...
 
---Balsame--a Campa--o Roc√≠o
+--Balsame--a Campa--o RocÌo
 Que Cahe sobre o Ultimo Leito!...
 --Mi' Soave!... Edd'ora Addio!...
 
@@ -524,14 +524,14 @@ Que Cahe sobre o Ultimo Leito!...
 
 
 --Estes Versos Antigos Que Eu Dizia
-Ao Compasso Que Marca o Cora√ß√£o
-Lembram Ainda?...--Lembrar√£o um Dia...
+Ao Compasso Que Marca o CoraÁ„o
+Lembram Ainda?...--Lembrar„o um Dia...
 --Nas Memorias Dispersas Recolhidas
-Sequer, na Piedosa Devo√ß√£o
+Sequer, na Piedosa DevoÁ„o
 D'Algum Livro de Cousas Esquecidas?...
 --Accaso o Que Ora Canta... Vive... Existe
-Nunca Mais Lembrar√°--Eternamente?...
---E, Vindo do N√£o-Ser, Vae, Finalmente,
+Nunca Mais Lembrar·--Eternamente?...
+--E, Vindo do N„o-Ser, Vae, Finalmente,
 Dormir no Nada... Magestoso e Triste?...
 
 
@@ -541,7 +541,7 @@ ANGELO DE LIMA.
 
 
 
-_MARIO DE S√Å-CARNEIRO_
+_MARIO DE S¡-CARNEIRO_
 
 *POEMAS SEM SUPORTE*
 
@@ -554,73 +554,73 @@ a Santa Rita Pintor.
 _ELEGIA_
 
 
-Minha presen√ßa de setim,
-Toda bordada a c√¥r de rosa,
-Que f√¥ste sempre um adeus em mim
+Minha presenÁa de setim,
+Toda bordada a cÙr de rosa,
+Que fÙste sempre um adeus em mim
 Por uma tarde silenciosa...
 
-√ì dedos longos que toquei,
+” dedos longos que toquei,
 Mas se os toquei, desapareceram...
-√ì minhas b√¥cas que esperei,
+” minhas bÙcas que esperei,
 E nunca mais se me estenderam...
 
 Meus Boulevards d'Europa e beijos
-Onde fui s√≥ um espectador...
---Que s√¥no lasso, o meu amor;
+Onde fui sÛ um espectador...
+--Que sÙno lasso, o meu amor;
 --Que poeira d'ouro, os meus desejos...
 
-Ha m√£os pendidas de amuradas
+Ha m„os pendidas de amuradas
 No meu anseio a divagar...
 Em mim findou todo o luar
 Da lua dum conto de fadas...
 
 Eu fui alguem que se enganou
 E achou mais belo ter errado...
-Mantenho o tr√¥no mascarado
+Mantenho o trÙno mascarado
 Aonde me sagrei Pierrot.
 
 Minhas tristezas de cristal,
-Meus d√©beis arrependimentos
-S√£o hoje os velhos paramentos
+Meus dÈbeis arrependimentos
+S„o hoje os velhos paramentos
 Duma pesada Catedral.
 
 Pobres enleios de carmim
 Que reservara pra algum dia...
 A sombra loira, fugidia,
-J√°mais se abeirar√° de mim...
+J·mais se abeirar· de mim...
 
---√ì minhas cartas nunca escritas,
+--” minhas cartas nunca escritas,
 E os meus retratos que rasguei...
-As ora√ß√µes que n√£o rezei...
-Madeixas falsas, fl√¥res e fitas...
+As oraÁıes que n„o rezei...
+Madeixas falsas, flÙres e fitas...
 
-O ¬´petit-bleu¬ª que n√£o chegou...
+O ´petit-bleuª que n„o chegou...
 As horas vagas do jardim...
 O anel de beijos e marfim
 Que os seus dedos nunca anelou...
 
-Convalescen√ßa afectuosa
+ConvalescenÁa afectuosa
 Num hospital branco de paz...
-A d√¥r magoada e duvidosa
+A dÙr magoada e duvidosa
 Dum outro tempo mais lilaz...
 
-Um bra√ßo que nos acalenta...
-Livros de c√¥r √° cabeceira...
+Um braÁo que nos acalenta...
+Livros de cÙr · cabeceira...
 Minha ternura friorenta--
 Ter amas pela vida inteira...
 
-√ì grande Hotel universal
-Dos meus fren√©ticos enganos,
+” grande Hotel universal
+Dos meus frenÈticos enganos,
 Com aquecimento-central,
 Escrocs, cocottes, tziganos...
 
-√ì meus Caf√©s de grande vida
-Com dan√ßarinas multicol√¥res...
---Ai, n√£o s√£o mais as minhas d√¥res
-Que a sua dan√ßa interrompida...
+” meus CafÈs de grande vida
+Com danÁarinas multicolÙres...
+--Ai, n„o s„o mais as minhas dÙres
+Que a sua danÁa interrompida...
 
 
-_Lisboa--mar√ßo de 1915._
+_Lisboa--marÁo de 1915._
 
 
 
@@ -628,89 +628,89 @@ _Lisboa--mar√ßo de 1915._
 _MANUCURE_
 
 
-Na sensa√ß√£o de estar polindo as minhas unhas,
-Subita sensa√ß√£o inexplicavel de ternura,
+Na sensaÁ„o de estar polindo as minhas unhas,
+Subita sensaÁ„o inexplicavel de ternura,
 Todo me incluo em Mim--piedosamente.
-Emtanto eis-me s√≥zinho no Caf√©:
-De manh√£, como sempre, em bocejos amarelos.
+Emtanto eis-me sÛzinho no CafÈ:
+De manh„, como sempre, em bocejos amarelos.
 De volta, as mesas apenas--ingratas
 E duras, esquinadas na sua desgraciosidade
-Bo√ßal, quadrangular e livre-pensadora...
-F√≥ra: dia de Maio em luz
-E sol--dia brutal, provinciano e democr√°tico
+BoÁal, quadrangular e livre-pensadora...
+FÛra: dia de Maio em luz
+E sol--dia brutal, provinciano e democr·tico
 Que os meus olhos delicados, refinados, esguios e citadinos
-N√£o podem tolerar--e apenas for√ßados
+N„o podem tolerar--e apenas forÁados
 Suportam em nauseas. Toda a minha sensibilidade
 Se ofende com este dia que ha de ter cantores
-Entre os amigos com quem ando √°s vezes--
+Entre os amigos com quem ando ·s vezes--
 Trigueiros, naturais, de bigodes fartos--
-Que escrevem, mas t√™em partido politico
+Que escrevem, mas tÍem partido politico
 E assistem a congressos republicanos,
-V√£o √°s mulheres, gostam de vinho tinto,
+V„o ·s mulheres, gostam de vinho tinto,
 De peros ou de sardinhas fritas...
 
-E eu sempre na sensa√ß√£o de polir as minhas unhas
+E eu sempre na sensaÁ„o de polir as minhas unhas
 E de as pintar com um verniz parisiense,
 Vou-me mais e mais enternecendo
-At√© chorar por Mim...
-Mil c√¥res no Ar, mil vibra√ß√µes latejantes,
+AtÈ chorar por Mim...
+Mil cÙres no Ar, mil vibraÁıes latejantes,
 Brumosos planos desviados
-Abatendo flexas, listas vol√∫veis, discos flexiveis,
+Abatendo flexas, listas vol˙veis, discos flexiveis,
 Chegam tenuemente a perfilar-me
 Toda a ternura que eu pudera ter vivido,
 Toda a grandeza que eu pudera ter sentido,
 Todos os scenarios que entretanto Fui...
-Eis como, pouco a pouco, se me f√≥ca
-A obsess√£o d√©bil dum sorriso
+Eis como, pouco a pouco, se me fÛca
+A obsess„o dÈbil dum sorriso
 Que espelhos vagos reflectiram...
-Leve inflex√£o a sinusar...
+Leve inflex„o a sinusar...
 Fino arrepio cristalisado...
 Inatingivel deslocamento...
-Veloz fa√∫lha atmosf√©rica...
+Veloz fa˙lha atmosfÈrica...
 
-E tudo, tudo assim me √© conduzido no espa√ßo
-Por innumeras intersec√ß√µes de planos
+E tudo, tudo assim me È conduzido no espaÁo
+Por innumeras intersecÁıes de planos
 Multiplos, livres, resvalantes.
 
-√â l√°, no grande Espelho de fantasmas
+… l·, no grande Espelho de fantasmas
 Que ondula e se entregolfa todo o meu passado,
 Se desmorona o meu presente,
-E o meu futuro √© j√° poeira...
+E o meu futuro È j· poeira...
 . . . . . . . . . . . . . . . . . . . . . . . . .
 
-Deponho ent√£o as minhas limas,
+Deponho ent„o as minhas limas,
 As minhas tesouras, os meus godets de verniz,
-Os polidores da minha sensa√ß√£o--
+Os polidores da minha sensaÁ„o--
 E solto meus olhos a enlouquecerem de Ar!
-Oh! poder exaurir tudo quanto n√™le se incrusta,
+Oh! poder exaurir tudo quanto nÍle se incrusta,
 Varar a sua Beleza--sem suporte, emfim!--
-Cantar o que √™le revolve, e amolda, impregna,
-Alastra e expande em vibra√ß√µes:
-Subtilisado, sucessivo--perp√©tuo ao Infinito!...
-Que cal√≥tes suspensas entre ogivas de ru√≠nas,
-Que triangulos s√≥lidos pelas naves partidos!
-Que h√©lices atr√°s dum v√¥o vertical!
-Que esferas graciosas sucedendo a uma bola de t√©nnis!--
-Que loiras oscila√ß√µes se ri a b√¥ca da jogadora...
-Que grinaldas vermelhas, que l√©ques, se a dan√ßarina russa,
-Meia-nua, agita as m√£os pintadas da Salom√©
+Cantar o que Íle revolve, e amolda, impregna,
+Alastra e expande em vibraÁıes:
+Subtilisado, sucessivo--perpÈtuo ao Infinito!...
+Que calÛtes suspensas entre ogivas de ruÌnas,
+Que triangulos sÛlidos pelas naves partidos!
+Que hÈlices atr·s dum vÙo vertical!
+Que esferas graciosas sucedendo a uma bola de tÈnnis!--
+Que loiras oscilaÁıes se ri a bÙca da jogadora...
+Que grinaldas vermelhas, que lÈques, se a danÁarina russa,
+Meia-nua, agita as m„os pintadas da SalomÈ
 Num grande palco a Ouro!
 --Que rendas outros bailados!
 
-Ah! mas que inflex√µes de precipicio, estridentes, cegantes,
+Ah! mas que inflexıes de precipicio, estridentes, cegantes,
 Que vertices brutais a divergir, a ranger,
 Se facas de apache se entrecruzam
 Altas madrugadas frias...
 
-E pelas esta√ß√µes e cais de embarque,
+E pelas estaÁıes e cais de embarque,
 Os grandes caixotes acumulados,
-As malas, os fardos--p√™le-m√™le...
+As malas, os fardos--pÍle-mÍle...
 Tudo inserto em Ar,
-Afei√ßoado por √™le, separado por √™le
+AfeiÁoado por Íle, separado por Íle
 Em multiplos intersticios
 Por onde eu sinto a minh'Alma a divagar!...
 
---√ì beleza futurista das mercadorias!
+--” beleza futurista das mercadorias!
 
 --Sarapilheira dos fardos,
 Como eu quisera togar-me de Ti!
@@ -719,7 +719,7 @@ Como eu anseara cravar os dentes em Ti!
 E os pregos, as cordas, os aros...--
 Mas, acima de tudo, como bailam faiscantes
 A meus olhos audazes de beleza,
-As inscri√ß√µes de todos esses fardos--
+As inscriÁıes de todos esses fardos--
 Negras, vermelhas, azuis ou verdes--
 Gritos de actual e Comercio & Industria
 Em transito cosmopolita:
@@ -729,50 +729,50 @@ Em transito cosmopolita:
 *843--AG LISBON*
 *492--WR MADRID*
 
-√Åvido, em sucess√£o da nova Beleza atmosferica,
-O meu olhar coleia sempre em frenesis de absorv√™-la
-√Å minha volta. E a que m√°gicas, em verdade, tudo baldeado
+¡vido, em sucess„o da nova Beleza atmosferica,
+O meu olhar coleia sempre em frenesis de absorvÍ-la
+¡ minha volta. E a que m·gicas, em verdade, tudo baldeado
 Pelo grande fluido insidioso,
-Se volve, de grotesco--c√©lere,
-Imponder√°vel, esbelto, leviano...
+Se volve, de grotesco--cÈlere,
+Imponder·vel, esbelto, leviano...
 --Olha as mesas... Eia! Eia!
-L√° v√£o todas no Ar √°s cabriolas,
-Em s√©ries instantaneas de quadrados
-Ali--mas j√°, mais longe, em lozangos desviados...
-E entregolfam-se as filas indestrin√ßavelmente,
-E misturam-se √°s mesas as insinua√ß√µes berrantes
+L· v„o todas no Ar ·s cabriolas,
+Em sÈries instantaneas de quadrados
+Ali--mas j·, mais longe, em lozangos desviados...
+E entregolfam-se as filas indestrinÁavelmente,
+E misturam-se ·s mesas as insinuaÁıes berrantes
 Das bancadas de veludo vermelho
-Que, ladeando-o, correm todo o Caf√©...
+Que, ladeando-o, correm todo o CafÈ...
 E, mais alto, em planos obliquos,
-Simbolismos aereos de heraldicas t√©nues
+Simbolismos aereos de heraldicas tÈnues
 Deslumbram os xadrezes dos fundos de palhinha
-Das cadeiras que, estremunhadas em seu s√¥no horisontal,
-V√° l√°, se erguem tambem na sarabanda...
+Das cadeiras que, estremunhadas em seu sÙno horisontal,
+V· l·, se erguem tambem na sarabanda...
 
 Meus olhos ungidos de Novo,
 Sim!--meus olhos futuristas, meus olhos cubistas, meus olhos interseccionistas,
 
-N√£o param de fremir, de sorver e faiscar
-Toda a beleza espectral, transferida, suced√¢nea,
+N„o param de fremir, de sorver e faiscar
+Toda a beleza espectral, transferida, suced‚nea,
 Toda essa Beleza-sem-Suporte,
 Desconjuntada, emersa, variavel sempre
-E livre--em muta√ß√µes continuas,
-Em insond√°veis divergencias...
+E livre--em mutaÁıes continuas,
+Em insond·veis divergencias...
 
---Quanto √° minha ch√°vena banal de porcelana?
+--Quanto · minha ch·vena banal de porcelana?
 
 Ah, essa esgota-se em curvas gregas de anfora,
-Ascende num v√©rtice de espiras
+Ascende num vÈrtice de espiras
 Que o seu rebordo frisado a ouro emite...
 
-√â no ar que ondeia tudo! √â l√° que tudo existe!...
+… no ar que ondeia tudo! … l· que tudo existe!...
 
-... Dos longos vidros polidos que deitam s√¥bre a rua,
-Agora, chegam teorias de v√©rtices hialinos
-A latejar cristalisa√ß√µes nevoadas e difusas.
+... Dos longos vidros polidos que deitam sÙbre a rua,
+Agora, chegam teorias de vÈrtices hialinos
+A latejar cristalisaÁıes nevoadas e difusas.
 Como um raio de sol atravessa a vitrine maior,
-Bailam no espa√ßo a tingi-lo em fantasias,
-La√ßos, grifos, setas, azes--na poeira multicolor--.
+Bailam no espaÁo a tingi-lo em fantasias,
+LaÁos, grifos, setas, azes--na poeira multicolor--.
 
 *APOTEOSE.*
 
@@ -782,21 +782,21 @@ Junto de mim ressoa um timbre:
 Laivos sonoros!
 Era o que faltava na paisagem...
 As ondas acusticas ainda mais a subtilisam:
-L√° v√£o! L√° v√£o! L√° correm √°geis,
-L√° se esgueiram gentis, franzinas c√¥rsas d'Alma...
+L· v„o! L· v„o! L· correm ·geis,
+L· se esgueiram gentis, franzinas cÙrsas d'Alma...
 
 Pede uma voz um numero ao telefone:
 Norte--2, 0, 5, 7...
 E no Ar eis que se cravam moldes de algarismos:
 
-ASSUN√á√ÉO DA BELEZA NUM√âRICA!
-[Nota do Transcritor: Aqui surge a composi√ß√£o com n√∫meros.]
+ASSUN«√O DA BELEZA NUM…RICA!
+[Nota do Transcritor: Aqui surge a composiÁ„o com n˙meros.]
 
 Mais longe um criado deixa cair uma bandeja...
-N√£o tem fim a maravilha!
-Um novo turbilh√£o de ondas prateadas
-Se alarga em √©cos circulares, r√∫tilos, farfalhantes
-Como √°gua fria a salpicar e a refrescar o ambiente...
+N„o tem fim a maravilha!
+Um novo turbilh„o de ondas prateadas
+Se alarga em Ècos circulares, r˙tilos, farfalhantes
+Como ·gua fria a salpicar e a refrescar o ambiente...
 
 --Meus olhos extenuaram de Beleza!
 
@@ -805,119 +805,119 @@ Descem-me as palpebras vislumbradamente...
 
 . . . . . . . . . . . . . . . . . . . . . . . . .
 
-... Come√ßam-me a lembrar aneis de jade
-De certas m√£os que um dia possu√≠--
-E ei-los, de sort√≠l√©gio, j√° enroscando o Ar...
+... ComeÁam-me a lembrar aneis de jade
+De certas m„os que um dia possuÌ--
+E ei-los, de sortÌlÈgio, j· enroscando o Ar...
 Lembram-me beijos--e sobem
-Marcheta√ß√µes a carmim...
+MarchetaÁıes a carmim...
 
-Divergem h√©lices lantejoulares...
+Divergem hÈlices lantejoulares...
 Abrem-se cristas, fendem-se gumes...
 Pequenos timbres d'ouro se enclavinham...
-Al√ßam-se espiras, travam-se cruzetas...
+AlÁam-se espiras, travam-se cruzetas...
 Quebram-se estrelas, sossobram plumas...
 
-Dorido, para roubar meus olhos √° riqueza,
+Dorido, para roubar meus olhos · riqueza,
 Fincadamente os cerro...
-Embalde! N√£o ha defesa:
+Embalde! N„o ha defesa:
 Zurzem-se planos a meus ouvidos, em catadupas,
-Durante a escurid√£o--
+Durante a escurid„o--
 Planos, intervalos, quebras, saltos, declives...
 
---√ì m√°gica teatral da atmosfera,
---√ì m√°gica contemporanea--pois s√≥ n√≥s,
-Os de Hoje, te dobr√°mos e fremimos!
+--” m·gica teatral da atmosfera,
+--” m·gica contemporanea--pois sÛ nÛs,
+Os de Hoje, te dobr·mos e fremimos!
 
 . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Eia! Eia!
-Singra o tropel das vibra√ß√µes
+Singra o tropel das vibraÁıes
 Como nunca a exgotar-se em ritmos iriados!
 Eu proprio sinto-me ir transmitido pelo ar, aos novelos!
 Eia! Eia! Eia!...
 
-(Como tudo √© diferente
-Irrealisado a g√°s:
+(Como tudo È diferente
+Irrealisado a g·s:
 De livres pensadoras, as mesas fluidicas,
 Diluidas,
-S√£o j√° como eu catolicas, e s√£o como eu monarquicas!...)
+S„o j· como eu catolicas, e s„o como eu monarquicas!...)
 
 . . . . . . . . . . . . . . . . . . . . . . . . .
 . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Sereno.
 Em minha face assenta-se um estrangeiro
-Que desdobra o ¬´Matin¬ª.
-Meus olhos, j√° tranquilos de espa√ßo,
+Que desdobra o ´Matinª.
+Meus olhos, j· tranquilos de espaÁo,
 Ei-los que, ao entrever de longe os caracteres,
-Come√ßam a vibrar
+ComeÁam a vibrar
 Toda a nova sensibilidade tipografica.
 
-Eh-l√°! grosso normando das manchettes em sensa√ß√£o!
-It√°lico afilado das cr√≥nicas diarias!
+Eh-l·! grosso normando das manchettes em sensaÁ„o!
+It·lico afilado das crÛnicas diarias!
 Corpo-12 romano, instalado, burguez e confortavel!
-G√≥ticos, cursivos, rondas, inglesas, capitais!
+GÛticos, cursivos, rondas, inglesas, capitais!
 Tipo miudinho dos pequenos anuncios!
 Meu elzevir de curvas pederastas!...
 E os ornamentos tipograficos, as vinhetas,
 As grossas tarjas negras,
-Os ¬´puzzle¬ª frivolos da pontua√ß√£o,
+Os ´puzzleª frivolos da pontuaÁ„o,
 Os asteriscos--e as aspas... os acentos...
-Eh-l√°! Eh-l√°! Eh-l√°!...
+Eh-l·! Eh-l·! Eh-l·!...
 
-[Nota do Transcritor: Aqui surge uma composi√ß√£o com caracteres.]
+[Nota do Transcritor: Aqui surge uma composiÁ„o com caracteres.]
 
 --Abecedarios antigos e modernos,
-Gregos, g√≥ticos,
+Gregos, gÛticos,
 Slavos, arabes, latinos--,
-Eia-h√¥! Eia-h√¥! Eia-h√¥!...
+Eia-hÙ! Eia-hÙ! Eia-hÙ!...
 
-(Hip! Hip-l√°! nova simpatia onomotopaica,
+(Hip! Hip-l·! nova simpatia onomotopaica,
 Rescendente da beleza alfabetica pura:
 Uu-um... kess-kresss... vliiim... tlin... blong... flong... flak...
-P√¢-am-pam! Pam... pam... pum... pum... Hurrah!)
+P‚-am-pam! Pam... pam... pum... pum... Hurrah!)
 
-Mas o estrangeiro vira a p√°gina,
-L√™ os telegramas da Ultima-Hora,
-T√£o leve como a folha do jornal,
+Mas o estrangeiro vira a p·gina,
+LÍ os telegramas da Ultima-Hora,
+T„o leve como a folha do jornal,
 Num rodopio de letras,
-Todo o mundo repousa em suas m√£os!
+Todo o mundo repousa em suas m„os!
 
---Hurrah! por v√≥s, industria tipografica!
---Hurrah! por v√≥s, empresas jornalisticas!
+--Hurrah! por vÛs, industria tipografica!
+--Hurrah! por vÛs, empresas jornalisticas!
 
 *MARINONI*     *LINOTYPE*
 *O SECULO*     *BERLINER TAGEBLATT*
 *LE JOURNAL*     *LA PRENSA*
 *CORRIERE DELLA SERA*     *THE TIMES*
-*NOVO√èE VREMI√Å*
+*NOVOœE VREMI¡*
 
 Por ultimo desdobra-se a folha dos anuncios...
---√ì emotividade zebrante do Reclamo,
-√ì est√©tica futurista--_up-to-date_ das marcas comerciais,
+--” emotividade zebrante do Reclamo,
+” estÈtica futurista--_up-to-date_ das marcas comerciais,
 Das firmas e das taboletas!...
 
 *LE BOUILLON KUB*
-*VIN D√âSILES*     *PASTILLES VALDA*
-*BELLE JARDINI√àRE*
+*VIN D…SILES*     *PASTILLES VALDA*
+*BELLE JARDINI»RE*
 *FONSECAS, SANTOS & VIANNA*     HUNTLEY & PALMERS     *"RODDY"*
 _*Joseph Paquin, Bertholle & C.^ie*_
 _*LES PARFUMS DE*_ *COTY*
-*SOCI√âT√â G√âN√âRALE*
-*CR√âDIT LYONNAIS*
+*SOCI…T… G…N…RALE*
+*CR…DIT LYONNAIS*
 *BOOTH LINE*     *NORDDEUTSCHER LLOYD*
 *COMPAGNE INTERNATIONAL DES WAGONS LITS
-ET DES GRANDS EXPRESS EUROP√âENS*
+ET DES GRANDS EXPRESS EUROP…ENS*
 
 E a esbelta singeleza das firmas, LIMITADA.
 
 . . . . . . . . . . . . . . . . . . . . . . . . .
 . . . . . . . . . . . . . . . . . . . . . . . . .
 
-Tudo isto, por√™m, tudo isto, de novo eu refiro ao Ar
-Pois toda esta Beleza ondeia l√° tambem:
+Tudo isto, porÍm, tudo isto, de novo eu refiro ao Ar
+Pois toda esta Beleza ondeia l· tambem:
 Numeros e letras, firmas e cartazes--
-Altos-rel√™vos, ornamenta√ß√£o!...--
+Altos-relÍvos, ornamentaÁ„o!...--
 Palavras em liberdade, sons sem-fio,
 
 MARINETTI + PICASSO = PARIS < *SANTA RITA PIN-
@@ -926,10 +926,10 @@ ALVARO DE CAMPOS
 !!!*
 
 Antes de me erguer lembra-me ainda,
-A maravilha parisiense dos balc√µes de zinco,
-Nos bares... n√£o sei porqu√™...
+A maravilha parisiense dos balcıes de zinco,
+Nos bares... n„o sei porquÍ...
 
---_Un vermouth cassis_... _Un Pernod √† l'eau_...
+--_Un vermouth cassis_... _Un Pernod ‡ l'eau_...
 _Un amer-citron_... _une grenadine_...
 
 . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -940,56 +940,56 @@ Levanto-me...
 --Derrota!
 Ao fundo, em maior excesso, ha espelhos que reflectem
 Tudo quanto oscila pelo Ar:
-Mais belo atrav√©s d√™les,
+Mais belo atravÈs dÍles,
 A mais subtil destaque...
---√ì sonho desprendido, √≥ luar errado,
+--” sonho desprendido, Û luar errado,
 Nunca em meus versos poderei cantar,
-Como anseara, at√© ao espasmo e ao Oiro,
+Como anseara, atÈ ao espasmo e ao Oiro,
 Toda essa Beleza inatingivel,
 Essa Beleza pura!
 
-R√≥lo de mim por uma escada abaixo...
-Minhas m√£os aperreio,
-Esque√ßo-me de todo da ideia de que as pintava...
+RÛlo de mim por uma escada abaixo...
+Minhas m„os aperreio,
+EsqueÁo-me de todo da ideia de que as pintava...
 E os dentes a ranger, os olhos desviados,
-Sem chap√©u, como um possesso:
+Sem chapÈu, como um possesso:
 Decido-me!
-Corro ent√£o para a rua aos pinotes e aos gritos:
+Corro ent„o para a rua aos pinotes e aos gritos:
 
---Hil√°! Hil√°! Hil√°-h√¥! Eh! Eh!...
+--Hil·! Hil·! Hil·-hÙ! Eh! Eh!...
 
 Tum... tum... tum... tum tum tum tum...
 
 *VLIIIMIIIIM...*
 
-*BR√Å-√îH... BR√Å-√îH... BR√Å-√îH!...*
+*BR¡-‘H... BR¡-‘H... BR¡-‘H!...*
 
 *FUTSCH! FUTSCH!...*
 
 *ZING-TANG... ZING-TANG...*
            *TANG... TANG... TANG...*
 
-*PR√Å √Å K K!...*
+*PR¡ ¡ K K!...*
 
 
 _Lisboa--Maio de 1915._
 
 
-MARIO DE S√Å-CARNEIRO.
+MARIO DE S¡-CARNEIRO.
 
 
 
 
 
-[Nota do Transcritor: Aqui surge a fotograva√ß√£o de _Hors Texte_ de Santa Rita Pintor.]
+[Nota do Transcritor: Aqui surge a fotogravaÁ„o de _Hors Texte_ de Santa Rita Pintor.]
 
 
 *SANTA RITA PINTOR.*
 PARIS ANNO 1913.
 
 
-Compenetra√ß√£o est√°tica interior de uma cabe√ßa--complementarismo
-cong√©nito absoluto.
+CompenetraÁ„o est·tica interior de uma cabeÁa--complementarismo
+congÈnito absoluto.
 
 
 _(SENSIBILIDADE LITHOGRAPHICA.)_
@@ -1007,25 +1007,25 @@ EDUARDO GUIMARAENS
 
 
 
-_SOBRE O CYSNE DE ST√âPHANE MALLARM√â_
+_SOBRE O CYSNE DE ST…PHANE MALLARM…_
 
 
-Um sonho existe em n√≥s como um cysne num lago
+Um sonho existe em nÛs como um cysne num lago
 de agua profunda e clara e em cujo fundo existe
 um outro cysne branco e ainda mais branco e triste
-que a sua f√≥rma real de um tom dolente e vago.
+que a sua fÛrma real de um tom dolente e vago.
 
 Nada: e os gestos que tem, de caricia e de afago,
 lembram da imagem tenue, onde a tristeza insiste
-em ser mais alva, a gra√ßa inversa que consiste
+em ser mais alva, a graÁa inversa que consiste
 a dolente mudez de um espelho presago.
 
-Um Cysne existe em n√≥s como um sonho de calma,
+Um Cysne existe em nÛs como um sonho de calma,
 placido, um Cysne branco e triste, longo e lasso
 e puro, sobre a face occulta de nossa alma.
 
 E a sua imagem lembra a imagem de um destino
-de pureza e de am√¥r que segue, passo a passo,
+de pureza e de amÙr que segue, passo a passo,
 este Sonho immortal como um Cysne divino.
 
 
@@ -1034,17 +1034,17 @@ este Sonho immortal como um Cysne divino.
 _FOLHAS MORTAS_
 
 
-D√™ste relogio belga, enorme, branco e triste,
+DÍste relogio belga, enorme, branco e triste,
 tombam as horas como folhas mortas.
 Por uma tarde outomnal, triste de spleen e folhas mortas:
 Em cada vaso negro ha um lirio nobre e triste.
 
 Em cada vaso negro ha um lirio nobre e triste
 e as horas tombam como folhas mortas.
-Porque n√£o nasci eu um lirio nobre e triste,
-p√©tala sem perfume entre essas folhas mortas?
+Porque n„o nasci eu um lirio nobre e triste,
+pÈtala sem perfume entre essas folhas mortas?
 
-Um Versalhes fulgura em cada illus√£o triste,
+Um Versalhes fulgura em cada illus„o triste,
 um Versalhes de outomno atapetado de folhas mortas!
 Em cada vaso negro ha um lirio nobre e triste
 e as horas tombam como folhas mortas...
@@ -1055,20 +1055,20 @@ e as horas tombam como folhas mortas...
 _SOB OS TEUS OLHOS SEM LAGRIMAS_
 
 
-Ah! n√£o dir√°s por certo
-que n√£o te amei, que n√£o soffri!
---Foi-me a tua alma assim como um sal√£o deserto
+Ah! n„o dir·s por certo
+que n„o te amei, que n„o soffri!
+--Foi-me a tua alma assim como um sal„o deserto
 onde, uma noite, me perdi.
 
 Um ramo de violetas fenecia
-em cada movel amortalhado pelo p√≥;
+em cada movel amortalhado pelo pÛ;
 a purpura das cortinas, rubra, estremecia
-presa a cada janella. Eu hesitava, s√≥.
+presa a cada janella. Eu hesitava, sÛ.
 
---E era meu cora√ß√£o, por ti quasi ferido,
-√° duvida infantil que o emmudecera j√°,
+--E era meu coraÁ„o, por ti quasi ferido,
+· duvida infantil que o emmudecera j·,
 um velho piano adormecido
-que ninguem mais acordar√°.
+que ninguem mais acordar·.
 
 
 EDUARDO GUIMARAENS.
@@ -1080,7 +1080,7 @@ EDUARDO GUIMARAENS.
 *ATELIER*
 
 
-NOVELA VERT√çGICA
+NOVELA VERTÕGICA
 
 POR
 
@@ -1092,273 +1092,273 @@ RAUL LEAL
 *Atelier*
 
 
-Em ondas de perf√∫me estranho as convulsivas exala√ß√µes do Sonho
-iluminam v√°gamente o l√°r sombrio do artista que outra luz quasi n√£o
-possue. A poucos p√°ssos duma t√©la, profunda como a dor que ela evoca,
-o modelo por entre as vibra√ß√µes duma alucina√ß√£o sinistra todo
-vigorosamente cont√≥rce a alma, pelo semblante derramando a tort√∫ra que
-a alma cava. Compreende a √°rte, no seu espirito sente a express√£o do
-belo que todo o arrasta e anci√≥samente procurando ao artista transmitir
-a sublime inspira√ß√£o da d√¥r, f√≥rte, arrebatadora, na pr√≥pria fisionomia
-a idialisa torturando o espirito que s√≥ assim, no semblante se
-concretisa... pela d√¥r! √â gigantesca a sua personalidade que ao b√©lo
-tudo sacrifica, que s√≥ do b√©lo s√°be viv√©r!...
+Em ondas de perf˙me estranho as convulsivas exalaÁıes do Sonho
+iluminam v·gamente o l·r sombrio do artista que outra luz quasi n„o
+possue. A poucos p·ssos duma tÈla, profunda como a dor que ela evoca,
+o modelo por entre as vibraÁıes duma alucinaÁ„o sinistra todo
+vigorosamente contÛrce a alma, pelo semblante derramando a tort˙ra que
+a alma cava. Compreende a ·rte, no seu espirito sente a express„o do
+belo que todo o arrasta e anciÛsamente procurando ao artista transmitir
+a sublime inspiraÁ„o da dÙr, fÛrte, arrebatadora, na prÛpria fisionomia
+a idialisa torturando o espirito que sÛ assim, no semblante se
+concretisa... pela dÙr! … gigantesca a sua personalidade que ao bÈlo
+tudo sacrifica, que sÛ do bÈlo s·be vivÈr!...
 
 Envolvido nas trevas convulsivas que o seu espirito concebe, Luar
 ardentemente transpira o delirio da morte, o espasmo eterno da
-Existencia que s√≥ ele p√≥de sentir, e √© nesse ambiente de horror
-vigor√≥samente concentrado nele, sintese suprema do Universo, √© nesse
+Existencia que sÛ ele pÛde sentir, e È nesse ambiente de horror
+vigorÛsamente concentrado nele, sintese suprema do Universo, È nesse
 ambiente, forte e sublime, que Luar, o modelo idial, procura eternamente
 arrastar a vida!... E o horror em que a sua alma se torna, ele domina
 e... vigorisa...!
 
-Cresce nesse momento duma arte tragica que a mat√©ria mal toca e em que
-s√≥ o espirito vibra em vibra√ß√µes transcendentes que mal se concretisam
-pela sensa√ß√£o, cresce nesses instantes, apagados para a vida vulgar
-que o intimo das cousas n√£o concebe, que o espiritualismo convulsivo
+Cresce nesse momento duma arte tragica que a matÈria mal toca e em que
+sÛ o espirito vibra em vibraÁıes transcendentes que mal se concretisam
+pela sensaÁ„o, cresce nesses instantes, apagados para a vida vulgar
+que o intimo das cousas n„o concebe, que o espiritualismo convulsivo
 da Existencia totalmente desconhece numa inconsciencia estranha, cresce
 na alma de Luar a loucura sublime de espirito que a tenebrosa, a
 imaterial vertigem do Universo, da Vida delirantemente acentua numa
 tragedia divina, que o transcendentalismo ardente da Ancia todo
-dolorosamente exprime pelo espasm√≥dico histerismo que a Existencia
+dolorosamente exprime pelo espasmÛdico histerismo que a Existencia
 forma, pelo arrebatamento convulsivo do Sonho Universal!... E nesses
-instantes tudo nele vibra, tudo que √© nele o Espirito... Da sua
-concep√ß√£o tr√°gica se alimenta, alimentando-se, assim, da sua alma, da
+instantes tudo nele vibra, tudo que È nele o Espirito... Da sua
+concepÁ„o tr·gica se alimenta, alimentando-se, assim, da sua alma, da
 sua alma que se torna a alma da Existencia!
 
 No atelier do pintor Luar vigorosamente assim prepara a alma, preparando
-assim, a express√£o do semblante. E torna-se sublime, atinge a vertigem
-do Infinito... Atrav√©s do seu delirio, do sonho convulsivo que todo o
-arrebata, ele desperta o artista que assim, todo se sublima tambem! √â
-Luar a pr√≥pria inspira√ß√£o que o artista eterisa...
+assim, a express„o do semblante. E torna-se sublime, atinge a vertigem
+do Infinito... AtravÈs do seu delirio, do sonho convulsivo que todo o
+arrebata, ele desperta o artista que assim, todo se sublima tambem! …
+Luar a prÛpria inspiraÁ„o que o artista eterisa...
 
-Num crescendo impetuoso o sonho em que Luar todo se torna, no g√©nio
-do pintor se ev√≥la todo e, assim, o artista em que o sonho v√°gamente
-se esb√°te perdendo-se por fim, na mesma di√°fana atmosf√©ra idial se
-el√©va, tr√°gicamente divinisando a alma!... Tudo √© et√©reo e profundamente
-convulsivo; uma alucina√ß√£o vibrante tudo transforma, tudo arrebata
-no seu turbilh√£o genial...! Uma poder√≥sa ac√ß√£o mediumnica a levita√ß√£o
-total das cousas, assim eterisadas, provoca ent√£o... E √© Luar o f√≥co
-tenebroso da alucina√ß√£o sinistra que em red√≥r se esb√°te, vagificando-se
+Num crescendo impetuoso o sonho em que Luar todo se torna, no gÈnio
+do pintor se evÛla todo e, assim, o artista em que o sonho v·gamente
+se esb·te perdendo-se por fim, na mesma di·fana atmosfÈra idial se
+elÈva, tr·gicamente divinisando a alma!... Tudo È etÈreo e profundamente
+convulsivo; uma alucinaÁ„o vibrante tudo transforma, tudo arrebata
+no seu turbilh„o genial...! Uma poderÛsa acÁ„o mediumnica a levitaÁ„o
+total das cousas, assim eterisadas, provoca ent„o... E È Luar o fÛco
+tenebroso da alucinaÁ„o sinistra que em redÛr se esb·te, vagificando-se
 mais!...
 
 No arrebatamento vibrante em que a alma de Luar, em que Luar consigo
-arrasta tudo, uma paix√£o crescente fortemente se esbo√ßa e ela que a
-personalidade genial do modelo agita toda, nas convuls√µes da carne
-toda se exprimindo, em ondas solu√ßantes d'ancia se espraia
-impetuosamente atrav√©s do √©ter nebuloso que todo se perde na mans√£o do
-artista!... Formidavel se torna a paix√£o crescente que tudo arrebata
+arrasta tudo, uma paix„o crescente fortemente se esboÁa e ela que a
+personalidade genial do modelo agita toda, nas convulsıes da carne
+toda se exprimindo, em ondas soluÁantes d'ancia se espraia
+impetuosamente atravÈs do Èter nebuloso que todo se perde na mans„o do
+artista!... Formidavel se torna a paix„o crescente que tudo arrebata
 e tudo quer arrebatar... Como duendes infernaes que mal se esbocem, a
-concep√ß√£o doentia de Luar sombras ef√©meras vertiginosamente gera e
+concepÁ„o doentia de Luar sombras efÈmeras vertiginosamente gera e
 tudo que os sentidos ainda pode ferir, num paroxismo de loucura se
-debate convulsivamente em estert√¥r qual caterva turbilhonaria de todas
-as express√µes da d√¥r que s√≥ uma alma vigorosa conceber p√≥de! Sim, tudo
-na alma de Luar se transforma e tudo ardentemente √™le quer
+debate convulsivamente em estertÙr qual caterva turbilhonaria de todas
+as expressıes da dÙr que sÛ uma alma vigorosa conceber pÛde! Sim, tudo
+na alma de Luar se transforma e tudo ardentemente Íle quer
 transformar...! Ele quer transformar, tudo no seu espirito
 arrebatando!...
 
-√â para o artista que a sua alma trabalha, √© pois, o artista que na sua
-concep√ß√£o mais se divinisa...! √â √™le o reflexo vibrante do seu sonho,
+… para o artista que a sua alma trabalha, È pois, o artista que na sua
+concepÁ„o mais se divinisa...! … Íle o reflexo vibrante do seu sonho,
 do sonho que o forma, em que convulsamente todo se eterisa...! Suprema
-emana√ß√£o se torna da sua alma!... S√≥ a inspira√ß√£o o sublima, o
-personalisa--e a inspira√ß√£o √© Luar!
+emanaÁ„o se torna da sua alma!... SÛ a inspiraÁ„o o sublima, o
+personalisa--e a inspiraÁ„o È Luar!
 
-Esse ser estranho que ele pr√≥prio criou e que na tela genialmente lhe
+Esse ser estranho que ele prÛprio criou e que na tela genialmente lhe
 derrama a alma, Luar, cheio d'ancia, conservar quer no seu espirito e
-transformando-se, ent√£o, em ondas de vol√∫pia a sua paix√£o ardente, a
-paix√£o da d√¥r, como la√ßos infernais as lan√ßa ao artista que num
-turbilh√£o de f√¥go, o fogo da sua paix√£o, todo arrebatar quer para a
-sua alma!... Uma luta intima, obscura se gera! Impetuosas s√£o as
-convuls√µes de espirito que, emanadas de Luar, a personalidade do
-artista sacodem toda mas, como resplendor di√°fano duma luz infinita,
-no artista surgem esbatidas, perdendo-se atrav√©s do espa√ßo!... E Luar
-isto pressente e o seu pr√≥prio sonho, na imagina√ß√£o do pintor
-rialisado, ele quasi deixa desprender... pelo temor duma vit√≥ria
-alheia! A sua pr√≥pria f√¥r√ßa inspiradora o aterrorisa. Se rialmente o
-artista se n√£o deixasse enlevar no sonho de Luar, acaso na vaga
-eterisa√ß√£o espiritual encontrar-se-hia?... N√£o e, assim, qualquer
-f√¥r√ßa esmagadora, de Luar mal vinda, abruptamente o n√£o faria
-despenhar-se na mat√©ria em que j√° permaneceria e que o h√°bito tornaria
-ent√£o, quasi insentivel. Luar teme ser incompreendido. Se toda a sua
-paix√£o sobre o artista desencadear num deboche supremo, paroxismo da
-arte, o artista que, simples reflexo do foco inspirador, o n√£o atingiu
-ainda, e nubelosa inst√°vel, simples irradia√ß√£o do sonho em que
-vagamente se banha, toda poder√° romper, perdendo-se para sempre da
-alma de Luar numa queda fatal. Mas a ancia √© igualmente forte, a ancia
-em completar a evolu√ß√£o do artista no foco tenebroso da sua alma!...
-Por√©m, a f√¥r√ßa infinita Luar n√£o possue ainda, a sua f√¥r√ßa esbate-se,
-a continuidade do Infinito n√£o cont√©m... A arte, em seu luxurioso
-paroxismo espasmo da d√¥r, ainda na alma do artista se define, se
-concretisa em imagens, s√≥ a imagem ele concebe, n√£o concebe o Espirito,
+transformando-se, ent„o, em ondas de vol˙pia a sua paix„o ardente, a
+paix„o da dÙr, como laÁos infernais as lanÁa ao artista que num
+turbilh„o de fÙgo, o fogo da sua paix„o, todo arrebatar quer para a
+sua alma!... Uma luta intima, obscura se gera! Impetuosas s„o as
+convulsıes de espirito que, emanadas de Luar, a personalidade do
+artista sacodem toda mas, como resplendor di·fano duma luz infinita,
+no artista surgem esbatidas, perdendo-se atravÈs do espaÁo!... E Luar
+isto pressente e o seu prÛprio sonho, na imaginaÁ„o do pintor
+rialisado, ele quasi deixa desprender... pelo temor duma vitÛria
+alheia! A sua prÛpria fÙrÁa inspiradora o aterrorisa. Se rialmente o
+artista se n„o deixasse enlevar no sonho de Luar, acaso na vaga
+eterisaÁ„o espiritual encontrar-se-hia?... N„o e, assim, qualquer
+fÙrÁa esmagadora, de Luar mal vinda, abruptamente o n„o faria
+despenhar-se na matÈria em que j· permaneceria e que o h·bito tornaria
+ent„o, quasi insentivel. Luar teme ser incompreendido. Se toda a sua
+paix„o sobre o artista desencadear num deboche supremo, paroxismo da
+arte, o artista que, simples reflexo do foco inspirador, o n„o atingiu
+ainda, e nubelosa inst·vel, simples irradiaÁ„o do sonho em que
+vagamente se banha, toda poder· romper, perdendo-se para sempre da
+alma de Luar numa queda fatal. Mas a ancia È igualmente forte, a ancia
+em completar a evoluÁ„o do artista no foco tenebroso da sua alma!...
+PorÈm, a fÙrÁa infinita Luar n„o possue ainda, a sua fÙrÁa esbate-se,
+a continuidade do Infinito n„o contÈm... A arte, em seu luxurioso
+paroxismo espasmo da dÙr, ainda na alma do artista se define, se
+concretisa em imagens, sÛ a imagem ele concebe, n„o concebe o Espirito,
 o Absoluto Indefinido que num deboche de espirito vertiginosamente se
-desencadearia!... E acaso o vig√¥r duma lux√∫ria transcendente e a
-selv√°tica brutalidade material o artista n√£o poder√° confundir,
-despenhando-se do sonho di√°fano que, emanado de Luar, nele se esbo√ßa,
+desencadearia!... E acaso o vigÙr duma lux˙ria transcendente e a
+selv·tica brutalidade material o artista n„o poder· confundir,
+despenhando-se do sonho di·fano que, emanado de Luar, nele se esboÁa,
 apenas?...
 
 Luar quer o artista arrebatar emfim, por totalmente o interiorisar em
-si atrav√©s dum deboche convulsivo--ardentemente anceia mas o temor
+si atravÈs dum deboche convulsivo--ardentemente anceia mas o temor
 hesitante o torna, o temor de ser incompreendido, de como simples
 animal, cheio de cio, ser considerado, emfim, de perder para sempre a
-alma a que tanto aspira!... Teme a sua f√¥r√ßa e a sua fraqueza, a sua
-f√¥r√ßa que, por uma ilus√£o cruel, o horror da mat√©ria pode desenrolar
+alma a que tanto aspira!... Teme a sua fÙrÁa e a sua fraqueza, a sua
+fÙrÁa que, por uma ilus„o cruel, o horror da matÈria pode desenrolar
 perante o artista, erguido acima dela que, assim, desprezivel se
-mostra, a sua fraqueza que mais n√£o pode elevar o artista, mais, at√©
-ao paroxismo da arte que √© o paroxismo do deboche e... da d√¥r!... E o
-artista admira Luar, n√£o o sente, nas convuls√µes da sua alma n√£o se
-quer fundir... N√£o admiramos o que a n√≥s √© estranho, sentindo ent√£o,
-o que j√° n√£o admiramos?...
+mostra, a sua fraqueza que mais n„o pode elevar o artista, mais, atÈ
+ao paroxismo da arte que È o paroxismo do deboche e... da dÙr!... E o
+artista admira Luar, n„o o sente, nas convulsıes da sua alma n„o se
+quer fundir... N„o admiramos o que a nÛs È estranho, sentindo ent„o,
+o que j· n„o admiramos?...
 
-E √© horrivel a ang√∫stia em que Luar se debate, ele j√°mais sonhou uma
-d√¥r assim! Como farrapos de nuvens tenebrosas numa dan√ßa macabra,
+E È horrivel a ang˙stia em que Luar se debate, ele j·mais sonhou uma
+dÙr assim! Como farrapos de nuvens tenebrosas numa danÁa macabra,
 figuras vagas e obscuras da alma de Luar se erguem, dolorosamente se
 contorcendo todas e todas vertiginosamente se debatendo numa loucura
 genial, a loucura da Existencia, do Espirito..., e nessa vertigem
-suprema em que a tortura e a convuls√£o doidamente se misturam, se
-confundem, um ponto de luz sinistra, numa express√£o vaga de sonho, ao
-fundo se esbo√ßa atrav√©s da lividez da morte e como que indiferente ao
-turbilh√£o l√∫gubre de d√¥r que s√≥ a alma de Luar soube criar!... √â o
-artista que, espiritualisado na concep√ß√£o sublime do mod√™lo, na
-alucina√ß√£o tenebrosa da sua alma estranha, ao longe vagueia a alma
-perdidamente, num cinismo de est√©ta friamente admirando a d√¥r que, num
-debate prodigioso, o espasmo da morte intensifica atrav√©s dum c√°os
-infinito, duma vertigem convulsiva...! S√¥fregos turbilh√µes a alma de
-Luar do seu pr√≥prio √¢mago tenebroso arranca mas, quais vagas
-impetuosas que todas se despedacem, se percam de encontro ao tr√°gico
-granito, as torrentes tempestuosas d√™sse fe√©rico oceano espiritual
-todas aterrorisadoramente se quebram por entre as r√≠gidas malhas
-impenetr√°veis da alma do artista!
+suprema em que a tortura e a convuls„o doidamente se misturam, se
+confundem, um ponto de luz sinistra, numa express„o vaga de sonho, ao
+fundo se esboÁa atravÈs da lividez da morte e como que indiferente ao
+turbilh„o l˙gubre de dÙr que sÛ a alma de Luar soube criar!... … o
+artista que, espiritualisado na concepÁ„o sublime do modÍlo, na
+alucinaÁ„o tenebrosa da sua alma estranha, ao longe vagueia a alma
+perdidamente, num cinismo de estÈta friamente admirando a dÙr que, num
+debate prodigioso, o espasmo da morte intensifica atravÈs dum c·os
+infinito, duma vertigem convulsiva...! SÙfregos turbilhıes a alma de
+Luar do seu prÛprio ‚mago tenebroso arranca mas, quais vagas
+impetuosas que todas se despedacem, se percam de encontro ao tr·gico
+granito, as torrentes tempestuosas dÍsse feÈrico oceano espiritual
+todas aterrorisadoramente se quebram por entre as rÌgidas malhas
+impenetr·veis da alma do artista!
 
-Todo √™sse convulsionismo gigant√™sco que sublima Luar, essa ancia
+Todo Ísse convulsionismo gigantÍsco que sublima Luar, essa ancia
 invencivel, ardente de, por um deboche estulto, dominar o artista, o
-mod√™lo mais n√£o pode suportar e, caindo, ent√£o, numa prostra√ß√£o
+modÍlo mais n„o pode suportar e, caindo, ent„o, numa prostraÁ„o
 infinda em que toda a sua alma se dissolve, como que um campo noturno
-se torna duma batalha passada o qual uma luz p√°lida, sombria de lua
-vagamente ilumine, a luz vaga que o artista da sua alma toda, ent√£o,
-ex√°la!... Foi o artista a luz vaga do ultimo quadrante quando, num
+se torna duma batalha passada o qual uma luz p·lida, sombria de lua
+vagamente ilumine, a luz vaga que o artista da sua alma toda, ent„o,
+ex·la!... Foi o artista a luz vaga do ultimo quadrante quando, num
 delirio de morte, numa cavalgada inconsciente, nuvens tenebrosas em
-convuls√µes a envolvem sem a arrebatar, e agora, sempre sereno, frio,
-l√∫gubre, a sua p√°lida luz derrama na alma do mod√™lo atrav√©s duma vaga
-neblina silenciosa, da n√©voa melanc√≥lica em que a alma de Luar toda
-se ex√°la, se esvai...!
+convulsıes a envolvem sem a arrebatar, e agora, sempre sereno, frio,
+l˙gubre, a sua p·lida luz derrama na alma do modÍlo atravÈs duma vaga
+neblina silenciosa, da nÈvoa melancÛlica em que a alma de Luar toda
+se ex·la, se esvai...!
 
-Mas uma torrente de f√¥go Luar novamente abraza e do seu repouso
-instant√¢neo, s√∫bito, se erguendo, numa arrancada formid√°vel s√¥bre o
-artista se lan√ßa, cravando-o de beijos em que lhe quer arrebatar a
-alma! Em convuls√µes que o repouso alimentou, todo o seu espirito se
-p√µe, torna-se indom√°vel, gigant√™sco, impetuoso qual vaga rancorosa
-que um vulc√£o eleve, qual torrente devastadora de Apocalypse Fatal!...
+Mas uma torrente de fÙgo Luar novamente abraza e do seu repouso
+instant‚neo, s˙bito, se erguendo, numa arrancada formid·vel sÙbre o
+artista se lanÁa, cravando-o de beijos em que lhe quer arrebatar a
+alma! Em convulsıes que o repouso alimentou, todo o seu espirito se
+pıe, torna-se indom·vel, gigantÍsco, impetuoso qual vaga rancorosa
+que um vulc„o eleve, qual torrente devastadora de Apocalypse Fatal!...
 
 O artista cheio de pasmo o olha, e naquela arrancada impetuosa ambos
-na terra se despenham, esquecendo o sonho, a alucina√ß√£o... A paz volta
-aos espiritos, uma paz l√∫gubre, cheia de pres√°gios sinistros! O
-paroxismo da d√¥r n√£o poude ser atingido, para ambos se perdeu...!
+na terra se despenham, esquecendo o sonho, a alucinaÁ„o... A paz volta
+aos espiritos, uma paz l˙gubre, cheia de pres·gios sinistros! O
+paroxismo da dÙr n„o poude ser atingido, para ambos se perdeu...!
 . . . . . . . . . . . . . . . . . . . . . . . . .
 
 
-Passaram-se j√° alguns dias. O artista uma como√ß√£o profunda no seu
-espirito sofre, sob um novo aspecto olha o modelo, j√° qu√°si lhe sente
-a alma... Encarna-se na tenebrosa escabrosidade do seu esp√≠rito
-tr√°gico, sente-o mais belo, mais profundo, sublime...! Os transes
-variados em que bruscamente se lan√ß√°ra Luar naquela tarde tragica,
-essa variedade de transes que o modelo t√£o vigorosamente suport√°ra,
-entontece-lhe a alma, j√° n√£o o admira apenas, deseja-o e cheio de
+Passaram-se j· alguns dias. O artista uma comoÁ„o profunda no seu
+espirito sofre, sob um novo aspecto olha o modelo, j· qu·si lhe sente
+a alma... Encarna-se na tenebrosa escabrosidade do seu espÌrito
+tr·gico, sente-o mais belo, mais profundo, sublime...! Os transes
+variados em que bruscamente se lanÁ·ra Luar naquela tarde tragica,
+essa variedade de transes que o modelo t„o vigorosamente suport·ra,
+entontece-lhe a alma, j· n„o o admira apenas, deseja-o e cheio de
 ardor, de ancia!...
 
 Procura-o em toda a parte e, por fim, encontrando-o, repleto duma
-luxuria de espirito lhe diz: ¬´J√°mais te compreendi, Luar, como agora
-te compreendo. Talvez te n√£o compreendesse ainda se logo tivesse
+luxuria de espirito lhe diz: ´J·mais te compreendi, Luar, como agora
+te compreendo. Talvez te n„o compreendesse ainda se logo tivesse
 cedido ao teu desejo. Mas o tempo tive de refletir, de sonhar em ti.
-A tua nobreza estranha que, ap√≥s o meu pasmo, subitamente te acalmou
-os nervos, fundamente me impressionou, os contrastes da tua alma s√£o
-maravilhosos e s√≥ a tua personalidade sublime, genial... a oscila√ß√µes
-bruscas de car√°ter poderia resistir! Quero-te pois, a tua ancia √©,
-hoje, a minha; sem os teus beijos profundos n√£o posso passar, a minha
-carne na tua se entranhar√° para que na tua alma se espiritualise
-toda!...¬ª E procura-lhe a boca. Luar su√°vemente o afasta, dizendo-lhe,
-apenas: ¬´Refleti tambem, sonhei... Amanh√£ conhecer√°s o meu sonho.¬ª
+A tua nobreza estranha que, apÛs o meu pasmo, subitamente te acalmou
+os nervos, fundamente me impressionou, os contrastes da tua alma s„o
+maravilhosos e sÛ a tua personalidade sublime, genial... a oscilaÁıes
+bruscas de car·ter poderia resistir! Quero-te pois, a tua ancia È,
+hoje, a minha; sem os teus beijos profundos n„o posso passar, a minha
+carne na tua se entranhar· para que na tua alma se espiritualise
+toda!...ª E procura-lhe a boca. Luar su·vemente o afasta, dizendo-lhe,
+apenas: ´Refleti tambem, sonhei... Amanh„ conhecer·s o meu sonho.ª
 
 No dia seguinte, o artista recebe uma carta que os seguintes termos
-cont√©m:
+contÈm:
 
 
 _Meu querido amigo_
 
 
-Estranhar√°s talvez que s√≥ agora te exponha o meu sonho derradeiro mas
-preciso de toda a minha alma e, s√≥ quando escrevo, aos borbulh√µes
-caudalosamente a broto de mim. Sem a pena, mantenho-me numa concentra√ß√£o
-tr√°gica, mal mostro aos outros o meu espirito. √â que o derramamento
-da alma no papel √© ainda qu√°si espiritual, a alma em excesso se n√£o
-exteriorisa, impuramente se n√£o materialisando.
+Estranhar·s talvez que sÛ agora te exponha o meu sonho derradeiro mas
+preciso de toda a minha alma e, sÛ quando escrevo, aos borbulhıes
+caudalosamente a broto de mim. Sem a pena, mantenho-me numa concentraÁ„o
+tr·gica, mal mostro aos outros o meu espirito. … que o derramamento
+da alma no papel È ainda qu·si espiritual, a alma em excesso se n„o
+exteriorisa, impuramente se n„o materialisando.
 
-Diz-me, se num drama, se numa trag√©dia vigorosa uma tempestade
+Diz-me, se num drama, se numa tragÈdia vigorosa uma tempestade
 formidavel, num paroxismo fatal, se desencadeasse toda, atingindo, por
 fim, um limite definido que a banalisasse, acaso admirarias esse drama,
-essa tragedia?... Pois bem, o indefinido a que na arte n√≥s aspiramos,
-essa ancia de idial que mais do que o idial para n√≥s vale, essa ancia,
-esse desejo infinito e j√°mais satisfeito deve encher a nossa vida que
-a mais alta express√£o se tornar√° assim, da arte pura!...
+essa tragedia?... Pois bem, o indefinido a que na arte nÛs aspiramos,
+essa ancia de idial que mais do que o idial para nÛs vale, essa ancia,
+esse desejo infinito e j·mais satisfeito deve encher a nossa vida que
+a mais alta express„o se tornar· assim, da arte pura!...
 
-√â vertiginosa a Existencia e espiritual, transcendente √© a vertigem
-dela! J√°mais a extens√£o conhece, no Espirito Puro que a extens√£o
+… vertiginosa a Existencia e espiritual, transcendente È a vertigem
+dela! J·mais a extens„o conhece, no Espirito Puro que a extens„o
 transcende, a vertigem se personalisa, se consubstancia, se acentua
-toda, n√£o se espalha numa actividade mecanica, √© a actividade
-espiritual, o dinamismo puro!... Est√° nisso a sua beleza, a sua propria
-existencia que, s√≥ assim, toda confundida num Todo, no Infinitesimal,
-na M√≥nada, que s√≥ assim se acentua toda, s√≥ assim se d√°!... √â sublime
-o convulsionismo espiritual e s√≥ ele √© sublime! De que deriva a sua
-sublimidade? Da sua energia que s√≥ no Espirito, na M√≥nada se acentua
+toda, n„o se espalha numa actividade mecanica, È a actividade
+espiritual, o dinamismo puro!... Est· nisso a sua beleza, a sua propria
+existencia que, sÛ assim, toda confundida num Todo, no Infinitesimal,
+na MÛnada, que sÛ assim se acentua toda, sÛ assim se d·!... … sublime
+o convulsionismo espiritual e sÛ ele È sublime! De que deriva a sua
+sublimidade? Da sua energia que sÛ no Espirito, na MÛnada se acentua
 toda!...
 
-Ha pois, na vertigem convulsiva da Existencia uma expans√£o tenebrosa.
-Toda a actividade, a energia toda que a forma, no espa√ßo e no tempo
-n√£o se expande, mantem-se torturada no Infinitesimal. √â infinita,
-eternamente tudo alcan√ßa, infinitesimalisa-se, espiritualisa-se pois...
+Ha pois, na vertigem convulsiva da Existencia uma expans„o tenebrosa.
+Toda a actividade, a energia toda que a forma, no espaÁo e no tempo
+n„o se expande, mantem-se torturada no Infinitesimal. … infinita,
+eternamente tudo alcanÁa, infinitesimalisa-se, espiritualisa-se pois...
 
-S√≥ no transcendental existe, s√≥ nele eternamente se debate!
+SÛ no transcendental existe, sÛ nele eternamente se debate!
 
-Tem uma expans√£o, uma liberdade infinita que, como infinita, tudo
+Tem uma expans„o, uma liberdade infinita que, como infinita, tudo
 atinge eternamente, como que eternamente se autodestruindo assim!...
-Se s√≥ no Transcendental existe, se √© transcendente, se no mesmo
-ponto infinitesimal, na M√≥nada, eternamente se debate √© que a si
-pr√≥pria se contorce toda numa tortura infinita!... E n√£o exprime a d√¥r
+Se sÛ no Transcendental existe, se È transcendente, se no mesmo
+ponto infinitesimal, na MÛnada, eternamente se debate È que a si
+prÛpria se contorce toda numa tortura infinita!... E n„o exprime a dÙr
 e sobretudo a ancia o convulsionismo transcendente, torturado,
-contorcido da actividade pura, espiritual?... n√£o √© ela a express√£o
-sublime da Vertigem?... Na d√¥r, na ancia devemos viver!
+contorcido da actividade pura, espiritual?... n„o È ela a express„o
+sublime da Vertigem?... Na dÙr, na ancia devemos viver!
 
-A transcendentalisa√ß√£o supr√™ma da energia pura, espiritualisando-a, em
+A transcendentalisaÁ„o suprÍma da energia pura, espiritualisando-a, em
 absoluto a indefine, o Infinitesimal em que a energia eternamente se
-debate, o indefinismo absoluto cont√™m. E ela propria, a pr√≥pria
-atividade em si n√£o exprime j√° o Indefinido?... Quando transcendente,
-√© o indefinismo dela absoluto, ela torna-se a Vertigem! E que cousa √©
-a ancia, a ancia em si, sen√£o o limiar privilegiado dessa Vertigem
-Pura, o seu sintoma magnifico, a sua acentua√ß√£o humana?... Ao indefinido
-na arte aspiramos pois, a um indefinido cheio de tortura, ¬´rafin√©¬ª
-como o que o g√©nio de Baudelaire compreendeu e quando essa tortura do
-Indefinido enche o intimo da nossa alma, ent√£o, cheia d'ancia--e,
+debate, o indefinismo absoluto contÍm. E ela propria, a prÛpria
+atividade em si n„o exprime j· o Indefinido?... Quando transcendente,
+È o indefinismo dela absoluto, ela torna-se a Vertigem! E que cousa È
+a ancia, a ancia em si, sen„o o limiar privilegiado dessa Vertigem
+Pura, o seu sintoma magnifico, a sua acentuaÁ„o humana?... Ao indefinido
+na arte aspiramos pois, a um indefinido cheio de tortura, ´rafinÈª
+como o que o gÈnio de Baudelaire compreendeu e quando essa tortura do
+Indefinido enche o intimo da nossa alma, ent„o, cheia d'ancia--e,
 assim, Nietzsche quasi a desejou--ela quasi atinge o paroxismo eterno
-da Existencia que toda se debate na Vertigem Infinita! E n√£o s√≥ na
+da Existencia que toda se debate na Vertigem Infinita! E n„o sÛ na
 arte deve existir a ancia mas tambem na vida, a ancia dolorosa do
 Indefinido!...
 
-A ancia n√£o √© s√≥ a d√¥r, n√£o √© qualquer d√¥r. Pode esta ser deprimente,
-humilhante: e sempre o √© quando n√£o compreendida, quando em sua beleza
-suprema sentida n√£o pode ser!... A d√¥r forte, virilisadora, a d√¥r
-profunda e amoral, a d√¥r em que o eu domine, d√¥r de espirito... √© que
-√© a d√¥r suprema, a d√¥r est√©tica! Dominar na d√¥r, sentir a f√¥r√ßa de
+A ancia n„o È sÛ a dÙr, n„o È qualquer dÙr. Pode esta ser deprimente,
+humilhante: e sempre o È quando n„o compreendida, quando em sua beleza
+suprema sentida n„o pode ser!... A dÙr forte, virilisadora, a dÙr
+profunda e amoral, a dÙr em que o eu domine, dÙr de espirito... È que
+È a dÙr suprema, a dÙr estÈtica! Dominar na dÙr, sentir a fÙrÁa de
 viver nela, prazer infindo...! E a tortura transcendental da Existencia
-em que a Vertigem toda se acentua, se imp√µe, se personalisa, a d√¥r
-suprema, a d√¥r personalisadora n√£o exprime toda?...
+em que a Vertigem toda se acentua, se impıe, se personalisa, a dÙr
+suprema, a dÙr personalisadora n„o exprime toda?...
 
-Afastemos pois, a nossa carne. Se a satisfiz√©ssemos, n√£o, se
-satisfiz√©ssemos o espirito que, s√≥ √™le, atrav√©s da carne atua,
-banalisar-nos-√≠amos, ao nosso drama dar√≠amos um final burguez! Ele
+Afastemos pois, a nossa carne. Se a satisfizÈssemos, n„o, se
+satisfizÈssemos o espirito que, sÛ Íle, atravÈs da carne atua,
+banalisar-nos-Ìamos, ao nosso drama darÌamos um final burguez! Ele
 teria um fim, um limite determinado de que, em breve, as nossas almas
-se enfartariam decerto. Sejamos est√©tas, vivamos eternamente do desejo
-que, s√≥ √™le, personalisa a alma, para a nossa vista espiritual
-gigantesca tornando-a!... √â estranho o meu pedido mas, acaso, estranha
-n√£o √© a Vertigem da Existencia?...
+se enfartariam decerto. Sejamos estÈtas, vivamos eternamente do desejo
+que, sÛ Íle, personalisa a alma, para a nossa vista espiritual
+gigantesca tornando-a!... … estranho o meu pedido mas, acaso, estranha
+n„o È a Vertigem da Existencia?...
 
 Adeus!...
 
@@ -1372,7 +1372,7 @@ _Janeiro de 1913._
 RAUL LEAL.
 
 
-(Do livro in√©dito _Devaneios e Alucina√ß√µes_.)
+(Do livro inÈdito _Devaneios e AlucinaÁıes_.)
 
 
 
@@ -1380,17 +1380,17 @@ RAUL LEAL.
 
 *POEMAS*
 
-DUM AN√ìNIMO OU AN√ìNIMA QUE DIZ CHAMAR-SE
+DUM AN”NIMO OU AN”NIMA QUE DIZ CHAMAR-SE
 
 VIOLANTE DE CYSNEIROS
 
 
 
 
-*N. B.*--Apareceram-nos na Redac√ß√£o estes belos poemas, que um an√≥nimo
-engenho doente realisou. Publicamo-los, porque disso s√£o dignos,
+*N. B.*--Apareceram-nos na RedacÁ„o estes belos poemas, que um anÛnimo
+engenho doente realisou. Publicamo-los, porque disso s„o dignos,
 importando-nos pouco a personalidade vital de que possam emanar. Toda
-a obra de arte √© a justifica√ß√£o de si-propria.
+a obra de arte È a justificaÁ„o de si-propria.
 
 
 _Orpheu_.
@@ -1404,22 +1404,22 @@ O MESTRE._
 
 
 Na noite negra e antiga
-Ha s√≥ a luz do Pharol:
-Ora loira, c√¥r do sol,
+Ha sÛ a luz do Pharol:
+Ora loira, cÙr do sol,
 Ora vermelha, inimiga.
 
 No seio negro e profundo
 Da noite em treva dormindo
-O Pharol √© Outro Mundo,
+O Pharol È Outro Mundo,
 Ora chorando, ora rindo.
 
 Na noite negra, afinal,
 Tudo a elle se limita:
-S√≥ o pharol √© real!
+SÛ o pharol È real!
 
 A treva nunca tem fim,
-√ì sensa√ß√£o infinita,
---Sou j√° s√≥ Pharol de Mim!
+” sensaÁ„o infinita,
+--Sou j· sÛ Pharol de Mim!
 
 
 _Junho, 1915._
@@ -1428,22 +1428,22 @@ _Junho, 1915._
        *       *       *       *       *
 
 Toda a minh'Alma se prende
-Naquella forma de gra√ßa;
-Mas n√£o √© na forma viva
+Naquella forma de graÁa;
+Mas n„o È na forma viva
 Mas sim na Linha que passa.
 
 Toda a minh'Alma se prende,
-Bate as Asas--esvoa√ßa...
-E √© como a sombra distante
+Bate as Asas--esvoaÁa...
+E È como a sombra distante
 D'aquella Linha que passa.
 
-A vida √© s√≥ o Espa√ßo
+A vida È sÛ o EspaÁo
 Que vai da propria Linha
-√Å sombra d'ella num tra√ßo.
+¡ sombra d'ella num traÁo.
 
-Quando a Morte f√¥r vizinha,
-Fundidas no mesmo Espa√ßo
-Ser√° tudo a mesma Linha.
+Quando a Morte fÙr vizinha,
+Fundidas no mesmo EspaÁo
+Ser· tudo a mesma Linha.
 
 
 _Junho, 1915._
@@ -1458,36 +1458,36 @@ O MESTRE._
 
 I
 
-Para Al√©m d'aquelles montes
-N√£o ha aves, nem ha fontes,
+Para AlÈm d'aquelles montes
+N„o ha aves, nem ha fontes,
 Nem ribeiros, nem campinas,
 Nem casaes pelas collinas.
 
-Para Al√©m d'aquelles montes
-N√£o ha segredos de fontes,
+Para AlÈm d'aquelles montes
+N„o ha segredos de fontes,
 Nem Sombras nas Alamedas,
 Nem hervas, passos ou sedas.
 
-Para Al√©m d'aquelles montes
-J√° n√£o ha arcos de pontes,
-Nem m√£os finas de donzellas,
+Para AlÈm d'aquelles montes
+J· n„o ha arcos de pontes,
+Nem m„os finas de donzellas,
 Nem lagos, barcos ou vellas.
 
 
 II
 
-Para Al√©m d'aquelles montes
-Existe apenas Espa√ßo!
-Espa√ßo e tempo s√£o Pontes
-Que Deus tem no seu rega√ßo.
+Para AlÈm d'aquelles montes
+Existe apenas EspaÁo!
+EspaÁo e tempo s„o Pontes
+Que Deus tem no seu regaÁo.
 
 Pontes que ligam de Auzente
 Infinito e Eternidade.
-S√≥ sensa√ß√µes s√£o Presente,
-S√≥ nellas vive a Verdade.
+SÛ sensaÁıes s„o Presente,
+SÛ nellas vive a Verdade.
 
 Passado nunca passou,
-Futuro n√£o o terei:
+Futuro n„o o terei:
 Pois sempre Presente sou
 No que Fui, Sou e Serei.
 
@@ -1497,7 +1497,7 @@ _Junho, 1915._
 
 
 
-_AO SR. MARIO DE S√Å-CARNEIRO._
+_AO SR. MARIO DE S¡-CARNEIRO._
 
 
 Ha pouco quando bordava
@@ -1505,14 +1505,14 @@ Picou-me a ponta dos dedos
 A agulha com que bordava...
 
 E a seda toda de branca,
-Branca da c√¥r dos meus dedos,
+Branca da cÙr dos meus dedos,
 Essa seda que era branca
 Ficou com papoulas rubras...
 
 Que o sangue das minhas veias
-J√° creou papoulas rubras...
+J· creou papoulas rubras...
 
-Mas t√£o s√≥s e t√£o alheias!
+Mas t„o sÛs e t„o alheias!
 
 
 _Junho, 1915._
@@ -1523,23 +1523,23 @@ _Junho, 1915._
 _AO SR. FERNANDO PESSOA._
 
 
-Nada em Mim √© necessario
+Nada em Mim È necessario
 Nem mesmo o que foi sonhado,
-√ì contas do meu rosario
+” contas do meu rosario
 D'um sonho nunca acabado.
 
-Tudo t√£o feito de Mim...
-S√≥ meu longe de passado
-√â como um sonho sem fim
+Tudo t„o feito de Mim...
+SÛ meu longe de passado
+… como um sonho sem fim
 Que o Outro tenha sonhado.
 
-Cruso os meus bra√ßos. N√£o fallo.
-Ou√ßo uma voz dolorida
+Cruso os meus braÁos. N„o fallo.
+OuÁo uma voz dolorida
 Dentro de Mim evoca-lo.
 
 Marinheiro! Ilha Perdida!
 E o meu sentido a sonha-lo
-√â a verdade da vida.
+… a verdade da vida.
 
 
 _Junho, 1915._
@@ -1550,23 +1550,23 @@ _Junho, 1915._
 _AO SR. ALFREDO PEDRO GUISADO._
 
 
-Sobre misterios j√° idos
-Ergui-me em curva e de p√©
+Sobre misterios j· idos
+Ergui-me em curva e de pÈ
 Do meu corpo fiz sentidos
-Num sonho de Salom√©.
+Num sonho de SalomÈ.
 
 Curvos os olhos doridos...
-Curvas as m√£os e os bra√ßos...
-Todo o meu corpo peda√ßos
+Curvas as m„os e os braÁos...
+Todo o meu corpo pedaÁos
 Dos espelhos dos sentidos...
 
 Dancei... Dancei... E o Ver-Me
-Toda de curva e de p√©
+Toda de curva e de pÈ
 Era o sentido de Ser-Me.
 
 Presente no meu olhar,
-Eu fui Outra Salom√©
-Feita de Mim a dan√ßar.
+Eu fui Outra SalomÈ
+Feita de Mim a danÁar.
 
 
 _Junho, 1915._
@@ -1574,20 +1574,20 @@ _Junho, 1915._
 
 
 
-_AO SR. C√îRTES-RODRIGUES._
+_AO SR. C‘RTES-RODRIGUES._
 
 
-Passo no mundo a viv√™-lo,
+Passo no mundo a vivÍ-lo,
 Passo no mundo a senti-lo,
-E esta c√¥r do meu cabello
-√â o v√™-lo e o possu√≠-lo.
+E esta cÙr do meu cabello
+… o vÍ-lo e o possuÌ-lo.
 
-Passo no mundo a sonh√°-lo,
-Numa forma de viv√™-lo,
-E o meu sentido d'olh√°-lo
-√â o sentido de v√™-lo.
+Passo no mundo a sonh·-lo,
+Numa forma de vivÍ-lo,
+E o meu sentido d'olh·-lo
+… o sentido de vÍ-lo.
 
-S√≥ em Mim me concretiso,
+SÛ em Mim me concretiso,
 E o Sonho da minha vida
 Nesse Sonho o realiso.
 
@@ -1606,13 +1606,13 @@ _A MIM PROPRIA
 DE HA DOIS ANNOS_
 
 
-As minhas m√£os s√£o esguias,
-S√£o fusos brancos d'arminho,
-Onde fiaste e n√£o fias
+As minhas m„os s„o esguias,
+S„o fusos brancos d'arminho,
+Onde fiaste e n„o fias
 O Sonho do teu carinho.
 
-As minhas m√£os s√£o esguias,
-C√¥r de rosa s√£o as unhas,
+As minhas m„os s„o esguias,
+CÙr de rosa s„o as unhas,
 E nellas todos os dias
 Ponho a pomada que punhas.
 
@@ -1634,7 +1634,7 @@ VIOLANTE DE CYSNEIROS.
 
 
 
-*ODE MAR√çTIMA*
+*ODE MARÕTIMA*
 
 POR
 
@@ -1646,316 +1646,316 @@ a Santa Rita Pintor.
 
 
 
-*Ode mar√≠tima*
+*Ode marÌtima*
 
 
-S√≥zinho, no cais deserto, a esta manh√£ de ver√£o,
-√ìlho pr√≥ lado da barra, √≥lho pr√≥ Indefinido,
-√ìlho e contenta-me v√™r,
+SÛzinho, no cais deserto, a esta manh„ de ver„o,
+”lho prÛ lado da barra, Ûlho prÛ Indefinido,
+”lho e contenta-me vÍr,
 Pequeno, negro e claro, um paquete entrando.
-Vem muito longe, n√≠tido, cl√°ssico √† sua maneira.
-Deixa no ar distante atr√°s de si a orla v√£ do seu fumo.
-Vem entrando, e a manh√£ entra com √™le, e no rio,
-Aqui, acol√°, acorda a vida mar√≠tima,
-Erguem-se velas, avan√ßam rebocadores,
-Surgem barcos pequenos de tr√°s dos navios que est√£o no porto.
+Vem muito longe, nÌtido, cl·ssico ‡ sua maneira.
+Deixa no ar distante atr·s de si a orla v„ do seu fumo.
+Vem entrando, e a manh„ entra com Íle, e no rio,
+Aqui, acol·, acorda a vida marÌtima,
+Erguem-se velas, avanÁam rebocadores,
+Surgem barcos pequenos de tr·s dos navios que est„o no porto.
 Ha uma vaga brisa.
-Mas a minh'alma est√° com o que vejo menos,
+Mas a minh'alma est· com o que vejo menos,
 Com o paquete que entra,
-Porque √™le est√° com a Dist√¢ncia, com a Manh√£,
-Com o sentido mar√≠timo desta Hora,
-Com a do√ßura dolorosa que sobe em mim como uma n√°usea,
-Como um come√ßar a enjoar, mas no esp√≠rito.
+Porque Íle est· com a Dist‚ncia, com a Manh„,
+Com o sentido marÌtimo desta Hora,
+Com a doÁura dolorosa que sobe em mim como uma n·usea,
+Como um comeÁar a enjoar, mas no espÌrito.
 
-√ìlho de longe o paquete, com uma grande independ√™ncia de alma,
-E dentro de mim um volante come√ßa a girar, lentamente.
+”lho de longe o paquete, com uma grande independÍncia de alma,
+E dentro de mim um volante comeÁa a girar, lentamente.
 
-Os paquetes que entram de manh√£ na barra
+Os paquetes que entram de manh„ na barra
 Trazem aos meus olhos comsigo
-O mist√©rio alegre e triste de quem chega e parte.
-Trazem mem√≥rias de cais afastados e doutros momentos
+O mistÈrio alegre e triste de quem chega e parte.
+Trazem memÛrias de cais afastados e doutros momentos
 Doutro modo da mesma humanidade noutros portos.
 Todo o atracar, todo o largar de navio,
-√â--sinto-o em mim como o meu sangue--
-Inconscientemente simb√≥lico, terrivelmente
-Amea√ßador de significa√ß√µes metaf√≠sicas
+…--sinto-o em mim como o meu sangue--
+Inconscientemente simbÛlico, terrivelmente
+AmeaÁador de significaÁıes metafÌsicas
 Que perturbam em mim quem eu fui...
 
-Ah, todo o cais √© uma saudade de pedra!
+Ah, todo o cais È uma saudade de pedra!
 E quando o navio larga do cais
-E se repara de repente que se abriu um espa√ßo
+E se repara de repente que se abriu um espaÁo
 Entre o cais e o navio,
-Vem-me, n√£o sei porqu√™, uma ang√∫stia recente,
-Uma n√©voa de sentimentos de tristeza
-Que brilha ao sol das minhas ang√∫stias relvadas
+Vem-me, n„o sei porquÍ, uma ang˙stia recente,
+Uma nÈvoa de sentimentos de tristeza
+Que brilha ao sol das minhas ang˙stias relvadas
 Como a primeira janela onde a madrugada bate,
-E me envolve como uma recorda√ß√£o duma outra pess√¥a
-Que f√¥sse misteriosamente minha.
+E me envolve como uma recordaÁ„o duma outra pessÙa
+Que fÙsse misteriosamente minha.
 
 Ah, quem sabe, quem sabe,
-Se n√£o parti outrora, antes de mim,
-Dum cais; se n√£o deixei, navio ao sol
-Obl√≠quo da madrugada,
-Uma outra esp√©cie de porto?
-Quem sabe se n√£o deixei, antes de a hora
+Se n„o parti outrora, antes de mim,
+Dum cais; se n„o deixei, navio ao sol
+OblÌquo da madrugada,
+Uma outra espÈcie de porto?
+Quem sabe se n„o deixei, antes de a hora
 Do mundo exterior como eu o vejo
 Raiar-se para mim,
 Um grande cais cheio de pouca gente,
 Duma grande cidade meio-desperta,
-Duma enorme cidade comercial, crescida, apopl√©tica,
-Tanto quanto isso pode ser fora do Espa√ßo e do Tempo?
+Duma enorme cidade comercial, crescida, apoplÈtica,
+Tanto quanto isso pode ser fora do EspaÁo e do Tempo?
 
 Sim, dum cais, dum cais dalgum modo material,
-Real, vis√≠vel como cais, cais realmente,
-O Cais Absoluto por cujo mod√™lo inconscientemente imitado,
-Insens√≠velmente evocado,
-N√≥s os homens constru√≠mos
+Real, visÌvel como cais, cais realmente,
+O Cais Absoluto por cujo modÍlo inconscientemente imitado,
+InsensÌvelmente evocado,
+NÛs os homens construÌmos
 Os nossos cais nos nossos portos,
-Os nossos cais de pedra actual s√¥bre √°goa verdadeira,
-Que depois de constru√≠dos se anunciam de repente
-Cousas-Reais, Esp√≠ritos-Cousas, Entidades em Pedra-Almas,
+Os nossos cais de pedra actual sÙbre ·goa verdadeira,
+Que depois de construÌdos se anunciam de repente
+Cousas-Reais, EspÌritos-Cousas, Entidades em Pedra-Almas,
 A certos momentos nossos de sentimento-raiz
 Quando no mundo-exterior como que se abre uma porta
 E, sem que nada se altere,
 Tudo se revela diverso.
 
-Ah o Grande Cais donde partimos em Navios-Na√ß√µes!
+Ah o Grande Cais donde partimos em Navios-NaÁıes!
 O Grande Cais Anterior, eterno e divino!
-De que porto? Em que √°goas? E porque, penso eu isto?
-Grande Cais como os outros cais, mas o √önico.
-Cheio como √™les de sil√™ncios rumorosos nas antemanh√£s,
-E desabrochando com as manh√£s num ru√≠do de guindastes
+De que porto? Em que ·goas? E porque, penso eu isto?
+Grande Cais como os outros cais, mas o ⁄nico.
+Cheio como Íles de silÍncios rumorosos nas antemanh„s,
+E desabrochando com as manh„s num ruÌdo de guindastes
 E chegadas de comboios de mercadorias,
 E sob a nuvem negra e ocasional e leve
-Do fumo das chamin√©s das f√°bricas pr√≥ximas
-Que lhe sombreia o ch√£o preto de carv√£o pequenino que brilha,
-Como se f√¥sse a sombra duma nuvem que passasse s√¥bre √°gua sombria.
+Do fumo das chaminÈs das f·bricas prÛximas
+Que lhe sombreia o ch„o preto de carv„o pequenino que brilha,
+Como se fÙsse a sombra duma nuvem que passasse sÙbre ·gua sombria.
 
-Ah, que essencialidade de mist√©rio e sentidos parados
+Ah, que essencialidade de mistÈrio e sentidos parados
 Em divino extase revelador
-√Ås horas c√¥r de sil√™ncios e ang√∫stias
-N√£o √© ponte entre qualquer cais e O Cais!
+¡s horas cÙr de silÍncios e ang˙stias
+N„o È ponte entre qualquer cais e O Cais!
 
-Cais negramente reflectido nas √°guas paradas,
-Bul√≠cio a bordo dos navios,
-√ì alma errante e inst√°vel da gente que anda embarcada,
-Da gente simb√≥lica que passa e com quem nada dura,
+Cais negramente reflectido nas ·guas paradas,
+BulÌcio a bordo dos navios,
+” alma errante e inst·vel da gente que anda embarcada,
+Da gente simbÛlica que passa e com quem nada dura,
 Que quando o navio volta ao porto
-Ha sempre qualquer altera√ß√£o a bordo!
+Ha sempre qualquer alteraÁ„o a bordo!
 
-√ì fugas cont√≠nuas, idas, ebriedade do Diverso!
-Alma eterna dos navegadores e das navega√ß√µes!
-Cascos reflectidos de vagar nas √°goas,
+” fugas contÌnuas, idas, ebriedade do Diverso!
+Alma eterna dos navegadores e das navegaÁıes!
+Cascos reflectidos de vagar nas ·goas,
 Quando o navio larga do porto!
 Fluctuar como alma da vida, partir como voz,
-Viver o momento tr√©mulamente s√¥bre √°goas eternas.
+Viver o momento trÈmulamente sÙbre ·goas eternas.
 Acordar para dias mais directos que os dias da Europa,
-V√™r portos misteriosos s√¥bre a solid√£o do mar,
-Virar cabos longinq√πos para s√∫bitas vastas paisagens
-Por inumer√°veis encostas at√≥nitas...
+VÍr portos misteriosos sÙbre a solid„o do mar,
+Virar cabos longinq˘os para s˙bitas vastas paisagens
+Por inumer·veis encostas atÛnitas...
 
-Ah, as praias longinq√πas, os cais vistos de longe,
+Ah, as praias longinq˘as, os cais vistos de longe,
 E depois as praias proximas, os cais vistos de perto.
-O mist√©rio de cada ida e de cada chegada,
+O mistÈrio de cada ida e de cada chegada,
 A dolorosa instabilidade e incompreensibilidade
-D√™ste imposs√≠vel universo
-A cada hora mar√≠tima mais na pr√≥pria pele sentido!
-O solu√ßo absurdo que as nossas almas derramam
-S√¥bre as extens√µes de mares diferentes com ilhas ao longe,
-S√¥bre as ilhas longinq√πas das costas deixadas passar,
-S√¥bre o crescer n√≠tido dos portos, com as suas casas e a sua gente,
+DÍste impossÌvel universo
+A cada hora marÌtima mais na prÛpria pele sentido!
+O soluÁo absurdo que as nossas almas derramam
+SÙbre as extensıes de mares diferentes com ilhas ao longe,
+SÙbre as ilhas longinq˘as das costas deixadas passar,
+SÙbre o crescer nÌtido dos portos, com as suas casas e a sua gente,
 Para o navio que se aproxima.
 
-Ah, a frescura das manh√£s em que se chega,
-E a palidez das manh√£s em que se parte,
+Ah, a frescura das manh„s em que se chega,
+E a palidez das manh„s em que se parte,
 Quando as nossas entranhas se arrepanham
-E uma vaga sensa√ß√£o parecida com um m√™do
---O m√™do ancestral de se afastar e partir,
-O misterioso receio ancestral √† Chegada e ao Novo--
+E uma vaga sensaÁ„o parecida com um mÍdo
+--O mÍdo ancestral de se afastar e partir,
+O misterioso receio ancestral ‡ Chegada e ao Novo--
 Encolhe-nos a pele e agonia-nos,
 E todo o nosso corpo angustiado sente,
-Como se f√¥sse a nossa alma,
-Uma inexplic√°vel vontade de poder sentir isto doutra maneira:
+Como se fÙsse a nossa alma,
+Uma inexplic·vel vontade de poder sentir isto doutra maneira:
 Uma saudade a qualquer cousa,
-Uma perturba√ß√£o de afei√ß√µes a que vaga patria?
+Uma perturbaÁ„o de afeiÁıes a que vaga patria?
 A que costa? a que navio? a que cais?
-Que se adoece em n√≥s o pensamento,
-E s√≥ fica um grande v√°cuo dentro de n√≥s,
-Uma √¥ca saciedade de minutos mar√≠timos,
-E uma ansiedade vaga que seria t√©dio ou d√¥r
-Se soubesse como s√™-lo...
+Que se adoece em nÛs o pensamento,
+E sÛ fica um grande v·cuo dentro de nÛs,
+Uma Ùca saciedade de minutos marÌtimos,
+E uma ansiedade vaga que seria tÈdio ou dÙr
+Se soubesse como sÍ-lo...
 
-A manh√£ de ver√£o est√°, ainda assim, um pouco fresca.
-Um leve torp√¥r de noite anda ainda no ar sacudido.
+A manh„ de ver„o est·, ainda assim, um pouco fresca.
+Um leve torpÙr de noite anda ainda no ar sacudido.
 Acelera-se ligeiramente o volante dentro de mim.
-E o paquete vem entrando, porque deve vir entrando sem d√∫vida,
-E n√£o porque eu o veja mover-se na sua dist√¢ncia excessiva.
+E o paquete vem entrando, porque deve vir entrando sem d˙vida,
+E n„o porque eu o veja mover-se na sua dist‚ncia excessiva.
 
-Na minha imagina√ß√£o √™le est√° j√° perto e √© vis√≠vel
-Em toda a extens√£o das linhas das suas vigias,
+Na minha imaginaÁ„o Íle est· j· perto e È visÌvel
+Em toda a extens„o das linhas das suas vigias,
 E treme em mim tudo, toda a carne e toda a pele,
 Por causa daquela criatura que nunca chega em nenhum barco
-E eu vim esperar hoje ao cais, por um mandado obliq√πo.
+E eu vim esperar hoje ao cais, por um mandado obliq˘o.
 
 Os navios que entram a barra,
-Os navios que s√°em dos portos,
+Os navios que s·em dos portos,
 Os navios que passam ao longe
-(Sup√¥nho-me vendo-os duma praia deserta)--
-Todos √™stes navios abstractos quasi na sua ida,
-Todos √™stes navios assim com√≥vem-me como se f√¥ssem outra cousa
-E n√£o apenas navios, navios indo e vindo.
+(SupÙnho-me vendo-os duma praia deserta)--
+Todos Ístes navios abstractos quasi na sua ida,
+Todos Ístes navios assim comÛvem-me como se fÙssem outra cousa
+E n„o apenas navios, navios indo e vindo.
 
-E os navios vistos de perto, mesmo que se n√£o v√° embarcar n√™les,
+E os navios vistos de perto, mesmo que se n„o v· embarcar nÍles,
 Vistos de baixo, dos botes, muralhas altas de chapas,
-Vistos dentro, atrav√©s das c√¢maras, das salas, das dispensas,
-Olhando de perto os mastros, afilando-se l√° pr√≥ alto,
-Ro√ßando pelas cordas, descendo as escadas inc√≥modas,
-Cheirando a untada mistura met√°lica e mar√≠tima de tudo aquilo--
-Os navios vistos de perto s√£o outra cousa e a mesma cousa,
-D√£o a mesma saudade e a mesma √¢nsia doutra maneira.
+Vistos dentro, atravÈs das c‚maras, das salas, das dispensas,
+Olhando de perto os mastros, afilando-se l· prÛ alto,
+RoÁando pelas cordas, descendo as escadas incÛmodas,
+Cheirando a untada mistura met·lica e marÌtima de tudo aquilo--
+Os navios vistos de perto s„o outra cousa e a mesma cousa,
+D„o a mesma saudade e a mesma ‚nsia doutra maneira.
 
-Toda a vida mar√≠tima! tudo na vida mar√≠tima!
-Insinua-se no meu sangue toda essa sedu√ß√£o fina
+Toda a vida marÌtima! tudo na vida marÌtima!
+Insinua-se no meu sangue toda essa seduÁ„o fina
 E eu scismo indeterminadamente as viagens.
 Ah, as linhas das costas distantes, achatadas pelo horizonte!
 Ah, os cabos, as ilhas, as praias areentas!
-As solid√µes mar√≠timas, como certos momentos no Pac√≠fico
-Em que n√£o sei porque sugest√£o aprendida na escola
-Se sente pesar s√¥bre os nervos o facto de que aquele √© o maior dos oceanos
-E o mundo e o sab√¥r das cousas tornam-se um deserto dentro de n√≥s!
-A extens√£o mais humana, mais salpicada, do Atl√¢ntico!
-O √çndico, o mais misterioso dos oceanos todos!
-O Mediterr√¢neo, d√¥ce, sem mist√©rio nenhum, cl√°ssico, um mar pra bater
-De encontro a esplanadas olhadas de jardins pr√≥ximos por est√°tuas brancas!
-Todos os mares, todos os estreitos, todas as ba√Øas, todos os g√¥lfos,
-Queria apert√°-los ao peito, sent√≠-los bem e morrer!
+As solidıes marÌtimas, como certos momentos no PacÌfico
+Em que n„o sei porque sugest„o aprendida na escola
+Se sente pesar sÙbre os nervos o facto de que aquele È o maior dos oceanos
+E o mundo e o sabÙr das cousas tornam-se um deserto dentro de nÛs!
+A extens„o mais humana, mais salpicada, do Atl‚ntico!
+O Õndico, o mais misterioso dos oceanos todos!
+O Mediterr‚neo, dÙce, sem mistÈrio nenhum, cl·ssico, um mar pra bater
+De encontro a esplanadas olhadas de jardins prÛximos por est·tuas brancas!
+Todos os mares, todos os estreitos, todas as baÔas, todos os gÙlfos,
+Queria apert·-los ao peito, sentÌ-los bem e morrer!
 
-E v√≥s, √≥ cousas navais, meus velhos brinquedos de sonho!
+E vÛs, Û cousas navais, meus velhos brinquedos de sonho!
 Componde fora de mim a minha vida interior!
 Quilhas, mastros e velas, rodas do leme, cordagens,
-Chamin√©s de vapores, h√©lices, g√°veas, fl√¢mulas,
-Galdropes, escotilhas, caldeiras, colectores, v√°lvulas,
-Ca√≠ por mim dentro em mont√£o, em monte,
-Como o conte√∫do confuso de uma gaveta despejada no ch√£o!
-S√™de v√≥s o tesouro da minha avareza febril,
-S√™de v√≥s os frutos da √°rvore da minha imagina√ß√£o,
-T√™ma de cantos meus, sangue nas veias da minha intelig√™ncia,
-Vosso seja o la√ßo que me une ao exterior pela est√©tica,
-Fornecei-me met√°foras, imagens, literatura,
-Porque em real verdade, a s√©rio, literalmente,
-Minhas sensa√ß√µes s√£o um barco de quilha pr√≥ ar,
-Minha imagina√ß√£o uma √¢ncora meio submersa,
-Minha √¢nsia um remo partido,
-E a tessitura dos meus nervos uma r√™de a secar na praia!
+ChaminÈs de vapores, hÈlices, g·veas, fl‚mulas,
+Galdropes, escotilhas, caldeiras, colectores, v·lvulas,
+CaÌ por mim dentro em mont„o, em monte,
+Como o conte˙do confuso de uma gaveta despejada no ch„o!
+SÍde vÛs o tesouro da minha avareza febril,
+SÍde vÛs os frutos da ·rvore da minha imaginaÁ„o,
+TÍma de cantos meus, sangue nas veias da minha inteligÍncia,
+Vosso seja o laÁo que me une ao exterior pela estÈtica,
+Fornecei-me met·foras, imagens, literatura,
+Porque em real verdade, a sÈrio, literalmente,
+Minhas sensaÁıes s„o um barco de quilha prÛ ar,
+Minha imaginaÁ„o uma ‚ncora meio submersa,
+Minha ‚nsia um remo partido,
+E a tessitura dos meus nervos uma rÍde a secar na praia!
 
-S√¥a no acaso do rio um apito, s√≥ um.
-Treme j√° todo o ch√£o do meu psiquismo.
+SÙa no acaso do rio um apito, sÛ um.
+Treme j· todo o ch„o do meu psiquismo.
 Acelera-se cada vez mais o volante dentro de mim.
 
-Ah, os paquetes, as viagens, o n√£o-se-saber-o-paradeiro
-De Fulano-de-tal, mar√≠timo, nosso conhecido!
-Ah, a gl√≥ria de se saber que um homem que andava comnosco
-Morreu afogado ao p√© duma ilha do Pac√≠fico!
-N√≥s que and√°mos com √™le vamos falar nisso a todos,
-Com um orgulho leg√≠timo, com uma confian√ßa invis√≠vel
+Ah, os paquetes, as viagens, o n„o-se-saber-o-paradeiro
+De Fulano-de-tal, marÌtimo, nosso conhecido!
+Ah, a glÛria de se saber que um homem que andava comnosco
+Morreu afogado ao pÈ duma ilha do PacÌfico!
+NÛs que and·mos com Íle vamos falar nisso a todos,
+Com um orgulho legÌtimo, com uma confianÁa invisÌvel
 Em que tudo isso tenha um sentido mais belo e mais vasto
-Que apenas o ter-se perdido o barco onde √™le ia
-E ele ter ido ao fundo por lhe ter entrado √°goa pr√≥s pulm√µes!
+Que apenas o ter-se perdido o barco onde Íle ia
+E ele ter ido ao fundo por lhe ter entrado ·goa prÛs pulmıes!
 
 Ah, os paquetes, os navios-carvoeiros, os navios de vela!
-V√£o rareando--ai de mim!--os navios de vela nos mares!
-E eu, que amo a civilisa√ß√£o moderna, eu que beijo com a alma as m√°quinas,
+V„o rareando--ai de mim!--os navios de vela nos mares!
+E eu, que amo a civilisaÁ„o moderna, eu que beijo com a alma as m·quinas,
 Eu o engenheiro, eu o civilisado, eu o educado no estrangeiro,
-Gostaria de ter outra vez ao p√© da minha vista s√≥ veleiros e barcos de madeira,
-De n√£o saber doutra vida mar√≠tima que a antiga vida dos mares!
-Porque os mares antigos s√£o a Dist√¢ncia Absoluta,
+Gostaria de ter outra vez ao pÈ da minha vista sÛ veleiros e barcos de madeira,
+De n„o saber doutra vida marÌtima que a antiga vida dos mares!
+Porque os mares antigos s„o a Dist‚ncia Absoluta,
 O Puro Longe, liberto do peso do Actual...
 E ah, como aqui tudo me lembra essa vida melhor,
-√ässes mares, maiores, porque se navegava mais devagar.
-√ässes mares, misteriosos, porque se sabia menos d√™les.
+ sses mares, maiores, porque se navegava mais devagar.
+ sses mares, misteriosos, porque se sabia menos dÍles.
 
-Todo o vapor ao longe √© um barco de vela perto.
-Todo o navio distante visto agora √© um navio no passado visto pr√≥ximo.
-Todos os marinheiros invis√≠veis a bordo dos navios no horisonte
-S√£o os marinheiros vis√≠veis do tempo dos velhos navios,
-Da √©poca lenta e veleira das navega√ß√µes perigosas,
-Da √©poca de madeira e lona das viagens que duravam m√™ses.
+Todo o vapor ao longe È um barco de vela perto.
+Todo o navio distante visto agora È um navio no passado visto prÛximo.
+Todos os marinheiros invisÌveis a bordo dos navios no horisonte
+S„o os marinheiros visÌveis do tempo dos velhos navios,
+Da Època lenta e veleira das navegaÁıes perigosas,
+Da Època de madeira e lona das viagens que duravam mÍses.
 
-Toma-me pouco a pouco o del√≠rio das cousas mar√≠timas,
-Penetram-me f√≠sicamente o cais e a sua atmosfera,
+Toma-me pouco a pouco o delÌrio das cousas marÌtimas,
+Penetram-me fÌsicamente o cais e a sua atmosfera,
 O marulho do Tejo galga-me por cima dos sentidos,
-E come√ßo a sonhar, come√ßo a envolver-me do sonho das √°goas,
-Come√ßam a pegar bem as correias-de-transmiss√£o na minh'alma
-E a acelera√ß√£o do volante sacode-me n√≠tidamente.
+E comeÁo a sonhar, comeÁo a envolver-me do sonho das ·goas,
+ComeÁam a pegar bem as correias-de-transmiss„o na minh'alma
+E a aceleraÁ„o do volante sacode-me nÌtidamente.
 
-Chamam por mim as √°goas,
+Chamam por mim as ·goas,
 Chamam por mim os mares.
-Chamam por mim, levantando uma voz corp√≥rea, os longes,
-As √©pocas mar√≠timas todas sentidas no passado, a chamar.
+Chamam por mim, levantando uma voz corpÛrea, os longes,
+As Èpocas marÌtimas todas sentidas no passado, a chamar.
 
-Tu, marinheiro ingl√™s, Jim Barns meu amigo, f√¥ste tu
-Que me ensinaste √™sse grito antiq√π√≠ssimo, ingl√™s,
-Que t√£o venenosamente resume
+Tu, marinheiro inglÍs, Jim Barns meu amigo, fÙste tu
+Que me ensinaste Ísse grito antiq˘Ìssimo, inglÍs,
+Que t„o venenosamente resume
 Para as almas complexas como a minha
-O chamamento confuso das √°goas,
-A voz in√©dita e impl√≠cita de todas as cousas do mar,
-Dos naufr√°gios, das viagens longinq√πas, das travessias perigosas.
-√ässe teu grito ingl√™s, tornado universal no meu sangue,
+O chamamento confuso das ·goas,
+A voz inÈdita e implÌcita de todas as cousas do mar,
+Dos naufr·gios, das viagens longinq˘as, das travessias perigosas.
+ sse teu grito inglÍs, tornado universal no meu sangue,
 Sem feitio de grito, sem forma humana nem voz,
-√ässe grito tremendo que parece soar
-De dentro duma caverna cuja ab√≥bada √© o c√©u
+ sse grito tremendo que parece soar
+De dentro duma caverna cuja abÛbada È o cÈu
 E parece narrar todas as sinistras cousas
 Que podem acontecer no Longe, no Mar, pela Noite...
 (Fingias sempre que era por uma escuna que chamavas,
-E dizias assim, pondo uma m√£o de cada lado da b√¥ca,
-Fazendo porta-voz das grandes m√£os cortidas e escuras:
+E dizias assim, pondo uma m„o de cada lado da bÙca,
+Fazendo porta-voz das grandes m„os cortidas e escuras:
 
-Ah√≤-√≤-√≤-√≤-√≤-√≤-√≤-√≤-√≤-√≤-√≤--yyyy...
-Schooner ah√≤-√≤-√≤-√≤-√≤-√≤-√≤-√≤-√≤-√≤-√≤-√≤-√≤--yyyy...)
+AhÚ-Ú-Ú-Ú-Ú-Ú-Ú-Ú-Ú-Ú-Ú--yyyy...
+Schooner ahÚ-Ú-Ú-Ú-Ú-Ú-Ú-Ú-Ú-Ú-Ú-Ú-Ú--yyyy...)
 
 Escuto-te de aqui, agora, e desperto a qualquer cousa.
-Estremece o vento. Sobe a manh√£. O calor abre.
+Estremece o vento. Sobe a manh„. O calor abre.
 Sinto corarem-me as faces.
 Meus olhos conscientes dilatam-se.
-O extase em mim levanta-se, cresce, avan√ßa,
-E com um ru√≠do cego de arrua√ßa acentua-se
+O extase em mim levanta-se, cresce, avanÁa,
+E com um ruÌdo cego de arruaÁa acentua-se
 O giro vivo do volante.
 
-√ì clamoroso chamamento
-A cujo calor, a cuja f√∫ria fervem em mim
-Numa unidade explosiva todas as minhas √¢nsias,
-Meus pr√≥prios t√©dios tornados din√¢micos, todos!...
-Ap√™lo lan√ßado ao meu sangue
-Dum am√¥r passado, n√£o sei onde, que volve
-E ainda tem f√¥r√ßa para me atra√≠r e puxar,
-Que ainda tem f√¥r√ßa para me fazer odiar esta vida
-Que passo entre a impenetrabilidade f√≠sica e ps√≠quica
+” clamoroso chamamento
+A cujo calor, a cuja f˙ria fervem em mim
+Numa unidade explosiva todas as minhas ‚nsias,
+Meus prÛprios tÈdios tornados din‚micos, todos!...
+ApÍlo lanÁado ao meu sangue
+Dum amÙr passado, n„o sei onde, que volve
+E ainda tem fÙrÁa para me atraÌr e puxar,
+Que ainda tem fÙrÁa para me fazer odiar esta vida
+Que passo entre a impenetrabilidade fÌsica e psÌquica
 Da gente real com que vivo!
 
-Ah, seja como f√¥r, seja para onde f√¥r, partir!
-Largar por a√≠ fora, pelas ondas, pelo perigo, pelo mar,
-Ir para Longe, ir para F√≥ra, para a Dist√¢ncia Abstrata,
+Ah, seja como fÙr, seja para onde fÙr, partir!
+Largar por aÌ fora, pelas ondas, pelo perigo, pelo mar,
+Ir para Longe, ir para FÛra, para a Dist‚ncia Abstrata,
 Indefinidamente, pelas noites misteriosas e fundas,
 Levado, como a poeira, plos ventos, plos vendavais!
 Ir, ir, ir, ir de vez!
 Todo o meu sangue raiva por asas!
-Todo o meu corpo atira-se pr√° frente!
-Galgo pla minha imagina√ß√£o fora em torrentes!
+Todo o meu corpo atira-se pr· frente!
+Galgo pla minha imaginaÁ„o fora em torrentes!
 Atropelo-me, rujo, precipito-me!...
-Estoiram em espuma as minhas √¢nsias
-E a minha carne √© uma onda dando de encontro a roch√™dos!
+Estoiram em espuma as minhas ‚nsias
+E a minha carne È uma onda dando de encontro a rochÍdos!
 
-Pensando nisto--√≥ raiva! pensando nisto--√≥ f√∫ria!
-Pensando nesta estreiteza da minha vida cheia de √¢nsias,
-S√∫bitamente, tr√©mulamente, extraorbitadamente,
-Com uma oscila√ß√£o viciosa, vasta, violenta,
-Do volante vivo da minha imagina√ß√£o,
+Pensando nisto--Û raiva! pensando nisto--Û f˙ria!
+Pensando nesta estreiteza da minha vida cheia de ‚nsias,
+S˙bitamente, trÈmulamente, extraorbitadamente,
+Com uma oscilaÁ„o viciosa, vasta, violenta,
+Do volante vivo da minha imaginaÁ„o,
 Rompe, por mim, assobiando, silvando, vertiginando,
-O cio sombrio e s√°dico da estr√≠dula vida mar√≠tima.
+O cio sombrio e s·dico da estrÌdula vida marÌtima.
 
 Eh marinheiros, gageiros! eh tripulantes, pilotos!
 Navegadores, mareantes, marujos, aventureiros!
-Eh capit√£es de navios! homens ao leme e em mastros!
+Eh capit„es de navios! homens ao leme e em mastros!
 Homens que dormem em beliches rudes!
 Homens que dormem co'o Perigo a espreitar plas vigias!
 Homens que dormem co'a Morte por travesseiro!
@@ -1963,147 +1963,147 @@ Homens que teem tombadilhos, que teem pontes donde olhar
 A imensidade imensa do mar imenso!
 Eh manipuladores dos guindastes de carga!
 Eh amainadores de velas, fogueiros, criados de bordo!
-Homens que metem a carga nos por√µes!
+Homens que metem a carga nos porıes!
 Homens que enrolam cabos no convez!
 Homens que limpam os metais das escotilhas!
-Homens do leme! homens das m√°quinas! homens dos mastros!
+Homens do leme! homens das m·quinas! homens dos mastros!
 Eh-eh-eh-eh-eh-eh-eh!
 Gente de bonet de pala! Gente de camisola de malha!
-Gente de √¢ncoras e bandeiras cruzadas bordadas no peito!
+Gente de ‚ncoras e bandeiras cruzadas bordadas no peito!
 Gente tatuada! gente de cachimbo! gente de amurada!
 Gente escura de tanto sol, crestada de tanta chuva,
-Limpa de olhos de tanta imensidade diante d√™les,
+Limpa de olhos de tanta imensidade diante dÍles,
 Audaz de rosto de tantos ventos que lhes bateram a valer!
 
 Eh-eh-eh-eh-eh-eh-eh!
 Homens que vistes a Patagonia!
-Homens que passastes pela Austr√°lia!
+Homens que passastes pela Austr·lia!
 Que enchestes o vosso olhar de costas que nunca verei!
-Que f√¥stes a terra em terras onde nunca descerei!
-Que comprastes artigos t√¥scos em col√≥nias √† pr√¥a de sert√µes!
-E fizestes tudo isso como se n√£o f√¥sse nada,
-Como se isso f√¥sse natural,
-Como se a vida f√¥sse isso,
+Que fÙstes a terra em terras onde nunca descerei!
+Que comprastes artigos tÙscos em colÛnias ‡ prÙa de sertıes!
+E fizestes tudo isso como se n„o fÙsse nada,
+Como se isso fÙsse natural,
+Como se a vida fÙsse isso,
 Como nem sequer cumprindo um destino!
 Eh-eh-eh-eh-eh-eh-eh!
 Homens do mar actual! homens do mar passado!
-Comiss√°rios de bordo! escravos das gal√©s! combatentes de Lepanto!
-Piratas do tempo de Roma! Navegadores da Gr√©cia!
-Fen√≠cios! Cartagin√™ses! Portugu√™ses atirados de Sagres
+Comiss·rios de bordo! escravos das galÈs! combatentes de Lepanto!
+Piratas do tempo de Roma! Navegadores da GrÈcia!
+FenÌcios! CartaginÍses! PortuguÍses atirados de Sagres
 Para a aventura indefinida, para o Mar Absoluto, para realizar o Impossivel!
 Eh-eh-eh-eh-eh-eh-eh-eh-eh!
-Homens que erguestes padr√µes, que destes nomes a cabos!
+Homens que erguestes padrıes, que destes nomes a cabos!
 Homens que negociastes pela primeira vez com pretos!
 Que primeiro vendestes escravos de novas terras!
-Que destes o primeiro espasmo europeu √†s negras at√≥nitas!
+Que destes o primeiro espasmo europeu ‡s negras atÛnitas!
 Que trouxestes ouro, missanga, madeiras cheirosas, setas,
-De encostas explodindo em verde vegeta√ß√£o!
-Homens que saqueastes tranq√π√≠las povoa√ß√µes africanas,
-Que fizestes fugir com o ru√≠do de canh√µes essas ra√ßas,
+De encostas explodindo em verde vegetaÁ„o!
+Homens que saqueastes tranq˘Ìlas povoaÁıes africanas,
+Que fizestes fugir com o ruÌdo de canhıes essas raÁas,
 Que matastes, roubastes, torturastes, ganhastes
-Os pr√©mios de Novidade de quem, de cabe√ßa baixa,
-Arremete contra o mist√©rio de novos mares! Eh-eh-eh-eh-eh!
-A v√≥s todos num, a v√≥s todos em v√≥s todos como um,
-A v√≥s todos misturados, entrecruzados,
-A v√≥s todos sangrentos, violentos, odiados, temidos, sagrados,
-Eu vos sa√∫do, eu vos sa√∫do, eu vos sa√∫do!
+Os prÈmios de Novidade de quem, de cabeÁa baixa,
+Arremete contra o mistÈrio de novos mares! Eh-eh-eh-eh-eh!
+A vÛs todos num, a vÛs todos em vÛs todos como um,
+A vÛs todos misturados, entrecruzados,
+A vÛs todos sangrentos, violentos, odiados, temidos, sagrados,
+Eu vos sa˙do, eu vos sa˙do, eu vos sa˙do!
 Eh-eh-eh-eh-eh! Eh-eh-eh-eh-eh! Eh-eh-eh-eh-eh-eh-eh!
-Eh-lah√¥-lah√¥-laHO-lah√°-√°-√°-√†-√†!
+Eh-lahÙ-lahÙ-laHO-lah·-·-·-‡-‡!
 
-Quero ir comv√¥sco, quero ir comv√¥sco,
-Ao mesmo tempo com v√≥s todos
-Pra toda a parte pr'onde f√¥stes!
+Quero ir comvÙsco, quero ir comvÙsco,
+Ao mesmo tempo com vÛs todos
+Pra toda a parte pr'onde fÙstes!
 Quero encontrar vossos perigos frente a frente,
 Sentir na minha cara os ventos que engelharam as vossas,
-Cuspir dos l√°bios o sal dos mares que beijaram os vossos,
-Ter bra√ßos na vossa faina, partilhar das vossas tormentas,
-Chegar como v√≥s, emfim, a extraordin√°rios portos!
-Fugir comv√¥sco √† civilisa√ß√£o!
-Perder comv√¥sco a no√ß√£o da moral!
+Cuspir dos l·bios o sal dos mares que beijaram os vossos,
+Ter braÁos na vossa faina, partilhar das vossas tormentas,
+Chegar como vÛs, emfim, a extraordin·rios portos!
+Fugir comvÙsco ‡ civilisaÁ„o!
+Perder comvÙsco a noÁ„o da moral!
 Sentir mudar-se no longe a minha humanidade!
-Beber comv√¥sco em mares do sul
-Novas selvagerias, novas balb√∫rdias da alma,
-Novos fogos centrais no meu vulc√¢nico esp√≠rito!
-Ir comv√¥sco, despir de mim--ah! p√µe-te daqui pra fora!--
-O meu traje de civilisado, a minha brandura de ac√ß√µes,
-Meu m√™do inato das cadeias,
-Minha pac√≠fica vida,
-A minha vida sentada, est√°tica, regrada e revista!
+Beber comvÙsco em mares do sul
+Novas selvagerias, novas balb˙rdias da alma,
+Novos fogos centrais no meu vulc‚nico espÌrito!
+Ir comvÙsco, despir de mim--ah! pıe-te daqui pra fora!--
+O meu traje de civilisado, a minha brandura de acÁıes,
+Meu mÍdo inato das cadeias,
+Minha pacÌfica vida,
+A minha vida sentada, est·tica, regrada e revista!
 
 No mar, no mar, no mar, no mar,
-Eh! p√¥r no mar, ao vento, √†s vagas,
+Eh! pÙr no mar, ao vento, ‡s vagas,
 A minha vida!
 Salgar de espuma arremessada pelos ventos
 Meu paladar das grandes viagens.
-Fustigar de √°goa chicoteante as carnes da minha aventura,
-Repassar de frios oce√¢nicos os ossos da minha exist√™ncia,
+Fustigar de ·goa chicoteante as carnes da minha aventura,
+Repassar de frios oce‚nicos os ossos da minha existÍncia,
 Flagelar, cortar, engelhar de ventos, de espumas, de soes,
-Meu ser cicl√≥nico e atl√¢ntico,
-Meus nervos postos como enx√°rcias,
-Lira nas m√£os dos ventos!
+Meu ser ciclÛnico e atl‚ntico,
+Meus nervos postos como enx·rcias,
+Lira nas m„os dos ventos!
 
-Sim, sim, sim... Crucificai-me nas navega√ß√µes
-E as minhas esp√°duas gosar√£o a minha cruz!
-Atai-me √†s viagens como a postes
-E a sensa√ß√£o dos postes entrar√° pela minha espinha
+Sim, sim, sim... Crucificai-me nas navegaÁıes
+E as minhas esp·duas gosar„o a minha cruz!
+Atai-me ‡s viagens como a postes
+E a sensaÁ„o dos postes entrar· pela minha espinha
 E eu passarei a senti-los num vasto espasmo passivo!
 Fazei o que quizerdes de mim, logo que seja nos mares,
-S√¥bre convezes, ao som de vagas,
+SÙbre convezes, ao som de vagas,
 Que me rasgueis, mateis, firais!
-O que quero √© levar pr√° Morte
+O que quero È levar pr· Morte
 Uma alma a transbordar de Mar,
-√âbria a ca√≠r das cousas mar√≠timas,
-Tanto dos marujos como das √¢ncoras, dos cabos,
-Tanto das costas longinq√πas como do ru√≠do dos ventos,
-Tanto do Longe como do Cais, tanto dos naufr√°gios
-Como dos tranq√π√≠los com√©rcios,
+…bria a caÌr das cousas marÌtimas,
+Tanto dos marujos como das ‚ncoras, dos cabos,
+Tanto das costas longinq˘as como do ruÌdo dos ventos,
+Tanto do Longe como do Cais, tanto dos naufr·gios
+Como dos tranq˘Ìlos comÈrcios,
 Tanto dos mastros como das vagas,
-Levar pr√° Morte com d√¥r, voluptuosamente,
+Levar pr· Morte com dÙr, voluptuosamente,
 Um corpo cheio de sanguesugas, a sugar, a sugar,
-De estranhas verdes absurdas sanguesugas mar√≠timas!
+De estranhas verdes absurdas sanguesugas marÌtimas!
 
-Fa√ßam enx√°rcias das minhas veias!
-Amarras dos meus m√∫sculos!
-Arranquem-me a pele, pr√©guem-a √†s quilhas.
-E possa eu sentir a d√¥r dos pregos e nunca deixar de sentir!
-Fa√ßam do meu cora√ß√£o uma fl√¢mula de almirante
+FaÁam enx·rcias das minhas veias!
+Amarras dos meus m˙sculos!
+Arranquem-me a pele, prÈguem-a ‡s quilhas.
+E possa eu sentir a dÙr dos pregos e nunca deixar de sentir!
+FaÁam do meu coraÁ„o uma fl‚mula de almirante
 Na hora de guerra dos velhos navios!
-C√°lquem aos p√©s nos convezes meus olhos arrancados!
-Quebrem-me os ossos de encontro √†s amuradas!
-Fust√≠guem-me atado aos mastros, fust√≠guem-me!
+C·lquem aos pÈs nos convezes meus olhos arrancados!
+Quebrem-me os ossos de encontro ‡s amuradas!
+FustÌguem-me atado aos mastros, fustÌguem-me!
 A todos os ventos de todas as latitudes e longitudes
-Derramem meu sangue s√¥bre as √°goas arremessadas
+Derramem meu sangue sÙbre as ·goas arremessadas
 Que atravessam o navio, o tombadilho, de lado a lado,
 Nas vascas bravas das tormentas!
 
-Ter a aud√°cia ao vento dos panos das velas!
-Ser, como as g√°veas altas, o assobio dos ventos!
+Ter a aud·cia ao vento dos panos das velas!
+Ser, como as g·veas altas, o assobio dos ventos!
 A velha guitarra do Fado dos mares cheios de perigos,
-Can√ß√£o para os navegadores ouvirem e n√£o repetirem!
+CanÁ„o para os navegadores ouvirem e n„o repetirem!
 
 Os marinheiros que se sublevaram
-Enforcaram o capit√£o numa v√™rga.
+Enforcaram o capit„o numa vÍrga.
 Desembarcaram um outro numa ilha deserta.
 _Marooned!_
-O sol dos tr√≥picos poz a febre da pirataria antiga
+O sol dos trÛpicos poz a febre da pirataria antiga
 Nas minhas veias intensivas.
-Os ventos da Patagonia tatuaram a minha imagina√ß√£o
-De imagens tr√°gicas e obscenas.
-F√¥go, f√¥go, f√¥go, dentro de mim!
+Os ventos da Patagonia tatuaram a minha imaginaÁ„o
+De imagens tr·gicas e obscenas.
+FÙgo, fÙgo, fÙgo, dentro de mim!
 Sangue! sangue! sangue! sangue!
-Explode todo o meu c√©rebro!
+Explode todo o meu cÈrebro!
 Parte-se-me o mundo em vermelho!
 Estoiram-me com o som de amarras as veias!
 E estala em mim, feroz, voraz,
-A can√ß√£o do Grande Pirata,
+A canÁ„o do Grande Pirata,
 A morte berrada do Grande Pirata a cantar
-At√© meter pav√¥r plas espinhas dos seus homens abaixo.
-L√° da r√© a morrer, e a berrar, a cantar:
+AtÈ meter pavÙr plas espinhas dos seus homens abaixo.
+L· da rÈ a morrer, e a berrar, a cantar:
 
   _Fifteen men on the Dead Man's Chest._
   _Yo-ho-ho and a bottle of rum!_
 
-E depois a gritar, numa voz j√° irreal, a estoirar no ar:
+E depois a gritar, numa voz j· irreal, a estoirar no ar:
 
 _Darby M'Graw-aw-aw-aw-aw!_
 _Darby M'Graw-aw-aw-aw-aw-aw-aw-aw!_
@@ -2111,227 +2111,227 @@ _Fetch a-a-aft the ru-u-u-u-u-u-u-u-u-um, Darby!_
 
 Eia, que vida essa! essa era a vida, eia!
 Eh-eh-eh-eh-eh-eh-eh!
-Eh-lah√¥-lah√¥-laHO-lah√°-√°-√°-√†-√†!
+Eh-lahÙ-lahÙ-laHO-lah·-·-·-‡-‡!
 Eh-eh-eh-eh-eh-eh-eh!
 
 Quilhas partidas, navios ao fundo, sangue nos mares!
 Convezes cheios de sangue, fragmentos de corpos!
-Dedos decepados s√¥bre amuradas!
-Cabe√ßas de crean√ßas, aqui, acol√°!
+Dedos decepados sÙbre amuradas!
+CabeÁas de creanÁas, aqui, acol·!
 Gente de olhos fora, a gritar, a uivar!
 Eh-eh-eh-eh-eh-eh-eh-eh-eh-eh!
 Eh-eh-eh-eh-eh-eh-eh-eh-eh-eh!
 Embrulho-me em tudo isto como numa capa no frio!
-Ro√ßo-me por tudo isto como um gata com cio por um muro!
-Rujo como um le√£o faminto para tudo isto!
-Arremeto como um touro louco s√¥bre tudo isto!
-Cravo unhas, parto garras, sangro dos dentes s√¥bre isto!
+RoÁo-me por tudo isto como um gata com cio por um muro!
+Rujo como um le„o faminto para tudo isto!
+Arremeto como um touro louco sÙbre tudo isto!
+Cravo unhas, parto garras, sangro dos dentes sÙbre isto!
 Eh-eh-eh-eh-eh-eh-eh-eh-eh-eh!
 
-De repente estala-me s√¥bre os ouvidos
+De repente estala-me sÙbre os ouvidos
 Como um clarim a meu lado,
-O velho grito, mas agora irado, met√°lico,
+O velho grito, mas agora irado, met·lico,
 Chamando a presa que se avista,
 A escuna que vai ser tomada:
 
-Ah√≥-√≥-√≥-√≥-√≥-√≥-√≥-√≥-√≥-√≥-√≥--yyyy...
-Schooner ah√≥-√≥-√≥-√≥-√≥-√≥-√≥-√≥-√≥-√≥-√≥-√≥-√≥--yyyy...
+AhÛ-Û-Û-Û-Û-Û-Û-Û-Û-Û-Û--yyyy...
+Schooner ahÛ-Û-Û-Û-Û-Û-Û-Û-Û-Û-Û-Û-Û--yyyy...
 
-O mundo inteiro n√£o existe para mim! Ardo vermelho!
-Rujo na f√∫ria da abordagem!
-Pirata-m√≥r! C√©sar-Pirata!
+O mundo inteiro n„o existe para mim! Ardo vermelho!
+Rujo na f˙ria da abordagem!
+Pirata-mÛr! CÈsar-Pirata!
 Pilho, mato, esfacelo, rasgo!
-S√≥ sinto o mar, a presa, o saque!
-S√≥ sinto em mim bater, baterem-me
+SÛ sinto o mar, a presa, o saque!
+SÛ sinto em mim bater, baterem-me
 As veias das minhas fontes!
-Escorre sangue quente a minha sensa√ß√£o dos meus olhos!
+Escorre sangue quente a minha sensaÁ„o dos meus olhos!
 Eh-eh-eh-eh-eh-eh-eh-eh-eh-eh-eh!
 
 Ah piratas, piratas, piratas!
 Piratas, amai-me e odiai-me!
-Misturai-me comv√¥sco, piratas!
+Misturai-me comvÙsco, piratas!
 
-Vossa f√∫ria, vossa crueldade como falam ao sangue
+Vossa f˙ria, vossa crueldade como falam ao sangue
 Dum corpo de mulher que foi meu outrora e cujo cio sobrevive!
 
 Eu queria ser um bicho representativo de todos os vossos gestos,
 Um bicho que cravasse dentes nas amuradas, nas quilhas,
-Que comesse mastros, bebesse sangue e alcatr√£o nos convezes,
-Trincasse velas, remos, cord√¢me e pole√¢me,
+Que comesse mastros, bebesse sangue e alcatr„o nos convezes,
+Trincasse velas, remos, cord‚me e pole‚me,
 Serpente do mar feminina e monstruosa cevando-se nos crimes!
 
-E ha uma sinfonia de sensa√ß√µes incompat√≠veis e an√°logas,
-Ha uma orquestra√ß√£o no meu sangue de balb√∫rdias de crimes,
-De estr√©pitos espasmados de orgias de sangue nos mares,
-Furibundamente, como um vendaval de calor pelo esp√≠rito,
-N√∫vem de poeira quente anuviando a minha lucidez
-E fazendo-me ver e sonhar isto tudo s√≥ com a pele e as veias!
+E ha uma sinfonia de sensaÁıes incompatÌveis e an·logas,
+Ha uma orquestraÁ„o no meu sangue de balb˙rdias de crimes,
+De estrÈpitos espasmados de orgias de sangue nos mares,
+Furibundamente, como um vendaval de calor pelo espÌrito,
+N˙vem de poeira quente anuviando a minha lucidez
+E fazendo-me ver e sonhar isto tudo sÛ com a pele e as veias!
 
 Os piratas, a pirataria, os barcos, a hora,
-Aquela hora mar√≠tima em que as presas s√£o assaltadas,
-E o terror dos apresados foge pr√° loucura--essa hora,
-No seu total de crimes, terror, barcos, gente, mar, c√©u, n√∫vens,
+Aquela hora marÌtima em que as presas s„o assaltadas,
+E o terror dos apresados foge pr· loucura--essa hora,
+No seu total de crimes, terror, barcos, gente, mar, cÈu, n˙vens,
 Brisa, latitude, longitude, vozearia,
-Queria eu que f√¥sse em seu Todo meu corpo em seu Todo, sofrendo,
+Queria eu que fÙsse em seu Todo meu corpo em seu Todo, sofrendo,
 
-Que f√¥sse meu corpo e meu sangue, compozesse meu ser em vermelho,
+Que fÙsse meu corpo e meu sangue, compozesse meu ser em vermelho,
 Florescesse como uma ferida comichando na carne irreal da minha alma!
 
 Ah, ser tudo nos crimes! ser todos os elementos componentes
-Dos assaltos aos barcos e das chacinas e das viola√ß√µes!
+Dos assaltos aos barcos e das chacinas e das violaÁıes!
 Ser quanto foi no lugar dos saques!
-Ser quanto viveu ou jazeu no local das trag√©dias de sangue!
+Ser quanto viveu ou jazeu no local das tragÈdias de sangue!
 Ser o pirata-resumo de toda a pirataria no seu auge,
-E a v√≠tima-s√≠ntese, mas de carne e √¥sso, de todos os piratas do mundo!
+E a vÌtima-sÌntese, mas de carne e Ùsso, de todos os piratas do mundo!
 
 Ser no meu corpo passivo a mulher-todas-as-mulheres
-Que f√¥ram violadas, mortas, feridas, rasgadas plos piratas!
-Ser no meu ser subjugado a f√™mea que tem de ser d√™les!
-E sentir tudo isso--todas estas cousas duma s√≥ vez--pela espinha!
+Que fÙram violadas, mortas, feridas, rasgadas plos piratas!
+Ser no meu ser subjugado a fÍmea que tem de ser dÍles!
+E sentir tudo isso--todas estas cousas duma sÛ vez--pela espinha!
 
-√ì meus peludos e rudes herois da aventura e do crime!
-Minhas mar√≠timas feras, maridos da minha imagina√ß√£o!
-Amantes casuais da obliq√π√≠dade das minhas sensa√ß√µes!
+” meus peludos e rudes herois da aventura e do crime!
+Minhas marÌtimas feras, maridos da minha imaginaÁ„o!
+Amantes casuais da obliq˘Ìdade das minhas sensaÁıes!
 Queria ser Aquela que vos esperasse nos portos,
-A v√≥s, odiados amados do seu sangue de pirata nos sonhos!
-Porque ela teria comv√¥sco, mas s√≥ em esp√≠rito, raivado
-S√¥bre os cad√°veres nus das v√≠timas que fazeis no mar!
-Porque ela teria acompanhado vosso crime, e na orgia oce√¢nica
-Seu esp√≠rito de bruxa dan√ßaria invis√≠vel em volta dos gestos
-Dos vossos corpos, dos vossos cutelos, das vossas m√£os estranguladoras!
-E ela em terra, esperando-vos, quando vi√©sseis, se acaso vi√©sseis,
-Iria beber nos rugidos do vosso am√¥r todo o vasto,
-Todo o nevoento e sinistro perfume das vossas vit√≥rias,
-E atrav√©s dos vossos espasmos silvaria um sabbat de vermelho e amarelo!
+A vÛs, odiados amados do seu sangue de pirata nos sonhos!
+Porque ela teria comvÙsco, mas sÛ em espÌrito, raivado
+SÙbre os cad·veres nus das vÌtimas que fazeis no mar!
+Porque ela teria acompanhado vosso crime, e na orgia oce‚nica
+Seu espÌrito de bruxa danÁaria invisÌvel em volta dos gestos
+Dos vossos corpos, dos vossos cutelos, das vossas m„os estranguladoras!
+E ela em terra, esperando-vos, quando viÈsseis, se acaso viÈsseis,
+Iria beber nos rugidos do vosso amÙr todo o vasto,
+Todo o nevoento e sinistro perfume das vossas vitÛrias,
+E atravÈs dos vossos espasmos silvaria um sabbat de vermelho e amarelo!
 
 A carne rasgada, a carne aberta e estripada, o sangue correndo!
-Agora, no auge conciso de sonhar o que v√≥s faz√≠eis,
-Perco-me todo de mim, j√° n√£o vos perten√ßo, sou v√≥s,
-A minha femininidade que vos acompanha √© ser as vossas almas!
-Estar por dentro de toda a vossa ferocidade, quando a pratic√°veis!
-Sugar por dentro a vossa consci√™ncia das vossas sensa√ß√µes
-Quando ting√≠eis de sangue os mares altos,
-Quando de vez em quando atir√°veis aos tubar√µes
-Os corpos vivos ainda dos feridos, a carne rosada das crean√ßas
-E lev√°veis as m√£is √†s amuradas para v√™rem o que lhes acontecia!
+Agora, no auge conciso de sonhar o que vÛs fazÌeis,
+Perco-me todo de mim, j· n„o vos pertenÁo, sou vÛs,
+A minha femininidade que vos acompanha È ser as vossas almas!
+Estar por dentro de toda a vossa ferocidade, quando a pratic·veis!
+Sugar por dentro a vossa consciÍncia das vossas sensaÁıes
+Quando tingÌeis de sangue os mares altos,
+Quando de vez em quando atir·veis aos tubarıes
+Os corpos vivos ainda dos feridos, a carne rosada das creanÁas
+E lev·veis as m„is ‡s amuradas para vÍrem o que lhes acontecia!
 
-Estar comv√¥sco na carn√°gem, na pilh√°gem!
-Estar orquestrado comv√¥sco na sinfonia dos saques!
-Ah, n√£o sei qu√™, n√£o sei quanto queria eu ser de v√≥s!
-N√£o era s√≥ s√™r-vos a f√™mea, s√™r-vos as f√™meas, s√™r-vos as v√≠timas,
-S√™r-vos as v√≠timas--homens, mulheres, crean√ßas, navios--,
-N√£o era s√≥ ser a hora e os barcos e as ondas,
-N√£o era s√≥ ser vossas almas, vossos corpos, vossa f√∫ria, vossa posse,
-N√£o era s√≥ ser concretamente vosso acto abstrato de orgia,
-N√£o era s√≥ isto que eu queria ser--era mais que isto, o Deus-isto!
-Era preciso ser Deus, o Deus dum culto ao contr√°rio,
-Um Deus monstruoso e sat√¢nico, um Deus dum pantheismo de sangue,
-Para poder encher toda a medida da minha f√∫ria imaginativa,
+Estar comvÙsco na carn·gem, na pilh·gem!
+Estar orquestrado comvÙsco na sinfonia dos saques!
+Ah, n„o sei quÍ, n„o sei quanto queria eu ser de vÛs!
+N„o era sÛ sÍr-vos a fÍmea, sÍr-vos as fÍmeas, sÍr-vos as vÌtimas,
+SÍr-vos as vÌtimas--homens, mulheres, creanÁas, navios--,
+N„o era sÛ ser a hora e os barcos e as ondas,
+N„o era sÛ ser vossas almas, vossos corpos, vossa f˙ria, vossa posse,
+N„o era sÛ ser concretamente vosso acto abstrato de orgia,
+N„o era sÛ isto que eu queria ser--era mais que isto, o Deus-isto!
+Era preciso ser Deus, o Deus dum culto ao contr·rio,
+Um Deus monstruoso e sat‚nico, um Deus dum pantheismo de sangue,
+Para poder encher toda a medida da minha f˙ria imaginativa,
 Para poder nunca esgotar os meus desejos de identidade
-Com o cada, e o tudo, e o mais-que-tudo das vossas vit√≥rias!
+Com o cada, e o tudo, e o mais-que-tudo das vossas vitÛrias!
 
 Ah, torturai-me para me curardes!
 Minha carne--fazei dela o ar que os vossos cutelos atravessam
-Antes de ca√≠rem s√¥bre as cabe√ßas e os ombros!
+Antes de caÌrem sÙbre as cabeÁas e os ombros!
 Minhas veias sejam os fatos que as facas trespassam!
-Minha imagina√ß√£o o corpo das mulheres que violais!
-Minha intelig√™ncia o convez onde estais de p√© matando!
-Minha vida toda, no seu conjunto nervoso, hist√©rico, absurdo,
+Minha imaginaÁ„o o corpo das mulheres que violais!
+Minha inteligÍncia o convez onde estais de pÈ matando!
+Minha vida toda, no seu conjunto nervoso, histÈrico, absurdo,
 O grande organismo de que cada acto de pirataria que se cometeu
-F√¥sse uma c√©lula consciente--e todo eu turbilhonasse
-Como uma imensa podrid√£o ondeando, e f√¥sse aquilo tudo!
+FÙsse uma cÈlula consciente--e todo eu turbilhonasse
+Como uma imensa podrid„o ondeando, e fÙsse aquilo tudo!
 
 Com tal velocidade desmedida, pavorosa,
-A m√°quina de febre das minhas vis√µes transbordantes
-Gira agora que a minha consci√™ncia, volante,
-√â apenas um nevoento c√≠rculo assobiando no ar.
+A m·quina de febre das minhas visıes transbordantes
+Gira agora que a minha consciÍncia, volante,
+… apenas um nevoento cÌrculo assobiando no ar.
 
   _Fifteen men on the Dead Man's Chest._
   _Yo-ho-ho and a bottle of rum!_
 
-Eh-lah√¥-lah√¥-laHO--lah√°-√°-√°√°√°--√†√†√†...
+Eh-lahÙ-lahÙ-laHO--lah·-·-···--‡‡‡...
 
 Ah! a selvageria desta selvageria! Merda
-Pra toda a vida como a nossa, que n√£o √© nada disto!
-Eu pr'√†qui engenheiro, pr√°tico √† forca, sens√≠vel a tudo,
-Pr'√†qui parado, em rela√ß√£o a v√≥s, mesmo quando ando;
-Mesmo quando ajo, inerte; mesmo quando me imponho, d√©bil;
-Est√°tico, quebrado, dissidente cobarde da vossa Gloria,
-Da vossa grande din√¢mica estridente, quente e sangrenta!
+Pra toda a vida como a nossa, que n„o È nada disto!
+Eu pr'‡qui engenheiro, pr·tico ‡ forca, sensÌvel a tudo,
+Pr'‡qui parado, em relaÁ„o a vÛs, mesmo quando ando;
+Mesmo quando ajo, inerte; mesmo quando me imponho, dÈbil;
+Est·tico, quebrado, dissidente cobarde da vossa Gloria,
+Da vossa grande din‚mica estridente, quente e sangrenta!
 
-Arre! por n√£o poder agir d'ac√¥rdo com o meu del√≠rio!
-Arre! por andar sempre agarrado √†s saias da civilisa√ß√£o!
-Por andar com a _douceur des moeurs_ √†s costas, como um fardo de rendas!
-M√¥√ßos de esquina--todos n√≥s o s√¥mos--do humanitarismo moderno!
-Estupores de t√≠sicos, de neurast√©nicos, de linf√°ticos,
-Sem coragem para ser gente com viol√™ncia e aud√°cia,
+Arre! por n„o poder agir d'acÙrdo com o meu delÌrio!
+Arre! por andar sempre agarrado ‡s saias da civilisaÁ„o!
+Por andar com a _douceur des moeurs_ ‡s costas, como um fardo de rendas!
+MÙÁos de esquina--todos nÛs o sÙmos--do humanitarismo moderno!
+Estupores de tÌsicos, de neurastÈnicos, de linf·ticos,
+Sem coragem para ser gente com violÍncia e aud·cia,
 Com a alma como uma galinha presa por uma perna!
 
 Ah, os piratas! os piratas!
-A √¢nsia do ilegal unido ao feroz
-A √¢ncia das cousas absolutamente crueis e abomin√°veis,
+A ‚nsia do ilegal unido ao feroz
+A ‚ncia das cousas absolutamente crueis e abomin·veis,
 Que roe como um cio abstrato os nossos corpos franzinos,
 Os nossos nervos femininos e delicados,
-E p√µe grandes febres loucas nos nossos olhares vasios!
+E pıe grandes febres loucas nos nossos olhares vasios!
 
-Obrigai-me a ajoelhar diante de v√≥s!
+Obrigai-me a ajoelhar diante de vÛs!
 Humilhai-me e batei-me!
 Fazei de mim o vosso escravo e a vossa cousa!
 E que o vosso desprezo por mim nunca me abandone,
-√ì meus senhores! √≥ meus senhores!
+” meus senhores! Û meus senhores!
 
 Tomar sempre gloriosamente a parte submissa
 Nos acontecimentos de sangue e nas sensualidades estiradas!
-Desabai s√¥bre mim, como grandes muros pesados,
-√ì b√°rbaros do antigo mar!
+Desabai sÙbre mim, como grandes muros pesados,
+” b·rbaros do antigo mar!
 Rasgai-me e feri-me!
 De leste a oeste do meu corpo
 Riscai de sangue a minha carne!
-Beijai com cutelos de bordo e a√ßoites e raiva
+Beijai com cutelos de bordo e aÁoites e raiva
 O meu alegre terror carnal de vos pertencer,
-A minha √¢ncia mas√≥quista em me dar √† vossa f√∫ria,
-Em ser objecto inerte e sentiente da vossa omn√≠vora crueldade,
-Dominadores, senhores, imperadores, corc√©is!
+A minha ‚ncia masÛquista em me dar ‡ vossa f˙ria,
+Em ser objecto inerte e sentiente da vossa omnÌvora crueldade,
+Dominadores, senhores, imperadores, corcÈis!
 Ah, torturai-me,
 Rasgai-me e abri-me!
-Desfeito em peda√ßos conscientes
-Entornai-me s√¥bre os convezes,
+Desfeito em pedaÁos conscientes
+Entornai-me sÙbre os convezes,
 Espalhai-me nos mares, deixai-me
-Nas praias √°vidas das ilhas!
+Nas praias ·vidas das ilhas!
 
-Cevai s√¥bre mim todo o meu misticismo de v√≥s!
+Cevai sÙbre mim todo o meu misticismo de vÛs!
 Cinzelai a sangue a minh'alma!
 Cortai, riscai!
-√ì tatuadores da minha imagina√ß√£o corp√≥rea!
-Esfoladores amados da minha carnal submiss√£o!
-Submetei-me como quem mata um c√£o a pontap√©s!
-Fazei de mim o p√¥√ßo para o vosso desprezo de dom√≠nio!
+” tatuadores da minha imaginaÁ„o corpÛrea!
+Esfoladores amados da minha carnal submiss„o!
+Submetei-me como quem mata um c„o a pontapÈs!
+Fazei de mim o pÙÁo para o vosso desprezo de domÌnio!
 
-Fazei de mim as vossas v√≠timas todas!
+Fazei de mim as vossas vÌtimas todas!
 Como Cristo sofreu por todos os homens, quero sofrer
-Por todas as vossas v√≠timas √†s vossas m√£os,
-√Äs vossas m√£os calosas, sangrentas e de dedos decepados
+Por todas as vossas vÌtimas ‡s vossas m„os,
+¿s vossas m„os calosas, sangrentas e de dedos decepados
 Nos assaltos bruscos de amuradas!
 
-Fazei de mim qualquer cousa como se eu f√¥sse
-Arrastado--√≥ prazer, √≥ beijada d√¥r!--
-Arrastado √† cauda de cavalos chicoteados por v√≥s...
+Fazei de mim qualquer cousa como se eu fÙsse
+Arrastado--Û prazer, Û beijada dÙr!--
+Arrastado ‡ cauda de cavalos chicoteados por vÛs...
 Mas isto no mar, isto no ma-a-a-ar, isto no *MA-A-A-AR!*
 Eh-eh-eh-eh-eh! Eh-eh-eh-eh-eh-eh-eh! *EH-EH-EH-EH-EH-EH-EH! No MA-A-A-A-AR!*
 
 Yeh-eh-eh-eh-eh-eh! Yeh-eh-eh-eh-eh-eh! Yeh-eh-eh-eh-eh-eh-eh-eh!
 Grita tudo! tudo a gritar! ventos, vagas, barcos,
-Mares, g√°veas, piratas, a minha alma, o sangue, e o ar, e o ar!
+Mares, g·veas, piratas, a minha alma, o sangue, e o ar, e o ar!
 Eh-eh-eh-eh! Yeh-eh-eh-eh-eh! Yeh-eh-eh-eh-eh-eh! Tudo canta a gritar!
 
   *FIFTEEN MEN ON THE DEAD MAN'S CHEST.*
   *YO-HO-HO AND A BOTTLE OF RUM!*
 
 Eh-eh-eh-eh-eh-eh-eh! Eh-eh-eh-eh-eh-eh-eh! Eh-eh-eh-eh-eh-eh-eh!
-H√©-lah√¥-lah√¥-laHO-O-O-√¥√¥-lah√°-√°-√°--√†√†√†!
+HÈ-lahÙ-lahÙ-laHO-O-O-ÙÙ-lah·-·-·--‡‡‡!
 
-*AH√ì-√ì-√ì-√ì-√ì-√ì-√ì-√ì-√ì-√ì-√ì--yyy!...*
-*SCHOONER AH√ì-√ì-√ì-√ì-√ì-√ì-√ì-√ì-√ì-√ì----yyyy!...*
+*AH”-”-”-”-”-”-”-”-”-”-”--yyy!...*
+*SCHOONER AH”-”-”-”-”-”-”-”-”-”----yyyy!...*
 
 Darby M'Graw-aw-aw-aw-aw-aw!
 DARBY M'GRAW-AW-AW-AW-AW-AW-AW!
@@ -2345,87 +2345,87 @@ EH-EH-EH-EH-EH-EH-EH-EH-EH EH EH-EH!
 
 Parte-se em mim qualquer cousa. O vermelho anoiteceu.
 Senti de mais para poder continuar a sentir.
-Esgotou-se-me a alma, ficou s√≥ um √©co dentro de mim.
-Decresce sens√≠velmente a velocidade do volante.
-Tiram-me um pouco as m√£os dos olhos os meus sonhos.
-Dentro de mim ha s√≥ um v√°cuo, um deserto, um mar nocturno.
+Esgotou-se-me a alma, ficou sÛ um Èco dentro de mim.
+Decresce sensÌvelmente a velocidade do volante.
+Tiram-me um pouco as m„os dos olhos os meus sonhos.
+Dentro de mim ha sÛ um v·cuo, um deserto, um mar nocturno.
 E logo que sinto que ha um mar nocturno dentro de mim,
-Sobe dos longes d√™le, nasce do seu sil√™ncio,
-Outra vez, outra vez, o vasto grito antiq√π√≠ssimo.
-De repente, como um rel√¢mpago de som, que n√£o faz barulho mas ternura,
-S√∫bitamente abrangendo todo o horizonte mar√≠timo
-H√∫mido e sombrio marulho humano nocturno,
-Voz de sereia longinq√πa chorando, chamando,
+Sobe dos longes dÍle, nasce do seu silÍncio,
+Outra vez, outra vez, o vasto grito antiq˘Ìssimo.
+De repente, como um rel‚mpago de som, que n„o faz barulho mas ternura,
+S˙bitamente abrangendo todo o horizonte marÌtimo
+H˙mido e sombrio marulho humano nocturno,
+Voz de sereia longinq˘a chorando, chamando,
 Vem do fundo do Longe, do fundo do Mar, da alma dos Abismos,
-E √† tona d√™le, como algas, boiam meus sonhos desfeitos...
+E ‡ tona dÍle, como algas, boiam meus sonhos desfeitos...
 
-Ah√≤-√≤-√≤-√≤-√≤-√≤-√≤-√≤-√≤-√≤-√≤--yy...
-Schooner ah√≤-√≤-√≤-√≤-√≤-√≤-√≤-√≤-√≤-√≤-√≤-√≤-√≤----yy......
+AhÚ-Ú-Ú-Ú-Ú-Ú-Ú-Ú-Ú-Ú-Ú--yy...
+Schooner ahÚ-Ú-Ú-Ú-Ú-Ú-Ú-Ú-Ú-Ú-Ú-Ú-Ú----yy......
 
-Ah, o orvalho sobre a minha excita√ß√£o!
-O fresc√¥r nocturno no meu oceano interior!
+Ah, o orvalho sobre a minha excitaÁ„o!
+O frescÙr nocturno no meu oceano interior!
 Eis tudo em mim de repente ante uma noite no mar
 Cheia do enorme misterio humanissimo das ondas nocturnas.
 A lua sobe no horizonte
-E a minha infancia feliz acorda, como uma l√°grima, em mim.
-O meu passado ressurge, como se esse grito mar√≠timo
-F√¥sse um ar√¥ma, uma voz, o eco duma can√ß√£o
-Que f√¥sse chamar ao meu passado
+E a minha infancia feliz acorda, como uma l·grima, em mim.
+O meu passado ressurge, como se esse grito marÌtimo
+FÙsse um arÙma, uma voz, o eco duma canÁ„o
+Que fÙsse chamar ao meu passado
 Por aquela felicidade que nunca mais tornarei a ter.
 
-Era na velha casa socegada, ao p√© do rio...
+Era na velha casa socegada, ao pÈ do rio...
 (As janelas do meu quarto, e as da casa de jantar tambem,
 Davam, por sobre umas casas baixas, para o rio proximo,
 Para o Tejo, este mesmo Tejo, mas noutro ponto, mais abaixo...
-Se eu agora chegasse √°s mesmas janelas n√£o chegava √°s mesmas janelas.
-Aqu√™le tempo passou como o fumo dum vap√¥r no mar alto...)
+Se eu agora chegasse ·s mesmas janelas n„o chegava ·s mesmas janelas.
+AquÍle tempo passou como o fumo dum vapÙr no mar alto...)
 
 Uma inexplicavel ternura,
 Um remorso comovido e lacrimoso,
-Por todas aqu√©las victimas--principalmente as crian√ßas--
+Por todas aquÈlas victimas--principalmente as crianÁas--
 Que sonhei fazendo ao sonhar-me pirata antigo,
-Emo√ß√£o comovida, porque elas f√¥ram minhas victimas;
-Terna e suave, porque n√£o o f√¥ram realmente;
+EmoÁ„o comovida, porque elas fÙram minhas victimas;
+Terna e suave, porque n„o o fÙram realmente;
 Uma ternura confusa, como um vidro embaciado, azulada,
-Canta velhas can√ß√µes na minha pobre alma dolorida.
+Canta velhas canÁıes na minha pobre alma dolorida.
 
 Ah, como pude eu pensar, sonhar aquelas cousas?
 Que longe estou do que fui ha uns momentos!
-Hister√≠a das sensa√ß√µes--ora estas, ora as apostas!
-Na loura manh√£ que se ergue, como o meu ouvido s√≥ escolhe
-As cousas de ac√¥rdo com esta emo√ß√£o--o marulho das √°goas,
-O marulho leve das √°goas do rio de encontro ao cais...,
+HisterÌa das sensaÁıes--ora estas, ora as apostas!
+Na loura manh„ que se ergue, como o meu ouvido sÛ escolhe
+As cousas de acÙrdo com esta emoÁ„o--o marulho das ·goas,
+O marulho leve das ·goas do rio de encontro ao cais...,
 A vela passando perto do outro lado do rio,
 Os montes longinquos, dum azul japonez,
 As casas de Almada,
 E o que ha de suavidade e de infancia na hora matutina!...
 
 Uma gaivota que passa,
-E a minha ternura √© maior.
+E a minha ternura È maior.
 
-Mas todo este tempo n√£o estive a reparar para nada.
-Tudo isto foi uma impress√£o s√≥ da pele, como uma caricia.
-Todo este tempo n√£o tirei os olhos do meu sonho longinquo,
-Da minha casa ao p√© do rio,
-Da minha infancia ao p√© do rio,
+Mas todo este tempo n„o estive a reparar para nada.
+Tudo isto foi uma impress„o sÛ da pele, como uma caricia.
+Todo este tempo n„o tirei os olhos do meu sonho longinquo,
+Da minha casa ao pÈ do rio,
+Da minha infancia ao pÈ do rio,
 Das janelas do meu quarto dando para o rio de noite,
-E a paz do luar esparso nas √°goas!...
+E a paz do luar esparso nas ·goas!...
 
 Minha velha tia, que me amava por causa do filho que perdeu...,
 Minha velha tia costumava adormecer-me cantando-me
-(Se bem que eu f√¥sse j√° crescido de mais para isso)...
-Lembro-me e as l√°grimas c√°em sobre o meu cora√ß√£o e lavam-o da vida,
+(Se bem que eu fÙsse j· crescido de mais para isso)...
+Lembro-me e as l·grimas c·em sobre o meu coraÁ„o e lavam-o da vida,
 E ergue-se uma leve brisa maritima dentro de mim.
-√Ås vezes ela cantava a ¬´Nau Catrin√™ta¬ª:
+¡s vezes ela cantava a ´Nau CatrinÍtaª:
 
-  _L√° vai a Nau Catrin√™ta_
-  _Por sobre as √°goas do mar..._
+  _L· vai a Nau CatrinÍta_
+  _Por sobre as ·goas do mar..._
 
-E outras vezes, numa melodia muito saudosa e t√£o medieval,
-Era a ¬´Bela Infanta¬ª... Relembro, e a pobre velha voz ergue-se dentro de mim
+E outras vezes, numa melodia muito saudosa e t„o medieval,
+Era a ´Bela Infantaª... Relembro, e a pobre velha voz ergue-se dentro de mim
 E lembra-me que pouco me lembrei dela depois, e ela amava-me tanto!
 Como fui ingrato para ela--e afinal que fiz eu da vida?
-Era a ¬´Bela Infanta¬ª... Eu fechava os olhos, e ela cantava:
+Era a ´Bela Infantaª... Eu fechava os olhos, e ela cantava:
 
   _Estando a Bela Infanta_
   _No seu jardim assentada..._
@@ -2435,241 +2435,241 @@ E depois fechava os olhos outra vez, e em tudo isto era feliz.
 
   _Estando a Bela Infanta_
   _No seu jardim assentada,_
-  _Seu pente de ouro na m√£o,_
+  _Seu pente de ouro na m„o,_
   _Seus cabelos penteava..._
 
-√ì meu passado de infancia, boneco que me partiram!
+” meu passado de infancia, boneco que me partiram!
 
-N√£o poder viajar pra o passado, para aquela casa e aquela afei√ß√£o,
-E ficar l√° sempre, sempre crian√ßa e sempre contente!
+N„o poder viajar pra o passado, para aquela casa e aquela afeiÁ„o,
+E ficar l· sempre, sempre crianÁa e sempre contente!
 
 Mas tudo isto foi o Passado, lanterna a uma esquina de rua velha.
-Pensar nisto faz frio, faz fome duma cousa que se n√£o pode obter.
-D√°-me n√£o sei que remorso absurdo pensar nisto.
-Oh turbilh√£o lento de sensa√ß√µes desencontradas!
+Pensar nisto faz frio, faz fome duma cousa que se n„o pode obter.
+D·-me n„o sei que remorso absurdo pensar nisto.
+Oh turbilh„o lento de sensaÁıes desencontradas!
 Vertigem tenue de confusas causas na alma!
-Furias partidas, ternuras como carrinhos de linha com que as crian√ßas brincam,
-Grandes desabamentos de imagina√ß√£o sobre os olhos dos sentidos,
-L√°grimas, l√°grimas inuteis,
-Leves brisas de contradic√ß√£o ro√ßando pela face a alma...
+Furias partidas, ternuras como carrinhos de linha com que as crianÁas brincam,
+Grandes desabamentos de imaginaÁ„o sobre os olhos dos sentidos,
+L·grimas, l·grimas inuteis,
+Leves brisas de contradicÁ„o roÁando pela face a alma...
 
-Evoco, por um esfor√ßo voluntario, para sahir desta emo√ß√£o,
-Evoco, com um esfor√ßo desesperado, s√™co, nulo,
-A can√ß√£o do Grande Pirata, quando estava a morrer:
+Evoco, por um esforÁo voluntario, para sahir desta emoÁ„o,
+Evoco, com um esforÁo desesperado, sÍco, nulo,
+A canÁ„o do Grande Pirata, quando estava a morrer:
 
   _Fifteen men on The Dead Man's Chest._
   _Yo-ho-ho and a bottle of rum!_
 
-Mas a can√ß√£o √© uma linha recta mal tra√ßada dentro de mim...
+Mas a canÁ„o È uma linha recta mal traÁada dentro de mim...
 
-Esfor√ßo-me e consigo chamar outra vez ante os meus olhos na alma,
-Outra vez, mas atravez duma imagina√ß√£o quasi literaria,
+EsforÁo-me e consigo chamar outra vez ante os meus olhos na alma,
+Outra vez, mas atravez duma imaginaÁ„o quasi literaria,
 A furia da pirataria, da chacina, o apetite, quasi do paladar, do saque,
-Da chacina inutil de mulheres e de crian√ßas,
-Da tortura futil, e s√≥ para nos distrairmos, dos passageiros pobres,
+Da chacina inutil de mulheres e de crianÁas,
+Da tortura futil, e sÛ para nos distrairmos, dos passageiros pobres,
 E a sensualidade de escangalhar e partir as cousas mais queridas dos outros,
-Mas sonho isto tudo com um m√™do de qualquer cousa a respirar-me sobre a nuca.
+Mas sonho isto tudo com um mÍdo de qualquer cousa a respirar-me sobre a nuca.
 
 Lembro-me de que seria interessante
-Enforcar os filhos √° vista das m√£es
-(Mas sinto-me sem querer as m√£es d√™les),
-Enterrar vivas nas ilhas desertas as crian√ßas de quatro anos
-Levando os pais em barcos at√© l√° para v√™rem
-(Mas estreme√ßo, lembrando-me dum filho que n√£o tenho e est√° dormindo tranquilo em casa).
+Enforcar os filhos · vista das m„es
+(Mas sinto-me sem querer as m„es dÍles),
+Enterrar vivas nas ilhas desertas as crianÁas de quatro anos
+Levando os pais em barcos atÈ l· para vÍrem
+(Mas estremeÁo, lembrando-me dum filho que n„o tenho e est· dormindo tranquilo em casa).
 
-Aguilh√¥o uma ansia fria dos crimes maritimos,
-Duma inquisi√ß√£o sem a desculpa da F√©,
-Crimes nem sequer com raz√£o de ser de maldade e de f√∫ria,
+AguilhÙo uma ansia fria dos crimes maritimos,
+Duma inquisiÁ„o sem a desculpa da FÈ,
+Crimes nem sequer com raz„o de ser de maldade e de f˙ria,
 Feitos a frio, nem sequer para ferir, nem sequer para fazer mal,
 Nem sequer para nos divertirmos, mas apenas para passar o tempo,
 Como quem faz paciencias a uma mesa de jantar de provincia com a toalha atirada pra o outro lado da mesa depois de jantar,
-S√≥ pelo suave gosto de cometer crimes abominaveis e n√£o os achar grande cousa,
-De ver sofrer at√© ao ponto da loucura e da morte-pela-d√¥r mas nunca deixar chegar l√°...
-Mas a minha imagina√ß√£o recusa-se a acompanhar-me.
+SÛ pelo suave gosto de cometer crimes abominaveis e n„o os achar grande cousa,
+De ver sofrer atÈ ao ponto da loucura e da morte-pela-dÙr mas nunca deixar chegar l·...
+Mas a minha imaginaÁ„o recusa-se a acompanhar-me.
 Um calafrio arrepia-me.
 E de repente, mais de repente do que da outra vez, de mais longe, de mais fundo,
 De repente--oh pavor por todas as minhas veias!--,
-Oh frio repentino da porta para o Mist√©rio que se abriu dentro de mim e deixou entrar uma corrente de ar!
+Oh frio repentino da porta para o MistÈrio que se abriu dentro de mim e deixou entrar uma corrente de ar!
 Lembro-me de Deus, do Transcendental da vida, e de repente
 A velha voz do marinheiro inglez Jim Barns, com quem eu falava,
-Tornada voz das ternuras misteriosas dentro de mim, das pequenas cousas de rega√ßo de m√£e e de fita de cabelo de irm√£,
-Mas estupendamente vinda de al√©m da apar√™ncia das cousas,
-A Voz surda e remota tornada A Voz Absoluta, a Voz Sem B√¥ca,
-Vinda de sobre e de dentro da solid√£o nocturna dos mares,
+Tornada voz das ternuras misteriosas dentro de mim, das pequenas cousas de regaÁo de m„e e de fita de cabelo de irm„,
+Mas estupendamente vinda de alÈm da aparÍncia das cousas,
+A Voz surda e remota tornada A Voz Absoluta, a Voz Sem BÙca,
+Vinda de sobre e de dentro da solid„o nocturna dos mares,
 Chama por mim, chama por mim, chama por mim...
 
-Vem surdamente, como se f√¥sse suprimida e se ouvisse,
-Longinquamente, como se estivesse soando noutro logar e aqui n√£o se pudesse ouvir,
-Como um solu√ßo abafado, uma luz que se apaga, um halito silencioso,
-De nenhum lado do espa√ßo, de nenhum local no tempo,
-O grito eterno e noturno, o s√¥pro fundo e confuso:
+Vem surdamente, como se fÙsse suprimida e se ouvisse,
+Longinquamente, como se estivesse soando noutro logar e aqui n„o se pudesse ouvir,
+Como um soluÁo abafado, uma luz que se apaga, um halito silencioso,
+De nenhum lado do espaÁo, de nenhum local no tempo,
+O grito eterno e noturno, o sÙpro fundo e confuso:
 
-Ah√¥-√¥-√¥-√¥-√¥-√¥-√¥-√¥-√¥-√¥-√¥-√¥--yyy......
-Ah√¥-√¥-√¥-√¥-√¥-√¥-√¥-√¥-√¥-√¥-√¥-√¥-√¥-√¥-√¥----yyy......
-Schooner ah√¥-√¥-√¥-√¥-√¥-√¥-√¥-√¥-√¥-√¥-√¥-√¥-√¥-√¥-√¥-√¥------yyy.........
+AhÙ-Ù-Ù-Ù-Ù-Ù-Ù-Ù-Ù-Ù-Ù-Ù--yyy......
+AhÙ-Ù-Ù-Ù-Ù-Ù-Ù-Ù-Ù-Ù-Ù-Ù-Ù-Ù-Ù----yyy......
+Schooner ahÙ-Ù-Ù-Ù-Ù-Ù-Ù-Ù-Ù-Ù-Ù-Ù-Ù-Ù-Ù-Ù------yyy.........
 
 Tremo com um frio da alma repassando-me o corpo
-E abro de repente os olhos, que n√£o tinha fechado.
-Ah, que alegria a de sa√≠r dos sonhos de vez!
-Eis outra vez o mundo real, t√£o bondoso para os n√™rvos!
-Ei-lo a esta hora matutina em que entram os paqu√™tes que chegam c√™do.
+E abro de repente os olhos, que n„o tinha fechado.
+Ah, que alegria a de saÌr dos sonhos de vez!
+Eis outra vez o mundo real, t„o bondoso para os nÍrvos!
+Ei-lo a esta hora matutina em que entram os paquÍtes que chegam cÍdo.
 
-J√° n√£o me importa o paqu√™te que entrava. Ainda est√° longe.
-S√≥ o que est√° perto agora me lava a alma.
-A minha imagina√ß√£o higienica, forte, pr√°tica,
+J· n„o me importa o paquÍte que entrava. Ainda est· longe.
+SÛ o que est· perto agora me lava a alma.
+A minha imaginaÁ„o higienica, forte, pr·tica,
 Preocupa-se agora apenas com as cousas modernas e uteis,
-Com os navios de carga, com os paqu√™tes e os passageiros,
+Com os navios de carga, com os paquÍtes e os passageiros,
 Com as fortes cousas imediatas, modernas, comerciais, verdadeiras.
 Abranda o seu giro dentro de mim o volante.
 
 Maravilhosa vida maritima moderna,
-Toda limpeza, maquinas e sa√∫de!
-Tudo t√£o bem arranjado, t√£o expontaneamente ajustado,
-Todas as pe√ßas das maquinas, todos os navios pelos mares,
-Todos os elementos da actividade comercial de exporta√ß√£o e importa√ß√£o
-T√£o maravilhosamente combinando-se
-Que corre tudo como se f√¥sse por leis naturais,
+Toda limpeza, maquinas e sa˙de!
+Tudo t„o bem arranjado, t„o expontaneamente ajustado,
+Todas as peÁas das maquinas, todos os navios pelos mares,
+Todos os elementos da actividade comercial de exportaÁ„o e importaÁ„o
+T„o maravilhosamente combinando-se
+Que corre tudo como se fÙsse por leis naturais,
 Nenhuma cousa esbarrando com outra!
 
 Nada perdeu a poesia. E agora ha a mais as maquinas
 Com a sua poesia tambem, e todo o novo genero de vida
 Comercial, mundana, intelectual, sentimental,
 Que a era das maquinas veiu trazer para as almas.
-As viagens agora s√£o t√£o belas como eram dantes
-E um navio ser√° sempre belo, s√≥ porque √© um navio.
-Viajar ainda √© viajar e o longe est√° sempre onde esteve--
-Em parte nenhuma, gra√ßas a Deus!
+As viagens agora s„o t„o belas como eram dantes
+E um navio ser· sempre belo, sÛ porque È um navio.
+Viajar ainda È viajar e o longe est· sempre onde esteve--
+Em parte nenhuma, graÁas a Deus!
 
 Os portos cheios de vapores de muitas especies!
-Pequenos, grandes, de varias c√¥res, com varias disposi√ß√µes de vigias,
-De t√£o deliciosamente tantas companhias de navega√ß√£o!
-Vap√¥res nos portos, t√£o individuais na separa√ß√£o destacada dos ancoramentos!
-T√£o prasenteiro o seu garbo quieto de cousas comerciais que andam no mar,
-No velho mar sempre o homerico, √≥ Ulisses!
+Pequenos, grandes, de varias cÙres, com varias disposiÁıes de vigias,
+De t„o deliciosamente tantas companhias de navegaÁ„o!
+VapÙres nos portos, t„o individuais na separaÁ„o destacada dos ancoramentos!
+T„o prasenteiro o seu garbo quieto de cousas comerciais que andam no mar,
+No velho mar sempre o homerico, Û Ulisses!
 
-O olhar humanitario dos far√≥is na dist√¢ncia da noite,
+O olhar humanitario dos farÛis na dist‚ncia da noite,
 Ou o subito farol proximo na noite muito escura
-(¬´Que perto da terra que estavamos passando!¬ª E o som da agua canta-nos ao ouvido)!...
+(´Que perto da terra que estavamos passando!ª E o som da agua canta-nos ao ouvido)!...
 
-Tudo isto hoje √© como sempre foi, mas ha o comercio;
-E o destino comercial dos grandes vap√¥res
+Tudo isto hoje È como sempre foi, mas ha o comercio;
+E o destino comercial dos grandes vapÙres
 Envaidece-me da minha epoca!
 A mistura de gente a bordo dos navios de passageiros
-D√°-me o orgulho moderno de viver numa epoca onde √© t√£o facil
-Misturarem-se as ra√ßas, transp√¥rem-se os espa√ßos, v√™r com facilidade todas as cousas,
+D·-me o orgulho moderno de viver numa epoca onde È t„o facil
+Misturarem-se as raÁas, transpÙrem-se os espaÁos, vÍr com facilidade todas as cousas,
 E gosar a vida realisando um grande numero de sonhos.
 
-Limpos, regulares, modernos como um escrit√≥rio com guichets em r√™des de arame amarelo,
+Limpos, regulares, modernos como um escritÛrio com guichets em rÍdes de arame amarelo,
 Meus sentimentos agora, naturais e comedidos como gentlemen,
-S√£o pr√°ticos, longe de desvairamentos, enchem de ar mar√≠timo os pulm√µes,
-Como gente perfeitamente consciente de como √© higienico respirar o ar do mar.
+S„o pr·ticos, longe de desvairamentos, enchem de ar marÌtimo os pulmıes,
+Como gente perfeitamente consciente de como È higienico respirar o ar do mar.
 
-O dia √© perfeitamente j√° de horas de trabalho.
-Come√ßa tudo a movimentar-se, a regularisar-se.
+O dia È perfeitamente j· de horas de trabalho.
+ComeÁa tudo a movimentar-se, a regularisar-se.
 
 Com um grande prazer natural e directo percorro com a alma
-Todas as opera√ß√µes comerciaes necessarias a um embarque de mercadorias.
-A minha √©poca √© o carimbo que levam todas as facturas,
-E sinto que todas as cartas de todos os escrit√≥rios
-Deviam ser endere√ßadas a mim.
+Todas as operaÁıes comerciaes necessarias a um embarque de mercadorias.
+A minha Època È o carimbo que levam todas as facturas,
+E sinto que todas as cartas de todos os escritÛrios
+Deviam ser endereÁadas a mim.
 
 Um conhecimento de bordo tem tanta individualidade,
-E uma assinatura de comandante de navio √© t√£o bela e moderna!
-Rig√¥r comercial do principio e do fim das cartas:
+E uma assinatura de comandante de navio È t„o bela e moderna!
+RigÙr comercial do principio e do fim das cartas:
 Dear Sirs--Messieurs--Amigos e Snrs,
-Yours faithfully--... nos salutations empress√©es...
-Tudo isto √© n√£o s√≥ humano e limpo, mas tamb√™m belo,
-E tem ao fim um destino maritimo, um vap√¥r onde embarquem
+Yours faithfully--... nos salutations empressÈes...
+Tudo isto È n„o sÛ humano e limpo, mas tambÍm belo,
+E tem ao fim um destino maritimo, um vapÙr onde embarquem
 As mercadorias de que as cartas e as facturas tratam.
 
-Complexidade da vida! As facturas s√£o feitas por gente
-Que tem amores, odios, paix√µes politicas, √°s vezes crimes--
-E s√£o t√£o bem escritas, t√£o alinhadas, t√£o independentes de tudo isso!
-Ha quem olhe para uma factura e n√£o sinta isto.
+Complexidade da vida! As facturas s„o feitas por gente
+Que tem amores, odios, paixıes politicas, ·s vezes crimes--
+E s„o t„o bem escritas, t„o alinhadas, t„o independentes de tudo isso!
+Ha quem olhe para uma factura e n„o sinta isto.
 Com certeza que tu, Cesario Verde, o sentias.
-Eu √© at√© √°s lagrimas que o sinto humanissimamente.
-Venham dizer-me que n√£o ha poesia no comercio, nos escrit√≥rios!
-Ora, ela entra por todos os p√≥ros... Neste ar maritimo respiro-a,
-Porque tudo isto vem a proposito dos vap√¥res, da navega√ß√£o moderna,
-Porque as facturas e as cartas comerciaes s√£o o principio da historia
-E os navios que levam as mercadorias pelo mar eterno s√£o o fim.
+Eu È atÈ ·s lagrimas que o sinto humanissimamente.
+Venham dizer-me que n„o ha poesia no comercio, nos escritÛrios!
+Ora, ela entra por todos os pÛros... Neste ar maritimo respiro-a,
+Porque tudo isto vem a proposito dos vapÙres, da navegaÁ„o moderna,
+Porque as facturas e as cartas comerciaes s„o o principio da historia
+E os navios que levam as mercadorias pelo mar eterno s„o o fim.
 
 Ah, e as viagens, as viagens de recreio, e as outras,
 As viagens por mar, onde todos somos companheiros dos outros
 Duma maneira especial, como se um misterio maritimo
 Nos aproximasse as almas e nos tornasse um momento
 Patriotas transitorios duma mesma patria incerta,
-Eternamente deslocando-se sobre a imensidade das √°goas!
+Eternamente deslocando-se sobre a imensidade das ·goas!
 Grandes hoteis do Infinito, oh transatlanticos meus!
 Com o cosmopolitismo perfeito e total de nunca pararem num ponto
-E conterem todas as especies de trajes, de caras, de ra√ßas!
+E conterem todas as especies de trajes, de caras, de raÁas!
 
-As viagens, os viajantes--tantas especies d√™les!
-Tanta nacionalidade sobre o mundo! tanta profiss√£o! tanta gente!
-Tanto destino diverso que se p√≥de dar √° vida,
-√Å vida, afinal, no fundo sempre, sempre a mesma!
-Tantas caras curiosas! Todas as caras s√£o curiosas
+As viagens, os viajantes--tantas especies dÍles!
+Tanta nacionalidade sobre o mundo! tanta profiss„o! tanta gente!
+Tanto destino diverso que se pÛde dar · vida,
+¡ vida, afinal, no fundo sempre, sempre a mesma!
+Tantas caras curiosas! Todas as caras s„o curiosas
 E nada traz tanta religiosidade como olhar muito para gente.
-A fraternidade afinal n√£o √© uma id√©a revolucionaria.
-√â uma cousa que a gente aprende pela vida f√≥ra, onde tem que tolerar tudo,
-E passa a achar gra√ßa ao que tem que tolerar,
+A fraternidade afinal n„o È uma idÈa revolucionaria.
+… uma cousa que a gente aprende pela vida fÛra, onde tem que tolerar tudo,
+E passa a achar graÁa ao que tem que tolerar,
 E acaba quasi a chorar de ternura sobre o que tolerou!
 
-Ah, tudo isto √© belo, tudo isto √© humano e anda ligado
-Aos sentimentos humanos, t√£o conviventes e burguezes,
-T√£o complicadamente simples, t√£o metafisicamente tristes!
+Ah, tudo isto È belo, tudo isto È humano e anda ligado
+Aos sentimentos humanos, t„o conviventes e burguezes,
+T„o complicadamente simples, t„o metafisicamente tristes!
 A vida flutuante, diversa, acaba por nos educar no humano.
 Pobre gente! pobre gente toda a gente!
 
-Despe√ßo-me desta hora no corpo deste outro navio
-Que vai agora sa√≠ndo. √â um tramp-steamer ingl√™s,
-Muito sujo, como se fosse um navio franc√™s,
+DespeÁo-me desta hora no corpo deste outro navio
+Que vai agora saÌndo. … um tramp-steamer inglÍs,
+Muito sujo, como se fosse um navio francÍs,
 Com um ar simpatico de proletario dos mares,
-E sem duvida anunciado ontem na √∫ltima p√°gina das gazetas.
+E sem duvida anunciado ontem na ˙ltima p·gina das gazetas.
 
-Enternece-me o pobre vap√¥r, t√£o humilde vai √™le e t√£o natural.
-Parece ter um certo escrupulo n√£o sei em qu√™, ser pessoa honesta,
+Enternece-me o pobre vapÙr, t„o humilde vai Íle e t„o natural.
+Parece ter um certo escrupulo n„o sei em quÍ, ser pessoa honesta,
 Cumpridora duma qualquer especie de deveres.
-L√° vai √™le deixando o lugar defronte do cais onde estou.
-L√° vai √™le tranquilamente, passando por onde as naus estiveram
+L· vai Íle deixando o lugar defronte do cais onde estou.
+L· vai Íle tranquilamente, passando por onde as naus estiveram
 Outrora, outrora...
-Para Cardiff? Para Liverpool? Para Londres? N√£o tem importancia.
-Ele faz o seu dever. Assim fa√ßamos n√≥s o nosso. Bela vida!
+Para Cardiff? Para Liverpool? Para Londres? N„o tem importancia.
+Ele faz o seu dever. Assim faÁamos nÛs o nosso. Bela vida!
 Boa viagem! Boa viagem!
-Boa viagem, meu pobre amigo casual, que me fizeste o fav√¥r
+Boa viagem, meu pobre amigo casual, que me fizeste o favÙr
 De levar comtigo a febre e a tristeza dos meus sonhos,
-E restituir-me √° vida para olhar para ti e te ver passar.
-Boa viagem! Boa viagem! A vida √© isto...
+E restituir-me · vida para olhar para ti e te ver passar.
+Boa viagem! Boa viagem! A vida È isto...
 
-Que aprumo t√£o natural, t√£o inevitavelmente matutino
-Na tua sa√≠da do porto de Lisboa, hoje!
-Tenho-te uma afei√ß√£o curiosa e grata por isso...
-Por isso qu√™? Sei l√° o que √©!... Vai... Passa...
+Que aprumo t„o natural, t„o inevitavelmente matutino
+Na tua saÌda do porto de Lisboa, hoje!
+Tenho-te uma afeiÁ„o curiosa e grata por isso...
+Por isso quÍ? Sei l· o que È!... Vai... Passa...
 Com um ligeiro estremecimento,
 (T-t--t---t----t-----t...)
-O volante dentro de mim p√°ra.
+O volante dentro de mim p·ra.
 
-Passa, lento vap√¥r, passa e n√£o fiques...
+Passa, lento vapÙr, passa e n„o fiques...
 Passa de mim, passa da minha vista,
-Vai-te de dentro do meu cora√ß√£o,
+Vai-te de dentro do meu coraÁ„o,
 Perde-te no Longe, no Longe, bruma de Deus,
 Perde-te, segue o teu destino e deixa-me...
 Eu quem sou para que chore e interrogue?
 Eu quem sou para que te fale e te ame?
-Eu quem sou para que me perturbe v√™r-te?
+Eu quem sou para que me perturbe vÍr-te?
 Larga do cais, cresce o sol, ergue-se ouro,
 Luzem os telhados dos edificios do cais,
-Todo o lado de c√° da cidade brilha...
+Todo o lado de c· da cidade brilha...
 Parte, deixa-me, torna-te
 Primeiro o navio a meio do rio, destacado e nitido,
 Depois o navio a caminho da barra, pequeno e preto,
-Depois ponto vago no horizonte (√≥ minha angustia!),
+Depois ponto vago no horizonte (Û minha angustia!),
 Ponto cada vez mais vago no horizonte...,
-Nada depois, e s√≥ eu e a minha tristeza,
+Nada depois, e sÛ eu e a minha tristeza,
 E a grande cidade agora cheia de sol
-E a hora real e nua como um cais j√° sem navios,
+E a hora real e nua como um cais j· sem navios,
 E o giro lento do guindaste que como um compasso que gira,
-Tra√ßa um semicirculo de n√£o sei que emo√ß√£o
+TraÁa um semicirculo de n„o sei que emoÁ„o
 No silencio comovido da minh'alma...
 
 
@@ -2681,14 +2681,14 @@ _Engenheiro._
 
 
 
-[Nota do Transcritor: Aqui surge a fotograva√ß√£o de _Hors Texte_ de Santa Rita Pintor.]
+[Nota do Transcritor: Aqui surge a fotogravaÁ„o de _Hors Texte_ de Santa Rita Pintor.]
 
 
 *SANTA RITA PINTOR.*
 PARIS ANNO 1913.
 
 
-Syntese geometral de uma cabe√ßa--infinito plastico de ambiente--
+Syntese geometral de uma cabeÁa--infinito plastico de ambiente--
 transcendentalismo phisico.
 
 
@@ -2698,7 +2698,7 @@ _(SENSIBILIDADE RADIOGRAPHICA.)_
 
 
 
-_LU√çS DE MONTALV√îR_
+_LUÕS DE MONTALV‘R_
 
 
 *NARCISO*
@@ -2706,7 +2706,7 @@ _LU√çS DE MONTALV√îR_
 POEMA
 
 
-a Fernando Pess√¥a.
+a Fernando PessÙa.
 
 
 
@@ -2716,67 +2716,67 @@ a Fernando Pess√¥a.
 
 Erram no oiro da tarde as sombras de estas ninfas!
 
-E at√© onde ir√° o aroma dos seus gestos
+E atÈ onde ir· o aroma dos seus gestos
 que sei tentam prender meus olhos que, funestos,
 sonham um esplendor fatal de pedrarias?
 
-Tarde de tenta√ß√£o! Que estranhas melodias
+Tarde de tentaÁ„o! Que estranhas melodias
 inquietam o ceo de um rumor ignorado?
 Seringe! Tua flauta arrosa de encantado
-e sangue de Ilus√£o esta tarde em demencia
+e sangue de Ilus„o esta tarde em demencia
 que a legenda recorda; e da immortal essencia
 do sonho esta hora antiga exhuma o velho idilio.
 
-Ha m√£os de festa e sonho em meu deserto exilio!
+Ha m„os de festa e sonho em meu deserto exilio!
 
-A Beleza √© pra mim, √≥ ninfas! o segredo
+A Beleza È pra mim, Û ninfas! o segredo
 com que Deus me vestiu de Lindo!... Ai, tenho medo
-de morrer o que sou √°s m√£os desse desejo
-das ninfas; mas est√° a sombra que n√£o vejo
+de morrer o que sou ·s m„os desse desejo
+das ninfas; mas est· a sombra que n„o vejo
 depois e antes de mim e, se afundo o olhar na ancia
-de me ver, s√≥ me vejo ao collo da Distancia!
+de me ver, sÛ me vejo ao collo da Distancia!
 Deixai dormir um pouco o ceo nos olhos meus,
-eu n√£o os quero abrir antes que os feche,--Deus!--
+eu n„o os quero abrir antes que os feche,--Deus!--
 
-Ninfas! v√≥s penteais o pavor √° janella
+Ninfas! vÛs penteais o pavor · janella
 da minha alma atravez a hora sombria e bella.
-Cor√¥as n√£o ser√£o sobre mim as de fl√¥res
-que desfolhais, mas brancos bra√ßos de am√¥res
+CorÙas n„o ser„o sobre mim as de flÙres
+que desfolhais, mas brancos braÁos de amÙres
 que abrem nocturnamente e num paiz sem dia...
 
 Sois o sonho de mim ao collo da Alegria!
-Vossa presen√ßa p√µe o medo em meu destino.
+Vossa presenÁa pıe o medo em meu destino.
 
-As ta√ßas que entornais do aroma sibillino
-da seduc√ß√£o, de t√©dio enchem o que me d√©ste,
-√≥ Deus!
+As taÁas que entornais do aroma sibillino
+da seducÁ„o, de tÈdio enchem o que me dÈste,
+Û Deus!
         Gela meu ser ao sorriso terrest'e
 das virgens, que reflecte a tarde a rescender
 do olor de Pan!
-                ... E o olhar d√≥e por no o esconder
+                ... E o olhar dÛe por no o esconder
 do ceo; pois para toda a alma dormir, do bello,
-o serafico azul √© como um pezad√™lo!
+o serafico azul È como um pezadÍlo!
 
-Por√™m como fugir ao sonho que me faz
+PorÍm como fugir ao sonho que me faz
 como estrangeiro em mim; do bello azul, voraz
-a b√¥ca triste, sem c√¥r e de humanas d√¥res--
-como se triunfal e de palidas fl√¥res
-da noite, f√¥ssem de um sonho, na hora escultado?
+a bÙca triste, sem cÙr e de humanas dÙres--
+como se triunfal e de palidas flÙres
+da noite, fÙssem de um sonho, na hora escultado?
 
-Captivo em mim sou como o drag√£o que, inviolado,
-bebe a scintilla√ß√£o da s'nora claridade
+Captivo em mim sou como o drag„o que, inviolado,
+bebe a scintillaÁ„o da s'nora claridade
 do cabello sinistro, onde a luz arde e invade
 de metalico hallor o nixo onde se acoite...
 
-Vossos cabellos ai! chovem como oiro, √° noite!
-como fios de horror da teia do mist√©rio...
+Vossos cabellos ai! chovem como oiro, · noite!
+como fios de horror da teia do mistÈrio...
 
-Do cabello, o esplendor do oiro esteril, √© a√©rio
+Do cabello, o esplendor do oiro esteril, È aÈrio
 c'mo de arachnideo sonho ou de siderio tecto
 cinzelado no olhar--um reflexo de insecto--
-no frio v√¥o num ar de somno e oiro e luto...
+no frio vÙo num ar de somno e oiro e luto...
 
-Avalanches de t√©dio em seu cabello escuto!...
+Avalanches de tÈdio em seu cabello escuto!...
 
 . . . . . . . . . . . . . . . . . . . . . . . . .
 . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -2784,103 +2784,103 @@ Avalanches de t√©dio em seu cabello escuto!...
 Fixo a carne, spectral, como ante inerte frizo
 de sombras, a nudez, linha esquecida em riso
 sobre chammas, cruel,--Joia dos calafrios!--
-Um horror de √≥nix n√©va entre os meus dedos frios!
+Um horror de Ûnix nÈva entre os meus dedos frios!
 
 Contemplo o meu destino em mim.
                                 Ninfas, adeus!
 Meus gestos irreaes tem seculos de Deus!
 Na paisagem do ser corre um rio sem fim:
-Os meus gestos s√£o como a outra margem de mim...
+Os meus gestos s„o como a outra margem de mim...
 Cai alma no jardim dos meus sonhos funestos.
-√â sempre noite l√° no fundo dos meus gestos
-onde espreita Deus: ha luar nas minhas m√£os...
-As m√£os abanam no ar os nossos gestos v√£os,
+… sempre noite l· no fundo dos meus gestos
+onde espreita Deus: ha luar nas minhas m„os...
+As m„os abanam no ar os nossos gestos v„os,
 --mundos de sonolencia ardendo em reliquarios:
-Joias celestes, v√≥s, meus gestos solitarios!
+Joias celestes, vÛs, meus gestos solitarios!
 
-Por mim divaga o ceo. E morre um diad√™ma
-√° minha fronte triste e pensativa, embl√™ma
-da alma palida como um velho p√°lio ou ouro...
+Por mim divaga o ceo. E morre um diadÍma
+· minha fronte triste e pensativa, emblÍma
+da alma palida como um velho p·lio ou ouro...
 Comtudo que torpor me encosta ao sorvedouro
-c'mo esfinge que se inclina ao abysmo e debru√ßa,
-a mirar a alma, irm√£ de um sonho que solu√ßa?
-√â que um gesto sem nome em minha alma se aclara,
+c'mo esfinge que se inclina ao abysmo e debruÁa,
+a mirar a alma, irm„ de um sonho que soluÁa?
+… que um gesto sem nome em minha alma se aclara,
 e no Jardim de Deus sou a ideia mais rara!
 
-Meus gestos v√£o como esta agua sempre correndo
+Meus gestos v„o como esta agua sempre correndo
 pra a foz do nada; encosto a minha alma, tremendo,
-√° voz da agua--cristal sonoro do alhear-me!--
+· voz da agua--cristal sonoro do alhear-me!--
 
 No novelo de mim a minha ancia a enredar-me.
 
-√ì agua sempre triste em seu ir pela parte
-da terra que √© livida e c'mo alma que se farte
-de sonhos! N√£o ser√° a minha sombra ausente
+” agua sempre triste em seu ir pela parte
+da terra que È livida e c'mo alma que se farte
+de sonhos! N„o ser· a minha sombra ausente
 um ar vosso--ou serei a imagem da corrente?
 
-Quem descesse o mist√©rio e visse a semelhan√ßa
+Quem descesse o mistÈrio e visse a semelhanÁa
 nesse intimo torpor das cousas, onde cansa
 essa fuga do tempo em sombra reflectida...
-Eu nunca terei dois gestos irm√£os na vida,
+Eu nunca terei dois gestos irm„os na vida,
 e se olhasse pra traz t'ria medo de mim...
-(Inter-lunio de n√≥s no sonho d'al√™m-fim...)
+(Inter-lunio de nÛs no sonho d'alÍm-fim...)
 
-O que me reflectir roubar√° meu segredo.
-O tempo escorre por n√≥s como alguem com medo
+O que me reflectir roubar· meu segredo.
+O tempo escorre por nÛs como alguem com medo
 por sobre um muro... Crio olhos de ser distante...
-Na alma porei as m√£os como por um quadrante...
-As m√£os s√£o tempo... e tudo √© um somno de si...
+Na alma porei as m„os como por um quadrante...
+As m„os s„o tempo... e tudo È um somno de si...
 
-Miro-me, e n√£o serei a sombra onde me v√≠?...
+Miro-me, e n„o serei a sombra onde me vÌ?...
 
-√ì espelho sem hora! √ì agua em somno, lustral,
---espelho horizontal de t√©dio c'mo um canal
-sem ter fundo nem fim. Meu perfil sua d√¥r!
-S√≥ me reflicto e n√£o me vejo no torpor
-da agua que abana o tempo... ai, o tempo √© a voz
-com que se acorda o medo--escultura de n√≥s
+” espelho sem hora! ” agua em somno, lustral,
+--espelho horizontal de tÈdio c'mo um canal
+sem ter fundo nem fim. Meu perfil sua dÙr!
+SÛ me reflicto e n„o me vejo no torpor
+da agua que abana o tempo... ai, o tempo È a voz
+com que se acorda o medo--escultura de nÛs
 na distancia...
                 Em rumor, na agua, vago demencia
 e durmo de Beleza ao collo da Aparencia,
 que foge como esta agua e este tempo a correr...
 Marulhar de mim no fundo do meu ser...
-S√≥ as m√£os sabem ter o ar de sonhos contin'os...
+SÛ as m„os sabem ter o ar de sonhos contin'os...
 
-Ai! Se o olhar cai nas m√£os, desenham-se destinos
+Ai! Se o olhar cai nas m„os, desenham-se destinos
 como arabescos...
-                Abro os bra√ßos, mas em v√£o,
-e ergo-me de mim com vestes de como√ß√£o!
+                Abro os braÁos, mas em v„o,
+e ergo-me de mim com vestes de comoÁ„o!
 
 Resta-me contemplar pela noite que inundo
 de mim, pendido sobre a aparencia do mundo.
-Minha sombra exilada esculto-a na do√ßura!
+Minha sombra exilada esculto-a na doÁura!
 
-Perturbo-me de Deus nos bra√ßos da Ternura!
+Perturbo-me de Deus nos braÁos da Ternura!
 
-Sinto que a minha voz j√° atravessou Deus!...
-Cres√ßo sobre mim, √≥ noite em delirio!
+Sinto que a minha voz j· atravessou Deus!...
+CresÁo sobre mim, Û noite em delirio!
                                         Adeus!
-Imagem de ser bello √°s m√£os da minha infancia.
+Imagem de ser bello ·s m„os da minha infancia.
 
 Sou echo de rumor quebrado na distancia.
 
 Alma da noite antiga incendiada a lavores!
 
 
-LU√çS DE MONTALV√îR.
+LUÕS DE MONTALV‘R.
 
 
 
 
 
-[Nota do Transcritor: Aqui surge a fotograva√ß√£o de _Hors Texte_ de Santa Rita Pintor.]
+[Nota do Transcritor: Aqui surge a fotogravaÁ„o de _Hors Texte_ de Santa Rita Pintor.]
 
 
 *SANTA RITA PINTOR.*
 PARIS ANNO 1912.
 
 
-Decomposi√ß√£o dynamica de uma mesa--estylo do movimento.
+DecomposiÁ„o dynamica de uma mesa--estylo do movimento.
 
 
 _(INTERSECCIONISMO PLASTICO.)_
@@ -2889,7 +2889,7 @@ _(INTERSECCIONISMO PLASTICO.)_
 
 
 
-*CHUVA OBL√çQUA*
+*CHUVA OBLÕQUA*
 
 
 POEMAS INTERSECCIONISTAS
@@ -2908,50 +2908,50 @@ FERNANDO PESSOA
 *I*
 
 Atravessa esta paysagem o meu sonho d'um porto infinito
-E a c√¥r das fl√¥res √© transparente de as velas de grandes navios
+E a cÙr das flÙres È transparente de as velas de grandes navios
 Que largam do caes arrastando nas aguas por sombra
 Os vultos ao sol d'aquellas arvores antigas...
 
-O porto que sonho √© sombrio e pallido
-E esta paysagem √© cheia de sol d'este lado...
-Mas no meu espirito o sol d'este dia √© porto sombrio
-E os navios que sahem do porto s√£o estas arvores ao sol...
+O porto que sonho È sombrio e pallido
+E esta paysagem È cheia de sol d'este lado...
+Mas no meu espirito o sol d'este dia È porto sombrio
+E os navios que sahem do porto s„o estas arvores ao sol...
 
 Liberto em duplo, abandonei-me da paysagem abaixo...
-O vulto do caes √© a estrada nitida e calma
+O vulto do caes È a estrada nitida e calma
 Que se levanta e se ergue como um muro,
 E os navios passam por dentro dos troncos das arvores
 Com uma horizontalidade vertical,
 E deixam cahir amarras na agua pelas folhas uma a uma dentro...
 
-N√£o sei quem me sonho...
-S√∫bito toda a agua do mar do porto √© transparente
-E vejo no fundo, como uma estampa enorme que l√° estivesse desdobrada,
+N„o sei quem me sonho...
+S˙bito toda a agua do mar do porto È transparente
+E vejo no fundo, como uma estampa enorme que l· estivesse desdobrada,
 Esta paysagem toda, renque de arvores, estrada a arder em aquelle porto,
-E a sombra d'uma n√°u mais antiga que o porto que passa
-Entre o meu sonho do porto e o meu v√™r esta paysagem
-E chega ao p√© de mim, e entra por mim dentro,
+E a sombra d'uma n·u mais antiga que o porto que passa
+Entre o meu sonho do porto e o meu vÍr esta paysagem
+E chega ao pÈ de mim, e entra por mim dentro,
 E passa para o outro lado da minha alma...
 
 
 *II*
 
 Illumina-se a egreja por dentro da chuva d'este dia,
-E cada vela que se acende √© mais chuva a bater na vidra√ßa...
+E cada vela que se acende È mais chuva a bater na vidraÁa...
 
-Alegra-me ouvir a chuva porque ella √© o templo estar acceso,
-E as vidra√ßas da egreja vistas de f√≥ra s√£o o som da chuva ouvido por dentro...
+Alegra-me ouvir a chuva porque ella È o templo estar acceso,
+E as vidraÁas da egreja vistas de fÛra s„o o som da chuva ouvido por dentro...
 
-O esplend√¥r do altar-m√≥r √© o eu n√£o poder quasi v√™r os montes
-Atravez da chuva que √© ouro t√£o solemne na toalha do altar...
-S√¥a o canto do c√¥ro, latino e vento a sacudir-me a vidra√ßa
-E sente-se chiar a agua no facto de haver c√¥ro...
+O esplendÙr do altar-mÛr È o eu n„o poder quasi vÍr os montes
+Atravez da chuva que È ouro t„o solemne na toalha do altar...
+SÙa o canto do cÙro, latino e vento a sacudir-me a vidraÁa
+E sente-se chiar a agua no facto de haver cÙro...
 
-A missa √© um automovel que passa
+A missa È um automovel que passa
 Atravez dos fieis que se ajoelham em hoje ser um dia triste...
-Subito vento sacode em esplend√¥r maior
+Subito vento sacode em esplendÙr maior
 A festa da cathedral e o ruido da chuva absorve tudo
-At√© s√≥ se ouvir a voz do padre agua perder-se ao longe
+AtÈ sÛ se ouvir a voz do padre agua perder-se ao longe
 Com o som de rodas de automovel...
 
 E apagam-se as luzes da egreja
@@ -2961,18 +2961,18 @@ Na chuva que cessa...
 *III*
 
 A Grande Esphynge do Egypto sonha por este papel dentro...
-Escrevo--e ella apparece-me atravez da minha m√£o transparente
+Escrevo--e ella apparece-me atravez da minha m„o transparente
 E ao canto do papel erguem-se as pyramides...
 
-Escrevo--perturbo-me de v√™r o bico da minha penna
+Escrevo--perturbo-me de vÍr o bico da minha penna
 Ser o perfil do rei Cheops...
 De repente paro...
 Escureceu tudo... Caio por um abysmo feito de tempo...
-Estou soterrado sob as pyramides a escrever versos √° luz clara d'este candieiro
-E todo o Egypto me esmaga de alto atravez dos tra√ßos que fa√ßo com a penna...
-Ou√ßo a Esphynge rir por dentro
+Estou soterrado sob as pyramides a escrever versos · luz clara d'este candieiro
+E todo o Egypto me esmaga de alto atravez dos traÁos que faÁo com a penna...
+OuÁo a Esphynge rir por dentro
 O som da minha penna a correr no papel...
-Atravessa o eu n√£o poder vel-a uma m√£o enorme,
+Atravessa o eu n„o poder vel-a uma m„o enorme,
 Varre tudo para o canto do tecto que fica por detraz de mim,
 E sobre o papel onde escrevo, entre elle e a penna que escreve
 Jaz o cadaver do rei Cheops, olhando-me com olhos muito abertos,
@@ -2987,45 +2987,45 @@ Funeraes do rei Cheops em ouro velho e Mim!...
 *IV*
 
 Que pandeiretas o silencio d'este quarto!...
-As paredes est√£o na Andaluzia...
-Ha dan√ßas sensuaes no brilho fixo da luz...
+As paredes est„o na Andaluzia...
+Ha danÁas sensuaes no brilho fixo da luz...
 
-De repente todo o espa√ßo p√°ra...,
-P√°ra, escorrega, desembrulha-se...,
-E num canto do tecto, muito mais longe do que elle est√°,
-Abrem m√£os brancas janellas secretas
+De repente todo o espaÁo p·ra...,
+P·ra, escorrega, desembrulha-se...,
+E num canto do tecto, muito mais longe do que elle est·,
+Abrem m„os brancas janellas secretas
 E ha ramos de violetas cahindo
-De haver uma noite de primavera l√° f√≥ra
+De haver uma noite de primavera l· fÛra
 Sobre o eu estar de olhos fechados...
 
 
 *V*
 
-L√° fora vae um redemoinho de sol os cavallos do carroussel...
+L· fora vae um redemoinho de sol os cavallos do carroussel...
 Arvores, pedras, montes, bailam parados dentro de mim...
-Noite absoluta na feira illuminada, luar no dia de sol l√° f√≥ra,
+Noite absoluta na feira illuminada, luar no dia de sol l· fÛra,
 E as luzes todas da feira fazem ruido dos muros do quintal...
-Ranchos de raparigas de bilha √° cabe√ßa
-Que passam l√° f√≥ra, cheias de estar sob o sol,
+Ranchos de raparigas de bilha · cabeÁa
+Que passam l· fÛra, cheias de estar sob o sol,
 Cruzam-se com grandes grupos peganhentos de gente que anda na feira,
 Gente toda misturada com as luzes das barracas, com a noite e com o luar,
 E os dois grupos encontram-se e penetram-se
-At√© formarem s√≥ um que √© os dois...
+AtÈ formarem sÛ um que È os dois...
 A feira e as luzes da feira e a gente que anda na feira,
 E a noite que pega na feira e a levanta no ar,
 Andam por cima das copas das arvores cheias de sol,
 Andam visivelmente por baixo dos penedos que luzem ao sol,
-Apparecem do outro lado das bilhas que as raparigas levam √° cabe√ßa,
-E toda esta paysagem de primavera √© a lua sobre a feira,
-E toda a feira com ruidos e luzes √© o ch√£o d'este dia de sol...
+Apparecem do outro lado das bilhas que as raparigas levam · cabeÁa,
+E toda esta paysagem de primavera È a lua sobre a feira,
+E toda a feira com ruidos e luzes È o ch„o d'este dia de sol...
 
 De repente alguem sacode esta hora dupla como numa peneira
-E, misturado, o p√≥ das duas realidades cahe
-Sobre as minhas m√£os cheias de desenhos de portos
-Com grandes naus que se v√£o e n√£o pensam em voltar...
-P√≥ de ouro branco e negro sobre os meus dedos...
-As minhas m√£os s√£o os passos d'aquella rapariga que abandona a feira,
-S√≥sinha e contente como o dia de hoje...
+E, misturado, o pÛ das duas realidades cahe
+Sobre as minhas m„os cheias de desenhos de portos
+Com grandes naus que se v„o e n„o pensam em voltar...
+PÛ de ouro branco e negro sobre os meus dedos...
+As minhas m„os s„o os passos d'aquella rapariga que abandona a feira,
+SÛsinha e contente como o dia de hoje...
 
 
 *VI*
@@ -3034,37 +3034,37 @@ O maestro sacode a batuta,
 E languida e triste a musica rompe...
 
 Lembra-me a minha infancia, aquelle dia
-Em que eu brincava ao p√© d'um muro de quintal
+Em que eu brincava ao pÈ d'um muro de quintal
 Atirando-lhe com uma bola que tinha d'um lado
-O deslisar d'um c√£o verde, e do outro lado
+O deslisar d'um c„o verde, e do outro lado
 Um cavallo azul a correr com um jockey amarello...
 
 Prosegue a musica, e eis na minha infancia
 De repente entre mim e o maestro, muro branco,
-Vae e vem a bola, ora um c√£o verde,
+Vae e vem a bola, ora um c„o verde,
 Ora um cavallo azul com um jockey amarello...
 
-Todo o theatro √© o meu quintal, a minha infancia
-Est√° em todos os logares, e a bola vem a tocar musica
+Todo o theatro È o meu quintal, a minha infancia
+Est· em todos os logares, e a bola vem a tocar musica
 Uma musica triste e vaga que passeia no meu quintal
-Vestida de c√£o verde tornando-se jockey amarello.
-(T√£o rapida gira a bola entre mim e os musicos...)
+Vestida de c„o verde tornando-se jockey amarello.
+(T„o rapida gira a bola entre mim e os musicos...)
 
-Atiro-a de encontro √° minha infancia e ella
-Atravessa o theatro todo que est√° aos meus p√©s
-A brincar com um jockey amarello e um c√£o verde
+Atiro-a de encontro · minha infancia e ella
+Atravessa o theatro todo que est· aos meus pÈs
+A brincar com um jockey amarello e um c„o verde
 E um cavallo azul que apparece por cima do muro
 Do meu quintal... E a musica atira com bolas
-√Å minha infancia... E o muro do quintal √© feito de gestos
-De batuta e rota√ß√µes confusas de c√£es verdes
+¡ minha infancia... E o muro do quintal È feito de gestos
+De batuta e rotaÁıes confusas de c„es verdes
 E cavallos azues e jockeys amarellos...
 
-Todo o theatro √© um muro branco de musica
-Por onde um c√£o verde corre atraz da minha saudade
+Todo o theatro È um muro branco de musica
+Por onde um c„o verde corre atraz da minha saudade
 Da minha infancia, cavallo azul com um jockey amarello...
 
 E d'um lado para o outro, da direita para a esquerda,
-D'onde ha arvores e entre os ramos ao p√© da copa
+D'onde ha arvores e entre os ramos ao pÈ da copa
 Com orchestras a tocar musica,
 Para onde ha filas de bolas na loja onde a comprei
 E o homem da loja sorri entre as memorias da minha infancia...
@@ -3073,19 +3073,19 @@ E a musica cessa como um muro que desaba,
 A bola rola pelo despenhadeiro dos meus sonhos interrompidos,
 E do alto dum cavallo azul, o maestro, jockey amarello tornando-se preto,
 Agradece, pousando a batuta em cima da fuga d'um muro,
-E curva-se, sorrindo, com uma bola branca em cima da cabe√ßa,
+E curva-se, sorrindo, com uma bola branca em cima da cabeÁa,
 Bola branca que lhe desapparece pelas costas abaixo...
 
 
-_8 de Mar√ßo de 1914._
+_8 de MarÁo de 1914._
 
 
-FERNANDO PESS√îA.
+FERNANDO PESS‘A.
 
 
 
 
-Pre√ßo 30 centavos
+PreÁo 30 centavos
 
 
 LISBOA
@@ -3099,10 +3099,10 @@ TELEFONE 2724
 
 
 
-End of the Project Gutenberg EBook of Orpheu N¬∫2, by 
-M√°rio de S√°-Carneiro and Fernando Ant√≥nio Nogueira Pessoa and √Çngelo Vaz Pinto Azevedo Coutinho de Lima and Lu√≠s de Montalvor
+End of the Project Gutenberg EBook of Orpheu N∫2, by 
+M·rio de S·-Carneiro and Fernando AntÛnio Nogueira Pessoa and ¬ngelo Vaz Pinto Azevedo Coutinho de Lima and LuÌs de Montalvor
 
-*** END OF THIS PROJECT GUTENBERG EBOOK ORPHEU N¬∫2 ***
+*** END OF THIS PROJECT GUTENBERG EBOOK ORPHEU N∫2 ***
 
 ***** This file should be named 23621-8.txt or 23621-8.zip *****
 This and all associated files of various formats will be found in:

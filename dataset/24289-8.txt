@@ -1,5 +1,5 @@
 The Project Gutenberg EBook of Ley, porque V. Magestade ha por bem
-restituir aos indios do Gr√£o Par√°, e Maranh√£o a liberdade das suas pessoas, e bens etc., by Anonymous
+restituir aos indios do Gr„o Par·, e Maranh„o a liberdade das suas pessoas, e bens etc., by Anonymous
 
 This eBook is for the use of anyone anywhere at no cost and with
 almost no restrictions whatsoever.  You may copy it, give it away or
@@ -7,7 +7,7 @@ re-use it under the terms of the Project Gutenberg License included
 with this eBook or online at www.gutenberg.org
 
 
-Title: Ley, porque V. Magestade ha por bem restituir aos indios do Gr√£o Par√°, e Maranh√£o a liberdade das suas pessoas, e bens etc.
+Title: Ley, porque V. Magestade ha por bem restituir aos indios do Gr„o Par·, e Maranh„o a liberdade das suas pessoas, e bens etc.
 
 Author: Anonymous
 
@@ -22,7 +22,7 @@ Character set encoding: ISO-8859-1
 
 
 
-Produced by J√∫lio Reis and Manuela Alves. The images for
+Produced by J˙lio Reis and Manuela Alves. The images for
 this file were generously made available by Biblioteca
 Nacional Digital (hhtp://bnd.bn.pt).
 
@@ -30,22 +30,22 @@ Nacional Digital (hhtp://bnd.bn.pt).
 
 
 
-Notas de transcri√ß√£o:
+Notas de transcriÁ„o:
 
-    Esta vers√£o est√° codificada em no conjunto de caracteres Latin-1
-    (ISO-8859-1), que n√£o suporta alguns caracteres usados na edi√ß√£o
-    original. Foram usados os seguintes s√≠mbolos:
+    Esta vers„o est· codificada em no conjunto de caracteres Latin-1
+    (ISO-8859-1), que n„o suporta alguns caracteres usados na ediÁ„o
+    original. Foram usados os seguintes sÌmbolos:
 
     [~u] - letra u com til
     [~e] - letra e com til
     [~q] - letra q com til
 
-Pg 1: suprimida indica√ß√£o na margem direita: "Num. II."
-Pg 5: substitu√≠do "adminstra√ßa√µ" por "administra√ß√£o"
-Pg 5: substitu√≠do "pornullas" por "por nullas"
-Pg 7: substitu√≠do "denossa" por "de nossa"
-Pg 9: substitu√≠do "olivre" por "o livre"
-Pg 10: substitu√≠do "comumica√ßa√µ" por "comunica√ßa√µ"
+Pg 1: suprimida indicaÁ„o na margem direita: "Num. II."
+Pg 5: substituÌdo "adminstraÁaı" por "administraÁ„o"
+Pg 5: substituÌdo "pornullas" por "por nullas"
+Pg 7: substituÌdo "denossa" por "de nossa"
+Pg 9: substituÌdo "olivre" por "o livre"
+Pg 10: substituÌdo "comumicaÁaı" por "comunicaÁaı"
 
 
 
@@ -53,106 +53,106 @@ Pg 10: substitu√≠do "comumica√ßa√µ" por "comunica√ßa√µ"
 
 
 
-Dom Joseph por gra√ßa de Deos Rey de Portugal, e dos Algarves d√°quem, e
-d√°lem mar em Africa, Senhor de Guin√©, e da Conquista, navega√ßa√µ, e
-commercio de Ethiopia, Arabia, Persia, e da India, &c. Fa√ßo saber aos
+Dom Joseph por graÁa de Deos Rey de Portugal, e dos Algarves d·quem, e
+d·lem mar em Africa, Senhor de GuinÈ, e da Conquista, navegaÁaı, e
+commercio de Ethiopia, Arabia, Persia, e da India, &c. FaÁo saber aos
 que esta Ley virem, que, mandando examinar pelas pessoas do meu
-Concelho, e por outros Ministros doutos, e zelosos do servi√ßo de Deos, e
+Concelho, e por outros Ministros doutos, e zelosos do serviÁo de Deos, e
 meu, e do bem commum dos meus Vassallos, que me pareceo consultar, as
-verdadeiras causas com que desde o descobrimento do Gra√µ Par√°, e
-Maranha√µ at√© agora na√µ s√≥ se na√µ tem multiplicado, e civilizado os
+verdadeiras causas com que desde o descobrimento do Graı Par·, e
+Maranhaı atÈ agora naı sÛ se naı tem multiplicado, e civilizado os
 Indios daquelle Estado; desterrando-se delle a barbaridade, e o
-gentilismo, e propagando-se a doutrina Christ√£a, e o numero dos Fi√©is
-allumi√°dos da luz do Evangelho; mas antes pelo contrario todos quantos
-Indios se descera√µ dos Sertoens para as Aldeas em lugar de propagarem, e
-prosperarem nellas de sorte, que as suas c√µmodidades, e fortunas
+gentilismo, e propagando-se a doutrina Christ„a, e o numero dos FiÈis
+allumi·dos da luz do Evangelho; mas antes pelo contrario todos quantos
+Indios se desceraı dos Sertoens para as Aldeas em lugar de propagarem, e
+prosperarem nellas de sorte, que as suas cımodidades, e fortunas
 servissem de estimulo aos que vivem dispersos pelos matos para virem
-buscar nas povoa√ßoens pelo meio das felicidades temporaes o maior fim da
-bemaventuran√ßa eterna, unindo-se ao gremio da Santa Madre Igreja se tem
+buscar nas povoaÁoens pelo meio das felicidades temporaes o maior fim da
+bemaventuranÁa eterna, unindo-se ao gremio da Santa Madre Igreja se tem
 visto muito diversamente, que, havendo descido muitos milhoens de
-Indios, se fora√µ sempre extinguindo de modo, que he muito pequeno o
-numero das povoa√ßoens, e dos moradores dellas; vivendo ainda estes
-poucos em ta√µ grande miseria, que em vez de convidarem, e animarem os
+Indios, se foraı sempre extinguindo de modo, que he muito pequeno o
+numero das povoaÁoens, e dos moradores dellas; vivendo ainda estes
+poucos em taı grande miseria, que em vez de convidarem, e animarem os
 outros Indios barbaros a que os imitem, lhes servem de escandalo para se
-internarem nas suas habita√ßoens silvestres com lamentavel prejuizo da
-salva√ßa√µ das suas Almas, e grave damno do mesmo Estado, na√µ tendo os
+internarem nas suas habitaÁoens silvestres com lamentavel prejuizo da
+salvaÁaı das suas Almas, e grave damno do mesmo Estado, naı tendo os
 habitantes delle quem os sirva, e ajudem para colherem na cultura das
-terras os muitos, e preciosos frutos em que ellas abunda√µ: Foi assentado
-por todos os votos, que a causa, que tem produzido ta√µ perniciosos
-effeitos, consistio, e consiste ainda em se na√µ haverem sustentado
+terras os muitos, e preciosos frutos em que ellas abundaı: Foi assentado
+por todos os votos, que a causa, que tem produzido taı perniciosos
+effeitos, consistio, e consiste ainda em se naı haverem sustentado
 efficazmente os ditos Indios na liberdade, que a seu favor foi declarada
 pelos Summos Pontifices, e pelos Senhores Reys meus predecessores,
 observando-se no seu genuino sentido as Leys por elles promulgadas sobre
 esta materia nos annos de mil e quinhentos e setenta, mil e quinhentos
 oitenta e sete, mil e quinhentos noventa e cinco, mil seiscentos e nove,
 mil e seiscentos e onze, mil seiscentos quarenta e sete, mil e
-seiscentos sincoenta e sinco: cavillando-se sempre pela cubi√ßa dos
-interesses particulares as disposi√ßoens destas Leys, at√© que sobre este
+seiscentos sincoenta e sinco: cavillando-se sempre pela cubiÁa dos
+interesses particulares as disposiÁoens destas Leys, atÈ que sobre este
 claro conhecimento, e sobre a experiencia do que havia passado a
-respeito dellas, estabeleceo ElRey meu Senhor, e Av√¥, no primeiro de
-Abril de mil e seiscentos e oitenta (para de huma vez obviar a ta√µ
+respeito dellas, estabeleceo ElRey meu Senhor, e AvÙ, no primeiro de
+Abril de mil e seiscentos e oitenta (para de huma vez obviar a taı
 perniciosas fraudes) a Ley, cujo teor he o seguinte.
 
 
 _Ley do primeiro de Abril de mil seiscentos e oitenta._
 
-¬´Dom Pedro Principe de Portugal, e dos Algarves como Regente, e
-successor destes Reynos &c. Fa√ßo saber aos que esta Ley virem, que sendo
+´Dom Pedro Principe de Portugal, e dos Algarves como Regente, e
+successor destes Reynos &c. FaÁo saber aos que esta Ley virem, que sendo
 informado ElRey meu Senhor, e Pay que Deos tem, dos injustos cativeiros,
-a que os moradores do Estado do Maranha√µ por meios illicitos reduzia√µ os
+a que os moradores do Estado do Maranhaı por meios illicitos reduziaı os
 Indios delle, e dos graves damnos, excessos, e offensas de Deos, que
-para este fim se c√µmettia√µ, fez huma Ley nesta Cidade de Lisboa em nove
+para este fim se cımettiaı, fez huma Ley nesta Cidade de Lisboa em nove
 de Abril de mil seiscentos sincoenta e sinco, em que prohibio os ditos
-cativeiros, exceptuando quatro casos, em que de direito era√µ justos, e
+cativeiros, exceptuando quatro casos, em que de direito eraı justos, e
 licitos; a saber quando fossem tomados em justa guerra, que os
 Portuguezes lhe movessem, intrevindo as circumstancias na dita Ley
-declaradas; ou quando impedissem a pr√©ga√ßa√µ Evangelica, ou quando
-estivessem prezos √° corda para serem comidos; ou quando fossem remdidos
+declaradas; ou quando impedissem a prÈgaÁaı Evangelica, ou quando
+estivessem prezos · corda para serem comidos; ou quando fossem remdidos
 por outros Indios, que os houvessem tomado em guerra justa,
-examinando-se a justi√ßa della na f√≥rma ordenada na dita Ley. E por na√µ
+examinando-se a justiÁa della na fÛrma ordenada na dita Ley. E por naı
 haver sido efficaz este remedio, nem o de outras Leys antecedentes do
 anno de mil e quinhentos e setenta, mil quinhentos oitenta e sete, mil
 quinhentos noventa e sinco, mil seiscentos sincoenta e dous, mil
 seiscentos sincoenta e tres, com que o dito Senhor Rey meu Pay, e outros
-Reys seus predecessores procurara√µ atalhar este damno; antes se haver
-continuado at√© o presente com grave escandalo, e excessos contra o
-servi√ßo de Deos, e meu; impedindo-se por esta causa a conversa√µ daquella
+Reys seus predecessores procuraraı atalhar este damno; antes se haver
+continuado atÈ o presente com grave escandalo, e excessos contra o
+serviÁo de Deos, e meu; impedindo-se por esta causa a conversaı daquella
 gentilidade, que desejo promover, e adiantar, o que deve ser, e he o meu
-primeiro cuidado; tendo mostrado a experiencia que, supposto seja√µ
+primeiro cuidado; tendo mostrado a experiencia que, supposto sejaı
 licitos os cativeiros por justas razoens de Direito nos casos
 exceptuados na dita ultima Ley de seiscentos sincoenta e sinco, e nas
-anteriores, com tudo que sa√µ de maior pondera√ßa√µ as razoens que ha em
+anteriores, com tudo que saı de maior ponderaÁaı as razoens que ha em
 contrario para os prohibir em todo o caso, serrando a porta aos
-pretextos simula√ßoens, e d√≥los com que a malicia abusando dos casos, em
-que os cativeiros sa√µ justos, introduz os injustos, enla√ßando-se as
-consciencias, na√µ s√≥mente em privar da liberdade aquelles a quem a
-communicou a natureza, e que por Direito natural, e positivo sa√µ
-verdadeiramente livres; mas tambem nos meios illicitos de que usa√µ para
-este fim: Desejando reparar ta√µ graves damnos, e inconvenientes, e
-principalmente facilitar a conversa√µ daquelles Gentios, e pelo que
-conv√©m ao bom governo, tranquillidade, e conserva√ßa√µ daquelle Estado,
+pretextos simulaÁoens, e dÛlos com que a malicia abusando dos casos, em
+que os cativeiros saı justos, introduz os injustos, enlaÁando-se as
+consciencias, naı sÛmente em privar da liberdade aquelles a quem a
+communicou a natureza, e que por Direito natural, e positivo saı
+verdadeiramente livres; mas tambem nos meios illicitos de que usaı para
+este fim: Desejando reparar taı graves damnos, e inconvenientes, e
+principalmente facilitar a conversaı daquelles Gentios, e pelo que
+convÈm ao bom governo, tranquillidade, e conservaÁaı daquelle Estado,
 com parecer dos do meu Conselho, ponderada esta materia com a madureza,
 que pedia a importancia della; e examinando-se as Leys antigas, e as que
-especialmente sobre este particular se estabelecera√µ para o Estado do
-Brasil, onde por muitos annos se experimentara√µ os mesmo damnos, e
-inconvenientes, que ainda hoje dura√µ, e se sentem no do Maranha√µ: Houve
+especialmente sobre este particular se estabeleceraı para o Estado do
+Brasil, onde por muitos annos se experimentaraı os mesmo damnos, e
+inconvenientes, que ainda hoje duraı, e se sentem no do Maranhaı: Houve
 por bem mandar fazer esta Ley, conformando-me com a antiga de trinta de
-Julho de seiscentos e nove, e com a Provisa√µ que nella se refere de
+Julho de seiscentos e nove, e com a Provisaı que nella se refere de
 sinco de Julho de seiscentos e sinco passadas para todo o Estado do
-Brasil. E renovando a sua disposi√ßa√µ ordeno, e mando que da qui em
-diante se na√µ possa cativar Indio algum do dito Estado em nenhum caso,
+Brasil. E renovando a sua disposiÁaı ordeno, e mando que da qui em
+diante se naı possa cativar Indio algum do dito Estado em nenhum caso,
 nem ainda nos exceptuados nas ditas Leys, [~q] Hei por derogadas, como
-se dellas, e das suas palavras fizera expressa, e declarada men√ßa√µ,
+se dellas, e das suas palavras fizera expressa, e declarada menÁaı,
 ficando no mais em seu vigor: e succedendo que alg[~u]a pessoa, de
-qualquer condi√ßa√µ, e qualidade que seja, cative, e mande cativar alg[~u]
+qualquer condiÁaı, e qualidade que seja, cative, e mande cativar alg[~u]
 Indio publica ou secretamente, por qualquer titulo, ou pretexto que
 seja, o Ouvidor geral do dito Estado o prenda, e tenha a bom recato, sem
-neste caso conceder Homenagem, Alvar√° de fian√ßa, ou fi√©is Carcereiros; e
-com os autos, que formar, o remetta a este Reino entregue ao Capita√µ, ou
+neste caso conceder Homenagem, Alvar· de fianÁa, ou fiÈis Carcereiros; e
+com os autos, que formar, o remetta a este Reino entregue ao Capitaı, ou
 Mestre do primeiro Navio, que para elle vier, para nesta Cidade o
 entregar no Limoeiro della, e me dar conta para o mandar castigar como
 me parecer. E tanto que o dito Ouvidor geral lhe constar do dito
-cativeiro por√° logo em sua liberdade o dito Indio, ou Indios,
+cativeiro por· logo em sua liberdade o dito Indio, ou Indios,
 mandando-os para qualquer das Aldeas dos Indios Catholicos, e livres,
 que elle quizer. E para me ser mais facilmente presente se esta Ley se
 observa inteiramente: Mando que o Bispo, e Governador daquelle Estado, e
@@ -160,28 +160,28 @@ os Prelados das Religioens delle, e os Parocos das Aldeas dos Indios,
 me dem conta pelo Conselho Ultramarino, e Junta das Missoens dos
 transgressores, que houver da dita Ley, e de tudo o que nesta materia
 tiverem noticia, e for conveniente para a sua observancia. E succedendo
-mover-se a guerra defensiva, ou offensiva a alguma Na√ßa√µ dos Indios do
+mover-se a guerra defensiva, ou offensiva a alguma NaÁaı dos Indios do
 dito Estado nos casos, e termos, em que por minhas Leys, e ordens he
-permittido; os Indios, que na tal guerra forem tomados, ficar√°√µ s√≥mente
-prizioneiros como fica√µ as pessoas que se toma√µ nas guerras de Europa, e
-s√≥mente o Governador os repartir√° como lhe parecer mais conveniente ao
-bem, seguran√ßa do Estado, pondo-os nas Aldeas dos Indios livres
-Catholicos, onde se possa√µ reduzir √° F√©, e servir o mesmo Estado, e
+permittido; os Indios, que na tal guerra forem tomados, ficar·ı sÛmente
+prizioneiros como ficaı as pessoas que se tomaı nas guerras de Europa, e
+sÛmente o Governador os repartir· como lhe parecer mais conveniente ao
+bem, seguranÁa do Estado, pondo-os nas Aldeas dos Indios livres
+Catholicos, onde se possaı reduzir · FÈ, e servir o mesmo Estado, e
 conservarem-se na sua liberdade, e com o bom tratamento, que por ordens
-repetidas est√° mandado, e de novo mando, e encommendo se lhe d√™ em tudo,
-sendo severamente castigado quem lhes fizer qualquer vexa√ßa√µ, e com
+repetidas est· mandado, e de novo mando, e encommendo se lhe dÍ em tudo,
+sendo severamente castigado quem lhes fizer qualquer vexaÁaı, e com
 maior rigor os que lhas fizerem no tempo em que delles se servirem por
-se lhes darem na reparti√ßa√µ. Pelo que mando aos Governadores, e
-Capitaens m√≥res, Officiaes da Camera e mais Ministros do Estado do
-Maranha√µ, de qualquer qualidade, e condi√ßa√µ que seja√µ, a todos em geral,
-e a cada hum em particular, cumpra√µ, e guardem esta Ley, que se
-registar√† nas Cameras do dito Estado; e por ella Hei por derogadas na√µ
-s√≥mente as sobreditas Leys, como assima fica referido; mas todas as
+se lhes darem na repartiÁaı. Pelo que mando aos Governadores, e
+Capitaens mÛres, Officiaes da Camera e mais Ministros do Estado do
+Maranhaı, de qualquer qualidade, e condiÁaı que sejaı, a todos em geral,
+e a cada hum em particular, cumpraı, e guardem esta Ley, que se
+registar‡ nas Cameras do dito Estado; e por ella Hei por derogadas naı
+sÛmente as sobreditas Leys, como assima fica referido; mas todas as
 mais, e quaesquer Regimentos, e Ordens, que haja em contrario ao
-disposto nesta, que s√≥mente quero que valha, tenha for√ßa, e vigor, como
-nella se cont√©m, sem embargo de na√µ ser passada pela Chancellaria, e das
-Ordena√ßoens, e Regimentos em contrario. Lisboa, o primeiro de Abril de
-mil seiscentos e oitenta.¬ª
+disposto nesta, que sÛmente quero que valha, tenha forÁa, e vigor, como
+nella se contÈm, sem embargo de naı ser passada pela Chancellaria, e das
+OrdenaÁoens, e Regimentos em contrario. Lisboa, o primeiro de Abril de
+mil seiscentos e oitenta.ª
 
 *PRINCIPE.*
 
@@ -190,263 +190,263 @@ mil seiscentos e oitenta.¬ª
 E porque o tempo foi cada dia fazendo mais notorias, e mais
 demonstrativas as justissimas causas, em que se estabeleceo esta Ley
 para restituir aos Indios a sua antiga, e natural liberdade, fechando a
-porta √°s impiedades, e √°s malicias, com que debaixo do pretexto dos
-casos, em que antes, e depois della, se permittio o cativeiro se fazia√µ
-escravos os referidos Indios, sem mais raza√µ, que a cubi√ßa, e a for√ßa
-dos que cativava√µ, e a rusticidade, e fraqueza dos chamados cativos: Sou
+porta ·s impiedades, e ·s malicias, com que debaixo do pretexto dos
+casos, em que antes, e depois della, se permittio o cativeiro se faziaı
+escravos os referidos Indios, sem mais razaı, que a cubiÁa, e a forÁa
+dos que cativavaı, e a rusticidade, e fraqueza dos chamados cativos: Sou
 servido, com o parecer das mesmas Pessoas, e Ministros, derogar, e
 annullar; como por esta derogo, e annullo todas as Leys, Regimentos,
-Resolu√ßoens, e ordens que desde o descobrimento das sobreditas
-Capitan√≠as do Gra√µ Par√°, e Maranha√µ at√© o presente dia permittira√µ,
-ainda em certos casos particulares, a escravida√µ dos referidos Indios, e
-no mais em que a esta Ley forem contrarias, para nesta parte s√≥mente
+ResoluÁoens, e ordens que desde o descobrimento das sobreditas
+CapitanÌas do Graı Par·, e Maranhaı atÈ o presente dia permittiraı,
+ainda em certos casos particulares, a escravidaı dos referidos Indios, e
+no mais em que a esta Ley forem contrarias, para nesta parte sÛmente
 ficarem derogadas, e cassadas, como se da substancia de cada huma dellas
-fizesse aqui expressa, e especial men√ßa√µ, sem embargo da Ordena√ßa√µ do
+fizesse aqui expressa, e especial menÁaı, sem embargo da OrdenaÁaı do
 livro segundo, titulo quarenta e quatro em contrario: Renovando, e
 excitando a inteira, e inviolavel observancia da sobredita Ley assima
-trasladada, e isto com as amplia√ßoens, declara√ßoens, e restric√ßoens, que
+trasladada, e isto com as ampliaÁoens, declaraÁoens, e restricÁoens, que
 ao diante se seguem.
 
 Por obviar mais efficazmente as calamidades, que se tem seguido da
-escravida√µ; e por cortar de huma vez todas as raizes, e apparencias
-della: Ordeno que nos Indios, que ao tempo da publica√ßa√µ desta se
-acharem dados por reparti√ßa√µ, ou ainda por administra√ßa√µ, se observem as
-disposi√ßoens do Alvar√° de dez de Novembro de mil seiscentos e quarenta e
+escravidaı; e por cortar de huma vez todas as raizes, e apparencias
+della: Ordeno que nos Indios, que ao tempo da publicaÁaı desta se
+acharem dados por repartiÁaı, ou ainda por administraÁaı, se observem as
+disposiÁoens do Alvar· de dez de Novembro de mil seiscentos e quarenta e
 sete: cujo teor he o seguinte.
 
 
 _Ley de dez de Novembro de mil seiscentos quarenta e sete,_
 
-¬´Eu ElRey fa√ßo saber aos que este Alvar√° virem, que, tendo considera√ßa√µ
-ao grande prejuizo, que se segue ao servi√ßo de Deos, e meu, e ao
-augmento do Estado do Maranha√µ, de se darem por administra√ßa√µ os
+´Eu ElRey faÁo saber aos que este Alvar· virem, que, tendo consideraÁaı
+ao grande prejuizo, que se segue ao serviÁo de Deos, e meu, e ao
+augmento do Estado do Maranhaı, de se darem por administraÁaı os
 Gentios, e Indios daquelle Estado, por quanto os Portuguezes, a quem se
-da√µ estas administra√ßoens, usa√µ ta√µ mal dellas, que os Indios, que esta√µ
-debaixo das mesmas administra√ßoens, em breves dias de servi√ßo ou
-morrerem √° pura fome, e excessivo trabalho, ou fogem pela terra dentro,
+daı estas administraÁoens, usaı taı mal dellas, que os Indios, que estaı
+debaixo das mesmas administraÁoens, em breves dias de serviÁo ou
+morrerem · pura fome, e excessivo trabalho, ou fogem pela terra dentro,
 onde a poucas jornadas perecem, tendo por esta causa perecido, e acabado
-innumeravel gentio no Maranha√µ, Par√°, e em outras partes do Estado do
+innumeravel gentio no Maranhaı, Par·, e em outras partes do Estado do
 Brasil: Pelo que Hei por bem mandar declarar por Ley (como por esta
-fa√ßo, e como o declarara√µ j√° os Senhores Reys deste Reino, e os Summos
-Pontifices) que os Gentios sa√µ livres, e que na√µ haja administradores,
-nem administra√ßa√µ, havendo por nullas, e de nenhum effeito todas as que
-estiverem dadas, de modo que na√µ haja memoria dellas; e que os Indios
-possa√µ livremente servir, e trabalhar com quem bem lhes estiver, e
+faÁo, e como o declararaı j· os Senhores Reys deste Reino, e os Summos
+Pontifices) que os Gentios saı livres, e que naı haja administradores,
+nem administraÁaı, havendo por nullas, e de nenhum effeito todas as que
+estiverem dadas, de modo que naı haja memoria dellas; e que os Indios
+possaı livremente servir, e trabalhar com quem bem lhes estiver, e
 melhor lhes pagar seu trabalho. Pelo que mando ao Governador do dito
-Estado do Maranha√µ, e a todos os mais Ministros delle, de Justi√ßa,
-Guerra, e Fazenda, √† todos em geral, e a cada hum em particular, e aos
-Officiaes das Cameras do mesmo Estado, que nesta conformidade cumpra√µ, e
-guardem este Alvar√°, fazendo publicar em todas as Capitanias, Villas, e
-Cidades, que os Indios sa√µ livres, na√µ consentindo outro fim, que haja
-Administradores, nem administra√ßa√µ, havendo por nullas, e de nenhum
-effeito todas as que tiverem dadas, na f√≥rma que assima se refere;
+Estado do Maranhaı, e a todos os mais Ministros delle, de JustiÁa,
+Guerra, e Fazenda, ‡ todos em geral, e a cada hum em particular, e aos
+Officiaes das Cameras do mesmo Estado, que nesta conformidade cumpraı, e
+guardem este Alvar·, fazendo publicar em todas as Capitanias, Villas, e
+Cidades, que os Indios saı livres, naı consentindo outro fim, que haja
+Administradores, nem administraÁaı, havendo por nullas, e de nenhum
+effeito todas as que tiverem dadas, na fÛrma que assima se refere;
 porque assim o Hei po bem. E este quero que valha como Carta, sem
-embargo da Ordena√ßa√µ do segundo livro, titulo quarenta em contrario.
+embargo da OrdenaÁaı do segundo livro, titulo quarenta em contrario.
 Manoel Antunes o fez em Lisboa a dez de Novembro de mil seiscentos
-quarenta e sete: e este vai por duas vias.¬ª
+quarenta e sete: e este vai por duas vias.ª
 
 *REY.*
 
        *       *       *       *       *
 
-Declarando-se por Editaes p√≥stos nos lugares publicos das Cidades de
-Belem do Gra√µ Par√°, e de S. Luiz do Maranha√µ, que os sobreditos Indios
-como livres, e izentos de toda a escravida√µ p√≥dem dispor das suas
-pessoas, e bens como melhor lhes parecer, sem outra sujei√ßa√µ temporal,
-que na√µ seja a que devem ter √°s minhas Leys, para √° sombra dellas
-viverem na paz, e unia√µ Christ√£a, e na sociedade Civ√Æl, em que, mediante
-a Divina gra√ßa, procuro manter os P√≥vos, que Deos me confiou, nos quaes
-ficara√µ incorporados os referidos Indios sem distinc√ßa√µ, ou excep√ßa√µ
+Declarando-se por Editaes pÛstos nos lugares publicos das Cidades de
+Belem do Graı Par·, e de S. Luiz do Maranhaı, que os sobreditos Indios
+como livres, e izentos de toda a escravidaı pÛdem dispor das suas
+pessoas, e bens como melhor lhes parecer, sem outra sujeiÁaı temporal,
+que naı seja a que devem ter ·s minhas Leys, para · sombra dellas
+viverem na paz, e uniaı Christ„a, e na sociedade CivÓl, em que, mediante
+a Divina graÁa, procuro manter os PÛvos, que Deos me confiou, nos quaes
+ficaraı incorporados os referidos Indios sem distincÁaı, ou excepÁaı
 alguma, para gozarem todas as honras, privilegios, e liberdades, de que
-os meus Vassallos goza√µ actualmente conforme as suas respectivas
-gradua√ßoens, e cabedaes.
+os meus Vassallos gozaı actualmente conforme as suas respectivas
+graduaÁoens, e cabedaes.
 
-O que tudo se extender√° tambem aos Indios, que estiverem possuidos como
+O que tudo se extender· tambem aos Indios, que estiverem possuidos como
 escravos; observando-se a respeito delles inviolavelmente o Paragrafo
 nove da Ley de dez de Setembro de mil e seiscentos e onze, cujo teor he
 o seguinte.
 
-¬´E por quanto sou informado, que em tempo de alguns Governadores
-passados daquelle Estado se cativara√µ muitos Gentios contra a f√≥rma das
-Leys de ElRey meu Senhor, e Pay, e do Senhor Rey D. Sebastia√µ meu Primo,
+´E por quanto sou informado, que em tempo de alguns Governadores
+passados daquelle Estado se cativaraı muitos Gentios contra a fÛrma das
+Leys de ElRey meu Senhor, e Pay, e do Senhor Rey D. Sebastiaı meu Primo,
 que Deos tem, e principalmente nas terras de Jaguaribe: Hei por bem, e
-mando que assim os ditos Gentios, como outros quaesquer, que at√© √°
-publica√ßa√µ desta Ley forem cativos, seja√µ todos livres, e p√≥stos em sua
+mando que assim os ditos Gentios, como outros quaesquer, que atÈ ·
+publicaÁaı desta Ley forem cativos, sejaı todos livres, e pÛstos em sua
 liberdade; e se tirem do poder de quaesquer pessoas, em cujo poder
-estiverem, sem replica, nem dila√ßa√µ, nem serem ouvidos com embargos, nem
-ac√ßa√µ alguma, de quarquer qualidade, e materia que seja√µ, e sem se lhes
-admittir appella√ßa√µ, nem aggravo, posto que alleguem estarem delles de
-posse, e que os comprara√µ, e por senten√ßas lhes fora√µ julgados por
-cativos: por quanto por esta declaro as ditas vendas, e senten√ßas por
-nullas: ficando resguardada sua justi√ßa aos compradores contra os que
-lhos vendera√µ: e dos ditos Gentios se fara√µ tambem as Aldeas, que forem
-necessarias; e assim nellas, como nas mais, que j√° houver, e esta√µ
-domesticas, se ter√° a mesma ordem, e governo, que por esta se ordena
-haja nas mais, que de novo se fizerem.¬ª
+estiverem, sem replica, nem dilaÁaı, nem serem ouvidos com embargos, nem
+acÁaı alguma, de quarquer qualidade, e materia que sejaı, e sem se lhes
+admittir appellaÁaı, nem aggravo, posto que alleguem estarem delles de
+posse, e que os compraraı, e por sentenÁas lhes foraı julgados por
+cativos: por quanto por esta declaro as ditas vendas, e sentenÁas por
+nullas: ficando resguardada sua justiÁa aos compradores contra os que
+lhos venderaı: e dos ditos Gentios se faraı tambem as Aldeas, que forem
+necessarias; e assim nellas, como nas mais, que j· houver, e estaı
+domesticas, se ter· a mesma ordem, e governo, que por esta se ordena
+haja nas mais, que de novo se fizerem.ª
 
-Desta geral disposi√ßa√µ exceptuo s√≥mente os oriundos de pretas escravas,
-os quaes sera√µ conservados no dominio dos seus actuaes senhores, em
-quanto Eu na√µ der outra providencia sobre esta materia.
+Desta geral disposiÁaı exceptuo sÛmente os oriundos de pretas escravas,
+os quaes seraı conservados no dominio dos seus actuaes senhores, em
+quanto Eu naı der outra providencia sobre esta materia.
 
-Por√©m para que com o pretexto dos sobreditos descendentes de pretas
-escravas, se na√µ retenha√µ ainda no cativeiro os Indios que sa√µ livres:
-estabele√ßo que o beneficio dos Editaes assima ordenados se extenda a
+PorÈm para que com o pretexto dos sobreditos descendentes de pretas
+escravas, se naı retenhaı ainda no cativeiro os Indios que saı livres:
+estabeleÁo que o beneficio dos Editaes assima ordenados se extenda a
 todos os que se acharem reputados por Indios, ou que taes parecerem,
-para que todos elles seja√µ havidos por livres sem a dependencia de mais
-prova, do que a plenissima que a seu favor resulta da presump√ßa√µ de
-Direito Divino, Natural, e Positivo, que est√° pela liberdade, em quando
-por outras provas tambem plenissimas, e taes, que seja√µ bastantes para
-illudirem a dita presump√ßa√µ conforme o Direito, se na√µ mostrar que
-effectivamente sa√µ escravos na sobredita f√≥rma: incumbindo sempre o
+para que todos elles sejaı havidos por livres sem a dependencia de mais
+prova, do que a plenissima que a seu favor resulta da presumpÁaı de
+Direito Divino, Natural, e Positivo, que est· pela liberdade, em quando
+por outras provas tambem plenissimas, e taes, que sejaı bastantes para
+illudirem a dita presumpÁaı conforme o Direito, se naı mostrar que
+effectivamente saı escravos na sobredita fÛrma: incumbindo sempre o
 encargo da prova aos que requerem contra a liberdade, ainda sendo Reos.
 
-Os que nos casos occurrentes se julgar√° breve, summariamente, e de plano
-pela verdade sabida em huma s√≥ instancia. Para ella sera√µ preparados os
-autos pelos Ouvidores geraes nas suas respectivas jurisdic√ßoens, e os
-propora√µ em Junta, a que assistira√µ o Prelado Diecesano, ou o Ministro
+Os que nos casos occurrentes se julgar· breve, summariamente, e de plano
+pela verdade sabida em huma sÛ instancia. Para ella seraı preparados os
+autos pelos Ouvidores geraes nas suas respectivas jurisdicÁoens, e os
+proporaı em Junta, a que assistiraı o Prelado Diecesano, ou o Ministro
 que elle deputar no seu lugar para este effeito, o Governador, os quatro
 Prelados maiores dos Missoens da Companhia de JESUS, de nossa Senhora do
 Monte do Carmo, dos Religiosos Capuchos da Provincia de Santo Antonio, e
-de nossa Senhora das Merc√™s, o dito Ouvidor geral, o Juiz de f√≥ra, e o
-Procurador dos Indios: Vencendo-se pela pluralidade de votos c√µntra a
-liberdade: e bastando a favor della, que seja√µ iguaes os mesmos votos:
-os quaes em nenhum caso se podera√µ dar sem que esteja√µ presentes os
-Vogaes acima refer√≠dos, ou as pessoas que seus lugares servirem; a menos
-que se na√µ escusem, sendo advertidos, para o referido acto, com recado
+de nossa Senhora das MercÍs, o dito Ouvidor geral, o Juiz de fÛra, e o
+Procurador dos Indios: Vencendo-se pela pluralidade de votos cıntra a
+liberdade: e bastando a favor della, que sejaı iguaes os mesmos votos:
+os quaes em nenhum caso se poderaı dar sem que estejaı presentes os
+Vogaes acima referÌdos, ou as pessoas que seus lugares servirem; a menos
+que se naı escusem, sendo advertidos, para o referido acto, com recado
 por escrito; porque escusando-se algum, ou alguns delles, por se acharem
-impedidos, se autuar√° a escusa, e se expedir√° sempre a causa com os que
+impedidos, se autuar· a escusa, e se expedir· sempre a causa com os que
 estiverem presentes, com tanto que haja sempre tres votos conformes para
-se vencer a decisa√µ. E das senten√ßas, proferidas na sobredita f√≥rma, na√µ
-poder√° haver appella√ßa√µ suspensiva, que retarde a sua execu√ßa, nem outro
-algum recurso, que na√µ seja devolutivo, interpondo-se para o Tribunal da
-Meza da Consciencia, e Ordens, onde estas causas sera√µ sentenceadas na
-sobredita f√≥rma; com preferencia a quaesquer outras, como conv√©m para o
-servi√ßo de Deos, e meu, em huma materia ta√µ grave, e delicada, que
+se vencer a decisaı. E das sentenÁas, proferidas na sobredita fÛrma, naı
+poder· haver appellaÁaı suspensiva, que retarde a sua execuÁa, nem outro
+algum recurso, que naı seja devolutivo, interpondo-se para o Tribunal da
+Meza da Consciencia, e Ordens, onde estas causas seraı sentenceadas na
+sobredita fÛrma; com preferencia a quaesquer outras, como convÈm para o
+serviÁo de Deos, e meu, em huma materia taı grave, e delicada, que
 involve em si os bens espirituaes, e temporaes daquelle Estado.
 
-E para que os moradores delle possa√µ achar quem lhes fa√ßa as suas obras,
+E para que os moradores delle possaı achar quem lhes faÁa as suas obras,
 e lhes cultive as suas terras ainda dentro nellas, sem a dependencia de
-mandarem vir obreiros, e trabalhadores de f√≥ra, e os Indios naturaes do
-Paiz possa√µ tamb[~e] achar a sua conveniencia em se applicarem √°s
-referidas obras, e servi√ßos; fazendo assim huns aos outros aquelles
+mandarem vir obreiros, e trabalhadores de fÛra, e os Indios naturaes do
+Paiz possaı tamb[~e] achar a sua conveniencia em se applicarem ·s
+referidas obras, e serviÁos; fazendo assim huns aos outros aquelles
 reciprocos interesses, em que consistem o estabelecimento, e o augmento,
-a multiplica√ßa√µ, e a prosperidade de todos os P√≥vos civilizados, e
-polidos, nos quaes sempre cresce o numero dos operarios √° propor√ßa√µ das
-lavouras, e das manufacturas, que nelles se cultiva√µ: Hei por bem, que,
-logo que esta se publicar na Cidade de Belem do Gra√µ Par√°, o Governador,
-e Capita√µ General daquelle Estado, ou quem seu cargo servir, convocando
+a multiplicaÁaı, e a prosperidade de todos os PÛvos civilizados, e
+polidos, nos quaes sempre cresce o numero dos operarios · proporÁaı das
+lavouras, e das manufacturas, que nelles se cultivaı: Hei por bem, que,
+logo que esta se publicar na Cidade de Belem do Graı Par·, o Governador,
+e Capitaı General daquelle Estado, ou quem seu cargo servir, convocando
 a Junta os Ministros Letrados daquella Capital, e ouvindo o Governador,
-e os Ministros da Cidade de S. Luis do Maranha√µ, com acordo das duas
-respectivas Cameras, estabele√ßa aos sobreditos Indios os jornaes
+e os Ministros da Cidade de S. Luis do Maranhaı, com acordo das duas
+respectivas Cameras, estabeleÁa aos sobreditos Indios os jornaes
 competentes para se alimentarem, e vestirem segundo as suas differentes
-profissoens; conformando-se com o que a este respeito se prat√≠ca nestes
-Reinos, e nos mais da Europa, em quanto os pre√ßos c√µmuns do mesmo Estado
+profissoens; conformando-se com o que a este respeito se pratÌca nestes
+Reinos, e nos mais da Europa, em quanto os preÁos cımuns do mesmo Estado
 puderem premitillos; e servindo para este effeito de regras os exemplos
 seguintes: Primeiro exemplo, se em Lisboa custa o sustento de hum homem
-de trabalho hum tosta√µ, e he por isso de dous tost√µes o jornal de um
-trabalhador; a esta imita√ßa√µ se deve taxar a cada Indio de servi√ßo por
+de trabalho hum tostaı, e he por isso de dous tostıes o jornal de um
+trabalhador; a esta imitaÁaı se deve taxar a cada Indio de serviÁo por
 jornal o dobro do que lhe he preciso para o diario sustento regulado
-pelos pre√ßos da terra: Segundo exemplo, se hum artifice ganha em Lisboa
-tres tostoens por dia, e hum trabalhador s√≥mente dous tostoens, a esta
-imita√ßa√µ se taxar√° aos artifices do referido Estado ametade mais do
+pelos preÁos da terra: Segundo exemplo, se hum artifice ganha em Lisboa
+tres tostoens por dia, e hum trabalhador sÛmente dous tostoens, a esta
+imitaÁaı se taxar· aos artifices do referido Estado ametade mais do
 jornal, que se houver arbitrado aos trabalhadores.
 
-Todos os referidos jornaes sera√µ pagos por ferias nos Sabbados de cada
+Todos os referidos jornaes seraı pagos por ferias nos Sabbados de cada
 semana, cobrando-se assim nas quintas em [~q] houverem sido taxados, ou
 em panno ou em ferramenta, ou em dinheiro, como melhor lhe parecer aos
 que os ganharem; procedendo-se por elles verbal, e executivamente, como
-j√° foi declarado por Alvar√° de doze de Novembro de mil seiscentos
+j· foi declarado por Alvar· de doze de Novembro de mil seiscentos
 quarenta e sete; e observando-se as sobreditas taxas sem embargo do dito
-Alvar√°; do Capitulo quarenta e oito do antigo Regimento; dos outros
-Alvar√°s, de vinte nove de Setembro de mil seiscentos quarenta e oito, e
+Alvar·; do Capitulo quarenta e oito do antigo Regimento; dos outros
+Alvar·s, de vinte nove de Setembro de mil seiscentos quarenta e oito, e
 doze de Julho de mil seiscentos sincoenta e seis, e de todas as mais
-disposi√ß√µes, e taxas at√© agora estabelecidas, as quaes todas Hei tambem
-nesta parte por derogadas como se dellas fizesse especial men√ßa√µ, na√µ
-obst√£te a Ordena√ßa√µ do livro segundo titulo quarenta e quatro, e as mais
-disposi√ßoens de Direito a ella similhantes.
+disposiÁıes, e taxas atÈ agora estabelecidas, as quaes todas Hei tambem
+nesta parte por derogadas como se dellas fizesse especial menÁaı, naı
+obst„te a OrdenaÁaı do livro segundo titulo quarenta e quatro, e as mais
+disposiÁoens de Direito a ella similhantes.
 
-Porque na√µ bastaria para restabelecer, e adiantar o referido Estado, que
-os Indios fossem restituidas √° liberdade das suas pessoas na sobredita
-f√≥rma, se com ella se lhes na√µ restituisse tambem o livre uso dos seus
-bens, que at√© agora se lhes impedio com manifesta violencia: Ordeno que
-a este respeito se execute logo a disposi√ßa√µ do paragrafo quarenta do
-Alvar√° do primeiro de Abril de mil seiscentos e oitenta: cujo teor he o
+Porque naı bastaria para restabelecer, e adiantar o referido Estado, que
+os Indios fossem restituidas · liberdade das suas pessoas na sobredita
+fÛrma, se com ella se lhes naı restituisse tambem o livre uso dos seus
+bens, que atÈ agora se lhes impedio com manifesta violencia: Ordeno que
+a este respeito se execute logo a disposiÁaı do paragrafo quarenta do
+Alvar· do primeiro de Abril de mil seiscentos e oitenta: cujo teor he o
 seguinte.
 
-¬´E para que os ditos Gentios, que assim descerem, e os mais que ha de
-presente, melhor se conservem nas Aldeas, Hei por bem, que seja√µ
-senhores de suas fazendas, como o sa√µ no serta√µ, sem lhes poderem ser
+´E para que os ditos Gentios, que assim descerem, e os mais que ha de
+presente, melhor se conservem nas Aldeas, Hei por bem, que sejaı
+senhores de suas fazendas, como o saı no sertaı, sem lhes poderem ser
 tomadas nem sobre ellas se lhes fazer molestia. E o Governador com
-parecer dos ditos Religiosos assinar√° aos que descerem do Serta√µ lugares
-convenientes para nelles lavrarem, e cultivarem, e na√µ poder√°√µ ser
-mudados dos ditos lugares contra sua vontade; nem sera√µ obrigados a
-pagar foro, ou tributo algum das ditas terras, ainda que esteja√µ dadas
-em Sesmar√≠as a pessoas particulares, porque na concessa√µ destas se
+parecer dos ditos Religiosos assinar· aos que descerem do Sertaı lugares
+convenientes para nelles lavrarem, e cultivarem, e naı poder·ı ser
+mudados dos ditos lugares contra sua vontade; nem seraı obrigados a
+pagar foro, ou tributo algum das ditas terras, ainda que estejaı dadas
+em SesmarÌas a pessoas particulares, porque na concessaı destas se
 reserva sempre o prejuizo de terceiro, e muito mais se entende, e quero
 se entenda ser reservado o prejuizo, e direito dos Indios, primarios, e
-naturaes senhores dellas.¬ª
+naturaes senhores dellas.ª
 
-Em observancia de cuja disposi√ßa√µ, que Hei por bem renovar, e mandar
-executar inviolavelmente, sem maior dila√ßa√µ daquella, [~q] at√© agora
-houve em ta√µ import√£te negocio, o mesmo Governador, e Capita√µ General
+Em observancia de cuja disposiÁaı, que Hei por bem renovar, e mandar
+executar inviolavelmente, sem maior dilaÁaı daquella, [~q] atÈ agora
+houve em taı import„te negocio, o mesmo Governador, e Capitaı General
 ou quem no seu lugar estiver, fazendo erigir em Villas as Aldeas, que
 tiverem o competente numero de Indios, e as mais pequenas em lugares, e
-repartir pelos mesmo Indios as terras adjacentes √°s suas respectivas
-Aldeas: praticar√° nestas funda√ßoens, e reparti√ßoens (em quanto for
-possivel) a politica que ordenei para a funda√ßa√µ da _Villa Nova de S.
+repartir pelos mesmo Indios as terras adjacentes ·s suas respectivas
+Aldeas: praticar· nestas fundaÁoens, e repartiÁoens (em quanto for
+possivel) a politica que ordenei para a fundaÁaı da _Villa Nova de S.
 Joseph do Rio Negro_: Sustentando se os Indios, a cujo favor se fizerem
-as ditas demarca√ß√µes, no inteiro dominio, e pacifica posse das terras,
+as ditas demarcaÁıes, no inteiro dominio, e pacifica posse das terras,
 que se lhes adjudicarem para gozarem dellas per si, e todos seus
 herdeiros: E sendo castigados os que, abusando da sua imbecillidade, os
 perturbarem nellas, e na sua cultura, com toda a severidade, que as Leys
 permittirem.
 
-E porque sendo o meu principal intento dilatar a pr√©ga√ßa√µ do Santo
+E porque sendo o meu principal intento dilatar a prÈgaÁaı do Santo
 Evagelho, procurar trazer ao gremio da Igreja aquelle numeroso
-Paganismo; e muitas das Na√ßoens daquelles Gentios esta√µ em partes mui
-remotas, vivendo nas tr√©vas da ignorancia, e difficultosamente se
-persuadira√µ a descer para as Povoa√ß√µes, que at√© agora se acha√µ
-estabelecidas para que ainda no interior dos Sertoens lhes na√µ falte o
-Pasto espiritual: Hei por bem que nelle seja√µ aldeados na sobredita
-f√≥rma; levantando-se Igrejas, e convocando-se Missionarios, que instrua√µ
-os ditos Indios na F√©, e os concervem nella.
+Paganismo; e muitas das NaÁoens daquelles Gentios estaı em partes mui
+remotas, vivendo nas trÈvas da ignorancia, e difficultosamente se
+persuadiraı a descer para as PovoaÁıes, que atÈ agora se achaı
+estabelecidas para que ainda no interior dos Sertoens lhes naı falte o
+Pasto espiritual: Hei por bem que nelle sejaı aldeados na sobredita
+fÛrma; levantando-se Igrejas, e convocando-se Missionarios, que instruaı
+os ditos Indios na FÈ, e os concervem nella.
 
 E havendo mostrado a experiencia de tantos annos, que este meu primeiro
-fim se na√µ conseguir√° nunca se na√µ for pelo proprio, e efficaz meio de
+fim se naı conseguir· nunca se naı for pelo proprio, e efficaz meio de
 se civilizarem este Indios; sendo ao mesmo passo exhortados, e animados
 a cultivarem as terras; para que, aproveitando-se dos frutos, e drogas,
-que ellas produzem, e c√µmutando-as com os habitantes dos lugares
-maritimos pela facilidade, que para isso lhe da√µ os rios, possa√µ na
-frequencia desta comunica√ßa√µ deixar seus barbaros costumes; com o que,
-al√©m da utilidade espiritual, e temporal dos sobreditos Indios
-silvestres, crescer√° o commercio da quelle Estado com grande
+que ellas produzem, e cımutando-as com os habitantes dos lugares
+maritimos pela facilidade, que para isso lhe daı os rios, possaı na
+frequencia desta comunicaÁaı deixar seus barbaros costumes; com o que,
+alÈm da utilidade espiritual, e temporal dos sobreditos Indios
+silvestres, crescer· o commercio da quelle Estado com grande
 conveniencia dos moradores delle; t[~e]do entre outras as de [~q] por
-este modo se servir√°√µ os ditos moradores dos Indios mais remotos para
-consegirem os frutos, e as drogas do Serta√µ, sem o trabalho, e dispezas
-das navega√ßoens, que at√© agora fazia√µ para transportarem os referidos
+este modo se servir·ı os ditos moradores dos Indios mais remotos para
+consegirem os frutos, e as drogas do Sertaı, sem o trabalho, e dispezas
+das navegaÁoens, que atÈ agora faziaı para transportarem os referidos
 generos agrestes, e incultos de partes mui distantes; e de que assim
-conservar√°√µ os outros Indios vizinhos das Aldeas dentro nellas, valendo
-se delles para o servi√ßo das suas lavouras, e obras, sem consumirem nas
-viagens do Serta√µ, como at√© agora succedia: Hei outro fim por bem, que o
-sobredito Governador, e Capita√µ General, e os que lhe succederem,
-appliquem tamb[~e] hum exacto cuidado na instruc√ßa√µ civil dos referidos
+conservar·ı os outros Indios vizinhos das Aldeas dentro nellas, valendo
+se delles para o serviÁo das suas lavouras, e obras, sem consumirem nas
+viagens do Sertaı, como atÈ agora succedia: Hei outro fim por bem, que o
+sobredito Governador, e Capitaı General, e os que lhe succederem,
+appliquem tamb[~e] hum exacto cuidado na instrucÁaı civil dos referidos
 Indios, que forem aldeados nos Sertoens, fazendo-lhes conservar as
-libredades das suas pessoas, bens, e c√µmercio: e na√µ permittindo que
+libredades das suas pessoas, bens, e cımercio: e naı permittindo que
 este lhes seja interrompido, ou usurpado debaixo de qualquer titulo, ou
-pretexto por mais especioso que seja: e rec√µmendando aos Missionarios, e
+pretexto por mais especioso que seja: e recımendando aos Missionarios, e
 ordenando aos Ministros seculares, que lhes dem conta das violencias que
 se fizerem aos ditos respeitos, para se proceder logo contra os que as
 houverem feito com o prompto castigo que requer a gravidade da materia.
 
 Pelo que mando aos Capitaens Generaes, Governadores, Ministros, e
-Officiaes de Guerra, e das Cameras do Estado do Gra√µ Par√°, e Maranha√µ,
-de qualquer qualidade, e condi√ßa√µ que seja√µ, a todos em geral, e a cada
-hum em particular, cumpra√µ, e guardem esta Ley, que se registar√° nas
-Cameras do dito Estado; e por ella Hei por derogadas na√µ s√≥mente as Leys
+Officiaes de Guerra, e das Cameras do Estado do Graı Par·, e Maranhaı,
+de qualquer qualidade, e condiÁaı que sejaı, a todos em geral, e a cada
+hum em particular, cumpraı, e guardem esta Ley, que se registar· nas
+Cameras do dito Estado; e por ella Hei por derogadas naı sÛmente as Leys
 assima indicadas, e referidas, mas tambem todas as mais, e quaesquer
 Regimentos, e Ordens, que haja em contrario ao disposto nesta, que
-s√≥mente quero que valha, e tenha for√ßa, e vigor como nella se cont√©m,
-sem embargo de na√µ ser passada pela Chancellaria, e das Ordena√ßoens do
+sÛmente quero que valha, e tenha forÁa, e vigor como nella se contÈm,
+sem embargo de naı ser passada pela Chancellaria, e das OrdenaÁoens do
 livro segundo, titulo trinta e nove, quarenta, quarenta e quatro, e
 Regimento em contrario. Lisboa a seis de Junho de mil e setecentos
 sincoenta e sinco.
@@ -455,13 +455,13 @@ sincoenta e sinco.
 
        *       *       *       *       *
 
-_Sebastia√µ Joseph de Carvalho e Mello._
+_Sebastiaı Joseph de Carvalho e Mello._
 
 
 
 
-_Ley, porque V. Magestade ha por bem restituir aos Indios do Gra√µ Par√°,
-e Maranha√µ a liberdade das suas pessoas, e bens, e commercio: na forma
+_Ley, porque V. Magestade ha por bem restituir aos Indios do Graı Par·,
+e Maranhaı a liberdade das suas pessoas, e bens, e commercio: na forma
 que nella se declara._
 
        *       *       *       *       *
@@ -475,14 +475,14 @@ _Manoel Gomes de Almeida_ a fez.
        *       *       *       *       *
 
 Registada na Secretaria de Estado dos Negocios extrangeiros, e da
-Guerra, no livro primeiro da Companhia do Gra√µ Par√°, e Maranha√µ.
+Guerra, no livro primeiro da Companhia do Graı Par·, e Maranhaı.
 
 
 
 
 
 End of the Project Gutenberg EBook of Ley, porque V. Magestade ha por bem
-restituir aos indios do Gr√£o Par√°, e Maranh√£o a liberdade das suas pessoas, e bens etc., by Anonymous
+restituir aos indios do Gr„o Par·, e Maranh„o a liberdade das suas pessoas, e bens etc., by Anonymous
 
 *** END OF THIS PROJECT GUTENBERG EBOOK LEY, PORQUE V. MAGESTADE ***
 
@@ -490,7 +490,7 @@ restituir aos indios do Gr√£o Par√°, e Maranh√£o a liberdade das suas pessoas, e
 This and all associated files of various formats will be found in:
         http://www.gutenberg.org/2/4/2/8/24289/
 
-Produced by J√∫lio Reis and Manuela Alves. The images for
+Produced by J˙lio Reis and Manuela Alves. The images for
 this file were generously made available by Biblioteca
 Nacional Digital (hhtp://bnd.bn.pt).
 

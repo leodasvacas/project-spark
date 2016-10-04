@@ -1,4 +1,4 @@
-The Project Gutenberg EBook of CanÃ§Ãµes, by AntÃ³nio Botto
+The Project Gutenberg EBook of Canções, by António Botto
 
 This eBook is for the use of anyone anywhere at no cost and with
 almost no restrictions whatsoever.  You may copy it, give it away or
@@ -6,11 +6,11 @@ re-use it under the terms of the Project Gutenberg License included
 with this eBook or online at www.gutenberg.org
 
 
-Title: CanÃ§Ãµes
+Title: Canções
 
-Author: AntÃ³nio Botto
+Author: António Botto
 
-Commentator: Jaime de BalsemÃ£o
+Commentator: Jaime de Balsemão
 
 Release Date: September 19, 2007 [EBook #22679]
 
@@ -18,7 +18,7 @@ Language: Portuguese
 
 Character set encoding: ISO-8859-1
 
-*** START OF THIS PROJECT GUTENBERG EBOOK CANÃ‡Ã•ES ***
+*** START OF THIS PROJECT GUTENBERG EBOOK CANÇÕES ***
 
 
 
@@ -29,7 +29,7 @@ Produced by Vasco Salgado
 
 
 
-+CANÃ‡Ã•ES+
++CANÇÕES+
 
 
 
@@ -38,20 +38,20 @@ DO MESMO AUCTOR
 
 TROVAS
 CANTIGAS DE SAUDADE
-CANTARES--_com illustraÃ§Ãµes de Antonio Carneiro
+CANTARES--_com illustrações de Antonio Carneiro
 e musicas de Nicolau d'Albuquerque._
-CANÃ‡Ã•ES
+CANÇÕES
 
 
 A SEGUIR:
 
 SONETOS
-O ROMANCE D'ALCÃCER
+O ROMANCE D'ALCÁCER
 
 
 
 
-+CANÃ‡Ã•ES+
++CANÇÕES+
 
 POR
 
@@ -60,16 +60,16 @@ ANTONIO BOTTO
 
 
 
-_Todos os exemplares sÃ£o rubricados
+_Todos os exemplares são rubricados
 pelo auctor_
 
 
 
 
-+O homem serÃ¡ sempre o mortal
++O homem será sempre o mortal
 enigma; a sombra das sombras.+
 
-ANTÃ“NIO
+ANTÓNIO
 
 
 
@@ -78,60 +78,60 @@ PALAVRAS
 
 SOBRE O ARTISTA E SOBRE O LIVRO
 
-+CANÃ‡Ã•ES+
++CANÇÕES+
 
 POR
 
-JAYME DE BALSEMÃƒO
+JAYME DE BALSEMÃO
 
 
 
 
-CANÃ‡Ã•ES! _CanÃ§Ãµes Ã¡ vida, nÃ£o lamentos aos destinos. CanÃ§Ãµes Ã¡ FÃ³rma
-que Ã© linda, portanto, canÃ§Ãµes a Deus. Ã‰ assim que_ AntÃ³nio Botto _canta
+CANÇÕES! _Canções á vida, não lamentos aos destinos. Canções á Fórma
+que é linda, portanto, canções a Deus. É assim que_ António Botto _canta
 o homem, o qual vencido pende para a terra sob o peso dos sentidos; o
 homem escravo, o rei do Universo. Canta a humanidade e as coisas
 terranas para lhes louvar a existencia involuntaria; canta a humanidade
-como elle sabe que ella Ã© e nÃ£o como elle desejaria que ella fosse. Ã‰
-esta a mais suave das philosophias, Ã© esta toda a sua philosophia,
-creando na matÃ©ria uma arte deslumbrante de liturgias, dando a essa
-matÃ©ria toda uma origem divina. Se Ã© n'ella que germina a fÃ³rma, a cÃ´r,
-o som, olhar attento Ã© rezar em silencio._ AntÃ³nio Botto _louva e nÃ£o
+como elle sabe que ella é e não como elle desejaria que ella fosse. É
+esta a mais suave das philosophias, é esta toda a sua philosophia,
+creando na matéria uma arte deslumbrante de liturgias, dando a essa
+matéria toda uma origem divina. Se é n'ella que germina a fórma, a côr,
+o som, olhar attento é rezar em silencio._ António Botto _louva e não
 maldiz, porque atravessa a existencia para comprehender. E, louvando,
 segue a eminencia do pensar helleno, a grande harmonia dos dois mais
-nobres principios;--a arte e o critÃ©rio; porque medital-os Ã© liar n'um
-quietismo magnanimo as dolorosas imagens das nossas vidas. CanÃ§Ãµes
-d'antigo requinte, canÃ§Ãµes de quente Sul. CanÃ§Ãµes Ã¡ mÃ³rna volÃºpia que
-adormece a louca angustia da razÃ£o. CanÃ§Ãµes de renascenÃ§a, pelo sabÃ´r
-da verdade e pela technica da maneira; canÃ§Ãµes onde a mudez nÃ£o Ã© uma
+nobres principios;--a arte e o critério; porque medital-os é liar n'um
+quietismo magnanimo as dolorosas imagens das nossas vidas. Canções
+d'antigo requinte, canções de quente Sul. Canções á mórna volúpia que
+adormece a louca angustia da razão. Canções de renascença, pelo sabôr
+da verdade e pela technica da maneira; canções onde a mudez não é uma
 crueza hostil, mas um designio de sabedorias, como nos dias gloriosos
-de Cyrena, das frautas encantadas, d'Eleusus... CanÃ§Ãµes, ao amÃ´r,--o
-triste desatino; ao mar gemendo lascivas, Ã¡s sombras acolhedoras, ao
-cheiro acre das terras. CanÃ§Ãµes ao bello vinho amigo, que afasta os
-corpos famintos, e, a sÃ³s, sem conivencias, nÃ£o pedindo e nÃ£o
+de Cyrena, das frautas encantadas, d'Eleusus... Canções, ao amôr,--o
+triste desatino; ao mar gemendo lascivas, ás sombras acolhedoras, ao
+cheiro acre das terras. Canções ao bello vinho amigo, que afasta os
+corpos famintos, e, a sós, sem conivencias, não pedindo e não
 carpindo,--sem comico e sem tragedia--canta a vida que sorri e olha
-os tempos sem mÃªdo._ CanÃ§Ãµes cheias de sombra e cheias d'intenÃ§Ã£o_;
-canÃ§Ãµes de belleza porque sÃ£o humanas e porque sÃ£o raras. Humanas,
+os tempos sem mêdo._ Canções cheias de sombra e cheias d'intenção_;
+canções de belleza porque são humanas e porque são raras. Humanas,
 dizendo a febre de todo o goso, a luxuria que conquista, toda a posse
 que tortura; raras pela forma, pelo conceito, pelo sentir. Cantando a
-imperfeiÃ§Ã£o o poeta canta a vida.
+imperfeição o poeta canta a vida.
 
 
 Doando assim por essa gentil alchimia, a mais excellente das sciencias
-com a mais illustre das artes, o poeta das_ CanÃ§Ãµes_, prefere, ao
+com a mais illustre das artes, o poeta das_ Canções_, prefere, ao
 repouso feliz do muito desprezar, o soffrimento constante do muito
-amar. A vida seria melhor se n'ella nÃ£o existissem coisas tÃ£o bellas! Ã‰
-a FÃ³rma que o enleva, essa fÃ³rma que o tempo absorve e devora com a
-vida dos artistas, porque a arte a ilumina. Essa fÃ³rma onde, por vezes,
-palpita um desejo decadente de perfeiÃ§Ãµes allÃ¡das e que sÃ£o a decadencia
-d'estas canÃ§Ãµes sentidas. Porque decadencia Ã© como um tÃ©dio cheio de
+amar. A vida seria melhor se n'ella não existissem coisas tão bellas! É
+a Fórma que o enleva, essa fórma que o tempo absorve e devora com a
+vida dos artistas, porque a arte a ilumina. Essa fórma onde, por vezes,
+palpita um desejo decadente de perfeições alládas e que são a decadencia
+d'estas canções sentidas. Porque decadencia é como um tédio cheio de
 revolta motivado pela tortura da belleza para renascer no requinte da
 esthetica; maneira de protesto genial presidindo a todos os resurgimentos
-nas Artes. Ã‰ a Grecia douta e augusta, que renasce nos versos de_ AntÃ³nio
-Botto_, como em todas as renascenÃ§as; renasce n'uma visÃ£o de fumo lento,
-erguendo-se das Ã¡ras votivas ao dominio dos Deuses humanos, a esse Hades
-lumbroso de murtas, divino de comprehensÃµes, a essa mansÃ£o da
-Intelligencia, dirigindo as cellebraÃ§Ãµes nas vestalias como a humanidade
+nas Artes. É a Grecia douta e augusta, que renasce nos versos de_ António
+Botto_, como em todas as renascenças; renasce n'uma visão de fumo lento,
+erguendo-se das áras votivas ao dominio dos Deuses humanos, a esse Hades
+lumbroso de murtas, divino de comprehensões, a essa mansão da
+Intelligencia, dirigindo as cellebrações nas vestalias como a humanidade
 nos peitos._
 
 
@@ -140,67 +140,67 @@ O homem cede ao desejo
 como a nuvem cede ao vento.+
 
 
-_E_ AntÃ³nio Botto _louva esse desejo regendo as acÃ§Ãµes do homem, porque
-o homem d'elle nasceu. O amÃ´r cantado assim, nÃ£o Ã© o opprobrio que
+_E_ António Botto _louva esse desejo regendo as acções do homem, porque
+o homem d'elle nasceu. O amôr cantado assim, não é o opprobrio que
 avilta, mas o culto que ennobrece. Cantar a humanidade para a tornar
-mais bella!... Como os egypcios cadenciando-lhe o gesto nas danÃ§as, como
-os gregos cultivando-lhe a graÃ§a dos gymnasios, como os romanos nos
-libames a Jupiter. N'estas canÃ§Ãµes, o amÃ´r, o vinho, os festins das
-carnes amorosas, as penumbras languidas sÃ£o narcoticos preciosos onde
-o poeta afoga as dÃ´res do pensamento. Ã‰ Venus, Ã‰ros ou Aphrodite; Ã© o
-AmÃ´r Universal que, despreza a fome, a sÃªde, a fadiga, para lanÃ§ar no
-mesmo tropel os sexos, as castas e as intelligencias, o amÃ´r que tenta
-adormecer, com o seu macabro e com o seu grotÃªsco nos braÃ§os tolhidos
-da NoÃ§Ã£o; o amÃ´r, Grande e Unico como o SÃ³l, embora disperso em muitas
-laminas doiradas;--o amÃ´r que ergue n'estas canÃ§Ãµes o seu grito
-immortal; Ã³ra varonil investindo na exaltaÃ§Ã£o da conquista, Ã³ra femenil
-abandonando-se na ancia da dÃ¡diva; palpitando nos peitos viris, vencendo
-nos seios amorosos. Ã‰ o amÃ´r profano, profano como todos os amÃ´res
-humanos, os mais divinos ou os mais terrÃªnos. Ã‰ tudo que se arrasta,
+mais bella!... Como os egypcios cadenciando-lhe o gesto nas danças, como
+os gregos cultivando-lhe a graça dos gymnasios, como os romanos nos
+libames a Jupiter. N'estas canções, o amôr, o vinho, os festins das
+carnes amorosas, as penumbras languidas são narcoticos preciosos onde
+o poeta afoga as dôres do pensamento. É Venus, Éros ou Aphrodite; é o
+Amôr Universal que, despreza a fome, a sêde, a fadiga, para lançar no
+mesmo tropel os sexos, as castas e as intelligencias, o amôr que tenta
+adormecer, com o seu macabro e com o seu grotêsco nos braços tolhidos
+da Noção; o amôr, Grande e Unico como o Sól, embora disperso em muitas
+laminas doiradas;--o amôr que ergue n'estas canções o seu grito
+immortal; óra varonil investindo na exaltação da conquista, óra femenil
+abandonando-se na ancia da dádiva; palpitando nos peitos viris, vencendo
+nos seios amorosos. É o amôr profano, profano como todos os amôres
+humanos, os mais divinos ou os mais terrênos. É tudo que se arrasta,
 tudo que se lamenta em redor do homem, supplicando um immensa simpathia
-para a grande e inalteravel Animalidade, a qual Ã© como um vasto campo,
+para a grande e inalteravel Animalidade, a qual é como um vasto campo,
 onde homens, insectos, e gados, se agitam, entre a poderosa serenidade
 das formas vegetaes, sob a mesma claridade fecundante, sob a mesma
 armadura de velho oiro que os une e assimilla.
 
 
-A inspiraÃ§Ã£o do poeta Ã© nobre e ousada, porque Ã© dirigida pelo carinho
+A inspiração do poeta é nobre e ousada, porque é dirigida pelo carinho
 tutelar da belleza e da humanidade. Elle faz da sonoridade das palavras
-a escolha mais rythmica, mas quando essa phonetica obedeÃ§a doutamente
-Ã¡ minucia exigente do seu espirito raro d'estylista alexandrino, ornado,
-expandido nas bellas lettras. A sua Arte Ã© toda harmoniosa d'ironia;
-d'essa ironia, d'essa deidade antiga forÃ§ando a intelligencia a perdoar
-aos homens a sua presenÃ§a ruidosa e feroz, para a posse da mais gentil
-das coragens:--sorrir! EntÃ£o_ AntÃ³nio Botto _nÃ£o faz da eterna
+a escolha mais rythmica, mas quando essa phonetica obedeça doutamente
+á minucia exigente do seu espirito raro d'estylista alexandrino, ornado,
+expandido nas bellas lettras. A sua Arte é toda harmoniosa d'ironia;
+d'essa ironia, d'essa deidade antiga forçando a intelligencia a perdoar
+aos homens a sua presença ruidosa e feroz, para a posse da mais gentil
+das coragens:--sorrir! Então_ António Botto _não faz da eterna
 ignorancia uma tortura, mas uma suave piedade. Dentro do mysterio
 Universal:--do seio que sente e concebe, da semente que germina e
-emsombra, nada serÃ¡ espantoso, nada serÃ¡ extranho. As combinaÃ§Ãµes
-abstractas o poeta cede as combinaÃ§Ãµes sensiveis; a emoÃ§Ã£o pura, a
+emsombra, nada será espantoso, nada será extranho. As combinações
+abstractas o poeta cede as combinações sensiveis; a emoção pura, a
 sensibilidade consciente, a toada muzical e branda. A sua tranquilla
-acceitaÃ§Ã£o dos dilÃªmas Ã­mmutaveis pairando na vida, a sua comprehensÃ£o
-logica, a sua natural intuÃ­Ã§Ã£o, animam-nos d'um prazer juvenil ao fallar
-do Artista e das suas_ CanÃ§Ãµes_. Cantam ellas a trÃ©va do saber mesquinho
-dos homens, a illusÃ£o d'onde nascem as angustias para a posse das
+acceitação dos dilêmas ímmutaveis pairando na vida, a sua comprehensão
+logica, a sua natural intuíção, animam-nos d'um prazer juvenil ao fallar
+do Artista e das suas_ Canções_. Cantam ellas a tréva do saber mesquinho
+dos homens, a illusão d'onde nascem as angustias para a posse das
 venturas, a amizade nos peitos como desenhos pueris na superficie das
-aguas. Cantam dÃ´ces crepusculos, onde o Ideal, na solidÃ£o e na morte,
-Ã© sempre perfeito porque fÃ³ge como os SÃ³es. SÃ£o canÃ§Ãµes onde a angustia
-Ã© uma elegia de condescendencias. O homem nascendo para acreditar e
-para servir, o seu fanatismo vibra nÃ£o das verdades mais demonstradas,
-mas, das illusÃµes mais bellas. Essa illusÃ£o Ã© a Arte, essa Arte uma
-dÃ´ce ironia de confÃ´rto bello. E o homem vae sempre imaginando e
-soffrendo. Entre PlatÃ£o e Phidias, Lucrecio e Virgilio, os Medicis e
+aguas. Cantam dôces crepusculos, onde o Ideal, na solidão e na morte,
+é sempre perfeito porque fóge como os Sóes. São canções onde a angustia
+é uma elegia de condescendencias. O homem nascendo para acreditar e
+para servir, o seu fanatismo vibra não das verdades mais demonstradas,
+mas, das illusões mais bellas. Essa illusão é a Arte, essa Arte uma
+dôce ironia de confôrto bello. E o homem vae sempre imaginando e
+soffrendo. Entre Platão e Phidias, Lucrecio e Virgilio, os Medicis e
 Miguel-Angelo, Luiz XIV e Racine, Goethe e Beethoven, existe a mesma
-comunhÃ£o de luminosidade divina, onde Jesus e SÃ£o Francisco d'Assis,
-passam amenamente, para fazer reinar no coraÃ§Ã£o dos homens uma
-esperanÃ§a sem fim e um encantamento sem verdade. Cantar a bondade ou
-a belleza humana, Ã© reconsiliar a humanidade com a sua impudicia e o
-seu egoismo.--Impudicia e egoismo, perduraveis razÃµes de todo o sÃªr
-humano! Ã‰ por essa orchestraÃ§Ã£o sublime que o tÃ©dio cede Ã¡ vida uma
-morÃ¡da d'eleiÃ§Ã£o, uma resignaÃ§Ã£o consiliante a salutar. Ã‰ assim pois,
-colhendo d'um clamÃ´r pavoroso, uma symphonia unisona, vestindo com uma
+comunhão de luminosidade divina, onde Jesus e São Francisco d'Assis,
+passam amenamente, para fazer reinar no coração dos homens uma
+esperança sem fim e um encantamento sem verdade. Cantar a bondade ou
+a belleza humana, é reconsiliar a humanidade com a sua impudicia e o
+seu egoismo.--Impudicia e egoismo, perduraveis razões de todo o sêr
+humano! É por essa orchestração sublime que o tédio cede á vida uma
+moráda d'eleição, uma resignação consiliante a salutar. É assim pois,
+colhendo d'um clamôr pavoroso, uma symphonia unisona, vestindo com uma
 preciosa ironia os penosos fatalismos das realidades, e excellando na
-dificil maneira de ser simples, que_ AntÃ³nio Botto _entÃ´a primorosamente,
-entre sÃªdas e vinhos, a negra historia dos mortaes:--O AMÃ”R E A DOR._
+dificil maneira de ser simples, que_ António Botto _entôa primorosamente,
+entre sêdas e vinhos, a negra historia dos mortaes:--O AMÔR E A DOR._
 
 
 
@@ -212,22 +212,22 @@ entre sÃªdas e vinhos, a negra historia dos mortaes:--O AMÃ”R E A DOR._
 
 A noite
 Suavemente descia;
-E eu nos teus braÃ§os deitÃ¡do
-AtÃ© sonhei que morria.
+E eu nos teus braços deitádo
+Até sonhei que morria.
 
 E via
-Goivos e cravos aos mÃ³lhos;
+Goivos e cravos aos mólhos;
 Um Christo crucificado;
 Nos teus olhos,
 Suavidade e frieza;
-Damasco rÃ´xo, cinzento,
-Rendas, velludos puÃ­dos,
+Damasco rôxo, cinzento,
+Rendas, velludos puídos,
 Perfumes caros entornados,
-RumÃ´r de vento em surdina,
-Insenso, rÃ©zas, brocados;
+Rumôr de vento em surdina,
+Insenso, rézas, brocados;
 Penumbra, sinos dobrando;
 Vellas ardendo;
-Guitarras, soluÃ§os, pragas,
+Guitarras, soluços, pragas,
 E eu... devagar morrendo.
 
 O teu rosto moreninho,
@@ -239,13 +239,13 @@ Estava todo coberto de lucto.
 
 Depois, anciosamente,
 Procurei a tua boca,
-A tua boca sadÃ­a;
-BeijÃ¡mo-nos doidamente...
+A tua boca sadía;
+Beijámo-nos doidamente...
 --Era dia!
 
 E os nossos corpos unidos,
 Como corpos sem sentidos,
-No chÃ£o rolaram... e assim ficaram!...
+No chão rolaram... e assim ficaram!...
 
 
 
@@ -256,7 +256,7 @@ No chÃ£o rolaram... e assim ficaram!...
 
 
 Por uma noite de outomno
-LÃ¡ n'essa nave sombrÃ­a,
+Lá n'essa nave sombría,
 Hei-de contigo deitar-me,
 Mulher branca e muda e fria!
 
@@ -266,12 +266,12 @@ Mulher que nunca me olhaste,
 Que nunca pensaste em mim...
 
 E quando, no fim do mundo,
-A trombÃªta, alÃ©m, se ouvir,
+A trombêta, além, se ouvir,
 Apertar-te-hei mais ainda,
---NÃ£o te deixarei partir!
+--Não te deixarei partir!
 
 A tua boca formosa
-SerÃ¡ sempre dos meus beijos;
+Será sempre dos meus beijos;
 E o teu corpo a minha patria,
 A patria dos meus desejos.
 
@@ -283,41 +283,41 @@ A patria dos meus desejos.
 
 
 
-AndÃ¡va a lua nos cÃ©us
+Andáva a lua nos céus
 Com o seu bando de estrellas.
 
 Na minha alcova,
 Ardiam vellas,
 Em candelabros de bronze.
 
-Pelo chÃ£o, em desalinho,
+Pelo chão, em desalinho,
 Os velludos pareciam
 Ondas de sangue e ondas de vinho.
 
 Elle olhava-me scismado;
 E eu,
 Placidamente, fumava,
-Vendo a lua branca e nÃºa
-Que pelos cÃ©us caminhava.
+Vendo a lua branca e núa
+Que pelos céus caminhava.
 
 Aproximou-se; e em delirio
-Procurou Ã¡vidamente,
-E Ã¡vidamente beijou
+Procurou ávidamente,
+E ávidamente beijou
 A minha boca de cravo
 Que a beijar se recusou.
 
 Arrastou-me para Elle,
 E, encostado ao meu hombro,
 Fallou-me d'um pagem loiro
-Que morrÃªra de Saudade,
-Ã beira-mar, a cantar...
+Que morrêra de Saudade,
+Á beira-mar, a cantar...
 
-Olhei o cÃ©u!
+Olhei o céu!
 Agora, a lua, fugia,
 Entre nuvens que tornavam
-A linda noite sombrÃ­a.
+A linda noite sombría.
 
-DÃ©ram-se as bocas n'um beijo,
+Déram-se as bocas n'um beijo,
 --Um beijo nervoso e lento...
 O homem cede ao desejo
 Como a nuvem cede ao vento.
@@ -326,11 +326,11 @@ Vinha longe a madrugada.
 
 Por fim,
 Largando esse corpo
-Que adormecÃªra cansado
-E que eu beijÃ¡ra loucamente
+Que adormecêra cansado
+E que eu beijára loucamente
 Sem sentir,
 Bebia vinho, perdidamente,
-Bebia vinho... atÃ© cahir.
+Bebia vinho... até cahir.
 
 
 
@@ -345,30 +345,30 @@ Meu verdadeiro conforto
 E meu verdadeiro amigo!
 
 Quando a sombra, quando a noite
-Dos altos cÃ©us vem descendo,
-A minha dÃ´r,
-Estremecendo, acÃ³rda...
+Dos altos céus vem descendo,
+A minha dôr,
+Estremecendo, acórda...
 
-A minha dÃ´r Ã© um leÃ£o
+A minha dôr é um leão
 Que lentamente mordendo
-Me devora o coraÃ§Ã£o.
+Me devora o coração.
 
-Canto e chÃ³ro amargamente;
-Mas a dÃ´r, indiferente,
-ContinÃºa...
+Canto e chóro amargamente;
+Mas a dôr, indiferente,
+Continúa...
 
-EntÃ£o,
-FebrÃ­l, quase louco,
+Então,
+Febríl, quase louco,
 Corro a ti, vinho louvado!
---E a minha dÃ´r adormece,
-E o leÃ£o Ã© socegado.
+--E a minha dôr adormece,
+E o leão é socegado.
 
-Quanto mais bÃªbo mais dÃ³rme:
+Quanto mais bêbo mais dórme:
 Vinho adorado,
-O teu poder Ã© enorme!
+O teu poder é enorme!
 
 E eu vos digo, almas em chaga,
-Ã“ almas tristes sangrando:
+Ó almas tristes sangrando:
 Andarei sempre
 Em constante bebedeira!
 
@@ -386,34 +386,34 @@ E a morte por companheira!
 
 
 Foi n'uma tarde de Julho.
-ConversÃ¡vamos a mÃªdo,
+Conversávamos a mêdo,
 --Receios de trahir
-Um tristissimo segrÃªdo.
+Um tristissimo segrêdo.
 
-Sim, duvidÃ¡vamos ambos:
-Elle nÃ£o sabia bem
+Sim, duvidávamos ambos:
+Elle não sabia bem
 Que o amava loucamente
 Como nunca amei ninguem.
-E eu nÃ£o acreditava
+E eu não acreditava
 Que era por mim que o seu olhar
 De lagrimas se toldava...
 
 Mas, a duvida perdeu-se;
-Fallou alto o coraÃ§Ã£o!
---E as nossas taÃ§as
+Fallou alto o coração!
+--E as nossas taças
 Foram erguidas
-Com infinita perturbaÃ§Ã£o!
+Com infinita perturbação!
 
-Os nossos braÃ§os
-Formaram laÃ§os.
+Os nossos braços
+Formaram laços.
 
-E, aos beijos, Ã©brios, tombÃ¡mos;
---Cheios d'amÃ´r e de vinho!
+E, aos beijos, ébrios, tombámos;
+--Cheios d'amôr e de vinho!
 
-(Uma suplica soÃ¡va:)
+(Uma suplica soáva:)
 
-Â«Agora... morre commigo,
-Meu amÃ´r, meu amÃ´r... devagarinho!...Â»
+«Agora... morre commigo,
+Meu amôr, meu amôr... devagarinho!...»
 
 
 
@@ -428,17 +428,17 @@ Olhando para mim mas distrahida;
 E quando nos meus olhos te encontraste,
 Eu vi nos teus a luz da minha vida.
 
-Nas tuas mÃ£os, as minhas, apertaste.
+Nas tuas mãos, as minhas, apertaste.
 Olhando para mim como vencida,
-Â«...quanto, quanto...Â»--de novo murmuraste
+«...quanto, quanto...»--de novo murmuraste
 E a tua boca deu-se-me rendida!
 
 Os nossos beijos longos e anciosos,
 Trocavam-se frementes!--Ah! ninguem
 Sabe beijar melhor que os amorosos!
 
-Quanto te quero?!--Eu posso lÃ¡ dizer!...
---Um grande amÃ´r sÃ³ se avalia bem
+Quanto te quero?!--Eu posso lá dizer!...
+--Um grande amôr só se avalia bem
 Depois de se perder.
 
 
@@ -449,34 +449,34 @@ Depois de se perder.
 
 
 
-Anda, vem... Â¿por que te nÃ©gas,
-Carne morÃªna, toda perfume?
-Â¿Por que te cÃ¡las,
+Anda, vem... ¿por que te négas,
+Carne morêna, toda perfume?
+¿Por que te cálas,
 Por que esmoreces
-Boca vermÃªlha,-rosa de lume!
+Boca vermêlha,-rosa de lume!
 
 Se a luz do dia
-Te cÃ³bre de pÃªjo,
+Te cóbre de pêjo,
 Esperemos a noite presos n'um beijo.
 
-DÃ¡-me o infinito goso
+Dá-me o infinito goso
 De contigo adormecer,
 Devagarinho, sentindo
-O arÃ´ma e o calÃ´r
-Da tua carne,-meu amÃ´r!
+O arôma e o calôr
+Da tua carne,-meu amôr!
 
-E ouve, mancebo alÃ¡do,
-NÃ£o entristeÃ§as, nÃ£o penses,
---SÃª contente,
+E ouve, mancebo aládo,
+Não entristeças, não penses,
+--Sê contente,
 Porque nem todo o prazer
 Tem peccado...
 
-Anda, vem... dÃ¡-me o teu corpo
+Anda, vem... dá-me o teu corpo
 Em troca dos meus desejos;
 
 Tenho Saudades da vida!
 
-Tenho sÃªde dos teus beijos!
+Tenho sêde dos teus beijos!
 
 
 
@@ -491,11 +491,11 @@ O contrario a toda a gente;
 E, n'este mundo de enganos,
 Falla verdade quem mente.
 Tu dizes que a minha boca
-JÃ¡ nÃ£o acorda desejos,
-JÃ¡ nÃ£o aquece outra boca,
-JÃ¡ nÃ£o merece os teus beijos;
+Já não acorda desejos,
+Já não aquece outra boca,
+Já não merece os teus beijos;
 Mas, tem cuidado commigo,
-NÃ£o procures ser ausente:
+Não procures ser ausente:
 --Se me deixares, eu digo
 O contrario a toda a gente.
 
@@ -508,23 +508,23 @@ O contrario a toda a gente.
 
 
 Ouve, meu anjo:
-Â¿Se eu beijÃ¡sse a tua pÃ©l?
-Â¿Se eu beijÃ¡sse a tua boca
-Onde a saliva Ã© um mÃ©l?...
+¿Se eu beijásse a tua pél?
+¿Se eu beijásse a tua boca
+Onde a saliva é um mél?...
 
 Quiz afastar-se mostrando
 Um sorriso desdenhoso;
 Mas ai!
 --A carne do assassino
-Ã‰ como a do virtuoso.
+É como a do virtuoso.
 
 N'uma attitude elegante,
 Mysteriosa, gentil,
 Deu-me o seu corpo doirado
-Que eu beijei quase febrÃ­l.
+Que eu beijei quase febríl.
 
-Na vidraÃ§a da janella,
-A chuva, lÃ©ve, tinia...
+Na vidraça da janella,
+A chuva, léve, tinia...
 
 Elle apertou-me, cerrando
 Os olhos para sonhar...
@@ -539,14 +539,14 @@ Como um perfume no ar!
 
 
 
-Quem Ã© que abraÃ§a o meu corpo
+Quem é que abraça o meu corpo
 Na penumbra do meu leito?
-Quem Ã© que beija o meu rosto,
-Quem Ã© que morde o meu peito?
-Quem Ã© que falla da morte,
+Quem é que beija o meu rosto,
+Quem é que morde o meu peito?
+Quem é que falla da morte,
 Docemente, ao meu ouvido?
 
-Ã‰s tu, Senhor dos meus olhos,
+És tu, Senhor dos meus olhos,
 E sempre no meu sentido.
 
 
@@ -558,19 +558,19 @@ E sempre no meu sentido.
 
 
 Tenho a certeza
-De que entre nÃ³s tudo acabou.
+De que entre nós tudo acabou.
 Deixal-o!
 Bemdita seja a tristesa!
---NÃ£o ha bem que sempre dure
+--Não ha bem que sempre dure
 E o meu bem pouco durou.
 
-NÃ£o levantes os teus braÃ§os,
+Não levantes os teus braços,
 Para de novo cingir
 A minha carne de seda;
 --Vou deixar-te... vou partir.
 
 E se um dia te lembrares,
-Dos meus olhos cÃ´r de bronze
+Dos meus olhos côr de bronze
 E do meu corpo franzino,
 Acalma
 A tua sensualidade,
@@ -598,29 +598,29 @@ E eu, para mais te prender,
 --N'esse dia...
 
 Pintei de negro os meus olhos
-E de rÃ´xo a minha boca.
-As rosas eram aos mÃ³lhos
+E de rôxo a minha boca.
+As rosas eram aos mólhos
 Para a noite rubra e louca!
 
 Entornei sobre o meu corpo,
---Que fÃ´ra delgado e bello!
+--Que fôra delgado e bello!
 O perfume mais extranho e mais subtil;
-E um brocado rÃ´xo e verde
+E um brocado rôxo e verde
 Envolveu a minha carne
 Macerada e varonil.
 Os meus hombros florentinos,
-CobÃ©rtos de pedraria,
+Cobértos de pedraria,
 Eram chagas luminosas
 Alumiando o meu corpo
-Todo em fÃ©bre e nostalgia.
-Nas minhas mÃ£os de cambraia,
+Todo em fébre e nostalgia.
+Nas minhas mãos de cambraia,
 As esmeraldas scintillavam;
-E as pÃ©rolas nos meus braÃ§os,
+E as pérolas nos meus braços,
 Murmuravam...
 Desmanchado, o meu cabello,
 Em ondas largas, cahia,
 Na minha fronte
-Ligeiramente sombrÃ­a.
+Ligeiramente sombría.
 
 Estava pallido e dir-se-hia
 Que a pallidez aumentava
@@ -632,17 +632,17 @@ Um sorriso de tristeza.
 A noite vinha tombando.
 
 E, como tardasses,
-Fiquei-me, sentÃ¡do, olhando
+Fiquei-me, sentádo, olhando
 O meu vulto reflectido
 No espelho de crystal;
 
 E afinal,
 Nem frescura, nem belleza,
-No meu rÃ´sto descobri!
+No meu rôsto descobri!
 
---Ã“ morte, nÃ£o me procures!
-E tu, meu amÃ´r, nÃ£o venhas!...
-                      --Eu jÃ¡ morri.
+--Ó morte, não me procures!
+E tu, meu amôr, não venhas!...
+                      --Eu já morri.
 
 
 
@@ -652,30 +652,30 @@ E tu, meu amÃ´r, nÃ£o venhas!...
 
 
 
-JÃ¡ na minha alma se apagam
+Já na minha alma se apagam
 As alegrias que eu tive;
-SÃ³ quem ama tem tristezas,
-Mas quem nÃ£o ama nÃ£o vive.
+Só quem ama tem tristezas,
+Mas quem não ama não vive.
 
-Andam pÃ©talas e fÃ´lhas
-Bailando no Ã¡r sombrÃ­o;
-E as lÃ¡grimas, dos meus olhos,
-VÃ£o correndo ao desafio.
+Andam pétalas e fôlhas
+Bailando no ár sombrío;
+E as lágrimas, dos meus olhos,
+Vão correndo ao desafio.
 
 Em tudo vejo Saudades!
-A terra parece mÃ³rta.
---Ã“ vento que tudo lÃ©vas,
-NÃ£o venhas Ã¡ minha pÃ³rta!
+A terra parece mórta.
+--Ó vento que tudo lévas,
+Não venhas á minha pórta!
 
 E as minhas rosas vermelhas,
 As rosas, no meu jardim,
 Parecem, assim cahidas,
 Restos de um grande festim!
 
-Meu coraÃ§Ã£o desgraÃ§ado,
-Bebe ainda mais licÃ´r!
+Meu coração desgraçado,
+Bebe ainda mais licôr!
 --Que importa morrer amando,
-Que importa morrer d'amÃ´r!
+Que importa morrer d'amôr!
 
 E vem ouvir bem-amado
 Senhor que eu nunca mais vi:
@@ -691,13 +691,13 @@ Alguma cousa de ti.
 
 
 A vossa carta commove,
-Mas, nÃ£o vos posso acompanhar.
+Mas, não vos posso acompanhar.
 Deixae-me viver em penas;
 --Vou soffrendo e vou sorrindo,
-O meu destino Ã© chorar!
+O meu destino é chorar!
 
-Sim, Ã© certo;--quem eu amo
-Zomba e ri do meu amÃ´r...
+Sim, é certo;--quem eu amo
+Zomba e ri do meu amôr...
 --Que hei-de eu fazer?--Resignar-me,
 Gentillissimo Senhor!
 
@@ -717,10 +717,10 @@ Do que ir em busca de outros que ignoramos.
 
 De Saudades vou morrendo
 E na morte vou pensando:
-Meu amÃ´r, por que partiste,
-Sem me dizer atÃ© quando?
-Na minha boca tÃ£o linda,
-Ã“ alegrias cantae!
+Meu amôr, por que partiste,
+Sem me dizer até quando?
+Na minha boca tão linda,
+Ó alegrias cantae!
 Mas, quem se lembra d'um louco?
 --Enchei-vos d'agua, meus olhos,
 Enchei-vos d'agua, chorae!
@@ -736,7 +736,7 @@ Enchei-vos d'agua, chorae!
 Eu hontem passei o dia
 Ouvindo o que o mar dizia.
 
-ChorÃ¡mos, rimos, cantÃ¡mos.
+Chorámos, rimos, cantámos.
 
 Fallou-me do seu destino,
 Do seu fado...
@@ -744,14 +744,14 @@ Do seu fado...
 Depois, para se alegrar,
 Ergueu-se, e bailando, e rindo,
 Poz-se a cantar
-Um canto molhÃ¡do e lindo.
+Um canto molhádo e lindo.
 
 O seu halito perfuma,
 E o seu perfume faz mal!
 
 Deserto de aguas sem fim.
 
-Ã“ sepultura da minha raÃ§a
+Ó sepultura da minha raça
 Quando me guardas a mim?...
 
 Elle afastou-se calado;
@@ -759,18 +759,18 @@ Eu afastei-me mais triste,
 Mais doente, mais cansado...
 
 Ao longe o Sol na agonia
-De rÃ´xo as aguas tingia.
+De rôxo as aguas tingia.
 
-Â«Voz do mar, mysteriosa;
-Voz do amÃ´r e da verdade!
---Ã“ voz moribunda e dÃ´ce
+«Voz do mar, mysteriosa;
+Voz do amôr e da verdade!
+--Ó voz moribunda e dôce
 Da minha grande Saudade!
 Voz amarga de quem fica,
-TrÃ©mula voz de quem parte...Â»
+Trémula voz de quem parte...»
 . . . . . . . . . . . . . . . .
 
 E os poetas a cantar
-SÃ£o echos da voz do mar!
+São echos da voz do mar!
 
 
 
@@ -780,15 +780,15 @@ impresso durante o mez
 de Fevereiro do anno de
 mil novecentos e vinte e
 um na Imprensa Libanio
-da Silva, em LisbÃ´a._
+da Silva, em Lisbôa._
 
 
 
 
 
-End of the Project Gutenberg EBook of CanÃ§Ãµes, by AntÃ³nio Botto
+End of the Project Gutenberg EBook of Canções, by António Botto
 
-*** END OF THIS PROJECT GUTENBERG EBOOK CANÃ‡Ã•ES ***
+*** END OF THIS PROJECT GUTENBERG EBOOK CANÇÕES ***
 
 ***** This file should be named 22679-8.txt or 22679-8.zip *****
 This and all associated files of various formats will be found in:

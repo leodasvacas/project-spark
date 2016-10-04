@@ -1,4 +1,4 @@
-The Project Gutenberg EBook of MonÃ³logo do Vaqueiro, by Gil Vicente
+The Project Gutenberg EBook of Monólogo do Vaqueiro, by Gil Vicente
 
 This eBook is for the use of anyone anywhere at no cost and with
 almost no restrictions whatsoever.  You may copy it, give it away or
@@ -6,7 +6,7 @@ re-use it under the terms of the Project Gutenberg License included
 with this eBook or online at www.gutenberg.org
 
 
-Title: MonÃ³logo do Vaqueiro
+Title: Monólogo do Vaqueiro
 
 Author: Gil Vicente
 
@@ -18,7 +18,7 @@ Language: Portuguese
 
 Character set encoding: ISO-8859-1
 
-*** START OF THIS PROJECT GUTENBERG EBOOK MONÃ“LOGO DO VAQUEIRO ***
+*** START OF THIS PROJECT GUTENBERG EBOOK MONÓLOGO DO VAQUEIRO ***
 
 
 
@@ -30,92 +30,92 @@ Produced by Vasco Salgado
 
 +GIL VICENTE+
 
-+MONÃ“LOGO DO VAQUEIRO+
++MONÓLOGO DO VAQUEIRO+
 
 
 VERTIDO DO CASTELHANO
 REPRESENTADO NO TEATRO
-D. MARIA II, LISBÃ”A.
+D. MARIA II, LISBÔA.
 
 1910.
 
 
 
 
-+MONÃ“LOGO DO VAQUEIRO+
++MONÓLOGO DO VAQUEIRO+
 
-+OU DA VISITAÃ‡ÃƒO+
-
-
-
-
-Typ. Â«A EditoraÂ»--Conde BarÃ£o, 50--LisbÃ´a
++OU DA VISITAÇÃO+
 
 
 
 
-PERSONAGENS DA PRIMEIRA REPRESENTAÃ‡ÃƒO:
+Typ. «A Editora»--Conde Barão, 50--Lisbôa
 
 
-_Vaqueiro_--IgnacÃ­o Peixoto.
+
+
+PERSONAGENS DA PRIMEIRA REPRESENTAÇÃO:
+
+
+_Vaqueiro_--Ignacío Peixoto.
 _Rainha D. Maria_--Delfina Cruz.
 _Rainha D. Beatriz_--Maria Pia de Almeida.
-_Duquesa de BraganÃ§a_--Palmira Torres.
+_Duquesa de Bragança_--Palmira Torres.
 _El-Rei D. Manuel_--Pinto Costa.
 _Damas_.
-_CortesÃ£os_.
+_Cortesãos_.
 _Pagens_.
 _Pastor que traz o cordeirinho_--Adelina Abranches.
 _Pastores_.
-_PrÃ³logo_--Augusto de Mello.
+_Prólogo_--Augusto de Mello.
 
 
 
 
-+PrÃ³logo+
++Prólogo+
 
 
 
 
-_PrÃ³logo_
+_Prólogo_
 
 
 SENHORAS E SENHORES:
 
-_Em a noite de 8 de junho de 1502, nesta cidade de LisbÃ´a,
-e na prÃ³pria cÃ¢mara da rainha, nasceu o teatro nacional. Nessa
+_Em a noite de 8 de junho de 1502, nesta cidade de Lisbôa,
+e na própria câmara da rainha, nasceu o teatro nacional. Nessa
 noite, mestre Gil,
 
-  um que nÃ£o tem nem ceitil
+  um que não tem nem ceitil
   e faz os aitos a el-rei,
 
-representou, em castelhano, o seu Â«MonÃ³logo do VaqueiroÂ», ou
-da Â«VisitaÃ§Ã£oÂ», que ides ouvir, vertido Ã¡ letra, em portuguÃªs.
+representou, em castelhano, o seu «Monólogo do Vaqueiro», ou
+da «Visitação», que ides ouvir, vertido á letra, em português.
 
-Muito antes de Gil Vicente,--certo Ã© e convem recordÃ¡-lo--o
+Muito antes de Gil Vicente,--certo é e convem recordá-lo--o
 povo representava nas igrejas, na largueza dos seus adros ou
-Ã¡ sombra das suas naves, os entremeses hierÃ¡ticos do nascimento
-e da PaixÃ£o de Christo e das vidas dos santos, e cantava os
-seus vilancicos, bailando suas dansas e folias. Mas o Â«MonÃ³logo
-do VaqueiroÂ», naquela noite memoravel,--que vamos procurar
-reconstituir--comeÃ§ou a fixar e a ordenar o elemento dramÃ¡tico
+á sombra das suas naves, os entremeses hieráticos do nascimento
+e da Paixão de Christo e das vidas dos santos, e cantava os
+seus vilancicos, bailando suas dansas e folias. Mas o «Monólogo
+do Vaqueiro», naquela noite memoravel,--que vamos procurar
+reconstituir--começou a fixar e a ordenar o elemento dramático
 tradicional, dando-lhe vida eterna.
 
-Â«A obra de devoÃ§Ã£o seguinte--diz a rÃºbrica de Gil Vicente--procedeu
-de uma visitaÃ§Ã£o que o autor fez ao parto da muito esclarecida
-rainha D. Maria, e nascimento do mui alto e excelente prÃ­ncepe
-D. JoÃ£o, o terceiro em Portugal de este nome.Â»
+«A obra de devoção seguinte--diz a rúbrica de Gil Vicente--procedeu
+de uma visitação que o autor fez ao parto da muito esclarecida
+rainha D. Maria, e nascimento do mui alto e excelente príncepe
+D. João, o terceiro em Portugal de este nome.»
 
-E foi--continua a rÃºbrica--Â«a primeira coisa que o autor fez
+E foi--continua a rúbrica--«a primeira coisa que o autor fez
 e que em Portugal se representou, estando o mui poderoso rei
-D. Manuel, a rainha D. Beatriz, sua mÃ£e, e a senhora duquesa
-de BraganÃ§a sua filha, na segunda noite do nascimento do dito
-senhor.Â»
+D. Manuel, a rainha D. Beatriz, sua mãe, e a senhora duquesa
+de Bragança sua filha, na segunda noite do nascimento do dito
+senhor.»
 
-Â«E estando esta companhia assim junta--conclue a rÃºbrica--entrou
-um Vaqueiro...Â»
+«E estando esta companhia assim junta--conclue a rúbrica--entrou
+um Vaqueiro...»
 
-Senhoras e senhores: o teatro portuguÃªs vai nascer--e Gil Vicente
+Senhoras e senhores: o teatro português vai nascer--e Gil Vicente
 vai entrar em scena!_
 
 
@@ -127,137 +127,137 @@ vai entrar em scena!_
           SAMUEL USQUE.
 
 
-  _ConsolaÃ§am Ã¡s TribulaÃ§oens de Israel._
+  _Consolaçam ás Tribulaçoens de Israel._
 
 
 
 
-+MonÃ³logo do Vaqueiro+
++Monólogo do Vaqueiro+
 
 
 
 
-Ouve-se, fÃ³ra de scena, o vozeio dos guardas do paÃ§o, e entra
-logo, vestido de briche e ceifÃµes de pele, manta do Alentejo
-ao hombro, e cajado de azambujeiro na mÃ£o, o
+Ouve-se, fóra de scena, o vozeio dos guardas do paço, e entra
+logo, vestido de briche e ceifões de pele, manta do Alentejo
+ao hombro, e cajado de azambujeiro na mão, o
 
 
   _Vaqueiro:_
 
-Apre!, que sete impurrÃµes
-me ferrarram Ã¡ entrada,
+Apre!, que sete impurrões
+me ferrarram á entrada,
 mas eu dei uma punhada
-num de aqueles figurÃµes.
-PorÃ©m, se de tal soubera,
-nÃ£o viera;
-e, vindo, nÃ£o entraria;
+num de aqueles figurões.
+Porém, se de tal soubera,
+não viera;
+e, vindo, não entraria;
 e se entrasse, eu olharia
 de maneira
 que nenhum me chegaria.
-Mas, estÃ¡ feito, estÃ¡ feito;
-e, se se fÃ´r a apurar,
-jÃ¡ que entrei neste lugar
+Mas, está feito, está feito;
+e, se se fôr a apurar,
+já que entrei neste lugar
 tudo me sae em proveito.
-TÃ© me regala ver coisas
-tÃ£o formosas,
-que se fica parvo a vÃª-las!
-Eu remiro-as, porÃ©m ellas,
+Té me regala ver coisas
+tão formosas,
+que se fica parvo a vê-las!
+Eu remiro-as, porém ellas,
 de lustrosas,
-a nÃ³s outros sÃ£o danosas.
+a nós outros são danosas.
 
-  _Â«Fala Ã¡ RainhaÂ»_
+  _«Fala á Rainha»_
 
-Meu caminho nÃ£o errou?
+Meu caminho não errou?
 Deus queira que seja aqui,
-que eu jÃ¡ pouco sei de mi,
+que eu já pouco sei de mi,
 nem deslindo aonde estou.
 Nunca vi cabana tal
 em especial
-tÃ£o notavel de memÃ³ria:
-esta deve ser a glÃ³ria
+tão notavel de memória:
+esta deve ser a glória
 principal
 do paraiso terreal!
 
-Seja que nÃ£o seja, embora,
+Seja que não seja, embora,
 quero dizer ao que venho,
-nÃ£o diga que me detenho
-a nossa aldeia jÃ¡ agora.
-Por ella vim saber cÃ¡
-se certo Ã©
+não diga que me detenho
+a nossa aldeia já agora.
+Por ella vim saber cá
+se certo é
 que pariu Vossa Nobreza?
 Crei' que sim, que Vossa Alteza
-tal estÃ¡
-que de isto mesmo dÃ¡ fÃ©.
+tal está
+que de isto mesmo dá fé.
 
 Mui alegre e prazenteira,
 mui ufana e esclarecida,
 mui perfeita e mui luzida,
 muito mais que de antes era.
-Oh!, que bem tÃ£o principal,
+Oh!, que bem tão principal,
 universal!
 Nunca se viu prazer tal!
-Por minha fÃ©--vou saltar!
+Por minha fé--vou saltar!
 Eh!, zagal,
-diz' lÃ¡, diz' lÃ¡:--saltei mal?
+diz' lá, diz' lá:--saltei mal?
 
-Quem queres que nÃ£o rebente
+Quem queres que não rebente
 de alegria e gasalhado!
-De todos tÃ£o desejado,
-este prÃ­ncepe excelente,
-oh!, que rei terÃ¡ de ser!
+De todos tão desejado,
+este príncepe excelente,
+oh!, que rei terá de ser!
 A meu ver,
-deviamos pÃ´r em gritos
-a alegria e a esperanÃ§a,
-que atÃ© os nossos cabritos
-desde hontem, co'a folganÃ§a,
-nÃ£o cuidam jÃ¡ de pascer.
+deviamos pôr em gritos
+a alegria e a esperança,
+que até os nossos cabritos
+desde hontem, co'a folgança,
+não cuidam já de pascer.
 
-E todo o gado retouÃ§a,
+E todo o gado retouça,
 toda a tristeza se quita;
 com esta nova bemdita
-todo a mundo se alvoroÃ§a.
+todo a mundo se alvoroça.
 oh!, que alegria tamanha,
 a montanha
 e os prados refloriram,
 porque agora se cumpriram
-cÃ¡ nesta mesma cabana
-todas as glÃ³rias de Espanha.
+cá nesta mesma cabana
+todas as glórias de Espanha.
 
-Que grÃ£o prazer sentirÃ¡
-a grÃ£o cÃ´rte castelhana!
-QuÃ£o alegre e quÃ£o ufana
-a vossa mÃ£e nÃ£o estarÃ¡,
-e, Ã¡ uma, toda a naÃ§Ã£o!
-Com razÃ£o,
+Que grão prazer sentirá
+a grão côrte castelhana!
+Quão alegre e quão ufana
+a vossa mãe não estará,
+e, á uma, toda a nação!
+Com razão,
 que de tal rei procedeu
 o mais nobre que nasceu:
-seu pendÃ£o
-nÃ£o sofre comparaÃ§Ã£o.
+seu pendão
+não sofre comparação.
 
-Que pai, que filho, e que mÃ£e!
-Oh!, que avÃ³, que avÃ³s os seus!
+Que pai, que filho, e que mãe!
+Oh!, que avó, que avós os seus!
 E suas tias, tambem!
-Bemdito o Senhor dos cÃ©us
+Bemdito o Senhor dos céus
 porque ell' tal familia tem!
-Viva o prÃ­ncepe logrado
-que Ã© o bem aparentado!
+Viva o príncepe logrado
+que é o bem aparentado!
 
 Se agora vagar tivera
-e depressa nÃ£o viera,
-maldito seja eu entÃ£o
-se aqui a conta nÃ£o dera
-de esta sua geraÃ§Ã£o.
-SerÃ¡ rei Dom JoÃ£o Terceiro,
+e depressa não viera,
+maldito seja eu então
+se aqui a conta não dera
+de esta sua geração.
+Será rei Dom João Terceiro,
 o herdeiro
 da fama que nos deixaram,
 nos tempos em que reinaram,
 o Segundo e o Primeiro
 e ind'outros que passaram.
 
-Mas ficaram-me lÃ¡ fÃ³ra
+Mas ficaram-me lá fóra
 uns trinta ou mais companheiros,
 pastores, zagaes, porqueiros,
-e vou chamÃ¡-los agora;
+e vou chamá-los agora;
 elles trazem p'ra o nascido
 esclarecido,
 ovos e leite fresquinhos,
@@ -266,15 +266,15 @@ mais trouxeram
 queijos, mel--o que puderam...
 
 E ora os quero ir chamar,
-mas, por via dos puxÃµes,
-agarrem os figurÃµes
+mas, por via dos puxões,
+agarrem os figurões
 p'ra gente poder entrar.
 
 
 Ouve-se ao longe, uma gaita de foles.
 
-Â«Entram certas figuras de pastores e oferecem ao prÃ­ncepe os
-ditos presentes.Â»
+«Entram certas figuras de pastores e oferecem ao príncepe os
+ditos presentes.»
 
 
 
@@ -287,83 +287,83 @@ ditos presentes.Â»
 _Nota_
 
 
-Quando comecei a traduzir este lindo monÃ³logo, os versos
-entraram logo a construir-se espontÃ¢neos na nossa linguagem. E
-tÃ£o facil foi o trabalho, que apenas o verso:
+Quando comecei a traduzir este lindo monólogo, os versos
+entraram logo a construir-se espontâneos na nossa linguagem. E
+tão facil foi o trabalho, que apenas o verso:
 
-  Juri Ã¡ Sanjunco santo!,
+  Juri á Sanjunco santo!,
 
-que representa o pitoresco de uma exclamaÃ§Ã£o sem sentido em
-portuguÃªs, nÃ£o entra nesta versÃ£o quase justalinear. Passado
-Ã¡ nossa lingua, depois de tantos annos ter incerrada no seu
-duro castelhano a doce alma portuguesa, parece-me que o monÃ³logo
+que representa o pitoresco de uma exclamação sem sentido em
+português, não entra nesta versão quase justalinear. Passado
+á nossa lingua, depois de tantos annos ter incerrada no seu
+duro castelhano a doce alma portuguesa, parece-me que o monólogo
 ganhou em lirismo,--o lirismo que a nossa linguagem impresta
-Ã¡s falas sinceras que do seu ritmo se ajudam. Porque onde o
-castelhano, aspirado e cerrado, pÃµe a forÃ§a e o garbo--e pÃµe-nos
-atÃ© na doÃ§ura--o portuguÃªs requebra a modulaÃ§Ã£o suave do
-seu tom menor. Estranho parecerÃ¡ que nenhum dos nossos homens
-de teatro (que o autor de estas linhas nÃ£o Ã©) se nÃ£o lembrasse
-ha muito de trazer para a scena este monÃ³logo incantador, esta
-peÃ§a da mais viva poesia, integrando na decorativa moldura da
-reconstituiÃ§Ã£o histÃ³rica, a figura desimpenada do _Vaqueiro_. Quando
-este aparece na cÃ¢mara da rainha, perseguido pelos guardas que
-lhe estorvam a passagem,--Ã©, em verdade, o Povo que aparece,
-falando de mÃ£o a mÃ£o ao seu rei, na consciÃªncia da sua forÃ§a
+ás falas sinceras que do seu ritmo se ajudam. Porque onde o
+castelhano, aspirado e cerrado, põe a força e o garbo--e põe-nos
+até na doçura--o português requebra a modulação suave do
+seu tom menor. Estranho parecerá que nenhum dos nossos homens
+de teatro (que o autor de estas linhas não é) se não lembrasse
+ha muito de trazer para a scena este monólogo incantador, esta
+peça da mais viva poesia, integrando na decorativa moldura da
+reconstituição histórica, a figura desimpenada do _Vaqueiro_. Quando
+este aparece na câmara da rainha, perseguido pelos guardas que
+lhe estorvam a passagem,--é, em verdade, o Povo que aparece,
+falando de mão a mão ao seu rei, na consciência da sua força
 meiga e orgulhosa!
 
-Ã‰ o Povo, a crianÃ§a admirativa, que Ã© doida por livros de
-imagens, quem se boquiabre ante a cÃ¢mara sumptuosa, cuja riqueza,
-entanto, lhe provoca desconfianÃ§as; e em cujo sobrado precioso,
+É o Povo, a criança admirativa, que é doida por livros de
+imagens, quem se boquiabre ante a câmara sumptuosa, cuja riqueza,
+entanto, lhe provoca desconfianças; e em cujo sobrado precioso,
 planta todavia com firmeza os seus rudos sapatos, afeitos a
-trilhar calhaus de serra. Ã‰ elle ainda quem dirige Ã¡ rainha,
-com uma familiaridade tocante e tÃ£o graciosa, as preguntas
-extra-protocolares, de gÃ³tica simplecidade:
+trilhar calhaus de serra. É elle ainda quem dirige á rainha,
+com uma familiaridade tocante e tão graciosa, as preguntas
+extra-protocolares, de gótica simplecidade:
 
-  se certo Ã©
+  se certo é
   que pariu Vossa Nobreza?,
 
 e quem logo descobre, no rosto da mulher desfalecida e incantada,
-o indÃ­cio da alegria maternal, que a seguir descreve em versos
-admiraveis, cuja adjectivaÃ§Ã£o nos faz _ver_ a radiaÃ§Ã£o moral
+o indício da alegria maternal, que a seguir descreve em versos
+admiraveis, cuja adjectivação nos faz _ver_ a radiação moral
 de aquele rosto.
 
-Ã‰ sempre o Povo quem ali descortina, por obra do seu fresco
-sentimento, para Ã lem da alegria dinÃ¡stica, que celebra,--a
+É sempre o Povo quem ali descortina, por obra do seu fresco
+sentimento, para àlem da alegria dinástica, que celebra,--a
 alegria da familia, que o comove. E esta, ao descer por um
-instante do trono mais poderoso da sua Ã©poca, por um instante
-tambem nos entra no coraÃ§Ã£o, quando a minÃºcia atenciosa do
+instante do trono mais poderoso da sua época, por um instante
+tambem nos entra no coração, quando a minúcia atenciosa do
 _Vaqueiro_ nomeia a um e um os membros da familia:
 
-  Que pai, que filho, e que mÃ£e!
-  Oh que avÃ³, que avÃ³s os seus!
+  Que pai, que filho, e que mãe!
+  Oh que avó, que avós os seus!
   E suas tias, tambem!
 
-Ã‰ o Povo, e sÃ³ podia ser elle, quem ao prÃ­ncepe, futuro senhor
-do mundo, oferta com tÃ£o nobre franqueza os seus pobres e rÃºsticos
-presentes, cuja alta beleza nÃ£o sonha; e quem lhe traz,--com as
-desculpas indispensaveis ainda hoje nas nossas provÃ­ncias,--os
-queijos e os ovos, o leite e o mel... Nenhuma pÃ¡gina de Gil
-Vicente se me afigura portanto mais viva, mais espontÃ¢nea do
-que esta, que nos recorda um episÃ³dio de presÃ©pio, pintado
+É o Povo, e só podia ser elle, quem ao príncepe, futuro senhor
+do mundo, oferta com tão nobre franqueza os seus pobres e rústicos
+presentes, cuja alta beleza não sonha; e quem lhe traz,--com as
+desculpas indispensaveis ainda hoje nas nossas províncias,--os
+queijos e os ovos, o leite e o mel... Nenhuma página de Gil
+Vicente se me afigura portanto mais viva, mais espontânea do
+que esta, que nos recorda um episódio de presépio, pintado
 em fundo azul por um Giotto um pouco tardio, estranho aos
-esplendores mais deslumbrantes mas menos sentidos da RenascenÃ§a,
-e que pÃ´de guardar, do Ã­ntimo contato com a natureza e com
-seus irmÃ£os, uma frescura de menino entre doutores.
+esplendores mais deslumbrantes mas menos sentidos da Renascença,
+e que pôde guardar, do íntimo contato com a natureza e com
+seus irmãos, uma frescura de menino entre doutores.
 
 Na nossa hora incerta, ao mesmo tempo triste e renascente,
-consolÃªmo-nos com estas belas redondilhas do _Vaqueiro_, que
-vem a casa dos grandes, iluminÃ¡-los e incantÃ¡-los um momento
-com a graÃ§a da sua cÃ¢ndida alegria. E emquanto se nÃ£o funda
-em Portugal a _Sociedade Luis de CamÃµes_, sobre o molde da
+consolêmo-nos com estas belas redondilhas do _Vaqueiro_, que
+vem a casa dos grandes, iluminá-los e incantá-los um momento
+com a graça da sua cândida alegria. E emquanto se não funda
+em Portugal a _Sociedade Luis de Camões_, sobre o molde da
 _Sociedade Dante Alighieri_--lar do pensamento italiano--e a
-que pertenÃ§am homens sinceros de todas as classes, vindos de
-todas as escolas filosÃ³ficas, de todas as crenÃ§as religiosas,
+que pertençam homens sinceros de todas as classes, vindos de
+todas as escolas filosóficas, de todas as crenças religiosas,
 intimamente congregados em promover um _moderno_ amor da patria,
-Ã¡ roda de esse nome que para sempre nos simboliza,--consolÃªmo-nos,
-sobretudo, acreditando que o povo, donde esse pastor saÃ­u, guarda
+á roda de esse nome que para sempre nos simboliza,--consolêmo-nos,
+sobretudo, acreditando que o povo, donde esse pastor saíu, guarda
 no fundo da alma,--onde dormem ainda, para lentas desabrocharem,
-forÃ§as indÃ³mitas e novas,--esse mesmo poder de saudar e estremecer,
-nÃ£o jÃ¡ um prÃ­ncepe que nasce, mas uma terra redimida que quer
+forças indómitas e novas,--esse mesmo poder de saudar e estremecer,
+não já um príncepe que nasce, mas uma terra redimida que quer
 viver e amar!
 
 
@@ -375,11 +375,11 @@ Fevereiro de 1910.
 ERRATA
 
 
-Da infelicidade da composiÃ§Ã£o,
+Da infelicidade da composição,
       erros da escritura
-e outras imperfeiÃ§Ãµes da estampa,
-    nÃ£o ha que dizer-vos:
---vÃ³s os vÃªdes, vÃ³s os castigae.
+e outras imperfeições da estampa,
+    não ha que dizer-vos:
+--vós os vêdes, vós os castigae.
 
 
 _D. Francisco Manuel._
@@ -389,17 +389,17 @@ _D. Francisco Manuel._
 
 AFFONSO LOPES VIEIRA
 
-O Povo e os poetas portugueses (conferÃªncia realizada no
+O Povo e os poetas portugueses (conferência realizada no
 teatro D. Maria II, e vendida a favor da Escola-monumento
-JoÃ£o de Deus, em LisbÃ´a)--preÃ§o, 200 rÃ©is.
+João de Deus, em Lisbôa)--preço, 200 réis.
 
 
 
 
 
-End of the Project Gutenberg EBook of MonÃ³logo do Vaqueiro, by Gil Vicente
+End of the Project Gutenberg EBook of Monólogo do Vaqueiro, by Gil Vicente
 
-*** END OF THIS PROJECT GUTENBERG EBOOK MONÃ“LOGO DO VAQUEIRO ***
+*** END OF THIS PROJECT GUTENBERG EBOOK MONÓLOGO DO VAQUEIRO ***
 
 ***** This file should be named 24129-8.txt or 24129-8.zip *****
 This and all associated files of various formats will be found in:

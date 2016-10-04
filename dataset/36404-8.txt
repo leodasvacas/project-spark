@@ -1,5 +1,5 @@
 The Project Gutenberg EBook of Memoria hydrografica das ilhas de Cabo Verde, by 
-Francisco Ant√≥nio Cabral
+Francisco AntÛnio Cabral
 
 This eBook is for the use of anyone anywhere at no cost and with
 almost no restrictions whatsoever.  You may copy it, give it away or
@@ -8,10 +8,10 @@ with this eBook or online at www.gutenberg.net
 
 
 Title: Memoria hydrografica das ilhas de Cabo Verde
-       para servir de instruc√ß√£o a carta das mesmas ilhas,
+       para servir de instrucÁ„o a carta das mesmas ilhas,
        publicada em o anno de 1790
 
-Author: Francisco Ant√≥nio Cabral
+Author: Francisco AntÛnio Cabral
 
 Release Date: June 12, 2011 [EBook #36404]
 
@@ -32,10 +32,10 @@ Print project.)
 
 
 
-    *Nota de editor:* Devido √† exist√™ncia de erros tipogr√°ficos neste
-    texto, foram tomadas v√°rias decis√µes quanto √† vers√£o final. Em caso
-    de d√∫vida, a grafia foi mantida de acordo com o original. No final
-    deste livro encontrar√° a lista de erros corrigidos.
+    *Nota de editor:* Devido ‡ existÍncia de erros tipogr·ficos neste
+    texto, foram tomadas v·rias decisıes quanto ‡ vers„o final. Em caso
+    de d˙vida, a grafia foi mantida de acordo com o original. No final
+    deste livro encontrar· a lista de erros corrigidos.
 
                                           Rita Farinha (Junho 2011)
 
@@ -48,9 +48,9 @@ DAS
 
 ILHAS DE CABO VERDE,
 
-PARA SERVIR DE INSTRUC√á√ÉO
+PARA SERVIR DE INSTRUC«√O
 
-√Å CARTA DAS MESMAS ILHAS,
+¡ CARTA DAS MESMAS ILHAS,
 
 PUBLICADA EM O ANNO DE 1790.
 
@@ -64,337 +64,337 @@ mesmo Author.
 
 Lisboa. M. DCCCIV.
 
-NA OFFICINA DE SIM√ÉO THADDEO FERREIRA.
+NA OFFICINA DE SIM√O THADDEO FERREIRA.
 
-_Com Licen√ßa da Meza do Desembargo do Pa√ßo._
-
-
+_Com LicenÁa da Meza do Desembargo do PaÁo._
 
 
-Esta Memoria s√≥ tem por fim mostrar ao P√∫blico o conceito, que da minha
-Carta se p√≥de fazer; e por isso eu desde j√° come√ßo com este objecto.
 
-N√£o me tem sido possivel encontrar Carta, ou Roteiro, de que podesse
-tirar algumas instruc√ß√µes, para corrigir esta Carta; e antes me
-assegur√£o os Pilotos, e mais pessoas, que naveg√£o para as mesmas Ilhas,
-que a minha Carta he a mais correcta: e com effeito parece que s√≥ estes
-he que podem decidir da sua exac√ß√£o.
 
-Parece-me ouvir o Leitor dizer: ¬´Esta Carta foi declarada por menos
-exacta, que a de Mr. d'Apr√©s em 1799 por huns Academicos Portuguezes, se
-me n√£o engano: cujas raz√µes frivolas er√£o, 1.^o porque ella differia
-muito nas configura√ß√µes de algumas Ilhas, da Carta d'Apr√©s; 2.^o porque
-os meios usados pelo Author n√£o er√£o bem entendidos; 3.^o porque a
-derrota aconselhada na mesma Carta era differente da que seguio d'Apr√©s,
-&c.¬ª
+Esta Memoria sÛ tem por fim mostrar ao P˙blico o conceito, que da minha
+Carta se pÛde fazer; e por isso eu desde j· comeÁo com este objecto.
 
-He verdade que assim foi, com pouca differen√ßa; mas tambem he verdade,
-que foi daquellas noticias de Gazeta, que requerem confirma√ß√£o.[1]
+N„o me tem sido possivel encontrar Carta, ou Roteiro, de que podesse
+tirar algumas instrucÁıes, para corrigir esta Carta; e antes me
+assegur„o os Pilotos, e mais pessoas, que naveg„o para as mesmas Ilhas,
+que a minha Carta he a mais correcta: e com effeito parece que sÛ estes
+he que podem decidir da sua exacÁ„o.
 
-O Leitor prudente, e imparcial ver√° que eu demostro com toda a
-evidencia, em como a minha Carta he mais correcta, que a de Mr. d'Apr√©s:
-e a derrota, que aconselho, a mais segura, e a que seguem os Pr√°ticos
-daquellas Ilhas; e por consequencia, que os taes Academicos se engan√°r√£o
-miseravelmente, ou ent√£o entendi√£o muito pouco desta materia.
+Parece-me ouvir o Leitor dizer: ´Esta Carta foi declarada por menos
+exacta, que a de Mr. d'AprÈs em 1799 por huns Academicos Portuguezes, se
+me n„o engano: cujas razıes frivolas er„o, 1.^o porque ella differia
+muito nas configuraÁıes de algumas Ilhas, da Carta d'AprÈs; 2.^o porque
+os meios usados pelo Author n„o er„o bem entendidos; 3.^o porque a
+derrota aconselhada na mesma Carta era differente da que seguio d'AprÈs,
+&c.ª
 
-Come√ßamos por hum ponto principal, e que logo d√° nos olhos dos que sabem
-a Geografia daquellas Ilhas. Pergunto, quantos ancoradouros, ou p√≥rtos
-d√° a Carta de d'Apr√©s na Ilha brava? nenhum, como se p√≥de v√™r. Quando
-elle ha tres, que s√£o, o da Furna da banda de Leste na cabe√ßa do Norte
+He verdade que assim foi, com pouca differenÁa; mas tambem he verdade,
+que foi daquellas noticias de Gazeta, que requerem confirmaÁ„o.[1]
+
+O Leitor prudente, e imparcial ver· que eu demostro com toda a
+evidencia, em como a minha Carta he mais correcta, que a de Mr. d'AprÈs:
+e a derrota, que aconselho, a mais segura, e a que seguem os Pr·ticos
+daquellas Ilhas; e por consequencia, que os taes Academicos se engan·r„o
+miseravelmente, ou ent„o entendi„o muito pouco desta materia.
+
+ComeÁamos por hum ponto principal, e que logo d· nos olhos dos que sabem
+a Geografia daquellas Ilhas. Pergunto, quantos ancoradouros, ou pÛrtos
+d· a Carta de d'AprÈs na Ilha brava? nenhum, como se pÛde vÍr. Quando
+elle ha tres, que s„o, o da Furna da banda de Leste na cabeÁa do Norte
 da Ilha; e he hum excellente porto para oito, ou dez Navios pequenos no
-tempo das brisas, ou da mon√ß√£o. O porto do Feij√£o da agua da banda de
-Oeste tambem na cabe√ßa do Norte; O porto do Ferreiro, que fica para o
-Sul deste: nestes dous p√≥rtos costum√£o varios Navios Estrangeiros
-fundear no tempo das aguas, ou de inverno; e no do Ferreiro at√© se p√≥de
-ancorar no tempo das brisas, e com Navios maiores; e n√£o he necessaria
-tanta pr√°tica para entrarem nestes dous p√≥rtos, como para entrarem na
+tempo das brisas, ou da monÁ„o. O porto do Feij„o da agua da banda de
+Oeste tambem na cabeÁa do Norte; O porto do Ferreiro, que fica para o
+Sul deste: nestes dous pÛrtos costum„o varios Navios Estrangeiros
+fundear no tempo das aguas, ou de inverno; e no do Ferreiro atÈ se pÛde
+ancorar no tempo das brisas, e com Navios maiores; e n„o he necessaria
+tanta pr·tica para entrarem nestes dous pÛrtos, como para entrarem na
 furna.
 
-Ora parece n√£o ser pequena emenda o augmento de tres p√≥rtos, dois dos
+Ora parece n„o ser pequena emenda o augmento de tres pÛrtos, dois dos
 quaes podem ser de de grande utilidade pata arribarem alguns Navios por
-occasi√£o de necessidade, taes s√£o o do Ferreiro, e de Feij√£o da agua.
+occasi„o de necessidade, taes s„o o do Ferreiro, e de Feij„o da agua.
 
-N√£o fica s√≥ nisto a emenda da Ilha brava: esta Ilha na Carta de Mr.
-d'Apr√©s he comprida, e lan√ßada do Noroeste ao Sueste, e rodeada de
+N„o fica sÛ nisto a emenda da Ilha brava: esta Ilha na Carta de Mr.
+d'AprÈs he comprida, e lanÁada do Noroeste ao Sueste, e rodeada de
 perigos, sendo ella quasi redonda, e o maior comprimento do Norte ao
-Sul, e livre de perigos: pois s√≥ tem os Ilheos chamados de cima, e de
-baixo, como se v√™ na minha Carta; e estes mesmos n√£o s√£o cercados de
-perigos, e s√≥ tem algumas restingas de ar√™a com pouco fundo. Em quanto
-aos meios de que me servi para tirar a planta desta Ilha, s√£o mais que
-sufficientes para o uso da Navega√ß√£o: e at√© me atrevo presentemente a
-prop√¥r hum bom premio para os que repugn√°r√£o os ditos meios, se me
+Sul, e livre de perigos: pois sÛ tem os Ilheos chamados de cima, e de
+baixo, como se vÍ na minha Carta; e estes mesmos n„o s„o cercados de
+perigos, e sÛ tem algumas restingas de arÍa com pouco fundo. Em quanto
+aos meios de que me servi para tirar a planta desta Ilha, s„o mais que
+sufficientes para o uso da NavegaÁ„o: e atÈ me atrevo presentemente a
+propÙr hum bom premio para os que repugn·r„o os ditos meios, se me
 mostrarem outro methodo mais exacto, e mais simples, usando dos mesmos
 aprestimos, e em iguaes circumstancias: eu os omitto aqui por me livrar
 de maior despeza.[2] Mas posso affirmar que se eu podesse tirar a planta
 das outras Ilhas, como tirei a desta, a minha Carta seria huma das mais
-exactas. E em quanto √°s outras, que tambem emendei, servi-me dos meios,
-de que se servem todos os Navegadores, andando √° v√©la: e talvez os
-Mathematicos, que not√°r√£o a minha Carta por menos exacta, que a de
-d'Apr√©s, n√£o fizessem com huns poucos de mil cruzados de despeza, o que
+exactas. E em quanto ·s outras, que tambem emendei, servi-me dos meios,
+de que se servem todos os Navegadores, andando · vÈla: e talvez os
+Mathematicos, que not·r„o a minha Carta por menos exacta, que a de
+d'AprÈs, n„o fizessem com huns poucos de mil cruzados de despeza, o que
 eu fiz por patriotismo, e curiosidade (e a experiencia o tem mostrado):
-o Leitor Sabio dir√°, sendo isto assim, como na verdade o he; porque
-sen√£o h√£o de louvar os trabalhos, que varios homens de genio offerecem
+o Leitor Sabio dir·, sendo isto assim, como na verdade o he; porque
+sen„o h„o de louvar os trabalhos, que varios homens de genio offerecem
 gratuitamente? eu lhe respondo sem talvez me enganar muito; porque
-algumas vezes succede dar-se o premio ao que crit√≠ca huma Obra, em lugar
-de dar-se ao que a fez sem ten√ß√£o de interesse, e como he
+algumas vezes succede dar-se o premio ao que critÌca huma Obra, em lugar
+de dar-se ao que a fez sem tenÁ„o de interesse, e como he
 incomparavelmente mais facil dizer mal de huma Obra, do que fazer outra
-t√£o boa, ou melhor, sempre ha de ser muito maior o n√∫mero dos zoilos, do
-que o dos homens √∫teis: mas vamos ao nosso objecto.
+t„o boa, ou melhor, sempre ha de ser muito maior o n˙mero dos zoilos, do
+que o dos homens ˙teis: mas vamos ao nosso objecto.
 
 Tem visto o Leitor, que a Ilha brava pintada na minha Carta, he a bem
-dizer huma nova Ilha comparada com a que vem na Carta de d'Apr√©s; sem
-que por isto se diminua o cr√©dito de d'Apr√©s, pois elle nunca foi a tal
-Ilha, e s√≥ a veria de longe, bem como Mr. Fleurieu , e Verdum; cujos
-Navegadores for√£o t√£o s√≥mente √° Villa da praia na Ilha de S. Tiago.
+dizer huma nova Ilha comparada com a que vem na Carta de d'AprÈs; sem
+que por isto se diminua o crÈdito de d'AprÈs, pois elle nunca foi a tal
+Ilha, e sÛ a veria de longe, bem como Mr. Fleurieu , e Verdum; cujos
+Navegadores for„o t„o sÛmente · Villa da praia na Ilha de S. Tiago.
 
-Passemos √° Ilha do Fogo; esta s√≥ tem hum porto na Carta de d'Apr√©s,
+Passemos · Ilha do Fogo; esta sÛ tem hum porto na Carta de d'AprÈs,
 quando ha dois; hum de S. Filippe ao Norte para o tempo de Inverno; e
-outro de Nossa Senhora para o tempo de Ver√£o, ou das brisas. Desta Ilha
-n√£o direi mais, por estar s√≥ dous dias nella, mas posso affirmar ao
-Leitor, que a sua verdadeira figura he differente da que se v√™ na Carta
-de d'Apr√©s, mas n√£o obstante eu a pintei por ella.
+outro de Nossa Senhora para o tempo de Ver„o, ou das brisas. Desta Ilha
+n„o direi mais, por estar sÛ dous dias nella, mas posso affirmar ao
+Leitor, que a sua verdadeira figura he differente da que se vÍ na Carta
+de d'AprÈs, mas n„o obstante eu a pintei por ella.
 
-Na Ilha do Maio tambem l√° estive hum dia fundeado no porto do Inglez;
-por√©m como naveguei √° vista della, tanto da banda de Leste, como de
-Oeste, e tirei informa√ß√µes dos Pr√°ticos, a deliniei da melhor f√≥rma que
-me foi possivel, em ponto t√£o pequeno.
+Na Ilha do Maio tambem l· estive hum dia fundeado no porto do Inglez;
+porÈm como naveguei · vista della, tanto da banda de Leste, como de
+Oeste, e tirei informaÁıes dos Pr·ticos, a deliniei da melhor fÛrma que
+me foi possivel, em ponto t„o pequeno.
 
-Em quanto √° Ilha de S. Tiago, parece-me esta Ilha a mais bem collocada,
-e delineada (deixando algumas pequenas differen√ßas) das que se ach√£o na
-Carta de d'Apr√©s: talvez por ser a mais frequentada de todos os
+Em quanto · Ilha de S. Tiago, parece-me esta Ilha a mais bem collocada,
+e delineada (deixando algumas pequenas differenÁas) das que se ach„o na
+Carta de d'AprÈs: talvez por ser a mais frequentada de todos os
 Navegadores; e com effeito o porto da Villa da Praia he hum dos mais
 seguros de todas estas Ilhas no tempo das brisas, e o mais proprio para
-refrescar. Poucas addi√ß√µes tive que fazer, mas com tudo emendei a ponta
-do Norte, e fiz men√ß√£o do porto do mangue no Tarrafal; e supprimi os
-Ilheos, que se ach√£o pela parte de Oeste na Carta de d'Apr√©s; porque os
-n√£o ha.
+refrescar. Poucas addiÁıes tive que fazer, mas com tudo emendei a ponta
+do Norte, e fiz menÁ„o do porto do mangue no Tarrafal; e supprimi os
+Ilheos, que se ach„o pela parte de Oeste na Carta de d'AprÈs; porque os
+n„o ha.
 
 A Ilha da Boavista tambem foi emendada, primeiro em notar-lhe a restinga
 de pedras, que ha entre o Ilheo, e a Ilha no porto do Inglez, cuja
-restinga se n√£o v√™ na Carta de d'Apr√©s, e antes mostra huma passagem
+restinga se n„o vÍ na Carta de d'AprÈs, e antes mostra huma passagem
 livre, e por consequencia hum precipicio a qualquer Navio, que fosse
 para entrar no porto, guiando-se pela dita Carta, sem mais noticia, e
-esta infelicidade j√° tem acontecido. E com effeito hum Piloto, que fosse
-dar fundo no porto do Inglez s√≥ pelo socorro da Carta, antes preferiria
+esta infelicidade j· tem acontecido. E com effeito hum Piloto, que fosse
+dar fundo no porto do Inglez sÛ pelo socorro da Carta, antes preferiria
 entrar por entre o Ilheo, e a terra, do que por entre o Ilheo, e o
 baixo, sendo esta ultima a entrada; porque entre o Ilheo, e a terra ha
-hum recife de pedra, como se v√™ na minha Carta. Notei mais o porto do
-Norte, que serve no tempo das aguas; por√©m este porto he muito
-arriscado, e os Navios, que n√£o tiverem bom Pr√°tico, devem fugir de l√°
+hum recife de pedra, como se vÍ na minha Carta. Notei mais o porto do
+Norte, que serve no tempo das aguas; porÈm este porto he muito
+arriscado, e os Navios, que n„o tiverem bom Pr·tico, devem fugir de l·
 ancorarem em tempo algum. Alonguei os recifes de toda a parte de Leste
-da Ilha, por n√£o estarem notados com seguran√ßa na Carta de d'Apr√©s: e
-tambem n√£o est√£o ainda bem notados na minha, por me ser muito perigoso o
-reconhecer as extremidades de semelhantes recifes: e s√≥ direi, que esta
+da Ilha, por n„o estarem notados com seguranÁa na Carta de d'AprÈs: e
+tambem n„o est„o ainda bem notados na minha, por me ser muito perigoso o
+reconhecer as extremidades de semelhantes recifes: e sÛ direi, que esta
 Ilha he a mais perigosa de todas ellas; porque estes recifes da parte de
-Leste deit√£o muito para o mar, de maneira que no tempo das brisas, e em
-dias de neblina, hum Navio p√≥de encalhar sem v√™r a terra, como j√° tem
-acontecido: e he esta huma das principaes raz√µes, porque os Praticos
-nunca v√£o demandar esta Ilha.
+Leste deit„o muito para o mar, de maneira que no tempo das brisas, e em
+dias de neblina, hum Navio pÛde encalhar sem vÍr a terra, como j· tem
+acontecido: e he esta huma das principaes razıes, porque os Praticos
+nunca v„o demandar esta Ilha.
 
-A Ilha do Sal pela parte do Sul na Carta de d'Apr√©s acaba por huma ponta
-redonda, cercada por hum recife de ar√™a, por√©m n√£o he assim; esta Ilha
-da parte do Sul finaliza por huma ponta de ar√™a bem comprida, e muito
-raza, que ter√° huma boa legoa de comprimento, a que cham√£o a ponta da
-Madama; e da banda de Leste ha hum ancoradoiro, como se v√™ na minha
+A Ilha do Sal pela parte do Sul na Carta de d'AprÈs acaba por huma ponta
+redonda, cercada por hum recife de arÍa, porÈm n„o he assim; esta Ilha
+da parte do Sul finaliza por huma ponta de arÍa bem comprida, e muito
+raza, que ter· huma boa legoa de comprimento, a que cham„o a ponta da
+Madama; e da banda de Leste ha hum ancoradoiro, como se vÍ na minha
 Carta. Vendo-se a parte do Sul desta Ilha, parece finalizar a terra,
-quando ainda ha a tal restinga, que apenas se v√™ de meia legoa no tempo
-das brisas; esta Ilha da parte do Norte n√£o he perigosa, e he hum pouco
+quando ainda ha a tal restinga, que apenas se vÍ de meia legoa no tempo
+das brisas; esta Ilha da parte do Norte n„o he perigosa, e he hum pouco
 montanhosa.
 
-Passando agora √° Ilha de S. Nicol√°o, ver√° o Leitor, que eu lhe dou huma
-figura muito differente daquella, que se v√™ na Carta de d'Apr√©s; porque
+Passando agora · Ilha de S. Nicol·o, ver· o Leitor, que eu lhe dou huma
+figura muito differente daquella, que se vÍ na Carta de d'AprÈs; porque
 na verdade assim he, pois eu a rodeei, e tambem deliniei parte della por
-terra, e estou muito bem certo, que os Navegadores achar√°√µ (como tem
-achado) ser esta a figura mais aproximada √° verdadeira; tambem fiz
-men√ß√£o do porto do Tarrafal.
+terra, e estou muito bem certo, que os Navegadores achar·ı (como tem
+achado) ser esta a figura mais aproximada · verdadeira; tambem fiz
+menÁ„o do porto do Tarrafal.
 
 A Ilha Branca foi mudada para perto do seu verdadeiro lugar, e nesta
-mudan√ßa s√≥ p√≥de haver differen√ßa de huma milha, por n√£o ter occasi√£o de
+mudanÁa sÛ pÛde haver differenÁa de huma milha, por n„o ter occasi„o de
 tempo claro para fazer boas marcas.
 
-Em quanto √°s Ilhas de Santa Luzia, S. Vicente, e Santo Ant√£o, nada
-direi; porque s√≥ as vi de longe, e por isso as copiei da Carta de
-d'Apr√©s.
+Em quanto ·s Ilhas de Santa Luzia, S. Vicente, e Santo Ant„o, nada
+direi; porque sÛ as vi de longe, e por isso as copiei da Carta de
+d'AprÈs.
 
-Tem o Leitor visto que as emendas for√£o muitas, e que por consequencia a
-minha Carta deve ser mais exacta, do que a de d'Apr√©s, e isto mesmo he
-confirmado por aquelles, que para l√° tem navegado, e s√≥ o negou quem
+Tem o Leitor visto que as emendas for„o muitas, e que por consequencia a
+minha Carta deve ser mais exacta, do que a de d'AprÈs, e isto mesmo he
+confirmado por aquelles, que para l· tem navegado, e sÛ o negou quem
 nunca navegou.
 
 Vamos em fim a mostrar que a derrota prescripta na mesma Carta, he a
 melhor, a mais segura, e a geralmente recebida por todos os Praticos,
-que para l√° naveg√£o.
+que para l· naveg„o.
 
-Para decidir sobre a vantagem da minha derrota √° de d'Apr√©s, n√£o he
-necessario ter ido √°s Ilhas de Cabo Verde, nem tambem he necessario ter
-navegado muito; por√©m he necessario entender o que s√£o mon√ß√µes, e
+Para decidir sobre a vantagem da minha derrota · de d'AprÈs, n„o he
+necessario ter ido ·s Ilhas de Cabo Verde, nem tambem he necessario ter
+navegado muito; porÈm he necessario entender o que s„o monÁıes, e
 correntes, e ter lido Viagens, e saber alguma cousa de Hydrografia. Mas
 sempre devo advertir ao Leitor, que eu teria pejo de explicar hum
 semelhante problema, que por qualquer Navegante tem sido comprehendido,
-a quem quer passar por Professor de Hydrografia, se com effeito mo n√£o
+a quem quer passar por Professor de Hydrografia, se com effeito mo n„o
 tivessem duvidado sem fundamento algum.
 
-Antes que entre com esta demonstra√ß√£o, he conveniente prevenir o Leitor,
-de que estas Ilhas na maior parte do tempo das brisas se n√£o podem v√™r
-de mais de duas, at√© tres leguas; e em muitas occasi√µes se chega a v√™r
-arrebentar o mar nas Costas, e se n√£o v√™ a terra alta; e isto he sabido
-por todos os navegantes: al√©m deste perigo temos o das correntes para
+Antes que entre com esta demonstraÁ„o, he conveniente prevenir o Leitor,
+de que estas Ilhas na maior parte do tempo das brisas se n„o podem vÍr
+de mais de duas, atÈ tres leguas; e em muitas occasiıes se chega a vÍr
+arrebentar o mar nas Costas, e se n„o vÍ a terra alta; e isto he sabido
+por todos os navegantes: alÈm deste perigo temos o das correntes para
 Oeste, e fortes ventanias.
 
-Mr. d'Apr√©s diz pag. 13 edi√ß√£o de 1775. ¬´Quando qualquer Navio n√£o tiver
-destino particular, nem para o Senegal, nem para Gor√©a, e que a
-necessidade de agua, e outros refrescos, lhe fa√ß√£o preferir a escala por
-S. Tiago; em lugar de irem reconhecer a Costa da Africa, ser√° mais
-conveniente, que partindo das Canarias dirij√£o a sua derrota para o Sul,
-a fim de se p√¥rem 25, ou 30 leguas a Leste da Ilha da Boavista, e na
-Latitude de 16^o, que he a do meio desta Ilha, e navegar para Oeste at√©
-a encontrar: eis-√°qui a derrota que d√° Mr. d'Apr√©s. Vejamos agora o
+Mr. d'AprÈs diz pag. 13 ediÁ„o de 1775. ´Quando qualquer Navio n„o tiver
+destino particular, nem para o Senegal, nem para GorÈa, e que a
+necessidade de agua, e outros refrescos, lhe faÁ„o preferir a escala por
+S. Tiago; em lugar de irem reconhecer a Costa da Africa, ser· mais
+conveniente, que partindo das Canarias dirij„o a sua derrota para o Sul,
+a fim de se pÙrem 25, ou 30 leguas a Leste da Ilha da Boavista, e na
+Latitude de 16^o, que he a do meio desta Ilha, e navegar para Oeste atÈ
+a encontrar: eis-·qui a derrota que d· Mr. d'AprÈs. Vejamos agora o
 quanto ella he perigosa.
 
-Para qualquer Leitor bem entender o que vou a dizer, ser√° conveniente
-ter √° vista a Carta destas Ilhas, ou ainda melhor, outra que as
+Para qualquer Leitor bem entender o que vou a dizer, ser· conveniente
+ter · vista a Carta destas Ilhas, ou ainda melhor, outra que as
 contenha.
 
-O Sabio Navegador Mr. d'Apr√©s claramente est√° dizendo, que os Navios da
-Companhia das Indias costumav√£o ir ao Senegal, ou a Gor√©a (e os que tem
-noticia deste Commercio muito bem sabem isto), por√©m se para l√° n√£o
-levarem destino, e quizerem ir a S. Tiago, lhes aconselha se mett√£o 25,
+O Sabio Navegador Mr. d'AprÈs claramente est· dizendo, que os Navios da
+Companhia das Indias costumav„o ir ao Senegal, ou a GorÈa (e os que tem
+noticia deste Commercio muito bem sabem isto), porÈm se para l· n„o
+levarem destino, e quizerem ir a S. Tiago, lhes aconselha se mett„o 25,
 ou 30 leguas a Leste da Ilha da Boavista, e isto partindo das Canarias,
 que he menos de meio, caminho partindo-se de Lisboa, e menos de hum
-ter√ßo, partindo de Porto Luiz. Est√° bem entendido, que partindo de
-Lisboa, ou de outro qualquer porto da Europa, e n√£o vendo as Canarias,
-he necessario supp√¥rem-se mais de 30 leguas a Leste: por cuja raz√£o
-temos huma derrota mais longa; e de noite n√£o se deve navegar para a tal
-Ilha, segundo os perigos de que j√° fallei.
+terÁo, partindo de Porto Luiz. Est· bem entendido, que partindo de
+Lisboa, ou de outro qualquer porto da Europa, e n„o vendo as Canarias,
+he necessario suppÙrem-se mais de 30 leguas a Leste: por cuja raz„o
+temos huma derrota mais longa; e de noite n„o se deve navegar para a tal
+Ilha, segundo os perigos de que j· fallei.
 
-Supp√¥mos agora hum Piloto, que n√£o esteja habil em achar a Longitude
+SuppÙmos agora hum Piloto, que n„o esteja habil em achar a Longitude
 pelos methodos Astronomicos. Supponhamos tambem que mesmo sendo habil,
-n√£o tem occasi√£o, ou por muita neblina, como costuma haver das Canarias
-para Cabo Verde, ou em fim por n√£o ser conjun√ß√£o destas observa√ß√µes nos
-dias de viagem da altura das Canarias para Cabo Verde; pergunto, n√£o
-p√≥de ter hum erro de Longitude, que o fa√ßa passar pelo Canal, entre a
-Ilha do Sal, e a de S. Nicol√°o, e n√£o v√™r, nem huma, nem outra, seja de
-dia, ou de noite? p√≥de sem d√∫vida, e j√° tem acontecido a alguns Navios.
-Ora em semelhante caso navega para Oeste, por√©m a Ilha fica-lhe a Leste
+n„o tem occasi„o, ou por muita neblina, como costuma haver das Canarias
+para Cabo Verde, ou em fim por n„o ser conjunÁ„o destas observaÁıes nos
+dias de viagem da altura das Canarias para Cabo Verde; pergunto, n„o
+pÛde ter hum erro de Longitude, que o faÁa passar pelo Canal, entre a
+Ilha do Sal, e a de S. Nicol·o, e n„o vÍr, nem huma, nem outra, seja de
+dia, ou de noite? pÛde sem d˙vida, e j· tem acontecido a alguns Navios.
+Ora em semelhante caso navega para Oeste, porÈm a Ilha fica-lhe a Leste
 eis-ahi as Ilhas sotaventiadas, e a viagem perdida. Estes perigos he que
-n√£o conhecem alguns Mathematicos, que nunca sah√≠r√£o c√° deste sitio, por
-onde anda a rapoza. Ainda aqui n√£o fica s√≥ o perigo de varar a Ilha da
-Boavista por erro de Longitude, tambem se p√≥de varar por erro de
-Latitude; hum, ou dois dias que n√£o haj√£o observa√ß√µes das alturas
+n„o conhecem alguns Mathematicos, que nunca sahÌr„o c· deste sitio, por
+onde anda a rapoza. Ainda aqui n„o fica sÛ o perigo de varar a Ilha da
+Boavista por erro de Longitude, tambem se pÛde varar por erro de
+Latitude; hum, ou dois dias que n„o haj„o observaÁıes das alturas
 meridianas do Sol, estamos tambem no caso da Ilha varada por erro de
 Latitude.
 
-Querem v√™r todos estes perigos desvanecidos, v√£o demandar a Ilha do Sal
+Querem vÍr todos estes perigos desvanecidos, v„o demandar a Ilha do Sal
 pela banda do Norte, e se as correntes, e outros obstaculos, que se
-encontr√£o nestas, e outras navega√ß√µes, tiverem deitado o Navio para
-Oeste do Meridiano da Ilha do Sal, elle necessariamente ir√° encontrar
-com a Ilha de S. Nicol√°o, ou com: a de S. Luzia, se navegar por maior
-Latitude. Em quanto ao erro da Latitude, bem se v√™ que as quatro Ilhas
-de S. Nicol√°o, S. Luzia, S. Vicente, S. Ant√£o, occup√£o hum intervallo de
-Latitude, que n√£o p√≥de ser varado por falta de dois, ou ainda mais dias
-de Sol. Por esta derrota at√© n√£o he necessaria tanta seguran√ßa para
-Leste: por outra raz√£o, a Ilha do Sal he livre de perigos, quando a da
-Boavista he perigosissima. Ora quem negar que este modo de navegar n√£o
-he mais seguro, e mais breve, tambem nega, que 3 e mais 2 n√£o fazem 5, e
-n√£o he muito que negue a existencia das Ilhas de Anadias, que fic√£o l√°
+encontr„o nestas, e outras navegaÁıes, tiverem deitado o Navio para
+Oeste do Meridiano da Ilha do Sal, elle necessariamente ir· encontrar
+com a Ilha de S. Nicol·o, ou com: a de S. Luzia, se navegar por maior
+Latitude. Em quanto ao erro da Latitude, bem se vÍ que as quatro Ilhas
+de S. Nicol·o, S. Luzia, S. Vicente, S. Ant„o, occup„o hum intervallo de
+Latitude, que n„o pÛde ser varado por falta de dois, ou ainda mais dias
+de Sol. Por esta derrota atÈ n„o he necessaria tanta seguranÁa para
+Leste: por outra raz„o, a Ilha do Sal he livre de perigos, quando a da
+Boavista he perigosissima. Ora quem negar que este modo de navegar n„o
+he mais seguro, e mais breve, tambem nega, que 3 e mais 2 n„o fazem 5, e
+n„o he muito que negue a existencia das Ilhas de Anadias, que fic„o l·
 no cabo do Mundo.
 
 Por esta derrota vai hum Navio directamente para todas as Ilhas de
 Barlavento, e destas para as de Sotavento. Supponhamos por exemplo, que
 sahia hum Navio de Lisboa para as Ilhas de Cabo Verde, e que levava
-destino para ir a S. Nicol√°o; que fazia este Navio em ir demandar a Ilha
-da Boavista? fazia huma viagem maior, e de mais perigo. E n√£o obstante
-v√™r-se na Carta, que o rumo da Boavista para S. Nicol√°o seria a uma
-larga com Vento NE. ou NNE. n√£o succede assim; porque he necessario
+destino para ir a S. Nicol·o; que fazia este Navio em ir demandar a Ilha
+da Boavista? fazia huma viagem maior, e de mais perigo. E n„o obstante
+vÍr-se na Carta, que o rumo da Boavista para S. Nicol·o seria a uma
+larga com Vento NE. ou NNE. n„o succede assim; porque he necessario
 attender a hum angulo de 4, ou 5 rumos para o Norte, a fim de compensar
 a velocidade da corrente, que vai para Oeste. As viagens por entre estas
-Ilhas bem mostr√£o o quanto he perigoso sotavent√≠allas, pois das Ilhas de
+Ilhas bem mostr„o o quanto he perigoso sotaventÌallas, pois das Ilhas de
 Barlavento para as de Sotavento, a viagem he pouco mais, ou menos de
-vinte e quatro horas; por√©m destas para as de Barlavento, se gast√£o
+vinte e quatro horas; porÈm destas para as de Barlavento, se gast„o
 muitas vezes 12, 15, 18 dias com muito trabalho, e desassocego.
 
 Por outra parte, a Ilha do Sal he livre de baixos, quando a da Boavista
-he cercada delles, como j√° tenho dito: nella se tem perdido varios
-Navios desgra√ßadamente: no anno antecedente ao da primeira viagem, que
+he cercada delles, como j· tenho dito: nella se tem perdido varios
+Navios desgraÁadamente: no anno antecedente ao da primeira viagem, que
 fiz para estas Ilhas, se perdeo nos baixos desta Ilha, vindo-a demandar
-segundo a derrota de Mr. d'Apr√©s, hum importante Navio Inglez da
+segundo a derrota de Mr. d'AprÈs, hum importante Navio Inglez da
 Companhia das Indias, que hia para a Asia, morreo a maior parte da
-gente, e se perdeo todo o Navio, carga, e mais de hum milh√£o de patacas;
-al√©m deste ouvi fallar na perdi√ß√£o de outros, cujas √©pocas n√£o er√£o
+gente, e se perdeo todo o Navio, carga, e mais de hum milh„o de patacas;
+alÈm deste ouvi fallar na perdiÁ„o de outros, cujas Èpocas n„o er„o
 muito antigas.
 
-A respeito da derrota, que seguio Fleurieu, n√£o me serve de exemplo,
-pois elle n√£o foi de Rochefort, em direitura √°s Ilhas de Cabo Verde, mas
-sim da Ilha Gor√©a na Costa da Africa, para a Villa da Praia; e foi
+A respeito da derrota, que seguio Fleurieu, n„o me serve de exemplo,
+pois elle n„o foi de Rochefort, em direitura ·s Ilhas de Cabo Verde, mas
+sim da Ilha GorÈa na Costa da Africa, para a Villa da Praia; e foi
 demandar a Ilha do Maio.
 
 Outro tanto direi de Mr. Verdum, porque fez a mesma viagem, e tambem foi
 demandar a Ilha do Maio.
 
-Em conclus√£o, quer o Leitor v√™r hum facto bem remarcavel, que authorisa
-os meus raciocinios, e que decisivamente reprova a derrota de d'Apr√©s,
+Em conclus„o, quer o Leitor vÍr hum facto bem remarcavel, que authorisa
+os meus raciocinios, e que decisivamente reprova a derrota de d'AprÈs,
 em mandar procurar a Ilha da Boavista, como tambem a daquelles, que
-vindo do Norte procur√£o a Ilha do Maio.
+vindo do Norte procur„o a Ilha do Maio.
 
-Torno a dizer, a Ilha da Boavista n√£o deve j√°mais ser demandada, porque
+Torno a dizer, a Ilha da Boavista n„o deve j·mais ser demandada, porque
 ella hia sacrificando nas suas ruinas o Principe dos Navegadores.
 
-Sim, amigo Leitor, Cook o mais habil, o mais c√©lebre, em fim o mais
-feliz dos Navegadores Inglezes, e de todas as Na√ß√µes do Mundo, alli hia
-sendo victima dos rochedos, que cerc√£o esta Ilha pela banda de Leste.
+Sim, amigo Leitor, Cook o mais habil, o mais cÈlebre, em fim o mais
+feliz dos Navegadores Inglezes, e de todas as NaÁıes do Mundo, alli hia
+sendo victima dos rochedos, que cerc„o esta Ilha pela banda de Leste.
 
-Na terceira viagem deste immortal Navegador, Tomo I. Capitulo III. se v√™
+Na terceira viagem deste immortal Navegador, Tomo I. Capitulo III. se vÍ
 o que agora vou a descrever.
 
-¬´Aos 10 de Agosto de 1776, √°s nove horas da noite vimos a Ilha da
-Boavista demorando ao Sul, e a pouco mais de huma legoa: n√≥s pensavamos
-estar muito mais longe, por√©m ent√£o reconhecemos o nosso engano. Tendo
-virado a Rumo de Leste at√© √° meia noite, a fim de montar os baixos, que
-cerc√£o a Ilha pela parte do Sueste, e que deit√£o huma legoa pouco mais,
-ou menos para o mar, nos ach√°mos t√£o perto delles, que viamos encapellar
-o mar sobre os recifes. A nossa situa√ß√£o foi por alguns minutos
-consternavel: eu n√£o achei acertado sondar, porque esta opera√ß√£o faria
-augmentar o perigo, sem usar primeiro dos meios de nos affastarmos, &c.¬ª
+´Aos 10 de Agosto de 1776, ·s nove horas da noite vimos a Ilha da
+Boavista demorando ao Sul, e a pouco mais de huma legoa: nÛs pensavamos
+estar muito mais longe, porÈm ent„o reconhecemos o nosso engano. Tendo
+virado a Rumo de Leste atÈ · meia noite, a fim de montar os baixos, que
+cerc„o a Ilha pela parte do Sueste, e que deit„o huma legoa pouco mais,
+ou menos para o mar, nos ach·mos t„o perto delles, que viamos encapellar
+o mar sobre os recifes. A nossa situaÁ„o foi por alguns minutos
+consternavel: eu n„o achei acertado sondar, porque esta operaÁ„o faria
+augmentar o perigo, sem usar primeiro dos meios de nos affastarmos, &c.ª
 
-Quando ao Capit√£o Cook lhe aconteceo hum engano, que t√£o desgra√ßado hia
+Quando ao Capit„o Cook lhe aconteceo hum engano, que t„o desgraÁado hia
 sendo a todo o Mundo, que diremos dos outros Navegadores em geral? Isto
-muito bem confirma as minhas reflex√µes, que acima fic√£o ditas; quero
-dizer, que nem s√≥ ha risco de varar as Ilhas para Oeste, mas tambem de
+muito bem confirma as minhas reflexıes, que acima fic„o ditas; quero
+dizer, que nem sÛ ha risco de varar as Ilhas para Oeste, mas tambem de
 se irem perder de noite na Ilha do Sal, para completar a Latitude da
 Ilha da Boavista, pensando que a Ilha do Sal lhe demora para Oeste: aqui
-se v√™ quanto a derrota de ir demandar a Ilha do Sal he segura; pois logo
+se vÍ quanto a derrota de ir demandar a Ilha do Sal he segura; pois logo
 que qualquer Navegante se acha proximo a completar a Latitude desta
-Ilha, come√ßa a navegar com muita cautela, e s√≥ a ver√° de dia, e como no
-seu caminho n√£o ha Ilha, nem baixo, est√° seguro de n√£o encontrar perigo
+Ilha, comeÁa a navegar com muita cautela, e sÛ a ver· de dia, e como no
+seu caminho n„o ha Ilha, nem baixo, est· seguro de n„o encontrar perigo
 algum.
 
-√Å primeira vista tambem parecer√° a derrota, que vou a descrever, muito
-boa. Vem a ser: hum Navio, que v√° da Europa, e s√≥ quizer ir refrescar √°
+¡ primeira vista tambem parecer· a derrota, que vou a descrever, muito
+boa. Vem a ser: hum Navio, que v· da Europa, e sÛ quizer ir refrescar ·
 Villa da Praia, metta-se no parallelo do meio da Ilha do Maio, e tanto a
-Leste, quanto julgue conveniente a seguran√ßa da sua derrota: depois
-navegue para Oeste at√© v√™r a Ilha, governando ent√£o pela banda do Sul da
-Ilha, v√° demandar a Villa da Praia. Esta derrota, segundo as indaga√ß√µes
-que tenho feito, he muito usada pelos Navios grandes, que s√≥ v√£o
-refrescar √° Villa da Praia. Por√©m ella requer huma grande certeza de
+Leste, quanto julgue conveniente a seguranÁa da sua derrota: depois
+navegue para Oeste atÈ vÍr a Ilha, governando ent„o pela banda do Sul da
+Ilha, v· demandar a Villa da Praia. Esta derrota, segundo as indagaÁıes
+que tenho feito, he muito usada pelos Navios grandes, que sÛ v„o
+refrescar · Villa da Praia. PorÈm ella requer huma grande certeza de
 Longitude, e Latitude, e a falta desta certeza faz a viagem mais
-demorada al√©m de duvidosa. Mas como o reconhecimento da Ilha do Sal he
-muito mais seguro, e fica no caminho da derrota, n√£o ha raz√£o alguma
-para n√£o seguir esta derrota, que por todos os lados he mais vantajosa,
-principalmente para os que v√£o de proposito para estas Ilhas.
+demorada alÈm de duvidosa. Mas como o reconhecimento da Ilha do Sal he
+muito mais seguro, e fica no caminho da derrota, n„o ha raz„o alguma
+para n„o seguir esta derrota, que por todos os lados he mais vantajosa,
+principalmente para os que v„o de proposito para estas Ilhas.
 
-Como nem s√≥ os bons arrazoamentos decidem em materia de pr√°tica, eu al√©m
+Como nem sÛ os bons arrazoamentos decidem em materia de pr·tica, eu alÈm
 das vantagens, que conheci na derrota que segui, tive, antes de publicar
 a dita Carta, o cuidado de examinar, se com effeito*** esta derrota era
-usada pelos Navegantes daquellas Ilhas; e com a sua confirma√ß√£o ent√£o a
-publiquei: presentemente me assegur√£o, que nem s√≥ os Portuguezes, por√©m
-todos os Americanos, e em geral todos os que conhecem a Navega√ß√£o destas
+usada pelos Navegantes daquellas Ilhas; e com a sua confirmaÁ„o ent„o a
+publiquei: presentemente me assegur„o, que nem sÛ os Portuguezes, porÈm
+todos os Americanos, e em geral todos os que conhecem a NavegaÁ„o destas
 Ilhas de Cabo Verde, seguem a derrota de irem demandar a Ilha do Sal. Eu
-tambem posso affirmar que os Americanos me tem gasto huma boa por√ß√£o
-destas Cartas, que mandei para as ditas Ilhas. He necess√°rio combinar a
-Theorica com a experiencia, porque sem esta combina√ß√£o, tudo he palhada,
-e palanfrorios; e se os Cr√≠ticos da minha Carta usassem desta
-combina√ß√£o, n√£o produziri√£o raz√µes frivolas para negar o certo, e
-confirmar o duvidoso, como por exemplo, a publica√ß√£o do baixo do Victo
+tambem posso affirmar que os Americanos me tem gasto huma boa porÁ„o
+destas Cartas, que mandei para as ditas Ilhas. He necess·rio combinar a
+Theorica com a experiencia, porque sem esta combinaÁ„o, tudo he palhada,
+e palanfrorios; e se os CrÌticos da minha Carta usassem desta
+combinaÁ„o, n„o produziri„o razıes frivolas para negar o certo, e
+confirmar o duvidoso, como por exemplo, a publicaÁ„o do baixo do Victo
 sem escrupulo algum, e outras mais, &c.
 
 FIM
@@ -404,21 +404,21 @@ FIM
 
 Notas:
 
-[1] N√£o respondi logo ao tal Annuncio do Gazeta; 1. porque eu sempre
+[1] N„o respondi logo ao tal Annuncio do Gazeta; 1. porque eu sempre
 tratei esta Carta de bagatella; 2. porque o mesmo Annuncio estava
-mostrando a fragilidade das suas raz√µes, e as pessoas de juizo
-claramente conhec√™r√£o, que era intriga formada por alguns individuos, e
-por consequencia a Carta ficou com o mesmo cr√©dito; 3. porque ainda a
-impress√£o n√£o estava concluida, mas presentemente como est√° finalizada,
-era justo, que fazendo segunda impress√£o, lhe addiccionasse a presente
+mostrando a fragilidade das suas razıes, e as pessoas de juizo
+claramente conhecÍr„o, que era intriga formada por alguns individuos, e
+por consequencia a Carta ficou com o mesmo crÈdito; 3. porque ainda a
+impress„o n„o estava concluida, mas presentemente como est· finalizada,
+era justo, que fazendo segunda impress„o, lhe addiccionasse a presente
 Memoria.
 
-[2] Ser√° bom responder agora ao Commentador desta Carta sobre huma
-d√∫vida, com que elle fez alguma bulha entre os seus Socios Academicos, e
+[2] Ser· bom responder agora ao Commentador desta Carta sobre huma
+d˙vida, com que elle fez alguma bulha entre os seus Socios Academicos, e
 he que a maneira de como me servi para tirar a planta da Ilha brava, era
-muito duvidosa, em raz√£o da determina√ß√£o das bazes, n√£o se lembrando que
-os alinhamentos s√≥ se podem fazer no mar alto, por meio da bussola, ou
-agulha de marear, e que outros quaesquer meios ser√£o quimeras; por√©m
+muito duvidosa, em raz„o da determinaÁ„o das bazes, n„o se lembrando que
+os alinhamentos sÛ se podem fazer no mar alto, por meio da bussola, ou
+agulha de marear, e que outros quaesquer meios ser„o quimeras; porÈm
 merece toda a desculpa, visto qUe, nunca tenha navegado, nem
 emprehendido semelhantes trabalhos.
 
@@ -432,9 +432,9 @@ Aqui encontram-se listados todos os erros encontrados e corrigidos:
 
 
   +----------+---------------------+----------------------+
-  |          |      Original       |      Correc√ß√£o       |
+  |          |      Original       |      CorrecÁ„o       |
   +----------+---------------------+----------------------+
-  |#p√°g.    6| naverdade           | na verdade           |
+  |#p·g.    6| naverdade           | na verdade           |
   +----------+---------------------+----------------------+
 
 
@@ -442,7 +442,7 @@ Aqui encontram-se listados todos os erros encontrados e corrigidos:
 
 
 End of the Project Gutenberg EBook of Memoria hydrografica das ilhas de Cabo
-Verde, by Francisco Ant√≥nio Cabral
+Verde, by Francisco AntÛnio Cabral
 
 *** END OF THIS PROJECT GUTENBERG EBOOK MEMORIA HYDROGRAFICA--CABO VERDE ***
 

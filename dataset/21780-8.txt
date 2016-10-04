@@ -1,4 +1,4 @@
-The Project Gutenberg EBook of Galat√©a, by Ant√≥nio Joaquim de Carvalho
+The Project Gutenberg EBook of GalatÈa, by AntÛnio Joaquim de Carvalho
 
 This eBook is for the use of anyone anywhere at no cost and with
 almost no restrictions whatsoever.  You may copy it, give it away or
@@ -6,10 +6,10 @@ re-use it under the terms of the Project Gutenberg License included
 with this eBook or online at www.gutenberg.net
 
 
-Title: Galat√©a
+Title: GalatÈa
        egloga
 
-Author: Ant√≥nio Joaquim de Carvalho
+Author: AntÛnio Joaquim de Carvalho
 
 Release Date: June 8, 2007 [EBook #21780]
 
@@ -17,12 +17,12 @@ Language: Portuguese
 
 Character set encoding: ISO-8859-1
 
-*** START OF THIS PROJECT GUTENBERG EBOOK GALAT√âA ***
+*** START OF THIS PROJECT GUTENBERG EBOOK GALAT…A ***
 
 
 
 
-Produced by Pedro Saborano. Para coment√°rios √† transcri√ß√£o
+Produced by Pedro Saborano. Para coment·rios ‡ transcriÁ„o
 visite http://pt-scriba.blogspot.com/ (This book was
 produced from scanned images of public domain material
 from Google Book Search)
@@ -35,7 +35,7 @@ from Google Book Search)
 
 
 
-GALAT√âA
+GALAT…A
 
 EGLOGA.
 
@@ -50,9 +50,9 @@ ANTONIO JOAQUIM DE CARVALHO.
 
 LISBOA: M. DCCCI.
 
-NA OFFIC. DE SIM√ÉO THADDEO FERREIRA.
+NA OFFIC. DE SIM√O THADDEO FERREIRA.
 
-_Com Licen√ßa da Meza do Dezembargo do Pa√ßo._
+_Com LicenÁa da Meza do Dezembargo do PaÁo._
 
 
 
@@ -61,57 +61,57 @@ _Com Licen√ßa da Meza do Dezembargo do Pa√ßo._
 AO LEITOR.
 
 
-Esta primeira Egloga, ha 16 annos impressa, agora fa√ßo-a reimprimir, para
+Esta primeira Egloga, ha 16 annos impressa, agora faÁo-a reimprimir, para
 tirar-lhe as lisongeiras Cartas, para emendar-lhe algumas passagens com
 melhor escolha, para curar-lhe alguns vicios gerados por aquelles, que duas
-vezes a reimprim√≠r√£o, a pezar do meu gosto, e para ligar ambas as Partes,
-por que a primeira d√° a materia para a segunda.
+vezes a reimprimÌr„o, a pezar do meu gosto, e para ligar ambas as Partes,
+por que a primeira d· a materia para a segunda.
 
-Se me increparem, porque fa√ßo domavel o Gigante Polyfemo, contra a opini√£o
+Se me increparem, porque faÁo domavel o Gigante Polyfemo, contra a opini„o
 dos melhores Poetas, respondo: He verdade, que a Fabula nos mostra este
-Cyclope hum monstro de crueldade, de extraordinarias for√ßas, e destemido:
+Cyclope hum monstro de crueldade, de extraordinarias forÁas, e destemido:
 hum tragador de seis companheiros de Ulysses, e delle mesmo o seria, se
-astucioso n√£o lhe fugisse: hum soberbo em fim, que declamava, que nem ao
-mesmo Jupiter temia; mas pergunto: Este Gigante era humano, ou n√£o? Todos
-me dir√£o, que sim. Pois se era humano, era sugeito ao imperio da Raz√£o, com
-cujas armas o ataco, e o ven√ßo: e s√≥ seria inverosimil, se eu com a raz√£o
-accommettesse hum Tigre, hum Le√£o, huma Serpente. Se os mais n√£o piz√°r√£o
-esta estrada, porque n√£o quizer√£o, pizo-a eu, porque quero, e por que
-posso, sem atropelar a verosimilhan√ßa.
+astucioso n„o lhe fugisse: hum soberbo em fim, que declamava, que nem ao
+mesmo Jupiter temia; mas pergunto: Este Gigante era humano, ou n„o? Todos
+me dir„o, que sim. Pois se era humano, era sugeito ao imperio da Raz„o, com
+cujas armas o ataco, e o venÁo: e sÛ seria inverosimil, se eu com a raz„o
+accommettesse hum Tigre, hum Le„o, huma Serpente. Se os mais n„o piz·r„o
+esta estrada, porque n„o quizer„o, pizo-a eu, porque quero, e por que
+posso, sem atropelar a verosimilhanÁa.
 
 Se altero o caracter da Egloga; se me aparto da simplicidade pastoril; se
-fa√ßo inflammar Polyfemo, e respirar vingan√ßa, he porque eu n√£o pinto hum
-daquelles Pastores do Seculo de oiro, em que reinava a mansid√£o, e o socego
+faÁo inflammar Polyfemo, e respirar vinganÁa, he porque eu n„o pinto hum
+daquelles Pastores do Seculo de oiro, em que reinava a mansid„o, e o socego
 de espirito; pinto hum Cyclope, hum Pastor ferino, que abrazado no ciume, e
-na ira, deo barbara morte ao mancebo √Åcis, lan√ßando-lhe em cima hum
-penhasco: cat√°strofe, que eu n√£o pinto, por n√£o fazer huma Egloga com
+na ira, deo barbara morte ao mancebo ¡cis, lanÁando-lhe em cima hum
+penhasco: cat·strofe, que eu n„o pinto, por n„o fazer huma Egloga com
 espirito de Tragedia.
 
-Eu tive a fortuna, de que alguns homens (discr√©tos homens!) dissessem, que
-n√£o era minha a minha Egloga Deploratoria intitulada JOSINO na chorada
-morte do Principe o Senhor D. JOS√â. Eu serei feliz, se agora tiver a mesma
+Eu tive a fortuna, de que alguns homens (discrÈtos homens!) dissessem, que
+n„o era minha a minha Egloga Deploratoria intitulada JOSINO na chorada
+morte do Principe o Senhor D. JOS…. Eu serei feliz, se agora tiver a mesma
 fortuna, porque se esses contrastes duvidarem de ser minha esta obra, boa
-ser√° ella pela sua avalia√ß√£o. Esses, que duvid√£o, examinem, busquem,
-descubr√£o o legitimo Author, e o mostrem para gloria sua, e descredito meu.
-Conhe√ßa o mundo o homem virtuoso, o homem raro, que se can√ßou naquella
-composi√ß√£o, para renunciar em mim a posse, o lucro, e o credito della. E se
-eu a furtei, onde est√°s homem roubado, que n√£o acodes ao teu cabedal,
-sabendo, que em meu poder existe? Denunc√≠a-me; clama justi√ßa contra mim.
+ser· ella pela sua avaliaÁ„o. Esses, que duvid„o, examinem, busquem,
+descubr„o o legitimo Author, e o mostrem para gloria sua, e descredito meu.
+ConheÁa o mundo o homem virtuoso, o homem raro, que se canÁou naquella
+composiÁ„o, para renunciar em mim a posse, o lucro, e o credito della. E se
+eu a furtei, onde est·s homem roubado, que n„o acodes ao teu cabedal,
+sabendo, que em meu poder existe? DenuncÌa-me; clama justiÁa contra mim.
 Ah! Ninguem falla? Ninguem me acusa? Pois acuso-me eu, mas he da temeridade
-de emprehender a guerra sem ter armas: de querer lugar na R√©publica das
-Letras sem ser Cidad√£o de Athenas: de fazer Versos sem beber da Cast√°lia,
+de emprehender a guerra sem ter armas: de querer lugar na RÈpublica das
+Letras sem ser Cidad„o de Athenas: de fazer Versos sem beber da Cast·lia,
 sem soccorro das Musas, sem conhecer Apollo. Os Versos (toscos Versos) que
-ha trinta annos escrevo, s√£o os denunciantes, as testemunhas, e os Juizes
-do meu crime. Acusem-me, como eu me acuso deste delicto; por√©m n√£o de
-roubador, officio imfame, que n√£o cabe em almas honradas; mas se os
-cr√≠ticos me arguirem pelos pobres, insulsos Versos, devem igualmente
-attender em minha defensa, que estes se n√£o tem mel, tambem n√£o tem veneno;
-se n√£o deleit√£o, tambem n√£o ferem. Isto supposto, fa√ß√£o-me Justi√ßa.
+ha trinta annos escrevo, s„o os denunciantes, as testemunhas, e os Juizes
+do meu crime. Acusem-me, como eu me acuso deste delicto; porÈm n„o de
+roubador, officio imfame, que n„o cabe em almas honradas; mas se os
+crÌticos me arguirem pelos pobres, insulsos Versos, devem igualmente
+attender em minha defensa, que estes se n„o tem mel, tambem n„o tem veneno;
+se n„o deleit„o, tambem n„o ferem. Isto supposto, faÁ„o-me JustiÁa.
 
 
 
 
-GALAT√âA
+GALAT…A
 
 EGLOGA.
 
@@ -128,47 +128,47 @@ POLYFEMO, E LAURINDO.
 
 POLYFEMO.
 
-Ah! Campos, campos meus! V√≥s, que algum dia
+Ah! Campos, campos meus! VÛs, que algum dia
   Me servieis de amavel companhia:
-V√≥s, que os ouvidos daveis ao meu canto,
+VÛs, que os ouvidos daveis ao meu canto,
   Prestaimos boje, para ouvir meu pranto;
-Se bem, que ass√°z me custa magoar-vos,
+Se bem, que ass·z me custa magoar-vos,
   Depois de com meu canto deleitar-vos;
-Mas eu ado√ßarei a vossa m√°goa,
+Mas eu adoÁarei a vossa m·goa,
   Dando-vos de meus olhos rios de agua:
 Com ella florecei para os viventes,
-  E √° custa do meu mal vivei contentes,
-Que eu n√£o vos lograrei, n√£o; nem j√° gora
-  A minha morte p√≥de ter demora;
+  E · custa do meu mal vivei contentes,
+Que eu n„o vos lograrei, n„o; nem j· gora
+  A minha morte pÛde ter demora;
 Os Ceos a mandem, que em tormentos fortes
   Huma morte he melhor, que muitas mortes.
-Ah! Campos, se v√≥s fosseis animados,
+Ah! Campos, se vÛs fosseis animados,
   E ponderasseis bem os meus cuidados,
 De mim aprenderieis, que a ventura,
   Ao que nasceo feliz, he que procura:
-E Aquelle, que nasceo j√° desgra√ßado,
+E Aquelle, que nasceo j· desgraÁado,
   Sempre lhe foge com semblante irado.
 Mas quem he, que este monte vem subindo?
   Pelo trage he Pastor: sim, he Laurindo,
 Que talvez magoado d'escutar-me,
   Quer meios procurar de consolar-me:
-Em v√£o, em v√£o se can√ßa, se o intenta;
+Em v„o, em v„o se canÁa, se o intenta;
   Que em vez de alivio dar-me, a dor me augmenta.
 Agora mais me vejo impaciente,
-  Que at√© me afflige a vista de hum vivente:
-Mas elle vem, n√£o posso resistir-lhe,
-  J√° n√£o posso esconder-me, nem fugir-lhe;
+  Que atÈ me afflige a vista de hum vivente:
+Mas elle vem, n„o posso resistir-lhe,
+  J· n„o posso esconder-me, nem fugir-lhe;
 Se fujo desta parte, he ribanceira,
   Se daquella, me affogo na ribeira;
-Pois nella acabarei, morrer n√£o temo;
-  De huma s√≥ morte acabe Polyfemo.
+Pois nella acabarei, morrer n„o temo;
+  De huma sÛ morte acabe Polyfemo.
 
 
 LAURINDO.
 
 Detem-te, amigo, e espera, que fazias?
   A ti mesmo matar-te pertendias?
-Seres comtigo mesmo √≠mpio tyranno,
+Seres comtigo mesmo Ìmpio tyranno,
   Para hum damno evitar com maior damno!
 
 
@@ -176,14 +176,14 @@ POLYFEMO.
 
 Deixa, deixa, que eu morra por piedade,
   Porque morrendo, evito a crueldade
-Dos √≠mpios Deoses: ah! Viver n√£o quero,
-  Pois vida t√£o penosa n√£o tol√©ro:
-Tu contar√°s √° falsa Galat√©a,
-  Que por ella me expuz √° morte feia;
-Por√©m no peito o cora√ß√£o me estalla,
-  Vendo, que √Åcis tyranno ha de logralla:
+Dos Ìmpios Deoses: ah! Viver n„o quero,
+  Pois vida t„o penosa n„o tolÈro:
+Tu contar·s · falsa GalatÈa,
+  Que por ella me expuz · morte feia;
+PorÈm no peito o coraÁ„o me estalla,
+  Vendo, que ¡cis tyranno ha de logralla:
 Mas logre-a, logre-a, embora, oh que tormento!
-  Que eu s√≥, por tal n√£o ver, morrer intento.
+  Que eu sÛ, por tal n„o ver, morrer intento.
 
 
 LAURINDO.
@@ -191,17 +191,17 @@ LAURINDO.
 Socega, amigo, queres dessa sorte
   Dar a vida, por quem te causa a morte?
 Queres vingar-te della socegado?
-  Desprezou-te, despreza-a: est√°s vingado.
+  Desprezou-te, despreza-a: est·s vingado.
 
 
 POLYFEMO.
 
-Desprezar Galat√©a, e offendella
-  Quando s√≥ morrer por ella!
-Isso n√£o, que depois de eu adoralla,
-  Valor n√£o tenho para maltratalla:
+Desprezar GalatÈa, e offendella
+  Quando sÛ morrer por ella!
+Isso n„o, que depois de eu adoralla,
+  Valor n„o tenho para maltratalla:
 Ella pratique embora a crueldade,
-  Que eu n√£o devo imitar-lhe a impiedade.
+  Que eu n„o devo imitar-lhe a impiedade.
 
 
 LAURINDO.
@@ -213,93 +213,93 @@ Conheces, que te offende essa perjura,
 POLYFEMO.
 
 Sim, amigo, traidora a considero;
-  Mas quiz-lhe bem: querer-lhe mal n√£o quero.
-Eu n√£o lhe amo o rigor, sim a belleza,
+  Mas quiz-lhe bem: querer-lhe mal n„o quero.
+Eu n„o lhe amo o rigor, sim a belleza,
   Que he parto singular da natureza:
-Tu, que a conheces, v√™, se raz√£o tenho
-  Para adoralla com t√£o grande empenho:
+Tu, que a conheces, vÍ, se raz„o tenho
+  Para adoralla com t„o grande empenho:
 O lindo rosto, aquelles olhos bellos,
-  T√£o matadores, que em chegando a v√™llos,
-Parece, que do rosto lhe saltav√£o,
-  E que para n√£o v√™llos me cegav√£o.
-As loiras tran√ßas, bem como doiradas,
+  T„o matadores, que em chegando a vÍllos,
+Parece, que do rosto lhe saltav„o,
+  E que para n„o vÍllos me cegav„o.
+As loiras tranÁas, bem como doiradas,
   Sobre seus alvos hombros espalhadas.
 Se as costas me voltava por desprezo,
   Como que a ellas me levava prezo:
-Nas lindas faces se me figurav√£o
-  Duas papoilas, que entre a neve estav√£o.
+Nas lindas faces se me figurav„o
+  Duas papoilas, que entre a neve estav„o.
 A boca, que em conceitos sempre acerta,
   Parecia huma rosa meia aberta;
 Mas quando grave, e graciosa ria,
-  Oh quanto ent√£o mais bella parecia!
-Mostrando os claros dentes, que esmaltav√£o
-  Seus bei√ßos, que de n√°car se formav√£o;
-E co'a for√ßa do riso as faces bellas
-  Duas covas fazi√£o como estrellas.
-As m√£os por engra√ßadas, e pequenas
-  Pareci√£o formosas a√ßucenas.
-Mil vezes quiz beijar-lhas; por√©m ella,
-  Que o damno prevenia na caut√©la,
+  Oh quanto ent„o mais bella parecia!
+Mostrando os claros dentes, que esmaltav„o
+  Seus beiÁos, que de n·car se formav„o;
+E co'a forÁa do riso as faces bellas
+  Duas covas fazi„o como estrellas.
+As m„os por engraÁadas, e pequenas
+  Pareci„o formosas aÁucenas.
+Mil vezes quiz beijar-lhas; porÈm ella,
+  Que o damno prevenia na cautÈla,
 Escondendo-as, de mim mais se affastava,
-  Que at√© nisto ser casta bem mostrava.
+  Que atÈ nisto ser casta bem mostrava.
 Estas bellezas, esta honestidade
-  For√£o priz√µes da minha liberdade,
-E quanto as lindas m√£os mais me negava,
-  Tanto as doces priz√µes mais me apertava;
-Mas n'huma s√©sta vi, que ella dormia
+  For„o prizıes da minha liberdade,
+E quanto as lindas m„os mais me negava,
+  Tanto as doces prizıes mais me apertava;
+Mas n'huma sÈsta vi, que ella dormia
   Junto do pote, que na fonte enchia:
-Vou-me p√© ante p√©, e hindo a beijar-lhas,
+Vou-me pÈ ante pÈ, e hindo a beijar-lhas,
   Me arrependi, porque temi manchar-lhas.
-Nem s√≥ para pegar-lhes valor tinha,
-  Porque m√£o t√£o grosseira, como a minha,
-N√£o devia tocar aquella neve,
-  Que s√≥ com outra igual tocar-se deve;
-Mas immovel fiquei, pois s√≥ gostava
-  De ver a bella ac√ß√£o, em que ella estava.
-O branco rosto sobre o curvo bra√ßo,
-  Outra m√£o tambem curva no rega√ßo:
+Nem sÛ para pegar-lhes valor tinha,
+  Porque m„o t„o grosseira, como a minha,
+N„o devia tocar aquella neve,
+  Que sÛ com outra igual tocar-se deve;
+Mas immovel fiquei, pois sÛ gostava
+  De ver a bella acÁ„o, em que ella estava.
+O branco rosto sobre o curvo braÁo,
+  Outra m„o tambem curva no regaÁo:
 O corpo reclinado sobre a fonte,
   E a curta sombra, que lhe dava o monte,
-S√≥ metade do rosto lhe cubria,
+SÛ metade do rosto lhe cubria,
   Que muito mais formosa inda a fazia.
-Eu, que s√≥ me detinha em admiralla,
+Eu, que sÛ me detinha em admiralla,
   Sem que tivesse intento de acordalla;
 Como de gosto estava arrebatado,
   Sem que eu sentisse, cahe me o cajado:
-D√°-lhe nos p√©s: acorda ella assustada,
-  V√™-me, levanta-se, e com voz irada
-Me diz: "Vil, s√≥ comigo! Que fazias?
+D·-lhe nos pÈs: acorda ella assustada,
+  VÍ-me, levanta-se, e com voz irada
+Me diz: "Vil, sÛ comigo! Que fazias?
   "Dize: acaso offender-me pertendias?
 "Se por gigante intentas de vencer-me,
-  "Matar-me poder√°s, mas n√£o render-me:
-"Que a minha honestidade he t√£o constante,
-  "Que n√£o cede √° violencia de hum gigante.
-N√£o, (eu lhe respondi) n√£o te offendia:
+  "Matar-me poder·s, mas n„o render-me:
+"Que a minha honestidade he t„o constante,
+  "Que n„o cede · violencia de hum gigante.
+N„o, (eu lhe respondi) n„o te offendia:
   Nem de ti outra cousa pertendia,
-Mais do que ao menos, pois te n√£o lograva,
+Mais do que ao menos, pois te n„o lograva,
   Ver-te: e so com te ver me contentava.
 Se nisto te offendi, ou me desculpa,
   Ou me castiga, se me achares culpa:
-Que se eu da tua m√£o for castigado,
-  Serei ditoso, se antes desgra√ßado.
+Que se eu da tua m„o for castigado,
+  Serei ditoso, se antes desgraÁado.
 Mas dize-me, cruel, se me estimaste,
-  Porque raz√£o sem culpa me deixaste?
+  Porque raz„o sem culpa me deixaste?
 E se indigno me achavas para amante,
   Porque juraste de me ser constante?
 Que resposta daria a fementida?
   "Vai-te louco, (me diz) que aborrecida
-"At√© de ouvir-te estou, nem posso dar-te
-  "Outra raz√£o maior de desprezar-te,
-"Sen√£o, que as Leis de Amor j√° n√£o tolero:
-  "Amei-te, em quanto quiz, hoje n√£o quero.
-"Em fim, tu n√£o √©s do meu agrado:
-  "Basta: vai-te, que est√°s desenganado.
-E com este rigor aquella √≠mpia
+"AtÈ de ouvir-te estou, nem posso dar-te
+  "Outra raz„o maior de desprezar-te,
+"Sen„o, que as Leis de Amor j· n„o tolero:
+  "Amei-te, em quanto quiz, hoje n„o quero.
+"Em fim, tu n„o Ès do meu agrado:
+  "Basta: vai-te, que est·s desenganado.
+E com este rigor aquella Ìmpia
   Foge: chamo-a, mais ella me fugia:
-Eu vendo a ir t√£o bella, quanto irada,
+Eu vendo a ir t„o bella, quanto irada,
   Corpo gentil, cintura delicada,
-Afflicto exclamo: Ah! Deshumana f√©ra!
-  Nunca te eu v√≠ra, ou nunca te perd√™ra.
+Afflicto exclamo: Ah! Deshumana fÈra!
+  Nunca te eu vÌra, ou nunca te perdÍra.
 
 
 LAURINDO.
@@ -307,19 +307,19 @@ LAURINDO.
 Ainda louvas a ingrata por formosa,
   Quando enorme se fez, sendo aleivosa?
 Polyfemo, se queres ser discreto,
-  N√£o recordes a offensa, nem o affecto:
+  N„o recordes a offensa, nem o affecto:
 Que o affecto tambem o tempo o gasta,
   E a offensa he parto de huma louca, basta
-Que √° raz√£o nunca os olhos tem abertos,
-  E sem luz que far√°? Mil desacertos:
-Por isso √°quelle, que extremoso a trata,
- A paga, que lhe d√°, he ser-lhe ingrata.
+Que · raz„o nunca os olhos tem abertos,
+  E sem luz que far·? Mil desacertos:
+Por isso ·quelle, que extremoso a trata,
+ A paga, que lhe d·, he ser-lhe ingrata.
 Bem como o bravo lobo carniceiro,
-  Que v√™, que a innocencia de hum cordeiro
-N√£o p√©de entranhas ter para aggravallo,
-  Por isso mesmo quer despeda√ßallo;
+  Que vÍ, que a innocencia de hum cordeiro
+N„o pÈde entranhas ter para aggravallo,
+  Por isso mesmo quer despedaÁallo;
 Mas se este acha hum rafeiro, que o extingue,
-  Tambem ella achar√° quem bem te vingue:
+  Tambem ella achar· quem bem te vingue:
 E no entanto o melhor he esquecella,
   E se possivel for, nunca mais vella.
 
@@ -329,15 +329,15 @@ POLYFEMO.
 Tambem deixar de a ver he impossivel,
   Porque sem vella, a dor mais insoffrivel
 Creio, que dentro n'alma padecesse,
-  Como a flor, que sem Sol murcha, e n√£o cresce.
+  Como a flor, que sem Sol murcha, e n„o cresce.
 Ah! Se eu agora a visse, e lhe fallasse,
   Talvez que a meus gemidos se abrandasse:
-E p√≥de ser, que a achasse arrependida
+E pÛde ser, que a achasse arrependida
   De perder, quem por ella perde a vida.
-Oh qu√£o feliz seria a minha sorte,
+Oh qu„o feliz seria a minha sorte,
   Se ella abrandasse aquelle genio forte!
-Do desprezo, e d'affronta eu me esquec√™ra,
-  Se hum riso, se hum sinal de amor me d√©ra.
+Do desprezo, e d'affronta eu me esquecÍra,
+  Se hum riso, se hum sinal de amor me dÈra.
 Tudo, tudo por ella perderia:
   Sem gado, sem choupana ficaria:
 Sujeitar-me-hia pelos seus amores
@@ -349,113 +349,113 @@ Pois sem logralla, tudo me he penoso,
 LAURINDO.
 
 Se amas com tanto extremo a huma traidora,
-  Que mais fizeras, se fiel te f√¥ra?
+  Que mais fizeras, se fiel te fÙra?
 
 
 POLYFEMO.
 
 Esta alma, que me anima, se pudesse,
-  Creio, que em paga d'esse amor lha d√©sse,
+  Creio, que em paga d'esse amor lha dÈsse,
 Amando-te, era justo premialla;
   Mas desprezando-te, he loucura amalla:
-Sim, que o homem n√£o mostra ser discreto
+Sim, que o homem n„o mostra ser discreto
   Amando a falsa, que tem outro objecto:
 Pois daqui nasce a mancha da deshonra,
   E antes se perca a vida, do que a honra.
-Que se havia dizer na nossa Ald√™a,
-  Se depois dessa ingrata Galat√©a
+Que se havia dizer na nossa AldÍa,
+  Se depois dessa ingrata GalatÈa
 Por outro te deixar, tu a buscasses,
   Esquecido d'affronta inda a estimasses?
-E n√£o tremias, n√£o te envergonhavas
+E n„o tremias, n„o te envergonhavas
   De dizerem, que a honra desprezavas?
 Ah! Querias do amor ser arrastado,
   Perdendo a fama, e credito de honrado?
-Dize, responde, a falla n√£o escondas;
+Dize, responde, a falla n„o escondas;
   Mas ou me vence, ou nada me respondas.
 
 
 POLYFEMO.
 
 Nada responderei por defender-me,
-  Pois por s√°bio chegaste a convencer-me:
-Se a paix√£o me cubrio de escuridade,
+  Pois por s·bio chegaste a convencer-me:
+Se a paix„o me cubrio de escuridade,
   Tu me mostraste as luzes da verdade:
-Agora j√° conhe√ßo, que essa √≠mpia
-  Mais f√©ra, que o drag√£o, que o monte cria,
-Nem amor, nem piedade j√° merece,
+Agora j· conheÁo, que essa Ìmpia
+  Mais fÈra, que o drag„o, que o monte cria,
+Nem amor, nem piedade j· merece,
   Pois por outro me deixa; e assim se esquece
-Da f√©, que me jurou, e da lealdade,
+Da fÈ, que me jurou, e da lealdade,
   Com que sempre a tratei; que a falsidade
-N√£o podia caber n'hum peito amante,
+N„o podia caber n'hum peito amante,
   Que ainda offendido mostra ser constante.
-Eu, que at√© √°s Pastoras, quando as via,
+Eu, que atÈ ·s Pastoras, quando as via,
   Nem ainda, o Ceo vos guarde, lhes dizia:
 E se acaso de longe as avistava,
   Por lhes fugir, a estrada rodeava.
-Tudo isto por fineza √°quella infame,
-  Que, s√≥ t√£o feio nome, he bem lhe chame;
-Porque a saber, que √°s outras eu fallava,
-  N√£o julgasse, que alguma me agradava;
-Por√©m que premio vim a tirar disto?
+Tudo isto por fineza ·quella infame,
+  Que, sÛ t„o feio nome, he bem lhe chame;
+Porque a saber, que ·s outras eu fallava,
+  N„o julgasse, que alguma me agradava;
+PorÈm que premio vim a tirar disto?
   Sabes o que? Com todos ser malquisto:
 Desprezarem-me todos, ver-me agora
-  Aqui s√≥, sem amigos, nem Pastora:
+  Aqui sÛ, sem amigos, nem Pastora:
 E a falsa, tanto extremo desprezando,
   Amar outro, e ficar de mim zombando!
-E soffro tal inj√∫ria sem vingar-me!
+E soffro tal inj˙ria sem vingar-me!
   Poderei socegar sem despicar-me!
-N√£o, n√£o socegarei, que hum peito irado
-  Socega s√≥ depois de estar vingado.
-Sim, vou j√° despicar-me... Mas que intento!
-  Que fa√ßo! Aonde vou! Que pensamento
+N„o, n„o socegarei, que hum peito irado
+  Socega sÛ depois de estar vingado.
+Sim, vou j· despicar-me... Mas que intento!
+  Que faÁo! Aonde vou! Que pensamento
 He este, que me occorre! Oh quanto errado
-  Gyra o discurso de paix√£o cercado!
-Eu matar Galat√©a! Oh que vileza!
+  Gyra o discurso de paix„o cercado!
+Eu matar GalatÈa! Oh que vileza!
   Naquella rara imagem da belleza
 Descarregar o golpe penetrante!
-  E havi√£o ver meus olhos nesse istante
+  E havi„o ver meus olhos nesse istante
 Aquelle brando peito traspassado!
   O rosto, bem qual Sol quando eclipsado!
-E os olhos, que daquelle Sol s√£o raios,
+E os olhos, que daquelle Sol s„o raios,
   Perdendo a luz na sombra dos desmaios!
-Aquellas lindas faces t√£o c√≥radas
+Aquellas lindas faces t„o cÛradas
   Eu poderia vellas desmaiadas!
 A boca rubicunda, e graciosa,
   Bem qual entre jasmins a linda rosa,
 Eu teria valor, teria vida,
-  Para vella sem gra√ßa amortecida!
-E havi√£o escutar-lhe os meus ouvidos
+  Para vella sem graÁa amortecida!
+E havi„o escutar-lhe os meus ouvidos
   O pranto, os ais, e os ultimos gemidos:
-J√° com tr√©mola voz, e a cada instante
+J· com trÈmola voz, e a cada instante
   Vella convulsa, afflicta, e delirante,
-Sem alento, sem c√¥r desfalecida,
+Sem alento, sem cÙr desfalecida,
   Dando hum suspiro, e acabando a vida!
 Oh Ceos! Que horror concebo em ponderallo!
-  Eu tremo, g√©lo-me, e de dor estallo:
-Que cora√ß√£o t√£o barbaro haveria,
-  Que obrasse t√£o enorme tyrannia?
+  Eu tremo, gÈlo-me, e de dor estallo:
+Que coraÁ„o t„o barbaro haveria,
+  Que obrasse t„o enorme tyrannia?
 Eu teria valor, se a offendesse,
   Para vella morrer, sem que eu moresse?
-N√£o, n√£o teria tanta impiedade,
+N„o, n„o teria tanta impiedade,
   Que vendo cahir morta hume Deidade,
-N√£o me sahisse deste insano peito?
-  O duro cora√ß√£o de dor desfeito.
-Nem mais contemplar quero tal desgra√ßa,
-  Que parece, que o Ceo j√° me amea√ßa,
-Que a terra vejo abrir, que j√° comigo
+N„o me sahisse deste insano peito?
+  O duro coraÁ„o de dor desfeito.
+Nem mais contemplar quero tal desgraÁa,
+  Que parece, que o Ceo j· me ameaÁa,
+Que a terra vejo abrir, que j· comigo
   Se abate, e me confunde por castigo.
-Ah! Minha Galat√©a, vive embora,
+Ah! Minha GalatÈa, vive embora,
   Bem que me sejas infiel, traidora:
-Ainda te amo, se bem, que o n√£o mere√ßas;
-  Eu pade√ßa, mas sem que tu pade√ßas:
+Ainda te amo, se bem, que o n„o mereÁas;
+  Eu padeÁa, mas sem que tu padeÁas:
 Vive feliz, e logra o teu amante:
-  Oh justos Ceos, que dor t√£o penetrante!
-Mal posso respirar, que at√© o alento
+  Oh justos Ceos, que dor t„o penetrante!
+Mal posso respirar, que atÈ o alento
   Me soffoca a violencia do tormento.
-Vai-te, amigo, e me deixa s√≥ hum pouco,
-  Que eu n√£o estou em mim, eu estou louco:
+Vai-te, amigo, e me deixa sÛ hum pouco,
+  Que eu n„o estou em mim, eu estou louco:
 Oh! Venha embora a morte rigorosa
-  Acabar-me esta vida t√£o penosa.
+  Acabar-me esta vida t„o penosa.
 
 
 LAURINDO.
@@ -468,89 +468,89 @@ E que o mundo dissesse pertendias,
 
 POLYFEMO.
 
-Tambem dir√°, que n√£o me alt√©ra a offensa,
-  Pois tol√©ro a inimiga na presen√ßa.
+Tambem dir·, que n„o me altÈra a offensa,
+  Pois tolÈro a inimiga na presenÁa.
 
 
 LAURINDO.
 
 Perdoando-lhe tu por generoso,
-  Que ha de o Mundo dizer? Que √©s virtuoso.
-Mas se a fraca mulher √≠mpio punias,
-  S√≥ de cubarde o nome vil terias.
+  Que ha de o Mundo dizer? Que Ès virtuoso.
+Mas se a fraca mulher Ìmpio punias,
+  SÛ de cubarde o nome vil terias.
 
 
 POLYFEMO.
 
-Sim, perdoada est√°: eu lhe perdoo,
+Sim, perdoada est·: eu lhe perdoo,
   Pois da sua fraqueza me condoo;
 Tambem, porque talvez seja innocente,
   Se bem que a culpa a accuse delinquente;
-Galat√©a he honesta, he recatada:
+GalatÈa he honesta, he recatada:
   Pois quem duvida fosse requestada
-D'aquelle √Åcis traidor, e que a enganasse
-  Com v√£s promessas, para que o amasse?
+D'aquelle ¡cis traidor, e que a enganasse
+  Com v„s promessas, para que o amasse?
 
 
 LAURINDO.
 
 Pensas bem que a mulher de honesto estado,
-  Se d√° seu cora√ß√£o, sempre he rogado;
-Se bem que o rogo algumas n√£o convence;
-  Mas a feia ambi√ß√£o a muitas vence.
+  Se d· seu coraÁ„o, sempre he rogado;
+Se bem que o rogo algumas n„o convence;
+  Mas a feia ambiÁ„o a muitas vence.
 
 
 POLYFEMO.
 
-Sim? Pois hoje ver√°s, que a minha ira
-  S√≥ contra aquelle infame se conspira:
+Sim? Pois hoje ver·s, que a minha ira
+  SÛ contra aquelle infame se conspira:
 Elle, por me arrancar de amor a palma,
   Me roubou a doce alma da minha alma,
 Vista dos olhos meus, bem como estrella,
-  Que luz me dava, para poder v√™lla.
+  Que luz me dava, para poder vÍlla.
 Clara luz, doce vida, alma preciosa,
   Tudo perdi. Oh scena lastimosa!
-Tudo o vil me roubou; por√©m protesto
+Tudo o vil me roubou; porÈm protesto
   Fazer o seu castigo manifesto
-Ao Ceo, √° terra, a todos os viventes:
-  Elle me offende, as culpas s√£o patentes;
+Ao Ceo, · terra, a todos os viventes:
+  Elle me offende, as culpas s„o patentes;
 Pois o proprio delicto he, que o condemna,
   A que segundo a culpa, sinta a pena.
 
 
 LAURINDO.
 
-Queres que a morte de √Åcis justifique
-  Huma c√©ga paix√£o, hum vil despique?
+Queres que a morte de ¡cis justifique
+  Huma cÈga paix„o, hum vil despique?
 
 
 POLYFEMO.
 
-Quero, porque da inj√∫ria se n√£o gave,
+Quero, porque da inj˙ria se n„o gave,
   Que o proprio sangue a sua culpa lave:
-E se neste lugar j√° o apanh√°ra,
-  O cora√ß√£o do peito lhe arranc√°ra.
+E se neste lugar j· o apanh·ra,
+  O coraÁ„o do peito lhe arranc·ra.
 
 
 LAURINDO.
 
-Dize: se a Galat√©a perdoaste,
+Dize: se a GalatÈa perdoaste,
   Depois que a culpa enorme lhe provaste,
 O Pastor, que he talvez menos culpado,
-  Porque n√£o he, como ella, perdoado?
+  Porque n„o he, como ella, perdoado?
 
 
 POLYFEMO.
 
 Ella sim: me offendeo; mas obrigada,
-  E merece perd√£o por violentada;
-Mas elle n√£o he digno de clemencia,
-  Pois mais culpado est√° pela violencia.
+  E merece perd„o por violentada;
+Mas elle n„o he digno de clemencia,
+  Pois mais culpado est· pela violencia.
 
 
 LAURINDO.
 
-Aqui n√£o ha violencia, ha certa culpa,
+Aqui n„o ha violencia, ha certa culpa,
   Que Amor condemna, e logo Amor desculpa,
 Delicto immensas vezes praticado
   Por quem ama, e pertende ser amado.
@@ -564,79 +564,79 @@ Assim se obra; mas sempre he falsidade,
 
 LAURINDO.
 
-He m√°o quebrar a Lei; mas que te espanta,
-  Se ella te jurou f√©, e a f√© quebranta?
+He m·o quebrar a Lei; mas que te espanta,
+  Se ella te jurou fÈ, e a fÈ quebranta?
 Polyfemo, discorre mais prudente;
   Vence-te a ti, se queres ser valente:
 Eu teu amigo sou, eu sou mais velho,
-  Tu, que √©s mais mo√ßo, toma o meu conselho
-No falso Amor n√£o fa√ßas confian√ßa:
-  Desterra a ira, foge da vingan√ßa,
+  Tu, que Ès mais moÁo, toma o meu conselho
+No falso Amor n„o faÁas confianÁa:
+  Desterra a ira, foge da vinganÁa,
 Que esta inquieta, aquella te amofina:
   De qualquer dellas sempre vem ruina.
-Males, que tu n√£o queres supportallos,
-  N√£o deves para os outros desejallos,
-Que √°s vezes s√£o, qual pedra despedida,
+Males, que tu n„o queres supportallos,
+  N„o deves para os outros desejallos,
+Que ·s vezes s„o, qual pedra despedida,
   Que no mesmo que a deita, abre a ferida:
-Queres a morte de √Åcis? N√£o ponderas,
-  Que p√≥de em ti cahir, se nelle a esperas?
+Queres a morte de ¡cis? N„o ponderas,
+  Que pÛde em ti cahir, se nelle a esperas?
 Teme o Ceo vingador, teme-lhe a ira:
-  O Ceo, que a vida d√°, s√≥ elle a tira:
-S√≥ elle sobre as vidas tem dominio,
-  E n√£o deves opp√¥r-te ao seu designio;
+  O Ceo, que a vida d·, sÛ elle a tira:
+SÛ elle sobre as vidas tem dominio,
+  E n„o deves oppÙr-te ao seu designio;
 Nem ao menos vingar-te levemente
-  Poder√°s, sem que fiques delinquente.
+  Poder·s, sem que fiques delinquente.
 Olha, que para Jupiter Supremo
   He menos, que hum mosquito, hum Polyfemo.
-√Å voz s√≥ do seu raio penetrante
+¡ voz sÛ do seu raio penetrante
   Treme de susto a rocha mais constante.
 Foge, foge de o veres irritado,
-  E n√£o fa√ßas, que a m√£o levante irado.
-Ah! J√°, mudas de c√¥r, tremes, e pensas?
-  Pois a ti mesmo, espero, te conven√ßas.
+  E n„o faÁas, que a m„o levante irado.
+Ah! J·, mudas de cÙr, tremes, e pensas?
+  Pois a ti mesmo, espero, te convenÁas.
 
 
 POLYFEMO.
 
-Tremo de confus√£o, e de mim tremo;
+Tremo de confus„o, e de mim tremo;
   Os castigos do Ceo Respeito, e temo;
-Mas o affecto, a paix√£o, a honra, a offensa
-  N√£o me deix√£o ac√ß√£o, em que eu me ven√ßa:
-Vejo a justa raz√£o, quero seguilla;
-  Mas a paix√£o vem logo a destruilla:
-Que este meu cora√ß√£o nunca descan√ßa
-  De chamar-me ao caminho da vingan√ßa.
+Mas o affecto, a paix„o, a honra, a offensa
+  N„o me deix„o acÁ„o, em que eu me venÁa:
+Vejo a justa raz„o, quero seguilla;
+  Mas a paix„o vem logo a destruilla:
+Que este meu coraÁ„o nunca descanÁa
+  De chamar-me ao caminho da vinganÁa.
 
 
 LAURINDO.
 
-Qualquer paix√£o, qualquer impaciencia
+Qualquer paix„o, qualquer impaciencia
   Se vence com discurso, e com prudencia.
 
 
 POLYFEMO.
 
-T√£o desgra√ßado sou, que neste empenho
-  Nem j√° discurso, nem prudencia tenho:
-Quem vio t√£o enredado labyrintho
-  Como este, que na id√©a, e n'alma sinto!
+T„o desgraÁado sou, que neste empenho
+  Nem j· discurso, nem prudencia tenho:
+Quem vio t„o enredado labyrintho
+  Como este, que na idÈa, e n'alma sinto!
 Deoses, se justos sois, ou dai-me a morte,
-  Ou me livrai de confus√£o t√£o forte;
+  Ou me livrai de confus„o t„o forte;
 Eu se vingar-me vou, me precipito;
   Porque aos Deoses offende o meu delicto:
-Se assento em perdoar, n√£o persevero,
+Se assento em perdoar, n„o persevero,
   Porque em vendo o offensor, logo me altero;
-Por√©m hum novo meio j√° me occorre:
+PorÈm hum novo meio j· me occorre:
   Melhor acerta, quem melhor discorre.
-Eu n√£o quero incitar ao Ceo clemente,
-  Mas para n√£o vingar-me do insolente,
-Eu fugirei de o ver, que ao v√™llo, logo
+Eu n„o quero incitar ao Ceo clemente,
+  Mas para n„o vingar-me do insolente,
+Eu fugirei de o ver, que ao vÍllo, logo
   A cinza quente exhalaria fogo.
 Deixarei estes monte, estes prados,
-  Que a verdura me dav√£o para os gados:
+  Que a verdura me dav„o para os gados:
 Irei viver nas mais occultas brenhas,
-  Onde gente n√£o veja, mas s√≥ penhas:
-Da vingan√ßa, e d'affronta assim me privo,
+  Onde gente n„o veja, mas sÛ penhas:
+Da vinganÁa, e d'affronta assim me privo,
   E ninguem sabe se sou morto ou vivo.
 
 
@@ -644,42 +644,42 @@ LAURINDO.
 
 Resolves bem, amigo; sim, he justo
   Fugires do perigo a todo o custo;
-Porque busca a desgra√ßa todo aquelle,
-  Que vendo o damno, n√£o se aparta delle:
+Porque busca a desgraÁa todo aquelle,
+  Que vendo o damno, n„o se aparta delle:
 Perca-se a Patria, perca-se a fazenda,
   Perca-se tudo, e nunca o Ceo se offenda.
 Tu sim perdes lavoiras, e o serrado;
   Mas o Ceo, que esses bens te havia dado,
-Te dar√° novos campos mais extensos,
+Te dar· novos campos mais extensos,
   Donde possas colher frutos immensos:
 Quem perder pelo Ceo, fique esperando,
-  Que em vez da perda, ficar√° lucrando:
-Se a tua cho√ßa perdes, caro amigo,
-  A minha he grande, vivir√°s comigo:
+  Que em vez da perda, ficar· lucrando:
+Se a tua choÁa perdes, caro amigo,
+  A minha he grande, vivir·s comigo:
 Para a tua lavoira dar-te-hei terra
-  Da campina, que tenho, al√©m da serra;
+  Da campina, que tenho, alÈm da serra;
 Dar-te-hei duas palmeiras mui frondosas,
-  Donde colhas as t√¢maras gostosas:
+  Donde colhas as t‚maras gostosas:
 Dar-te-hei duas formosas aveleiras,
-  Tortas sepas, vi√ßosas oliveiras:
+  Tortas sepas, viÁosas oliveiras:
 E do mais fruto, que o Ceo der, pendente
-  Repartiremos ambos irm√£mente.
-Para o gado l√° tens vi√ßosa relva,
-  L√° tens para o recreio a linda selva,
-Onde achar√°s hum bosque mui sombrio,
+  Repartiremos ambos irm„mente.
+Para o gado l· tens viÁosa relva,
+  L· tens para o recreio a linda selva,
+Onde achar·s hum bosque mui sombrio,
   De huma parte arvoredo, d'outra hum rio:
-Alli se ouvem os p√°ssaros cantando,
+Alli se ouvem os p·ssaros cantando,
   Alli se escuta o rio murmurando,
-Nelle and√£o de cont√≠nuo os pescadores,
-  Nelle pesc√£o tambem alguns Pastores
-O saboroso peixe √° longa cana,
+Nelle and„o de contÌnuo os pescadores,
+  Nelle pesc„o tambem alguns Pastores
+O saboroso peixe · longa cana,
   Ou com o iscado anzol, que mais o engana:
 Em fim, he campo ameno, he deleitavel,
   Fructuosa a terra, o clima saudavel:
-L√° vivir√°s, amigo, descan√ßado,
+L· vivir·s, amigo, descanÁado,
   Sem ver a causa do mortal cuidado:
 Pois naquella distancia por extensa
-  N√£o v√™s o offensor, nem v√™s a offensa.
+  N„o vÍs o offensor, nem vÍs a offensa.
 
 
 POLYFEMO.
@@ -687,44 +687,44 @@ POLYFEMO.
 Discreto amigo, amigo verdadeiro,
   Tu fostes dos humanos o primeiro,
 Que me soube vencer: eu que algum dia
-  Nem a raz√£o, nem Deoses conhecia,
-Hoje a raz√£o abra√ßo, os Deoses temo;
+  Nem a raz„o, nem Deoses conhecia,
+Hoje a raz„o abraÁo, os Deoses temo;
   Tu me fizeste hum novo Polyfemo.
 
 
 LAURINDO.
 
-Convence-te a raz√£o, porque √©s humano,
-  Que a raz√£o s√≥ n√£o doma o bruto insano.
+Convence-te a raz„o, porque Ès humano,
+  Que a raz„o sÛ n„o doma o bruto insano.
 
 
 POLYFEMO.
 
 Oh grande, oh raro exemplo d'amizade!
-  Oh cora√ß√£o, gerado de piedade!
-Despido d'ambi√ß√£o, e d'avareza,
-  S√≥ inclinado √° m√≠sera pobreza!
+  Oh coraÁ„o, gerado de piedade!
+Despido d'ambiÁ„o, e d'avareza,
+  SÛ inclinado · mÌsera pobreza!
 Deixa, que por mostrar-me agradecido,
-  A teus honrados p√©s chegue abatido;
-E esta boca, por quem ser√°s louvado,
-  Beije o ch√£o duro, dos teus p√©s tocado.
+  A teus honrados pÈs chegue abatido;
+E esta boca, por quem ser·s louvado,
+  Beije o ch„o duro, dos teus pÈs tocado.
 
 
 LAURINDO.
 
-Suspende, Polyfemo, eu n√£o pertendo
-  A tua gratid√£o, antes me offendo,
-De a meus p√©s te prostares abatido,
-  Acatamento s√≥ ao Ceo devido.
+Suspende, Polyfemo, eu n„o pertendo
+  A tua gratid„o, antes me offendo,
+De a meus pÈs te prostares abatido,
+  Acatamento sÛ ao Ceo devido.
 
 
 POLYFEMO.
 
-Oh quanto √©s digno de louvor completo,
+Oh quanto Ès digno de louvor completo,
   Por liberal, humilde, e por discreto!
 Aprenda o avarento ambicioso
   A ser mais liberal, mais caridoso:
-O que da santa, e m√≠sera pobreza
+O que da santa, e mÌsera pobreza
   Foge, como quem foge da vileza,
 Veja, que o rico, o paderoso, o nobre
   Talvez, chegue a pedir esmola ao pobre:
@@ -735,79 +735,79 @@ Veja, que a vida, e ouro n'hum momento
 Siga os teus passos o soberbo inchado,
   Que julga, que a ventura tem ao lado:
 Olhe, que a seca o grosso rio esgota,
-  E at√© com vento o cedro se derrota.
-Longe, longe de n√≥s, √≥ vicio forte,
+  E atÈ com vento o cedro se derrota.
+Longe, longe de nÛs, Û vicio forte,
   Vicio mais feio, do que a feia morte.
 
 
 LAURINDO.
 
-N√£o ter√£o parte em n√≥s vicios danados,
-  Nem pizar√°√µ a flor dos nossos prados;
-Que esta l√£, que nos cobre, esta pobreza
+N„o ter„o parte em nÛs vicios danados,
+  Nem pizar·ı a flor dos nossos prados;
+Que esta l„, que nos cobre, esta pobreza
   Contra o vicio nos serve de defeza.
 Vamos gozar a santa paz ditosa,
   Vamos colher a fruta saborosa
-Da minha bella Ald√™a: vem, amigo,
-  Que eu n√£o me ausento, sem que v√°s comigo.
+Da minha bella AldÍa: vem, amigo,
+  Que eu n„o me ausento, sem que v·s comigo.
 
 
 POLYFEMO.
 
 Vamos; mas ah Laurindo, quem diria,
-  Que por huma mulher, por'huma √≠mpia
-Eu havia deixar a minha Ald√™a,
+  Que por huma mulher, por'huma Ìmpia
+Eu havia deixar a minha AldÍa,
   E ir d'esmolas viver na terra alheia?
-Oh triste Polyfemo! Oh desgra√ßado!
-  De ti deves queixar-te, e n√£o do fado:
+Oh triste Polyfemo! Oh desgraÁado!
+  De ti deves queixar-te, e n„o do fado:
 Em mil exemplos o perigo viste,
-  Devias fugir delle, n√£o fugiste?
-Pois agora o teu erro ir√°s pagando,
+  Devias fugir delle, n„o fugiste?
+Pois agora o teu erro ir·s pagando,
   E o damno sem remedio lamentando.
-Tome exemplo de mim, o que ama c√©go,
+Tome exemplo de mim, o que ama cÈgo,
   Julgando ter no amor todo o socego,
-Veja a minha desgra√ßa, e tema o dano,
+Veja a minha desgraÁa, e tema o dano,
   Que sempre nasce deste amor profano:
-N√£o prenda a doce, amavel liberdade,
-  J√° que o Ceo lhe quiz dar livre a vontade:
+N„o prenda a doce, amavel liberdade,
+  J· que o Ceo lhe quiz dar livre a vontade:
 Fuja do amor, e guarde esta doutrina,
   Se quizer viver longe da ruina.
-Mas ah! Nem j√° do amor quero lembrar-me,
+Mas ah! Nem j· do amor quero lembrar-me,
   Que he facil outra vez precipitar-me.
-Adeus, √≥ campos meus, campos amados,
+Adeus, Û campos meus, campos amados,
   Que me daveis o fruto, e pasto aos gados:
-J√° n√£o hei de ferir vossos ouvidos,
-  Nem j√° respondereis aos meus gemidos.
-Adeus, √≥ rio meu, que me obrigavas,
+J· n„o hei de ferir vossos ouvidos,
+  Nem j· respondereis aos meus gemidos.
+Adeus, Û rio meu, que me obrigavas,
   Quando ao meu gado tuas aguas davas;
 Mas pago ficas, que essa grossa enchente
   A augmenta de meus olhos a corrente.
-Adeos, pl√°cida fonte, onde algum dia
+Adeos, pl·cida fonte, onde algum dia
   Se alegre rias, eu alegre ria;
 No prazer te imitei; mas hoje afflicto
-  S√≥ no pranto, que verto, he que te imito.
-Lembra-te, √≥ fonte, que a cruel Pastora,
-  Essa, que sem raz√£o me foi traidora,
+  SÛ no pranto, que verto, he que te imito.
+Lembra-te, Û fonte, que a cruel Pastora,
+  Essa, que sem raz„o me foi traidora,
 Por ti jurou, que essa agua lhe faltasse,
   Se ella de amor a pura se manchasse:
 Agora deves, pois faltou perjura,
   Por castigo negar-lhe essa agua pura:
-Como ella contra si justi√ßa pede,
-  Ou procure agua longe, ou morta √° sede;
+Como ella contra si justiÁa pede,
+  Ou procure agua longe, ou morta · sede;
 Mas ah! Que digo! He muita crueldade:
-  N√£o, n√£o lhe negues agua por piedade,
-Tem della compaix√£o, d√°-lhe desculpa,
-  Basta s√≥, que a castigue a propria culpa.
-Adeos, √≥ prado ameno, as flores bellas
+  N„o, n„o lhe negues agua por piedade,
+Tem della compaix„o, d·-lhe desculpa,
+  Basta sÛ, que a castigue a propria culpa.
+Adeos, Û prado ameno, as flores bellas
   Eu te roubei para tecer capellas:
 Perdoa-me, e talvez que inda melhores,
-  Que √° custa do meu mal ter√°s mais flores:
+  Que · custa do meu mal ter·s mais flores:
 E apague a minha culpa, que te aggrava
-  Este pranto, que humilde os p√©s te lava.
+  Este pranto, que humilde os pÈs te lava.
 Adeos, Pastores, doces companhias
   Dos meus passados, e felices dias;
-Por√©m dias t√£o breves, quanto he breve
-  No Irverno a calma, no Ver√£o a neve:
+PorÈm dias t„o breves, quanto he breve
+  No Irverno a calma, no Ver„o a neve:
 Se o meu canto aprendestes algum dia,
   No tempo da ventura, e d'alegria
 Hoje do meu desgosto, e do meu damno
@@ -815,33 +815,33 @@ Hoje do meu desgosto, e do meu damno
 Vendo, por breve ser minha ventura,
   Quanto a glotia do mundo pouco dura:
 Que apenas nos faz ver hum falso gosto,
-  Logo atr√°s delle vem maior desgosto.
-Adeos, √≥ Galat√©a; mas que digo!
+  Logo atr·s delle vem maior desgosto.
+Adeos, Û GalatÈa; mas que digo!
   Cuidei, que tinhas inda o nome antigo;
-Mas n√£o deves ter j√° nome de humana,
-  Sendo Le√£o feroz, vibora insana:
-Fica-te embora em paz, e s√≥ te pe√ßo
-  De mim t'esque√ßas, que eu de ti m'esque√ßo:
-Sim, farei, que n√£o tornes a lembrar-me
+Mas n„o deves ter j· nome de humana,
+  Sendo Le„o feroz, vibora insana:
+Fica-te embora em paz, e sÛ te peÁo
+  De mim t'esqueÁas, que eu de ti m'esqueÁo:
+Sim, farei, que n„o tornes a lembrar-me
   Para querer-te, nem para vingar-me:
-E poderemos s√≥ ficar lembrados
+E poderemos sÛ ficar lembrados
   Do exemplo, com que fomos doutrinados:
-Mas v√™, quanto differem as doutrinas,
+Mas vÍ, quanto differem as doutrinas,
   A que eu te dei, daquella, que me ensinas:
 Eu te ensinei a ser fiel, constante,
   Tu me ensinaste a ser falso, inconstante;
 Mas nunca me seguiste a lealdade,
   Nem eu soube seguir-te a falsidade;
-Por√©m essa doutrina; inda que inutil,
+PorÈm essa doutrina; inda que inutil,
   Estimo-a, porque em parte me foi util:
-Se at√© aqui das Pastoras n√£o fugia,
-  Porque a sua trai√ß√£o n√£o conhecia,
-J√° della fugirei desenganado,
+Se atÈ aqui das Pastoras n„o fugia,
+  Porque a sua traiÁ„o n„o conhecia,
+J· della fugirei desenganado,
   Como quem foge do animal damnado.
-Longe, longe de mim, √≠mpias tyrannas,
-  Ide viver com f√©ras deshumanas:
+Longe, longe de mim, Ìmpias tyrannas,
+  Ide viver com fÈras deshumanas:
 Em fim, parto a morrer: Adeos, Pastora,
-  Adeos, √≠mpia: Adeos, falsa: Adeos, traidora.
+  Adeos, Ìmpia: Adeos, falsa: Adeos, traidora.
 
 
 
@@ -849,28 +849,28 @@ Em fim, parto a morrer: Adeos, Pastora,
 SONETO.
 
 
-Novo exemplo aqui tens, m√≠sero humano,
+Novo exemplo aqui tens, mÌsero humano,
 Que incensas os Altares da vaidade,
 Aqui te mostro a estrada da verdade,
-Por onde ao Templo v√°s do desengano:
+Por onde ao Templo v·s do desengano:
 
 De Polyfemo o lamentavel damno,
-De Galat√©a a horrenda falsidade
+De GalatÈa a horrenda falsidade
 Te excitem a fugir da crueldade,
 Que he premio certo desse amor tyranno!
 
 Elle consome os bens, a honra offende,
 O socego perturba, arrisca a vida,
-E o cora√ß√£o mais livre assalta, e rende.
+E o coraÁ„o mais livre assalta, e rende.
 
-Ah! Destr√≥e essa m√£o f√©ra, humicida,
-Rompe os duros grilh√µes, com que te prende,
-Quebra-lhe as setas, ficar√° vencida.
-
-
+Ah! DestrÛe essa m„o fÈra, humicida,
+Rompe os duros grilhıes, com que te prende,
+Quebra-lhe as setas, ficar· vencida.
 
 
-GALAT√âA
+
+
+GALAT…A
 
 EGLOGA.
 
@@ -884,192 +884,192 @@ DO MESMO AUTHOR.
 
 INTERLOCULORES.
 
-GALAT√âA, LAURINDO, E √ÅCIS.
+GALAT…A, LAURINDO, E ¡CIS.
 
 
 
 
-GALAT√âA.
+GALAT…A.
 
 EGLOGA.
 
 
-A bella, incomparavel Galat√©a,
-  A Nynfa, tutelar, gloria d'Ald√™a
-O seu √Åcis perdido busca afflicta:
+A bella, incomparavel GalatÈa,
+  A Nynfa, tutelar, gloria d'AldÍa
+O seu ¡cis perdido busca afflicta:
   Corre, examina, geme, chora, e grita:
-"√Åcis! √Åcis! Meu bem! Onde te escondes?
-  "Eu rouca de chamar-te, e n√£o respondes?
+"¡cis! ¡cis! Meu bem! Onde te escondes?
+  "Eu rouca de chamar-te, e n„o respondes?
 "Se nas margens do rio por ti clamo;
   "Mais foge o rio, quanto mais te chamo.
-"Se √° fonte vou teu nome repetindo,
+"Se · fonte vou teu nome repetindo,
   "Ella vai murmurando, e vai-se rindo.
-"S√≥ este monte de me ouvir magoado,
+"SÛ este monte de me ouvir magoado,
   "Se eu te chamo, elle chama, e tu calado!
-"Ah meu √Åcis! meu bem, se inda tens vida,
-  "Soccorre esta, que he tua, ass√°z perdida.
-"E se aos campos Elysios j√° partiste,
-  "L√° ver√°s breve a Galat√©a triste.
+"Ah meu ¡cis! meu bem, se inda tens vida,
+  "Soccorre esta, que he tua, ass·z perdida.
+"E se aos campos Elysios j· partiste,
+  "L· ver·s breve a GalatÈa triste.
 "A ti me ha de ligar a morte crua;
-  Pois tu √©s a minha alma: eu alma tua.
+  Pois tu Ès a minha alma: eu alma tua.
 
 
 LAURINDO.
 
-Que vozes, ternas vozes t√£o sentidas
-  Os montes ferem de afflic√ß√£o nascidas!
+Que vozes, ternas vozes t„o sentidas
+  Os montes ferem de afflicÁ„o nascidas!
 
 
-GALAT√âA.
+GALAT…A.
 
 Ah Pastores, que, alegres, divertidos
   Cantais ao triste som dos meus gemidos!
-Se este pranto vos move √° caridade,
-  Deparai-me o meu √Åcis, por piedade.
+Se este pranto vos move · caridade,
+  Deparai-me o meu ¡cis, por piedade.
 
 
 LAURINDO.
 
 A voz he de mulher. que ao longe grita.
-  Quem pud√©ra valer √° triste afflicta!
-Os duros √©cos, que este valle atr√¥√£o,
-  Sen√£o me engano, desta encosta s√¥√£o.
+  Quem pudÈra valer · triste afflicta!
+Os duros Ècos, que este valle atrÙ„o,
+  Sen„o me engano, desta encosta sÙ„o.
 Eu vou por este pedregoso atalho
   Ver, se encontro, quem he, ver se lhe valho.
 
 
-GALAT√âA.
+GALAT…A.
 
-Ah! Ninguem j√° responde aos meus clamores?
-  J√° n√£o acho piedade nos Pastores?
-Misera Galat√©a! A que chegaste,
-  Depois que amor no cora√ß√£o geraste!
-Mas ah! Sen√£o me engana a mata espessa,
+Ah! Ninguem j· responde aos meus clamores?
+  J· n„o acho piedade nos Pastores?
+Misera GalatÈa! A que chegaste,
+  Depois que amor no coraÁ„o geraste!
+Mas ah! Sen„o me engana a mata espessa,
   Hum homem para mim o passo apressa!
-He Pastor: quem ser√°? N√£o vejo tanto,
+He Pastor: quem ser·? N„o vejo tanto,
   Pois me escurece a vista o grosso pranto.
-Ser√° o meu bom √Åcis? Se elle f√¥ra,
-  Huma nova alma eu conceb√™ra agora.
-√Åcis! √Åcis! √âs tu? Responde, falla:
-  Ou n√£o he elle, ou n√£o me estima, e cala:
+Ser· o meu bom ¡cis? Se elle fÙra,
+  Huma nova alma eu concebÍra agora.
+¡cis! ¡cis! …s tu? Responde, falla:
+  Ou n„o he elle, ou n„o me estima, e cala:
 
 
 LAURINDO.
 
-He Pastora; e se n√£o me engana a id√©a
-  Pelo gentil semblante he Galat√©a.
+He Pastora; e se n„o me engana a idÈa
+  Pelo gentil semblante he GalatÈa.
 
 
-GALAT√âA.
+GALAT…A.
 
-Ah! J√° vejo: j√° estou desenganada,
-  Que o meu √Åcis n√£o he. √ì desgra√ßada!
+Ah! J· vejo: j· estou desenganada,
+  Que o meu ¡cis n„o he. ” desgraÁada!
 
 
 LAURINDO.
 
-Galat√©a, que tens? Tu, que algum dia
+GalatÈa, que tens? Tu, que algum dia
   Semeavas os campos de alegria,
 Hoje com pranto, e vozes, que enternecem,
   Murchas as plantas, que ao teu riso crescem!
 
 
-GALAT√âA.
+GALAT…A.
 
-Feliz foi esse tempo; por√©m hoje
+Feliz foi esse tempo; porÈm hoje
   De mim (qual rez ferida) o prazer foge.
 Mas dize-me, Laurindo, acaso viste
-  O meu √Åcis, por quem suspiro triste?
+  O meu ¡cis, por quem suspiro triste?
 
 
 LAURINDO.
 
-Ha dias, que o n√£o vi; mas que motivo
+Ha dias, que o n„o vi; mas que motivo
   Banha o teu lindo rosto em pranto activo?
 
 
-GALAT√âA.
+GALAT…A.
 
 Eu te mostro a origem, que ao mostralla,
-  No triste peito o cora√ß√£o me estalla.
+  No triste peito o coraÁ„o me estalla.
 Ha tres dias... Oh dias de amargura,
   Mais negros para mim, que a noite escura!
 Quando o Sol hia ver outro Orizonte,
   Deixando triste o rio, o valle, o monte,
-Metto o fuso na r√≥ca, o gado chamo
+Metto o fuso na rÛca, o gado chamo
   Para o pobre curral, vem ao reclamo:
-Conto as cabe√ßas, falta-me a Ovelhinha,
+Conto as cabeÁas, falta-me a Ovelhinha,
   Que eu estimava mais, que as mais, que eu tinha,
-Por brincadora, esperta, e t√£o malhada,
+Por brincadora, esperta, e t„o malhada,
   Que parecia com pincel pintada.
 Tinha-me tanto amor, que se eu gemia
-  Ella ent√£o nem brincava, nem comia.
+  Ella ent„o nem brincava, nem comia.
 Mas se me via alegre, ou se eu cantava,
   Ella ao meu lado de prazer saltava.
-Eu afflicta a busquei t√© junto ao T√©jo;
-  Quando na margem o meu √Åcis vejo.
+Eu afflicta a busquei tÈ junto ao TÈjo;
+  Quando na margem o meu ¡cis vejo.
 Corre a ver-me, e no riso amor explica;
-  Por√©m vendo-me afflicta, afflicto fica.
-Pergunta-me a raz√£o: conto o successo,
+  PorÈm vendo-me afflicta, afflicto fica.
+Pergunta-me a raz„o: conto o successo,
   E que procure a minha rez lhe pesso.
-Elle me diz ent√£o com vozes ternas,
+Elle me diz ent„o com vozes ternas,
   Vozes, que esta alma ha de guardar eternas:
-"Ah! N√£o chores, meu bem, minha alegria.
+"Ah! N„o chores, meu bem, minha alegria.
   "Em cujos olhos brilha a luz do dia!
 "Se os encobres com pranto, e magoa enorme,
   "Queres, que o dia em noite se transforme?
 "Fugio-te a tua Ovelha: eu ta procuro;
   "E por teus lindos olhos eu te juro,
-"Que se ella viva est√°, e eu souber della,
+"Que se ella viva est·, e eu souber della,
   "Inda que arrisque a vida, hei de trazella;
 "Mas se baldado for o meu empenho,
   "Das minhas escolhe huma, ou quantas tenho,
-E com t√£o terno amor me enchuga o rosto,
+E com t„o terno amor me enchuga o rosto,
   Que me leva metade do desgosto.
-Quiz partir, dava hum passo, ent√£o parava,
-  Como que em mim seu cora√ß√£o deixava:
-Partio; e a cada passo.... (√≥ que retiro!)
+Quiz partir, dava hum passo, ent„o parava,
+  Como que em mim seu coraÁ„o deixava:
+Partio; e a cada passo.... (Û que retiro!)
   Voltava para mim, dava hum suspiro;
-Que o cora√ß√£o presago lhe dizia,
+Que o coraÁ„o presago lhe dizia,
   Que era a ultima vez, em que me via.
 E bem se verifica (oh Ceos! Conforto!)
-  Que n√£o me ha de ver mais, porque he j√° morto.
+  Que n„o me ha de ver mais, porque he j· morto.
 
 
 LAURINDO.
 
-√Åcis morto! Que dizes, Galat√©a?
-  Isso he certo, ou te engana a falsa id√©a?
+¡cis morto! Que dizes, GalatÈa?
+  Isso he certo, ou te engana a falsa idÈa?
 
 
-GALAT√âA.
+GALAT…A.
 
-Eu te exponho a raz√£o, em que me fundo.
+Eu te exponho a raz„o, em que me fundo.
   Quem vio (oh Deoses) scena igual no Mundo
-√Åcis partio: pass√°r√£o-se dois dias,
+¡cis partio: pass·r„o-se dois dias,
   Dias de magoas, noites de agonias,
 Em cada instante, que elle me tardava,
-  Mil desgra√ßas a id√©a me pintava.
-Por√©m hoje no valle d'azinheira,
-  Junto √° ponte da pl√°cida ribeira,
+  Mil desgraÁas a idÈa me pintava.
+PorÈm hoje no valle d'azinheira,
+  Junto · ponte da pl·cida ribeira,
 Debaixo de hum cipreste levantado,
-  C√≥pia de mim, eu vigiava o gado;
+  CÛpia de mim, eu vigiava o gado;
 Se bem que pouco vigiar podia,
-  Quem de chorar j√° quasi nada via.
-Can√ßada de lutar com meu tormento,
+  Quem de chorar j· quasi nada via.
+CanÁada de lutar com meu tormento,
   Meu unico, amargoso mantimento,
-A affligida cabe√ßa ao tronco encosto,
-  E sobre a curva m√£o inclino o rosto.
-O somno, que ha dois dias meu n√£o era,
-  Veio piedoso, que antes n√£o viera!
-Pois me fez ver em sonho... Oh que desgra√ßa!
+A affligida cabeÁa ao tronco encosto,
+  E sobre a curva m„o inclino o rosto.
+O somno, que ha dois dias meu n„o era,
+  Veio piedoso, que antes n„o viera!
+Pois me fez ver em sonho... Oh que desgraÁa!
   A causa desta dor, que me traspassa.
-Eu vi... triste vis√£o! Que al√©m da serra,
+Eu vi... triste vis„o! Que alÈm da serra,
   Por hum dos regos da lavrada terra,
-Hia o meu √Åcis triste, suspirando
+Hia o meu ¡cis triste, suspirando
   Com prompta vista a minha rez buscando;
-Outras vezes, olhando para a Ald√™a,
-  Clama saudoso: "Ah minha Galat√©a!
+Outras vezes, olhando para a AldÍa,
+  Clama saudoso: "Ah minha GalatÈa!
 Quando de entre hum pinhal... de o dizer, tremo:
   Sahe o barbaro, o manstro Polyfemo.
 Toma-lhe o passo, e n'hum trilhado estreito
@@ -1078,64 +1078,64 @@ Clamando: "Morre, vil, morre, inimigo,
   "Que inda mereces mais cruel castigo.
 "Chama agora o teu bem, chama a fingida,
   "Grita por ella, que te torne a vida.
-√Å violencia do golpe, o desgra√ßado
+¡ violencia do golpe, o desgraÁado
   Solta do peito afflicto hum ai magoado
-Tr√©mulo, curvo, com a m√£o convulsa
+TrÈmulo, curvo, com a m„o convulsa
   O peito aperta, donde o sangue pulsa:
-Quer suster-se, n√£o p√≥de, a for√ßa falta:
-  A m√£o solta do peito, o sangue salta:
+Quer suster-se, n„o pÛde, a forÁa falta:
+  A m„o solta do peito, o sangue salta:
 Vai vergando, e cahindo: hum tronco agarra:
-  Este se quebra, o fraco p√© lhe esbarra;
+  Este se quebra, o fraco pÈ lhe esbarra;
 E sobre hum mar de sangue da ferida
   Cahe exhalando a preciosa vida.
 Com vista incerta, os olhos vidracentos,
-  Tr√©mula a voz, sem c√¥r, j√° sem alentos,
-Exclama, em fim, nas m√£os da morte feia:
-  "Valei-me, Ceos, adeos √≥ Galat√©a.
+  TrÈmula a voz, sem cÙr, j· sem alentos,
+Exclama, em fim, nas m„os da morte feia:
+  "Valei-me, Ceos, adeos Û GalatÈa.
 E soltando hum suspiro, os olhos serra:
   Ferindo as plantas, magoando a terra.
-Oh Deoses! Inda incerta esta desgra√ßa;
-  He qual farp√£o, que o peito me traspassa;
+Oh Deoses! Inda incerta esta desgraÁa;
+  He qual farp„o, que o peito me traspassa;
 E se he certa, mandai, que a dura morte
   Sobre mim venha, e descarregue o corte:
-Morreo √Åcis por mim, por elle eu morra:
+Morreo ¡cis por mim, por elle eu morra:
   Qual do seu, do meu peito o sangue corra:
 
 
 LAURINDO.
 
-Misera Galat√©a enchuga o pranto,
-  Que hum sonho falso n√£o provoca a tanto.
+Misera GalatÈa enchuga o pranto,
+  Que hum sonho falso n„o provoca a tanto.
 
 
-GALAT√âA.
+GALAT…A.
 
 Este sonho, a demora, e Polyfemo,
-  Tudo me assusta, e a desgra√ßa temo.
+  Tudo me assusta, e a desgraÁa temo.
 
 
 LAURINDO.
 
-O sonho intimidar-me n√£o devia
-  Por ser falsa illus√£o da fantasia.
+O sonho intimidar-me n„o devia
+  Por ser falsa illus„o da fantasia.
 Do Pastor a demora, que te assusta,
-  Tambem p√≥de nascer de causa justa.
+  Tambem pÛde nascer de causa justa.
 Se temes Polyfemo, o susto affasta:
   Comigo vive, eu nunca o deixo, e basta.
 E desde que o domei por teu respeito,
-  Tudo que eu mando, que elle fa√ßa, he feito.
-Piza, piza, a teus p√©s essa agonia:
+  Tudo que eu mando, que elle faÁa, he feito.
+Piza, piza, a teus pÈs essa agonia:
   Faze, que a fonte com teu riso ria.
 
 
-GALAT√âA.
+GALAT…A.
 
-Tu destr√≥es em parte o meu desgosto;
-  Mas n√£o consegues ver-me enchuto o rosto:
-N√£o: fazer que esta setta n√£o me fira,
-  S√≥ p√≥de o meu Pastor. Ah! Quem o v√≠ra!
-S√≥ p√≥dem os seus olhos engra√ßados
-  Dar vista aos meus j√° c√©gos, e can√ßados.
+Tu destrÛes em parte o meu desgosto;
+  Mas n„o consegues ver-me enchuto o rosto:
+N„o: fazer que esta setta n„o me fira,
+  SÛ pÛde o meu Pastor. Ah! Quem o vÌra!
+SÛ pÛdem os seus olhos engraÁados
+  Dar vista aos meus j· cÈgos, e canÁados.
 Mas temendo o rancor de Polyfemo,
   As proprias sombras dessas plantas temo.
 
@@ -1143,22 +1143,22 @@ Mas temendo o rancor de Polyfemo,
 LAURINDO.
 
 Do triste Polyfemo o rancor deixa:
-  Tu foste a causa, e s√≥ de ti te queixa.
+  Tu foste a causa, e sÛ de ti te queixa.
 
 
-GALAT√âA.
+GALAT…A.
 
-A causa fui! Eu sou f√©ra impestada,
+A causa fui! Eu sou fÈra impestada,
   Que fizesse aquella alma invenenada?
 
 
 LAURINDO.
 
 A causa foste, sim, porque o amaste,
-  E por √Åcis, sem culpa, o desprezaste.
+  E por ¡cis, sem culpa, o desprezaste.
 
 
-GALAT√âA.
+GALAT…A.
 
 Pelos Deoses do Olympo Soberano
   Juro que nunca amei tal monstro insano.
@@ -1166,14 +1166,14 @@ Pelos Deoses do Olympo Soberano
 
 LAURINDO.
 
-Pois se he certo, que amor n√£o lhe tiveste,
+Pois se he certo, que amor n„o lhe tiveste,
   Porque falsas promessas lhe fizeste?
 
 
-GALAT√âA.
+GALAT…A.
 
-Porque assim o meu √Åcis defendia
-  Da vingan√ßa, que o vil lhe promettia.
+Porque assim o meu ¡cis defendia
+  Da vinganÁa, que o vil lhe promettia.
 
 
 LAURINDO.
@@ -1182,285 +1182,285 @@ Ah! Pois quiz com violencia... ( que loucura!)
   Gerar amor, que nasce da ternura!
 
 
-GALAT√âA.
+GALAT…A.
 
 Sim, com rigor queria, que o amasse,
   E que o meu peito ao meu Pastor fechasse.
 Clamando irado assim: "Cruel Pastora,
   "Tu desprezas soberba, a quem te adora?
-"√âs toda do teu √Åcis? Pois discorre,
-  "Que ou tu has de ser minha, ou √Åcis morre.
-"Dize, resolve j√°, ou vou matallo;
-  "E o cora√ß√£o aos olhos teus mostrallo.
+"…s toda do teu ¡cis? Pois discorre,
+  "Que ou tu has de ser minha, ou ¡cis morre.
+"Dize, resolve j·, ou vou matallo;
+  "E o coraÁ„o aos olhos teus mostrallo.
 Eu ante o monstro vil de crueldade,
-  Que n√£o cede √° raz√£o, nem √° piedade,
-Rogo-lhe compaix√£o: n√£o se enternece:
-  Choro humilde a seus p√©s: mais se embravece.
+  Que n„o cede · raz„o, nem · piedade,
+Rogo-lhe compaix„o: n„o se enternece:
+  Choro humilde a seus pÈs: mais se embravece.
 Eu delirava neste lance forte
   De dar ao triste a vida, ou dar-lhe a morte.
-√Åcis morrer por mim, sendo innocente!
-  N√£o, por livrallo fiz-me delinquente.
-Com o tyranno usei de id√©as novas
+¡cis morrer por mim, sendo innocente!
+  N„o, por livrallo fiz-me delinquente.
+Com o tyranno usei de idÈas novas
   Para dar-lhe de amor fingidas provas;
 Mas o meu firme peito era impossivel,
   Que abrisse a porta aquelle bruto horrivel.
-Se nisto te aggravei, √Åcis desculpa;
+Se nisto te aggravei, ¡cis desculpa;
   Se eu delinquente fui, foi tua a culpa.
 
 
 LAURINDO.
 
-Nao chores, virtuosa Galat√©a:
-  De ti fazia mui diversa id√©a;
-Bem que eu n√£o sigo as linguas venenosas,
-  Que as mulheres s√≥ trat√£o de aleivosas:
-Sei, que muitas o s√£o, sim, n√£o duvido,
+Nao chores, virtuosa GalatÈa:
+  De ti fazia mui diversa idÈa;
+Bem que eu n„o sigo as linguas venenosas,
+  Que as mulheres sÛ trat„o de aleivosas:
+Sei, que muitas o s„o, sim, n„o duvido,
   Pelos casos, que vejo, e tenho ouvido;
-Mas contem-se as trai√ß√µes d'ellas, e d'elles,
+Mas contem-se as traiÁıes d'ellas, e d'elles,
   Se acharem nellas mil, ha dez mil nelles.
 Tu, exemplar Pastora, mostrar queres,
-  Que √©s a gloria, o modelo das mulheres:
-Que os falsos homens p√≥des doutrinallos;
+  Que Ès a gloria, o modelo das mulheres:
+Que os falsos homens pÛdes doutrinallos;
   E com teu mesmo exemplo envergonhallos.
 Vai-te em paz, vai guardar teu manso gado:
-  Do teu √Åcis feliz d√°-me o cuidado,
+  Do teu ¡cis feliz d·-me o cuidado,
 Que eu hirei procurallo: em mim confia,
   Que hei de tornar-te a noite em claro dia.
 
 
-GALAT√âA.
+GALAT…A.
 
 Ah piedoso Laurindo! Se tal fazes,
   A hum corpo morto nova vida trazes.
 
 
-√ÅCIS.
+¡CIS.
 
 Que triste vejo a serra, o valle, o monte!
   O rio pasma, corre turva a fonte.
-Sim, sem a minha amavel Galat√©a
+Sim, sem a minha amavel GalatÈa
   A clara luz do Sol he triste, e feia.
 Mas onde te acharei, gentil Pastora,
-  Para clamar ent√£o: j√° vejo a Aurora!
+  Para clamar ent„o: j· vejo a Aurora!
 Aves, tornais o canto em agonia
   Porque vos falta a Mestra d'harmonia?
 O Ceo com ella adoce o meu tormento,
-  Tereis nova li√ß√£o, e eu novo alento,
+  Tereis nova liÁ„o, e eu novo alento,
 Mas ah! Que vejo! Que gentil Pastora?
-  Parece Galat√©a! Oh feliz hora!
-N√£o, n√£o me enganes, lisongeira id√©a.
-  N'altura... em trage... em gesto... he Galat√©a,
-Que est√° banhando em pranto o lindo rosto:
+  Parece GalatÈa! Oh feliz hora!
+N„o, n„o me enganes, lisongeira idÈa.
+  N'altura... em trage... em gesto... he GalatÈa,
+Que est· banhando em pranto o lindo rosto:
   Eu corro, eu vou tornar-lhe a magoa em gosto.
 
 
-GALAT√âA.
+GALAT…A.
 
-√Åcis, se √©s vivo, sorte igual n√£o tive.
-
-
-√ÅCIS.
-
-Inda o teu √Åcis dos teus olhos vive.
+¡cis, se Ès vivo, sorte igual n„o tive.
 
 
-GALAT√âA.
+¡CIS.
 
-Ah! Que vejo! √Åcis! Ceos! Ser√° mentira?
-
-
-√ÅCIS.
-
-He verdade; o teu √Åcis sou: respira.
+Inda o teu ¡cis dos teus olhos vive.
 
 
-GALAT√âA.
+GALAT…A.
+
+Ah! Que vejo! ¡cis! Ceos! Ser· mentira?
+
+
+¡CIS.
+
+He verdade; o teu ¡cis sou: respira.
+
+
+GALAT…A.
 
 Oh Providentes Ceos! Deoses Clementes,
   Que assim curais as chagas dos viventes.
 
 
-√ÅCIS.
+¡CIS.
 
 Tu choras! He de gosto, ou de agonia?
 
 
-GALAT√âA.
+GALAT…A.
 
 Chorei de magoa, agora de alegria.
 
 
-√ÅCIS.
+¡CIS.
 
-Tu choravas por mim! Mere√ßo eu tanto?
+Tu choravas por mim! MereÁo eu tanto?
 
 
-GALAT√âA.
+GALAT…A.
 
-V√™ bem o estrago, que em mim fez o pranto.
+VÍ bem o estrago, que em mim fez o pranto.
   Estes olhos, que tu chamavas bellos,
-Hoje magoados fugir√°s de v√™llos.
+Hoje magoados fugir·s de vÍllos.
 
 
-√ÅCIS.
+¡CIS.
 
-Assim mesmo s√£o dois lindos diamantes,
-  Quie inda eclipsados, sempre s√£o brilhantes.
-Mas dize, Galat√©a, que motivo
-  Acendeo esse fogo, t√£o activo?
+Assim mesmo s„o dois lindos diamantes,
+  Quie inda eclipsados, sempre s„o brilhantes.
+Mas dize, GalatÈa, que motivo
+  Acendeo esse fogo, t„o activo?
 
 
-GALAT√âA.
+GALAT…A.
 
 A ausencia de tres dias (longos dias!)
   De lagrimas, de sustos, de agonias;
 E mais que tudo hum sonho feio, horrivel,
-  Que o n√£o matar-me, n√£o parece crivel:
-Sonho cruel, que me pintou na id√©a
-  A desgra√ßa maior, scena mais feia:
-Que o monstro Polyfemo te arranc√°ra
+  Que o n„o matar-me, n„o parece crivel:
+Sonho cruel, que me pintou na idÈa
+  A desgraÁa maior, scena mais feia:
+Que o monstro Polyfemo te arranc·ra
   A amavel vida, que esta vida ampara.
 
 
-√ÅCIS.
+¡CIS.
 
-E credito lhe d√©ste, sendo esperta?
+E credito lhe dÈste, sendo esperta?
 
 
-GALAT√âA.
+GALAT…A.
 
-Sim, que a m√° nova quasi sempre he certa.
+Sim, que a m· nova quasi sempre he certa.
 
 
 LAURINDO.
 
-Se eu n√£o corro a tiralla da vareda,
+Se eu n„o corro a tiralla da vareda,
   N'algum despenhadeiro achava a queda.
 
 
-GALAT√âA.
+GALAT…A.
 
 Laurindo nos meus males tomou parte,
-  E at√© por compaix√£o quiz ir buscar-te.
+  E atÈ por compaix„o quiz ir buscar-te.
 
 
-√ÅCIS.
+¡CIS.
 
-Bom amigo, e bom Mestre, as s√£s doutrinas
+Bom amigo, e bom Mestre, as s„s doutrinas
   Tu com virtuoso exemplo, nos ensinas:
 Tu semeas os campos de equidade,
-  N√≥s colhemos os fructos da piedade.
+  NÛs colhemos os fructos da piedade.
 
 
 LAURINDO.
 
 Huns para os outros sermos bons devemos:
-  Todos somos irm√£os: de hum Pai nascemos:
+  Todos somos irm„os: de hum Pai nascemos:
 Se hum errar, deve o outro encaminhallo:
   Se hum cahir, deve o outro levantallo.
 
 
-GALAT√âA.
+GALAT…A.
 
 Perdoa, que eu atalhe o teu conselho,
-  Proprio de hum S√°bio, Virtuoso, e velho.
-Dize, meu √Åcis, dize, por clemencia,
-  Qual foi a causa de t√£o longa ausencia?
+  Proprio de hum S·bio, Virtuoso, e velho.
+Dize, meu ¡cis, dize, por clemencia,
+  Qual foi a causa de t„o longa ausencia?
 
 
-√ÅCIS.
+¡CIS.
 
 Foste tu: foi o amor, e foi o empenho
-  De trazer-te a Ovelhinha, a qual j√° tenho.
+  De trazer-te a Ovelhinha, a qual j· tenho.
 Ao casal ta levei; mas sem achar-te;
   Pois vieste a buscar-me, eu vim buscar-te.
 
 
-GALAT√âA.
+GALAT…A.
 
 Achaste a minha Ovelha! Ah! Onde estava?
   Bem que eu por ti nem della, me lembrava.
 
 
-√ÅCIS.
+¡CIS.
 
 Visinhos campos, as distantes terras,
   Amenos valles, escabrosas serras,
 Tudo corri: examinei choupanhas,
-  Pobres Ald√™as, rusticas cabanas.
+  Pobres AldÍas, rusticas cabanas.
 Perguntei aos campinos, Lavradores:
   Rebanhos espreitei: busco aos Pastores:
-Todos dizem: "N√£o vimos, n√£o sabemos:
+Todos dizem: "N„o vimos, n„o sabemos:
   "Nem leve rasto dessa Ovelha temos.
-Eu de perd√™-la j√° desenganado,
-  De magoa afflicto, de buscar can√ßado,
+Eu de perdÍ-la j· desenganado,
+  De magoa afflicto, de buscar canÁado,
 Voltar queria a ver teu lindo rosto;
   Mas dava gosto a mim, e a ti desgosto:
 Eu a dor da saudade em mim curava;
-  Mas na m√° nova, nova dor te dava.
+  Mas na m· nova, nova dor te dava.
 Nisto pensava triste, e vacilante,
   Quando escuto berrar pouco distante,
-Parto, gyro, procuro, em v√£o procuro:
+Parto, gyro, procuro, em v„o procuro:
   Pois nada vejo: vejo hum bosque escuro,
 Que o Sol formoso nunca vio por dentro:
-  Corro, o bosque examino; e l√° no centro
+  Corro, o bosque examino; e l· no centro
 Vejo hum pobre roupeiro esfrangalhado,
   Dormindo, e a Ovelhinha preza ao lado.
-Eu, que a vejo, e conhe√ßo, √≥ que alegria
+Eu, que a vejo, e conheÁo, Û que alegria
   Em teu obsequio a minha alma enchia!
 Com lentos passos vou muito manso andando,
   O sussurro das plantas receando,
 Se bem que o vento amigo me valia;
   Pois nem das folhas o brincar se ouvia.
-Chego ao ladr√£o: observo, que em socego
+Chego ao ladr„o: observo, que em socego
   Dorme roncando: na Ovelhinha pego:
 Sobre os hombros a ponho, e vim fugindo,
   Do furto alegre, de alegria rindo.
 Trepando huma deserta ribanceira,
-  Ou√ßo hum grito, √≥lho a traz, vejo √° carreira
+  OuÁo hum grito, Ûlho a traz, vejo · carreira
 Seguindo-me a gritar o vil roupeiro:
-  "√ì ladr√£o! Larga a Ovelha! √ì ratoneiro!
+  "” ladr„o! Larga a Ovelha! ” ratoneiro!
 Eu, que vejo o meu credito infamado,
-  P√°ro, e com ira mostro-lhe o cajado.
+  P·ro, e com ira mostro-lhe o cajado.
 Prudente parto: segue-me as pizadas:
-  Tor√ßo a vareda, corre-me √°s pedradas.
+  TorÁo a vareda, corre-me ·s pedradas.
 Dellas me affasto; e por final prejecto.
   Na leve funda grossa pedra metto.
-Agito a funda: corro ent√£o mais perto:
-  Desparo a pedra, no vil peiro ac√©rto.
-Fica o ladr√£o sem tino: quer suster-se:
-  N√£o p√≥de: cahe: forceja para erguer-se:
+Agito a funda: corro ent„o mais perto:
+  Desparo a pedra, no vil peiro acÈrto.
+Fica o ladr„o sem tino: quer suster-se:
+  N„o pÛde: cahe: forceja para erguer-se:
 Outra vez cahe de costas: vai rolando:
-  P√©ga-se √°s pedras, mas em v√£o pegando,
+  PÈga-se ·s pedras, mas em v„o pegando,
 Que as mesmas pedras, em que busca abrigo
-  R√≥l√£o sobre elle por maior castigo;
+  RÛl„o sobre elle por maior castigo;
 E despenhado assim pela barreira
-  Vai t√© parar na margem da ribeira.
+  Vai tÈ parar na margem da ribeira.
 
 
-GALAT√âA.
+GALAT…A.
 
-Ah! Que dizes! Mataste o desgra√ßado?
+Ah! Que dizes! Mataste o desgraÁado?
 
 
-√ÅCIS.
+¡CIS.
 
-  N√£o ficou morto, n√£o, mas maltratado,
+  N„o ficou morto, n„o, mas maltratado,
 Eu vi... com quanta dor o estive vendo!
   Cahio mortal; depois se ergueo gemendo.
-Olhou-me ent√£o com iras, e amea√ßos;
-  E tr√©mulo partio com lentos passos.
+Olhou-me ent„o com iras, e ameaÁos;
+  E trÈmulo partio com lentos passos.
 
 
-GALAT√âA.
+GALAT…A.
 
-Tu, que es no cora√ß√£o manso cordeiro.
+Tu, que es no coraÁ„o manso cordeiro.
   Hoje tornado em lobo carniceiro!
 
 
-√ÅCIS.
+¡CIS.
 
-Eu cordeiro n√£o sou; por√©m se o f√¥ra
+Eu cordeiro n„o sou; porÈm se o fÙra
   Tornar-me em lobo foi preciso agora.
 
 
@@ -1470,282 +1470,282 @@ Castiga-nos o Ceo, se nos vingamos;
   Mas tambem quer, que a vida defendamos.
 
 
-√ÅCIS.
+¡CIS.
 
-Se mais piedade do ladr√£o eu tinha,
-  Nem eu era j√° teu, nem tu j√° minha.
-
-
-GALAT√âA.
-
-Se a amavel vida o √≠mpio te roubava,
-  N'huma s√≥ morte duas mortes dava.
+Se mais piedade do ladr„o eu tinha,
+  Nem eu era j· teu, nem tu j· minha.
 
 
-√ÅCIS.
+GALAT…A.
+
+Se a amavel vida o Ìmpio te roubava,
+  N'huma sÛ morte duas mortes dava.
+
+
+¡CIS.
 
 Esses extremos no meu peito os guardo
   Para atear de amor o fogo, em que ardo.
-Vamos, vamos, formosa Galat√©a,
-  Alegrar com teu rosto a triste Ald√™a:
-A Ald√™a, que por ti chorava agora,
-  Qual bom Filho, que a M√£i perdida chora.
+Vamos, vamos, formosa GalatÈa,
+  Alegrar com teu rosto a triste AldÍa:
+A AldÍa, que por ti chorava agora,
+  Qual bom Filho, que a M„i perdida chora.
 
 
-GALAT√âA.
+GALAT…A.
 
-Chora a P√°tria, por mim? Quanta amizade
+Chora a P·tria, por mim? Quanta amizade
   Devo aos bons, que se nutrem da piedade!
 
 
 LAURINDO.
 
-√âs bella, e inda mais bella por virtuosa;
+…s bella, e inda mais bella por virtuosa;
   Que a virtude inda a feia faz formosa.
-Por√©m v√™, que a Virtude cultivada,
+PorÈm vÍ, que a Virtude cultivada,
   Cresce, bem como a planta, que he regada;
 Mas se falta a cultura, vai murchando;
   E qual planta sem agua vai secando.
-Hide: a ben√ß√£o do Ceo sobre v√≥s des√ßa:
-  Aos vossos olhos branda relva cres√ßa;
+Hide: a benÁ„o do Ceo sobre vÛs desÁa:
+  Aos vossos olhos branda relva cresÁa;
 E nella apascenteis grossas manadas
   De prenhes vaccas gordas, e malhadas.
 Tantas as cabras, tantos os cordeiros,
-  Que ench√£o os valles, ench√£o os oiteiros.
-Hide, que he longe a Ald√™a: hide, que he tarde:
-  O Ceo vos aben√ß√¥e, o Ceo vos guarde.
-A ben√ß√£o gere em v√≥s dois bons Esposos,
-  Que fructos d√™m ao Ceo, fructos ditosos.
+  Que ench„o os valles, ench„o os oiteiros.
+Hide, que he longe a AldÍa: hide, que he tarde:
+  O Ceo vos abenÁÙe, o Ceo vos guarde.
+A benÁ„o gere em vÛs dois bons Esposos,
+  Que fructos dÍm ao Ceo, fructos ditosos.
 
 
-√ÅCIS.
+¡CIS.
 
 Adeos, meu bom Pastor, meu caro amigo,
   Gloria dos campos, deste povo abrigo.
 
 
-GALAT√âA.
+GALAT…A.
 
-Essa ben√ß√£o do Ceo, que em n√≥s desejas,
+Essa benÁ„o do Ceo, que em nÛs desejas,
   Sobre tudo, que he teu, sobre ti vejas.
-√Åcis, vamos aqui pelo serrado,
+¡cis, vamos aqui pelo serrado,
   Que he mais perto, he mais doce, e he povoado.
 
 
-√ÅCIS.
+¡CIS.
 
 Vamos cortando por entre estas faias:
-  D√° c√° a m√£o: salta o rego: olha, n√£o caias.
-Tu saltas mais, do que eu: √©s bem ligeira!
+  D· c· a m„o: salta o rego: olha, n„o caias.
+Tu saltas mais, do que eu: Ès bem ligeira!
 
 
-GALAT√âA.
+GALAT…A.
 
-  Se eu quiser n√£o me apanhas na carreira.
-Que far√£o hoje ao ver-me de contentes
+  Se eu quiser n„o me apanhas na carreira.
+Que far„o hoje ao ver-me de contentes
   As amigas, visinhos, e os parentes,
-Que ao v√™rem-me vagar s√≥ sem conforto
-  Julgar-me-h√£o morta, por julgar-te morto?
+Que ao vÍrem-me vagar sÛ sem conforto
+  Julgar-me-h„o morta, por julgar-te morto?
 
 
-√ÅCIS.
+¡CIS.
 
-Se o bem nos foge, at√™a-se o desgosto:
+Se o bem nos foge, atÍa-se o desgosto:
   Torna o bem, morre o mal, renasce o gosto.
-Tu ver√°s nas Pastoras desgrenhadas
+Tu ver·s nas Pastoras desgrenhadas
   Olhos feridos, faces desmaiadas.
 E ao ver-te, o riso, e pranto misturando,
-  Humas √°s outras com prazer chamando:
-Todas para te verem correm, vo√£o:
-  Vivas, applausos pelos ares s√¥√£o.
+  Humas ·s outras com prazer chamando:
+Todas para te verem correm, vo„o:
+  Vivas, applausos pelos ares sÙ„o.
 Huma te beija a face alva, e rosada,
   Que a faz com pranto seu rosa orvalhada.
-Outra te enfeita as tran√ßas graciosas
+Outra te enfeita as tranÁas graciosas
   De myrto, e cravo, de jasmins, e rosas.
-Ver√°s, que ao som das lyras vem cantar-te
+Ver·s, que ao som das lyras vem cantar-te
   A magoa de perder-te, o bem de achar-te.
-Ver√°s, como os chorosos innocentes,
-  Quando te virem, brincar√°√µ contentes.
-Ver√°s a fonte, que turbada a vejo,
-  Corre alegre a dar a nova ao T√©jo.
-Ver√°s o T√©jo, que sem ti bramia,
-  Qu√£o pl√°cido vem ver-te √° praia fria.
-Ver√°s o Melro, o Rouxinol suave
+Ver·s, como os chorosos innocentes,
+  Quando te virem, brincar·ı contentes.
+Ver·s a fonte, que turbada a vejo,
+  Corre alegre a dar a nova ao TÈjo.
+Ver·s o TÈjo, que sem ti bramia,
+  Qu„o pl·cido vem ver-te · praia fria.
+Ver·s o Melro, o Rouxinol suave
   Convertendo a tristeza em canto grave.
-Ver√°s saltando os tenros Cabritinhos
+Ver·s saltando os tenros Cabritinhos
   Alegrarem os tristes Cordeirinhos,
-Ver√°s curvar-se o tronco a dar-te as frutas;
+Ver·s curvar-se o tronco a dar-te as frutas;
   Correr o rio, vir trazer-te as trutas.
-Hoje far√°s feliz, far√°s contente
-  A Ald√™a, o rio, a fonte, o gado, a gente.
+Hoje far·s feliz, far·s contente
+  A AldÍa, o rio, a fonte, o gado, a gente.
 
 
-GALAT√âA.
+GALAT…A.
 
 Feliz me fazes tu: viver me fazes:
   Aos meus bons dias novos dias trazes.
 
 
-√ÅCIS.
+¡CIS.
 
 Como posso eu fazer a alguem ditoso,
-  Quando s√≥ por ser teu, sou venturoso?
+  Quando sÛ por ser teu, sou venturoso?
 Sem ti rustico sou, humilde, e pobre:
-  Comtigo s√°bio sou, sou rico, e nobre.
+  Comtigo s·bio sou, sou rico, e nobre.
 
 
-GALAT√âA.
+GALAT…A.
 
-Demos gra√ßas a Amor: Amor cantemos,
-  Que assim nos t√©ce a Santa paz, que temos.
+Demos graÁas a Amor: Amor cantemos,
+  Que assim nos tÈce a Santa paz, que temos.
 
 
-√ÅCIS.
+¡CIS.
 
 Sim, cantemos Amor: a voz levanta,
   A voz sonora, com que Amor encanta.
 
 
-GALAT√âA.
+GALAT…A.
 
 Amor me fez guerra:
-Lut√°mos, venceo-me;
+Lut·mos, venceo-me;
 O peito rompeo-me
-Para √Åcis entrar.
-  Taes la√ßos, taes setas
+Para ¡cis entrar.
+  Taes laÁos, taes setas
   Devemos beijar.
 
 
-√ÅCIS.
+¡CIS.
 
 Amor nos tens olhos
 Forjou doce flexa:
 Ferio-me: esta brexa
 Tu sabes curar.
-  Taes la√ßos, taes setas
+  Taes laÁos, taes setas
   Devemos beijar.
 
 
-GALAT√âA.
+GALAT…A.
 
 Ao ver-me ferida,
 Primeiro assustei-me,
 Depois alegrei-me,
 Amor fui cantar.
-  Taes la√ßos, taes setas
+  Taes laÁos, taes setas
   Devemos beijar.
 
 
-√ÅCIS.
+¡CIS.
 
 Eu pude da seta
 Salvar o meu peito;
-N√£o quiz: puz-me a geito,
+N„o quiz: puz-me a geito,
 Deixei-a entranhar.
-  Taes la√ßos, taes setas
+  Taes laÁos, taes setas
   Devemos Beijar.
 
 
-GALAT√âA.
+GALAT…A.
 
 Depois de ferir-me
-Mostrou-me as alg√™mas;
-E diz-me; "N√£o temas
-"Quando eu tas lan√ßar.
-  Taes la√ßos, taes setas
+Mostrou-me as algÍmas;
+E diz-me; "N„o temas
+"Quando eu tas lanÁar.
+  Taes laÁos, taes setas
   Devemos beijar.
 
 
-√ÅCIS.
+¡CIS.
 
 Ferir-me, prender-me
-N√£o era preciso,
+N„o era preciso,
 Bastava hum teu riso:
 Hum teu brando olhar.
-  Taes la√ßos, taes setas
+  Taes laÁos, taes setas
   Devemos beijar.
 
 
-GALAT√âA.
+GALAT…A.
 
 Amor, abre as azas
-Vem, prende estes bra√ßos,
-Que os teus doces la√ßos
-N√£o hei de quebrar.
-  Taes la√ßos, taes setas
+Vem, prende estes braÁos,
+Que os teus doces laÁos
+N„o hei de quebrar.
+  Taes laÁos, taes setas
   Devemos beijar.
 
 
-√ÅCIS.
+¡CIS.
 
 Sou prezo por gosto,
 Por honra cativo:
 Por prezo he que vivo,
 Qual peixe no mar.
-  Taes la√ßos, taes setas
+  Taes laÁos, taes setas
   Devemos beijar.
 
 
-GALAT√âA.
+GALAT…A.
 
-Amor, chama as Gra√ßas,
+Amor, chama as GraÁas,
 E o Santo Hymeneo!
-Que venh√£o do Ceo
-Meu la√ßo apertar.
-  Taes la√ßos, taes setas
+Que venh„o do Ceo
+Meu laÁo apertar.
+  Taes laÁos, taes setas
   Devemos beijar.
 
 
-√ÅCIS.
+¡CIS.
 
-Tu chammas as Gra√ßas?
-N√£o clames por ellas;
-Pois Gra√ßas mais bellas
+Tu chammas as GraÁas?
+N„o clames por ellas;
+Pois GraÁas mais bellas
 Em ti venho achar.
-  Taes la√ßos, taes setas
+  Taes laÁos, taes setas
   Devemos beijar.
 
 
-GALAT√âA.
+GALAT…A.
 
-Basta: can√ßada vou: mais n√£o cantemos:
-  Logo melhor n'Ald√™a cantaremos.
+Basta: canÁada vou: mais n„o cantemos:
+  Logo melhor n'AldÍa cantaremos.
 
 
-√ÅCIS.
+¡CIS.
 
 Pois vai tu pela encosta desse monte,
-  Que a lyra vou buscar: l√° saio √° fonte.
+  Que a lyra vou buscar: l· saio · fonte.
 
 
-GALAT√âA.
+GALAT…A.
 
-N√£o te demores l√°, minha alegria.
-
-
-√ÅCIS.
-
-J√° volto a ver-te, minha luz do dia.
+N„o te demores l·, minha alegria.
 
 
-GALAT√âA.
+¡CIS.
 
-Levas-me a vida, a j√≥ia mais perfeita.
+J· volto a ver-te, minha luz do dia.
 
 
-√ÅCIS.
+GALAT…A.
+
+Levas-me a vida, a jÛia mais perfeita.
+
+
+¡CIS.
 
 Em penhor dessa vida esta alma acceita.
 
 
-GALAT√âA.
+GALAT…A.
 
 Em penhor! Queres pois, que a restitua?
 
 
-√ÅCIS.
+¡CIS.
 
-N√£o; se essa vida he minha, esta alma he tua.
+N„o; se essa vida he minha, esta alma he tua.
 
 
 FIM
@@ -1754,15 +1754,15 @@ FIM
 
 
 
-End of the Project Gutenberg EBook of Galat√©a, by Ant√≥nio Joaquim de Carvalho
+End of the Project Gutenberg EBook of GalatÈa, by AntÛnio Joaquim de Carvalho
 
-*** END OF THIS PROJECT GUTENBERG EBOOK GALAT√âA ***
+*** END OF THIS PROJECT GUTENBERG EBOOK GALAT…A ***
 
 ***** This file should be named 21780-8.txt or 21780-8.zip *****
 This and all associated files of various formats will be found in:
         http://www.gutenberg.org/2/1/7/8/21780/
 
-Produced by Pedro Saborano. Para coment√°rios √† transcri√ß√£o
+Produced by Pedro Saborano. Para coment·rios ‡ transcriÁ„o
 visite http://pt-scriba.blogspot.com/ (This book was
 produced from scanned images of public domain material
 from Google Book Search)

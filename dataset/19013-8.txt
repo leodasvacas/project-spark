@@ -1,4 +1,4 @@
-The Project Gutenberg EBook of Sci√™ncias Naturaes, by Anonymous
+The Project Gutenberg EBook of SciÍncias Naturaes, by Anonymous
 
 This eBook is for the use of anyone anywhere at no cost and with
 almost no restrictions whatsoever.  You may copy it, give it away or
@@ -6,8 +6,8 @@ re-use it under the terms of the Project Gutenberg License included
 with this eBook or online at www.gutenberg.org
 
 
-Title: Sci√™ncias Naturaes
-       Pela Redac√ß√£o da ¬´Educa√ß√£o Nacional¬ª
+Title: SciÍncias Naturaes
+       Pela RedacÁ„o da ´EducaÁ„o Nacionalª
 
 Author: Anonymous
 
@@ -17,7 +17,7 @@ Language: Portuguese
 
 Character set encoding: ISO-8859-1
 
-*** START OF THIS PROJECT GUTENBERG EBOOK SCI√äNCIAS NATURAES ***
+*** START OF THIS PROJECT GUTENBERG EBOOK SCI NCIAS NATURAES ***
 
 
 
@@ -33,28 +33,28 @@ Distributed Proofreading Team at http://www.pgdp.net
 
 
 
-ENSINO PRIM√ÅRIO SCI√äNCIAS NATURAIS PELA REDAC√á√ÉO da ¬´EDUCA√á√ÉO NACIONAL¬ª
+ENSINO PRIM¡RIO SCI NCIAS NATURAIS PELA REDAC«√O da ´EDUCA«√O NACIONALª
 
-Em harmonia com os Programas das Escolas Prim√°rias de 18 de Outubro de
+Em harmonia com os Programas das Escolas Prim·rias de 18 de Outubro de
 1902
 
-(NOVA EDI√á√ÉO)
+(NOVA EDI«√O)
 
 COMPANHIA PORTUGUESA EDITORA
 
 Rua da Boavista, 307
 
 
-DEPOSIT√ÅRIOS
+DEPOSIT¡RIOS
 Lopes & C.^a Suc.^{or}--119, Rua do Almada, 123
-Magalh√£es & Moniz--Largo dos Loios, 11-14
+Magalh„es & Moniz--Largo dos Loios, 11-14
 
-P√¥rto--1915
-
-
+PÙrto--1915
 
 
-SCI√äNCIAS NATURAIS
+
+
+SCI NCIAS NATURAIS
 
 EM HARMONIA COM O PROGRAMA
 
@@ -63,32 +63,32 @@ EM HARMONIA COM O PROGRAMA
 
 I
 
-*Mat√©ria.--Corpo.--Os tr√™s reinos da natureza: animal, vegetal e
+*MatÈria.--Corpo.--Os trÍs reinos da natureza: animal, vegetal e
 mineral*.
 
 
-1.--*Mat√©ria* √© a subst√¢ncia de que s√£o feitos todos os corpos; ou tudo
+1.--*MatÈria* È a subst‚ncia de que s„o feitos todos os corpos; ou tudo
 o que se pode apreciar pelos sentidos--_vista_, _ouvido_, _cheiro_,
 _gosto_ ou _tacto_.
 
-2.--*Corpo* √© qualquer por√ß√£o limitada de mat√©ria, por ex.: um livro, um
-√¥vo, um homem, uma andorinha.
+2.--*Corpo* È qualquer porÁ„o limitada de matÈria, por ex.: um livro, um
+Ùvo, um homem, uma andorinha.
 
 Todos os _corpos_ teem qualidades, que se chamam *propriedades* e que os
 distinguem completamente uns dos outros.
 
-3.--*Os reinos da natureza*, ou grupos de s√™res, s√£o 3: _animal_,
+3.--*Os reinos da natureza*, ou grupos de sÍres, s„o 3: _animal_,
 _vegetal_ e _mineral_.
 
 4.--O *animal* abrange os animais; o *vegetal*, todos os vegetais ou
 plantas; o *mineral*, os minerais, ou corpos sem vida.
 
 5.--Chamam-se *animais*, os corpos que _nascem_, _vivem_, _sentem_ e _se
-movem por sua vontade_, por ex.: os c√£es, os gatos, os cavalos.
+movem por sua vontade_, por ex.: os c„es, os gatos, os cavalos.
 
 [Figura: Animais]
 
-De todos √™stes s√™res o mais perfeito √© o _homem_.
+De todos Ístes sÍres o mais perfeito È o _homem_.
 
 6.--Chamam-se *vegetais* os que _nascem_, _vivem_ e _morrem_, mas nem
 sentem, nem se movem por sua vontade, por ex.: a rosa, o castanheiro, a
@@ -102,16 +102,16 @@ por ex.: as pedras, as moedas, a terra.
 [Figura: Minerais]
 
 8.--O _homem_ pertence ao reino *animal*, mas distingue-se de todos os
-animais por ter racioc√≠nio e *vontade* perfeita, um racioc√≠nio e uma
-vontade que lhe fazem desejar e conhecer os s√™res abstractos, ou que n√£o
-teem corpo, como Deus, a alma, a bondade, a intelig√™ncia, a justi√ßa, a
-felicidade, a sabedoria, o amor, etc. Por isso o homem √© o √∫nico _animal
-racional_, porque tem _racioc√≠nio_, e todos os outros animais se chamam
-_irracionais_, porque o n√£o teem.
+animais por ter raciocÌnio e *vontade* perfeita, um raciocÌnio e uma
+vontade que lhe fazem desejar e conhecer os sÍres abstractos, ou que n„o
+teem corpo, como Deus, a alma, a bondade, a inteligÍncia, a justiÁa, a
+felicidade, a sabedoria, o amor, etc. Por isso o homem È o ˙nico _animal
+racional_, porque tem _raciocÌnio_, e todos os outros animais se chamam
+_irracionais_, porque o n„o teem.
 
-QUESTION√ÅRIO--Que √© mat√©ria?--Que √© corpo?--Exemplo do que √©
-corpo.--Quantos s√£o os reinos da natureza?--Os seus nomes?--Qual a
-diferen√ßa entre √™les?--Que s√£o animais?--Exemplos.--Que √© o homem?--Em
+QUESTION¡RIO--Que È matÈria?--Que È corpo?--Exemplo do que È
+corpo.--Quantos s„o os reinos da natureza?--Os seus nomes?--Qual a
+diferenÁa entre Íles?--Que s„o animais?--Exemplos.--Que È o homem?--Em
 que difere dos outros animais?
 
 
@@ -119,144 +119,144 @@ que difere dos outros animais?
 
 II
 
-*Divis√£o dos corpos em s√≥lidos, l√≠quidos e gasosos*
+*Divis„o dos corpos em sÛlidos, lÌquidos e gasosos*
 
 
-1.--Os corpos, quanto √† sua constitui√ß√£o e forma, dividem-se em
-*s√≥lidos*, *l√≠quidos* e *gasosos*, sendo, pois, 3 os _estados_ da
-mat√©ria: _s√≥lido_, _l√≠quido_ e _gasoso_.
+1.--Os corpos, quanto ‡ sua constituiÁ„o e forma, dividem-se em
+*sÛlidos*, *lÌquidos* e *gasosos*, sendo, pois, 3 os _estados_ da
+matÈria: _sÛlido_, _lÌquido_ e _gasoso_.
 
-2.--*S√≥lidos* s√£o os que, geralmente duros, conservam sempre a mesma
-forma, ou que, para a perderem, teem de sofrer uma f√¥r√ßa, ou um esf√¥r√ßo
-da parte de quem lhes quer separar as partes de que s√£o formados. Por
-ex.: uma pedra, uma mesa, um livro, uma √°rvore, um canivete.
+2.--*SÛlidos* s„o os que, geralmente duros, conservam sempre a mesma
+forma, ou que, para a perderem, teem de sofrer uma fÙrÁa, ou um esfÙrÁo
+da parte de quem lhes quer separar as partes de que s„o formados. Por
+ex.: uma pedra, uma mesa, um livro, uma ·rvore, um canivete.
 
-[Figura: S√≥lido (canivete)]
+[Figura: SÛlido (canivete)]
 
-3.--*L√≠quidos* s√£o os que mudam de forma segundo o vaso em que est√£o e,
-livres d√™sse vaso, caem, rolando as suas partes umas s√¥bre as outras.
-Por ex.: a √°gua, o vinho, o azeite.
+3.--*LÌquidos* s„o os que mudam de forma segundo o vaso em que est„o e,
+livres dÍsse vaso, caem, rolando as suas partes umas sÙbre as outras.
+Por ex.: a ·gua, o vinho, o azeite.
 
-4.--*Gasosos* s√£o os que, mudando de forma como os l√≠quidos tendem
+4.--*Gasosos* s„o os que, mudando de forma como os lÌquidos tendem
 sempre a subir e a aumentar de volume.
 
-[Figura: L√≠quido (√°gua)]
+[Figura: LÌquido (·gua)]
 
-*Volume* dum corpo √© a por√ß√£o de espa√ßo que √™sse corpo ocupa.
+*Volume* dum corpo È a porÁ„o de espaÁo que Ísse corpo ocupa.
 
 [Figura: Volume (livro)]
 
-5.--Para se compreender bem a diferen√ßa d√™stes tr√™s _estados_ da
-mat√©ria, √© bom saber que todos os corpos s√£o formados por part√≠culas
-chamadas _mol√©culas_ e que estas s√£o formadas por outras ainda mais
-pequenas, chamadas _√°tomos_.
+5.--Para se compreender bem a diferenÁa dÍstes trÍs _estados_ da
+matÈria, È bom saber que todos os corpos s„o formados por partÌculas
+chamadas _molÈculas_ e que estas s„o formadas por outras ainda mais
+pequenas, chamadas _·tomos_.
 
-6.--A f√¥r√ßa que une as _mol√©culas_ para formar os _corpos_ chama-se
-_coes√£o_ e a que une os _√°tomos_ para formar as _mol√©culas_ chama-se
+6.--A fÙrÁa que une as _molÈculas_ para formar os _corpos_ chama-se
+_coes„o_ e a que une os _·tomos_ para formar as _molÈculas_ chama-se
 _afinidade_.
 
-7.--Chamam-se *poros* os pequeninos espa√ßos que h√° entre as _mol√©culas_.
-√â f√°cil v√™-los na pele do corpo humano, com o aux√≠lio de um aparelho
-chamado _lente_, onde √™les parecem pequenos furos. A lente permite-nos
-ver os objectos pequenos com um di√°metro aparentemente maior que a √¥lho
-nu. Quando estamos quentes, sai dos poros o suor. A f√¥r√ßa que afasta as
-_mol√©culas_--chama-se _f√¥r√ßa repulsiva do calor_.
+7.--Chamam-se *poros* os pequeninos espaÁos que h· entre as _molÈculas_.
+… f·cil vÍ-los na pele do corpo humano, com o auxÌlio de um aparelho
+chamado _lente_, onde Íles parecem pequenos furos. A lente permite-nos
+ver os objectos pequenos com um di·metro aparentemente maior que a Ùlho
+nu. Quando estamos quentes, sai dos poros o suor. A fÙrÁa que afasta as
+_molÈculas_--chama-se _fÙrÁa repulsiva do calor_.
 
 [Figura: Lente]
 
-8.--D√°-se o nome de *fluidos* aos l√≠quidos e aos gases, porque uns e
-outros teem a propriedade de possuir mol√©culas muito m√≥veis.
+8.--D·-se o nome de *fluidos* aos lÌquidos e aos gases, porque uns e
+outros teem a propriedade de possuir molÈculas muito mÛveis.
 
-9.--H√° ainda *corpos simples* e *corpos compostos*. Os _corpos simples_
-s√£o formados _duma s√≥ esp√©cie de mat√©ria_, como o ouro, a prata, o
-f√≥sforo, etc.; os _compostos_ s√£o formados por _mais que uma esp√©cie de
-mat√©ria_, como a √°gua (que cont√™m _hidrog√©nio_, _oxig√©nio_, etc.), o
+9.--H· ainda *corpos simples* e *corpos compostos*. Os _corpos simples_
+s„o formados _duma sÛ espÈcie de matÈria_, como o ouro, a prata, o
+fÛsforo, etc.; os _compostos_ s„o formados por _mais que uma espÈcie de
+matÈria_, como a ·gua (que contÍm _hidrogÈnio_, _oxigÈnio_, etc.), o
 vinho, o sal e outros.
 
-QUESTION√ÅRIO.--Como se dividem os corpos, quanto √† forma, ou quais os
-estados da mat√©ria?--Que s√£o corpos s√≥lidos?--Exemplos.--E
-l√≠quidos?--Exemplos.--E gasosos?--Que √© preciso saber para compreender
-bem os tr√™s estados da mat√©ria?--Qual a f√¥r√ßa que une as mol√©culas?--E a
-que une os √°tomos?--Que s√£o poros?--Exemplo.--Qual a f√¥r√ßa contr√°ria √†
-coes√£o?--Que s√£o _fluidos_?--Que s√£o corpos simples e corpos compostos?
+QUESTION¡RIO.--Como se dividem os corpos, quanto ‡ forma, ou quais os
+estados da matÈria?--Que s„o corpos sÛlidos?--Exemplos.--E
+lÌquidos?--Exemplos.--E gasosos?--Que È preciso saber para compreender
+bem os trÍs estados da matÈria?--Qual a fÙrÁa que une as molÈculas?--E a
+que une os ·tomos?--Que s„o poros?--Exemplo.--Qual a fÙrÁa contr·ria ‡
+coes„o?--Que s„o _fluidos_?--Que s„o corpos simples e corpos compostos?
 
 
 
 
 III
 
-*Exposi√ß√£o sum√°ria dalguns efeitos que s√¥bre os corpos produzem, como
-agentes naturais, a gravidade, o cal√≥rico, a electricidade, o
+*ExposiÁ„o sum·ria dalguns efeitos que sÙbre os corpos produzem, como
+agentes naturais, a gravidade, o calÛrico, a electricidade, o
 magnetismo, o som e a luz*.
 
 
-1.--Chamam-se *agentes naturais* as f√¥r√ßas que produzem os diversos
-fen√≥menos da Natureza.
+1.--Chamam-se *agentes naturais* as fÙrÁas que produzem os diversos
+fenÛmenos da Natureza.
 
-2.--Os principais s√£o: a _gravidade_, o _som_, o _calor_, a _luz_, a
+2.--Os principais s„o: a _gravidade_, o _som_, o _calor_, a _luz_, a
 _electricidade_, o _magnetismo_.
 
-3.--A *gravidade* √© a f√¥r√ßa que determina a queda dos corpos, porque a
-terra atrai-os. Assim, a f√¥r√ßa que faz com que uma pedra, s√¥lta das
-m√£os, se dirija logo ao ch√£o e, portanto, a f√¥r√ßa que, em iguais
-condi√ß√µes, atrai todos os corpos para o solo, com maior ou menor
-velocidade, √© a _gravidade_.
+3.--A *gravidade* È a fÙrÁa que determina a queda dos corpos, porque a
+terra atrai-os. Assim, a fÙrÁa que faz com que uma pedra, sÙlta das
+m„os, se dirija logo ao ch„o e, portanto, a fÙrÁa que, em iguais
+condiÁıes, atrai todos os corpos para o solo, com maior ou menor
+velocidade, È a _gravidade_.
 
 [Figura: Gravidade]
 
-√â bom notar que *f√¥r√ßa* √© tudo o que produz, ou tende a produzir o
+… bom notar que *fÙrÁa* È tudo o que produz, ou tende a produzir o
 _movimento_, ou tende a reduzi-lo ou ainda a destrui-lo.
 
-4.--Os efeitos principais da _gravidade_ s√£o: o _p√™so dos corpos_, a
+4.--Os efeitos principais da _gravidade_ s„o: o _pÍso dos corpos_, a
 _queda das chuvas_, etc.
 
-5.--O *calor* √© a f√¥r√ßa que, aquecendo os corpos, os _dilata_, isto √©,
-aumenta-lhes o volume, tornando-os, portanto, menos densos. Al√™m disso,
-derrete os metais, faz ferver a √°gua, torna l√≠quidos certos corpos
-s√≥lidos, e gasosos os corpos l√≠quidos.
+5.--O *calor* È a fÙrÁa que, aquecendo os corpos, os _dilata_, isto È,
+aumenta-lhes o volume, tornando-os, portanto, menos densos. AlÍm disso,
+derrete os metais, faz ferver a ·gua, torna lÌquidos certos corpos
+sÛlidos, e gasosos os corpos lÌquidos.
 
-6.--Os efeitos principais do _calor_ s√£o: a _eleva√ß√£o de temperatura_,
+6.--Os efeitos principais do _calor_ s„o: a _elevaÁ„o de temperatura_,
 os _ventos_, etc.
 
-7.--A *electricidade* √© a f√¥r√ßa que, desenvolvida por meio do atrito de
-certos corpos ou pela fric√ß√£o d√™les, ou ainda pela press√£o, pelo calor,
-etc., produz fen√≥menos muito variados--a fus√£o de certos metais,
-diversas combina√ß√µes qu√≠micas, abalos no corpo humano, luz, etc.
+7.--A *electricidade* È a fÙrÁa que, desenvolvida por meio do atrito de
+certos corpos ou pela fricÁ„o dÍles, ou ainda pela press„o, pelo calor,
+etc., produz fenÛmenos muito variados--a fus„o de certos metais,
+diversas combinaÁıes quÌmicas, abalos no corpo humano, luz, etc.
 
-8.--Os efeitos principais da *electricidade* s√£o: as _trovoadas_, a _luz
-el√©ctrica_, etc.
+8.--Os efeitos principais da *electricidade* s„o: as _trovoadas_, a _luz
+elÈctrica_, etc.
 
 [Figura: Electricidade]
 
-9.--O *magnetismo* √© a f√¥r√ßa que d√° aos _imans_ a propriedade de
-atrairem o ferro, o a√ßo, o n√≠quel, o cobalto e outros metais. √â, pois,
-_iman_ todo o corpo que atrai √™sses metais.
+9.--O *magnetismo* È a fÙrÁa que d· aos _imans_ a propriedade de
+atrairem o ferro, o aÁo, o nÌquel, o cobalto e outros metais. …, pois,
+_iman_ todo o corpo que atrai Ísses metais.
 
 [Figura: Iman]
 
-10.--Os efeitos do _magnetismo_ s√£o os mesmos da electricidade.
+10.--Os efeitos do _magnetismo_ s„o os mesmos da electricidade.
 
 [Figura: Magnetismo]
 
-11.--O *som* √© uma sensa√ß√£o particular, despertada no ouvido pela
-vibra√ß√£o, ou movimento vibrat√≥rio da mat√©ria--ou √© o movimento sonoro, o
-ru√≠do que vem dos corpos sonoros.
+11.--O *som* È uma sensaÁ„o particular, despertada no ouvido pela
+vibraÁ„o, ou movimento vibratÛrio da matÈria--ou È o movimento sonoro, o
+ruÌdo que vem dos corpos sonoros.
 
 [Figura: Som]
 
-12.--Os _sons_ principais s√£o: o _bramir da tempestade_, a _voz_, etc.
+12.--Os _sons_ principais s„o: o _bramir da tempestade_, a _voz_, etc.
 
-13.--A *luz* √© o agente que d√° o fen√≥meno da vis√£o, isto √©, que nos
+13.--A *luz* È o agente que d· o fenÛmeno da vis„o, isto È, que nos
 permite ver.
 
 [Figura: Luz]
 
-14.--Os principais efeitos da _luz_ s√£o, al√™m da _ilumina√ß√£o_ dos
-corpos, o _arco-√≠ris_, as _miragens_, etc.
+14.--Os principais efeitos da _luz_ s„o, alÍm da _iluminaÁ„o_ dos
+corpos, o _arco-Ìris_, as _miragens_, etc.
 
-QUESTION√ÅRIO--Que s√£o agentes naturais?--Quais os principais?--Que √©
-gravidade?--Que √© f√¥r√ßa?--Efeitos da _gravidade_.--Que √© o calor e seus
-efeitos?--Que s√£o a electricidade, o magnetismo, os imans, o som, a luz
+QUESTION¡RIO--Que s„o agentes naturais?--Quais os principais?--Que È
+gravidade?--Que È fÙrÁa?--Efeitos da _gravidade_.--Que È o calor e seus
+efeitos?--Que s„o a electricidade, o magnetismo, os imans, o som, a luz
 e os seus efeitos?
 
 
@@ -264,28 +264,28 @@ e os seus efeitos?
 
 IV
 
-*A queda dos corpos.--A terra e os astros.--Atrac√ß√£o*
+*A queda dos corpos.--A terra e os astros.--AtracÁ„o*
 
 
-1.--A queda de todos os corpos na terra, ou a *gravidade*, √© devida _√†
-atrac√ß√£o universal_.
+1.--A queda de todos os corpos na terra, ou a *gravidade*, È devida _‡
+atracÁ„o universal_.
 
-2.--A *Terra*, que atrai todos os corpos que nela existem, √© tamb√™m
-atra√≠da pelo *sol*, astro mais poderoso do que ela, porque os astros
-atraem-se uns aos outros. Assim, a *lua*, porque √© 49 vezes menor que a
-terra, √© atra√≠da por esta.
+2.--A *Terra*, que atrai todos os corpos que nela existem, È tambÍm
+atraÌda pelo *sol*, astro mais poderoso do que ela, porque os astros
+atraem-se uns aos outros. Assim, a *lua*, porque È 49 vezes menor que a
+terra, È atraÌda por esta.
 
-3.--*Astros* s√£o todos os corpos que giram constantemente na ab√≥bada
-celeste. A *Terra* √© um _astro_, porque gira tamb√™m nessa ab√≥bada ou
+3.--*Astros* s„o todos os corpos que giram constantemente na abÛbada
+celeste. A *Terra* È um _astro_, porque gira tambÍm nessa abÛbada ou
 firmamento.
 
 [Figura: Astros]
 
-4.--A *Terra* √© um *planeta*, porque n√£o tem luz pr√≥pria, recebe-a do
-*Sol*. Se tivesse luz pr√≥pria era uma *estr√™la* como o _Sol_ e muitos
+4.--A *Terra* È um *planeta*, porque n„o tem luz prÛpria, recebe-a do
+*Sol*. Se tivesse luz prÛpria era uma *estrÍla* como o _Sol_ e muitos
 astros.
 
-5.--Da atrac√ß√£o universal √© que resulta o movimento da _Terra_ em volta
+5.--Da atracÁ„o universal È que resulta o movimento da _Terra_ em volta
 do _Sol_ e o da _Lua_ em volta da _Terra_, assim como o de muitos astros
 em volta uns dos outros.
 
@@ -294,13 +294,13 @@ pesado que se deixa em liberdade.
 
 [Figura: Fio de prumo]
 
-A direc√ß√£o do fio, logo que √™sse corpo deixa de mover-se, √© a do centro
+A direcÁ„o do fio, logo que Ísse corpo deixa de mover-se, È a do centro
 da Terra para onde a _gravidade_ atrai todos os corpos.
 
-QUESTION√ÅRIO.--A que √© devida a gravidade?--Qual √© o corpo que atrai a
-terra?--Que s√£o astros?--Qual a diferen√ßa entre planetas e
-estr√™las?--Que corpo atrai a lua?--Que resulta principalmente da
-atrac√ß√£o universal?--Que √© o fio de prumo?--Como se acha a direc√ß√£o do
+QUESTION¡RIO.--A que È devida a gravidade?--Qual È o corpo que atrai a
+terra?--Que s„o astros?--Qual a diferenÁa entre planetas e
+estrÍlas?--Que corpo atrai a lua?--Que resulta principalmente da
+atracÁ„o universal?--Que È o fio de prumo?--Como se acha a direcÁ„o do
 centro da Terra?
 
 
@@ -308,234 +308,234 @@ centro da Terra?
 
 V
 
-*Combust√£o e chama.--Term√≥metros*
+*Combust„o e chama.--TermÛmetros*
 
 
-1.--*Combust√£o* √© o fen√≥meno que, por combina√ß√£o do _oxig√©nio_ (um dos
-gases que constituem o ar) com os corpos combust√≠veis (ou capazes de
-arderem), d√° o _calor_ e a _luz_.
+1.--*Combust„o* È o fenÛmeno que, por combinaÁ„o do _oxigÈnio_ (um dos
+gases que constituem o ar) com os corpos combustÌveis (ou capazes de
+arderem), d· o _calor_ e a _luz_.
 
 [Figura: Calor]
 
-2.--√â exemplo vulgar de _combust√£o_ qualquer inc√™ndio, o arder duma
+2.--… exemplo vulgar de _combust„o_ qualquer incÍndio, o arder duma
 vela, etc.
 
-[Figura: Combust√£o]
+[Figura: Combust„o]
 
-3.--Chama-se _comburente_ o oxig√©nio, porque n√™le ardem os
-_combust√≠veis_.
+3.--Chama-se _comburente_ o oxigÈnio, porque nÍle ardem os
+_combustÌveis_.
 
-4.--As *combust√µes* chamam-se *vivas*, quando os corpos se combinam
-rapidamente com o oxig√©nio, e *lentas* no caso contr√°rio.
+4.--As *combustıes* chamam-se *vivas*, quando os corpos se combinam
+rapidamente com o oxigÈnio, e *lentas* no caso contr·rio.
 
-5.--Para se dar a *combust√£o* √© preciso: 1.^o bastante oxig√©nio para ela
-se fazer; 2.^o a r√°pida sa√≠da dos corpos produzidos pela combina√ß√£o do
-oxig√©nio com os combust√≠veis, e 3.^o que a temperatura nao des√ßa tanto,
-que n√£o seja poss√≠vel a combina√ß√£o com o oxig√©nio.
+5.--Para se dar a *combust„o* È preciso: 1.^o bastante oxigÈnio para ela
+se fazer; 2.^o a r·pida saÌda dos corpos produzidos pela combinaÁ„o do
+oxigÈnio com os combustÌveis, e 3.^o que a temperatura nao desÁa tanto,
+que n„o seja possÌvel a combinaÁ„o com o oxigÈnio.
 
-6.--A combina√ß√£o do oxig√©nio com os combust√≠veis d√° _cinzas e fumo_. O
-√∫ltimo, formado de gases e part√≠culas s√≥lidas, eleva-se no ar.
+6.--A combinaÁ„o do oxigÈnio com os combustÌveis d· _cinzas e fumo_. O
+˙ltimo, formado de gases e partÌculas sÛlidas, eleva-se no ar.
 
 [Figura: Cinzas e fumo]
 
-7.--Os _combust√≠veis_ podem ser _vegetais_, como a madeira e o carv√£o da
-mesma (s√£o os mais sa√πd√°veis, logo que a madeira seja bem s√™ca, porque
-h√∫mida, d√° v√≥mitos e s√≠ncopes) e _minerais_, como o carv√£o _de pedra_
+7.--Os _combustÌveis_ podem ser _vegetais_, como a madeira e o carv„o da
+mesma (s„o os mais sa˘d·veis, logo que a madeira seja bem sÍca, porque
+h˙mida, d· vÛmitos e sÌncopes) e _minerais_, como o carv„o _de pedra_
 (hulha) e o _coque_.
 
-8.--O *carv√£o de pedra* arde bem, d√° bom calor, mas s√£o precisas
-chamin√©s que expulsem bem os produtos da combust√£o, prejudiciais √†
-sa√∫de. O _coque_ n√£o tem _fumo_, nem _cheiro_, mas apaga-se f√°cilmente.
+8.--O *carv„o de pedra* arde bem, d· bom calor, mas s„o precisas
+chaminÈs que expulsem bem os produtos da combust„o, prejudiciais ‡
+sa˙de. O _coque_ n„o tem _fumo_, nem _cheiro_, mas apaga-se f·cilmente.
 
-As cozinhas a _g√°s_ e a _petr√≥leo_ exigem grandes cuidados pela
-facilidade das explos√µes, muitas vezes fatais.
+As cozinhas a _g·s_ e a _petrÛleo_ exigem grandes cuidados pela
+facilidade das explosıes, muitas vezes fatais.
 
-9.--*Chama* √© um vapor ou g√°s em combust√£o viva.
+9.--*Chama* È um vapor ou g·s em combust„o viva.
 
 [Figura: Chama]
 
 10.--A *chama* consta de 4 partes: a mais escura no centro, onde, por
-ex., na vela, est√° o pavio; uma parte luminosa, envolvendo a parte
+ex., na vela, est· o pavio; uma parte luminosa, envolvendo a parte
 escura; uma parte externa, menos luminosa, ao cimo da chama, e uma parte
-azulada no fundo da chama. √â f√°cil verificar, pela experi√™ncia, estas 4
+azulada no fundo da chama. … f·cil verificar, pela experiÍncia, estas 4
 partes, perfeitamente distintas. Os meninos podem verificar estas 4
 partes acendendo um lume de cera.
 
-11.--A *chama* tem a grande import√¢ncia de nos dar luz de noite, ou nas
-velas, ou no petr√≥leo, ou no g√°s de ilumina√ß√£o, etc.. Destas chamas deve
+11.--A *chama* tem a grande import‚ncia de nos dar luz de noite, ou nas
+velas, ou no petrÛleo, ou no g·s de iluminaÁ„o, etc.. Destas chamas deve
 preferir-se a que menos fatigue a vista e a que menos corrompa o ar. A
 luz da vela, e principalmente a do azeite, por ser mais fixa e
-prefer√≠vel.
+preferÌvel.
 
 [Figura: Luz de azeite]
 
-12.--*Temperatura* √© o estado de aquecimento de um corpo. √â _alta_, se a
-sensa√ß√£o √© de quente; _baixa_, se √© de frio.
+12.--*Temperatura* È o estado de aquecimento de um corpo. … _alta_, se a
+sensaÁ„o È de quente; _baixa_, se È de frio.
 
-13.--O instrumento que nos mostra com precis√£o a _temperatura_ chama-se
-*term√≥metro*.
+13.--O instrumento que nos mostra com precis„o a _temperatura_ chama-se
+*termÛmetro*.
 
-14.--O *term√≥metro* √© formado por um tubo estreito, fechado em cima, e
-terminado em baixo por um pequeno dep√≥sito, que se enche de _merc√∫rio_
-ou _alcool_. O tubo est√° assente numa t√†buazinha, mais larga do que √™le,
-que tem uns riscozinhos entre outros maiores e mais espa√ßados e com
+14.--O *termÛmetro* È formado por um tubo estreito, fechado em cima, e
+terminado em baixo por um pequeno depÛsito, que se enche de _merc˙rio_
+ou _alcool_. O tubo est· assente numa t‡buazinha, mais larga do que Íle,
+que tem uns riscozinhos entre outros maiores e mais espaÁados e com
 algarismos.
 
-15.--√ästes algarismos s√£o, de ambos os lados da tabuinha, um zero e, de
-tra√ßo em tra√ßo, espa√ßado e maior, 10, 20, 30, etc., acima e abaixo
+15.-- stes algarismos s„o, de ambos os lados da tabuinha, um zero e, de
+traÁo em traÁo, espaÁado e maior, 10, 20, 30, etc., acima e abaixo
 daquele zero.
 
-16.--Quando a linha do merc√∫rio ou alcool sobe, a temperatura eleva-se,
+16.--Quando a linha do merc˙rio ou alcool sobe, a temperatura eleva-se,
 aquece, porque foi o calor, que dilata os corpos, o que elevou o
-merc√∫rio ou o alcool. Se desce a temperatura, arrefece ou baixa, porque
-o frio contrai os corpos. Para se saber o grau d√™sse calor ou frio,
-basta ler o algarismo, junto do qual a linha de merc√∫rio ou alcool
+merc˙rio ou o alcool. Se desce a temperatura, arrefece ou baixa, porque
+o frio contrai os corpos. Para se saber o grau dÍsse calor ou frio,
+basta ler o algarismo, junto do qual a linha de merc˙rio ou alcool
 parou.
 
-17.--H√° 3 modos de medir a _temperatura_ ou _3 escalas_ termom√©tricas: a
-*cent√≠grada*, a de *Reaumur* e de *Fahrnheit*. A 1.^a tem o zero na
-temperatura de g√™lo fundente e 100¬∞ na da √°gua a ferver e entre elas 100
-partes iguais ou _graus cent√≠grados_. A 2.^a tem o zero na temperatura
-de g√™lo fundente e 80¬∞ na da √°gua a ferver, sendo √™sse espa√ßo dividido
-em 80 partes. A 3.^a tem 32¬∞ na primeira temperatura e 212 na 2.^a.
+17.--H· 3 modos de medir a _temperatura_ ou _3 escalas_ termomÈtricas: a
+*centÌgrada*, a de *Reaumur* e de *Fahrnheit*. A 1.^a tem o zero na
+temperatura de gÍlo fundente e 100∞ na da ·gua a ferver e entre elas 100
+partes iguais ou _graus centÌgrados_. A 2.^a tem o zero na temperatura
+de gÍlo fundente e 80∞ na da ·gua a ferver, sendo Ísse espaÁo dividido
+em 80 partes. A 3.^a tem 32∞ na primeira temperatura e 212 na 2.^a.
 
-18.--O sinal (¬∞) significa _graus_.
+18.--O sinal (∞) significa _graus_.
 
-19.--As divis√µes nas escalas est√£o para cima e para baixo de zero. Os
-graus acima de zero s√£o _positivos_; os abaixo do zero _negativos_.
+19.--As divisıes nas escalas est„o para cima e para baixo de zero. Os
+graus acima de zero s„o _positivos_; os abaixo do zero _negativos_.
 
-QUESTION√ÅRIO.--Que √© combust√£o?--Exemplo.--Que √© a chama?--De quantas
-partes consta?--Que √© temperatura?--Qual a sua import√¢ncia?--Que √©
-prefer√≠vel para iluminar?--Que s√£o term√≥metros?--Como conhecemos, por
-meio d√™les, a temperatura?--Quantas s√£o as escalas termom√©tricas?--Que √©
-corpo comburente?--E combust√≠veis?--Que s√£o combust√µes vivas e
-lentas?--Que √© preciso para se dar a combust√£o?--Donde veem as cinzas e
-o fumo?--Quantas esp√©cies h√° de combust√≠veis?--Quais as qualidades do
-carv√£o de pedra, coque, etc.?--Que significa o sinal (¬∞)?--Quantas
-esp√©cies h√° de graus?
+QUESTION¡RIO.--Que È combust„o?--Exemplo.--Que È a chama?--De quantas
+partes consta?--Que È temperatura?--Qual a sua import‚ncia?--Que È
+preferÌvel para iluminar?--Que s„o termÛmetros?--Como conhecemos, por
+meio dÍles, a temperatura?--Quantas s„o as escalas termomÈtricas?--Que È
+corpo comburente?--E combustÌveis?--Que s„o combustıes vivas e
+lentas?--Que È preciso para se dar a combust„o?--Donde veem as cinzas e
+o fumo?--Quantas espÈcies h· de combustÌveis?--Quais as qualidades do
+carv„o de pedra, coque, etc.?--Que significa o sinal (∞)?--Quantas
+espÈcies h· de graus?
 
 
 
 
 VI
 
-*Vapor e suas aplica√ß√µes principais--Aparelhos de distila√ß√£o*
+*Vapor e suas aplicaÁıes principais--Aparelhos de distilaÁ„o*
 
 
-1.--Viu-se que o calor pode tornar l√≠quido o corpo s√≥lido e gasoso o
-corpo l√≠quido. Assim, a √°gua, _s√≥lida_ quando no estado de g√™lo, com o
-calor torna-se _l√≠quida_ e pode beber-se, e, se o calor f√¥r muito forte,
-ferve e torna-se _vapor_, um fumozinho, ou g√°s, que se eleva acima da
-√°gua fervente.
+1.--Viu-se que o calor pode tornar lÌquido o corpo sÛlido e gasoso o
+corpo lÌquido. Assim, a ·gua, _sÛlida_ quando no estado de gÍlo, com o
+calor torna-se _lÌquida_ e pode beber-se, e, se o calor fÙr muito forte,
+ferve e torna-se _vapor_, um fumozinho, ou g·s, que se eleva acima da
+·gua fervente.
 
-2.--O *vapor* √©, pois, o g√°s que, proveniente dum l√≠quido aquecido at√©
+2.--O *vapor* È, pois, o g·s que, proveniente dum lÌquido aquecido atÈ
 ferver, se eleva na atmosfera.
 
-Chama-se *vaporiza√ß√£o* a transforma√ß√£o da √°gua em vapor.
+Chama-se *vaporizaÁ„o* a transformaÁ„o da ·gua em vapor.
 
-[Figura: Vaporiza√ß√£o]
+[Figura: VaporizaÁ„o]
 
-Se colocarmos ao sol uma bacia com uma pequena quantidade de √°gua,
-veremos que ela desaparece em pouco tempo, isto √©, que se _evaporou_ ou
-que se deu o fen√≥meno da _evapora√ß√£o_.
+Se colocarmos ao sol uma bacia com uma pequena quantidade de ·gua,
+veremos que ela desaparece em pouco tempo, isto È, que se _evaporou_ ou
+que se deu o fenÛmeno da _evaporaÁ„o_.
 
-3.--As principais aplica√ß√µes do vapor s√£o as *m√°quinas a vapor* que
-arrastam os comb√≥ios, os navios chamados _vapores_, as m√°quinas das
-f√°bricas, etc., etc.
+3.--As principais aplicaÁıes do vapor s„o as *m·quinas a vapor* que
+arrastam os combÛios, os navios chamados _vapores_, as m·quinas das
+f·bricas, etc., etc.
 
-[Figura: M√°quinas a vapor]
+[Figura: M·quinas a vapor]
 
-4.--A f√¥r√ßa do vapor, que assim arrasta pesos enormes e transp√µe
-rapidamente grandes dist√¢ncias, conhece-se, f√°cilmente, aquecendo √°gua
-dentro dum vaso fechado. Se a √°gua ferver e n√£o a desabafarmos, a f√¥r√ßa
-do vapor despeda√ßar√° o vaso.
+4.--A fÙrÁa do vapor, que assim arrasta pesos enormes e transpıe
+rapidamente grandes dist‚ncias, conhece-se, f·cilmente, aquecendo ·gua
+dentro dum vaso fechado. Se a ·gua ferver e n„o a desabafarmos, a fÙrÁa
+do vapor despedaÁar· o vaso.
 
-Quando a √°gua est√° fervendo, dizemos que est√° em *ebuli√ß√£o*.
+Quando a ·gua est· fervendo, dizemos que est· em *ebuliÁ„o*.
 
-[Figura: Ebuli√ß√£o]
+[Figura: EbuliÁ„o]
 
-5.--Na f√¥r√ßa do vapor se baseia a constru√ß√£o de m√°quinas a vapor.
+5.--Na fÙrÁa do vapor se baseia a construÁ„o de m·quinas a vapor.
 
-Uma m√°quina a vapor consta sempre de tr√™s partes: _caldeira_, que gera o
-vapor; _cilindro √¥co_, tubo que distribui √™sse vapor, produzindo um
-movimento rectil√≠neo; e _aparelho transmissor_, que faz a transmiss√£o
-d√™sse movimento a v√°rios maquinismos industriais. A _caldeira_ √© um vaso
-cil√≠ndrico a comunicar, por 2 tubos verticais, com dois cilindros
+Uma m·quina a vapor consta sempre de trÍs partes: _caldeira_, que gera o
+vapor; _cilindro Ùco_, tubo que distribui Ísse vapor, produzindo um
+movimento rectilÌneo; e _aparelho transmissor_, que faz a transmiss„o
+dÍsse movimento a v·rios maquinismos industriais. A _caldeira_ È um vaso
+cilÌndrico a comunicar, por 2 tubos verticais, com dois cilindros
 menores.
 
 [Figura: Caldeira]
 
-Tem as paredes resistentes, de f√¥lha de ferro. Tem √°gua at√© ao meio e
-aquecida por uma fornalha que tem debaixo e com chamin√© para expelir os
-produtos da combust√£o. Junto √† _caldeira_ est√° um _man√≥metro_, esp√©cie
-de rel√≥gio que indica a menor press√£o do vapor. Para prevenir o descuido
-do maquinista em n√£o deixar sa√≠r o vapor, tem ainda a caldeira orif√≠cios
-com pe√ßas chamadas _v√°lvulas de seguran√ßa_, que a f√¥r√ßa do vapor abre de
-dentro para fora antes d√™le for√ßar a resist√™ncia da _caldeira_. O
-_cilindro √¥co_, tamb√™m chamado _corpo de bomba_, √© um tubo dentro do
-qual se move um cilindrozinho massi√ßo, chamado _√™mbolo_ e ligado a uma
+Tem as paredes resistentes, de fÙlha de ferro. Tem ·gua atÈ ao meio e
+aquecida por uma fornalha que tem debaixo e com chaminÈ para expelir os
+produtos da combust„o. Junto ‡ _caldeira_ est· um _manÛmetro_, espÈcie
+de relÛgio que indica a menor press„o do vapor. Para prevenir o descuido
+do maquinista em n„o deixar saÌr o vapor, tem ainda a caldeira orifÌcios
+com peÁas chamadas _v·lvulas de seguranÁa_, que a fÙrÁa do vapor abre de
+dentro para fora antes dÍle forÁar a resistÍncia da _caldeira_. O
+_cilindro Ùco_, tambÍm chamado _corpo de bomba_, È um tubo dentro do
+qual se move um cilindrozinho massiÁo, chamado _Ímbolo_ e ligado a uma
 haste que transmite o movimento para fora. Ao lado do _corpo de bomba_
-h√° uma caixa que, por distribuir o vapor, se chama _caixa de
-distribui√ß√£o_. Dentro dela corre uma _gaveta_. O cilindro comunica com a
-_caixa_ por meio de 2 orif√≠cios. O aparelho tem ainda um orif√≠cio que d√°
-comunica√ß√£o com a atmosfera ou com o recipiente em que se condensa o
+h· uma caixa que, por distribuir o vapor, se chama _caixa de
+distribuiÁ„o_. Dentro dela corre uma _gaveta_. O cilindro comunica com a
+_caixa_ por meio de 2 orifÌcios. O aparelho tem ainda um orifÌcio que d·
+comunicaÁ„o com a atmosfera ou com o recipiente em que se condensa o
 vapor.
 
-6.--Funciona assim: O vapor vem da _caldeira_, entra pelo tubo, passa √†
-_caixa de distribui√ß√£o_ e entra no _corpo de bomba_. E ent√£o empurra o
-_√™mbolo_. O vapor que est√° em cima d√™ste escapa-se para fora. Depois,
-quando o _√™mbolo_ sobe, o vapor da caldeira abate o _√™mbolo_ e o vapor
-que o f√™z subir escapa-se para fora.
+6.--Funciona assim: O vapor vem da _caldeira_, entra pelo tubo, passa ‡
+_caixa de distribuiÁ„o_ e entra no _corpo de bomba_. E ent„o empurra o
+_Ímbolo_. O vapor que est· em cima dÍste escapa-se para fora. Depois,
+quando o _Ímbolo_ sobe, o vapor da caldeira abate o _Ímbolo_ e o vapor
+que o fÍz subir escapa-se para fora.
 
-7.--√äste movimento rectilineo pode mudar-se em circular. Como a haste do
-_√™mbolo_ est√° ligada a uma haste met√°lica, chamada _balanceio_, que
-fixa, no seu meio, se liga pela extremidade a um tirante e √™ste ainda
+7.-- ste movimento rectilineo pode mudar-se em circular. Como a haste do
+_Ímbolo_ est· ligada a uma haste met·lica, chamada _balanceio_, que
+fixa, no seu meio, se liga pela extremidade a um tirante e Íste ainda
 ligado a uma manivela, o eixo da roda do maquinismo tem o movimento de
-rota√ß√£o.
+rotaÁ„o.
 
-8.--√â vulgar dizer-se que uma m√°quina tem a f√¥r√ßa de 10 ou 100
-_cavalos-vapor_. O _cavalo-vapor_ √© o trabalho de 75 _kilogr√°metros_ ou,
-mais claro, o esf√¥r√ßo preciso para levantar 75 kilogramas √† altura dum
+8.--… vulgar dizer-se que uma m·quina tem a fÙrÁa de 10 ou 100
+_cavalos-vapor_. O _cavalo-vapor_ È o trabalho de 75 _kilogr·metros_ ou,
+mais claro, o esfÙrÁo preciso para levantar 75 kilogramas ‡ altura dum
 metro num segundo.
 
-9.--Chama-se *sublima√ß√£o* √† propriedade que alguns corpos teem de passar
-de _s√≥lidos_ a _gasosos_, sem passarem pelo _estado l√≠quido_.
+9.--Chama-se *sublimaÁ„o* ‡ propriedade que alguns corpos teem de passar
+de _sÛlidos_ a _gasosos_, sem passarem pelo _estado lÌquido_.
 
-Tais s√£o a _c√¢nfora_ e o _i√≥do_.
+Tais s„o a _c‚nfora_ e o _iÛdo_.
 
-10.--A passagem do estado de vapor ao estado l√≠quido, devido ao
-resfriamento do mesmo vapor, chama-se *condensa√ß√£o*.
+10.--A passagem do estado de vapor ao estado lÌquido, devido ao
+resfriamento do mesmo vapor, chama-se *condensaÁ„o*.
 
-11.--A *vaporiza√ß√£o* tem uma aplica√ß√£o importante nos _aparelhos de
-distila√ß√£o_, que servem para purificarmos um l√≠quido, tirando-lhe
-qualquer corpo vol√°til, isto √©, que possa passar ao estado de vapor.
+11.--A *vaporizaÁ„o* tem uma aplicaÁ„o importante nos _aparelhos de
+distilaÁ„o_, que servem para purificarmos um lÌquido, tirando-lhe
+qualquer corpo vol·til, isto È, que possa passar ao estado de vapor.
 
-[Figura: Are√≥metro]
+[Figura: AreÛmetro]
 
 12.--Chamam-se *alambiques* os aparelhos que servem para extrairmos,
-duma subst√¢ncia, um corpo vol√°til.
+duma subst‚ncia, um corpo vol·til.
 
-13.--O alambique consta de tr√™s partes: _caldeira_, _capitel_ e
+13.--O alambique consta de trÍs partes: _caldeira_, _capitel_ e
 _condensador_.
 
-14.--A _caldeira_ deposita o l√≠quido que se vai purificar, ou a
-subst√¢ncia de que se extrai um corpo vol√°til e comunica, por meio dum
-tubo recurvado, com um tubo chamado _serpentina_ em forma de h√©lice e
-que est√° dentro dum dep√≥sito de √°gua fria, chamado _condensador_.
+14.--A _caldeira_ deposita o lÌquido que se vai purificar, ou a
+subst‚ncia de que se extrai um corpo vol·til e comunica, por meio dum
+tubo recurvado, com um tubo chamado _serpentina_ em forma de hÈlice e
+que est· dentro dum depÛsito de ·gua fria, chamado _condensador_.
 
-15.--A maneira de funcionar √© a seguinte: deita-se na caldeira o que se
-quer purificar. Aquece-se fortemente a caldeira at√© que a subst√¢ncia em
-quest√£o se volatilize e passe √† serpentina, por cuja extremidade
-inferior sai no estado l√≠quido, depois de ter resfriado, e, portanto,
+15.--A maneira de funcionar È a seguinte: deita-se na caldeira o que se
+quer purificar. Aquece-se fortemente a caldeira atÈ que a subst‚ncia em
+quest„o se volatilize e passe ‡ serpentina, por cuja extremidade
+inferior sai no estado lÌquido, depois de ter resfriado, e, portanto,
 condensado.
 
-QUESTION√ÅRIO.--Recordai os efeitos do calor.--Que √© o vapor?--Que √© a
-vaporiza√ß√£o?--E evapora√ß√£o?--Quais as suas principais aplica√ß√µes?--Qual
-√© a f√¥r√ßa do vapor?--Que √© ebuli√ß√£o?--Que √© sublima√ß√£o e
-condensa√ß√£o?--Descrevei uma m√°quina a vapor.--Qual o seu
+QUESTION¡RIO.--Recordai os efeitos do calor.--Que È o vapor?--Que È a
+vaporizaÁ„o?--E evaporaÁ„o?--Quais as suas principais aplicaÁıes?--Qual
+È a fÙrÁa do vapor?--Que È ebuliÁ„o?--Que È sublimaÁ„o e
+condensaÁ„o?--Descrevei uma m·quina a vapor.--Qual o seu
 funcionamento?--Como se transforma em circular o movimento
-rectil√≠neo?--Que √© o _cavalo-vapor_?--Que s√£o aparelhos de
-distila√ß√£o?--Que s√£o alambiques?--Partes do alambique.--Seu
+rectilÌneo?--Que È o _cavalo-vapor_?--Que s„o aparelhos de
+distilaÁ„o?--Que s„o alambiques?--Partes do alambique.--Seu
 funcionamento.
 
 
@@ -544,51 +544,51 @@ funcionamento.
 VII
 
 *Corpos bons e maus condutores do calor.--Tecidos que devem usar-se no
-vestu√°rio, conforme as idades, esta√ß√µes e climas.*
+vestu·rio, conforme as idades, estaÁıes e climas.*
 
 
 1.--Chamam-se _bons condutores_ do calor os corpos que o conduzem com
 facilidade; e _maus condutores_ os que o conduzem com dificuldade.
 
-2.--Dos primeiros, s√£o ex.: o _ouro_, o _cobre_, o _ferro_ e a _prata_,
-que √© f√°cil ver como transmitem depressa o calor; dos segundos, s√£o ex.:
-a _madeira_, o _vidro_, os _l√≠quidos_, os _gases_, etc., cuja
-dificuldade em transmitir o calor √© tamb√™m muito f√°cil de experimentar,
-pelo que s√£o excelentes _isoladores_.
+2.--Dos primeiros, s„o ex.: o _ouro_, o _cobre_, o _ferro_ e a _prata_,
+que È f·cil ver como transmitem depressa o calor; dos segundos, s„o ex.:
+a _madeira_, o _vidro_, os _lÌquidos_, os _gases_, etc., cuja
+dificuldade em transmitir o calor È tambÍm muito f·cil de experimentar,
+pelo que s„o excelentes _isoladores_.
 
 [Figura: Mau condutor (madeira)]
 
-3.--Os l√≠quidos, com excep√ß√£o do merc√∫rio, s√£o p√©ssimos condutores. S√£o
-igualmente maus condutores os gases. Por isso o algod√£o e a l√£, porque
-entre os fios conservam o ar, que √© um g√°s, ou feito de gases, s√£o maus
+3.--Os lÌquidos, com excepÁ„o do merc˙rio, s„o pÈssimos condutores. S„o
+igualmente maus condutores os gases. Por isso o algod„o e a l„, porque
+entre os fios conservam o ar, que È um g·s, ou feito de gases, s„o maus
 condutores do calor.
 
 [Figura: Bom condutor do calor (ferro)]
 
-4.--√â o sol uma origem de calor. O fen√≥meno do calor, por √™le produzido,
-sem aquecer o espa√ßo que atravessa, tem o nome de _irradia√ß√£o_ e √™sse
+4.--… o sol uma origem de calor. O fenÛmeno do calor, por Íle produzido,
+sem aquecer o espaÁo que atravessa, tem o nome de _irradiaÁ„o_ e Ísse
 calor tem o nome de _radiante_.
 
-5.--√â *luminoso* todo o corpo que, como o sol, emite calor e luz;
-*obscuro*, o que s√≥ emite calor.
+5.--… *luminoso* todo o corpo que, como o sol, emite calor e luz;
+*obscuro*, o que sÛ emite calor.
 
-6.--Chamam-se _diat√©rmicos_ os corpos que n√£o aquecem, apesar de
-atravessados pelo calor radiante; e _at√©rmicos_ os que aquecem e n√£o
+6.--Chamam-se _diatÈrmicos_ os corpos que n„o aquecem, apesar de
+atravessados pelo calor radiante; e _atÈrmicos_ os que aquecem e n„o
 deixam passar o calor.
 
-S√£o _diat√©rmicos_ o ar e os gases, e _at√©rmicos_ os metais.
+S„o _diatÈrmicos_ o ar e os gases, e _atÈrmicos_ os metais.
 
-7.--Os corpos quentes teem tr√™s poderes: _emissivo_, _absorvente_ e
+7.--Os corpos quentes teem trÍs poderes: _emissivo_, _absorvente_ e
 _reflector_.
 
-8.--Pelo primeiro, lan√ßam fora de si certa quantidade de calor. Pelo
-segundo, absorvem o que √© emitido. Pelo terceiro, parte do calor volta
+8.--Pelo primeiro, lanÁam fora de si certa quantidade de calor. Pelo
+segundo, absorvem o que È emitido. Pelo terceiro, parte do calor volta
 ao corpo que o gerou.
 
-√ästes poderes variam nos diversos corpos, dependendo bastante da
-varia√ß√£o das c√¥res dos mesmos corpos.
+ stes poderes variam nos diversos corpos, dependendo bastante da
+variaÁ„o das cÙres dos mesmos corpos.
 
-9.--Segue uma tabela de c√¥res mais e menos absorventes e mais e menos
+9.--Segue uma tabela de cÙres mais e menos absorventes e mais e menos
 reflectoras:
 
 +-------------------------------------+---------------------------------+
@@ -600,51 +600,51 @@ reflectoras:
 |amarela, branca.                     |preta.                           |
 +-------------------------------------+---------------------------------+
 
-10.--O vestu√°rio varia conforme as idades. Largo, embora confortador,
-n√£o apertando o corpo e aquecendo-o, sem o fazer transpirar, na crian√ßa.
-Desafogado, preferindo-se o algod√£o ao linho nas roupas interiores.--que
-dormindo, n√£o devem ser as mesmas que se trazem de dia, mas sem press√µes
-de nastro, ligadura, colarinhos, cal√ßas (aqui se nota a vantagem dos
-suspens√≥rios) e de coletes de espartilho, que prejudicam a circula√ß√£o do
-sangue e a nutri√ß√£o, nas pessoas adultas. Cobrir muito a cabe√ßa nas
-crian√ßas e nos adultos, principalmente quando se usam chap√©us sem
-ventiladores, prejudica tamb√™m a sa√∫de. Igualmente √© nocivo o uso do
-cal√ßado muito apertado.
+10.--O vestu·rio varia conforme as idades. Largo, embora confortador,
+n„o apertando o corpo e aquecendo-o, sem o fazer transpirar, na crianÁa.
+Desafogado, preferindo-se o algod„o ao linho nas roupas interiores.--que
+dormindo, n„o devem ser as mesmas que se trazem de dia, mas sem pressıes
+de nastro, ligadura, colarinhos, calÁas (aqui se nota a vantagem dos
+suspensÛrios) e de coletes de espartilho, que prejudicam a circulaÁ„o do
+sangue e a nutriÁ„o, nas pessoas adultas. Cobrir muito a cabeÁa nas
+crianÁas e nos adultos, principalmente quando se usam chapÈus sem
+ventiladores, prejudica tambÍm a sa˙de. Igualmente È nocivo o uso do
+calÁado muito apertado.
 
-[Figura: Suspens√≥rios]
+[Figura: SuspensÛrios]
 
-11.--O uso do bom vestu√°rio deve ser auxiliado pelo bom leito, limpo,
-com colch√µes de palha ou folhelho; as roupas renovadas com freq√π√™ncia,
-arejadas todos os dias e posto no lugar mais sa√πdavel e ventilado da
+11.--O uso do bom vestu·rio deve ser auxiliado pelo bom leito, limpo,
+com colchıes de palha ou folhelho; as roupas renovadas com freq˘Íncia,
+arejadas todos os dias e posto no lugar mais sa˘davel e ventilado da
 casa.
 
-12.--O vestu√°rio varia conforme as esta√ß√µes; devendo ser quente no
-inverno, um pouco mais ligeiro na primavera, fresco no ver√£o e igual ao
-da primavera no outono. Mas os vestu√°rios nunca devem ser t√£o quentes
-que provoquem a transpira√ß√£o, nem t√£o frescos que exponham o corpo a
-doen√ßas com qualquer mudan√ßa repentina de temperatura.
+12.--O vestu·rio varia conforme as estaÁıes; devendo ser quente no
+inverno, um pouco mais ligeiro na primavera, fresco no ver„o e igual ao
+da primavera no outono. Mas os vestu·rios nunca devem ser t„o quentes
+que provoquem a transpiraÁ„o, nem t„o frescos que exponham o corpo a
+doenÁas com qualquer mudanÁa repentina de temperatura.
 
-13.--Tamb√™m varia o vestu√°rio, segundo os climas, sendo natural que
+13.--TambÍm varia o vestu·rio, segundo os climas, sendo natural que
 predominem os fatos quentes nos climas frios e os frescos nos climas
 quentes.
 
 
-14.--Todavia, no uso dos vestu√°rios, √© preciso principalmente atender √†
-sa√∫de. Se o indiv√≠duo √© an√©mico, por ex., o seu vestu√°rio, mesmo no
-ver√£o, nunca pode ser demasiadamente fresco, etc., etc.
+14.--Todavia, no uso dos vestu·rios, È preciso principalmente atender ‡
+sa˙de. Se o indivÌduo È anÈmico, por ex., o seu vestu·rio, mesmo no
+ver„o, nunca pode ser demasiadamente fresco, etc., etc.
 
-15.--Deve haver o m√°ximo cuidado com a freq√πente mudan√ßa das roupas
+15.--Deve haver o m·ximo cuidado com a freq˘ente mudanÁa das roupas
 interiores e nunca vestir de dia o que se veste de noite, ou vice-versa.
 
-QUESTION√ÅRIO.--Que s√£o corpos bons e maus condutores do calor?--Que s√£o
-corpos _isoladores_?--Que √© irradia√ß√£o?--Que s√£o corpos luminosos e
-corpos obscuros?--E _diat√©rmicos_ e _at√©rmicos_?--Quais os poderes dos
-corpos quentes?--Precise-os.--Quais as c√¥res mais absorventes e quais as
+QUESTION¡RIO.--Que s„o corpos bons e maus condutores do calor?--Que s„o
+corpos _isoladores_?--Que È irradiaÁ„o?--Que s„o corpos luminosos e
+corpos obscuros?--E _diatÈrmicos_ e _atÈrmicos_?--Quais os poderes dos
+corpos quentes?--Precise-os.--Quais as cÙres mais absorventes e quais as
 mais reflectoras?--A que se deve atender na escolha do
-vestu√°rio?--Quando se deve preferir os fatos brancos aos pretos e
-vice-versa?--Como varia o vestu√°rio conforme as idades?--Como deve ser o
-leito?--Como varia o vestu√°rio conforme as esta√ß√µes?--E conforme os
-climas?--A que √© preciso ainda atender quanto a vestu√°rios?--Que cuidado
+vestu·rio?--Quando se deve preferir os fatos brancos aos pretos e
+vice-versa?--Como varia o vestu·rio conforme as idades?--Como deve ser o
+leito?--Como varia o vestu·rio conforme as estaÁıes?--E conforme os
+climas?--A que È preciso ainda atender quanto a vestu·rios?--Que cuidado
 deve haver com as roupas interiores?
 
 
@@ -652,266 +652,266 @@ deve haver com as roupas interiores?
 
 VIII
 
-*Condensa√ß√£o de vapores.--Nuvens, rel√¢mpagos, trov√£o, fa√≠sca el√©ctrica,
-p√°ra-raios, o vento.*
+*CondensaÁ„o de vapores.--Nuvens, rel‚mpagos, trov„o, faÌsca elÈctrica,
+p·ra-raios, o vento.*
 
 
-1.--Chama-se *Meteorologia* o estudo dos fen√≥menos realizados na
+1.--Chama-se *Meteorologia* o estudo dos fenÛmenos realizados na
 _atmosfera_.
 
-2.--A *atmosfera* √© uma camada gasosa que envolve toda a Terra.
+2.--A *atmosfera* È uma camada gasosa que envolve toda a Terra.
 
 [Figura: Atmosfera]
 
-3.--O _ar atmosf√©rico_ √© mat√©ria. Portanto obedece √† gravidade. Por isso
-tem limites, n√£o se elevando, pois, s√¥bre n√≥s acima de 360 kil√≥metros.
+3.--O _ar atmosfÈrico_ È matÈria. Portanto obedece ‡ gravidade. Por isso
+tem limites, n„o se elevando, pois, sÙbre nÛs acima de 360 kilÛmetros.
 
-4.--O p√™so do ar s√¥bre a Terra √© o que se chama _press√£o atmosf√©rica_.
-Esta press√£o exerce-se em todos os sentidos, de cima para baixo e de
-baixo para cima e lateralmente, o que nos permite n√£o sermos esmagados,
-porque o seu p√™so √© de 15:000 kilogramas.
+4.--O pÍso do ar sÙbre a Terra È o que se chama _press„o atmosfÈrica_.
+Esta press„o exerce-se em todos os sentidos, de cima para baixo e de
+baixo para cima e lateralmente, o que nos permite n„o sermos esmagados,
+porque o seu pÍso È de 15:000 kilogramas.
 
-5.--O ar √© mais _denso_, isto √©, mais pesado ao p√© do mar do que nas
-altas montanhas, porque nos lugares baixos h√° mais massa de ar do que
+5.--O ar È mais _denso_, isto È, mais pesado ao pÈ do mar do que nas
+altas montanhas, porque nos lugares baixos h· mais massa de ar do que
 nos lugares altos.
 
-6.--Chama-se _bar√≥metro_ o instrumento que indica as varia√ß√µes da
-press√£o atmosf√©rica.
+6.--Chama-se _barÛmetro_ o instrumento que indica as variaÁıes da
+press„o atmosfÈrica.
 
-7.--Consta √™le duma caixa met√°lica, √† qual se extra√≠u algum ar e de
-engrenagens ligadas, dum lado, √† superf√≠cie da caixa, e do outro, a uma
-agulha. Se a superf√≠cie da caixa se deprime, √© porque a press√£o
-atmosf√©rica aumenta; se ela se eleva, √© porque a press√£o diminui. √ästes
-movimentos s√£o transmitidos √† agulha, que se move s√¥bre um mostrador
-graduado, indicando _Tempestade_, _Chuva_, _Tempo Vari√°vel_, _Bom_,
+7.--Consta Íle duma caixa met·lica, ‡ qual se extraÌu algum ar e de
+engrenagens ligadas, dum lado, ‡ superfÌcie da caixa, e do outro, a uma
+agulha. Se a superfÌcie da caixa se deprime, È porque a press„o
+atmosfÈrica aumenta; se ela se eleva, È porque a press„o diminui.  stes
+movimentos s„o transmitidos ‡ agulha, que se move sÙbre um mostrador
+graduado, indicando _Tempestade_, _Chuva_, _Tempo Vari·vel_, _Bom_,
 _Fixo_, _Seco_, etc.
 
-8.--O vapor de √°gua da atmosfera condensa-se, ao resfriar, como todos os
+8.--O vapor de ·gua da atmosfera condensa-se, ao resfriar, como todos os
 vapores.
 
-9.--As *nuvens* s√£o resultado dessa condensa√ß√£o e igualmente os
-*nevoeiros*: s√£o, pois, vapores condensados que flutuam no ar.
+9.--As *nuvens* s„o resultado dessa condensaÁ„o e igualmente os
+*nevoeiros*: s„o, pois, vapores condensados que flutuam no ar.
 
 [Figura: Nuvens]
 
-10.--As _nuvens_ podem produzir a *chuva*, a *neve*, a *saraiva*. D√£o
+10.--As _nuvens_ podem produzir a *chuva*, a *neve*, a *saraiva*. D„o
 _chuva_, quando as nuvens teem a temperatura baixa, porque os seus
-vapores condensam-se tanto que caem liquefeitos. D√£o _neve_, quando a
-temperatura delas √© inferior a zero, o que obriga a √°gua a gelar, e a
-cair em flocos. Se √™stes flocos s√£o muito volumosos e duros, a _neve_
+vapores condensam-se tanto que caem liquefeitos. D„o _neve_, quando a
+temperatura delas È inferior a zero, o que obriga a ·gua a gelar, e a
+cair em flocos. Se Ístes flocos s„o muito volumosos e duros, a _neve_
 chama-se _granizo_ ou _saraiva_.
 
-11.--Al√™m das _nuvens_, o vapor de √°gua do ar tamb√™m produz o *orvalho*
-e a *geada*. O primeiro √© a condensa√ß√£o do vapor de √°gua que h√° √†
-superf√≠cie da terra, logo que o calor solar deixa de aquecer, caindo
+11.--AlÍm das _nuvens_, o vapor de ·gua do ar tambÍm produz o *orvalho*
+e a *geada*. O primeiro È a condensaÁ„o do vapor de ·gua que h· ‡
+superfÌcie da terra, logo que o calor solar deixa de aquecer, caindo
 depois em gotas pequeninas; e o segundo, o mesmo vapor condensado,
-tornando-se s√≥lido, por ter descido a temperatura abaixo de zero.
+tornando-se sÛlido, por ter descido a temperatura abaixo de zero.
 
-12.--Quando duas nuvens carregadas de electricidade contr√°ria se
-aproximam, as duas electricidades re√∫nem-se e produzem uma _fa√≠sca_,
-cujo clar√£o se chama *rel√¢mpago*.
+12.--Quando duas nuvens carregadas de electricidade contr·ria se
+aproximam, as duas electricidades re˙nem-se e produzem uma _faÌsca_,
+cujo clar„o se chama *rel‚mpago*.
 
-13.--O *trov√£o* √© o ru√≠do feito pela re√∫ni√£o das duas electricidades
-contr√°rias.
+13.--O *trov„o* È o ruÌdo feito pela re˙ni„o das duas electricidades
+contr·rias.
 
-14.--As *fa√≠scas el√©ctricas* s√£o o produto luminoso do choque das
-electricidades contr√°rias e s√£o elas que, caindo em zigue zague,
-produzem a luz azulada do _rel√¢mpago_. Chamam-se *raios* quando as
-fa√≠scas caem s√¥bre a terra.
+14.--As *faÌscas elÈctricas* s„o o produto luminoso do choque das
+electricidades contr·rias e s„o elas que, caindo em zigue zague,
+produzem a luz azulada do _rel‚mpago_. Chamam-se *raios* quando as
+faÌscas caem sÙbre a terra.
 
-15.--*P√°ra-raios* √© um instrumento inventado por Franklin, para evitar
-os efeitos terr√≠veis da _fa√≠sca el√©ctrica_, quando √© verdadeiramente
-_raio_. √â uma haste de ferro, terminada superiormente por uma ponta de
-platina ou cobre para n√£o se enferrujar, visto a ferrugem ser m√°
+15.--*P·ra-raios* È um instrumento inventado por Franklin, para evitar
+os efeitos terrÌveis da _faÌsca elÈctrica_, quando È verdadeiramente
+_raio_. … uma haste de ferro, terminada superiormente por uma ponta de
+platina ou cobre para n„o se enferrujar, visto a ferrugem ser m·
 condutora da electricidade. Esta haste de ferro, fixa verticalmente na
-parte superior dum edif√≠cio, comunica com a terra por um cabo de fios de
+parte superior dum edifÌcio, comunica com a terra por um cabo de fios de
 cobre ou de ferro.
 
-[Figura: P√°ra-raios]
+[Figura: P·ra-raios]
 
 16.--Funciona assim: A nuvem electrizada electriza o edificio que tem
-_p√°ra-raios_, mas atrai, pela ponta do _p√°ra-raios_, a electricidade do
-edif√≠cio, electricidade que se eleva ao ar neutralizando a que desce. O
-raio, portanto, n√£o cai, devido √† electricidade conduzida pelo
-_p√°ra-raios_; e, se a carga el√©ctrica da nuvem √© excessiva, o
-_p√°ra-raios_ conduz para o solo o raio produzido, porque se encontra
-mais perto da nuvem, resguardando assim o edif√≠cio.
+_p·ra-raios_, mas atrai, pela ponta do _p·ra-raios_, a electricidade do
+edifÌcio, electricidade que se eleva ao ar neutralizando a que desce. O
+raio, portanto, n„o cai, devido ‡ electricidade conduzida pelo
+_p·ra-raios_; e, se a carga elÈctrica da nuvem È excessiva, o
+_p·ra-raios_ conduz para o solo o raio produzido, porque se encontra
+mais perto da nuvem, resguardando assim o edifÌcio.
 
-17.--Para sabermos a que dist√¢ncia est√° de n√≥s a trovoada, basta
-multiplicar 340, que √© o n√∫mero de metros que o som percorre por
-segundo, pelo n√∫mero de segundos que decorrem desde o aparecimento do
-rel√¢mpago at√© se ouvir o trov√£o. A velocidade do som √©, como j√°
-dissemos, de 340 metros por segundo, ao passo que a da luz √© de 60:000
-l√©guas. Eis a raz√£o porque vemos primeiro o rel√¢mpago e s√≥ passados
-alguns segundos ouvimos o trov√£o.
+17.--Para sabermos a que dist‚ncia est· de nÛs a trovoada, basta
+multiplicar 340, que È o n˙mero de metros que o som percorre por
+segundo, pelo n˙mero de segundos que decorrem desde o aparecimento do
+rel‚mpago atÈ se ouvir o trov„o. A velocidade do som È, como j·
+dissemos, de 340 metros por segundo, ao passo que a da luz È de 60:000
+lÈguas. Eis a raz„o porque vemos primeiro o rel‚mpago e sÛ passados
+alguns segundos ouvimos o trov„o.
 
-18.--O *vento* √© um deslocamento, mais ou menos r√°pido, do ar.
+18.--O *vento* È um deslocamento, mais ou menos r·pido, do ar.
 
 [Figura: Vento]
 
-19.--Os _ventos_ servem para mover mo√≠nhos, barcos de vela, etc., e o
-instrumento que nos ensina a sua direc√ß√£o chama-se *cata-vento*.
+19.--Os _ventos_ servem para mover moÌnhos, barcos de vela, etc., e o
+instrumento que nos ensina a sua direcÁ„o chama-se *cata-vento*.
 
-20.--O vento toma os nomes de *ciclone*, *tromba*, *furac√£o* ou *tuf√£o*,
-quando aumenta de f√¥r√ßa e destroi casas, √°rvores, etc.
+20.--O vento toma os nomes de *ciclone*, *tromba*, *furac„o* ou *tuf„o*,
+quando aumenta de fÙrÁa e destroi casas, ·rvores, etc.
 
 [Figura: Tromba]
 
-QUESTION√ÅRIO--Que √© meteorologia?--Que √© atmosfera?--Qual a altura
-dela?--Que √© press√£o atmosf√©rica?--Qual o seu p√™so?--Como se
-exerce?--Onde √© o ar mais denso?--Que √© o bar√≥metro?--De que
-consta?--Como funciona?--Quando se condensa o vapor de √°gua na
-atmosfera?--Que s√£o _nuvens_, _nevoeiro_, _chuva_, _neve_, _saraiva_,
-_orvalho_, etc.?--E _trov√£o_, _rel√¢mpago_, _fa√≠scas_, _raio_?--Porque se
-ouve o _trov√£o_ depois de visto o _rel√¢mpago_?--Que √©
-_p√°ra-raios_?--Como funciona?--Que √© _vento_?--E _cata-vento_?--E
-_ciclone_, _tuf√£o_, etc.?
+QUESTION¡RIO--Que È meteorologia?--Que È atmosfera?--Qual a altura
+dela?--Que È press„o atmosfÈrica?--Qual o seu pÍso?--Como se
+exerce?--Onde È o ar mais denso?--Que È o barÛmetro?--De que
+consta?--Como funciona?--Quando se condensa o vapor de ·gua na
+atmosfera?--Que s„o _nuvens_, _nevoeiro_, _chuva_, _neve_, _saraiva_,
+_orvalho_, etc.?--E _trov„o_, _rel‚mpago_, _faÌscas_, _raio_?--Porque se
+ouve o _trov„o_ depois de visto o _rel‚mpago_?--Que È
+_p·ra-raios_?--Como funciona?--Que È _vento_?--E _cata-vento_?--E
+_ciclone_, _tuf„o_, etc.?
 
 
 
 
 IX
 
-*Aplica√ß√£o da electricidade.--Corpos bons e maus condutores.--A B√∫ssola*
+*AplicaÁ„o da electricidade.--Corpos bons e maus condutores.--A B˙ssola*
 
 
-1.--As principais aplica√ß√µes da electricidade, que n√£o est√° em toda a
-massa dos corpos, e apenas na superf√≠cie d√™les, mas segundo a forma
-dessa superf√≠cie, s√£o: o *electro-iman*, instrumento que atrai v√°rios
-corpos, como o ferro, o cobalto, o a√ßo, etc.; o *tel√©grafo*, que
-comunica, por meio duma corrente el√©ctrica, os telegramas; o *telefone*
-que, pelo mesmo processo, comunica o som; as _campainhas el√©ctricas_; os
-_motores el√©ctricos_, etc.
+1.--As principais aplicaÁıes da electricidade, que n„o est· em toda a
+massa dos corpos, e apenas na superfÌcie dÍles, mas segundo a forma
+dessa superfÌcie, s„o: o *electro-iman*, instrumento que atrai v·rios
+corpos, como o ferro, o cobalto, o aÁo, etc.; o *telÈgrafo*, que
+comunica, por meio duma corrente elÈctrica, os telegramas; o *telefone*
+que, pelo mesmo processo, comunica o som; as _campainhas elÈctricas_; os
+_motores elÈctricos_, etc.
 
-*Bateria el√©ctrica* √© uma re√∫ni√£o de garrafas el√©ctricas, chamadas
-_garrafas de Leide_, tendo em comunica√ß√£o todas as armaduras interiores
+*Bateria elÈctrica* È uma re˙ni„o de garrafas elÈctricas, chamadas
+_garrafas de Leide_, tendo em comunicaÁ„o todas as armaduras interiores
 e exteriores.
 
 [Figura: Pilha de volta]
 
-*M√°quinas el√©ctricas* s√£o aparelhos que servem para desenvolver grande
+*M·quinas elÈctricas* s„o aparelhos que servem para desenvolver grande
 quantidade de electricidade.
 
-√â preciso n√£o esquecer que a electricidade n√£o se desenvolve s√≥ por
-fric√ß√£o, mas tamb√™m por contacto e por influ√™ncia, como ainda pelas
-modifica√ß√µes que um corpo sofre. A √°gua, ao evaporar-se, o carv√£o a
-arder, etc., produzem electricidade. √â esta a electricidade utilizada
-nas *pilhas*. O s√°bio _Volta_ f√™z muitas rodelas de zinco, cobre, cart√£o
-molhado em √°gua acidulada, e construiu assim a primeira _pilha_. O
-funcionamento da _pilha_ √© simples. Se ligarmos um fio de cobre ao
-primeiro zinco e outro ao √∫ltimo cobre, veremos, ao aproxim√°-los, uma
-fa√≠sca. Os dois pontos onde se ligam os fios chamam-se _p√≥los_ da pilha.
+… preciso n„o esquecer que a electricidade n„o se desenvolve sÛ por
+fricÁ„o, mas tambÍm por contacto e por influÍncia, como ainda pelas
+modificaÁıes que um corpo sofre. A ·gua, ao evaporar-se, o carv„o a
+arder, etc., produzem electricidade. … esta a electricidade utilizada
+nas *pilhas*. O s·bio _Volta_ fÍz muitas rodelas de zinco, cobre, cart„o
+molhado em ·gua acidulada, e construiu assim a primeira _pilha_. O
+funcionamento da _pilha_ È simples. Se ligarmos um fio de cobre ao
+primeiro zinco e outro ao ˙ltimo cobre, veremos, ao aproxim·-los, uma
+faÌsca. Os dois pontos onde se ligam os fios chamam-se _pÛlos_ da pilha.
 
-Chama-se *circuito* o caminho da corrente el√©ctrica.
+Chama-se *circuito* o caminho da corrente elÈctrica.
 
 [Figura: Pilha Bunsen]
 
-2.--*Corrente el√©ctrica* √© a electricidade escapada dum corpo
+2.--*Corrente elÈctrica* È a electricidade escapada dum corpo
 electrizado.
 
-3.--Assim como h√° corpos _bons e maus condutores_ do calor, assim os h√°
+3.--Assim como h· corpos _bons e maus condutores_ do calor, assim os h·
 da electricidade.
 
-Aos corpos maus condutores da electricidade tamb√™m chamaremos
+Aos corpos maus condutores da electricidade tambÍm chamaremos
 _isoladores_.
 
-4.--S√£o *bons condutores* da electricidade: os metais, a √°gua do mar, da
+4.--S„o *bons condutores* da electricidade: os metais, a ·gua do mar, da
 chuva e das fontes, os corpos dos animais, etc.
 
-5.--S√£o *maus condutores* o vidro, a l√£, a *s√™da*, o ar s√™co, etc.
+5.--S„o *maus condutores* o vidro, a l„, a *sÍda*, o ar sÍco, etc.
 
-6.--A *B√∫ssola* √© tamb√™m uma bela aplica√ß√£o da electricidade. √â
+6.--A *B˙ssola* È tambÍm uma bela aplicaÁ„o da electricidade. …
 constituida por uma chapa de metal, com o feitio dum losango, chapa que
-tem o nome de _agulha magn√©tica_ e s√¥bre a qual ela gira suspensa por
+tem o nome de _agulha magnÈtica_ e sÙbre a qual ela gira suspensa por
 uma ponta aguda.
 
-A _agulha magn√©tica_ est√° encerrada numa caixinha de metal envidra√ßada,
+A _agulha magnÈtica_ est· encerrada numa caixinha de metal envidraÁada,
 que tem ao fundo a _rosa dos ventos_.
 
-7.--A _b√∫ssola_ aponta o caminho aos navegantes, porque, sendo a Terra
-um enorme iman, ou _magnete_, e tendo 2 _p√≥los magn√©ticos_, perto de 2
-_p√≥los geogr√°ficos_, as pontas da _agulha magn√©tica_ dirigem-se para os
-pontos _magn√©ticos_ da Terra. Assim, a _parte austral_ da _b√∫ssola_
+7.--A _b˙ssola_ aponta o caminho aos navegantes, porque, sendo a Terra
+um enorme iman, ou _magnete_, e tendo 2 _pÛlos magnÈticos_, perto de 2
+_pÛlos geogr·ficos_, as pontas da _agulha magnÈtica_ dirigem-se para os
+pontos _magnÈticos_ da Terra. Assim, a _parte austral_ da _b˙ssola_
 indica sempre o norte e a _boreal_ sempre o sul.
 
-8.--Tamb√™m √© interessante aplica√ß√£o da electricidade a *campainha
-el√©ctrica*, que consta dum _electro-iman_, dum martelo e duma campainha.
+8.--TambÍm È interessante aplicaÁ„o da electricidade a *campainha
+elÈctrica*, que consta dum _electro-iman_, dum martelo e duma campainha.
 
-[Figura: Campainha el√©ctrica]
+[Figura: Campainha elÈctrica]
 
-O *electro-iman* √© a parte do _circuito_ duma pilha cuja corrente se f√™z
-carregando num bot√£o pregado na parede.
+O *electro-iman* È a parte do _circuito_ duma pilha cuja corrente se fÍz
+carregando num bot„o pregado na parede.
 
-A corrente entra, passa ao bot√£o, percorre todo o fio do electro-iman e
-sai para a pilha. Mas como a pe√ßa a que est√° pr√™so o martelo √© de ferro
-macio e pode fugir ao contacto com a l√°mina, o _electro-iman_ atrai a
-pe√ßa e volta o martelo √† primeira posi√ß√£o levado por uma mola el√°stica.
-O martelo bate na campainha todas as vezes que √© atra√≠do.
+A corrente entra, passa ao bot„o, percorre todo o fio do electro-iman e
+sai para a pilha. Mas como a peÁa a que est· prÍso o martelo È de ferro
+macio e pode fugir ao contacto com a l·mina, o _electro-iman_ atrai a
+peÁa e volta o martelo ‡ primeira posiÁ„o levado por uma mola el·stica.
+O martelo bate na campainha todas as vezes que È atraÌdo.
 
-9.--O *tel√©grafo* consta duma corrente el√©ctrica, cujo _circuito_ vai da
-esta√ß√£o de partida √† de chegada. A corrente sai da pilha, vai pelo fio,
-chega √† esta√ß√£o, passa para a terra, √≥ptima condutora, e pela Terra
-volta √° pilha, donde partiu. Ao passar pela esta√ß√£o de chegada, percorre
+9.--O *telÈgrafo* consta duma corrente elÈctrica, cujo _circuito_ vai da
+estaÁ„o de partida ‡ de chegada. A corrente sai da pilha, vai pelo fio,
+chega ‡ estaÁ„o, passa para a terra, Ûptima condutora, e pela Terra
+volta · pilha, donde partiu. Ao passar pela estaÁ„o de chegada, percorre
 o fio do _electro-iman_ dum aparelho chamado *receptor*, que recebe o
-*telegrama*. O _receptor_ consta do _electro-iman_ e duma barra m√≥vel em
-t√¥rno dum eixo central, que tem na extremidade uma pe√ßa de ferro macio,
+*telegrama*. O _receptor_ consta do _electro-iman_ e duma barra mÛvel em
+tÙrno dum eixo central, que tem na extremidade uma peÁa de ferro macio,
 um ponteiro e uma roda em que se enrola uma fita constantemente impelida
 por um maquinismo de relojoaria.
 
-[Figura: Tel√©grafo]
+[Figura: TelÈgrafo]
 
-A corrente, instant√°nea ou entrecortada, ao passar, faz que o
+A corrente, instant·nea ou entrecortada, ao passar, faz que o
 _electro-iman_ atraia uma extremidade da barra e se levante a outra,
-comprimindo ent√£o o ponteiro a fita de encontro √† pe√ßa de ferro macio e
+comprimindo ent„o o ponteiro a fita de encontro ‡ peÁa de ferro macio e
 gravando-lhe um sinal.
 
-A combina√ß√£o dos sinais √© que d√° as letras e os algarismos.
+A combinaÁ„o dos sinais È que d· as letras e os algarismos.
 
-10.--√â ainda curioso o *telefone*, que nos permite, por electricidade,
+10.--… ainda curioso o *telefone*, que nos permite, por electricidade,
 falar a pessoas muito distantes.
 
 [Figura: Telefone]
 
-11.--Tamb√™m √© digna de men√ß√£o a _luz el√©ctrica_, etc.
+11.--TambÍm È digna de menÁ„o a _luz elÈctrica_, etc.
 
-QUESTION√ÅRIO.--Quais s√£o as principais aplica√ß√µes da electricidade e
-como se manifesta ela nos corpos?--Que √© _bateria el√©ctrica_?--E
-_garrafa de Leide_?--E m√°quinas el√©ctricas?--De que modo se desenvolve
-ainda a electricidade?--Que √© uma _pilha_?--Como funciona?--Que √© uma
-corrente el√©ctrica?--Quais s√£o os corpos bons e maus condutores da
-electricidade?--Que √© a _b√∫ssola_?--_E a campainha el√©ctrica_?--E o
-_tel√©grafo_?--E o _telefone_?--Como funcionam √™stes aparelhos?
+QUESTION¡RIO.--Quais s„o as principais aplicaÁıes da electricidade e
+como se manifesta ela nos corpos?--Que È _bateria elÈctrica_?--E
+_garrafa de Leide_?--E m·quinas elÈctricas?--De que modo se desenvolve
+ainda a electricidade?--Que È uma _pilha_?--Como funciona?--Que È uma
+corrente elÈctrica?--Quais s„o os corpos bons e maus condutores da
+electricidade?--Que È a _b˙ssola_?--_E a campainha elÈctrica_?--E o
+_telÈgrafo_?--E o _telefone_?--Como funcionam Ístes aparelhos?
 
 
 
 
 X
 
-*O som.--Qualidade d√™le.--Eco.--Instrumentos de m√∫sica*
+*O som.--Qualidade dÍle.--Eco.--Instrumentos de m˙sica*
 
 
-1.--O _Som_ distingue-se por tr√™s qualidades: *altura*, *intensidade* e
+1.--O _Som_ distingue-se por trÍs qualidades: *altura*, *intensidade* e
 *timbre*.
 
 2.--Pela _altura_ distinguem-se os sons baixos e altos, sendo tanto mais
-alto quanto maior f√¥r o n√∫mero das vibra√ß√µes.
+alto quanto maior fÙr o n˙mero das vibraÁıes.
 
-3.--Pela _intensidade_ percebem-se os sons a maior ou menor dist√¢ncia.
+3.--Pela _intensidade_ percebem-se os sons a maior ou menor dist‚ncia.
 
 4.--Pelo _timbre_ distinguem-se os sons da mesma altura e intensidade,
 embora venham de instrumentos diferentes.
 
-5.--O *eco* d√°-se, quando as ondas sonoras, encontrando qualquer
-obst√°culo--um bosque, uma rocha, um monte--voltam para a origem do som.
+5.--O *eco* d·-se, quando as ondas sonoras, encontrando qualquer
+obst·culo--um bosque, uma rocha, um monte--voltam para a origem do som.
 
-6.--H√° diferentes instrumentos de m√∫sica, segundo a variedade de sons
-devida ao movimento vibrat√≥rio. Chamam-se de _corda_, de _s√¥pro_, de
-_palheta_ ou de _percuss√£o_, segundo o que n√™les vibra s√£o, ou as
+6.--H· diferentes instrumentos de m˙sica, segundo a variedade de sons
+devida ao movimento vibratÛrio. Chamam-se de _corda_, de _sÙpro_, de
+_palheta_ ou de _percuss„o_, segundo o que nÍles vibra s„o, ou as
 cordas, ou as peles, ou os metais, etc.
 
-QUESTION√ÅRIO.--Quantas s√£o as qualidades do som?--Que quer dizer a
-altura?--E intensidade?--E o timbre?--Que √© eco?--Em que se baseia a
-diversidade dos instrumentos de m√∫sica?
+QUESTION¡RIO.--Quantas s„o as qualidades do som?--Que quer dizer a
+altura?--E intensidade?--E o timbre?--Que È eco?--Em que se baseia a
+diversidade dos instrumentos de m˙sica?
 
 
 
@@ -921,343 +921,343 @@ XI
 *A luz.--Corpos luminosos, transparentes e opacos.--Arco-iris*
 
 
-1.--A *Luz* √©, como dissemos, a f√¥r√ßa que nos permite ver e que ilumina
+1.--A *Luz* È, como dissemos, a fÙrÁa que nos permite ver e que ilumina
 os corpos.
 
-2.--H√° corpos *luminosos* e corpos *iluminados*.
+2.--H· corpos *luminosos* e corpos *iluminados*.
 
-3.--Os _luminosos_ s√£o os que emitem luz e os _iluminados_ s√£o os que
+3.--Os _luminosos_ s„o os que emitem luz e os _iluminados_ s„o os que
 recebem doutros a luz.
 
-4.--H√° ainda corpos *transparentes* e corpos *opacos*.
+4.--H· ainda corpos *transparentes* e corpos *opacos*.
 
-5.--Os _transparentes_ s√£o os que se deixam atravessar pela luz e os
-_opacos_ os que se n√£o deixam atravessar por ela.
+5.--Os _transparentes_ s„o os que se deixam atravessar pela luz e os
+_opacos_ os que se n„o deixam atravessar por ela.
 
-6.--H√° ainda os *transl√∫cidos* que, deixando-se atravessar pela luz, n√£o
-deixam distinguir atrav√©s d√™les os objectos.
+6.--H· ainda os *transl˙cidos* que, deixando-se atravessar pela luz, n„o
+deixam distinguir atravÈs dÍles os objectos.
 
 A luz pode ser _directa_ ou _difusa_, segundo ela nos vem directamente
-do sol ou reflectida por outros corpos iluminados. √Å mudan√ßa de direc√ß√£o
+do sol ou reflectida por outros corpos iluminados. ¡ mudanÁa de direcÁ„o
 que os raios luminosos sofrem, quando atravessam os corpos
-transparentes, chama-se *refrac√ß√£o da luz*.
+transparentes, chama-se *refracÁ„o da luz*.
 
-7.--O *arco-√≠ris* √© um fen√≥meno luminoso, produzido pela luz do sol
-s√¥bre uma nuvem que vai dar chuva.
+7.--O *arco-Ìris* È um fenÛmeno luminoso, produzido pela luz do sol
+sÙbre uma nuvem que vai dar chuva.
 
-[Figura: Arco-√≠ris]
+[Figura: Arco-Ìris]
 
-8.--A raz√£o das c√¥res do _arco-√≠ris_ √© que a luz solar, atravessando as
-gotas de √°gua, decomp√µe-se nas sete c√¥res que formam essa luz.
+8.--A raz„o das cÙres do _arco-Ìris_ È que a luz solar, atravessando as
+gotas de ·gua, decompıe-se nas sete cÙres que formam essa luz.
 
-9.--Essas c√¥res s√£o: _vermelho_, _alaranjado_, _amarelo_, _verde_,
+9.--Essas cÙres s„o: _vermelho_, _alaranjado_, _amarelo_, _verde_,
 _azul_, _anilado_ e _violeta_.
 
-QUESTION√ÅRIO.--Que √© luz?--Que s√£o corpos _luminosos_ e
-_iluminados_?--Que s√£o corpos _transparentes_ e _opacos_?--E
-_transl√∫cidos_?--Que √© o _arco-√≠ris_?--Que ocasiona as c√¥res do
-_arco-√≠ris_?--Quantas e quais s√£o?--Que √© refrac√ß√£o?
+QUESTION¡RIO.--Que È luz?--Que s„o corpos _luminosos_ e
+_iluminados_?--Que s„o corpos _transparentes_ e _opacos_?--E
+_transl˙cidos_?--Que È o _arco-Ìris_?--Que ocasiona as cÙres do
+_arco-Ìris_?--Quantas e quais s„o?--Que È refracÁ„o?
 
 
 
 
 XII
 
-*O corpo humano.--Sua divis√£o em cabe√ßa, tronco e membros.--Nomes e
-situa√ß√£o dos ossos compridos*.
+*O corpo humano.--Sua divis„o em cabeÁa, tronco e membros.--Nomes e
+situaÁ„o dos ossos compridos*.
 
 
-1.--O corpo humano √©, principalmente, constituido pelo *esqueleto*,
-arma√ß√£o de ossos que sustenta a carne, os nervos, a pele, etc.
+1.--O corpo humano È, principalmente, constituido pelo *esqueleto*,
+armaÁ„o de ossos que sustenta a carne, os nervos, a pele, etc.
 
 [Figura: Esqueleto]
 
-2.--Divide-se em tr√™s partes: *cabe√ßa*, *tronco* e *membros*.
+2.--Divide-se em trÍs partes: *cabeÁa*, *tronco* e *membros*.
 
-3.--A _cabe√ßa_ consta de duas partes: _cr√°nio_ e _face_, estando dentro
-do _cr√°nio_ o _c√©rebro_ e sendo formada a _face_ pelos ossos que v√£o do
-queixo ao v√©rtice do nariz.
+3.--A _cabeÁa_ consta de duas partes: _cr·nio_ e _face_, estando dentro
+do _cr·nio_ o _cÈrebro_ e sendo formada a _face_ pelos ossos que v„o do
+queixo ao vÈrtice do nariz.
 
-[Figura: Cabe√ßa]
+[Figura: CabeÁa]
 
-4.--A *face* tem na parte superior duas cavidades, as _√≥rbitas_, onde
-est√£o os olhos; no centro, as _fossas nasais_, e na parte inferior a
-_b√¥ca_, que √© amparada pelos ossos _maxilares_, onde est√£o implantados
+4.--A *face* tem na parte superior duas cavidades, as _Ûrbitas_, onde
+est„o os olhos; no centro, as _fossas nasais_, e na parte inferior a
+_bÙca_, que È amparada pelos ossos _maxilares_, onde est„o implantados
 os _dentes_.
 
 [Figura: A face]
 
-5.--Divide-se o tronco em tr√™s partes: a *coluna vertebral*, *costelas*
+5.--Divide-se o tronco em trÍs partes: a *coluna vertebral*, *costelas*
 e *esterno*.
 
 [Figura: O tronco]
 
-6.--A _coluna vertebral_, que √© constituida por _v√©rtebras_, sustenta a
-cabe√ßa. As _v√©rtebras_ dividem-se em _cervicais_, que s√£o 7, _dorsais_,
-que s√£o 12, e _lombares_, que s√£o 5. A seguir √†s v√©rtebras lombares
-temos ainda o osso chamado _sacro_, constituido pela uni√£o de v√©rtebras
-e finalmente o _c√≥ccix_. Do meio dela, do grupo das _v√©rtebras dorsais_,
+6.--A _coluna vertebral_, que È constituida por _vÈrtebras_, sustenta a
+cabeÁa. As _vÈrtebras_ dividem-se em _cervicais_, que s„o 7, _dorsais_,
+que s„o 12, e _lombares_, que s„o 5. A seguir ‡s vÈrtebras lombares
+temos ainda o osso chamado _sacro_, constituido pela uni„o de vÈrtebras
+e finalmente o _cÛccix_. Do meio dela, do grupo das _vÈrtebras dorsais_,
 partem as *costelas*, ossos arqueados que se juntam na frente ao
-*esterno*, que √© um osso chato. As costelas e o esterno encerram o
-cora√ß√£o e os pulm√µes numa esp√©cie de caixa.
+*esterno*, que È um osso chato. As costelas e o esterno encerram o
+coraÁ„o e os pulmıes numa espÈcie de caixa.
 
 8.--Ao tronco ligam-se os *membros*, os quais se dividem em _superiores_
 e _inferiores_.
 
 [Figura: Membro superior]
 
-Os *superiores* dividem-se em *esp√°dua*, *bra√ßo*, *ante-bra√ßo* e *m√£o*,
-constando a _esp√°dua_ de dois ossos: o _omoplata_, que √© chato e que se
-liga ao _h√∫mero_, √∫nico osso do bra√ßo, e a _clav√≠cula_ adeante. O
-_bra√ßo_ √© formado pelo _h√∫mero_ e o _ante-bra√ßo_, ligado ao _bra√ßo_ pelo
-cotovelo, consta de 2 ossos: o _r√°dio_ e o _c√∫bito_.
+Os *superiores* dividem-se em *esp·dua*, *braÁo*, *ante-braÁo* e *m„o*,
+constando a _esp·dua_ de dois ossos: o _omoplata_, que È chato e que se
+liga ao _h˙mero_, ˙nico osso do braÁo, e a _clavÌcula_ adeante. O
+_braÁo_ È formado pelo _h˙mero_ e o _ante-braÁo_, ligado ao _braÁo_ pelo
+cotovelo, consta de 2 ossos: o _r·dio_ e o _c˙bito_.
 
-H√° no punho duas s√©ries de ossos, formando o _carpo_; e na m√£o 5,
-formando o _metacarpo_ e os _dedos_, que teem todos, √† excep√ß√£o do
-polegar, que n√£o tem _falangetas_, as seguintes 3 divis√µes: *falanges*,
-*falanginhas* e *falangetas*. Consta, pois, a m√£o de 3 partes: _carpo_,
+H· no punho duas sÈries de ossos, formando o _carpo_; e na m„o 5,
+formando o _metacarpo_ e os _dedos_, que teem todos, ‡ excepÁ„o do
+polegar, que n„o tem _falangetas_, as seguintes 3 divisıes: *falanges*,
+*falanginhas* e *falangetas*. Consta, pois, a m„o de 3 partes: _carpo_,
 _metacarpo_ e _dedos_.
 
 8.--Os _membros inferiores_ constam do _quadril_ ou _bacia_, constituida
-pelos _ossos il√≠acos_, _sacro_ e _c√≥ccix_; da _coxa_, constituida pelo
-_f√©mur_; da _perna_, constituida pela _t√≠bia_ e pelo _per√≥neo_, e do p√©,
+pelos _ossos ilÌacos_, _sacro_ e _cÛccix_; da _coxa_, constituida pelo
+_fÈmur_; da _perna_, constituida pela _tÌbia_ e pelo _perÛneo_, e do pÈ,
 dividido em _tarso_, _metatarso_ e _dedos_.
 
 [Figura: Membro inferior]
 
-A _r√≥tula_ √© um pequeno osso que pertence √† articula√ß√£o do _joelho_.
+A _rÛtula_ È um pequeno osso que pertence ‡ articulaÁ„o do _joelho_.
 
-9.--Os _ligamentos_ unem entre si os ossos. S√£o cord√µes fibrosos. As
-_articula√ß√µes_ s√£o os lugares do corpo em que os ossos teem movimento
-uns s√¥bre os outros.
+9.--Os _ligamentos_ unem entre si os ossos. S„o cordıes fibrosos. As
+_articulaÁıes_ s„o os lugares do corpo em que os ossos teem movimento
+uns sÙbre os outros.
 
-[Figura: Ossos da bacia. a. il√≠acos.--b. sacro.--c. c√≥ccix]
+[Figura: Ossos da bacia. a. ilÌacos.--b. sacro.--c. cÛccix]
 
-Os √≥rg√£os que fazem mover os ossos chamam-se _m√∫sculos_. Os _m√∫sculos_
-podem ser _volunt√°rios_ ou _involunt√°rios_, conforme n√≥s os podemos
-contrair √† vontade ou n√£o.
+Os Ûrg„os que fazem mover os ossos chamam-se _m˙sculos_. Os _m˙sculos_
+podem ser _volunt·rios_ ou _involunt·rios_, conforme nÛs os podemos
+contrair ‡ vontade ou n„o.
 
-[Figura: M√∫sculos]
+[Figura: M˙sculos]
 
-QUESTION√ÅRIO.--Que √© _esqueleto_?--Em quantas partes se divide?--Que √©
-_coluna vertebral_?--De quantas _v√©rtebras_ consta?--Onde se alojam o
-cora√ß√£o e os pulm√µes?--Como se dividem e subdividem os membros?--De que
-s√£o formadas as suas divis√µes e subdivis√µes?--Que s√£o _ligamentos_ e
-_articula√ß√µes_?--E _m√∫sculos_?
+QUESTION¡RIO.--Que È _esqueleto_?--Em quantas partes se divide?--Que È
+_coluna vertebral_?--De quantas _vÈrtebras_ consta?--Onde se alojam o
+coraÁ„o e os pulmıes?--Como se dividem e subdividem os membros?--De que
+s„o formadas as suas divisıes e subdivisıes?--Que s„o _ligamentos_ e
+_articulaÁıes_?--E _m˙sculos_?
 
 
 
 
 XIII
 
-*Os dentes.--Sua import√¢ncia na vida humana.--Cuidados que deve merecer
-a sua conserva√ß√£o*.
+*Os dentes.--Sua import‚ncia na vida humana.--Cuidados que deve merecer
+a sua conservaÁ„o*.
 
 
-1.--Os *dentes* s√£o os √≥rg√£os com que mastigamos os alimentos.
+1.--Os *dentes* s„o os Ûrg„os com que mastigamos os alimentos.
 
-2.--H√° 3 esp√©cies de dentes: _incisivos_, _caninos_ e _molares_.
+2.--H· 3 espÈcies de dentes: _incisivos_, _caninos_ e _molares_.
 
 [Figura: Dentes]
 
-3.--Os *incisivos* s√£o 4 em cada maxila e est√£o √† frente. S√£o os que
+3.--Os *incisivos* s„o 4 em cada maxila e est„o ‡ frente. S„o os que
 cortam o alimentos.
 
-4.--Os *caninos* s√£o 2 em cada maxila e est√£o dum e doutro lado dos
-_incisivos_. S√£o os que despeda√ßam os alimentos.
+4.--Os *caninos* s„o 2 em cada maxila e est„o dum e doutro lado dos
+_incisivos_. S„o os que despedaÁam os alimentos.
 
-5.--Os *molares* s√£o 10 em cada maxila nos adultos (e 4 nas crian√ßas,
-antes dos 7 anos). S√£o os que moem os alimentos.
+5.--Os *molares* s„o 10 em cada maxila nos adultos (e 4 nas crianÁas,
+antes dos 7 anos). S„o os que moem os alimentos.
 
 [Figura: Dente]
 
-6.--√â preciso conservar os dentes sempre muito limpos, lavando-os depois
-de cada refei√ß√£o, palitando-os com vagar e cuidado, poupando-lhes
-esfor√ßos nocivos que possam roubar-lhes o _esmalte_.
+6.--… preciso conservar os dentes sempre muito limpos, lavando-os depois
+de cada refeiÁ„o, palitando-os com vagar e cuidado, poupando-lhes
+esforÁos nocivos que possam roubar-lhes o _esmalte_.
 
-QUESTION√ÅRIO.--Que s√£o dentes?--Quantas esp√©cies h√° de dentes?--Quais os
-cuidados que √™les nos merecem?
+QUESTION¡RIO.--Que s„o dentes?--Quantas espÈcies h· de dentes?--Quais os
+cuidados que Íles nos merecem?
 
 
 
 
 XIV
 
-*Descri√ß√£o sum√°ria.--O aparelho digestivo.--Alimentos azotados e n√£o
+*DescriÁ„o sum·ria.--O aparelho digestivo.--Alimentos azotados e n„o
 azotados*.
 
 
-1.--A *digest√£o* √© a s√©rie de transforma√ß√µes por que os alimentos passam
-at√© se converterem em sangue.
+1.--A *digest„o* È a sÈrie de transformaÁıes por que os alimentos passam
+atÈ se converterem em sangue.
 
-2.--O _aparelho digestivo_ √© um canal com dois orif√≠cios: a _b√¥ca_ e o
-_√°nus_.
+2.--O _aparelho digestivo_ È um canal com dois orifÌcios: a _bÙca_ e o
+_·nus_.
 
-3.--A _b√¥ca_ √© humedecida pela _saliva_, que vem de tr√™s pares de
-_gl√¢ndulas_, chamadas _salivares_.
+3.--A _bÙca_ È humedecida pela _saliva_, que vem de trÍs pares de
+_gl‚ndulas_, chamadas _salivares_.
 
-Na parte inferior da b√¥ca temos a _l√≠ngua_; a parte superior chama-se
-_ab√≥bada palatina_, ou _c√©u da b√¥ca_.
+Na parte inferior da bÙca temos a _lÌngua_; a parte superior chama-se
+_abÛbada palatina_, ou _cÈu da bÙca_.
 
-A b√¥ca continua-se para tr√°s e para baixo por meio dum tubo que vai ter
-ao est√¥mago.
+A bÙca continua-se para tr·s e para baixo por meio dum tubo que vai ter
+ao estÙmago.
 
-Na parte m√©dia est√° pendente duma pequena membrana, chamada _v√©u
-palatino_, uma esp√©cie de ling√πeta, chamada _√∫vula_; de cada lado da
-√∫vula h√° dois prolongamentos.
+Na parte mÈdia est· pendente duma pequena membrana, chamada _vÈu
+palatino_, uma espÈcie de ling˘eta, chamada _˙vula_; de cada lado da
+˙vula h· dois prolongamentos.
 
-√ästes prolongamentos teem a forma de v√©us, chamados _pilares anteriores_
-e _posteriores_, e entre √™les est√£o alojadas as _am√≠gdalas_, gl√¢ndulas
-da grossura de uma am√™ndoa.
+ stes prolongamentos teem a forma de vÈus, chamados _pilares anteriores_
+e _posteriores_, e entre Íles est„o alojadas as _amÌgdalas_, gl‚ndulas
+da grossura de uma amÍndoa.
 
-4.--√Å _faringe_ segue-se o _es√≥fago_, tubo que termina no _est√¥mago_,
-que √© um saco membranoso com gl√¢ndulas que auxiliam a digest√£o,
+4.--¡ _faringe_ segue-se o _esÛfago_, tubo que termina no _estÙmago_,
+que È um saco membranoso com gl‚ndulas que auxiliam a digest„o,
 seguindo-se-lhe um tubo, muito longo, chamado _intestino delgado_, que
-comunica com outro tubo, chamado _intestino grosso_ e que √© terminado
-pelo _√°nus_.
+comunica com outro tubo, chamado _intestino grosso_ e que È terminado
+pelo _·nus_.
 
 Vulgarmente, chama-se aos intestinos _tripas_.
 
-5.--Os alimentos v√£o da _b√¥ca_, depois de mastigados, e feitos _b√¥lo
-aliment√≠cio_ pela saliva, ao longo da _faringe_, √† qual se segue o
-_es√≥fago_, e da√≠ at√© ao _est√¥mago_, cujas gl√¢ndulas os transformam num
+5.--Os alimentos v„o da _bÙca_, depois de mastigados, e feitos _bÙlo
+alimentÌcio_ pela saliva, ao longo da _faringe_, ‡ qual se segue o
+_esÛfago_, e daÌ atÈ ao _estÙmago_, cujas gl‚ndulas os transformam num
 corpo cinzento, chamado _quimo_.
 
-Da√≠ passam ao _intestino delgado_, onde se transformam em _quilo_,
-l√≠quido c√¥r de leite, sob a ac√ß√£o da _b√≠lis_ que √© segregada pelo
-_f√≠gado_. O _quilo_ √© absorvido pelas subst√¢ncias que repelem, pelo
-_√°nus_, as mat√©rias nocivas e transmitem o restante aos vasos onde corre
+DaÌ passam ao _intestino delgado_, onde se transformam em _quilo_,
+lÌquido cÙr de leite, sob a acÁ„o da _bÌlis_ que È segregada pelo
+_fÌgado_. O _quilo_ È absorvido pelas subst‚ncias que repelem, pelo
+_·nus_, as matÈrias nocivas e transmitem o restante aos vasos onde corre
 o _sangue_.
 
-6.--Os alimentos podem ser _azotados_ e n√£o _azotados_, ou _pl√°sticos_ e
-_respirat√≥rios_, tamb√™m chamados _combust√≠veis_. Nos primeiros predomina
-o _azote_; nos segundos, _hidrog√©nio_, _oxig√©nio_ e _carb√≥nio_.
+6.--Os alimentos podem ser _azotados_ e n„o _azotados_, ou _pl·sticos_ e
+_respiratÛrios_, tambÍm chamados _combustÌveis_. Nos primeiros predomina
+o _azote_; nos segundos, _hidrogÈnio_, _oxigÈnio_ e _carbÛnio_.
 
-QUESTION√ÅRIO.--Que √© digest√£o?--De que consta o aparelho digestivo?--Que
-cont√™m a b√¥ca?--Que se segue √† faringe?--E ao es√≥fago?--E ao
-est√¥mago?--Que s√£o intestinos?--Que √© que os intestinos
-absorvem?--Quantas esp√©cies h√° de alimentos?
+QUESTION¡RIO.--Que È digest„o?--De que consta o aparelho digestivo?--Que
+contÍm a bÙca?--Que se segue ‡ faringe?--E ao esÛfago?--E ao
+estÙmago?--Que s„o intestinos?--Que È que os intestinos
+absorvem?--Quantas espÈcies h· de alimentos?
 
 
 
 
 XV
 
-*Condi√ß√µes a que deve satisfazer a b√¥a alimentac√£o, conforme o sexo,
-esta√ß√£o, cilma e modo de vida habitual.--Escolha das √°guas
-pot√°veis.--Preju√≠zos das √°guas impuras.--Meio de as conhecer e
-purificar.--Conseq√π√™ncias funestas do abuso de bebidas alco√≥licas*.
+*CondiÁıes a que deve satisfazer a bÙa alimentac„o, conforme o sexo,
+estaÁ„o, cilma e modo de vida habitual.--Escolha das ·guas
+pot·veis.--PrejuÌzos das ·guas impuras.--Meio de as conhecer e
+purificar.--Conseq˘Íncias funestas do abuso de bebidas alcoÛlicas*.
 
 
-1.--A b√¥a alimenta√ß√£o deve ser variada, misturando-se os alimentos
-*azotados* com os *n√£o azotados*, por ex.: a carne, os ovos, o leite,
-com a farinha, o a√ß√∫car, as gorduras, os vegetais.
+1.--A bÙa alimentaÁ„o deve ser variada, misturando-se os alimentos
+*azotados* com os *n„o azotados*, por ex.: a carne, os ovos, o leite,
+com a farinha, o aÁ˙car, as gorduras, os vegetais.
 
-2.--Os ovos e o leite, todavia, s√£o chamados *alimentos completos*,
-porque teem subst√¢ncias pl√°sticas e respirat√≥rias ou _azotadas_ e _n√£o
+2.--Os ovos e o leite, todavia, s„o chamados *alimentos completos*,
+porque teem subst‚ncias pl·sticas e respiratÛrias ou _azotadas_ e _n„o
 azotadas_.
 
 [Figura: Ovos]
 
-3.--Os alimentos variam segundo o sexo. O homem precisa de alimenta√ß√£o
-mais s√≥lida do que a mulher. Variam segundo a idade. As crian√ßas
-precisam das refei√ß√µes mais abundantes e freq√πentes, porque o
-crescimento lhes exige repara√ß√µes cont√≠nuas. Os alimentos variam com os
-climas. Em climas frios, devemos escolher de prefer√™ncia as carnes e nos
+3.--Os alimentos variam segundo o sexo. O homem precisa de alimentaÁ„o
+mais sÛlida do que a mulher. Variam segundo a idade. As crianÁas
+precisam das refeiÁıes mais abundantes e freq˘entes, porque o
+crescimento lhes exige reparaÁıes contÌnuas. Os alimentos variam com os
+climas. Em climas frios, devemos escolher de preferÍncia as carnes e nos
 climas quentes os vegetais.
 
 Finalmente, os alimentos variam com o modo de vida habitual. Na vida da
-cidade devemos usar da alimenta√ß√£o carn√≠vora, se f√¥r muito sedent√°ria,
+cidade devemos usar da alimentaÁ„o carnÌvora, se fÙr muito sedent·ria,
 na do campo, devemos fazer predominar a vegetariana.
 
 [Figura: Leite]
 
-4.--S√£o regras gerais da alimenta√ß√£o: as horas curtas das refei√ß√µes; a
-mastiga√ß√£o lenta e beber pouco durante a comida; n√£o trabalhar logo
-depois de comer, evitar iguarias exquisitas e nocivas; n√£o comer de
-forma a encher de mais o est√¥mago.
+4.--S„o regras gerais da alimentaÁ„o: as horas curtas das refeiÁıes; a
+mastigaÁ„o lenta e beber pouco durante a comida; n„o trabalhar logo
+depois de comer, evitar iguarias exquisitas e nocivas; n„o comer de
+forma a encher de mais o estÙmago.
 
-5.--As bebidas auxiliam a digest√£o. A melhor bebida √© a √°gua, que,
-contudo, deve ser bem *pot√°vel*, isto √©, fresca l√≠mpida, sem cheiro, sem
+5.--As bebidas auxiliam a digest„o. A melhor bebida È a ·gua, que,
+contudo, deve ser bem *pot·vel*, isto È, fresca lÌmpida, sem cheiro, sem
 sabor doce ou amargo, cozendo bem os _legumes_ e dissolvendo bem o
-_sab√£o_.
+_sab„o_.
 
-Se assim n√£o f√¥r, √© *impot√°vel*. H√° √°guas que n√£o devemos beber, sem
-serem purificadas, porque podem ser g√©rmens de doen√ßas graves, como o
-_tifo_, a _c√≥lera_, etc.
+Se assim n„o fÙr, È *impot·vel*. H· ·guas que n„o devemos beber, sem
+serem purificadas, porque podem ser gÈrmens de doenÁas graves, como o
+_tifo_, a _cÛlera_, etc.
 
-6.--A √°gua pode purificar-se, fervendo-a, destilando-a ou filtrando-a.
+6.--A ·gua pode purificar-se, fervendo-a, destilando-a ou filtrando-a.
 
-7.--Outras bebidas h√°, √∫teis quando se tomam moderadamente, como: o
-vinho, o caf√©, o ch√°, etc.
+7.--Outras bebidas h·, ˙teis quando se tomam moderadamente, como: o
+vinho, o cafÈ, o ch·, etc.
 
 [Figura: Filtro Pasteur]
 
 8.--O abuso do vinho traz o *alcoolismo*, assim chamado porque o vinho
-encerra _alcool_, que qu√°si sempre √© um veneno para a sa√∫de. O alco√≥lico
-√© um doente, sujeito aos males mais terr√≠veis. Dos alco√≥licos √© que veem
-muitos doidos, os criminosos, os raqu√≠ticos, os tuberculosos, os maiores
+encerra _alcool_, que qu·si sempre È um veneno para a sa˙de. O alcoÛlico
+È um doente, sujeito aos males mais terrÌveis. Dos alcoÛlicos È que veem
+muitos doidos, os criminosos, os raquÌticos, os tuberculosos, os maiores
 infelizes.
 
-9.--Se o abuso do vinho √© prejudicial, o uso de outras bebidas
-alco√≥licas, tais como a aguardente, genebra, conhaque, etc., √© deveras
-prejudicial√≠ssimo e de conseq√π√™ncias desastrosas.
+9.--Se o abuso do vinho È prejudicial, o uso de outras bebidas
+alcoÛlicas, tais como a aguardente, genebra, conhaque, etc., È deveras
+prejudicialÌssimo e de conseq˘Íncias desastrosas.
 
-QUESTION√ÅRIO.--Como deve ser a alimenta√ß√£o?--Que s√£o ovos e o
-leite?--Como varia a alimenta√ß√£o segundo o sexo, a idade, o clima, a
-esta√ß√£o, o modo de vida?--Quais as regras gerais da alimenta√ß√£o?--Que
-s√£o √°guas pot√°veis?--Quais as conseq√π√™ncias do alcoolismo?
+QUESTION¡RIO.--Como deve ser a alimentaÁ„o?--Que s„o ovos e o
+leite?--Como varia a alimentaÁ„o segundo o sexo, a idade, o clima, a
+estaÁ„o, o modo de vida?--Quais as regras gerais da alimentaÁ„o?--Que
+s„o ·guas pot·veis?--Quais as conseq˘Íncias do alcoolismo?
 
 
 
 
 XVI
 
-*Import√¢ncia do ar atmosf√©rico.--Sua composi√ß√£o.--Em que condi√ß√µes √©
-sa√πd√°vel.--Conseq√π√™ncias fatais para a sa√∫de que podem resultar de se
-respirar o ar viciado.--Asfixia.--Vicia√ß√£o do ar*.
+*Import‚ncia do ar atmosfÈrico.--Sua composiÁ„o.--Em que condiÁıes È
+sa˘d·vel.--Conseq˘Íncias fatais para a sa˙de que podem resultar de se
+respirar o ar viciado.--Asfixia.--ViciaÁ„o do ar*.
 
 
-1.--O _ar atmosf√©rico_ √© necess√°rio, primeiro que tudo, porque sem √™le
+1.--O _ar atmosfÈrico_ È necess·rio, primeiro que tudo, porque sem Íle
 ninguem viveria. O _ar_ rodeia a terra.
 
-2.--O _ar_ comp√µe-se, principalmente, de 2 gases: o _oxig√©nio_ e o
-_azote_, alimentando o primeiro as combust√µes que o segundo modera. Al√™m
-d√™stes gases, o ar tem ainda _vapor de √°gua_, que vem da evapora√ß√£o das
-√°guas, e _√°cido carb√≥nico_, que √© formado principalmente pela respira√ß√£o
+2.--O _ar_ compıe-se, principalmente, de 2 gases: o _oxigÈnio_ e o
+_azote_, alimentando o primeiro as combustıes que o segundo modera. AlÍm
+dÍstes gases, o ar tem ainda _vapor de ·gua_, que vem da evaporaÁ„o das
+·guas, e _·cido carbÛnico_, que È formado principalmente pela respiraÁ„o
 dos animais, e das plantas.
 
-3.--Para ser sa√∫d√°vel √© preciso que o ar seja puro, isto √©, muito rico
-de oxig√©nio. Portanto, quando respiramos s√≥ o √°cido carb√≥nico que de n√≥s
+3.--Para ser sa˙d·vel È preciso que o ar seja puro, isto È, muito rico
+de oxigÈnio. Portanto, quando respiramos sÛ o ·cido carbÛnico que de nÛs
 e doutros corpos se exala, podemos morrer, ou pelo menos, adoecer
-gravemente, pelo que √© preciso ventilarmos bem as nossas habita√ß√µes.
+gravemente, pelo que È preciso ventilarmos bem as nossas habitaÁıes.
 
 [Figura: Alcoolismo]
 
-4.--*Asfixia* √©, pois, a falta de ar puro ou a conseq√π√™ncia de se
-respirar, por certo tempo, o _√°cido carb√≥nico_, sem mistura de
-_oxig√©nio_.
+4.--*Asfixia* È, pois, a falta de ar puro ou a conseq˘Íncia de se
+respirar, por certo tempo, o _·cido carbÛnico_, sem mistura de
+_oxigÈnio_.
 
-5.--O ar vicia-se quando n√£o √© renovado, porque respiramos mais _√°cido
-carb√≥nico_ do que _oxig√©nio_; quando, num recinto pequeno, o _oxig√©nio_
-√© pouco para um grande n√∫mero de pessoas, que estejam nesse recinto;
-quando √† respira√ß√£o das pessoas contidas em estreito √¢mbito se ajuntam
-os gases de v√°rias combust√µes: fog√µes, luzes, etc.; por meio das
-exala√ß√µes venenosas das sentinas, sem ventila√ß√£o e sem √°gua; tendo
-flores ou frutos dentro dos quartos, n√£o ventilados, enquanto se dorme;
-pelas poeiras das f√°bricas, poeiras que entram nocivamente nos
-br√¥nquios; pelas exala√ß√µes das √°guas paradas, ou p√¢ntanos; pelo
+5.--O ar vicia-se quando n„o È renovado, porque respiramos mais _·cido
+carbÛnico_ do que _oxigÈnio_; quando, num recinto pequeno, o _oxigÈnio_
+È pouco para um grande n˙mero de pessoas, que estejam nesse recinto;
+quando ‡ respiraÁ„o das pessoas contidas em estreito ‚mbito se ajuntam
+os gases de v·rias combustıes: fogıes, luzes, etc.; por meio das
+exalaÁıes venenosas das sentinas, sem ventilaÁ„o e sem ·gua; tendo
+flores ou frutos dentro dos quartos, n„o ventilados, enquanto se dorme;
+pelas poeiras das f·bricas, poeiras que entram nocivamente nos
+brÙnquios; pelas exalaÁıes das ·guas paradas, ou p‚ntanos; pelo
 apodrecimento de animais e plantas, etc.
 
 6.--Devemos, pois, mesmo quando doentes, ventilar muito os quartos e
-outros aposentos, evitar casas h√∫midas, nunca indo viver para casas que
-n√£o tenham sido arejadas e desinfectadas, nem para casas construidas h√°
+outros aposentos, evitar casas h˙midas, nunca indo viver para casas que
+n„o tenham sido arejadas e desinfectadas, nem para casas construidas h·
 pouco sem que sequem as tintas e o ar tenha circulado meses por todos os
-seus compartimentos; usar _ventiladores_, mesmo de noite, e s√≥ evitar o
+seus compartimentos; usar _ventiladores_, mesmo de noite, e sÛ evitar o
 ar _encanado_.
 
-QUESTION√ÅRIO.--Qual √© a import√¢ncia do ar?--De que se comp√µe o ar?--Que
-√© preciso para que seja saud√°vel?--Que √© asfixia?--Como √© viciado o
+QUESTION¡RIO.--Qual È a import‚ncia do ar?--De que se compıe o ar?--Que
+È preciso para que seja saud·vel?--Que È asfixia?--Como È viciado o
 ar?--A que devemos atender para termos bom ar?
 
 
@@ -1266,128 +1266,128 @@ ar?--A que devemos atender para termos bom ar?
 XVII
 
 *O ar, constantemente renovado, como principal agente curativo de certas
-doen√ßas.--A tuberculose pulmonar.--Cuidados para evitar a propaga√ß√£o
-desta doen√ßa.--Perigo de cont√°gio por falta de precau√ß√µes.--Doen√ßas
-contagiosas.--Principais desinfectantes.--Os mais f√°ceis de obter em
-raz√£o do pre√ßo.--Como se empregam.--Var√≠ola.--Necessidade da vacina√ß√£o*.
+doenÁas.--A tuberculose pulmonar.--Cuidados para evitar a propagaÁ„o
+desta doenÁa.--Perigo de cont·gio por falta de precauÁıes.--DoenÁas
+contagiosas.--Principais desinfectantes.--Os mais f·ceis de obter em
+raz„o do preÁo.--Como se empregam.--VarÌola.--Necessidade da vacinaÁ„o*.
 
 
-1.--A renova√ß√£o constante do ar, principalmente durante o sono, de
-noite, √© um dos rem√©dios melhores para a cura da _tuberculose_, tendo
-dado resultados admir√°veis nessa doen√ßa como no tratamento do _tifo_ e
+1.--A renovaÁ„o constante do ar, principalmente durante o sono, de
+noite, È um dos remÈdios melhores para a cura da _tuberculose_, tendo
+dado resultados admir·veis nessa doenÁa como no tratamento do _tifo_ e
 outras enfermidades.
 
-2.--A *tuberculose pulmonar* ou *t√≠sica*--devida ao *micr√≥bio* ou
-*bacilo* de _Kock_, que se aloja nos pulm√µes, chagando-os, √© uma doen√ßa
-que hoje ataca muita gente, pelos poucos cuidados que h√° em evitar a sua
-propaga√ß√£o. √äste _micr√≥bio_ tamb√™m se pode alojar na _laringe_, nos
+2.--A *tuberculose pulmonar* ou *tÌsica*--devida ao *micrÛbio* ou
+*bacilo* de _Kock_, que se aloja nos pulmıes, chagando-os, È uma doenÁa
+que hoje ataca muita gente, pelos poucos cuidados que h· em evitar a sua
+propagaÁ„o.  ste _micrÛbio_ tambÍm se pode alojar na _laringe_, nos
 _intestinos_, etc.
 
-3.--Os principais cuidados a empregar s√£o: mandar escarrar os
-tuberculosos em _escarradores_ com √°gua, tendo _desinfectante_, porque
-os escarros, quando secam, espalham micr√≥bios pelo ar, o que √© um perigo
+3.--Os principais cuidados a empregar s„o: mandar escarrar os
+tuberculosos em _escarradores_ com ·gua, tendo _desinfectante_, porque
+os escarros, quando secam, espalham micrÛbios pelo ar, o que È um perigo
 para todos; cheio o escarrador, devemos queimar os escarros no lume, e
-lavar o escarrador em √°gua a ferver, n√£o o despejando, pois, sem
-matarmos, assim, todos os micr√≥bios; evitarmos os _perdigotos_, do
-tuberculoso, quando falarmos com √™le; desinfectarmos as roupas e len√ßos
-d√™le, antes de irem para a lavadeira; lavar em √°gua a ferver as lou√ßas e
-toalhas de que o tuberculoso se sirva; n√£o dar √†s crian√ßas restos de
-comidas, de que √™les se tenham arejar a casa e deixar entrar bem o sol,
-porque o sol e o ar s√£o inimigos dos micr√≥bios.
+lavar o escarrador em ·gua a ferver, n„o o despejando, pois, sem
+matarmos, assim, todos os micrÛbios; evitarmos os _perdigotos_, do
+tuberculoso, quando falarmos com Íle; desinfectarmos as roupas e lenÁos
+dÍle, antes de irem para a lavadeira; lavar em ·gua a ferver as louÁas e
+toalhas de que o tuberculoso se sirva; n„o dar ‡s crianÁas restos de
+comidas, de que Íles se tenham arejar a casa e deixar entrar bem o sol,
+porque o sol e o ar s„o inimigos dos micrÛbios.
 
-[Figura: Cora√ß√£o]
+[Figura: CoraÁ„o]
 
-[Figura: Corte do Cora√ß√£o]
+[Figura: Corte do CoraÁ„o]
 
-4.--Al√™m da _tuberculose_, h√° outras doen√ßas contagiosas, como o _tifo_,
-o _sarampo_, o _garrotilho_, a _c√≥lera_, a _coqueluche_, a _var√≠ola_, a
+4.--AlÍm da _tuberculose_, h· outras doenÁas contagiosas, como o _tifo_,
+o _sarampo_, o _garrotilho_, a _cÛlera_, a _coqueluche_, a _varÌola_, a
 _escarlatina_, etc.
 
-5.--Para todas elas s√£o precisos qu√°si todos os cuidados acima
-prescritos, al√™m do uso constante, dos _desinfectantes_, ou subst√¢ncias
-que matam os micr√≥bios. Os principais e mais baratos s√£o: o _cloreto de
-cal_, _√°cido f√©nico_, _capa-rosa azul_, o _g√°s sulfuroso_, o _leite de
+5.--Para todas elas s„o precisos qu·si todos os cuidados acima
+prescritos, alÍm do uso constante, dos _desinfectantes_, ou subst‚ncias
+que matam os micrÛbios. Os principais e mais baratos s„o: o _cloreto de
+cal_, _·cido fÈnico_, _capa-rosa azul_, o _g·s sulfuroso_, o _leite de
 cal_, etc.
 
 [Figura: Tuberculose pulmonar]
 
-6.--O _sulfato de cobre_ (capa-rosa azul) √© o melhor desinfectante das
-mat√©rias fecais. Emprega-se na propor√ß√£o de 7 gramas em cada litro de
-√°gua. O _√°cido f√©nico_, muito usado em lavagens de m√£os, depois do
-contacto com os doentes, emprega-se na propor√ß√£o de 2 a 6 por mil, isto
-√©, 2 a 6 gramas em cada litro de √°gua.
+6.--O _sulfato de cobre_ (capa-rosa azul) È o melhor desinfectante das
+matÈrias fecais. Emprega-se na proporÁ„o de 7 gramas em cada litro de
+·gua. O _·cido fÈnico_, muito usado em lavagens de m„os, depois do
+contacto com os doentes, emprega-se na proporÁ„o de 2 a 6 por mil, isto
+È, 2 a 6 gramas em cada litro de ·gua.
 
-O _g√°s sulfuroso_ obtem-se queimando enx√¥fre. Para desinfectar um quarto
-queima-se na propor√ß√£o de 20 a 30 gramas por metro c√∫bico, fechando
-completamente as portas e janelas e s√≥ se abrindo 12 horas depois.
+O _g·s sulfuroso_ obtem-se queimando enxÙfre. Para desinfectar um quarto
+queima-se na proporÁ„o de 20 a 30 gramas por metro c˙bico, fechando
+completamente as portas e janelas e sÛ se abrindo 12 horas depois.
 
-7.--A *var√≠ola* ou *bexigas* combate-se tamb√™m com a desinfec√ß√£o, mas
-todos podem mais ou menos evit√°-la, _vacinando-se_.
+7.--A *varÌola* ou *bexigas* combate-se tambÍm com a desinfecÁ„o, mas
+todos podem mais ou menos evit·-la, _vacinando-se_.
 
 [Figura: Escarrador]
 
-A *vacina√ß√£o* √© uma necessidade evidente como precioso preventivo.
-Assim, todos os pais devem mandar vacinar os seus filhos ao 3.^o m√™s de
+A *vacinaÁ„o* È uma necessidade evidente como precioso preventivo.
+Assim, todos os pais devem mandar vacinar os seus filhos ao 3.^o mÍs de
 idade e todos os adultos devem renovar a vacina de 7 em 7 anos.
 
-QUESTION√ÅRIO--Qual √© o valor do ar constantemente renovado?--A que √©
+QUESTION¡RIO--Qual È o valor do ar constantemente renovado?--A que È
 devida a tuberculose?--Onde se aloja?--Quais os principais cuidados a
-empregar?--Quais s√£o as outras doen√ßas contagiosas?--Que s√£o
-desinfectantes?--Quais os principais e mais econ√≥micos?--Como se
-empregam?--Como se foge ao perigo da var√≠ola?
+empregar?--Quais s„o as outras doenÁas contagiosas?--Que s„o
+desinfectantes?--Quais os principais e mais econÛmicos?--Como se
+empregam?--Como se foge ao perigo da varÌola?
 
 
 
 
 XVIII
 
-*A respira√ß√£o pela pele.--Import√¢ncia do asseio do corpo e dos
-vestidos.--Inconveni√™ncias que resultam da falta de limpeza.--Banhos
+*A respiraÁ„o pela pele.--Import‚ncia do asseio do corpo e dos
+vestidos.--InconveniÍncias que resultam da falta de limpeza.--Banhos
 gerais.--Principais efeitos do banho, segundo a temperatura da
-√°gua.--PRECAU√á√ïES que se devem tomar para que n√£o prejudique*.
+·gua.--PRECAU«’ES que se devem tomar para que n„o prejudique*.
 
 
-1.--Al√™m do exerc√≠cio (passeio, movimentos gimn√°sticos, a sa√∫de depende
-muito da b√¥a *respira√ß√£o da pele*, que tem _poros_, como j√° dissemos),
-por onde sai o _suor_ e a _gordura_, elementos nocivos ao organismo. √â
-√™ste o fen√≥meno da *transpira√ß√£o*. O suor, no ver√£o, alivia o calor
+1.--AlÍm do exercÌcio (passeio, movimentos gimn·sticos, a sa˙de depende
+muito da bÙa *respiraÁ„o da pele*, que tem _poros_, como j· dissemos),
+por onde sai o _suor_ e a _gordura_, elementos nocivos ao organismo. …
+Íste o fenÛmeno da *transpiraÁ„o*. O suor, no ver„o, alivia o calor
 interno.
 
 [Figura: Rim inteiro]
 
-2.--Para que a pele respire bem √© preciso que ande limpa de poeiras e
-que receba bem o ar, pelo que deve ser lavada freq√πentes vezes e os
-vestidos n√£o devem ser muito apertados, porque, de contr√°rio, os poros
-tapam-se e as mat√©rias nocivas, n√£o sendo expelidas, causam doen√ßas.
+2.--Para que a pele respire bem È preciso que ande limpa de poeiras e
+que receba bem o ar, pelo que deve ser lavada freq˘entes vezes e os
+vestidos n„o devem ser muito apertados, porque, de contr·rio, os poros
+tapam-se e as matÈrias nocivas, n„o sendo expelidas, causam doenÁas.
 
-3.--√â preciso, pois, o uso freq√πente dos _banhos gerais_, que podem ser
-_frios_ ou _t√©pidos_, e s√≥ raras vezes _quentes_, porque debilitam muito
+3.--… preciso, pois, o uso freq˘ente dos _banhos gerais_, que podem ser
+_frios_ ou _tÈpidos_, e sÛ raras vezes _quentes_, porque debilitam muito
 o organismo.
 
 [Figura: Banhos]
 
 4.--Os _banhos frios_ sao fortificantes no inverno e refrigerantes no
-ver√£o. Os _t√©pidos_ s√£o os que lavam melhor e mais moderam a circula√ß√£o.
-Mas todos devem ser r√°pidos, embora freq√πentes, sendo √∫til n√£o perder o
-calor natural, com o enxugamento que hoje √© substituido ou pelo vestir
-r√°pido, seguido de exerc√≠cio que d√™ logo a reac√ß√£o que enxuga de per si
-o corpo, ou pelo abrigo no leito com o maior resguardo at√© que a reac√ß√£o
+ver„o. Os _tÈpidos_ s„o os que lavam melhor e mais moderam a circulaÁ„o.
+Mas todos devem ser r·pidos, embora freq˘entes, sendo ˙til n„o perder o
+calor natural, com o enxugamento que hoje È substituido ou pelo vestir
+r·pido, seguido de exercÌcio que dÍ logo a reacÁ„o que enxuga de per si
+o corpo, ou pelo abrigo no leito com o maior resguardo atÈ que a reacÁ„o
 seja completa.
 
-5.--As principais precau√ß√µes gerais a respeito dos banhos s√£o: tom√°-los
-4 horas depois das refei√ß√µes ou melhor em jejum; evitar, na casa de
-banho, as correntes de ar; provocar sempre fortemente a reac√ß√£o; n√£o
-tomar os banhos tendo frio, pelo que √© √∫til tom√°-los depois de bastante
-exerc√≠cio; molhar, o menos poss√≠vel, a cabe√ßa, e, quando molhada,
-enxug√°-la completamente, por causa dos cabelos n√£o concentrarem a
-humidade; nunca tomar banho logo em seguida a uma excita√ß√£o violenta.
+5.--As principais precauÁıes gerais a respeito dos banhos s„o: tom·-los
+4 horas depois das refeiÁıes ou melhor em jejum; evitar, na casa de
+banho, as correntes de ar; provocar sempre fortemente a reacÁ„o; n„o
+tomar os banhos tendo frio, pelo que È ˙til tom·-los depois de bastante
+exercÌcio; molhar, o menos possÌvel, a cabeÁa, e, quando molhada,
+enxug·-la completamente, por causa dos cabelos n„o concentrarem a
+humidade; nunca tomar banho logo em seguida a uma excitaÁ„o violenta.
 
-6.--Devemos, al√™m disso, lavar tr√™s, quatro e mais vezes por dia a cara
-e as m√£os, e pelo menos uma ou duas vezes por semana os p√©s.
+6.--Devemos, alÍm disso, lavar trÍs, quatro e mais vezes por dia a cara
+e as m„os, e pelo menos uma ou duas vezes por semana os pÈs.
 
-QUESTION√ÅRIO.--Que √© respira√ß√£o pela pele?--Que √© preciso para a pele
-respirar bem?--Quantas esp√©cies h√° de banhos?--Que diferen√ßa h√° entre
-uns e outros?--Que precau√ß√µes devemos tomar relativamente aos banhos?
+QUESTION¡RIO.--Que È respiraÁ„o pela pele?--Que È preciso para a pele
+respirar bem?--Quantas espÈcies h· de banhos?--Que diferenÁa h· entre
+uns e outros?--Que precauÁıes devemos tomar relativamente aos banhos?
 
 
 FIM
@@ -1395,46 +1395,46 @@ FIM
 
 
 
-√çNDICE
+ÕNDICE
 
 
-I.--Mat√©ria.--Corpo, etc.     5
+I.--MatÈria.--Corpo, etc.     5
 
-II.--Divis√£o dos corpos em s√≥lidos, etc.     8
+II.--Divis„o dos corpos em sÛlidos, etc.     8
 
-III.--Exposi√ß√£o sum√°ria dalguns efeitos que s√¥bre os corpos produzem,
+III.--ExposiÁ„o sum·ria dalguns efeitos que sÙbre os corpos produzem,
 como agentes naturais, a gravidade, etc.      11
 
 IV.--A queda dos corpos, etc.      15
 
-V.--Combust√£o e chama.--Term√≥metros      17
+V.--Combust„o e chama.--TermÛmetros      17
 
-VI.--Vapor e suas aplica√ß√µes principais, etc.      23
+VI.--Vapor e suas aplicaÁıes principais, etc.      23
 
 VII.--Corpos bons e maus condutores do calor, etc.      29
 
-VIII.--Condensa√ß√£o dos vapores, etc.      34
+VIII.--CondensaÁ„o dos vapores, etc.      34
 
-IX.--Aplica√ß√£o da electricidade, etc.      40
+IX.--AplicaÁ„o da electricidade, etc.      40
 
-X.--O som.--Qualidade d√™le, etc.      46
+X.--O som.--Qualidade dÍle, etc.      46
 
 XI.--A luz.--Corpos luminosos, etc.      47
 
-XII.--O corpo humano.--Sua divis√£o em cabe√ßa, tronco e membros, etc.      49
+XII.--O corpo humano.--Sua divis„o em cabeÁa, tronco e membros, etc.      49
 
-XIII.--Os dentes.--Sua import√¢ncia na vida humana, etc.      55
+XIII.--Os dentes.--Sua import‚ncia na vida humana, etc.      55
 
-XIV.--Descri√ß√£o sum√°ria.--O aparelho digestivo, etc.      56
+XIV.--DescriÁ„o sum·ria.--O aparelho digestivo, etc.      56
 
-XV.--Condi√ß√µes a que deve satisfazer a b√¥a alimenta√ß√£o, etc.      59
+XV.--CondiÁıes a que deve satisfazer a bÙa alimentaÁ„o, etc.      59
 
-XVI.--Import√¢ncia do ar atmosf√©rico.--Sua composi√ß√£o, etc.      62
+XVI.--Import‚ncia do ar atmosfÈrico.--Sua composiÁ„o, etc.      62
 
 XVII.--O ar constantemente renovado, como principal agente curativo de
-certas doen√ßas, etc.      65
+certas doenÁas, etc.      65
 
-XVIII.--A respira√ß√£o pela pele.--Import√¢ncia do asseio do corpo e dos
+XVIII.--A respiraÁ„o pela pele.--Import‚ncia do asseio do corpo e dos
 vestidos, etc.      69
 
 
@@ -1442,9 +1442,9 @@ vestidos, etc.      69
 
 
 
-End of the Project Gutenberg EBook of Sci√™ncias Naturaes, by Anonymous
+End of the Project Gutenberg EBook of SciÍncias Naturaes, by Anonymous
 
-*** END OF THIS PROJECT GUTENBERG EBOOK SCI√äNCIAS NATURAES ***
+*** END OF THIS PROJECT GUTENBERG EBOOK SCI NCIAS NATURAES ***
 
 ***** This file should be named 19013-8.txt or 19013-8.zip *****
 This and all associated files of various formats will be found in:

@@ -1,4 +1,4 @@
-The Project Gutenberg EBook of Breves instruc√ß√µes aos correspondentes da
+The Project Gutenberg EBook of Breves instrucÁıes aos correspondentes da
 Academia das Sciencias de Lisboa sobre as remessas dos productos, e noticias pertencentes a' Historia da Natureza, para formar hum Museo Nacional, by Unknown
 
 This eBook is for the use of anyone anywhere at no cost and with
@@ -7,7 +7,7 @@ re-use it under the terms of the Project Gutenberg License included
 with this eBook or online at www.gutenberg.net
 
 
-Title: Breves instruc√ß√µes aos correspondentes da Academia das Sciencias de Lisboa sobre as remessas dos productos, e noticias pertencentes a' Historia da Natureza, para formar hum Museo Nacional
+Title: Breves instrucÁıes aos correspondentes da Academia das Sciencias de Lisboa sobre as remessas dos productos, e noticias pertencentes a' Historia da Natureza, para formar hum Museo Nacional
 
 Author: Unknown
 
@@ -17,7 +17,7 @@ Language: Portuguese
 
 Character set encoding: ISO-8859-1
 
-*** START OF THIS PROJECT GUTENBERG EBOOK BREVES INSTRUC√á√ïES AOS ***
+*** START OF THIS PROJECT GUTENBERG EBOOK BREVES INSTRUC«’ES AOS ***
 
 
 
@@ -33,7 +33,7 @@ Farinha, Rita Farinha and the Online Distributed Proofreading Team.
 
 BREVES
 
-INSTRUC√á√ïES
+INSTRUC«’ES
 
 AOS CORRESPONDENTES
 
@@ -51,7 +51,7 @@ E
 
 NOTICIAS PERTENCENTES
 
-√Å
+¡
 
 HISTORIA DA NATUREZA,
 
@@ -67,7 +67,7 @@ NA REGIA OFFICINA TYPOGRAFICA.
 
 ANNO M.DCC.LXXXI.
 
-_Com licen√ßa da Real Meza Censoria_.
+_Com licenÁa da Real Meza Censoria_.
 
 1781
 
@@ -81,427 +81,427 @@ _Com licen√ßa da Real Meza Censoria_.
 ADVERTENCIA.
 
 
-As rela√ß√µes, por mais exactas e completas que sej√£o, nunca cheg√£o a
-dar-nos huma id√©a t√£o perfeita das coisas, como a sua mesma presen√ßa:
+As relaÁıes, por mais exactas e completas que sej„o, nunca cheg„o a
+dar-nos huma idÈa t„o perfeita das coisas, como a sua mesma presenÁa:
 por esta causa se tem occupado os Sabios, particularmente neste seculo,
-em ajuntar com a protec√ß√£o dos Principes os exemplares de varios
+em ajuntar com a protecÁ„o dos Principes os exemplares de varios
 individuos das diversas especies de Animaes, Vegetaes e Mineraes, que se
-encontr√£o em differentes paizes, para apresentarem do modo possivel √°
+encontr„o em differentes paizes, para apresentarem do modo possivel ·
 vista dos curiosos hum como compendio das principaes maravilhas da
 Natureza.
 
 Considerando pois a Academia das Sciencias de Lisboa, cujos trabalhos se
-encaminh√£o todos ao bem p√∫blico, a grande utilidade, que de huma
-similhante Collec√ß√£o, sendo bem ordenada, p√≥de resultar para o
+encaminh„o todos ao bem p˙blico, a grande utilidade, que de huma
+similhante CollecÁ„o, sendo bem ordenada, pÛde resultar para o
 adiantamento das Artes, Commercio, Manufacturas e todos os mais ramos da
 Economia; propoz-se o projecto de formar nesta Capital hum Museo
 Nacional, onde principalmente se ajuntem e conservem os productos, ao
-menos os mais notaveis, que se ach√£o dentro do Reino e das suas
+menos os mais notaveis, que se ach„o dentro do Reino e das suas
 Colonias.
 
-Como por√©m muitas vezes succede, que alguns dos exemplares,
-particularmente quando s√£o remettidos de paizes distantes, cheg√£o
-damnificados e por isso indignos de se guardarem nos Gabinetes, por n√£o
+Como porÈm muitas vezes succede, que alguns dos exemplares,
+particularmente quando s„o remettidos de paizes distantes, cheg„o
+damnificados e por isso indignos de se guardarem nos Gabinetes, por n„o
 terem sido devidamente escolhidos, preparados e acondicionados; e como
-al√©m disso nem todas as pessoas, que he necessario encarregar das
-remessas e das noticias que devem acompanhallas, se supp√µem igualmente
-instruidas no melhor methodo de satisfazer as suas Commiss√µes, julgou
-conveniente a mesma Academia apontar as seguintes Instruc√ß√µes, pelas
-quaes poder√°√µ dirigir-se, os que dellas necessitarem.
+alÈm disso nem todas as pessoas, que he necessario encarregar das
+remessas e das noticias que devem acompanhallas, se suppıem igualmente
+instruidas no melhor methodo de satisfazer as suas Commissıes, julgou
+conveniente a mesma Academia apontar as seguintes InstrucÁıes, pelas
+quaes poder·ı dirigir-se, os que dellas necessitarem.
 
 Adverte-se com tudo a cada hum dos Correspondentes e Commissarios, que,
-quando por alguns motivos, que occorr√£o, lhes n√£o seja possivel
-satisfazer em tudo, satisfa√ß√£o ao menos em parte, e do melhor modo que
-poderem, ao que nestas Instruc√ß√µes se recommenda, em quanto ao numero e
-perfei√ß√£o dos exemplares que se pedem, e em quanto ao methodo de os
+quando por alguns motivos, que occorr„o, lhes n„o seja possivel
+satisfazer em tudo, satisfaÁ„o ao menos em parte, e do melhor modo que
+poderem, ao que nestas InstrucÁıes se recommenda, em quanto ao numero e
+perfeiÁ„o dos exemplares que se pedem, e em quanto ao methodo de os
 preparar e remetter.
 
 
 
 
-BREVES INSTRUC√á√ïES
+BREVES INSTRUC«’ES
 
-Sobre as remessas dos productos e noticias pertencentes √° Historia da
+Sobre as remessas dos productos e noticias pertencentes · Historia da
 Natureza, para formar hum Museo Nacional.
 
 
 
 
-*¬ß. I.*
+*ß. I.*
 
 
 _Das remessas dos Animaes_.
 
-As remessas dos individuos do reino animal s√£o as mais difficultosas
-pelas prepara√ß√µes, que he necessario fazer, a fim de impedir a
-corrup√ß√£o, a que est√£o mais sujeitos, que os individuos dos outros dois
-reinos. E como estas prepara√ß√µes vari√£o algum tanto conforme a variedade
-de algumas das especies animaes, exporemos separadamente as que s√£o
+As remessas dos individuos do reino animal s„o as mais difficultosas
+pelas preparaÁıes, que he necessario fazer, a fim de impedir a
+corrupÁ„o, a que est„o mais sujeitos, que os individuos dos outros dois
+reinos. E como estas preparaÁıes vari„o algum tanto conforme a variedade
+de algumas das especies animaes, exporemos separadamente as que s„o
 proprias de cada huma dellas.
 
 Mas primeiro que tudo he preciso advertir em geral, que os Animaes
 destinados para o Museo, devem ser apanhados de modo, que fiquem todos,
-sem excei√ß√£o alguma, com a cabe√ßa inteira; os quadrupedes com todas as
+sem exceiÁ„o alguma, com a cabeÁa inteira; os quadrupedes com todas as
 unhas e dentes, e sem rotura consideravel na pelle; as aves com o bico e
-p√©s, e com todas as pennas; os peixes com todas as barbatanas e cauda;
+pÈs, e com todas as pennas; os peixes com todas as barbatanas e cauda;
 em huma palavra ao menos aquellas partes, de que se servem os
 Naturalistas para caracterizarem cada huma das especies, devem, depois
-de feita a prepara√ß√£o, ficar, quanto for possivel, no seu estado
+de feita a preparaÁ„o, ficar, quanto for possivel, no seu estado
 natural.
 
 
 _Dos Quadrupedes_.
 
-Como he impraticavel conservar sem corrup√ß√£o por muito tempo com a carne
+Como he impraticavel conservar sem corrupÁ„o por muito tempo com a carne
 os quadrupedes grandes, faz-se preciso esfollallos de modo que, cheia a
-sua pelle com alguma materia estranha, se lhes d√™ a mesma f√≥rma
-exterior, que tinh√£o em quanto vivos.
+sua pelle com alguma materia estranha, se lhes dÍ a mesma fÛrma
+exterior, que tinh„o em quanto vivos.
 
 Para este effeito nos animaes quadrupedes de mediana grandeza far-se-ha
-na pelle ou huma incis√£o direita desde a parte mais inferior do ventre
-at√© o _anus_, ou duas incis√µes, cada huma das quaes principie no mesmo
-_anus_, e continue pela parte interior das coxas at√© √° juntura destas
+na pelle ou huma incis„o direita desde a parte mais inferior do ventre
+atÈ o _anus_, ou duas incisıes, cada huma das quaes principie no mesmo
+_anus_, e continue pela parte interior das coxas atÈ · juntura destas
 com as pernas.
 
 Por esta abertura feita de qualquer dos dois modos, que parecer mais
 conveniente, depois de separada, com os dedos ou com algum instrumento
-accommodado, a pelle que rodea as duas coxas, se tirar√°√µ estas para
-f√≥ra, cortando-as pelas articula√ß√µes, que as unem com as pernas, cujos
-ossos se descarnar√°√µ, quanto for possivel.
+accommodado, a pelle que rodea as duas coxas, se tirar·ı estas para
+fÛra, cortando-as pelas articulaÁıes, que as unem com as pernas, cujos
+ossos se descarnar·ı, quanto for possivel.
 
-Depois se continuar√° a despegar a pelle das costas at√© chegar √° cauda, a
-qual, se n√£o se puder esfollar, se cortar√° pela juntura, que a une ao
+Depois se continuar· a despegar a pelle das costas atÈ chegar · cauda, a
+qual, se n„o se puder esfollar, se cortar· pela juntura, que a une ao
 tronco.
 
-Feito isto, se voltar√° para a cabe√ßa do animal a parte posterior da
-pelle, que j√° est√° separada do corpo; e puxando-a at√© √°s espaduas, se
-far√° nos bra√ßos o mesmo que se fez nas coxas, cortando-os pelas
-articula√ß√µes das canellas; as quaes tambem se descarnar√°√µ da mesma sorte
+Feito isto, se voltar· para a cabeÁa do animal a parte posterior da
+pelle, que j· est· separada do corpo; e puxando-a atÈ ·s espaduas, se
+far· nos braÁos o mesmo que se fez nas coxas, cortando-os pelas
+articulaÁıes das canellas; as quaes tambem se descarnar·ı da mesma sorte
 que as pernas.
 
-Continuar-se-ha a puxar a pelle at√© descobrir ametade da cabe√ßa para a
-descarnar: separada esta do corpo pela sua juntura com o pesco√ßo, se
-extrahir√° toda a substancia do c√©rebro; e depois de bem limpa a
-cavidade, se encher√° esta com estopa, ou algod√£o misturado com pedra
-hume calcinada em p√≥, ou com outras materias de cheiro astivo, como
+Continuar-se-ha a puxar a pelle atÈ descobrir ametade da cabeÁa para a
+descarnar: separada esta do corpo pela sua juntura com o pescoÁo, se
+extrahir· toda a substancia do cÈrebro; e depois de bem limpa a
+cavidade, se encher· esta com estopa, ou algod„o misturado com pedra
+hume calcinada em pÛ, ou com outras materias de cheiro astivo, como
 tabaco, pimenta, alcanfor, &c., ensopando primeiro tudo em oleo de
 therebentina.
 
-Com esta mesma composi√ßao, depois de se cortar a lingua pela sua raiz, e
-descarnar bem os queixos, se encher√° a parte da go√©lla que restar pegada
-√° cabe√ßa.
+Com esta mesma composiÁao, depois de se cortar a lingua pela sua raiz, e
+descarnar bem os queixos, se encher· a parte da goÈlla que restar pegada
+· cabeÁa.
 
-Tambem se arrancar√°√µ os olhos, de modo que se n√£o romp√£o as palpebras; e
+Tambem se arrancar·ı os olhos, de modo que se n„o romp„o as palpebras; e
 depois de bem limpas e enxutas de toda a humidade as suas orbitas, se
-encher√°√µ com as mesmas materias que acabamos de apontar. Em lugar dos
-olhos arrancados se metter√°√µ outros artificiaes ou de vidro, ou de
-esmalte, ou de outra materia s√≥lida, que imitem na figura e cores os
-naturaes; e quando isto se n√£o possa fazer com a perfei√ß√£o devida,
-remetta-se ao menos o seu desenho com as cores proprias, ou huma rela√ß√£o
+encher·ı com as mesmas materias que acabamos de apontar. Em lugar dos
+olhos arrancados se metter·ı outros artificiaes ou de vidro, ou de
+esmalte, ou de outra materia sÛlida, que imitem na figura e cores os
+naturaes; e quando isto se n„o possa fazer com a perfeiÁ„o devida,
+remetta-se ao menos o seu desenho com as cores proprias, ou huma relaÁ„o
 exacta, que suppra do melhor modo a sua falta.
 
 Depois de separada toda a pelle, deve raspar-se bem o interior della com
-algum instrumento de a√ßo pouco affiado, para que a n√£o rompa, e
-esfregar-se com sab√£o desfeito em agoa tepida, at√© que fique sem o menor
-resto de carne, sangue ou gordura, que possa ser principio de corrup√ß√£o.
-Para acabar de seccar toda a sua humidade, se pulverizar√° a mesma parte
-interior da pelle com cal extincta ao ar, e reduzida a p√≥ por si mesma,
+algum instrumento de aÁo pouco affiado, para que a n„o rompa, e
+esfregar-se com sab„o desfeito em agoa tepida, atÈ que fique sem o menor
+resto de carne, sangue ou gordura, que possa ser principio de corrupÁ„o.
+Para acabar de seccar toda a sua humidade, se pulverizar· a mesma parte
+interior da pelle com cal extincta ao ar, e reduzida a pÛ por si mesma,
 ou tambem com cal viva misturada com huma doze de greda, que baste a
-temperar a sua actividade. Esta pulveriza√ß√£o p√≥de repetir-se huma e mais
-vezes, at√© que se conhe√ßa que a pelle est√° inteiramente secca. E para
-extinguir todos os insectos, que poss√£o causar algum damno ao cabello,
-ser√° muito conveniente defumar as pelles j√° seccas com o vapor de
-enxofre inflammado; e se embrulhar√°√µ logo em pannos bem tapados para
-evitar que outros infectos venh√£o de novo depositar nellas os seus √≥vos.
+temperar a sua actividade. Esta pulverizaÁ„o pÛde repetir-se huma e mais
+vezes, atÈ que se conheÁa que a pelle est· inteiramente secca. E para
+extinguir todos os insectos, que poss„o causar algum damno ao cabello,
+ser· muito conveniente defumar as pelles j· seccas com o vapor de
+enxofre inflammado; e se embrulhar·ı logo em pannos bem tapados para
+evitar que outros infectos venh„o de novo depositar nellas os seus Ûvos.
 
-Acabadas estas opera√ß√µes, encher-se-ha todo o espa√ßo, que occupava o
-corpo do animal, com a mesma composi√ß√£o, com que se encheo a cavidade da
-cabe√ßa, ou com outra equivalente que conste de materias molles e seccas,
-e de drogas antiputridas: e por meio de arames grossos √° propor√ß√£o da
-grandeza do animal, e dispostos pela parte de dentro, se dar√° ao
-pesco√ßo, aos p√©s, √° cauda e a todo o volume a sua postura natural.
+Acabadas estas operaÁıes, encher-se-ha todo o espaÁo, que occupava o
+corpo do animal, com a mesma composiÁ„o, com que se encheo a cavidade da
+cabeÁa, ou com outra equivalente que conste de materias molles e seccas,
+e de drogas antiputridas: e por meio de arames grossos · proporÁ„o da
+grandeza do animal, e dispostos pela parte de dentro, se dar· ao
+pescoÁo, aos pÈs, · cauda e a todo o volume a sua postura natural.
 
 Composto em fim e limpo o cabelo de todas as nodoas de sangue ou
-gordura, que no tempo da prepara√ß√£o tiver contrahido, se accommodar√° a
-pelle assim preparada dentro do caix√£o em que ha de ser transportada,
-pondo-a e segurando-a, de modo que n√£o balance; e tapando as juntas do
-caix√£o com tiras de papel ou de panno embebidas em drogas amargas e
+gordura, que no tempo da preparaÁ„o tiver contrahido, se accommodar· a
+pelle assim preparada dentro do caix„o em que ha de ser transportada,
+pondo-a e segurando-a, de modo que n„o balance; e tapando as juntas do
+caix„o com tiras de papel ou de panno embebidas em drogas amargas e
 acres, para impedir que entre a humidade.
 
 Como este methodo de encher as pelles dos quadrupedes de mediana
-grandeza n√£o p√≥de praticar-se com os demaziadamente grandes, bastar√° que
-se remettao as suas pelles com a cabe√ßa pegada, e com todas as unhas.
-Estas pelles devem preparar-se com todas as precau√ß√µes que j√° apont√°mos:
-e quando estas n√£o sej√£o bastantes para as seccar bem, e extinguir todos
-os infectos, se metter√°√µ pelo espa√ßo de seis horas em fornos, cujo gr√°o
-de calor seja o maior que as pelles poss√£o supportar, sem que se queime
-o cabello; depois do que se defumar√°√µ, como acima dissemos, com o vapor
-de enxofre inflammado; e se embrulhar√°√µ cada embrulhar√£o cada huma √°
+grandeza n„o pÛde praticar-se com os demaziadamente grandes, bastar· que
+se remettao as suas pelles com a cabeÁa pegada, e com todas as unhas.
+Estas pelles devem preparar-se com todas as precauÁıes que j· apont·mos:
+e quando estas n„o sej„o bastantes para as seccar bem, e extinguir todos
+os infectos, se metter·ı pelo espaÁo de seis horas em fornos, cujo gr·o
+de calor seja o maior que as pelles poss„o supportar, sem que se queime
+o cabello; depois do que se defumar·ı, como acima dissemos, com o vapor
+de enxofre inflammado; e se embrulhar·ı cada embrulhar„o cada huma ·
 parte em pannos bem tapados, introduzindo pelas suas dobras
 therebentina, e outras drogas de cheiro penetrante e sabor acre. Tudo o
-mais se far√°, como fica dito das pelles dos outros quadrupedes.
+mais se far·, como fica dito das pelles dos outros quadrupedes.
 
-Mas, como s√≥ as pelles n√£o bast√£o para dar huma id√©a justa da f√≥rma e
+Mas, como sÛ as pelles n„o bast„o para dar huma idÈa justa da fÛrma e
 postura do animal, recommenda-se aos Correspondentes, que mandem junto
-com ellas hum desenho, ou huma descrip√ß√£o exacta, ao menos daquelles,
-que n√£o s√£o vulgarmente conhecidos, ou que tem alguma coisa de
+com ellas hum desenho, ou huma descripÁ„o exacta, ao menos daquelles,
+que n„o s„o vulgarmente conhecidos, ou que tem alguma coisa de
 extraordinario.
 
 Recommenda-se tambem aos mesmos Correspondentes, que, quando succeda
 receberem algumas pelles de animaes, remettidas de algum lugar distante
-da sua residencia, que n√£o fossem logo depois de separadas do corpo
+da sua residencia, que n„o fossem logo depois de separadas do corpo
 devidamente preparadas, e nas quaes observem o mais leve indicio de
-corrup√ß√£o principiada, as mett√£o promptamente e conservem pelo espa√ßo de
+corrupÁ„o principiada, as mett„o promptamente e conservem pelo espaÁo de
 dois dias em algum licor espirituoso; e depois as sequem, e accommodem
-nos caix√µes pelo methodo acima exposto.
+nos caixıes pelo methodo acima exposto.
 
-Os quadrupedes pequenos, que n√£o poss√£o preparar-se, como os de mediana
-grandeza, se prepar√£o facilmente deste modo. Por huma incis√£o pequena
-junto ao _anus_ se extrahir√°√µ todos os seus intestinos; e depois de bem
-limpa e enxuta a cavidade que fica, se encher√° esta com estopa ou
-algod√£o misturado com os mesmos ingredientes, que acima dissemos.
-Arrancados os olhos com as advertencias j√° expostas, se metter√°√µ os
+Os quadrupedes pequenos, que n„o poss„o preparar-se, como os de mediana
+grandeza, se prepar„o facilmente deste modo. Por huma incis„o pequena
+junto ao _anus_ se extrahir·ı todos os seus intestinos; e depois de bem
+limpa e enxuta a cavidade que fica, se encher· esta com estopa ou
+algod„o misturado com os mesmos ingredientes, que acima dissemos.
+Arrancados os olhos com as advertencias j· expostas, se metter·ı os
 corpos em agoa ardente por algum tempo, renovando-a ao menos huma vez.
-Depois se acamar√°√µ em vasos cheios de licor composto de tres partes de
+Depois se acamar·ı em vasos cheios de licor composto de tres partes de
 agoa pura e uma de espirito de vinho, no qual se tenha dissolvido huma
-boa por√ß√£o de pedra hume calcinada. Os bocaes destes vasos, em que h√£o
+boa porÁ„o de pedra hume calcinada. Os bocaes destes vasos, em que h„o
 de ser remettidos os animaes, devem ser tapados, quanto for possivel,
-com tampas bem justas e betumadas com uma mistura de c√™ra e rezina; e os
-mesmos vasos accommodados nos caix√µes de modo que n√£o quebrem, se forem
+com tampas bem justas e betumadas com uma mistura de cÍra e rezina; e os
+mesmos vasos accommodados nos caixıes de modo que n„o quebrem, se forem
 de materia fragil, nem balancem com o movimento do transporte.
 
-Os esqueletos dos animaes, que tambem entra√µ na classe das preciosidades
-que merecem hum lugar distinto nos Gabinetes, n√£o precisa√µ de
-prepara√ß√µes t√£o delicadas, para se remetterem sem perigo de corrup√ß√£o.
+Os esqueletos dos animaes, que tambem entraı na classe das preciosidades
+que merecem hum lugar distinto nos Gabinetes, n„o precisaı de
+preparaÁıes t„o delicadas, para se remetterem sem perigo de corrupÁ„o.
 Basta que, depois de bem descarnados e limpos todos os ossos, se ponha
 um numero differente repetido nas duas extremidades, por onde se unem
-uns com os outros. Por meio desta numera√ß√£o ser√° facil armar novamente o
-esqueleto, para lhe dar a sua f√≥rma natural.
+uns com os outros. Por meio desta numeraÁ„o ser· facil armar novamente o
+esqueleto, para lhe dar a sua fÛrma natural.
 
-Os ossos de cada animal devem empacotar-se √° parte, para n√£o haver
-confus√£o; e accommodallos de sorte nos caix√µes, que se n√£o quebrem no
+Os ossos de cada animal devem empacotar-se · parte, para n„o haver
+confus„o; e accommodallos de sorte nos caixıes, que se n„o quebrem no
 transporte.
 
-Como p√≥de succeder que algumas vezes n√£o haja toda a commodidade de se
-remetterem os esqueletos inteiros, como fica dito, nesse caso venh√£o ao
+Como pÛde succeder que algumas vezes n„o haja toda a commodidade de se
+remetterem os esqueletos inteiros, como fica dito, nesse caso venh„o ao
 menos as partes mais notaveis dos animaes pouco vulgares; e dos outros,
-aquellas partes que tenh√£o alguma coisa de extraordinario.
+aquellas partes que tenh„o alguma coisa de extraordinario.
 
 
 _Das Aves_.
 
 O methodo de preparar as _aves_ grandes pouco differe, do que acima se
-expoz para os quadrupedes de mediana grandeza. Ainda que se p√≥de
-principiar a opera√ß√£o por huma unica incis√£o feita no ventre desde o
-_anus_ at√© o osso do peito, he melhor que se fac√£o duas de sorte que,
-nascendo ambas do _anus_, v√° cada huma dellas correndo ao comprido das
-coxas at√© terminar no encontro da aza da mesma parte.
+expoz para os quadrupedes de mediana grandeza. Ainda que se pÛde
+principiar a operaÁ„o por huma unica incis„o feita no ventre desde o
+_anus_ atÈ o osso do peito, he melhor que se fac„o duas de sorte que,
+nascendo ambas do _anus_, v· cada huma dellas correndo ao comprido das
+coxas atÈ terminar no encontro da aza da mesma parte.
 
-Pegando no vertice do angulo, que f√≥rm√£o no _anus_ as duas incis√µes, se
-ir√° separando pouco a pouco com os dedos, ou com algum instrumento
-accommodado, a pelle do ventre, e voltando-a para a parte da cabe√ßa da
-ave at√© chegar aos encontros das azas.
+Pegando no vertice do angulo, que fÛrm„o no _anus_ as duas incisıes, se
+ir· separando pouco a pouco com os dedos, ou com algum instrumento
+accommodado, a pelle do ventre, e voltando-a para a parte da cabeÁa da
+ave atÈ chegar aos encontros das azas.
 
 Despegada do mesmo modo a pelle que rodea as coxas, tiradas estas para
-f√≥ra, e cortadas pelas suas junturas com as pernas, cujos ossos ser√£o
-bem descarnados, se continuar√° a opera√ß√£o, separando de vagar a pelle
-das costas at√© chegar ao uropigio, o qual se cortar√° com huma tisoura
-pela articula√ß√£o que o une ao corpo.
+fÛra, e cortadas pelas suas junturas com as pernas, cujos ossos ser„o
+bem descarnados, se continuar· a operaÁ„o, separando de vagar a pelle
+das costas atÈ chegar ao uropigio, o qual se cortar· com huma tisoura
+pela articulaÁ„o que o une ao corpo.
 
-Feito isto, se pegar√° na parte posterior j√° esfollada do corpo da avecom
-a m√£o esquerda, e com a direita se ir√° tirando com sentido, para que se
-n√£o rompa, o resto da pelle, at√© chegar √°s azas; as quaes se devem
-separar do tronco pelas suas articula√ß√µes, descarnando, o mais que for
-possivel, os ossos que fic√£o pegados √° pelle.
+Feito isto, se pegar· na parte posterior j· esfollada do corpo da avecom
+a m„o esquerda, e com a direita se ir· tirando com sentido, para que se
+n„o rompa, o resto da pelle, atÈ chegar ·s azas; as quaes se devem
+separar do tronco pelas suas articulaÁıes, descarnando, o mais que for
+possivel, os ossos que fic„o pegados · pelle.
 
-Continuar-se-ha a puxar a pelle que veste o pesco√ßo, at√© descobrir parte
-do cranio, o qual se cortar√° transversalmente hum pouco acima da sua
-uni√£o com o pesco√ßo; separando deste modo do resto do corpo a cabe√ßa
+Continuar-se-ha a puxar a pelle que veste o pescoÁo, atÈ descobrir parte
+do cranio, o qual se cortar· transversalmente hum pouco acima da sua
+uni„o com o pescoÁo; separando deste modo do resto do corpo a cabeÁa
 junta com a pelle.
 
-Por esta abertura feita no cranio se extrahir√° toda a substancia do
-cerebro; e se far√° tudo o mais que pertence √° prepara√ß√£o interior da
-cabe√ßa, do mesmo modo que fica dito dos quadrupedes.
+Por esta abertura feita no cranio se extrahir· toda a substancia do
+cerebro; e se far· tudo o mais que pertence · preparaÁ„o interior da
+cabeÁa, do mesmo modo que fica dito dos quadrupedes.
 
-Por√©m nas aves aquaticas, e outras de cabe√ßa grande, cujo pesco√ßo n√£o he
-facil de se esfollar at√© descobrir o cranio, sem o perigo de romper a
-pelle, separar-se-ha da cabe√ßa o pesco√ßo pela ultima juntura; e depois
-de revirada a pelle, se far√° a extrac√ß√£o do cerebro por hum buraco feito
+PorÈm nas aves aquaticas, e outras de cabeÁa grande, cujo pescoÁo n„o he
+facil de se esfollar atÈ descobrir o cranio, sem o perigo de romper a
+pelle, separar-se-ha da cabeÁa o pescoÁo pela ultima juntura; e depois
+de revirada a pelle, se far· a extracÁ„o do cerebro por hum buraco feito
 de proposito na parte superior do cranio, que corresponde ao padar.
 
-Antes de revirar a pelle se raspar√° levemente o interior della, para
-purificalla de todo o sangue e gordura; e se pulverizar√° com p√≥s, que
+Antes de revirar a pelle se raspar· levemente o interior della, para
+purificalla de todo o sangue e gordura; e se pulverizar· com pÛs, que
 constem de huma parte de pedra hume queimada, outra de alcanfor, duas de
-solim√£o, duas de nitro puro, duas de flor de enxofre, quatro de pimenta,
+solim„o, duas de nitro puro, duas de flor de enxofre, quatro de pimenta,
 e outras quatro de tabaco.
 
-Para revirar facilmente a pelle, sem estragar as pennas, se ter√° feito
-passar antes da opera√ß√£o pelos narizes da ave hum fio comprido e forte,
-o qual servir√° para puxar a cabe√ßa f√≥ra, e dar √° pelle a sua situa√ß√£o
+Para revirar facilmente a pelle, sem estragar as pennas, se ter· feito
+passar antes da operaÁ„o pelos narizes da ave hum fio comprido e forte,
+o qual servir· para puxar a cabeÁa fÛra, e dar · pelle a sua situaÁ„o
 natural.
 
 O methodo de encher as cavidades do corpo, da boca, e dos olhos he
-inteiramente o mesmo que nos quadrupedes. Basta s√≥ advertir, que esta
-prepara√ß√£o das aves requer mais alguma delicadeza, para que fique a sua
+inteiramente o mesmo que nos quadrupedes. Basta sÛ advertir, que esta
+preparaÁ„o das aves requer mais alguma delicadeza, para que fique a sua
 pelle inteira, e todas as pennas limpas e direitas.
 
-Depois de bem concertadas as pennas, se envolver√°√µ estas aves em huma
-tira de panno, principiando pela cabe√ßa; e se accommodar√°√µ entre
+Depois de bem concertadas as pennas, se envolver·ı estas aves em huma
+tira de panno, principiando pela cabeÁa; e se accommodar·ı entre
 materias molles e seccas ensopadas em oleo de therebentina dentro dos
-caix√µes, com todas as mais cautelas, que j√° dissemos.
+caixıes, com todas as mais cautelas, que j· dissemos.
 
-Este methodo de preparar as aves n√£o he facil de praticar-se com algumas
+Este methodo de preparar as aves n„o he facil de praticar-se com algumas
 dellas, principalmente com as pequenas, por causa da delicadeza da sua
-pelle. Neste caso poder√°√µ enviar-se em vasos cheios de licor
+pelle. Neste caso poder·ı enviar-se em vasos cheios de licor
 espirituoso, preparando tudo da mesma sorte, que se disse sobre a
 remessa dos quadrupedes pequenos; e tendo unicamente a advertencia de
-quebrar-lhes o osso do peito, para n√£o ficarem com difformidade, e de as
+quebrar-lhes o osso do peito, para n„o ficarem com difformidade, e de as
 envolver, como acabamos de dizer das aves grandes, com tiras de panno,
-para se n√£o descomporem as suas pennas.
+para se n„o descomporem as suas pennas.
 
-Se a distancia n√£o for muito grande, quaesquer que sej√£o as aves,
-bastar√° que, depois de preparadas pelo ultimo methodo, que acabamos de
-exp√¥r, se lancem de infus√£o pelo espa√ßo de quinze dias em espirito de
-vinho bem forte, em que se tenha dissolvido huma boa por√ß√£o de pedra
-hume e alcanfor. E sem outra maior prepara√ß√£o podem remetter-se com as
-cautelas j√° indicadas.
+Se a distancia n„o for muito grande, quaesquer que sej„o as aves,
+bastar· que, depois de preparadas pelo ultimo methodo, que acabamos de
+expÙr, se lancem de infus„o pelo espaÁo de quinze dias em espirito de
+vinho bem forte, em que se tenha dissolvido huma boa porÁ„o de pedra
+hume e alcanfor. E sem outra maior preparaÁ„o podem remetter-se com as
+cautelas j· indicadas.
 
-Os _√≥vos_, que pela sua raridade devem remetter-se para ornato dos
+Os _Ûvos_, que pela sua raridade devem remetter-se para ornato dos
 Gabinetes, depois de evacuada toda a sua substancia por hum pequeno
-buraco feito de proposito em hum dos seus p√≥los, ou em ambos, se for
-preciso, se acamar√°√µ em bocetas com algod√£o, ou outra materia molle e
-secca, para evitar o perigo de se quebrarem. Os que por√©m se mand√£o para
-fecundarem, antes de se metterem nos caix√µes, se cobrir√°√µ bem de verniz
+buraco feito de proposito em hum dos seus pÛlos, ou em ambos, se for
+preciso, se acamar·ı em bocetas com algod„o, ou outra materia molle e
+secca, para evitar o perigo de se quebrarem. Os que porÈm se mand„o para
+fecundarem, antes de se metterem nos caixıes, se cobrir·ı bem de verniz
 pelo methodo sabido de _Reaumur_.
 
 Os _ninhos_, que pelo seu artificio forem dignos da curiosidade do
-naturalista, se accommodar√°√µ da mesma sorte, e com as mesmas precau√ß√µes
+naturalista, se accommodar·ı da mesma sorte, e com as mesmas precauÁıes
 em bocetas bem tapadas. E para extinguir os insectos, que ordinariamente
-trazem, se metter√°√µ em hum forno, que s√≥ tenha o gr√°o de calor
+trazem, se metter·ı em hum forno, que sÛ tenha o gr·o de calor
 necessario para este effeito; tendo o cuidado de os envolver logo em
 pannos, para impedir novos insectos.
 
 
-_Dos rept√≠s_.
+_Dos reptÌs_.
 
-A prepara√ß√£o de todo o genero de _rept√≠s_, _serpentes_, e _cobras_
-grandes, cuja pelle p√≥de separar-se do corpo, he inteiramente a mesma,
+A preparaÁ„o de todo o genero de _reptÌs_, _serpentes_, e _cobras_
+grandes, cuja pelle pÛde separar-se do corpo, he inteiramente a mesma,
 que a dos quadrupedes de mediana grandeza, tanto no que respeita ao modo
 de os vazar e tornar a encher de materias estranhas, como no que
-pertence ao modo de os accommodar nos caix√µes.
+pertence ao modo de os accommodar nos caixıes.
 
-S√≥ deve advertir-se, que a incis√£o, por onde principi√£o todas as mais
-opera√ß√µes, nos rept√≠s, como o sard√£o e outros, deve fazer-se da parte do
-ventre ao menos desde o meio da cauda at√© o pesco√ßo, conduzindo-a pelo
-interior das coxas e bra√ßos at√© √°s suas articula√ß√µes; e nas cobras
-grandes, como as giboias, se far√° em todo o seu comprimento, por onde as
-escamas das costas se ajunt√£o com as do ventre. Estas se accommodar√°√µ
-nos caix√µes, enrolando-as espiralmente, como ellas muitas vezes fazem,
+SÛ deve advertir-se, que a incis„o, por onde principi„o todas as mais
+operaÁıes, nos reptÌs, como o sard„o e outros, deve fazer-se da parte do
+ventre ao menos desde o meio da cauda atÈ o pescoÁo, conduzindo-a pelo
+interior das coxas e braÁos atÈ ·s suas articulaÁıes; e nas cobras
+grandes, como as giboias, se far· em todo o seu comprimento, por onde as
+escamas das costas se ajunt„o com as do ventre. Estas se accommodar·ı
+nos caixıes, enrolando-as espiralmente, como ellas muitas vezes fazem,
 em quanto vivas.
 
-Os rept√≠s pequenos podem remetter-se em licores espirituosos, em que se
+Os reptÌs pequenos podem remetter-se em licores espirituosos, em que se
 tenha dissolvido bastante quantidade de pedra hume e alcanfor; e tendo o
 cuidado de renovar estes licores ao menos duas vezes antes da remessa.
 
 
 _Dos peixes_.
 
-Aquelles _peixes_, que os Naturalistas cham√£o _cetaceos_, e cujas pelles
-s√£o t√£o fortes, como as dos quadrupedes, podem preparar-se do mesmo modo
-que estes; excepto que a incis√£o se deve fazer na parte inferior por
+Aquelles _peixes_, que os Naturalistas cham„o _cetaceos_, e cujas pelles
+s„o t„o fortes, como as dos quadrupedes, podem preparar-se do mesmo modo
+que estes; excepto que a incis„o se deve fazer na parte inferior por
 todo o seu comprimento, para os evacuar com mais facilidade. Dos peixes,
-que forem demaziadamente grandes, bastar√° mandar as pelles seccas e
+que forem demaziadamente grandes, bastar· mandar as pelles seccas e
 preparadas, como dissemos dos quadrupedes.
 
 Se os peixes, que houverem de se mandar, forem chatos e delgados de
-sorte, que poss√£o seccar-se bem, extrahidas com algum instrumento
+sorte, que poss„o seccar-se bem, extrahidas com algum instrumento
 accommodado as suas entranhas, e lavada bem a cavidade que fica, se
-lan√ßar√°√µ de infus√£o em agoa ardente pelo espa√ßo de doze at√© quinze dias.
-Findos estes, se estender√° o peixe com o lado mais branco para baixo
+lanÁar·ı de infus„o em agoa ardente pelo espaÁo de doze atÈ quinze dias.
+Findos estes, se estender· o peixe com o lado mais branco para baixo
 sobre huma lamina de vidro, ou de madeira bem liza; tendo particular
-cuidado, em que as barbas, cauda e barbatanas fiquem na sua situa√ßao
-natural: e para que estas √° medida, que forem seccando, se n√£o tor√ß√£o, e
-descomponh√£o; depois de concertadas, e em quanto est√£o humidas e com a
-sua c√≥lla natural, se lhe pregar√°√µ pela parte de cima algumas tiras de
-papel, que servir√°√µ para as conservar sempre na mesma posi√ß√£o.
+cuidado, em que as barbas, cauda e barbatanas fiquem na sua situaÁao
+natural: e para que estas · medida, que forem seccando, se n„o torÁ„o, e
+descomponh„o; depois de concertadas, e em quanto est„o humidas e com a
+sua cÛlla natural, se lhe pregar·ı pela parte de cima algumas tiras de
+papel, que servir·ı para as conservar sempre na mesma posiÁ„o.
 
-Feito isto, se expor√° ao calor do Sol, ou a hum vento forte; e passados
-quatro ou sinco dias, se despegar√° o peixe por meio de huma agulha de
+Feito isto, se expor· ao calor do Sol, ou a hum vento forte; e passados
+quatro ou sinco dias, se despegar· o peixe por meio de huma agulha de
 fardo, ou outro instrumento similhante, que mettendo-se entre o peixe e
-a lamina, se fa√ßa caminhar da cabe√ßa at√© √° cauda, para n√£o desconcertar
+a lamina, se faÁa caminhar da cabeÁa atÈ · cauda, para n„o desconcertar
 as barbatanas; o que succederia, conduzindo-se a agulha em sentido
 contrario.
 
-Voltando o peixe com a parte inferior para cima, se expor√° segunda vez
-ao Sol ou ao vento, pelo tempo que for preciso. Repetindo isto, at√© que
-se conhe√ßa estar o peixe perfeitamente secco, se untar√° por f√≥ra com bom
-verniz transparente, e se accommodar√° nos caix√µes com todas as cautelas
-j√° indicadas.
+Voltando o peixe com a parte inferior para cima, se expor· segunda vez
+ao Sol ou ao vento, pelo tempo que for preciso. Repetindo isto, atÈ que
+se conheÁa estar o peixe perfeitamente secco, se untar· por fÛra com bom
+verniz transparente, e se accommodar· nos caixıes com todas as cautelas
+j· indicadas.
 
-Os peixes _escamosos_, que pela muita delicadeza da sua pelle n√£o podem
-fer preparados como os _cetaceos_; nem t√£o pouco pela grande grossura da
-sua carne se podem seccar bem, como os chatos e delgados; se cortar√°√µ em
-duas partes, conduzindo o c√≥rte pelo embigo desde a cabe√ßa at√© √° cauda;
+Os peixes _escamosos_, que pela muita delicadeza da sua pelle n„o podem
+fer preparados como os _cetaceos_; nem t„o pouco pela grande grossura da
+sua carne se podem seccar bem, como os chatos e delgados; se cortar·ı em
+duas partes, conduzindo o cÛrte pelo embigo desde a cabeÁa atÈ · cauda;
 e tendo o cuidado de que todas as barbatanas e a cauda fiquem inteiras e
 pegadas a huma das duas ametades. Esta ametade, que he a que se destina
-para se conservar, se alimpar√° da parte das escamas com o gume de huma
-faca, que a toque levemente, e corra desde a cabe√ßa at√© √° cauda; porque
+para se conservar, se alimpar· da parte das escamas com o gume de huma
+faca, que a toque levemente, e corra desde a cabeÁa atÈ · cauda; porque
 em sentido contrario arrancaria as escamas, em cujas cores e lustre
 consiste hum dos principaes merecimentos dos peixes escamosos.
 
-Com a mesma faca, ou outro qualquer instrumento accommodado, se ir√°
-despegando pouco a pouco toda a carne, at√© que fique s√≥ a pelle com a
-ametade da cabe√ßa pegada. Desta se tirar√° o cerebro que restar, e todas
-as por√ß√µes de ossos, que f√≥rm√£o differentes separa√ß√µes no interior do
-cranio. Tambem se extrahir√° toda a substancia do olho, cuja figura e
+Com a mesma faca, ou outro qualquer instrumento accommodado, se ir·
+despegando pouco a pouco toda a carne, atÈ que fique sÛ a pelle com a
+ametade da cabeÁa pegada. Desta se tirar· o cerebro que restar, e todas
+as porÁıes de ossos, que fÛrm„o differentes separaÁıes no interior do
+cranio. Tambem se extrahir· toda a substancia do olho, cuja figura e
 cores se devem notar, como dissemos, para se supprir depois a sua falta
-com outro artificial. Se a cabe√ßa do peixe for muito curva, se aplanar√°,
+com outro artificial. Se a cabeÁa do peixe for muito curva, se aplanar·,
 pondo-lhe em cima algum pezo; com a advertencia que antes se deve metter
-por baixo e por cima da cabe√ßa alguma materia molle.
+por baixo e por cima da cabeÁa alguma materia molle.
 
-Esta meia pelle assim preparada se pegar√° pela parte interior com a sua
-mesma c√≥lla natural a huma folha de papel; e sua por√£o as barbatanas e
-cauda na sua f√≥rma e situa√ß√£o natural. Depois de bem secca se untar√° com
-verniz transparente, e se metter√° no caix√£o com as precau√ß√µes
+Esta meia pelle assim preparada se pegar· pela parte interior com a sua
+mesma cÛlla natural a huma folha de papel; e sua por„o as barbatanas e
+cauda na sua fÛrma e situaÁ„o natural. Depois de bem secca se untar· com
+verniz transparente, e se metter· no caix„o com as precauÁıes
 necessarias.
 
-Os peixes em fim, que ou pela sua pequenez, ou por outras causas, n√£o
-poderem preparar-se por algum dos modos, que acabamos de exp√¥r, se
-enviar√°√µ em vasos cheios de licores espirituosos, os quaes devem ser
+Os peixes em fim, que ou pela sua pequenez, ou por outras causas, n„o
+poderem preparar-se por algum dos modos, que acabamos de expÙr, se
+enviar·ı em vasos cheios de licores espirituosos, os quaes devem ser
 mais fortes, e renovar-se mais vezes antes da remessa, do que se requer
 para os outros animaes pequenos. He escusado repetirmos aqui tudo o
-mais, que j√° se disse, sobre este genero de remessas de animaes
+mais, que j· se disse, sobre este genero de remessas de animaes
 pequenos.
 
 
 _Dos animaes crustaceos_.
 
-Todos os animaes, a que os Naturalistas d√£o este nome, ou habitem no
-mar, ou nos rios, ou na terra, se prepar√£o do mesmo modo, attendendo
-unicamente √° sua grandeza; segundo a qual podemos dividillos, em quanto
-√° sua prepara√ß√£o, em duas classes, de grandes, e pequenos. Estes, quando
-pela sua pequenez se n√£o puderem evacuar de toda a sua substancia molle
-e corruptivel, ou quando n√£o poss√£o seccar-se sem detrimento sensivel da
-sua f√≥rma e cores naturaes; accommodando primeiro sobre o ventre as suas
-pernas, e dispondo do melhor modo as suas antennas, para se n√£o
-quebrarem, se embrulhar√°√µ, cada hum √° parte, em hum pequeno panno, que
-se envolver√° com hum fio; e assim embrulhados se lan√ßar√°√µ em espirito de
+Todos os animaes, a que os Naturalistas d„o este nome, ou habitem no
+mar, ou nos rios, ou na terra, se prepar„o do mesmo modo, attendendo
+unicamente · sua grandeza; segundo a qual podemos dividillos, em quanto
+· sua preparaÁ„o, em duas classes, de grandes, e pequenos. Estes, quando
+pela sua pequenez se n„o puderem evacuar de toda a sua substancia molle
+e corruptivel, ou quando n„o poss„o seccar-se sem detrimento sensivel da
+sua fÛrma e cores naturaes; accommodando primeiro sobre o ventre as suas
+pernas, e dispondo do melhor modo as suas antennas, para se n„o
+quebrarem, se embrulhar·ı, cada hum · parte, em hum pequeno panno, que
+se envolver· com hum fio; e assim embrulhados se lanÁar·ı em espirito de
 vinho para se remetterem.
 
-Os crustaceos grandes podem mais facilmente evacuar-se; o que se far√°,
-separando a casca, que cobre o corpo, da parte inferior, √° qual fic√£o
-pegadas as pernas, e toda a substancia molle do animal. Esta se tirar√°
-toda do melhor modo possivel; ainda mesmo, a que est√° dentro das pernas,
-sen√£o de todas, ao menos das mais grossas. Lavadas, e bem limpas todas
-as cavidades, que fic√£o depois de extrahida a substancia interior, se
-encher√°√µ com as mesmas materias, que j√° apont√°mos, fallando dos outros
-animaes. Antes de os encaixotar, devem exp√¥r-se ao ar o tempo necessario
-para se seccarem bem. Depois de seccos se accommodar√°√µ em bocetas com
-todas as precau√ß√µes precisas, para que cheguem inteiras todas as suas
-partes, ainda as mais delicadas. Para isso ser√° conveniente, que cada
+Os crustaceos grandes podem mais facilmente evacuar-se; o que se far·,
+separando a casca, que cobre o corpo, da parte inferior, · qual fic„o
+pegadas as pernas, e toda a substancia molle do animal. Esta se tirar·
+toda do melhor modo possivel; ainda mesmo, a que est· dentro das pernas,
+sen„o de todas, ao menos das mais grossas. Lavadas, e bem limpas todas
+as cavidades, que fic„o depois de extrahida a substancia interior, se
+encher·ı com as mesmas materias, que j· apont·mos, fallando dos outros
+animaes. Antes de os encaixotar, devem expÙr-se ao ar o tempo necessario
+para se seccarem bem. Depois de seccos se accommodar·ı em bocetas com
+todas as precauÁıes precisas, para que cheguem inteiras todas as suas
+partes, ainda as mais delicadas. Para isso ser· conveniente, que cada
 hum destes animaes se embrulhe em hum panno, depois de postas na sua
-situa√ß√£o natural todas as pernas, e antennas; e que as bocetas, em que
-h√£o de ser remettidos, tenh√£o capacidade bastante, para n√£o ser
+situaÁ„o natural todas as pernas, e antennas; e que as bocetas, em que
+h„o de ser remettidos, tenh„o capacidade bastante, para n„o ser
 necessario dobrar estas partes mais faceis de quebrar-se.
 
 
@@ -510,494 +510,494 @@ _Dos insectos_.
 No que pertence ao modo de preparar os _insectos_ destinados para o
 Museo, podemos considerallos, a pezar da sua prodigiosa variedade, como
 repartidos em tres classes, a cada huma das quaes compete huma
-prepara√ß√£o particular.
+preparaÁ„o particular.
 
 Todos aquelles insectos, cujo corpo he cercado de huma casca dura, e
-ass√°s forte para conservar depois de secca a sua f√≥rma exterior, se
-metter√°√µ em f√≥rnos, que s√≥ tenh√£o o gr√°o de calor necessario para
+ass·s forte para conservar depois de secca a sua fÛrma exterior, se
+metter·ı em fÛrnos, que sÛ tenh„o o gr·o de calor necessario para
 dissipar toda a humidade interior, sem offensa das partes, que devem
-conservar-se inteiras. O calor do Sol, sendo muito activo, poder√°
-supprir a falta de f√≥rnos, principalmente nos Paizes quentes.
+conservar-se inteiras. O calor do Sol, sendo muito activo, poder·
+supprir a falta de fÛrnos, principalmente nos Paizes quentes.
 
-As borboletas, e algumas especies de moscas, cujas azas imit√£o as das
-borboletas, tambem se prepar√£o do mesmo modo, seccando-as ou em f√≥rnos,
-ou ao calor do Sol. Por√©m, como todo o merecimento destes insectos
+As borboletas, e algumas especies de moscas, cujas azas imit„o as das
+borboletas, tambem se prepar„o do mesmo modo, seccando-as ou em fÛrnos,
+ou ao calor do Sol. PorÈm, como todo o merecimento destes insectos
 consiste na delicadeza de suas azas, e na vivacidade e formosura de suas
-cores, as quaes unicamente nascem de hum p√≥ brilhante que as cobre, e
+cores, as quaes unicamente nascem de hum pÛ brilhante que as cobre, e
 que he muito facil de despegar-se; he preciso mettellas, assim que se
 apanharem, entre duas folhas de papel com as azas bem estendidas; e
-assim mesmo se expor√£o ao calor, mudando de papeis at√© que estej√£o
+assim mesmo se expor„o ao calor, mudando de papeis atÈ que estej„o
 perfeitamente seccas, e em termos de se poderem encaixotar com as
 cautelas necessarias.
 
-Todos os outros insectos, que const√£o de huma substancia molle, e que
+Todos os outros insectos, que const„o de huma substancia molle, e que
 depois de seccos perdem inteiramente a sua primeira figura, e as suas
-cores naturaes, s√≥ podem conservar-se em licores espirituosos pelo mesmo
-methodo, que j√° expuzemos sobre os quadrupedes pequenos.
+cores naturaes, sÛ podem conservar-se em licores espirituosos pelo mesmo
+methodo, que j· expuzemos sobre os quadrupedes pequenos.
 
-N√£o he preciso advertirmos, que a accommoda√ß√£o dos insectos nas bocetas
-requer hum cuidado particular, para se n√£o quebrarem no transporte as
-suas partes mais delicadas, que s√£o as principaes, de que se servem os
+N„o he preciso advertirmos, que a accommodaÁ„o dos insectos nas bocetas
+requer hum cuidado particular, para se n„o quebrarem no transporte as
+suas partes mais delicadas, que s„o as principaes, de que se servem os
 Naturalistas para distinguir as diversas especies.
 
 
-_De outras produc√ß√µes pertencentes ao reino Animal_.
+_De outras producÁıes pertencentes ao reino Animal_.
 
 Debaixo deste titulo comprehendemos todas as especies de animaes de
-conchas, e todas as mais produc√ß√µes, principalmente marinhas, que tem
-algum sentimento de vida, ainda que obscuro. As mais notaveis s√£o as
-_Estrellas do mar_, em que se observ√£o sinaes menos equivocos de
+conchas, e todas as mais producÁıes, principalmente marinhas, que tem
+algum sentimento de vida, ainda que obscuro. As mais notaveis s„o as
+_Estrellas do mar_, em que se observ„o sinaes menos equivocos de
 sensibilidade.
 
-Estas, quando s√£o pequenas, e de pouca grossura, depois de as metter
+Estas, quando s„o pequenas, e de pouca grossura, depois de as metter
 alguns minutos ou em espirito de vinho, ou em agoa fervendo, para
-coagular a substancia interior, de que se comp√µem; se expor√£o pelo tempo
-necessario ao vento, at√© que fiquem perfeitamente seccas, e livres de
-corrup√ß√£o. E cobrindo-as com algum verniz transparente, se encaixotar√°√µ
-com as cautelas j√° sabidas.
+coagular a substancia interior, de que se compıem; se expor„o pelo tempo
+necessario ao vento, atÈ que fiquem perfeitamente seccas, e livres de
+corrupÁ„o. E cobrindo-as com algum verniz transparente, se encaixotar·ı
+com as cautelas j· sabidas.
 
-Mas aquellas, que s√£o maiores, e consideravelmente grossas, nunca
-poder√°√µ seccar-se de modo, que escapem de corrup√ß√£o. Ser√° preciso
-extrahir-lhe huma especie de carne, ou parenchyma, de que est√£o cheias;
+Mas aquellas, que s„o maiores, e consideravelmente grossas, nunca
+poder·ı seccar-se de modo, que escapem de corrupÁ„o. Ser· preciso
+extrahir-lhe huma especie de carne, ou parenchyma, de que est„o cheias;
 e depois seccar e envernizar as suas pelles, como fica dito.
 
-Para fazer com mais facilidade a extrac√ß√£o desta substancia interior, se
-far√° no centro, onde se unem as pernas ou raios das estrellas marinhas,
-da parte das costas, huma incis√£o circular, mas incompleta, para que
-fique pegada ao resto do corpo esta por√ß√£o de pelle, que se corta. Por
-este buraco se extrahir√° por meio de algum instrumento de ferro curvo,
+Para fazer com mais facilidade a extracÁ„o desta substancia interior, se
+far· no centro, onde se unem as pernas ou raios das estrellas marinhas,
+da parte das costas, huma incis„o circular, mas incompleta, para que
+fique pegada ao resto do corpo esta porÁ„o de pelle, que se corta. Por
+este buraco se extrahir· por meio de algum instrumento de ferro curvo,
 que se introduza pelo interior de cada huma das pernas, toda a
 substancia corruptivel.
 
-Deve por√©m advertir-se, que, para ficarem depois de seccas na sua
-posi√ß√£o natural todas as estrellas marinhas, tanto as grandes como as
-pequenas, he preciso, que logo depois de apanhadas, e em quanto est√£o
-vivas, se ponh√£o com o ventre para baixo em cima de huma meza; pela qual
-ellas mesmas por si estender√°√µ as suas pernas at√© ficarem na suas
-postura natural. Nesta mesma postura se deixar√°√µ por espa√ßo de tres ou
-quatro dias, at√© se conhecer que est√£o mortas, para continuar as
-opera√ß√µes, que acabamos de exp√¥r.
+Deve porÈm advertir-se, que, para ficarem depois de seccas na sua
+posiÁ„o natural todas as estrellas marinhas, tanto as grandes como as
+pequenas, he preciso, que logo depois de apanhadas, e em quanto est„o
+vivas, se ponh„o com o ventre para baixo em cima de huma meza; pela qual
+ellas mesmas por si estender·ı as suas pernas atÈ ficarem na suas
+postura natural. Nesta mesma postura se deixar·ı por espaÁo de tres ou
+quatro dias, atÈ se conhecer que est„o mortas, para continuar as
+operaÁıes, que acabamos de expÙr.
 
-Todos os animaes marinhos, que s√£o guarnecidos de muitos espinhos
-agudos, delicados e duros, se prepar√£o, extrahindo com hum arame curvo
+Todos os animaes marinhos, que s„o guarnecidos de muitos espinhos
+agudos, delicados e duros, se prepar„o, extrahindo com hum arame curvo
 na ponta por huma abertura natural, que todos tem pela parte inferior, a
-substancia molle que est√° dentro da concha; cuja cavidade se lavar√° bem
+substancia molle que est· dentro da concha; cuja cavidade se lavar· bem
 com agoa ardente; e depois de tudo estar perfeitamente secco, se
-accommodar√° cada huma destas pe√ßas na sua boceta com algod√£o, observando
-todas as mais cautelas necessarias, para que no transporte se n√£o
+accommodar· cada huma destas peÁas na sua boceta com algod„o, observando
+todas as mais cautelas necessarias, para que no transporte se n„o
 quebrem os seus espinhos.
 
-Todo o genero de conchas ou univalves, ou polyvalves s√£o dignas de se
-conservarem nos Gabinetes. N√£o se devem mandar as que se apanh√£o nas
-costas do mar, que as ondas lan√ß√£o em terra, as quaes com a cont√≠nua
-fric√ß√£o da ar√™a fic√£o ro√ßadas, e sem huma grande parte do seu
-merecimento natural. Por isso o mais seguro he mandar s√≥ aquellas, que
-se apanh√£o com o seu verme ainda vivo, o qual com hum alfinete, ou com
-hum arame facilmente se tira, depois de ter lan√ßado a concha em agoa
+Todo o genero de conchas ou univalves, ou polyvalves s„o dignas de se
+conservarem nos Gabinetes. N„o se devem mandar as que se apanh„o nas
+costas do mar, que as ondas lanÁ„o em terra, as quaes com a contÌnua
+fricÁ„o da arÍa fic„o roÁadas, e sem huma grande parte do seu
+merecimento natural. Por isso o mais seguro he mandar sÛ aquellas, que
+se apanh„o com o seu verme ainda vivo, o qual com hum alfinete, ou com
+hum arame facilmente se tira, depois de ter lanÁado a concha em agoa
 fervendo. Deste verme basta que se mande o desenho, se houver quem o
-fa√ßa: e para o fazer, se metter√° a concha, em quanto o seu verme est√°
+faÁa: e para o fazer, se metter· a concha, em quanto o seu verme est·
 vivo, em hum vaso cheio de agoa do mar, se ella for marinha, ou de agoa
-doce, se ella for fluvial; porque ent√£o sahe o verme todo f√≥ra da
+doce, se ella for fluvial; porque ent„o sahe o verme todo fÛra da
 concha, e dilata ao natural todas as suas partes de sorte que com muita
-facilidade se p√≥de desenhar: nas conchas terrestres ser√° preciso
+facilidade se pÛde desenhar: nas conchas terrestres ser· preciso
 esperar, que o animal saha por si mesmo para se poder tirar o seu
 desenho.
 
-Depois de bem seccas as conchas, se embrulhar√° cada huma delias em hum
-pouco de algod√£o, segurando-o por f√≥ra com hum fio; e se accommodar√°√µ
-com diversas camadas do mesmo algod√£o dentro das bocetas, em que devem
+Depois de bem seccas as conchas, se embrulhar· cada huma delias em hum
+pouco de algod„o, segurando-o por fÛra com hum fio; e se accommodar·ı
+com diversas camadas do mesmo algod„o dentro das bocetas, em que devem
 remetter-se com todas as mais cautelas.
 
-Deve advertir-se a respeito de todas as produc√ß√≥es do mar, que antes de
+Deve advertir-se a respeito de todas as producÁÛes do mar, que antes de
 as seccar, para se remetterem, he preciso lavallas em agoa doce; porque
-o sal marinho attrahe muito a humidade, de que p√≥de originar-se
-corrup√ß√£o.
+o sal marinho attrahe muito a humidade, de que pÛde originar-se
+corrupÁ„o.
 
 
 
 
-*¬ß. II.*
+*ß. II.*
 
 
 _Das remessas dos Vegetaes_.
 
-Como estas instruc√ß√µes n√£o tem por objecto formar hum Jardim Botanico;
+Como estas instrucÁıes n„o tem por objecto formar hum Jardim Botanico;
 mas unicamente enriquecer hum Museo Nacional, seria superfluo apontarmos
 o methodo de transportar as arvores e plantas de Paizes Estrangeiros
 para as transplantar nos nossos terrenos; materia que tem sido
 admiravelmente tratada por muitos Naturalistas deste seculo; e que a
-Academia, se o julgar necessario, reduzir√° a instruc√ß√µes compendiosas em
-outro papel √° parte. Por ora s√≥ se trata do modo mais facil de remetter
-as plantas seccas com todas as partes, que as caracteriz√£o.
+Academia, se o julgar necessario, reduzir· a instrucÁıes compendiosas em
+outro papel · parte. Por ora sÛ se trata do modo mais facil de remetter
+as plantas seccas com todas as partes, que as caracteriz„o.
 
-Para este fim se colher√°√µ as plantas pequenas com raiz, tronco, folhas,
-flores e frutos. Das plantas, que n√£o produzem no mesmo tempo as flores
-e os frutos, se colher√°√µ dois p√©s, cada qual tenha huma das duas coisas.
-Das arvores, arbustos e plantas maiores bastar√° colher hum ou dois dos
+Para este fim se colher·ı as plantas pequenas com raiz, tronco, folhas,
+flores e frutos. Das plantas, que n„o produzem no mesmo tempo as flores
+e os frutos, se colher·ı dois pÈs, cada qual tenha huma das duas coisas.
+Das arvores, arbustos e plantas maiores bastar· colher hum ou dois dos
 ramos mais tenros com o seu fruto, e com as suas flores. Quando succeda
-n√£o se poder enviar todas estas partes juntas, se enviar√°√µ separadas;
+n„o se poder enviar todas estas partes juntas, se enviar·ı separadas;
 com tanto que se declare, a que planta pertence cada huma dellas.
 
 Para se seccarem estes ramos, ou plantas inteiras, depois de se
 estenderem perfeitamente todas as suas folhas entre dois papeis pardos,
-se comprimir√°√µ em huma imprensa, ou debaixo de huma taboa carregada de
-pezos, mudando de papeis huma ou duas vezes no dia, at√© que esteja de
-todo extrahida a sua humidade. Para maior seguran√ßa, depois desta
-opera√ß√£o, ser√° conveniente exp√¥r por algum tempo ao calor do Sol estas
-plantas, quando se tir√£o a ultima vez da imprensa.
+se comprimir·ı em huma imprensa, ou debaixo de huma taboa carregada de
+pezos, mudando de papeis huma ou duas vezes no dia, atÈ que esteja de
+todo extrahida a sua humidade. Para maior seguranÁa, depois desta
+operaÁ„o, ser· conveniente expÙr por algum tempo ao calor do Sol estas
+plantas, quando se tir„o a ultima vez da imprensa.
 
-Feito isto, se estender√°√µ segunda vez os individuos de cada especie
-separadamente em diversos papeis, os quaes se acamar√°√µ em caixas de
+Feito isto, se estender·ı segunda vez os individuos de cada especie
+separadamente em diversos papeis, os quaes se acamar·ı em caixas de
 folha de Flandres, e na falta destas em bocetas bem tapadas do modo, que
-j√° se tem advertido sobre as outras remessas; n√£o esquecendo introduzir
+j· se tem advertido sobre as outras remessas; n„o esquecendo introduzir
 dentro dellas algumas drogas de cheiro forte e penetrante, como
 alcanfor, ou tabaco de fumo.
 
 Ha algumas arvores, e ainda mesmo plantas pequenas, cujas folhas,
-frutos, e flores s√£o t√£o espe√ßos e succulentos, que n√£o podem seccar-se
-pelo methodo exposto, sem que fiquem inteiramente desfigurados. Estes s√≥
+frutos, e flores s„o t„o espeÁos e succulentos, que n„o podem seccar-se
+pelo methodo exposto, sem que fiquem inteiramente desfigurados. Estes sÛ
 podem conservar-se, e remetter-se em vasos cheios de agoa ardente com as
-cautelas j√° indicadas para outras remessas similhantes.
+cautelas j· indicadas para outras remessas similhantes.
 
 Aquelles frutos, que pela sua natural dureza se podem conservar muito
-tempo sem corrup√ß√£o, se colher√°√µ maduros, e se expor√°√µ algum tempo ao
+tempo sem corrupÁ„o, se colher·ı maduros, e se expor·ı algum tempo ao
 calor do Sol, para se acabar de evaporar algum resto de humidade; e
-depois se metter√°√µ nas caixas, em que devem enviar-se.
+depois se metter·ı nas caixas, em que devem enviar-se.
 
 Do mesmo modo se podem remetter algumas raizes _tuberculosas_, e que se
-conserv√£o muito tempo sem corrup√ß√£o, como o _gingibre_, _curcuma_,
-_amomum_, e outras. A esta√ß√£o mais favoravel de as tirar da terra nos
+conserv„o muito tempo sem corrupÁ„o, como o _gingibre_, _curcuma_,
+_amomum_, e outras. A estaÁ„o mais favoravel de as tirar da terra nos
 paizes temperados he a da Primavera, ou os fins do Outono. Escolhendo-se
-as mais fortes, se por√£o em algum lugar enxuto √° sombra at√© se evaporar
-a sua primeira humidade; e se metter√°√µ depois em caix√µes com ar√™a bem
+as mais fortes, se por„o em algum lugar enxuto · sombra atÈ se evaporar
+a sua primeira humidade; e se metter·ı depois em caixıes com arÍa bem
 secca, para se remetterem.
 
 Todo o genero de plantas _bulbosas_, que ou pela sua dureza, ou pela
-casca, que as veste, se conserv√£o com mais facilidade sem corrup√ß√£o, se
-prepar√£o da mesma sorte, que as raizes _tuberculosas_.
+casca, que as veste, se conserv„o com mais facilidade sem corrupÁ„o, se
+prepar„o da mesma sorte, que as raizes _tuberculosas_.
 
-N√£o se faz preciso advertir o methodo de enviar as diversas especies de
-balsamos, rezinas, gommas, e outras produc√ß√µes similhantes, que
-pertencem ao reino vegetal, ou sej√£o solidas ou l√≠quidas; porque s√£o bem
-conhecidas no commercio, e j√° a experiencia tem mostrado o melhor modo
+N„o se faz preciso advertir o methodo de enviar as diversas especies de
+balsamos, rezinas, gommas, e outras producÁıes similhantes, que
+pertencem ao reino vegetal, ou sej„o solidas ou lÌquidas; porque s„o bem
+conhecidas no commercio, e j· a experiencia tem mostrado o melhor modo
 de fazer as suas remessas.
 
-Tambem merecem entrar nas collec√ß√µes proprias de hum Museo as diversas
+Tambem merecem entrar nas collecÁıes proprias de hum Museo as diversas
 cascas, que vestem os troncos das arvores, principalmente as que tem
 algum uso nas Artes; como tambem as amostras de madeiras, que se fazem
-notaveis, ou pelo polido, de que s√£o susceptiveis, ou pela singular
+notaveis, ou pelo polido, de que s„o susceptiveis, ou pela singular
 contextura de suas partes, ou pela variedade de suas cores, ou por outra
-qualquer qualidade, e particularmente pela utilidade, que dellas se p√≥de
-tirar para as manufacturas, e usos da Sociedade. Este genero de pe√ßas he
+qualquer qualidade, e particularmente pela utilidade, que dellas se pÛde
+tirar para as manufacturas, e usos da Sociedade. Este genero de peÁas he
 facil de remetter-se de modo, que cheguem sem damno ao lugar do seu
 destino.
 
-Tudo o que p√≥de dizer-se sobre as remessas das _sementes_, se reduz a
-n√£o as colher, sen√£o depois de maduras; e a mettellas, estando bem
-enxutas, com musgo fresco, e pouco calcado, ou com ar√™a bem secca e
-miuda dentro dos caix√µes, em que se h√£o de remetter. As sementes grandes
-tambem se podem cobrir de c√™ra derretida em hum pouco de oleo de
-therebentina, tendo a cautela de deixar primeiro esfriar esta untura at√©
-o ponto, em que o calor n√£o possa causar-lhe damno.
+Tudo o que pÛde dizer-se sobre as remessas das _sementes_, se reduz a
+n„o as colher, sen„o depois de maduras; e a mettellas, estando bem
+enxutas, com musgo fresco, e pouco calcado, ou com arÍa bem secca e
+miuda dentro dos caixıes, em que se h„o de remetter. As sementes grandes
+tambem se podem cobrir de cÍra derretida em hum pouco de oleo de
+therebentina, tendo a cautela de deixar primeiro esfriar esta untura atÈ
+o ponto, em que o calor n„o possa causar-lhe damno.
 
 Seja qual for o modo de preparar, e remetter as sementes, deve
 indispensavelmente advertir-se, que cada huma das diversas especies
-necessariamente ha de vir separada da outra, de forte que se n√£o
-confund√£o. N√£o usando da mistura de musgo, ou ar√™a, podem remetter-se,
-para evitar esta confus√£o, cada huma das especies de sementes embrulhada
-√° parte em hum papel encerado; observando na sua accommoda√ß√£o dentro das
-bocetas as precau√ß√µes necessarias, para que cheguem inteiras.
+necessariamente ha de vir separada da outra, de forte que se n„o
+confund„o. N„o usando da mistura de musgo, ou arÍa, podem remetter-se,
+para evitar esta confus„o, cada huma das especies de sementes embrulhada
+· parte em hum papel encerado; observando na sua accommodaÁ„o dentro das
+bocetas as precauÁıes necessarias, para que cheguem inteiras.
 
 Como huma grande parte das sementes amadurece dentro de _capsulas_, em
-que mais facilmente se conserv√£o, ser√° conveniente, e n√£o menos commodo
+que mais facilmente se conserv„o, ser· conveniente, e n„o menos commodo
 mandar estas mesmas capsulas com a sua semente; accommodando-as nas
 bocetas do mesmo modo que fica dito.
 
 
 
 
-*¬ß. III*
+*ß. III*
 
 
 _Das remessas dos Mineraes_.
 
-Os productos do reino mineral s√£o os que menos cautelas requerem, para
+Os productos do reino mineral s„o os que menos cautelas requerem, para
 chegarem sem damno. A maior difficuldade consiste em conhecellos, e
-saber procurallos. No que respeita √°s suas remessas, que he o unico
-objecto destas Instruc√ß√µes, podemos dividillos em _terras_, _pedras_, e
-_foss√≠s_.
+saber procurallos. No que respeita ·s suas remessas, que he o unico
+objecto destas InstrucÁıes, podemos dividillos em _terras_, _pedras_, e
+_fossÌs_.
 
 As diversas especies de terra podem remetter-se em pequenos saccos
 differentes; mandando maior quantidade daquella, em que se sentir algum
-sabor salino, ou cheiro, ou outra propriedade, que a fa√ßa notavel,
-principalmente pelo uso, que p√≥de ter nas Artes.
+sabor salino, ou cheiro, ou outra propriedade, que a faÁa notavel,
+principalmente pelo uso, que pÛde ter nas Artes.
 
-Das pedras, ou sej√£o de banco, ou vagas, devem mandar-se particularmente
-as que tiverem alguma raridade, ou pelos saes, que contenh√£o, ou pela
-sua c√¥r, dureza, figura, transparencia, &c., como s√£o os crystaes,
-agathas, marmores, congela√ß√µes, amiantos, &c.
+Das pedras, ou sej„o de banco, ou vagas, devem mandar-se particularmente
+as que tiverem alguma raridade, ou pelos saes, que contenh„o, ou pela
+sua cÙr, dureza, figura, transparencia, &c., como s„o os crystaes,
+agathas, marmores, congelaÁıes, amiantos, &c.
 
-As amostras de todo o genero de foss√≠s, que puderem ajuntar-se, s√£o
+As amostras de todo o genero de fossÌs, que puderem ajuntar-se, s„o
 dignas da curiosidade do Filosofo, e conseguintemente merecem ser
 conservadas em hum Museo. Por isso recommenda-se aos Correspondentes,
 que de todos os differentes metaes, ainda dos vulgares, de todo o genero
-de petrifica√ß√µes, crystalliza√ß√µes, bitumes foss√≠s, lavas, pyrites, &c.
-remett√£o os exemplares, que lhes for possivel ajuntar.
+de petrificaÁıes, crystallizaÁıes, bitumes fossÌs, lavas, pyrites, &c.
+remett„o os exemplares, que lhes for possivel ajuntar.
 
 Todos estes exemplares de qualquer dos tres generos, de terras, pedras e
-foss√≠s, devem remetter-se em caix√µes separados, podendo ser, para evitar
-confus√£o; e embrulhados √° parte com numeros differentes, que
-correspond√£o aos numeros da rela√ß√£o, de que adiante fallaremos.
+fossÌs, devem remetter-se em caixıes separados, podendo ser, para evitar
+confus„o; e embrulhados · parte com numeros differentes, que
+correspond„o aos numeros da relaÁ„o, de que adiante fallaremos.
 
-Accommodar-se-h√£o nas caixas, ou bocetas de modo, que o movimento do
-transporte lhes n√£o cause algum damno; e se observar√°√µ as mais cautelas
-necessarias, para que a humidade os n√£o prejudique.
+Accommodar-se-h„o nas caixas, ou bocetas de modo, que o movimento do
+transporte lhes n„o cause algum damno; e se observar·ı as mais cautelas
+necessarias, para que a humidade os n„o prejudique.
 
 Entre as diferentes e quasi infinitas especies de individuos, que a
-natureza produz no seio do mar, ha algumas, que f√≥rm√£o em certo modo
-huma classe √° parte; e que por essa mesma causa parece n√£o devi√£o
-confundir-se com as outras produc√ß√µes pertencentes aos tres reinos. Esta
-s√£o as _Madreporas_, _Coraes_, _Lithofytos_, &c. que alguns illudidos
-com a f√≥rma, exterior reduzir√£o √° classe das plantas marinhas; e outros,
-attendendo √° sua dureza, julg√°r√£o ser especie de pedras.
+natureza produz no seio do mar, ha algumas, que fÛrm„o em certo modo
+huma classe · parte; e que por essa mesma causa parece n„o devi„o
+confundir-se com as outras producÁıes pertencentes aos tres reinos. Esta
+s„o as _Madreporas_, _Coraes_, _Lithofytos_, &c. que alguns illudidos
+com a fÛrma, exterior reduzir„o · classe das plantas marinhas; e outros,
+attendendo · sua dureza, julg·r„o ser especie de pedras.
 
-Todas estas produc√ß√µes se fazem dignas da curiosidade dos Naturalistas,
-pela grande variedade da figura e disposi√ß√£o de seus ramos, e por outras
-particularidades n√£o menos admiraveis. Por isso devem escolher-se as que
+Todas estas producÁıes se fazem dignas da curiosidade dos Naturalistas,
+pela grande variedade da figura e disposiÁ„o de seus ramos, e por outras
+particularidades n„o menos admiraveis. Por isso devem escolher-se as que
 forem mais inteiras, e tiverem maior numero de ramos. E, como muitas
-vezes sahem pegadas a peda√ßos de r√≥cha, e entrela√ßadas humas com outras,
+vezes sahem pegadas a pedaÁos de rÛcha, e entrelaÁadas humas com outras,
 assim mesmo se devem remetter; porque estas circumstancias accidentaes
-s√£o igualmente dignas da atten√ß√£o do Filosofo.
+s„o igualmente dignas da attenÁ„o do Filosofo.
 
-Como por√©m nenhuma destas substancias he sujeita a corrup√ß√£o, basta que
-se accommodem nos caix√µes cercadas de materias molles, e seguras com
-travessas de madeira, para se n√£o quebrarem com o movimento.
+Como porÈm nenhuma destas substancias he sujeita a corrupÁ„o, basta que
+se accommodem nos caixıes cercadas de materias molles, e seguras com
+travessas de madeira, para se n„o quebrarem com o movimento.
 
-Estas singulares produc√ß√µes n√£o s√£o mais, que huma collec√ß√£o de pequenas
+Estas singulares producÁıes n„o s„o mais, que huma collecÁ„o de pequenas
 casas habitadas por animaes do genero dos polypos, os quaes se
-multiplic√£o huns sobre os outros de hum modo analogo, ao modo com que
+multiplic„o huns sobre os outros de hum modo analogo, ao modo com que
 crescem os ramos das plantas. Para haver estes animaes, e podellos
-enviar √° parte, se metter√°√µ logo, apenas se tirarem do mar, as massas
-duras, que os cont√©m, em vasos cheios da mesma agoa do mar, que seja bem
+enviar · parte, se metter·ı logo, apenas se tirarem do mar, as massas
+duras, que os contÈm, em vasos cheios da mesma agoa do mar, que seja bem
 pura. Passada huma hora pouco mais ou menos, com o soccorro de huma
-lente, se for necessario, se divisar√°√µ parte de cada hum dos animaes,
-f√≥ra de suas pequenas grutas. N√£o se deixar√° escapar este momento; e com
-algum instrumento, ou com os mesmos dedos, se prender√° o animal; e
-arrancando-o precipitadamente do seu aposento, se lan√ßar√° logo em
-espirito de vinho, que deve estar prompto, para que elle n√£o tenha tempo
-de se contrahir, e perder a sua f√≥rma natural antes de morrer. No mesmo
+lente, se for necessario, se divisar·ı parte de cada hum dos animaes,
+fÛra de suas pequenas grutas. N„o se deixar· escapar este momento; e com
+algum instrumento, ou com os mesmos dedos, se prender· o animal; e
+arrancando-o precipitadamente do seu aposento, se lanÁar· logo em
+espirito de vinho, que deve estar prompto, para que elle n„o tenha tempo
+de se contrahir, e perder a sua fÛrma natural antes de morrer. No mesmo
 espirito de vinho se podem conservar estes pequenos animaes, assim como
-todo o genero de polypos: e as suas remessas se far√£o do mesmo modo, e
-com as mesmas cautelas, que j√° se advert√≠r√£o, fallando dos insectos.
+todo o genero de polypos: e as suas remessas se far„o do mesmo modo, e
+com as mesmas cautelas, que j· se advertÌr„o, fallando dos insectos.
 
-Ha outras produc√ß√µes marinhas al√©m das sobreditas, que pela sua figura,
-miudeza, e flexibilidade de seus ramos se equivoc√£o mais com as plantas.
-Os Botanistas lhes d√£o vulgarmente o nome de musgos marinhos, ou
-corallinas. Para as remetter, basta lavallas em agoa doce at√© dep√¥rem
+Ha outras producÁıes marinhas alÈm das sobreditas, que pela sua figura,
+miudeza, e flexibilidade de seus ramos se equivoc„o mais com as plantas.
+Os Botanistas lhes d„o vulgarmente o nome de musgos marinhos, ou
+corallinas. Para as remetter, basta lavallas em agoa doce atÈ depÙrem
 todo o sal marinho; e depois de bem seccas accommodallas em bocetas em
-differentes papeis com todas as mais precau√ß√µes j√° expostas sobre as
+differentes papeis com todas as mais precauÁıes j· expostas sobre as
 remessas das plantas terrestres.
 
-Como por√©m estas mesmas corallinas pelas ultimas observa√ß√µes se tem
-conhecido constarem de pequenas casas, em que habit√£o animaes, da mesma
+Como porÈm estas mesmas corallinas pelas ultimas observaÁıes se tem
+conhecido constarem de pequenas casas, em que habit„o animaes, da mesma
 sorte que as madreporas; far-se-ha tudo, o que acima advertimos, para
 separar, conservar, e enviar estes animaes. He preciso advertir, que
-devem remetter-se em vasos differentes os animaes, que se tir√£o de
-differentes substancias, para se n√£o confundirem as suas especies, as
-quaes differem entre si conforme a differen√ßa das massas, em que se
-ach√£o.
+devem remetter-se em vasos differentes os animaes, que se tir„o de
+differentes substancias, para se n„o confundirem as suas especies, as
+quaes differem entre si conforme a differenÁa das massas, em que se
+ach„o.
 
-Al√©m de todas estas produc√ß√µes marinhas ha outras muitas, que n√£o s√≥ tem
-a f√≥rma exterior de plantas, mas que verdadeiramente o s√£o, como o
-sarga√ßo, e outras. Estas, como j√° advertimos, devem lavar-se primeiro em
-agoa doce; e depois de bem seccas, se encaixotar√°√µ, como as outras
+AlÈm de todas estas producÁıes marinhas ha outras muitas, que n„o sÛ tem
+a fÛrma exterior de plantas, mas que verdadeiramente o s„o, como o
+sargaÁo, e outras. Estas, como j· advertimos, devem lavar-se primeiro em
+agoa doce; e depois de bem seccas, se encaixotar·ı, como as outras
 plantas, ou como as borboletas, se forem demaziadamente delicadas.
 
-As esponjas marinhas, cuja natureza ainda n√£o he bastantemente conhecida
-por falta de observa√ß√µes, mas que facilmente se distinguem das outras
-especies pela sua f√≥rma exterior, merecem tambem ser conservadas nos
+As esponjas marinhas, cuja natureza ainda n„o he bastantemente conhecida
+por falta de observaÁıes, mas que facilmente se distinguem das outras
+especies pela sua fÛrma exterior, merecem tambem ser conservadas nos
 Gabinetes. Depois de lavadas em agoa doce, e estando bem enxutas e
-seccas, se accommodar√°√µ nos caix√µes com algod√£o, sarga√ßo ou estopa, sem
+seccas, se accommodar·ı nos caixıes com algod„o, sargaÁo ou estopa, sem
 as comprimir muito; e observando as mais advertencias, que temos feito
-sobre a prepara√ß√£o exterior das caixas, em que se remettem os mais
+sobre a preparaÁ„o exterior das caixas, em que se remettem os mais
 productos da natureza.
 
-Parece escusado dar instruc√ß√µes sobre as remessas de algumas obras de
+Parece escusado dar instrucÁıes sobre as remessas de algumas obras de
 artificio dos naturaes do paiz, como de seus vestidos, armas,
 instrumentos, &c.; porque todos conhecem, como estas e outras coisas
 similhantes devem remetter-se de sorte que cheguem bem condicionadas.
 Aquellas obras, que constarem de coisas meramente naturaes, e cujo unico
-artificio consista na sua diversa disposi√ß√£o, como s√£o algumas carapu√ßas
-e cinturas de pennas de diversas cores, de que us√£o alguns p√≥vos da
-Africa e America, se remetter√°√µ com as cautelas, que deixamos apontadas
-sobre as remessas das mesmas produc√ß√µes naturaes, de que s√£o compostas.
+artificio consista na sua diversa disposiÁ„o, como s„o algumas carapuÁas
+e cinturas de pennas de diversas cores, de que us„o alguns pÛvos da
+Africa e America, se remetter·ı com as cautelas, que deixamos apontadas
+sobre as remessas das mesmas producÁıes naturaes, de que s„o compostas.
 
-Finalmente as instruc√ß√µes antecedentes poder√°√µ accommodar-se a alguns
-productos, de que aqui se n√£o faz men√ß√£o, conhecida a sua natureza, e a
+Finalmente as instrucÁıes antecedentes poder·ı accommodar-se a alguns
+productos, de que aqui se n„o faz menÁ„o, conhecida a sua natureza, e a
 classe a que pertencem.
 
 
 
 
-*¬ß. IV.*
+*ß. IV.*
 
 
-_Das noticias pertencentes √° Historia Natural_.
+_Das noticias pertencentes · Historia Natural_.
 
 As noticias, de que devem incumbir-se os Correspondentes da Academia, ou
-dizem rela√ß√£o immediata aos productos da natureza, que remettem para o
+dizem relaÁ„o immediata aos productos da natureza, que remettem para o
 Museo; ou tem por objecto as coisas mais notaveis e curiosas do terreno,
-em que se ach√£o os ditos productos, e os costumes dos povos que o
-habit√£o.
+em que se ach„o os ditos productos, e os costumes dos povos que o
+habit„o.
 
-Em quanto √° primeira parte, que he a mais indispensavel, recommenda-se
-aos mesmos Correspondentes, que dentro de cada hum dos caix√µes, ou
-bocetas mandem huma rela√ß√£o exacta de todas as coisas que cont√©m.
+Em quanto · primeira parte, que he a mais indispensavel, recommenda-se
+aos mesmos Correspondentes, que dentro de cada hum dos caixıes, ou
+bocetas mandem huma relaÁ„o exacta de todas as coisas que contÈm.
 Suppondo que cada huma das especies vem accommodadas separadamente, e
-distintas com numeros diversos, na rela√ß√£o debaixo dos mesmos numeros
-respectivos se declarar√° 1.¬∞ o nome tanto indigeno, como estrangeiro da
-dita especie, e o nome com que a costum√£o distinguir os Naturalistas.
-2.¬∞ Notar-se-h√£o todas as suas qualidades mais attendiveis, e
+distintas com numeros diversos, na relaÁ„o debaixo dos mesmos numeros
+respectivos se declarar· 1.∞ o nome tanto indigeno, como estrangeiro da
+dita especie, e o nome com que a costum„o distinguir os Naturalistas.
+2.∞ Notar-se-h„o todas as suas qualidades mais attendiveis, e
 particularmente as menos conhecidas. A respeito dos animaes, que
-remette, expressar√° todos os factos constantes e uniformes, que
+remette, expressar· todos os factos constantes e uniformes, que
 distinguem mutuamente as differentes especies, como he tudo, o que
-pertence √° sua gera√ß√£o, lugares que habit√£o, tempo de coito e de parto,
-instinto, artificios, alimentos, doen√ßas, dura√ß√£o, &c.; mas com mais
-particularidade se demorar√° sobre as utilidades, que do uso delles p√≥de
-resultar para a vida humana. Na rela√ß√£o das qualidades dos vegetaes
-declarar√° os lugares do seu nascimento, a esta√ß√£o propria da sua
-planta√ß√£o, o tempo da sua frutifica√ß√£o, os usos, que a experiencia tiver
+pertence · sua geraÁ„o, lugares que habit„o, tempo de coito e de parto,
+instinto, artificios, alimentos, doenÁas, duraÁ„o, &c.; mas com mais
+particularidade se demorar· sobre as utilidades, que do uso delles pÛde
+resultar para a vida humana. Na relaÁ„o das qualidades dos vegetaes
+declarar· os lugares do seu nascimento, a estaÁ„o propria da sua
+plantaÁ„o, o tempo da sua frutificaÁ„o, os usos, que a experiencia tiver
 mostrado se podem fazer delles para o alimento, para a medicina, e para
 todas as mais Artes. Entre as qualidades finalmente dos mineraes, de que
-mandar as amostras, n√£o se esquecer√° o Correspondente de expressar os
-lugares, em que se ach√£o, a profundidade de seus veios, a natureza dos
-terrenos circumvizinhos, e os usos, que j√° tem no paiz, e os que podem
+mandar as amostras, n„o se esquecer· o Correspondente de expressar os
+lugares, em que se ach„o, a profundidade de seus veios, a natureza dos
+terrenos circumvizinhos, e os usos, que j· tem no paiz, e os que podem
 ter na Sociedade.
 
 Se acaso se remetterem algumas obras de artificio dos naturaes do paiz,
-devem da mesma sorte vir numeradas, e acompanhadas de huma rela√ß√£o, em
-que se d√™ huma noticia circumstanciada dos seus nomes, e usos que lhes
-d√£o os mesmos p√≥vos, que dellas se servem.
+devem da mesma sorte vir numeradas, e acompanhadas de huma relaÁ„o, em
+que se dÍ huma noticia circumstanciada dos seus nomes, e usos que lhes
+d„o os mesmos pÛvos, que dellas se servem.
 
-Al√©m destas rela√ß√µes particulares, que devem enviar-se dentro dos mesmos
-caix√µes das remessas, ser√° conveniente que se mande √° parte huma rela√ß√£o
+AlÈm destas relaÁıes particulares, que devem enviar-se dentro dos mesmos
+caixıes das remessas, ser· conveniente que se mande · parte huma relaÁ„o
 geral, que as comprehenda todas pela ordem dos tres reinos da Natureza.
-Desta deixar√° o Correspondente huma copia fiel na sua m√£o, para n√£o
+Desta deixar· o Correspondente huma copia fiel na sua m„o, para n„o
 remetter segunda vez exemplares da mesma especie, ou para remetter
 novamente os que se lhe pedirem.
 
-Estas noticias particulares, de que acabamos de fallar, s√≥ servem para
-dar a conhecer os exemplares que se remettem; e como n√£o interessa menos
+Estas noticias particulares, de que acabamos de fallar, sÛ servem para
+dar a conhecer os exemplares que se remettem; e como n„o interessa menos
 conhecer o paiz que os produz, recommenda-se aos Correspondentes, que
-mandem tambem huma descrip√ß√£o Geografica delle, que comprehenda com a
-exac√ß√£o possivel tudo o que tiverem observado, e lhes parecer mais digno
-da atten√ß√£o de hum Filosofo. E para procederem sem confus√£o, podem
-ajuntar debaixo de differentes titulos as suas observa√ß√µes; separando v.
-g. as que pertencem √° terra, as que pertencem ao ar, e as que pertencem
-√° agoa.
+mandem tambem huma descripÁ„o Geografica delle, que comprehenda com a
+exacÁ„o possivel tudo o que tiverem observado, e lhes parecer mais digno
+da attenÁ„o de hum Filosofo. E para procederem sem confus„o, podem
+ajuntar debaixo de differentes titulos as suas observaÁıes; separando v.
+g. as que pertencem · terra, as que pertencem ao ar, e as que pertencem
+· agoa.
 
 Para este effeito, depois de notarem a longitude e latitude do lugar a
-respeito do Ceo, o seu clima, as suas dimens√µes, a sua situa√ß√£o a
-respeito dos pontos cardeaes do mundo, a sua figura, &c., passar√°√µ a
-coisas mais particulares. 1.¬∞ Em quanto aos montes, devem declarar, se
-ha muitos, se poucos; se alguns delles s√£o promontorios, e vulcanos;
+respeito do Ceo, o seu clima, as suas dimensıes, a sua situaÁ„o a
+respeito dos pontos cardeaes do mundo, a sua figura, &c., passar·ı a
+coisas mais particulares. 1.∞ Em quanto aos montes, devem declarar, se
+ha muitos, se poucos; se alguns delles s„o promontorios, e vulcanos;
 qual he a altura de cada hum, tanto a respeito dos valles vizinhos, como
-a respeito da superficie do mar; quaes as suas direc√ß√µes, quaes as
+a respeito da superficie do mar; quaes as suas direcÁıes, quaes as
 grossuras de seus bancos, e mais qualidades interiores, e exteriores.
-2.¬∞ Em quanto √° natureza do terreno devem exp√¥r, quaes s√£o os animaes
+2.∞ Em quanto · natureza do terreno devem expÙr, quaes s„o os animaes
 terrestres, volateis, e insectos de todas as especies, que nelle se
-produzem e habit√£o; quaes os vegetaveis, que nelle nascem; quaes os
-mineraes, que das suas entranhas se costum√£o, ou podem extrahir em maior
-abundancia; quaes finalmente s√£o os usos, a que os habitantes do paiz
-applic√£o todos estes productos, e os que podem ter na Sociedade. 3.¬∞ Em
-quanto aos homens, descrever√°√µ a sua estatura e f√≥rma exterior, o feitio
-do seu rosto, a sua for√ßa, e c√¥r naturaes; e al√©m de todas estas
-propriedades, notar√°√µ nas mulheres a sua fecundidade ou esterilidade, a
-facilidade ou difficuldade de seus partos; e finalmente as doen√ßas
+produzem e habit„o; quaes os vegetaveis, que nelle nascem; quaes os
+mineraes, que das suas entranhas se costum„o, ou podem extrahir em maior
+abundancia; quaes finalmente s„o os usos, a que os habitantes do paiz
+applic„o todos estes productos, e os que podem ter na Sociedade. 3.∞ Em
+quanto aos homens, descrever·ı a sua estatura e fÛrma exterior, o feitio
+do seu rosto, a sua forÁa, e cÙr naturaes; e alÈm de todas estas
+propriedades, notar·ı nas mulheres a sua fecundidade ou esterilidade, a
+facilidade ou difficuldade de seus partos; e finalmente as doenÁas
 communs aos dois sexos, apontando as causas, a que podem ser
-attribuidas. 4.¬∞ Em quanto √° estructura interior do terreno, devem
+attribuidas. 4.∞ Em quanto · estructura interior do terreno, devem
 descrever as cavidades subterraneas, os crateres vulcanicos, as rimas,
 os veios metallicos, as diversas camas de differentes especies de
 terras, &c.
 
-No que pertence ao ar, devem os mesmos Correspondentes indicar 1.¬∞ em
-quanto √°s suas qualidades, qual he o seu pezo especifico, qual a sua
+No que pertence ao ar, devem os mesmos Correspondentes indicar 1.∞ em
+quanto ·s suas qualidades, qual he o seu pezo especifico, qual a sua
 subtileza ou crassicie, qual a sua seccura ou humidade, quaes os seus
-gr√°os de calor ou de frio. 2.¬∞ Em quanto aos meteoros do ar, devem
+gr·os de calor ou de frio. 2.∞ Em quanto aos meteoros do ar, devem
 mostrar, as suas especies mais commuas, a ordem com que se succedem huns
-aos outros, e o tempo da sua dura√ß√£o; mas particularmente declarar√°√µ,
-quaes s√£o os ventos geraes e particulares, ou menos frequentes; qual em
-fim o numero, principio e dura√ß√£o das esta√ßoes, que pelo decurso do anno
-vari√£o regular, ou irregularmente no paiz. 3.¬∞ Em quanto aos effeitos do
-mesmo ar, devem declarar-se as doen√ßas tanto epidemicas, como
-ordinarias, a que est√£o mais commummente sujeitos os habitantes do paiz,
-e que trazem a sua origem da intemperan√ßa do ar.
+aos outros, e o tempo da sua duraÁ„o; mas particularmente declarar·ı,
+quaes s„o os ventos geraes e particulares, ou menos frequentes; qual em
+fim o numero, principio e duraÁ„o das estaÁoes, que pelo decurso do anno
+vari„o regular, ou irregularmente no paiz. 3.∞ Em quanto aos effeitos do
+mesmo ar, devem declarar-se as doenÁas tanto epidemicas, como
+ordinarias, a que est„o mais commummente sujeitos os habitantes do paiz,
+e que trazem a sua origem da intemperanÁa do ar.
 
-No que pertence √° agoa, he preciso indicar 1.¬∞ em quanto ao mar, a sua
+No que pertence · agoa, he preciso indicar 1.∞ em quanto ao mar, a sua
 profundidade, o pezo especifico de suas agoas recolhidas em diversas
-distancias e alturas; a differen√ßa do seu sabor, conforme a differen√ßa
+distancias e alturas; a differenÁa do seu sabor, conforme a differenÁa
 dos sitios; a variedade de peixes, insectos, plantas, e outras
-produc√ß√µes marinhas, que nelle se ach√£o; o periodo de suas mar√©s
-combinado com as varia√ß√µes da Lua, &c. 2.¬∞ Em quanto aos rios,
-descrever√°√µ os mais notaveis, declarando os seus nascentes, o seu curso,
-as suas inunda√ß√µes periodicas e extraordinarias, as suas fozes; os
+producÁıes marinhas, que nelle se ach„o; o periodo de suas marÈs
+combinado com as variaÁıes da Lua, &c. 2.∞ Em quanto aos rios,
+descrever·ı os mais notaveis, declarando os seus nascentes, o seu curso,
+as suas inundaÁıes periodicas e extraordinarias, as suas fozes; os
 peixes, insectos e plantas que produzem; e finalmente as materias mais
-raras, que trazem comsigo as suas correntes dos sitios, por onde pass√£o.
-3.¬∞ Al√©m das fontes mais notaveis, e indispensavelmente todas as
-mineraes com huma exacta exposi√ß√£o das suas qualidades e virtudes,
-descrever√°√µ todos os lagos, sorvedouros, correntes subterraneas; &c. 4.¬∞
+raras, que trazem comsigo as suas correntes dos sitios, por onde pass„o.
+3.∞ AlÈm das fontes mais notaveis, e indispensavelmente todas as
+mineraes com huma exacta exposiÁ„o das suas qualidades e virtudes,
+descrever·ı todos os lagos, sorvedouros, correntes subterraneas; &c. 4.∞
 Se o paiz for vizinho ao mar, devem tirar hum desenho claro das suas
-costas; e declarar todas as varia√ß√µes, que nellas se observ√£o nas
-diversas esta√ß√µes do anno. Por conclus√£o, todas as observa√ß√µes, que
-tiverem feito sobre o fysico do paiz, ser√£o bem acceitas; principalmente
-aquellas, que poss√£o de algum modo ser uteis para o augmento do
+costas; e declarar todas as variaÁıes, que nellas se observ„o nas
+diversas estaÁıes do anno. Por conclus„o, todas as observaÁıes, que
+tiverem feito sobre o fysico do paiz, ser„o bem acceitas; principalmente
+aquellas, que poss„o de algum modo ser uteis para o augmento do
 commercio e das Artes.
 
-Para satisfazer a este importantissimo fim, que a Academia se prop√µe,
-n√£o ser√° menos conveniente, que os seus Correspondentes ajuntem √°s
-noticias Geograficas do fysico do paiz todas as que puderem alcan√ßar,
-depois de serios exames, relativas ao moral dos p√≥vos que o habit√£o. E
-para observarem nesta rela√ß√£o a ordem, que em tudo he necessaria,
-poder√°√µ reduzir todas as noticias, que examinarem, a titulos diversos,
-preferindo sempre a divis√£o mais natural; v.g. Religi√£o, Politica,
-Economica, Artes, Tradi√ß√µes, &c.
+Para satisfazer a este importantissimo fim, que a Academia se propıe,
+n„o ser· menos conveniente, que os seus Correspondentes ajuntem ·s
+noticias Geograficas do fysico do paiz todas as que puderem alcanÁar,
+depois de serios exames, relativas ao moral dos pÛvos que o habit„o. E
+para observarem nesta relaÁ„o a ordem, que em tudo he necessaria,
+poder·ı reduzir todas as noticias, que examinarem, a titulos diversos,
+preferindo sempre a divis„o mais natural; v.g. Religi„o, Politica,
+Economica, Artes, TradiÁıes, &c.
 
-Em quanto √° Religi√£o, devem exp√¥r com toda a sinceridade 1.¬∞ as id√©as
-geraes que domin√£o em todo o paiz sobre a natureza da Divindade, sobre
-as suas obras, e sobre o culto que lhe he devido; 2.¬∞ as seitas
+Em quanto · Religi„o, devem expÙr com toda a sinceridade 1.∞ as idÈas
+geraes que domin„o em todo o paiz sobre a natureza da Divindade, sobre
+as suas obras, e sobre o culto que lhe he devido; 2.∞ as seitas
 diversas, e os pontos em que differem humas das outras; e juntamente os
-effeitos, que costum√£o resultar da diversidade de sentimentos nesta
-materia; 3.¬∞ a f√≥rma do seu culto, a simplicidade ou extravagancia de
+effeitos, que costum„o resultar da diversidade de sentimentos nesta
+materia; 3.∞ a fÛrma do seu culto, a simplicidade ou extravagancia de
 suas ceremonias, os seus casamentos, os seus lutos e funeraes, os seus
-sacrificios, e finalmente todas as suas supersti√ß√µes.
+sacrificios, e finalmente todas as suas superstiÁıes.
 
-Em quanto √° Politica, devem explicar 1.¬∞ a f√≥rma do seu governo; a
-qualidade de suas leis, se as tiverem; o modo de administrar a justi√ßa
-na distribui√ß√£o dos premios e castigos; o numero e qualidade das
-pessoas, em quem reside a authoridade suprema; 2.¬∞ a f√≥rma de seus
-contratos, e os ritos, que costum√£o acompanhallos; 3.¬∞ as suas guerras,
-o modo de as fazer, as armas de que us√£o.
+Em quanto · Politica, devem explicar 1.∞ a fÛrma do seu governo; a
+qualidade de suas leis, se as tiverem; o modo de administrar a justiÁa
+na distribuiÁ„o dos premios e castigos; o numero e qualidade das
+pessoas, em quem reside a authoridade suprema; 2.∞ a fÛrma de seus
+contratos, e os ritos, que costum„o acompanhallos; 3.∞ as suas guerras,
+o modo de as fazer, as armas de que us„o.
 
-Em quanto √° Economica, devem referir 1.¬∞ a maneira de educar os filhos,
-a qualidade e f√≥rma de suas habita√ß√µes, os seus mais communs exercicios;
-2.¬∞ os seus alimentos, e o modo de os preparar, a materia e feitio de
-seus trajes; 3.¬∞ as propriedades da sua lingua, e f√≥rma dos caracteres,
+Em quanto · Economica, devem referir 1.∞ a maneira de educar os filhos,
+a qualidade e fÛrma de suas habitaÁıes, os seus mais communs exercicios;
+2.∞ os seus alimentos, e o modo de os preparar, a materia e feitio de
+seus trajes; 3.∞ as propriedades da sua lingua, e fÛrma dos caracteres,
 se usarem de algum genero de escritura.
 
-Em quanto √°s Artes, mostrar√°√µ 1.¬∞ o estado da sua agricultura, os usos e
-defeitos de seus instrumentos de lavoura; 2.¬∞ o modo de fazerem as suas
-ca√ßas e pescas; 3.¬∞ as plantas, de que se servem para sustento, vestido,
-remedios, tintas, &c.; 4.¬∞ os animaes que empreg√£o no trabalho, e em
-outros servi√ßos domesticos; 5.¬∞ os mineraes que extrahem da terra, os
-usos a que os applic√£o, e o modo de os reduzir a esses mesmos usos; 6.¬∞
-a perfei√ß√£o ou imperfei√ß√£o das artes, manufacturas, e de todo o genero
+Em quanto ·s Artes, mostrar·ı 1.∞ o estado da sua agricultura, os usos e
+defeitos de seus instrumentos de lavoura; 2.∞ o modo de fazerem as suas
+caÁas e pescas; 3.∞ as plantas, de que se servem para sustento, vestido,
+remedios, tintas, &c.; 4.∞ os animaes que empreg„o no trabalho, e em
+outros serviÁos domesticos; 5.∞ os mineraes que extrahem da terra, os
+usos a que os applic„o, e o modo de os reduzir a esses mesmos usos; 6.∞
+a perfeiÁ„o ou imperfeiÁ„o das artes, manufacturas, e de todo o genero
 de industria, e commercio que houver no paiz.
 
-Em quanto √°s Tradi√ß√µes, devem examinar 1.¬∞ a sua origem, antiguidade,
-universalidade, probabilidade ou extravagancia; 2.¬∞ o modo de as
-conservar, e defender; 3.¬∞ se no paiz houver algum genero de monumento,
-se dar√° delle huma exacta descrip√ß√£o. Finalmente dar-se-ha huma id√©a do
-melhor modo possivel dos costumes dos P√≥vos, cuja noticia possa influir
+Em quanto ·s TradiÁıes, devem examinar 1.∞ a sua origem, antiguidade,
+universalidade, probabilidade ou extravagancia; 2.∞ o modo de as
+conservar, e defender; 3.∞ se no paiz houver algum genero de monumento,
+se dar· delle huma exacta descripÁ„o. Finalmente dar-se-ha huma idÈa do
+melhor modo possivel dos costumes dos PÛvos, cuja noticia possa influir
 de alguma sorte no Bem da Sociedade.
 
 
@@ -1007,10 +1007,10 @@ FIM.
 
 
 
-End of the Project Gutenberg EBook of Breves instruc√ß√µes aos correspondentes
+End of the Project Gutenberg EBook of Breves instrucÁıes aos correspondentes
 da Academia das Sciencias de Lisboa sobre as remessas dos productos, e noticias pertencentes a' Historia da Natureza, para formar hum Museo Nacional, by Unknown
 
-*** END OF THIS PROJECT GUTENBERG EBOOK BREVES INSTRUC√á√ïES AOS ***
+*** END OF THIS PROJECT GUTENBERG EBOOK BREVES INSTRUC«’ES AOS ***
 
 ***** This file should be named 15668-8.txt or 15668-8.zip *****
 This and all associated files of various formats will be found in:

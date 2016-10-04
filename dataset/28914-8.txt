@@ -1,4 +1,4 @@
-Project Gutenberg's Paz e Arbitragem, by Sebasti√£o de Magalh√£es Lima
+Project Gutenberg's Paz e Arbitragem, by Sebasti„o de Magalh„es Lima
 
 This eBook is for the use of anyone anywhere at no cost and with
 almost no restrictions whatsoever.  You may copy it, give it away or
@@ -8,7 +8,7 @@ with this eBook or online at www.gutenberg.net
 
 Title: Paz e Arbitragem
 
-Author: Sebasti√£o de Magalh√£es Lima
+Author: Sebasti„o de Magalh„es Lima
 
 Release Date: May 21, 2009 [EBook #28914]
 
@@ -21,7 +21,7 @@ Character set encoding: ISO-8859-1
 
 
 
-Produced by Pedro Saborano. A partir da digitaliza√ß√£o
+Produced by Pedro Saborano. A partir da digitalizaÁ„o
 disponibilizada pela bibRIA.
 
 
@@ -34,7 +34,7 @@ disponibilizada pela bibRIA.
                             BIBLIOTHECA
                               POPULAR
                                  DE
-                             ORIENTA√á√ÉO
+                             ORIENTA«√O
                              SOCIALISTA
 
 
@@ -42,13 +42,13 @@ disponibilizada pela bibRIA.
 
 
                              DIRECTORES
-                           MAGALH√ÉES LIMA
+                           MAGALH√ES LIMA
                                   E
                            TEIXEIRA BASTOS
 
 
                           COMP.A N.AL EDITORA
-                            SEC√á√ÉO EDITORIAL
+                            SEC«√O EDITORIAL
                          ADM. J. GUEDES--LISBOA
 
 
@@ -61,7 +61,7 @@ disponibilizada pela bibRIA.
 
                                   POR
 
-                            MAGALH√ÉES LIMA
+                            MAGALH√ES LIMA
 
              Membro do Bureau Internacional permanente da paz
 
@@ -69,31 +69,31 @@ disponibilizada pela bibRIA.
 
 
                                   LISBOA
-              Sec√ß√£o Editorial da Companhia Nacional Editora
+              SecÁ„o Editorial da Companhia Nacional Editora
                        Administrador--Justino Guedes
-                     50, Largo do Conde Bar√£o, Lisboa
+                     50, Largo do Conde Bar„o, Lisboa
                                  Agencias
-                      Porto, Largo dos Loyos, 47, 1.¬∫
+                      Porto, Largo dos Loyos, 47, 1.∫
                     38, Rua da Quitanda, Rio de Janeiro
                                    1897
 
 
 
 
-√Å Senhora Baroneza de Suttner
+¡ Senhora Baroneza de Suttner
 
 
-_√Å Senhora Baroneza de Suttner, a brilhante evangelista do movimento
+_¡ Senhora Baroneza de Suttner, a brilhante evangelista do movimento
 pacifico, auctora do famoso romance *Abaixo as armas*, que tem feito a
 volta do mundo com um successo nunca visto--dedico e consagro este
 livrinho. No ultimo congresso da paz que se realizou, em Hamburgo, no
 passado mez de agosto, do corrente anno, foi esta illustre senhora quem
-mais se esfor√ßou, para que a nova reuni√£o se effectuasse em Lisb√¥a,
+mais se esforÁou, para que a nova reuni„o se effectuasse em LisbÙa,
 pondo, em nosso favor, a sua palavra eloquente e a sua influencia
 prestigiosa._
 
 _Com esta pequena e insignificante offerta, desejo provar-lhe, em
-primeiro logar, a altissima considera√ß√£o em que √© tido, entre n√≥s, o seu
+primeiro logar, a altissima consideraÁ„o em que È tido, entre nÛs, o seu
 nome aureolado, e, em segundo logar, pretendo manifestar-lhe
 publicamente o meu inolvidavel reconhecimento na obra grandiosa da paz e
 da arbitragem internacional que proseguimos solidariamente._
@@ -108,175 +108,175 @@ O movimento pacifico
 
 No fim do seculo XIX, nota-se este contraste singular e monstruoso: ao
 passo que as industrias attingem um desenvolvimento maximo, nunca o
-poder do militarismo foi maior do que em nossos dias. A guerra √© um
-crime no ponto de vista humanitario; √© um crime no ponto de vista
-social; √© um crime no ponto de vista moral; e √© um crime no ponto de
+poder do militarismo foi maior do que em nossos dias. A guerra È um
+crime no ponto de vista humanitario; È um crime no ponto de vista
+social; È um crime no ponto de vista moral; e È um crime no ponto de
 vista economico e financeiro. O movimento pacifico tem tomado, por toda
-a parte, propor√ß√µes assombrosas. S√≥ na Allemanha existem mais de
+a parte, proporÁıes assombrosas. SÛ na Allemanha existem mais de
 sessenta sociedades da paz. Os Estados-Unidos da America e a Inglaterra
-revelam-nos, a cada passo, a tendencia para as id√©as pacificas, pela
-pratica da arbitragem. O principio da arbitragem √© a maior conquista
-d'este seculo. √â a ac√ß√£o do individuo substituindo-se cada vez mais √°
-ac√ß√£o do Estado. Os amigos da paz, al√©m da suppress√£o dos exercitos
+revelam-nos, a cada passo, a tendencia para as idÈas pacificas, pela
+pratica da arbitragem. O principio da arbitragem È a maior conquista
+d'este seculo. … a acÁ„o do individuo substituindo-se cada vez mais ·
+acÁ„o do Estado. Os amigos da paz, alÈm da suppress„o dos exercitos
 permanentes, pretendem resolver pela arbitragem todos os litigios
 internacionaes. Nada mais racional e nada mais justo. A democracia
-moderna fez da arbitragem uma das suas primeiras reivindica√ß√µes. Haja
+moderna fez da arbitragem uma das suas primeiras reivindicaÁıes. Haja
 vista o que succede em todas as grandes republicas; como a Suissa, onde
 existe um verdadeiro partido pacifico, organisado e disciplinado, tendo
-por org√£o o interessante jornal--_Os Estados Unidos da Europa_, fundado
+por org„o o interessante jornal--_Os Estados Unidos da Europa_, fundado
 por Charles Lemonnier e como meio de propaganda a _Liga da Paz e da
-Liberdade_ que foi presidida, nas suas primeiras sess√µes, por Garibaldi
-e Victor Hugo; o Brazil que, ainda ha pouco, recorreu a n√≥s na quest√£o
-relativa √° ilha da Trindade; os Estados-Unidos da America que, n'este
+Liberdade_ que foi presidida, nas suas primeiras sessıes, por Garibaldi
+e Victor Hugo; o Brazil que, ainda ha pouco, recorreu a nÛs na quest„o
+relativa · ilha da Trindade; os Estados-Unidos da America que, n'este
 momento, negoceiam com a Inglaterra um tratado de arbitragem permanente.
 Os amigos da paz encontram o seu principal ponto de apoio no
-desenvolvimento intellectual e material das sociedades. As condi√ß√µes
-economicas h√£o de impor o desarmamento, n'uma √©pocha mais ou menos
-proxima. A guerra s√≥ pode aproveitar aos chefes de Estado, ambiciosos de
+desenvolvimento intellectual e material das sociedades. As condiÁıes
+economicas h„o de impor o desarmamento, n'uma Èpocha mais ou menos
+proxima. A guerra sÛ pode aproveitar aos chefes de Estado, ambiciosos de
 glorias e de conquistas. A guerra e a paz armada constituem um mesmo mal
-e uma mesma calamidade. A affirma√ß√£o da paz e a condemna√ß√£o da guerra
-entra hoje, como ponto obrigado, de todas as reivindica√ß√µes operarias.
-Por occasi√£o do ultimo congresso socialista, que se reuniu em Londres, o
+e uma mesma calamidade. A affirmaÁ„o da paz e a condemnaÁ„o da guerra
+entra hoje, como ponto obrigado, de todas as reivindicaÁıes operarias.
+Por occasi„o do ultimo congresso socialista, que se reuniu em Londres, o
 _meeting_ de _Hyde-Park_, em favor da paz, foi de uma imponencia
-desusada. Affirmar a paz √© affirmar o respeito pela vida e pela
-dignidade humana. Affirmar a paz o mesmo √© que consagrar o principio do
-trabalho. A guerra s√≥ pode interessar aos reis e aos imperadores que
-n'ella encontram o esteio √°s suas ambi√ß√µes desregradas e √° sua cupidez
+desusada. Affirmar a paz È affirmar o respeito pela vida e pela
+dignidade humana. Affirmar a paz o mesmo È que consagrar o principio do
+trabalho. A guerra sÛ pode interessar aos reis e aos imperadores que
+n'ella encontram o esteio ·s suas ambiÁıes desregradas e · sua cupidez
 nunca assaz saciada. A democracia quer e consagra a paz, como suprema
-aspira√ß√£o social.
+aspiraÁ„o social.
 
-Sustentam alguns que a guerra √© uma solu√ß√£o, e que s√≥ ella pode resolver
-as contendas que dividem os povos entre si. Mas, dado que assim f√¥sse,
+Sustentam alguns que a guerra È uma soluÁ„o, e que sÛ ella pode resolver
+as contendas que dividem os povos entre si. Mas, dado que assim fÙsse,
 como se explica que *oito mil e tantas guerras* nada puderam resolver
-at√© hoje? S√≥ Napole√£o, √° sua parte, causou a morte a *3.700.000*
-pessoas. Em que melhorou a sorte da Fran√ßa com isso? E, porventura,
-modificou ou alterou essa horrivel matan√ßa, no minimo que f√¥sse, os
-destinos da humanidade? Desde 1648 a guerra tem custado √° Europa 400
-bili√µes de francos, roubados √° produc√ß√£o e ao trabalho. A paz armada
-absorve dois ter√ßos do rendimento das na√ß√µes. Est√° calculado que, em
-impostos directos ou indirectos, a guerra absorve, cada anno, c√™rca de
-um decimo do rendimento de cada francez. O cidad√£o que possue 10.000
-francos de rendimento √© obrigado a contribuir, para as despesas de
+atÈ hoje? SÛ Napole„o, · sua parte, causou a morte a *3.700.000*
+pessoas. Em que melhorou a sorte da FranÁa com isso? E, porventura,
+modificou ou alterou essa horrivel matanÁa, no minimo que fÙsse, os
+destinos da humanidade? Desde 1648 a guerra tem custado · Europa 400
+biliıes de francos, roubados · producÁ„o e ao trabalho. A paz armada
+absorve dois terÁos do rendimento das naÁıes. Est· calculado que, em
+impostos directos ou indirectos, a guerra absorve, cada anno, cÍrca de
+um decimo do rendimento de cada francez. O cidad„o que possue 10.000
+francos de rendimento È obrigado a contribuir, para as despesas de
 guerra, com mil francos por anno, sem prejuizo de toda a sua fortuna e
-mesmo da sua vida se ella lhe f√¥r exigida e reclamada. O operario,
-independentemente dos tres annos que √© obrigado a servir na caserna, dos
-vinte oito dias de servi√ßo, em tempo de guerra, em cada anno de plena
-paz, trabalha um mez para a guerra. Egual c√°lculo se poderia fazer em
-rela√ß√£o aos outros paizes. Simplesmente monstruoso!
+mesmo da sua vida se ella lhe fÙr exigida e reclamada. O operario,
+independentemente dos tres annos que È obrigado a servir na caserna, dos
+vinte oito dias de serviÁo, em tempo de guerra, em cada anno de plena
+paz, trabalha um mez para a guerra. Egual c·lculo se poderia fazer em
+relaÁ„o aos outros paizes. Simplesmente monstruoso!
 
 Para fazer cessar semelhante estado de cousas, o movimento pacifico
-entendeu dever ampliar a sua esphera de ac√ß√£o, dirigindo-se
-simultaneamente a todas as classes sociaes sem distinc√ß√£o, aos grupos
-nacionaes, aos partidos politicos, aos governos, aos parlamentos e √°
-grande massa trabalhadora que parece ainda n√£o ter comprehendido
-claramente as vantagens que, para a civilisa√ß√£o, poderiam advir de um
-desarmamento geral. A id√©a de patria est√° hoje consubstanciada nos
+entendeu dever ampliar a sua esphera de acÁ„o, dirigindo-se
+simultaneamente a todas as classes sociaes sem distincÁ„o, aos grupos
+nacionaes, aos partidos politicos, aos governos, aos parlamentos e ·
+grande massa trabalhadora que parece ainda n„o ter comprehendido
+claramente as vantagens que, para a civilisaÁ„o, poderiam advir de um
+desarmamento geral. A idÈa de patria est· hoje consubstanciada nos
 exercitos permanentes, nas alfandegas, n'um proteccionismo economico
-levado ao seu maximo exagg√™ro e n'outros meios artificiaes que servem
-s√≥mente para cavar um abysmo, cada vez mais fundo, entre os povos. Em
+levado ao seu maximo exaggÍro e n'outros meios artificiaes que servem
+sÛmente para cavar um abysmo, cada vez mais fundo, entre os povos. Em
 nome de um falso patriotismo, commettem-se os maiores absurdos e as
 maiores infamias. No dia em que todos se convencerem que o patriotismo,
-invocado pelos governos, n√£o passa de um pretexto para illudir e
+invocado pelos governos, n„o passa de um pretexto para illudir e
 escravisar os povos; no dia em que o proletariado responder ao
-chamamento √°s armas com uma gr√©ve geral ou com a recusa ao servi√ßo
-militar, n'esse dia ter√° soado a ultima hora para essa nefasta politica
+chamamento ·s armas com uma grÈve geral ou com a recusa ao serviÁo
+militar, n'esse dia ter· soado a ultima hora para essa nefasta politica
 que alguem appellidou a _politica dos kilometros quadrados_.
 
-A paz √© a grande quest√£o, por excellencia, a que est√£o subordinadas
-todas as solu√ß√µes, sociaes, philosophicas e humanitarias. Assim o
+A paz È a grande quest„o, por excellencia, a que est„o subordinadas
+todas as soluÁıes, sociaes, philosophicas e humanitarias. Assim o
 comprehendem os pensadores, os philantropos, os jornalistas e os
-publicistas de todos os paizes. Qual o meio de crear uma opini√£o
+publicistas de todos os paizes. Qual o meio de crear uma opini„o
 internacional efficaz, capaz de reagir contra o militarismo?--eis o
-problema. √â, n'este sentido, que se dirigem as vistas de todos os que se
-interessam pelo bem-estar da humanidade e pelo futuro da civilisa√ß√£o. O
-movimento pacifico, j√° hoje muito poderoso, comprehende as quatro
-divis√µes seguintes: 1.¬∫, a _conferencia inter-parlamentar_,
-exclusivamente composta de delegados dos parlamentos; 2.¬∫, o _congresso
+problema. …, n'este sentido, que se dirigem as vistas de todos os que se
+interessam pelo bem-estar da humanidade e pelo futuro da civilisaÁ„o. O
+movimento pacifico, j· hoje muito poderoso, comprehende as quatro
+divisıes seguintes: 1.∫, a _conferencia inter-parlamentar_,
+exclusivamente composta de delegados dos parlamentos; 2.∫, o _congresso
 universal da paz_, composto de delegados de todas as sociedades da paz;
-3.¬∫, os _comit√©s parlamentares_; 4.¬∫, _as sociedades da paz_. A
-propaganda √©, no fundo, obra eminentemente pr√°tica para a qual concorrem
+3.∫, os _comitÈs parlamentares_; 4.∫, _as sociedades da paz_. A
+propaganda È, no fundo, obra eminentemente pr·tica para a qual concorrem
 milhares de trabalhadores. Os grupos inter-parlamentares teem o seu
 _Bureau central_, em Berne, e as sociedades da paz teem, como principal
-org√£o, o _Bureau internacional da paz_, com s√©de tambem em Berne. As
+org„o, o _Bureau internacional da paz_, com sÈde tambem em Berne. As
 sociedades sobem, presentemente, ao numero de 18 nos Estados-Unidos da
 America, com uma centena de succursaes e de 69 na Europa, com 190
-sec√ß√µes, regularmente constituidas, sem falar dos numerosos grupos
+secÁıes, regularmente constituidas, sem falar dos numerosos grupos
 locaes. Muitas e importantes sociedades de damas, tendo em vista a
-reivindica√ß√£o dos direitos da mulher, pronunciaram-se tambem por uma
-propaganda energica em favor das id√©as de paz. Innumeras sociedades
+reivindicaÁ„o dos direitos da mulher, pronunciaram-se tambem por uma
+propaganda energica em favor das idÈas de paz. Innumeras sociedades
 operarias se proclamaram solidarias com a obra da paz. Todas estas
-organisa√ß√µes se puzeram em contacto, umas com as outras, nos differentes
+organisaÁıes se puzeram em contacto, umas com as outras, nos differentes
 congressos internacionaes (Paris, 1889; Londres, 1890; Roma, 1891;
 Berne, 1892; Chicago, 1893; Antuerpia, 1894; Budapesth, 1896; Hamburgo,
-1897.) O _Bureau_ de Berne serve do centro de communica√ß√£o aos diversos
-grupamentos e est√° em correspondencia, com todos os paizes do mundo. Os
-partidarios da paz contam com numerosos e importantes org√£os na imprensa
-de todos os paizes: na Fran√ßa--_La France_; _l'Epoque_; _La paix par le
-droit_; _Almanach de la paix_; _La revue liberale_; _La Coop√©ration des
-Id√©es_; _Le Devoir_; _Petits plaidoyers contre la guerre_: na
+1897.) O _Bureau_ de Berne serve do centro de communicaÁ„o aos diversos
+grupamentos e est· em correspondencia, com todos os paizes do mundo. Os
+partidarios da paz contam com numerosos e importantes org„os na imprensa
+de todos os paizes: na FranÁa--_La France_; _l'Epoque_; _La paix par le
+droit_; _Almanach de la paix_; _La revue liberale_; _La CoopÈration des
+IdÈes_; _Le Devoir_; _Petits plaidoyers contre la guerre_: na
 Inglaterra--_Concord_; _The Herald of Peace_: na Suissa--_Les Etats Unis
-d'Europe_; _La conf√©rence inter-parlementaire_; _Correspondance
+d'Europe_; _La confÈrence inter-parlementaire_; _Correspondance
 bi-mensuelle_: na Dinamarca--_Fredebladet_; na Suecia--_Ned Med Vapnen_:
 na Noruega--_Det Norske Frebsblad_; na Italia--Almanach _Giu le armi_;
-_la libert√° e la pace_: na Hollanda--_Pax Humanitate_: na Austria--_Die
+_la libert· e la pace_: na Hollanda--_Pax Humanitate_: na Austria--_Die
 Waffen Nieder_: na Allemanha--_Monatliche Friedens Korrespondenz_: na
 Belgica--_L'Independance belge_: nos Estados-Unidos da America--_The
 advocate of peace_; _The peace-maker_.
 
-Para que se possa avaliar, com exactid√£o, do movimento que hoje
+Para que se possa avaliar, com exactid„o, do movimento que hoje
 preoccupa os espiritos em todo o mundo civilisado, damos, em seguida, a
 historia summaria e a lista das sociedades da paz, com o interesse que
-nos inspiram todas as manifesta√ß√µes do direito, da justi√ßa e da
+nos inspiram todas as manifestaÁıes do direito, da justiÁa e da
 consciencia publica, qualquer que seja o paiz onde ellas se realisem.
 
 
 A. Estados Unidos da America
 
 1--Sociedade da paz de New-York, fundada em 1815 por um grupo de vinte
-individuos. Creou um grande numero de sec√ß√µes at√© √° sua fus√£o com a
+individuos. Creou um grande numero de secÁıes atÈ · sua fus„o com a
 Sociedade americana da paz.
 
 2--Sociedade da paz de Ohio, fundada em 2 do dezembro de 1815, sob a
-influencia de uma brochura do dr. Noah Worcester. Contava 8 sec√ß√µes em
+influencia de uma brochura do dr. Noah Worcester. Contava 8 secÁıes em
 1815.
 
 3--Sociedade da paz de Massachusets, fundada em 26 de dezembro de 1815,
 pela iniciativa do dr. Worcester. Contava 22 membros do momento da sua
-funda√ß√£o. Em 1831 tinha 19 sec√ß√µes.
+fundaÁ„o. Em 1831 tinha 19 secÁıes.
 
 
 Sociedades actuaes
 
 4--Sociedade americana da paz, fundada em Nova York, a 8 de maio de
-1828, pela fus√£o das sociedades de Maine, Massachusets, de Nova York e
-da Pensylvania. A sua s√©de foi transferida, em 1837, de Nova York para
+1828, pela fus„o das sociedades de Maine, Massachusets, de Nova York e
+da Pensylvania. A sua sÈde foi transferida, em 1837, de Nova York para
 Boston.
 
 5--Sociedade da paz de Connectitut, fundada em 1935. Creou um grande
-numero de sec√ß√µes.
+numero de secÁıes.
 
-6--Uni√£o universal da paz. Esta sociedade foi fundada, em 1866, pelo sr.
-Alfredo Love, em Philadelphia, e conta mais de 30 sec√ß√µes, espalhadas
-nas differentes regi√µes dos Estados-Unidos, entre outras, Washington,
+6--Uni„o universal da paz. Esta sociedade foi fundada, em 1866, pelo sr.
+Alfredo Love, em Philadelphia, e conta mais de 30 secÁıes, espalhadas
+nas differentes regiıes dos Estados-Unidos, entre outras, Washington,
 Nova York, Rhode Island, Pensylvania, Massachusets, Connectitut,
 Carolina do Sul e Chicago.
 
-7--Associa√ß√£o dos amigos da paz da America, fundada, em 1869, em Nova
-Vienna. Extendeu-se at√© Richmond.
+7--AssociaÁ„o dos amigos da paz da America, fundada, em 1869, em Nova
+Vienna. Extendeu-se atÈ Richmond.
 
-8--Arbitragem christ√£ e Sociedade da paz, fundada em Philadelphia, em
+8--Arbitragem christ„ e Sociedade da paz, fundada em Philadelphia, em
 1866.
 
 9--Departamento da paz, sociedade de damas, fundada, em 1887, pela
 Senhora Hannah J. Bailey, em Maine.
 
-10--Associa√ß√£o nacional de arbitragem, fundada em Washington, em 1877,
+10--AssociaÁ„o nacional de arbitragem, fundada em Washington, em 1877,
 por Belva Lockwood.
 
 11--Sociedade nacional da paz, fundada, em 1893, em Kansas.
 
 12--Liga internacional feminina da paz, fundada, em 1895, por Frost
-Evans, em Mystic, Conn., possuindo sec√ß√µes em v√°rias regi√µes.
+Evans, em Mystic, Conn., possuindo secÁıes em v·rias regiıes.
 
 13--Sociedade da paz da Carolina do Sul, Columbia.
 
@@ -286,7 +286,7 @@ Evans, em Mystic, Conn., possuindo sec√ß√µes em v√°rias regi√µes.
 
 16--Sociedade da paz de Rhode Island.
 
-17--Associa√ß√£o dos amigos da paz de Philadelphia.
+17--AssociaÁ„o dos amigos da paz de Philadelphia.
 
 18--Conselho da arbitragem, Philadelphia.
 
@@ -296,48 +296,48 @@ B. Europa
 
 Gran-Bretanha
 
-1--Sociedade da paz, fundada em 14 de julho de 1896, com s√©de em
+1--Sociedade da paz, fundada em 14 de julho de 1896, com sÈde em
 Londres, e tendo 31 sociedades filiadas como auxiliares.
 
 2--Liga internacional da arbitragem, fundada em dezembro de 1868, em
 Londres. Possue numerosos grupos.
 
-3--Associa√ß√£o internacional da paz e arbitragem, fundada por Hodgson
-Pratt, em 1880. Possue uma sec√ß√£o em Oxford, creou uma sec√ß√£o em
+3--AssociaÁ„o internacional da paz e arbitragem, fundada por Hodgson
+Pratt, em 1880. Possue uma secÁ„o em Oxford, creou uma secÁ„o em
 Bruxellas e muitas outras sociedades da paz na Italia.
 
 4--Sociedade feminina da paz e arbitragem de Liverpool e Birkenhead,
 fundada em fevereiro de 1886, em Birkenhead.
 
-5--Comit√© da sociedade dos amigos da paz, fundada em 1888, em Haslemere.
+5--ComitÈ da sociedade dos amigos da paz, fundada em 1888, em Haslemere.
 
-6--Uni√£o christ√£ da concordia internacional, fundada em Londres, em
+6--Uni„o christ„ da concordia internacional, fundada em Londres, em
 1889, pelo fallecido George Gillett.
 
-7--Associa√ß√£o de arbitragem britannica e extrangeira, Liverpool.
+7--AssociaÁ„o de arbitragem britannica e extrangeira, Liverpool.
 
-8--Associa√ß√£o de arbitragem, Londres.
+8--AssociaÁ„o de arbitragem, Londres.
 
-9--Associa√ß√£o internacional da lei, Londres.
+9--AssociaÁ„o internacional da lei, Londres.
 
 10--Sociedade da paz de Dublin, Dublin.
 
 
-Fran√ßa
+FranÁa
 
-1--Liga do bem publico, fundada em 1858, pelo sr. Potoni√© Pierre.
+1--Liga do bem publico, fundada em 1858, pelo sr. PotoniÈ Pierre.
 
-2--Sociedade francesa da arbitragem entre as na√ß√µes fundada por
-Frederico Passy, em 1867, sob a designa√ß√£o de ¬´Liga internacional da
-paz¬ª. Foi denominada mais tarde: Sociedade francesa dos amigos da paz.
+2--Sociedade francesa da arbitragem entre as naÁıes fundada por
+Frederico Passy, em 1867, sob a designaÁ„o de ´Liga internacional da
+pazª. Foi denominada mais tarde: Sociedade francesa dos amigos da paz.
 
-3--Grupo dos amigos da paz de Puy-de-D√¥me, fundado em Clermont Ferrand.
+3--Grupo dos amigos da paz de Puy-de-DÙme, fundado em Clermont Ferrand.
 
 4--Sociedade da paz e da arbitragem do Familisterio de Guise, fundada, a
 15 de maio do 1886, em Guise, pelo sr. Godin.
 
-5--Associa√ß√£o da paz pelo direito, fundada, em Nimes, em abril de 1887,
-sob a denomina√ß√£o de Associa√ß√£o dos jovens amigos da paz.
+5--AssociaÁ„o da paz pelo direito, fundada, em Nimes, em abril de 1887,
+sob a denominaÁ„o de AssociaÁ„o dos jovens amigos da paz.
 
 6--Sociedade da paz d'Abbeville e de Ponthien, fundada, em 1892, pelo
 sr. Jules Tripier.
@@ -345,13 +345,13 @@ sr. Jules Tripier.
 7--Sociedade da paz de Felletin e Aubusson, fundada, em julho de 1893,
 pelos srs. Pichot e Jorrand.
 
-8--Uni√£o internacional das mulheres, fundada om 1895, em Paris, pela
-iniciativa de algumas damas de Inglaterra e de Fran√ßa.
+8--Uni„o internacional das mulheres, fundada om 1895, em Paris, pela
+iniciativa de algumas damas de Inglaterra e de FranÁa.
 
 9--Liga franco italiana, fundada em Paris pelo st. Raqueni, com uma
 succursal na Algeria.
 
-10--A allian√ßa universal, fundada pelo sr. Jonnet, em St. Raphael, Var.
+10--A allianÁa universal, fundada pelo sr. Jonnet, em St. Raphael, Var.
 
 11--Liga internacional das mulheres para o desarmamento internacional,
 fundada em Paris pela princeza Wiszniewska.
@@ -360,52 +360,52 @@ fundada em Paris pela princeza Wiszniewska.
 Suissa
 
 1--Liga internacional da paz e da liberdade, fundada em Genebra, em
-1867, por Charles Lemonnier. A s√©de do seu comit√© central foi
+1867, por Charles Lemonnier. A sÈde do seu comitÈ central foi
 transferida de Genebra para Berne, em junho de 1897.
 
-2--Sociedade suissa da paz. Esta sec√ß√£o da Liga da paz e da liberdade
-foi fundada em 1869, em Neuchatel, o comp√µe-se de 19 grupos espalhados
+2--Sociedade suissa da paz. Esta secÁ„o da Liga da paz e da liberdade
+foi fundada em 1869, em Neuchatel, o compıe-se de 19 grupos espalhados
 por toda a Suissa.
 
 3--Sociedade academica da paz, fundada em Zurich, a 20 de julho de 1893.
 
-4--Sociedade christ√£ para a propaganda da paz, fundado em Bienne em
+4--Sociedade christ„ para a propaganda da paz, fundado em Bienne em
 1894.
 
 
 Dinamarca
 
-Associa√ß√£o da paz da Dinamarca, outr'ora _Sociedade para a neutraliza√ß√£o
+AssociaÁ„o da paz da Dinamarca, outr'ora _Sociedade para a neutralizaÁ„o
 da Dinamarca_ fundada em 28 do novembro de 1882, em Copenhague, pela
-iniciativa do sr. Frederico Bajer. Conta c√™rca de 120 sec√ß√µes,
+iniciativa do sr. Frederico Bajer. Conta cÍrca de 120 secÁıes,
 organisadas e distribuidas por todo o paiz.
 
 
 Suecia
 
-Associa√ß√£o Sueca da arbitragem e da paz, fundada em 1883, em Stockholmo.
-Conta 21 sec√ß√µes com grande numero da sub-sec√ß√µes.
+AssociaÁ„o Sueca da arbitragem e da paz, fundada em 1883, em Stockholmo.
+Conta 21 secÁıes com grande numero da sub-secÁıes.
 
 
 Noruega
 
 Sociedade norueguesa da paz, fundada em 1895, por iniciativa do sr. M.
-Hanssen, em Christiania. Conta 28 sec√ß√µes.
+Hanssen, em Christiania. Conta 28 secÁıes.
 
 
 Allemanha
 
-1--Associa√ß√£o allem√£ para a propaganda da paz internacional, sociedade
+1--AssociaÁ„o allem„ para a propaganda da paz internacional, sociedade
 fundada em 1874, pelo sr. Lowenthal e por elle reconstituida em Berlim.
 Organisou uma sociedade de damas.
 
 2--Sociedade da paz de Frankfort, fundada a 23 de outubro de 1886.
-Contribuiu para a crea√ß√£o de differentes grupos allem√£es.
+Contribuiu para a creaÁ„o de differentes grupos allem„es.
 
 3--Sociedade dos amigos da paz de Wiesbaden, Wiesbaden.
 
-4--Sociedade allem√£ da paz, fundada em 1892 em Berlim. Conta 53 grupos
-que s√£o outras tantas sociedades, e a sua influencia √© enorme e cresce e
+4--Sociedade allem„ da paz, fundada em 1892 em Berlim. Conta 53 grupos
+que s„o outras tantas sociedades, e a sua influencia È enorme e cresce e
 augmenta de dia para dia.
 
 5--Sociedade da paz de Munich, Munich.
@@ -413,44 +413,44 @@ augmenta de dia para dia.
 
 Italia
 
-1--Sociedade internacional Uni√£o lombarda, fundada em Mil√£o, em 1887.
+1--Sociedade internacional Uni„o lombarda, fundada em Mil„o, em 1887.
 
-2--Associa√ß√£o da arbitragem e da paz internacional, fundada em Roma, em
+2--AssociaÁ„o da arbitragem e da paz internacional, fundada em Roma, em
 maio de 1877.
 
 3--Sociedade da paz, fundada em Veneza, em 1889.
 
 4--Sociedade da paz, de Palermo, fundada em maio de 1890. Conta uma
-sec√ß√£o.
+secÁ„o.
 
 6--Sociedade da paz e da arbitragem de Perugia, fundada a 16 de julho de
 1892. Creou differentes sociedades.
 
-6--Comit√© franco-italiano de propaganda conciliadora, fundado em Roma, a
-6 de julho de 1893, pelo fallecido homem de Estado, M. R. Bonghi. √â
+6--ComitÈ franco-italiano de propaganda conciliadora, fundado em Roma, a
+6 de julho de 1893, pelo fallecido homem de Estado, M. R. Bonghi. …
 formado por 210 membros approxidamente, entre italianos e francezes, na
 sua maioria senadores e deputados.
 
-7--Os pioneiros da paz, fundada em Turim, em 1894. Conta uma sec√ß√£o em
+7--Os pioneiros da paz, fundada em Turim, em 1894. Conta uma secÁ„o em
 Nice.
 
-8--Uni√£o artigiana da paz e da arbitragem, Arti.
+8--Uni„o artigiana da paz e da arbitragem, Arti.
 
-9--Comit√© de Borgosesia, Bargosesia, provincia de Novara.
+9--ComitÈ de Borgosesia, Bargosesia, provincia de Novara.
 
-10--Comit√© de Ceres para a paz e arbitragem internacional, Ceres,
+10--ComitÈ de Ceres para a paz e arbitragem internacional, Ceres,
 provincia de Turim.
 
-11--Comit√© de Barzano, Barzano, provincia de Como.
+11--ComitÈ de Barzano, Barzano, provincia de Como.
 
 12--Sociedade para a paz e arbitragem, de Voghera, Voghera.
 
-13--Comit√© de Missaglia, Missaglia, provincia de Como.
+13--ComitÈ de Missaglia, Missaglia, provincia de Como.
 
-14--Comit√© de Torre Pellice, fundado a 31 de maio de 1896, em
+14--ComitÈ de Torre Pellice, fundado a 31 de maio de 1896, em
 Bricherasio.
 
-15--Comit√© de Murisengo, fundado em dezembro de 1896, em Casale
+15--ComitÈ de Murisengo, fundado em dezembro de 1896, em Casale
 Monferrato.
 
 
@@ -463,7 +463,7 @@ fevereiro de 1889.
 Hollanda
 
 Sociedade geral neerlandeza da paz, fundada em Amsterdam, a 26 de
-janeiro de 1871. Conta 7 sec√ß√µes espalhadas por todo o paiz.
+janeiro de 1871. Conta 7 secÁıes espalhadas por todo o paiz.
 
 
 Austria
@@ -472,13 +472,13 @@ Austria
 
 2--Sociedade academica da paz de Vienna, fundada em 1891.
 
-3--Sociedade litteraria e artistica para a propaga√ß√£o da id√©a da paz,
+3--Sociedade litteraria e artistica para a propagaÁ„o da idÈa da paz,
 fundada em Vienna, em 1894.
 
-4--Sociedade dos amigos da paz de Trieste, fundada em 1891, como sec√ß√£o
+4--Sociedade dos amigos da paz de Trieste, fundada em 1891, como secÁ„o
 da sociedade de Vienna, e constituida em sociedade independente em 1895.
 
-5--Sociedade da paz de Baden, sec√ß√£o da sociedade austriaca da paz,
+5--Sociedade da paz de Baden, secÁ„o da sociedade austriaca da paz,
 fundada em 1894.
 
 6--Grupo de Reichenberg, fundado a 24 de fevereiro de 1896.
@@ -495,12 +495,12 @@ Sociedade hungara da paz; fundada em 1895, em Budapesth.
 
 Russia
 
-Confraria operaria da exalta√ß√£o da Santa Cruz. Jaupal, Tscheruigow.
+Confraria operaria da exaltaÁ„o da Santa Cruz. Jaupal, Tscheruigow.
 
 
 Portugal
 
-Commiss√£o geral da paz e arbitragem, inslallada em abril de 1897, na
+Commiss„o geral da paz e arbitragem, inslallada em abril de 1897, na
 _Sociedade de Geographia_, de Lisboa.
 
 
@@ -511,20 +511,20 @@ II
 Os amigos da paz
 
 
-Foi no com√™√ßo d'este seculo, ap√≥s uma longa s√©rie de guerras, que a
-opini√£o publica se pronunciou em favor da paz.[1] A _Associa√ß√£o dos
+Foi no comÍÁo d'este seculo, apÛs uma longa sÈrie de guerras, que a
+opini„o publica se pronunciou em favor da paz.[1] A _AssociaÁ„o dos
 amigos da paz_ foi fundada, em Nova-York, no anno de 1815; no anno
 seguinte extendeu-se a Londres; em 1821 fundou-se, em Paris, a Sociedade
-da Moral Christ√£, e, em 1830, a Sociedade da paz em Genebra.
+da Moral Christ„, e, em 1830, a Sociedade da paz em Genebra.
 
-    [1] Magalh√£es Lima--_A obra internacional_.
+    [1] Magalh„es Lima--_A obra internacional_.
 
 Os amigos da paz reuniram-se, em Londres, em 1843, e adoptaram a
 proposta de uma mensagem dirigida a todos os governos civilisados. Em
 janeiro de 1844, a mesma proposta foi apresentada ao presidente dos
 Estados-Unidos, o sr. Beckwith, que a agradeceu com as seguintes
 palavras: "Que o povo seja instruido e gose dos seus direitos, e
-reclamar√° a paz como indispensavel √° sua prosperidade."
+reclamar· a paz como indispensavel · sua prosperidade."
 
 Quatro congressos dos amigos da paz se effectuaram de 1848 a 1851: um em
 Bruxellas (1848); o segundo em Paris (1849); o terceiro em Londres e o
@@ -532,7 +532,7 @@ quarto em Frankfort.
 
 Em 12 de junho de 1849, Ricardo Cobden, o grande advogado da arbitragem,
 propoz ao parlamento inglez, para que, de futuro, fosse admittido o
-principio da arbitragem em todos os conflictos entre na√ß√µes.
+principio da arbitragem em todos os conflictos entre naÁıes.
 
 A 22 de agosto de 1849, inaugurou-se, em Paris, o congresso dos amigos
 da paz.
@@ -548,28 +548,28 @@ da paz.
 
 Seria necessario um grosso volume, para nos occuparmos dos principaes
 apostolos e dos principaes evangelistas do movimento pacifico, dos seus
-servi√ßos relevantissimos, da sua dedica√ß√£o √° causa da justi√ßa e da
-emancipa√ß√£o dos povos. Fallaremos, todavia, d'aquelles que mais se teem
+serviÁos relevantissimos, da sua dedicaÁ„o · causa da justiÁa e da
+emancipaÁ„o dos povos. Fallaremos, todavia, d'aquelles que mais se teem
 assignalado, na propaganda em favor do direito humano, postergado,
 ludibriado, escarnecido pelos apologistas da guerra e da conquista, isto
-√©, pelos defensores do roubo e do assassinato.
+È, pelos defensores do roubo e do assassinato.
 
-Comecemos pela Fran√ßa. √Å frente do luminoso grupo, destacam-se dois
+Comecemos pela FranÁa. ¡ frente do luminoso grupo, destacam-se dois
 homens de sciencia, de grande e solido renome: Charles Letourneau, o
-mestre da sociologia em Fran√ßa, o sabio anthropologo e Charles Richet, o
+mestre da sociologia em FranÁa, o sabio anthropologo e Charles Richet, o
 medico illustre, venerado e respeitado em todas as escholas e em todos
 os centros scientificos e litterarios. Vem em seguida Frederico Passy,
 um velho que mantem, aos 60 annos, a mesma frescura de espirito e a
 mesma juventude perenne dos vinte annos. Orador eloquente, propagandista
-infatigavel, escriptor brilhante, a sua ac√ß√£o no movimento, tem sido
-benefica e fecunda em resultados pr√°ticos. A seu lado encontramos
-luctadores da mais fina t√™mpera. Mencionemos, entre outros, Edmond
-Thiaudi√®re, um philosopho _doubl√©_ de um homem de lettras; Emile Arnaud,
+infatigavel, escriptor brilhante, a sua acÁ„o no movimento, tem sido
+benefica e fecunda em resultados pr·ticos. A seu lado encontramos
+luctadores da mais fina tÍmpera. Mencionemos, entre outros, Edmond
+ThiaudiËre, um philosopho _doublÈ_ de um homem de lettras; Emile Arnaud,
 o continuador da obra gloriosa do venerando patriarcha do movimento
 Charles Lemonnier; Gaston Moch, o fino e scintillante redactor da
-_Independencia belga_; Potoni√© Pierre, o mod√™lo dos apostolos, na
-sinceridade, na abnega√ß√£o com que advoga o seu generoso ideal; Urbain
-Gohier, o jornalista impeccavel que poz a sua penna ao servi√ßo da
+_Independencia belga_; PotoniÈ Pierre, o modÍlo dos apostolos, na
+sinceridade, na abnegaÁ„o com que advoga o seu generoso ideal; Urbain
+Gohier, o jornalista impeccavel que poz a sua penna ao serviÁo da
 propaganda; Gaston Morin, Raqueni e tantos outros egualmente sympathicos
 e egualmente bemquistos.
 
@@ -578,29 +578,29 @@ homens da estatura de Hodgson Pratt, de Frederico Stanhope, de Randal
 Cremer, de Ervans Darby, de Felix Moscheles, e mensageiras da boa nova,
 como Peckover e Ellen Robisson.
 
-√â na Suissa, em Berne, que reside o secretario geral do Bureau
+… na Suissa, em Berne, que reside o secretario geral do Bureau
 internacional permanente da paz, Elie Ducommun. Tribuno, poeta e
-escriptor dos mais brilhantes, os seus servi√ßos √° grande causa da
+escriptor dos mais brilhantes, os seus serviÁos · grande causa da
 humanidade, podem contar-se pelos dias de cada anno. Georges Renard, o
 estimado director da _Revista Socialista_, e um dos professores mais
 distinctos da Universidade de Lausanne e a sua solidariedade com o
-movimento pacifico √©, ha muito, conhecida e apreciada. O dr. Gobat,
+movimento pacifico È, ha muito, conhecida e apreciada. O dr. Gobat,
 secretario do Bureau inter-parlamentar, assim como o doutor Marcuson,
-n√£o poderiam ser esquecidos, quando se trata de prestar homenagem aos
-servidores de uma id√©a.
+n„o poderiam ser esquecidos, quando se trata de prestar homenagem aos
+servidores de uma idÈa.
 
 Se nos voltamos para os Estados-Unidos da America, o paiz onde os
 principios de arbitragem mais teem fructificado, como em todos os demais
-paizes novos, encontramos, √° frente do movimento, as primeiras
+paizes novos, encontramos, · frente do movimento, as primeiras
 personalidades da politica, da sciencia, da litteratura, taes como
-Madame Belva Lockwood, que j√° foi candidata √° presidencia da republica,
+Madame Belva Lockwood, que j· foi candidata · presidencia da republica,
 Frost Evans, Benjamin Trueblood, etc.
 
-Na Allemanha o movimento em favor da paz √© profundo e accentuado. E
-assim devia ser, porque elle corresponde, de certo modo, √° corrente de
-id√©as que agitam aquelle paiz e o collocam √° frente da democracia na
+Na Allemanha o movimento em favor da paz È profundo e accentuado. E
+assim devia ser, porque elle corresponde, de certo modo, · corrente de
+idÈas que agitam aquelle paiz e o collocam · frente da democracia na
 Europa. O partido socialista, por mais de uma vez se tem affirmado pela
-propaganda pacifica. Independentemente d'isso, por√©m, p√≥de dizer-se
+propaganda pacifica. Independentemente d'isso, porÈm, pÛde dizer-se
 afoitamente, sem receio de errar, que existe, na Allemanha, um
 verdadeiro partido pacifico, perfeitamente organisado e servido por
 homens convictos e dedicados, taes como Franz Wirth, ha pouco fallecido,
@@ -612,149 +612,149 @@ servirmos da phrase consagrada, do grande e poderoso exercito, a
 baroneza de Suttner?
 
 Nos paizes do norte, ao mesmo tempo que se nota um movimento de
-renova√ß√£o scientifica, observa-se um grande amor pelos ideaes generosos
+renovaÁ„o scientifica, observa-se um grande amor pelos ideaes generosos
 o humanitarios. Assim, em Copenhague, onde o jornal socialista _Social
-Democraten_ √© o periodico de maior tiragem, as sociedades da paz que
-foram constituidas primitivamente com o fim de advogar a neutralisa√ß√£o
-da Dinamarca, teem √° sua frente Frederico Bajer, que √©, ao mesmo tempo,
+Democraten_ È o periodico de maior tiragem, as sociedades da paz que
+foram constituidas primitivamente com o fim de advogar a neutralisaÁ„o
+da Dinamarca, teem · sua frente Frederico Bajer, que È, ao mesmo tempo,
 o presidente do _Bureau internacional_.
 
 Os amigos da paz encontram-se por toda a parte. Na Roumania, o porta-voz
-do movimento √© um antigo ministro, o fogoso tribuno, de uma popularidade
-immensa em Bucaresth, chamado Nicolau Fleva. Na Russia √© o sociologo
-eminente, Noviow, al√©m do conde Le√£o Tolstoi, certamente o mais notavel
-e o mais revolucionario de todos os propagandistas, que n√£o hesita em
-aconselhar a recusa ao servi√ßo militar, como o meio mais seguro de
-anniquilar o militarismo. Na Suecia √© o deputado Eduardo Wavrinski, t√£o
-sympathico pelo seu caracter, como pela sua dedica√ß√£o √° causa. Na
+do movimento È um antigo ministro, o fogoso tribuno, de uma popularidade
+immensa em Bucaresth, chamado Nicolau Fleva. Na Russia È o sociologo
+eminente, Noviow, alÈm do conde Le„o Tolstoi, certamente o mais notavel
+e o mais revolucionario de todos os propagandistas, que n„o hesita em
+aconselhar a recusa ao serviÁo militar, como o meio mais seguro de
+anniquilar o militarismo. Na Suecia È o deputado Eduardo Wavrinski, t„o
+sympathico pelo seu caracter, como pela sua dedicaÁ„o · causa. Na
 Belgica, e particularmente em Bruxellas, um verdadeiro centro
-intellectual, o numero dos pacificos √© j√° hoje consideravel, e, para
-falarmos t√£o s√≥mente nos principaes, mencionaremos o senador socialista
+intellectual, o numero dos pacificos È j· hoje consideravel, e, para
+falarmos t„o sÛmente nos principaes, mencionaremos o senador socialista
 Henri Lafontaine, o antigo deputado Houzeau, o sr. Decamps, o antigo e
-vigoroso redactor da _R√©forme_, Georges Lorand, e muitos outros. Na
-Italia, onde o militarismo predomina fortemente, gra√ßas √° influencia
-allem√£, o movimento pacifico, que teve em Jos√© Garibaldi um dos seus
+vigoroso redactor da _RÈforme_, Georges Lorand, e muitos outros. Na
+Italia, onde o militarismo predomina fortemente, graÁas · influencia
+allem„, o movimento pacifico, que teve em JosÈ Garibaldi um dos seus
 principaes apostolos, tem-se alastrado por todo o paiz, e a propaganda,
-devida √° iniciativa do fallecido Bonghi e √° tenacidade de Theodoro
-Moneta, o antigo e conceituado director do _Secolo_, de Mil√£o, tem
+devida · iniciativa do fallecido Bonghi e · tenacidade de Theodoro
+Moneta, o antigo e conceituado director do _Secolo_, de Mil„o, tem
 frutitificado e progredido de um modo assombroso. Muito
 intencionalmente, deixei para o fim a Hungria, afim de prestar a minha
-homenagem ao valente companheiro de Kossuth, o general T√ºrr, que, √°
-semelhan√ßa de Garibaldi, trocou os horrores da guerra, que contemplou de
-perto, pelas do√ßuras ineffaveis da paz.
+homenagem ao valente companheiro de Kossuth, o general T¸rr, que, ·
+semelhanÁa de Garibaldi, trocou os horrores da guerra, que contemplou de
+perto, pelas doÁuras ineffaveis da paz.
 
-Perguntar-nos-h√£o, naturalmente, o que teem feito os amigos da paz, qual
+Perguntar-nos-h„o, naturalmente, o que teem feito os amigos da paz, qual
 a sua obra e quaes os seus resultados effectivos e immediatos.
 
-A obra dos pacificos tem sido enorme e imp√µe-se pela sinceridade dos
-seus apostolos e pela grandeza da sua propaganda. Al√©m dos oito
+A obra dos pacificos tem sido enorme e impıe-se pela sinceridade dos
+seus apostolos e pela grandeza da sua propaganda. AlÈm dos oito
 congressos que conseguiram reunir, em differentes cidades da Europa,
-onde, com muita eleva√ß√£o e intelligencia, foram tratadas as quest√µes que
+onde, com muita elevaÁ„o e intelligencia, foram tratadas as questıes que
 mais podem interessar, presentemente, as sociedades, no ponto de vista
-do direito e da justi√ßa, os amigos da paz teem conquistado, pouco a
-pouco, a adhes√£o dos governos e dos parlamentos √° nobre causa que
-defendem, fazendo prevalecer a sua opini√£o, por todos os modos ao seu
+do direito e da justiÁa, os amigos da paz teem conquistado, pouco a
+pouco, a adhes„o dos governos e dos parlamentos · nobre causa que
+defendem, fazendo prevalecer a sua opini„o, por todos os modos ao seu
 alcance, sempre que a lucta ou a guerra se declara entre povos.
 
 Em 1888, um certo numero de deputados francezes e inglezes reuniam-se em
 Paris e creavam uma conferencia inter-parlamentar, um areopago
 internacional, destinado, em caso de conflicto, a fazer ouvir a sua
-opini√£o imparcial, appellando para a consciencia de todos. Desde ent√£o
+opini„o imparcial, appellando para a consciencia de todos. Desde ent„o
 este areopago principiou a reunir-se todos os annos, nas mesmas cidades
 onde se reuniam os congressos. Em Londres, em 1890, recebeu mais de mil
-cartas, enviadas ao comit√© de organisa√ß√£o pelos membros dos diversos
+cartas, enviadas ao comitÈ de organisaÁ„o pelos membros dos diversos
 parlamentos, conseguindo reunir mais de 250 assistentes, vindos de todos
-os pontos do universo. Em Roma, a Fran√ßa esteve representada por 56
-senadores e deputados; inglezes 43; allem√£es 16; hespanhoes 40;
+os pontos do universo. Em Roma, a FranÁa esteve representada por 56
+senadores e deputados; inglezes 43; allem„es 16; hespanhoes 40;
 austriacos 52; belgas 3; dinamarquezes 3; gregos 6; suissos 17;
 italianos 358; hungaros 13; norueguezes 3; roumaicos 56; suecos 5;
-portuguezes 3; hollandezes 7. Sob proposta de um deputado allem√£o,
+portuguezes 3; hollandezes 7. Sob proposta de um deputado allem„o,
 adoptou-se o francez como lingua official da conferencia.
 
-Para manter uma ac√ß√£o continua e ininterrupta, no intervallo das
-reuni√µes annuaes, existe, para a conferencia um _Bureau_ permanente,
+Para manter uma acÁ„o continua e ininterrupta, no intervallo das
+reuniıes annuaes, existe, para a conferencia um _Bureau_ permanente,
 semelhante ao _Bureau internacional permanente_ que existe para os
-congressos e que t√£o relevantes servi√ßos tem prestado √° causa da paz.
+congressos e que t„o relevantes serviÁos tem prestado · causa da paz.
 Estes dois _Bureaux_ sao independentes um do outro.
 
-Entre os campe√µes do movimento, distinguem-se duas correntes
+Entre os campeıes do movimento, distinguem-se duas correntes
 importantes: uns declaram que um desarmamento proporcional e simultaneo
-n√£o pode ser sen√£o a consequencia de uma solu√ß√£o amigavel dada √°s
-quest√µes que dividem os povos da Europa, e, em especial, √° quest√£o da
-Alsacia e Lorena e √° do desmembramento do imperio turco. Outros nutrem a
-convic√ß√£o que essa solu√ß√£o amigavel n√£o poder√° nunca ser procurada no
-estado actual da Europa, e que, antes de tudo, conv√©m estabelecer
-rela√ß√µes juridicas entre as na√ß√µes, a come√ßar pelo estabelecimento de um
+n„o pode ser sen„o a consequencia de uma soluÁ„o amigavel dada ·s
+questıes que dividem os povos da Europa, e, em especial, · quest„o da
+Alsacia e Lorena e · do desmembramento do imperio turco. Outros nutrem a
+convicÁ„o que essa soluÁ„o amigavel n„o poder· nunca ser procurada no
+estado actual da Europa, e que, antes de tudo, convÈm estabelecer
+relaÁıes juridicas entre as naÁıes, a comeÁar pelo estabelecimento de um
 tribunal internacional ao qual seriam submettidas todas as novas
-contesta√ß√µes. D'este modo, dizem, a confian√ßa renasceria com a no√ß√£o da
-justi√ßa internacional e chegar-se-hia for√ßosamente a um desarmamento
-voluntario, ainda que fosse apenas parcial, e, em seguida, √° solu√ß√£o
-amigavel da contesta√ß√£o de territorios ou de nacionalidades.
+contestaÁıes. D'este modo, dizem, a confianÁa renasceria com a noÁ„o da
+justiÁa internacional e chegar-se-hia forÁosamente a um desarmamento
+voluntario, ainda que fosse apenas parcial, e, em seguida, · soluÁ„o
+amigavel da contestaÁ„o de territorios ou de nacionalidades.
 
 O pensamento geral e que mais importa propagar, consiste em _ganhar a
-opini√£o publica √°s id√©as de concordia e de concilia√ß√£o_, afim de que os
+opini„o publica ·s idÈas de concordia e de conciliaÁ„o_, afim de que os
 povos possam exercer uma influencia salutar sobre os parlamentos e sobre
 os governos, na hora em que certos problemas reclamem imperiosamente uma
-solu√ß√£o, que n√£o pode ser sen√£o uma solu√ß√£o pacifica.[2]
+soluÁ„o, que n„o pode ser sen„o uma soluÁ„o pacifica.[2]
 
     [2]  _Le programme pratique des amis de la paix_ par Elie Ducommun.
 
-√â este o pensamento predominante de todos os que se interessam pelo
-movimento e para elle contribuem com os seus esfor√ßos, com a sua
+… este o pensamento predominante de todos os que se interessam pelo
+movimento e para elle contribuem com os seus esforÁos, com a sua
 actividade e com a sua iniciativa.
 
-Os amigos da paz reunem-se frequentemente, em banquetes, que t√£o grandes
-servi√ßos podem prestar √° propaganda, como os comicios e os _meetings_, e
-d'isso tivemos uma prova com o que se passou, durante a revolu√ß√£o de
-1848, em Fran√ßa; e ainda recentemente se fundou em Paris uma _associa√ß√£o
+Os amigos da paz reunem-se frequentemente, em banquetes, que t„o grandes
+serviÁos podem prestar · propaganda, como os comicios e os _meetings_, e
+d'isso tivemos uma prova com o que se passou, durante a revoluÁ„o de
+1848, em FranÁa; e ainda recentemente se fundou em Paris uma _associaÁ„o
 internacional dos jornalistas, amigos da paz_, sob a presidencia do
 auctor d'estas linhas.
 
-As sociedades feministas tambem, na sua maioria, adheriram √° causa da
+As sociedades feministas tambem, na sua maioria, adheriram · causa da
 paz. De modo que o movimento, limitado e restricto, no seu principio, a
-alguns _visionarios e utopistas_, como ent√£o lhes chamavam, foi-se
-desenvolvendo at√© tomar as propor√ß√µes, que hoje tem, de um forte e
-poderoso exercito, armado da raz√£o, a mais temivel de todas as armas, e
-escudado pelo direito e pela justi√ßa, os dois baluartes inexpugnaveis da
-moderna democracia. A conquista da paz imp√µe-se √° solu√ß√£o dos grandes e
+alguns _visionarios e utopistas_, como ent„o lhes chamavam, foi-se
+desenvolvendo atÈ tomar as proporÁıes, que hoje tem, de um forte e
+poderoso exercito, armado da raz„o, a mais temivel de todas as armas, e
+escudado pelo direito e pela justiÁa, os dois baluartes inexpugnaveis da
+moderna democracia. A conquista da paz impıe-se · soluÁ„o dos grandes e
 complexos problemas que, presentemente, agitam a humanidade.
 
-Um facto insignificante, mas que d√° a medida da importancia do
-movimento, perante o mundo! Por occasi√£o da visita do presidente da
+Um facto insignificante, mas que d· a medida da importancia do
+movimento, perante o mundo! Por occasi„o da visita do presidente da
 Republica franceza, sr. Felix Faure, ao imperador da Russia, o meu
 illustre amigo Emile Arnaud publicou, na _Independencia belga_, uma
-pequena nota em que consagrava as aspira√ß√µes do partido pacifico perante
+pequena nota em que consagrava as aspiraÁıes do partido pacifico perante
 o acontecimento, que foi transcripta e applaudida por quasi todos os
 jornaes da Europa.
 
 Eis o artigo:
 
-"A recep√ß√£o feita pelo povo russo ao presidenie da Republica franceza
-reveste claramente o caracter de uma allian√ßa entre dois grandes povos
+"A recepÁ„o feita pelo povo russo ao presidenie da Republica franceza
+reveste claramente o caracter de uma allianÁa entre dois grandes povos
 para a paz e para a felicidade da humanidade. Foi, pelo menos, n'este
-sentido, que se exprimiram os dois grandes org√£os da imprensa russa,
-antes da chegada do presidente Faure, e √© n'este mesmo sentido que
+sentido, que se exprimiram os dois grandes org„os da imprensa russa,
+antes da chegada do presidente Faure, e È n'este mesmo sentido que
 continuam a exprimir-se depois da sua partida.
 
-Presentemente, pois, a uni√£o franco-russa ultrapassa, como significa√ß√£o,
+Presentemente, pois, a uni„o franco-russa ultrapassa, como significaÁ„o,
 os limites que poderiam ter-lhe imposto os diplomatas na sua origem. E,
 uma vez que o czar Nicolau II permittiu ao povo russo que tomasse parte
 n'este grupamento internacional que une uma aristocracia a uma
-democracia, n√£o nos √© defeso esperar que este povo, pela vontade do seu
-imperador, possa um dia beneficiar d'esta uni√£o mesmo relativamente √°s
+democracia, n„o nos È defeso esperar que este povo, pela vontade do seu
+imperador, possa um dia beneficiar d'esta uni„o mesmo relativamente ·s
 suas liberdades interiores.
 
-N'esse dia ser√° para desejar que a uni√£o dos povos francez e russo,
+N'esse dia ser· para desejar que a uni„o dos povos francez e russo,
 essencialmente pacifica e humanitaria, se extenda a outros povos que
 aboliriam a guerra, ligando-se, entre si, por tratados de arbitragem
-permanente, realisando assim o _foedus pacificum_, a allian√ßa pacifica
-de povo para povo, n√£o estabelecendo nenhum dominio de Estado para
+permanente, realisando assim o _foedus pacificum_, a allianÁa pacifica
+de povo para povo, n„o estabelecendo nenhum dominio de Estado para
 Estado, como recommendava Kant, ha cem annos, na sua _Tentativa
 philosophica de paz perpetua_."
 
-Estes e outros factos provam-nos exuberantemente que o futuro n√£o
-pertence aos complicados armamentos nem ao canh√£o Krupp do nosso tempo,
-mas, sim, √° obra fecunda da paz, no trabalho, no altruismo e no respeito
+Estes e outros factos provam-nos exuberantemente que o futuro n„o
+pertence aos complicados armamentos nem ao canh„o Krupp do nosso tempo,
+mas, sim, · obra fecunda da paz, no trabalho, no altruismo e no respeito
 pela dignidade de cada um e pela dignidade de todos.
 
 
@@ -765,52 +765,52 @@ III
 Arbitragem internacional
 
 
-De todas as id√©as pacificas, a mais estudada e a que mais conquistas tem
+De todas as idÈas pacificas, a mais estudada e a que mais conquistas tem
 feito no terreno pratico e no campo positivo, tem sido, sem duvida, a
 _arbitragem internacional_. Foram mais de 150 os casos de arbitragem que
-regularam os litigios entre Estados, desde o com√™√ßo d'este seculo.
+regularam os litigios entre Estados, desde o comÍÁo d'este seculo.
 
 Os Congressos e aa Sociedades da paz, o Instituto de direito
-internacional, a Associa√ß√£o para a reforma e codifica√ß√£o do direito das
-gentes, uma sub-commiss√£o do _Bureau_ internacional permanente da paz,
-um _comit√©_ instituido pelo Congresso de Chicago, occuparam-se e
-occupam-se ainda, com egual competencia e egual z√™lo, dos meios de
-alargar os processos, seguidos at√© o presente com certas reservas e
+internacional, a AssociaÁ„o para a reforma e codificaÁ„o do direito das
+gentes, uma sub-commiss„o do _Bureau_ internacional permanente da paz,
+um _comitÈ_ instituido pelo Congresso de Chicago, occuparam-se e
+occupam-se ainda, com egual competencia e egual zÍlo, dos meios de
+alargar os processos, seguidos atÈ o presente com certas reservas e
 certa timidez, para se estabelecer definitivamente a arbitragem em todas
 as contendas internacionaes. Juristas eminentes elaboraram projectos de
 grande alcance, destinados a serem submettidos aos governos, tendo em
-vista a composi√ß√£o e attribui√ß√µes de tribunaes internacionaes assim como
+vista a composiÁ„o e attribuiÁıes de tribunaes internacionaes assim como
 o processo arbitral a seguir. Teem sido publicadas obras
-importantissimas sobre a quest√£o da arbitragem internacional, nos seus
-principios e nas suas applica√ß√µes. Entre outras apraz-nos mencionar as
-de Michel Revon e as do professor M√©rignhac.
+importantissimas sobre a quest„o da arbitragem internacional, nos seus
+principios e nas suas applicaÁıes. Entre outras apraz-nos mencionar as
+de Michel Revon e as do professor MÈrignhac.
 
-A conferencia inter-parlamentar de 1895, em Bruxellas, reuniu, n'um s√≥,
-tres projectos de organisa√ß√£o de um tribunal internacional ou de um
-collegio de √°rbitros e encarregou o seu _Bureau_ de fazer um app√™llo aos
-Estados que quizessem formar uma primeira uni√£o sobre estas bases. Este
+A conferencia inter-parlamentar de 1895, em Bruxellas, reuniu, n'um sÛ,
+tres projectos de organisaÁ„o de um tribunal internacional ou de um
+collegio de ·rbitros e encarregou o seu _Bureau_ de fazer um appÍllo aos
+Estados que quizessem formar uma primeira uni„o sobre estas bases. Este
 projecto, redigido pelo sr. Augusto Houzeau Delahaie, actualmente
 senador belga, foi publicado e commentado polo sr. E. Decamps, e em
-seguida enviado a todos os governos, sob a f√≥rma de memoria, induzindo
-alguns Estados neutros a formarem o nucleo de uma primeira Uni√£o
+seguida enviado a todos os governos, sob a fÛrma de memoria, induzindo
+alguns Estados neutros a formarem o nucleo de uma primeira Uni„o
 internacional de arbitragem sobre as bases propostas.
 
-A conclus√£o de tratados de arbitragem permanente est√° hoje, mais do que
+A conclus„o de tratados de arbitragem permanente est· hoje, mais do que
 nunca, na ordem do dia. Um grande passo foi dado, n'este sentido, no fim
 do anno passado, pela assignatura de um _tratado de arbitragem
 permanente entre a Gran-Bretanha e os Estados-Unidos da America_. Este
-tratado n√£o foi ainda ratificado, mas espera-se que o seja em breve. O
-governo dos Estados Unidos da America, n√£o s√≥ se dirigiu √° Suissa como
-tambem √° Fran√ßa, no sentido de entabolar negocia√ß√µes, afim de
+tratado n„o foi ainda ratificado, mas espera-se que o seja em breve. O
+governo dos Estados Unidos da America, n„o sÛ se dirigiu · Suissa como
+tambem · FranÁa, no sentido de entabolar negociaÁıes, afim de
 estabelecer tratados de arbitragem permanente com as duas mencionadas
-na√ß√µes.
+naÁıes.
 
-Todas estas informa√ß√µes, ali√°s bem authenticas, nos foram fornecidas
+Todas estas informaÁıes, ali·s bem authenticas, nos foram fornecidas
 pelo proprio secretario do _Bureau_, o sr. Elie Ducommun, no seu
-_Programme pratique des amis de la paix_, e s√£o de molde a incutir
-alento aos espiritos ainda os mais refractarios a estas quest√µes.
+_Programme pratique des amis de la paix_, e s„o de molde a incutir
+alento aos espiritos ainda os mais refractarios a estas questıes.
 
-N√£o ha duvida que s√£o enormes e incontestados os progressos, no campo da
+N„o ha duvida que s„o enormes e incontestados os progressos, no campo da
 arbitragem. Para se aquilatar da sua importancia, bastar-nos-na
 consultar a lista dos principaes tratados de arbitragem, realizados
 n'este seculo.
@@ -818,25 +818,25 @@ n'este seculo.
 1--Entre os Estados Unidos e a Gran-Bretanha em 1816, relativo ao rio de
 Santa Cruz e aos Lagos;
 
-2--Entre os Estados-Unidos e a Gran-Bretanha em 1818, com respeito √°
-obriga√ß√£o de entregar os escravos, submettidos ao julgamento do
+2--Entre os Estados-Unidos e a Gran-Bretanha em 1818, com respeito ·
+obrigaÁ„o de entregar os escravos, submettidos ao julgamento do
 imperador da Russia;
 
-3--Entre os Estados-Unidos e a Hespanha, em 1819, relativamente √°s
-reclama√ß√µes da Florida;
+3--Entre os Estados-Unidos e a Hespanha, em 1819, relativamente ·s
+reclamaÁıes da Florida;
 
-4--Entre os Estados-Unidos e a Gran-Bretanha em 1827, por uma quest√£o de
-limites: submettido √° decis√£o do rei dos Paizes Baixos;
+4--Entre os Estados-Unidos e a Gran-Bretanha em 1827, por uma quest„o de
+limites: submettido · decis„o do rei dos Paizes Baixos;
 
 5--Entre os Estados-Unidos e a Dinamarca em 1830;
 
 6--Entre a Beigica e a Hollanda em 1834;
 
-7--Entre a Fran√ßa e a Inglaterra em 1835;
+7--Entre a FranÁa e a Inglaterra em 1835;
 
 8--Entre os Estados-Unidos e o Mexico em 1839;
 
-9--Entre os Estados-Unidos e Portugal em 1835; submettido √° decis√£o do
+9--Entre os Estados-Unidos e Portugal em 1835; submettido · decis„o do
 imperador dos francezes;
 
 10--Entre os Estados-Unidos e a Inglaterra em 1853;
@@ -853,16 +853,16 @@ imperador dos francezes;
 
 16--Entre a Gran-Bretanha e o Brazil em 1863;
 
-17--Entre os Estados-Unidos e o Per√∫ em 1863;
+17--Entre os Estados-Unidos e o Per˙ em 1863;
 
-18--Entre os Estados-Unidos e a Gran-Bretanha em 1863, relativo √°
+18--Entre os Estados-Unidos e a Gran-Bretanha em 1863, relativo ·
 companhia da bahia de Hudson;
 
-19--Entre a Fran√ßa e o Mexico em 1839;
+19--Entre a FranÁa e o Mexico em 1839;
 
 20--Entre os Estados-Unidos e Venezuela em 1866;
 
-21--Entre a Fran√ßa e a Russia em 1867;
+21--Entre a FranÁa e a Russia em 1867;
 
 22--Entre a Turquia e a Grecia em 1867 e em 1882;
 
@@ -870,10 +870,10 @@ companhia da bahia de Hudson;
 
 24--Entre os Estados-Unidos e o Mexico em 1868;
 
-25--Entre os Estados-Unidos e o Per√∫ em 1868 e era 1869;
+25--Entre os Estados-Unidos e o Per˙ em 1868 e era 1869;
 
-26--Entre a Gran-Bretanha e o Per√∫, em 1864; o senado de Hamburgo,
-escolhido como √°rbitro, rejeita as allega√ß√µes da Inglaterra;
+26--Entre a Gran-Bretanha e o Per˙, em 1864; o senado de Hamburgo,
+escolhido como ·rbitro, rejeita as allegaÁıes da Inglaterra;
 
 27--Entre os Estados-Unidos e o Brazil em 1870;
 
@@ -884,13 +884,13 @@ escolhido como √°rbitro, rejeita as allega√ß√µes da Inglaterra;
 30--Entre oa Estados-Unidos e a Gran-Bretanha, com respeito ao Alabama,
 em 1871;
 
-31--Entre o Jap√£o e o Per√∫, em 1872; o imperador da Russia, escolhido
-como √°rbitro, decide em favor do Jap√£o;
+31--Entre o Jap„o e o Per˙, em 1872; o imperador da Russia, escolhido
+como ·rbitro, decide em favor do Jap„o;
 
-32--Entre os Estados-Unidos e a Gran-Bretanha em 1871 (quest√£o de San
+32--Entre os Estados-Unidos e a Gran-Bretanha em 1871 (quest„o de San
 Juan e das pescarias da Nova Escocia);
 
-33--Entre a China e o Jap√£o em 1879; √°rbitro o ex-presidente dos
+33--Entre a China e o Jap„o em 1879; ·rbitro o ex-presidente dos
 Estados-Unidos, Ulysse Grant;
 
 34--Entre a Gran-Bretanha e o Brazil em 1873; submettido aos ministros
@@ -902,7 +902,7 @@ Estados-Unidos na Italia;
 36--Entre a Gran-Bretanha e Portugal em 1875; submettido ao presidente
 da Republica franceza;
 
-37--Entre a China e o Jap√£o em 1876;
+37--Entre a China e o Jap„o em 1876;
 
 38--Entre a Persia e o Afghanistan em 1877;
 
@@ -912,49 +912,49 @@ da Republica franceza;
 
 41--Entre a Gran-Bretanha e Nicaragua em 1879 e 1881;
 
-42--Entre os Estados-Unidos e a Fran√ßa em 1880;
+42--Entre os Estados-Unidos e a FranÁa em 1880;
 
-43--Entre a Gran-Bretanha e a Russia em 1885; quest√£o de fronteira
-asiatica, submettida a uma commiss√£o;
+43--Entre a Gran-Bretanha e a Russia em 1885; quest„o de fronteira
+asiatica, submettida a uma commiss„o;
 
-44--Entre a Fran√ßa e Nicaragua em 1881;
+44--Entre a FranÁa e Nicaragua em 1881;
 
 45--Entre o Chili e a Colombia em 1881;
 
 46--Entre o Chili e a Republica Argentina, relativo ao Estreito de
-Magalh√£es em 1881; submettido ao presidente dos Estados-Unidos;
+Magalh„es em 1881; submettido ao presidente dos Estados-Unidos;
 
 47--Entre a Hollanda e o Haiti em 1882;
 
 48--Entre os Estados-Unidos e o Haiti em 1884;
 
-49--Entre a Inglaterra e a Allemanha, com respeito √°s ilhas Fidj√º em
+49--Entre a Inglaterra e a Allemanha, com respeito ·s ilhas Fidj¸ em
 1885;
 
 50--Entre os Estados-Unidos e a Allemanha em 1887;
 
-51--Entre a Allemanha e a Hespanha, relativo √°s Carolinas; submettido ao
+51--Entre a Allemanha e a Hespanha, relativo ·s Carolinas; submettido ao
 papa em 1885;
 
-52--Entre a Fran√ßa e a Inglaterra (1884), a Italia, de um lado, e o
-Chili, do outro, com respeito √°s reclama√ß√µes provenientes da guerra
-entre o Chili e o Per√∫;
+52--Entre a FranÁa e a Inglaterra (1884), a Italia, de um lado, e o
+Chili, do outro, com respeito ·s reclamaÁıes provenientes da guerra
+entre o Chili e o Per˙;
 
-153--Entre o Per√∫ e o Jap√£o, relativo √° captura de um barco da primeira
-d'estas na√ß√µes;
+153--Entre o Per˙ e o Jap„o, relativo · captura de um barco da primeira
+d'estas naÁıes;
 
 54--Entre Honduras, Guatemala e Salvador em 1886;
 
-55--Entre duas povoa√ß√µes africanas em 1887, submettidas ao administrador
+55--Entre duas povoaÁıes africanas em 1887, submettidas ao administrador
 do Bechuanaland britannico;
 
-56--Entre a Gran-Bretanha, os Estados-Unidos e o Canad√°;
+56--Entre a Gran-Bretanha, os Estados-Unidos e o Canad·;
 
 57--Entre Nicaragua e Costa Ricca, em 1887 e em 1889; submettido ao
 presidente dos Estados Unidos;
 
 58--Entre a Gran-Bretanha e a Hespanha, relativo a um conflicto no mar;
-√°rbitro, a Italia, em 1887;
+·rbitro, a Italia, em 1887;
 
 59--Entre a Italia e a Colombia em 1888; submettido ao governo da
 Hespanha;
@@ -962,80 +962,80 @@ Hespanha;
 60--Entre a Italia e a Colombia, por causa de um conflicto no mar, em
 1888;
 
-61--Entre os Estados-Unidos e Marrocos, com a Italia, por √°rbitro, em
+61--Entre os Estados-Unidos e Marrocos, com a Italia, por ·rbitro, em
 1888;
 
-62--Entre Portugal e Marrocos; √°rbitro, a Fran√ßa, em 1888;
+62--Entre Portugal e Marrocos; ·rbitro, a FranÁa, em 1888;
 
-63--Entre a Dinamarca e os Estados-Unidos em 1889 (reclama√ß√£o chamada
+63--Entre a Dinamarca e os Estados-Unidos em 1889 (reclamaÁ„o chamada
 Butterfield);
 
-64--Entre a Hollanda e a Fran√ßa; a proposito das fronteiras de Surinam;
-√°rbitro, o imperador da Russia (1889); decis√£o em favor da Hollanda;
+64--Entre a Hollanda e a FranÁa; a proposito das fronteiras de Surinam;
+·rbitro, o imperador da Russia (1889); decis„o em favor da Hollanda;
 
-65--Entre o Brazil e la Plata; √°rbitro, o presidente dos Estados-Unidos,
+65--Entre o Brazil e la Plata; ·rbitro, o presidente dos Estados-Unidos,
 em 1889;
 
 66--Entre a Gran-Bretanha e a Allemanha, com respeito a uma ilha
-africana, 1890; √°rbitro, um ministro do Estado belga;
+africana, 1890; ·rbitro, um ministro do Estado belga;
 
 67--Entre a Gran-Bretanha e Portugal (1890), relativo ao caminho de
-ferro de Louren√ßo Marques, √°rbitros suissos;
+ferro de LourenÁo Marques, ·rbitros suissos;
 
-68--Entre a Gran-Bretanha e os Estados-Unidos; 1891, com respeito √°s
+68--Entre a Gran-Bretanha e os Estados-Unidos; 1891, com respeito ·s
 pescarias no mar de Behring;
 
-69--Entre a Gran-Bretanha e a Fran√ßa, relativo √°s pescarias na Terra
-Nova, 1891; √°rbitro, uma commiss√£o de 7 membros;
+69--Entre a Gran-Bretanha e a FranÁa, relativo ·s pescarias na Terra
+Nova, 1891; ·rbitro, uma commiss„o de 7 membros;
 
-70--A Commiss√£o danubiana, estabelecida em 1856, constitue um tribunal
+70--A Commiss„o danubiana, estabelecida em 1856, constitue um tribunal
 de arbitragem permanente;
 
 71--O Congresso de Berlim, em 1878, foi, na realidade, um tribunal de
 arbitragem, organisado por sete grandes potencias para regular as
-reclama√ß√µes de differentes Estados na peninsula dos Balkans;
+reclamaÁıes de differentes Estados na peninsula dos Balkans;
 
 72--O Congresso Pan-americano, reunido em Washington, a 28 de abril de
-1890, adoptou uma mo√ß√£o convidando todas as republicas americanas a
-submetterem, d'aquelle dia em deante, as suas quest√µes √° arbitragem.
-Esta mo√ß√£o foi adoptada por 17 republicas;
+1890, adoptou uma moÁ„o convidando todas as republicas americanas a
+submetterem, d'aquelle dia em deante, as suas questıes · arbitragem.
+Esta moÁ„o foi adoptada por 17 republicas;
 
 73--Tratado permanente de arbitragem entre a Inglaterra e os Estados
-Unidos, assignado em 1897, v√°lido por cinco annos e podendo ser renovado
+Unidos, assignado em 1897, v·lido por cinco annos e podendo ser renovado
 em pleno direito e indefinidamente.
 
 74--Entre a Inglaterra e o Brazil, por causa da ilha da Trindade, em
-1896; √°rbitro Portugal.
+1896; ·rbitro Portugal.
 
-Os principios geraes, adoptados por todos os pacificos, s√£o os
-seguintes: a politica n√£o √© sen√£o a applica√ß√£o da moral; as regras do
-justo e do injusto s√£o as mesmas, tanto para as na√ß√µes, como para os
-individuos; e o fundamento commum d'estas regras √© a autonomia da
+Os principios geraes, adoptados por todos os pacificos, s„o os
+seguintes: a politica n„o È sen„o a applicaÁ„o da moral; as regras do
+justo e do injusto s„o as mesmas, tanto para as naÁıes, como para os
+individuos; e o fundamento commum d'estas regras È a autonomia da
 consciencia individual. O direito publico moderno repousa em principios
 inteiramente differentes d'aquelles de que o faziam derivar os
-tratadistas antigos; e a Revolu√ß√£o--na phrase judiciosa de Ch.
-Lemonnier--n√£o √© outra cousa sen√£o a applica√ß√£o d'estes principios
-novos, quer nas rela√ß√µes dos cidad√£os entre si, quer na constitui√ß√£o dos
-governos, quer nas rela√ß√µes dos cidad√£os com os governos. Para fundar a
-paz internacional, √© mist√©r proclamar ousadamente o direito novo, em
-harmonia com as regras da moral e da justi√ßa, e tornal-o comprehensivel
+tratadistas antigos; e a RevoluÁ„o--na phrase judiciosa de Ch.
+Lemonnier--n„o È outra cousa sen„o a applicaÁ„o d'estes principios
+novos, quer nas relaÁıes dos cidad„os entre si, quer na constituiÁ„o dos
+governos, quer nas relaÁıes dos cidad„os com os governos. Para fundar a
+paz internacional, È mistÈr proclamar ousadamente o direito novo, em
+harmonia com as regras da moral e da justiÁa, e tornal-o comprehensivel
 a todos os espiritos, pela pratica d'estes mesmos principios, nas
-rela√ß√µes dos povos entre si. Eis, em breves palavras, a base, o
+relaÁıes dos povos entre si. Eis, em breves palavras, a base, o
 fundamento e a necessidade dos tratados de arbitragem permanente entre
-na√ß√µes.
+naÁıes.
 
 A palavra de ordem, dada por um dos mais dedicados apostolos do
-movimento pacifico, √© a seguinte:
+movimento pacifico, È a seguinte:
 
 _Exigir de todos os mandatarios do suffragio universal, e especialmente
 dos membros do parlamento, o compromisso formal:_
 
-_1.¬∫--Que se oppor√£o a toda a declara√ß√£o de guerra que n√£o haja sido
+_1.∫--Que se oppor„o a toda a declaraÁ„o de guerra que n„o haja sido
 precedida de uma tentativa de arbitragem;_
 
-_2.¬∫--Que votar√£o os tratados de arbitragem propostos;_
+_2.∫--Que votar„o os tratados de arbitragem propostos;_
 
-_3.¬∫--Que dar√£o a sua adhes√£o √° conferencia inter-parlamentar._
+_3.∫--Que dar„o a sua adhes„o · conferencia inter-parlamentar._
 
 
 
@@ -1046,101 +1046,101 @@ Desarmamento
 
 
 Ha quem considere o desarmamento, como um meio para conseguir a paz.
-Divergimos dos que assim pensam. O desarmamento ser√° antes um resultado
-da paz e nunca um meio para a obter. Folgamos que f√¥sse tambem esta a
-opini√£o consignada na memoria apresentada, ao congresso de Hamburgo,
+Divergimos dos que assim pensam. O desarmamento ser· antes um resultado
+da paz e nunca um meio para a obter. Folgamos que fÙsse tambem esta a
+opini„o consignada na memoria apresentada, ao congresso de Hamburgo,
 pelo sr. Gaston Moch.
 
-Sabemos j√° que a causa da arbitragem ganha terreno de dia para dia; que
-est√° perfeitamente em harmonia com as aspira√ß√µes dos povos e os seus
-interesses economicos; que se opp√µe aos exercitos permanentes e que as
-massas trabalhadoras n√£o teem o minimo interesse na guerra.
+Sabemos j· que a causa da arbitragem ganha terreno de dia para dia; que
+est· perfeitamente em harmonia com as aspiraÁıes dos povos e os seus
+interesses economicos; que se oppıe aos exercitos permanentes e que as
+massas trabalhadoras n„o teem o minimo interesse na guerra.
 
-Ser√°, por√©m, possivel um desarmamento? Em que condi√ß√µes?
+Ser·, porÈm, possivel um desarmamento? Em que condiÁıes?
 
 O desarmamento constitue, como a arbitragem, um dos artigos do programma
-da paz. Os exercitos permanentes roubam √° produc√ß√£o milhares e milhares
-de bra√ßos v√°lidos e aptos para trabalhar. Manteem, al√©m d'isso, com
-todos os vicios que lhes s√£o inherentes, o desequilibrio nos or√ßamentos
-de todos os paizes. A sua suppress√£o imp√µe-se. Mas como? Pela recusa ao
-servi√ßo militar, do mesmo modo que as guerras se poder√£o, at√© certo
-ponto, evitar pela declara√ß√£o de uma greve geral. Para grandes males,
+da paz. Os exercitos permanentes roubam · producÁ„o milhares e milhares
+de braÁos v·lidos e aptos para trabalhar. Manteem, alÈm d'isso, com
+todos os vicios que lhes s„o inherentes, o desequilibrio nos orÁamentos
+de todos os paizes. A sua suppress„o impıe-se. Mas como? Pela recusa ao
+serviÁo militar, do mesmo modo que as guerras se poder„o, atÈ certo
+ponto, evitar pela declaraÁ„o de uma greve geral. Para grandes males,
 grandes remedios.
 
-Em nosso juizo, s√≥ a federa√ß√£o entre povos poder√° obrigar as na√ß√µes a
-desarmar. Emquanto, por√©m, isso se n√£o consegue, √© nosso dever trabalhar
-para um desarmamento, sen√£o total e completo, pelo menos parcial e
+Em nosso juizo, sÛ a federaÁ„o entre povos poder· obrigar as naÁıes a
+desarmar. Emquanto, porÈm, isso se n„o consegue, È nosso dever trabalhar
+para um desarmamento, sen„o total e completo, pelo menos parcial e
 simultaneo. Jules Simon chegou a tomar a iniciativa d'uma proposta para
-a conclus√£o de uma tr√©gua, assegurada por dez annos, ou, pelo menos, at√©
-a Exposi√ß√£o de 1900. Uma paz definitiva, um desarmamento parcial e a
-institui√ß√£o de um tribunal internacional, deveriam ser a consequencia
-d'esta id√©a. Em Inglaterra, teem-se erguido vozes auctorisadas, afim de
-pedirem √°s potencias que se compromettam entre si a n√£o augmentarem os
-seus armamentos, durante um certo e determinado periodo, uma vez que n√£o
+a conclus„o de uma trÈgua, assegurada por dez annos, ou, pelo menos, atÈ
+a ExposiÁ„o de 1900. Uma paz definitiva, um desarmamento parcial e a
+instituiÁ„o de um tribunal internacional, deveriam ser a consequencia
+d'esta idÈa. Em Inglaterra, teem-se erguido vozes auctorisadas, afim de
+pedirem ·s potencias que se compromettam entre si a n„o augmentarem os
+seus armamentos, durante um certo e determinado periodo, uma vez que n„o
 possam renunciar completamente a toda a velleidade de guerra.
 
-Estes planos, ali√°s muito generosos, n√£o passariam de simples
-palliativos. O que se torna indispensavel √© atacar o mal na sua origem
-que √© o exagg√™ro dos encargos militares impostos √°s popula√ß√µes. Uma
-tr√©gua n√£o traria comsigo a suppress√£o dos exercitos que se torna
-necessaria, e o compromisso de n√£o augmentar os armamentos n√£o
+Estes planos, ali·s muito generosos, n„o passariam de simples
+palliativos. O que se torna indispensavel È atacar o mal na sua origem
+que È o exaggÍro dos encargos militares impostos ·s populaÁıes. Uma
+trÈgua n„o traria comsigo a suppress„o dos exercitos que se torna
+necessaria, e o compromisso de n„o augmentar os armamentos n„o
 alliviaria o pesado fardo que esmaga a Europa.
 
-Com effeito--escreve Elie Ducommun--a reduc√ß√£o das despesas militares
-constitue apenas um dos termos do problema a resolver: o outro, n√£o
-menos importante, √© o afastamento das probabilidades de guerra.
+Com effeito--escreve Elie Ducommun--a reducÁ„o das despesas militares
+constitue apenas um dos termos do problema a resolver: o outro, n„o
+menos importante, È o afastamento das probabilidades de guerra.
 
 Um _desarmamento parcial_ actuaria incontestavelmente nos dois sentidos,
 ao mesmo tempo como meio de diminuir as probabilidades de guerra e de
 alliviar os encargos militares.
 
-Os Estados da Europa dispendem, actualmente, 5 bili√µes de francos, por
+Os Estados da Europa dispendem, actualmente, 5 biliıes de francos, por
 anno, com o militarismo: collocando-se, sob o regimen da paz de 1869,
-n√£o dispenderiam mais de 2 3/4. O augmento de 2:500 milh√µes de francos,
+n„o dispenderiam mais de 2 3/4. O augmento de 2:500 milhıes de francos,
 por anno, nas despesas militares da Europa, foi o resultado das guerras
 de 1886 entre a Russia e a Austria e de 1870-71 entre a Allemanha e a
-Fran√ßa.
+FranÁa.
 
-O desarmamento significaria diminui√ß√£o de impostos; amortisa√ß√£o de uma
-parte das dividas publicas, pondo ao servi√ßo da industria e da
-agricultura os capitaes disponiveis; o equilibrio das rela√ß√µes entre a
-produc√ß√£o e o consumo, e um augmento sempre crescente de hygiene, de
+O desarmamento significaria diminuiÁ„o de impostos; amortisaÁ„o de uma
+parte das dividas publicas, pondo ao serviÁo da industria e da
+agricultura os capitaes disponiveis; o equilibrio das relaÁıes entre a
+producÁ„o e o consumo, e um augmento sempre crescente de hygiene, de
 saude e de moralidade para os povos.
 
-Como chegar, por√©m, at√© l√°? Como conseguil-o?
+Como chegar, porÈm, atÈ l·? Como conseguil-o?
 
-Napole√£o III fez v√°rias tentativas n'esse sentido. A sua id√©a fixa era o
-desarmamento e a federac√£o europ√™a, apesar das guerras em que andou
+Napole„o III fez v·rias tentativas n'esse sentido. A sua idÈa fixa era o
+desarmamento e a federac„o europÍa, apesar das guerras em que andou
 sempre envolvido.
 
-Em 1863 propoz √°s potencias a reuni√£o de um congresso, para uma revis√£o
+Em 1863 propoz ·s potencias a reuni„o de um congresso, para uma revis„o
 amigavel dos tratados de 1815 e para o desarmamento geral. Em 1815, no
-discurso da cor√¥a, por occasi√£o da abertura das camaras, deplorava a
-indifferen√ßa dos outros soberanos, relativamente "aos verdadeiros
+discurso da corÙa, por occasi„o da abertura das camaras, deplorava a
+indifferenÁa dos outros soberanos, relativamente "aos verdadeiros
 interesses dos povos". Em fevereiro de 1870, negociava com a Inglaterra,
 para que esta o ajudasse a vencer a resistencia da Prussia, e annunciava
-que daria o primeiro passo, reduzindo, a titulo de indica√ß√£o, o proximo
-contingente; esta reduc√ß√£o--dizia elle--seria de 10.000 homens s√≥mente.
-Com effeito, a 21 de mar√ßo de 1870, os seus ministros apresentaram um
-projecto de reduc√ß√£o, para o proximo contingente, de 100.000 a 90.000
-homens. Este projecto foi votado pelo corpo legislativo no 1.¬∫ de julho
-de 1870, por occasi√£o do incidente Hohenzollern. A guerra foi declarada
+que daria o primeiro passo, reduzindo, a titulo de indicaÁ„o, o proximo
+contingente; esta reducÁ„o--dizia elle--seria de 10.000 homens sÛmente.
+Com effeito, a 21 de marÁo de 1870, os seus ministros apresentaram um
+projecto de reducÁ„o, para o proximo contingente, de 100.000 a 90.000
+homens. Este projecto foi votado pelo corpo legislativo no 1.∫ de julho
+de 1870, por occasi„o do incidente Hohenzollern. A guerra foi declarada
 a 15 de julho.
 
-No estado de desconfian√ßa em que hoje vivem as na√ß√µes, um desarmamento
-total seria difficil, sen√£o impossivel. Mas n√£o ha duvida que um
+No estado de desconfianÁa em que hoje vivem as naÁıes, um desarmamento
+total seria difficil, sen„o impossivel. Mas n„o ha duvida que um
 desarmamento proporcional e simultaneo seria um grande passo dado no
-sentido de uma solu√ß√£o pacifica.
+sentido de uma soluÁ„o pacifica.
 
-Quaes os meios, por√©m, de o conseguir?
+Quaes os meios, porÈm, de o conseguir?
 
-Creando e desenvolvendo uma forte corrente de opini√£o internacional, de
+Creando e desenvolvendo uma forte corrente de opini„o internacional, de
 modo a actuar, de uma maneira decisiva, sobre os parlamentos e sobre os
 governos.
 
 Quando os povos se convencerem que todo esse luxo de guerra serve
-unicamente para destruir e para os reduzir √° miseria, n'esse dia os
-armamentos passar√£o, com applauso de todos, a figurar nos museus
+unicamente para destruir e para os reduzir · miseria, n'esse dia os
+armamentos passar„o, com applauso de todos, a figurar nos museus
 archeologicos.
 
 
@@ -1151,19 +1151,19 @@ V
 A obra da paz
 
 
-Na sua reuni√£o de 6 de mar√ßo de 1897, resolveu a commiss√£o do _Bureau
-internacional_ publicar as resolu√ß√µes dos congressos universaes da paz,
-que se realisaram de 1889 a 1896, classificadas segundo as indica√ß√µes de
+Na sua reuni„o de 6 de marÁo de 1897, resolveu a commiss„o do _Bureau
+internacional_ publicar as resoluÁıes dos congressos universaes da paz,
+que se realisaram de 1889 a 1896, classificadas segundo as indicaÁıes de
 Alfredo Nobel no seu testamento:
 
-1.¬∫--_Approxima√ß√£o fraternal dos povos;_
+1.∫--_ApproximaÁ„o fraternal dos povos;_
 
-2.¬∫--_Reduc√ß√£o dos exercitos;_
+2.∫--_ReducÁ„o dos exercitos;_
 
-3.¬∫--_Organiza√ß√£o e desenvolvimento dos congressos da paz._
+3.∫--_OrganizaÁ„o e desenvolvimento dos congressos da paz._
 
 
-I. Approxima√ß√£o fraternal dos povos
+I. ApproximaÁ„o fraternal dos povos
 
 
 A. Tendencia geral
@@ -1171,49 +1171,49 @@ A. Tendencia geral
 Os principios seguintes foram proclamados em muitos congressos:
 
 A fraternidade entre os homens implica necessariamente _a fraternidade
-entre as na√ß√µes_, nas suas rela√ß√µes.
+entre as naÁıes_, nas suas relaÁıes.
 
 Cada Estado soberano deve ser considerado como _egual a todos os
 outros_, no ponto de vista juridico.
 
-A institui√ß√£o de uma _Federa√ß√£o europ√™a_ poria termo ao estado actual de
-anarchia internacional, sem lesar a independencia de cada na√ß√£o. Ella
+A instituiÁ„o de uma _FederaÁ„o europÍa_ poria termo ao estado actual de
+anarchia internacional, sem lesar a independencia de cada naÁ„o. Ella
 deve constituir o fim supremo da propaganda dos amigos da paz que
-desejam resolver os conflictos pela lei e n√£o pela violencia.
+desejam resolver os conflictos pela lei e n„o pela violencia.
 
-√Å propaganda da paz, deve juntar-se a propaganda da _moral em politica_.
+¡ propaganda da paz, deve juntar-se a propaganda da _moral em politica_.
 
 Os _direitos dos extrangeiros_ devem ser protegidos, assim como devem
 ser garantidos os tratados internacionaes.
 
-Toda a intelligencia dos povos com o fim de constituirem uma federa√ß√£o,
-n√£o pode sen√£o contribuir para o estabelecimento da paz entre as na√ß√µes.
-Apoiamos, por isso, a id√©a da organisa√ß√£o de uma liga para a
-_Confedera√ß√£o balkanica_.
+Toda a intelligencia dos povos com o fim de constituirem uma federaÁ„o,
+n„o pode sen„o contribuir para o estabelecimento da paz entre as naÁıes.
+Apoiamos, por isso, a idÈa da organisaÁ„o de uma liga para a
+_ConfederaÁ„o balkanica_.
 
 
 B. Principios de direito internacional
 
-O direito de guerra n√£o existe, assim como n√£o existe o direito de
+O direito de guerra n„o existe, assim como n„o existe o direito de
 conquista.
 
-As rela√ß√µes entre as na√ß√µes s√£o regidas pelos mesmos principios do
-direito e da moral que regem as rela√ß√µes entre os individuos.
+As relaÁıes entre as naÁıes s„o regidas pelos mesmos principios do
+direito e da moral que regem as relaÁıes entre os individuos.
 
-Assim como ningu√©m tem o direito de fazer justi√ßa por suas proprias
-m√£os, assim tambem nenhuma na√ß√£o tem o direito de declarar guerra a
+Assim como ninguÈm tem o direito de fazer justiÁa por suas proprias
+m„os, assim tambem nenhuma naÁ„o tem o direito de declarar guerra a
 outra.
 
-Qualquer conflicto entre na√ß√µes ser√° regulado por via juridica.
+Qualquer conflicto entre naÁıes ser· regulado por via juridica.
 
-A autonomia de cada na√ß√£o √© inviolavel.
+A autonomia de cada naÁ„o È inviolavel.
 
-As na√ß√µes teem o direito de legitima defesa.
+As naÁıes teem o direito de legitima defesa.
 
-As na√ß√µes teem o direito inalienavel e imprescriptivel de disporem de si
+As naÁıes teem o direito inalienavel e imprescriptivel de disporem de si
 mesmas.
 
-As na√ß√µes s√£o solidarias umas com as outras.
+As naÁıes s„o solidarias umas com as outras.
 
 
 C. Nacionalidades
@@ -1221,32 +1221,32 @@ C. Nacionalidades
 Resumo dos principios affirmados pelos congressos:
 
 Nos _Estados compostos de differentes nacionalidades_, os governos
-contribuiriam para a manuten√ß√£o da paz, tanto exterior como interior,
+contribuiriam para a manutenÁ„o da paz, tanto exterior como interior,
 se, a exemplo da Suissa, respeitassem o caracter ethnographico e o
 desenvolvimento das nacionalidades, em harmonia com as leis da liberdade
-e da justi√ßa.
+e da justiÁa.
 
-Os homens est√£o ligados por la√ßos communs de humanidade sobre a base
+Os homens est„o ligados por laÁos communs de humanidade sobre a base
 indestructivel da solidariedade e da fraternidade, e o _sentimento da
-nacionalidade_ ou do _patriotismo_ n√£o pode nunca ir de encontro a essa
-liga√ß√£o. Importa pois, opp√¥r √° propaganda que divide os homens por
-considera√ß√µes de meros interesses locaes ou pessoaes uma outra
+nacionalidade_ ou do _patriotismo_ n„o pode nunca ir de encontro a essa
+ligaÁ„o. Importa pois, oppÙr · propaganda que divide os homens por
+consideraÁıes de meros interesses locaes ou pessoaes uma outra
 propaganda que procure estabelecer a unidade e a fraternidade dos
-individuos, como base da sociedade e como principio das rela√ß√µes
+individuos, como base da sociedade e como principio das relaÁıes
 internacionaes.
 
 
-D. Rela√ß√µes do direito com os povos n√£o civilisados
+D. RelaÁıes do direito com os povos n„o civilisados
 
-Estas rela√ß√µes devem ser baseadas sobre as regras da justi√ßa
-internacional. Nenhum Estado poder√°, no futuro, apropriar-se dos
-territorios coloniaes. Os paizes em via de colonisa√ß√£o, devem ser
-abertos √° actividade de todos, sob a auctoridade de um concelho colonial
-a crear para as na√ß√µes policiadas.
+Estas relaÁıes devem ser baseadas sobre as regras da justiÁa
+internacional. Nenhum Estado poder·, no futuro, apropriar-se dos
+territorios coloniaes. Os paizes em via de colonisaÁ„o, devem ser
+abertos · actividade de todos, sob a auctoridade de um concelho colonial
+a crear para as naÁıes policiadas.
 
-Na espectativa, √© urgente que as potencias signatarias das decis√µes da
+Na espectativa, È urgente que as potencias signatarias das decisıes da
 conferencia de Berlim de 1884 a 1889 e do Acto de Bruxellas de 1890,
-relativos √° suppress√£o da escravid√£o e √° prohibi√ß√£o da venda das armas
+relativos · suppress„o da escravid„o e · prohibiÁ„o da venda das armas
 de fogo e das bebidas alcoolicas, tomem medidas effectivas, afim de
 regularem a sua observancia.
 
@@ -1254,160 +1254,160 @@ regularem a sua observancia.
 E. Arbitragens internacionaes
 
 Todos os congressos universaes da paz se teem occupado successivamente
-do principio da _arbitragem internacional_ e da sua applica√ß√£o, sob a
-reserva da autonomia de cada Estado, aconselhando a sua adop√ß√£o em todos
+do principio da _arbitragem internacional_ e da sua applicaÁ„o, sob a
+reserva da autonomia de cada Estado, aconselhando a sua adopÁ„o em todos
 os tratados, como clausula obrigatoria, e indicando a necessidade de
 concluir tratados de arbitragem permanente e de crear tribunaes de
-arbitragem internacional, tendo jurisdic√ß√£o em todos os conflictos que
-os governos n√£o possam resolver amigavelmente. Para esse fim teem-se os
-mesmos congressos dirigido, por differentes vezes, √°s sociedades
-operarias, √°s sociedades feministas, ao professorado, aos ministros das
-religi√µes, de modo a fomentar, em todos os paizes, uma agita√ß√£o popular
+arbitragem internacional, tendo jurisdicÁ„o em todos os conflictos que
+os governos n„o possam resolver amigavelmente. Para esse fim teem-se os
+mesmos congressos dirigido, por differentes vezes, ·s sociedades
+operarias, ·s sociedades feministas, ao professorado, aos ministros das
+religiıes, de modo a fomentar, em todos os paizes, uma agitaÁ„o popular
 e parlamentar n'este sentido
 
-Mereceram particularmente a atten√ß√£o d'essas assembl√©as as quest√µes que
-dizem respeito √° _sanc√ß√£o das senten√ßas arbitraes, aos limites da
-arbitragem_, √° f√≥rmula de um _tratado de arbitragem permanente_, ao
+Mereceram particularmente a attenÁ„o d'essas assemblÈas as questıes que
+dizem respeito · _sancÁ„o das sentenÁas arbitraes, aos limites da
+arbitragem_, · fÛrmula de um _tratado de arbitragem permanente_, ao
 processo a seguir perante os tribunaes arbitraes, tendo sempre apoiado
-os esfor√ßos tentados pelos governos para a conclus√£o de tratados de
+os esforÁos tentados pelos governos para a conclus„o de tratados de
 arbitragem.
 
 
-F. Estudo das quest√µes que podem amea√ßar a paz
+F. Estudo das questıes que podem ameaÁar a paz
 
 Os differentes congressos da paz emittiram successivamente os votos
 seguintes:
 
-1.¬∫--Organisa√ß√£o de reuni√µes dos representantes de diversos paizes, afim
-de estudarem todas as quest√µes internacionaes que podem amea√ßar a paz;
+1.∫--OrganisaÁ„o de reuniıes dos representantes de diversos paizes, afim
+de estudarem todas as questıes internacionaes que podem ameaÁar a paz;
 
-2.¬∫--Forma√ß√£o de um comit√©, composto de grande numero de membros das
-sociedades da paz, afim de se informarem dos factos graves que poder√£o
+2.∫--FormaÁ„o de um comitÈ, composto de grande numero de membros das
+sociedades da paz, afim de se informarem dos factos graves que poder„o
 occasionar uma guerra e afim de proporem as medidas que mais opportunas
 se lhes afigurem para afastar semelhante eventualidade.
 
-3.¬∫--Arbitragem em todos os conflictos que dividem as na√ß√µes da Europa.
+3.∫--Arbitragem em todos os conflictos que dividem as naÁıes da Europa.
 
-4.¬∫--Estudo seguro das causas de complica√ß√µes internacionaes que podem
-arrastar os povos √° guerra.
+4.∫--Estudo seguro das causas de complicaÁıes internacionaes que podem
+arrastar os povos · guerra.
 
 
-G. Federa√ß√£o para os interesses economicos
+G. FederaÁ„o para os interesses economicos
 
-O 2.¬∫ congresso havia j√° exprimido a sua satisfa√ß√£o, relativamente √°s
-conven√ß√µes internacionaes que regulam as _quest√µes de interesse commum_,
-taes como as conven√ß√µes postaes e telegraphicas, a conven√ß√£o sobre a
+O 2.∫ congresso havia j· exprimido a sua satisfaÁ„o, relativamente ·s
+convenÁıes internacionaes que regulam as _questıes de interesse commum_,
+taes como as convenÁıes postaes e telegraphicas, a convenÁ„o sobre a
 propriedade industrial, etc., que considerou como outros tantos meios de
 tornar harmonicas as leis dos differentes paizes em tudo que diz
-respeito √°s quest√µes commerciaes e humanitarias. Outrosim havia
+respeito ·s questıes commerciaes e humanitarias. Outrosim havia
 recommendado aos grupos parlamentares a insistencia sobre novos
-projectos de unifica√ß√£o de pesos e medidas, da moeda, etc., o que foi
-confirmado pelo 7.¬∫ congresso.
+projectos de unificaÁ„o de pesos e medidas, da moeda, etc., o que foi
+confirmado pelo 7.∫ congresso.
 
-A aboli√ß√£o gradual das _barreiras alfandegarias_ entre as na√ß√µes tambem
-constituiu assumpto de discuss√£o do 2.¬∫ congresso.
+A aboliÁ„o gradual das _barreiras alfandegarias_ entre as naÁıes tambem
+constituiu assumpto de discuss„o do 2.∫ congresso.
 
-A quest√£o de uma _lingua convencional_ foi dada, como elemento de
-estudo, no 7.¬∫ congresso.
+A quest„o de uma _lingua convencional_ foi dada, como elemento de
+estudo, no 7.∫ congresso.
 
 
 H. Inviolabilidade da vida humana
 
-O 6.¬∫ congresso proclamou o principio da inviolabilidade da vida humana,
+O 6.∫ congresso proclamou o principio da inviolabilidade da vida humana,
 limitando ao direito e defesa, o direito que tem a sociedade de punir, e
-demonstrando que a legitima defesa n√£o necessita nunca a applica√ß√£o da
+demonstrando que a legitima defesa n„o necessita nunca a applicaÁ„o da
 pena de morte.
 
 
 I. Duello
 
-Dois congressos successivos pronunciaram-se contra a pr√°tica do duello.
+Dois congressos successivos pronunciaram-se contra a pr·tica do duello.
 
 
-II. Reduc√ß√£o dos exercitos
+II. ReducÁ„o dos exercitos
 
 
 A. Desarmamento
 
-O 1.¬∫ congresso resolveu interessar-se junto dos governos, afim de os
-convencer a tomarem medidas pr√°ticas, conducentes a um desarmamento.
+O 1.∫ congresso resolveu interessar-se junto dos governos, afim de os
+convencer a tomarem medidas pr·ticas, conducentes a um desarmamento.
 
-O 2.¬∫ congresso propoz a reuni√£o dos Estados da Europa, com o fim de se
-estudarem os meios mais adequados √° realisa√ß√£o de um desarmamento
+O 2.∫ congresso propoz a reuni„o dos Estados da Europa, com o fim de se
+estudarem os meios mais adequados · realisaÁ„o de um desarmamento
 gradual. O governo que primeiro se resolvesse a licenciar uma parte do
-seu exercito, prestaria, com o seu exemplo, um grande servi√ßo √° Europa e
-√° humanidade, sem diminuir as condi√ß√µes da sua defesa nacional.
+seu exercito, prestaria, com o seu exemplo, um grande serviÁo · Europa e
+· humanidade, sem diminuir as condiÁıes da sua defesa nacional.
 
 Recommendou ainda mais, o mesmo congresso uma propaganda activa em favor
 de um programma que comportasse a paz, a arbitragem e um desarmamento
 mutuo, proporcional e simultaneo.
 
-O 4.¬∫ congresso dirigiu-se √°s potencias pedindo a substitui√ß√£o da
+O 4.∫ congresso dirigiu-se ·s potencias pedindo a substituiÁ„o da
 politica baseada sobre o principio: _Si vis pacem para bellum_ pela
 politica do desarmamento.
 
-O 5.¬∫ congresso enviou a express√£o da sua sympathia aos americanos que
-procuram remediar o deploravel estado atual de desconfian√ßa armada o
+O 5.∫ congresso enviou a express„o da sua sympathia aos americanos que
+procuram remediar o deploravel estado atual de desconfianÁa armada o
 libertar a patria do flagello devorador do militarismo.
 
-O 6.¬∫ congresso encarregou o seu _Bureau_ de transmittir √° conferencia
-inter-parlamentar a sua convic√ß√£o √°c√™rca dos tratados de arbitragem,
-porque s√≥ elles poderiam permittir √°s potencias a transforma√ß√£o dos seus
-armamentos e a reduc√ß√£o indispensavel ao equilibrio das suas finan√ßas.
+O 6.∫ congresso encarregou o seu _Bureau_ de transmittir · conferencia
+inter-parlamentar a sua convicÁ„o ·cÍrca dos tratados de arbitragem,
+porque sÛ elles poderiam permittir ·s potencias a transformaÁ„o dos seus
+armamentos e a reducÁ„o indispensavel ao equilibrio das suas finanÁas.
 
-Emfim o 7.¬∫ congresso protestou contra o augmento continuo das despesas
-feitas com o armamento, e n√£o s√≥ convidou os membros dos corpos
+Emfim o 7.∫ congresso protestou contra o augmento continuo das despesas
+feitas com o armamento, e n„o sÛ convidou os membros dos corpos
 legislativos a votarem contra o augmento futuro d'estas despesas, como
-tambem convidou os eleitores a n√£o darem o seu voto sen√£o √°quelles que
+tambem convidou os eleitores a n„o darem o seu voto sen„o ·quelles que
 se compromettessem a seguir esta linha de conducta.
 
 Em vista da propaganda a fazer, especialmente para um desarmamento
 parcial, os congressos convidaram as sociedades da paz a formular uma
-estatistica, t√£o completa e exacta quanto possivel, sobre as despesas
+estatistica, t„o completa e exacta quanto possivel, sobre as despesas
 directas e indirectas que acarretam a guerra e a paz armada.
 
 
 B. Neutralidade
 
-Os cinco primeiros congressos occuparam-se das quest√µes que se ligam √°
-neutralisa√ß√£o do maior numero de Estados, como garantia da paz e como
+Os cinco primeiros congressos occuparam-se das questıes que se ligam ·
+neutralisaÁ„o do maior numero de Estados, como garantia da paz e como
 meio para um desarmamento parcial.
 
 Depois de indicados os direitos e os deveres dos neutros, declararam
 esses mesmos congressos que os tratados que asseguram, presentemente, a
-certos Estados, o beneficio da neutralidade est√£o em vigor e que muito
+certos Estados, o beneficio da neutralidade est„o em vigor e que muito
 seria para desejar que se concluissem novos tratados, afim de
 estabelecer a neutralidade de outros Estados. Mais declararam ainda que
 os isthmos, os estreitos, e os cabos submarinos, utilizados pelo
-commercio, devem ser livres e que a sua neutraliza√ß√£o constitue uma
+commercio, devem ser livres e que a sua neutralizaÁ„o constitue uma
 garantia para todas as potencias maritimas. Appellaram, emfim, para a
 imprensa dos Estados-Unidos e da Gran-Bretanha para que ella usasse da
-sua influencia em vista da observa√ß√£o ao tratado de 1817, que prohibe a
+sua influencia em vista da observaÁ„o ao tratado de 1817, que prohibe a
 estada de navios de guerra nos grandes lagos e proclama a paz perpetua
 sobre estas aguas.
 
 
-C. Declara√ß√µes de guerra
+C. DeclaraÁıes de guerra
 
-Como consequencia da declara√ß√£o do direito de guerra, o 4.¬∫ congresso
-foi de opini√£o de que as probabilidades dos conflictos sangrentos se
+Como consequencia da declaraÁ„o do direito de guerra, o 4.∫ congresso
+foi de opini„o de que as probabilidades dos conflictos sangrentos se
 poderiam reduzir consideravelmente, desde que os poderes executivos
-fossem obrigados a consultar os representantes da sua na√ß√£o, antes de
+fossem obrigados a consultar os representantes da sua naÁ„o, antes de
 declarar uma guerra.
 
 
 D. Emprestimos de guerra
 
-O 4.¬∫ congresso desapprovou vivamente o systema de negociar emprestimos
-de guerra, e o 6.¬∫ congresso applicou este principio √° guerra entre a
-China e o Jap√£o.
+O 4.∫ congresso desapprovou vivamente o systema de negociar emprestimos
+de guerra, e o 6.∫ congresso applicou este principio · guerra entre a
+China e o Jap„o.
 
 
-E. Transforma√ß√£o dos exercitos
+E. TransformaÁ„o dos exercitos
 
-Uma proposta relativa √° transforma√ß√£o dos exercitos destruidores em
-exercitos productores, foi tomada em considera√ß√£o pelo 6.¬∫ congresso, e
-o 7.¬∫ nomeou uma commiss√£o para a estudar.
+Uma proposta relativa · transformaÁ„o dos exercitos destruidores em
+exercitos productores, foi tomada em consideraÁ„o pelo 6.∫ congresso, e
+o 7.∫ nomeou uma commiss„o para a estudar.
 
 
 III. Desenvolvimento dos congressos da paz
@@ -1418,292 +1418,292 @@ A. Congressos universaes da paz
 A serie dos congressos universaes da paz, foi inaugurada, em Paris, no
 anno de 1889, pela iniciativa e sob a presidencia de Frederico Passy.
 
-No anno seguinte, precisou-se o fim d'esta institui√ß√£o. As Sociedades da
-paz teem por objecto favorecer uma troca frequente de informa√ß√µes e de
-propostas e auxiliar uma ac√ß√£o commum, sendo necessario.
+No anno seguinte, precisou-se o fim d'esta instituiÁ„o. As Sociedades da
+paz teem por objecto favorecer uma troca frequente de informaÁıes e de
+propostas e auxiliar uma acÁ„o commum, sendo necessario.
 
-As Sociedades da paz foram convidadas a estabelecer rela√ß√µes com os
+As Sociedades da paz foram convidadas a estabelecer relaÁıes com os
 differentes Congressos internacionaes, communicando-lhes as suas
-resolu√ß√µes, e pedindo-lhes o seu apoio. Em cada uma das sete reuni√µes
-annuaes, desde 1889, estas sociedades teem-se esfor√ßado em regulamentar
+resoluÁıes, e pedindo-lhes o seu apoio. Em cada uma das sete reuniıes
+annuaes, desde 1889, estas sociedades teem-se esforÁado em regulamentar
 o melhor possivel os seus congressos, quer quanto ao direito de
-representa√ß√£o nas assembl√©as, quer quanto √° f√≥rma e √° marcha das
-delibera√ß√µes.
+representaÁ„o nas assemblÈas, quer quanto · fÛrma e · marcha das
+deliberaÁıes.
 
 
 B. Bureau internacional da paz
 
-No Congresso de Roma, em novembro de 1891, resolveu-se a crea√ß√£o de um
-_Bureau internacional permanente da paz_, que serve de la√ßo de uni√£o
+No Congresso de Roma, em novembro de 1891, resolveu-se a creaÁ„o de um
+_Bureau internacional permanente da paz_, que serve de laÁo de uni„o
 entre as sociedades e os amigos da paz em geral, e que funcciona
-regularmente, em Berne, ha c√™rca de sete annos, possuindo personalidade
-civil. A sua commiss√£o comp√µe-se de 19 membros, reeleitos todos os
-annos, que, por seu turno, elegem um _comit√©_ permanente de 3 membros,
+regularmente, em Berne, ha cÍrca de sete annos, possuindo personalidade
+civil. A sua commiss„o compıe-se de 19 membros, reeleitos todos os
+annos, que, por seu turno, elegem um _comitÈ_ permanente de 3 membros,
 residentes em Berne.
 
 O _Bureau internacional_, entre outras cousas, prepara o programma
-provisorio de cada congresso e p√µe em execu√ß√£o as resolu√ß√µes tomadas.
+provisorio de cada congresso e pıe em execuÁ„o as resoluÁıes tomadas.
 Publica uma _correspondencia bi-mensal_ que envia gratuitamente a todas
 as sociedades da paz e a todas as pessoas que especialmente se occupam
 do movimento pacifico.
 
-Do 7.¬∫ congresso (Budapesth) recebeu plenos poderes, para, no intervallo
-das reuni√µes, se dirigir aos governos e appellar para a opini√£o publica,
+Do 7.∫ congresso (Budapesth) recebeu plenos poderes, para, no intervallo
+das reuniıes, se dirigir aos governos e appellar para a opini„o publica,
 sempre que um conflicto imminente o torne necessario. Fez uso d'estas
-faculdades, a 6 de mar√ßo de 1897, a proposito da quest√£o do Oriente.
+faculdades, a 6 de marÁo de 1897, a proposito da quest„o do Oriente.
 
 
-C. Rela√ß√µes com a conferencia inter-parlamentar
+C. RelaÁıes com a conferencia inter-parlamentar
 
-O 1.¬∫ congresso j√° havia dado mandato ao seu _Bureau_, afim de levar
+O 1.∫ congresso j· havia dado mandato ao seu _Bureau_, afim de levar
 officialmente ao conhecimento da conferencia inter-parlamentar todas as
-resolu√ß√µes approvadas pelos seus delegados.
+resoluÁıes approvadas pelos seus delegados.
 
-O 2.¬∫ congresso consignou: 1.¬∫--que o congresso annual da paz se realise
+O 2.∫ congresso consignou: 1.∫--que o congresso annual da paz se realise
 antes ou immediatamente depois da conferencia inter-parlamentar e na
-mesma cidade: 2.¬∫--que as resolu√ß√µes e as diversas propostas adoptadas,
+mesma cidade: 2.∫--que as resoluÁıes e as diversas propostas adoptadas,
 respectivamente pelo congresso e pela conferencia, interessando as duas
-assembl√©as, sejam officialmente levadas ao conhecimento de cada uma
+assemblÈas, sejam officialmente levadas ao conhecimento de cada uma
 d'ellas.
 
 
 IV. Propaganda
 
-As principaes recommenda√ß√µes feitas pelo congresso, em materia de
+As principaes recommendaÁıes feitas pelo congresso, em materia de
 propaganda pacifica, referem-se:
 
-a) √° _propaganda eleitoral_ em favor dos candidatos dispostos a
-sustentarem as id√©as da paz e da arbitragem internacional:
+a) · _propaganda eleitoral_ em favor dos candidatos dispostos a
+sustentarem as idÈas da paz e da arbitragem internacional:
 
-b) √° _propaganda pela imprensa_, para que publique, n'uma cruzada em
-favor da paz universal, factos exactos e informa√ß√µes de natureza a
-dissipar os mal-entendidos que muitas vezes s√£o a origem de discordias
+b) · _propaganda pela imprensa_, para que publique, n'uma cruzada em
+favor da paz universal, factos exactos e informaÁıes de natureza a
+dissipar os mal-entendidos que muitas vezes s„o a origem de discordias
 internacionaes;
 
-c) √° _propaganda pela eschola_, afim de que, nos dominios da
-instruc√ß√£o publica, e, em particular no ensino da Historia, se inculquem
+c) · _propaganda pela eschola_, afim de que, nos dominios da
+instrucÁ„o publica, e, em particular no ensino da Historia, se inculquem
 aos alumnos e aos estudantes os principios da solidariedade humana, da
 arbitragem e da paz;
 
-d) √° _propaganda pelas collectividades religiosas_;
+d) · _propaganda pelas collectividades religiosas_;
 
-e) √° _propaganda pelas associa√ß√µes de damas_;
+e) · _propaganda pelas associaÁıes de damas_;
 
-f) √° _propaganda pelas associa√ß√µes operarias_, facilitando a
-participa√ß√£o d'estes grupos na obra das sociedades da paz;
+f) · _propaganda pelas associaÁıes operarias_, facilitando a
+participaÁ„o d'estes grupos na obra das sociedades da paz;
 
-g) √° _propaganda pelas assembl√©as publicas_.
+g) · _propaganda pelas assemblÈas publicas_.
 
       *      *      *      *      *
 
 Em resumo: as sociedades e os congressos da paz discutiram
-successivamente todas as quest√µes de principio que se imp√µem √°s suas
-investiga√ß√µes. Al√©m d'isso, com o concurso do seu Bureau internacional
-permanente, esfor√ßaram-se por indicar, t√£o claramente quanto possivel,
+successivamente todas as questıes de principio que se impıem ·s suas
+investigaÁıes. AlÈm d'isso, com o concurso do seu Bureau internacional
+permanente, esforÁaram-se por indicar, t„o claramente quanto possivel,
 as vias a seguir para combater o militarismo e para acostumar as massas
-a preferirem as solu√ß√µes pacificas √°s solu√ß√µes violentas, em caso de
-quest√µes ou conflictos internacionaes.
+a preferirem as soluÁıes pacificas ·s soluÁıes violentas, em caso de
+questıes ou conflictos internacionaes.
 
-Popularisaram a id√©a da _approxima√ß√£o fraternal dos povos_ pela
-egualdade, pela justi√ßa e pela moral em politica, pela protec√ß√£o dos
+Popularisaram a idÈa da _approximaÁ„o fraternal dos povos_ pela
+egualdade, pela justiÁa e pela moral em politica, pela protecÁ„o dos
 estrangeiros, por bases mais equitativas do direito internacional, pelo
 respeito dos direitos das nacionalidades, por um procedimento leal em
-rela√ß√£o aos povos n√£o civilisados, pela pr√°tica da arbitragem
-internacional, pelo estado consciencioso das quest√µes que podem amea√ßar
-a paz e das que se referem aos interesses economicos communs das na√ß√µes,
-emfim, pela proclama√ß√£o da _inviolabilidade da vida humana_ e pela
-_condemna√ß√£o do duello_.
+relaÁ„o aos povos n„o civilisados, pela pr·tica da arbitragem
+internacional, pelo estado consciencioso das questıes que podem ameaÁar
+a paz e das que se referem aos interesses economicos communs das naÁıes,
+emfim, pela proclamaÁ„o da _inviolabilidade da vida humana_ e pela
+_condemnaÁ„o do duello_.
 
-Estabeleceram as bases de uma futura _reduc√ß√£o dos exercitos_,
+Estabeleceram as bases de uma futura _reducÁ„o dos exercitos_,
 recommendando um _desarmamento proporcional simultaneo_, pela
-neutralisa√ß√£o do maior numero possivel d'Estados, pela _consulta dos
-parlamentos_, antes de qualquer declara√ß√£o de guerra, e pela _prohibi√ß√£o
+neutralisaÁ„o do maior numero possivel d'Estados, pela _consulta dos
+parlamentos_, antes de qualquer declaraÁ„o de guerra, e pela _prohibiÁ„o
 dos emprestimos de guerra_.
 
-Organisaram, nas melhores condi√ß√µes possiveis, as grandes REUNI√ïES DOS
+Organisaram, nas melhores condiÁıes possiveis, as grandes REUNI’ES DOS
 AMIGOS DA PAZ; instituiram o seu _Bureau internacional permanente_ e
-estabeleceram boas rela√ß√µes entre si e os _grupos inter-parlamentares da
+estabeleceram boas relaÁıes entre si e os _grupos inter-parlamentares da
 paz e da arbitragem_.
 
-Finalmente, fizeram uteis e constantes recommenda√ß√µes, em vista de
+Finalmente, fizeram uteis e constantes recommendaÁıes, em vista de
 fomentar a PROPAGANDA PACIFICA em todos os dominios.
 
 Trabalharam muito e bem, ha alguns annos a esta parte, e os resultados
-obtidos, na opini√£o publica, s√£o de molde a inspirar confian√ßa no
-futuro, ao mesmo tempo que imp√µem novos deveres.
+obtidos, na opini„o publica, s„o de molde a inspirar confianÁa no
+futuro, ao mesmo tempo que impıem novos deveres.
 
 
 
 
 VI
 
-A commiss√£o geral de paz e arbitragem internacional
+A commiss„o geral de paz e arbitragem internacional
 
 
-Gra√ßas √° iniciativa da illustre _Sociedade de Geographia_, existe tambem
-em Lisboa uma commiss√£o geral de paz e arbitragem internacional que
-inaugurou os seus trabalhos no dia 12 de abril do corrente anno. √â seu
+GraÁas · iniciativa da illustre _Sociedade de Geographia_, existe tambem
+em Lisboa uma commiss„o geral de paz e arbitragem internacional que
+inaugurou os seus trabalhos no dia 12 de abril do corrente anno. … seu
 presidente actual o venerando jornalista e notavel causidico, dr.
 Henrique Midosi, e a ella pertencem distinctas individualidades, todas
 egualmente empenhadas na defesa dos luminosos principios do direito, da
-justi√ßa e da pacifica√ß√£o humana.
+justiÁa e da pacificaÁ„o humana.
 
-Esta commiss√£o, que antes deveria classificar-se uma bella e
-promettedora sociedade, conta j√° hoje com valiosas adhes√µes, e, entre os
+Esta commiss„o, que antes deveria classificar-se uma bella e
+promettedora sociedade, conta j· hoje com valiosas adhesıes, e, entre os
 seus varios trabalhos preliminares, cumpre-nos assignalar dois
 documentos, ambos destinados a grangearem-lhe as mais vivas e fundas
 sympathias.
 
-O primeiro √© a circular-manifesto com que se dirigiu √°s sociedades
+O primeiro È a circular-manifesto com que se dirigiu ·s sociedades
 extrangeiras:
 
-"Em vesperas da celebra√ß√£o do quarto centenario da descoberta da India,
-que inaugurou, para a Europa, uma nova √©ra--a √©ra colonial--abrindo ao
+"Em vesperas da celebraÁ„o do quarto centenario da descoberta da India,
+que inaugurou, para a Europa, uma nova Èra--a Èra colonial--abrindo ao
 commercio e ao trabalho novos e vastos horisontes, entendeu a benemerita
 Sociedade de Geographia que se tornava indispensavel crear em Lisboa uma
-commiss√£o geral de paz e arbitragem internacional. Ha muito tempo que a
+commiss„o geral de paz e arbitragem internacional. Ha muito tempo que a
 necessidade d'este novo agrupamento se fazia sentir.
 
-Para nenhum de n√≥s √© desconhecido, com effeito, o enorme desenvolvimento
-que, n'estes ultimos tempos, teem tido as id√©as de paz e arbitragem. Ao
+Para nenhum de nÛs È desconhecido, com effeito, o enorme desenvolvimento
+que, n'estes ultimos tempos, teem tido as idÈas de paz e arbitragem. Ao
 nosso paiz chegou o echo d'essas conquistas gloriosas. Muitos dos nossos
-conterraneos teem cooperado, pelos seus esfor√ßos, para essa obra
-redemptora de justi√ßa e de pacifica√ß√£o, quer tomando parte nas
+conterraneos teem cooperado, pelos seus esforÁos, para essa obra
+redemptora de justiÁa e de pacificaÁ„o, quer tomando parte nas
 conferencias inter-parlamentares, quer collaborando nos differentes
 congressos da paz. O paiz que, n'outras eras, encheu as paginas da
 Historia com os feitos luminosos dos seus bravos marinheiros e dos seus
-famosos descobridores, n√£o podia quedar-se indifferente ante essa bella
+famosos descobridores, n„o podia quedar-se indifferente ante essa bella
 e brilhantissima cruzada dos povos modernos em favor dos seus direitos
 postergados e da humanidade offendida e ludibriada.
 
-A f√¥r√ßa contra o direito constitue uma monstruosidade inaudita. S√≥ o
-respeito pelo direito de todos e pelo direito de cada um poder√°
-prevenir, no futuro, os horrores de uma conflagra√ß√£o geral. A applica√ß√£o
-d'este principio salutar imp√µe-se como um dever. A affirma√ß√£o da paz
-implica a condemna√ß√£o das guerras de conquista e o direito que teem os
-povos de se governarem por si mesmos. Pugnar, pois, pelas solu√ß√µes
-pacificas, o mesmo √© que pugnar pela arbitragem, como meio de resolver
+A fÙrÁa contra o direito constitue uma monstruosidade inaudita. SÛ o
+respeito pelo direito de todos e pelo direito de cada um poder·
+prevenir, no futuro, os horrores de uma conflagraÁ„o geral. A applicaÁ„o
+d'este principio salutar impıe-se como um dever. A affirmaÁ„o da paz
+implica a condemnaÁ„o das guerras de conquista e o direito que teem os
+povos de se governarem por si mesmos. Pugnar, pois, pelas soluÁıes
+pacificas, o mesmo È que pugnar pela arbitragem, como meio de resolver
 as contendas que possam surgir entre os povos.
 
-Eis o nosso primeiro pensamento, ao constituir-nos em commiss√£o de
+Eis o nosso primeiro pensamento, ao constituir-nos em commiss„o de
 estudo e de propaganda; e, por muito honrados nos dariamos, se
-pudessemos contribuir pelos nossos esfor√ßos, pela nossa boa vontade e
-pela nossa dedica√ß√£o, para a grande obra immorredoura da pacifica√ß√£o
+pudessemos contribuir pelos nossos esforÁos, pela nossa boa vontade e
+pela nossa dedicaÁ„o, para a grande obra immorredoura da pacificaÁ„o
 humana.
 
 A commissao geral de paz e arbitragem, que se installou, n'esta capital,
-em 12 do corrente mez e anno, envia d'aqui uma sauda√ß√£o calorosa e
+em 12 do corrente mez e anno, envia d'aqui uma saudaÁ„o calorosa e
 fraterna a todas as sociedades da paz e a todos os que, leal e
 desinteressadamente, trabalham para a conquista dos direitos dos povos.
-Saudamos todos esses valentes apostolos cuja obra grandiosa ser√° a
-divisa do seculo futuro. Saudamos todas as associa√ß√µes cuja propaganda
-incessante constitue o mais bello emprehendimento da gera√ß√£o actual.
+Saudamos todos esses valentes apostolos cuja obra grandiosa ser· a
+divisa do seculo futuro. Saudamos todas as associaÁıes cuja propaganda
+incessante constitue o mais bello emprehendimento da geraÁ„o actual.
 
-O comit√© portuguez, dirigindo-se a todos os homens de boa vontade e a
+O comitÈ portuguez, dirigindo-se a todos os homens de boa vontade e a
 todos os trabalhadores honestos e amigos da humanidade, faz votos para
 que o congresso de 1898 se realise de preferencia em Lisboa, onde os
-evangelistas da paz encontrar√£o o mais sympathico acolhimento e a mais
-franca adhes√£o √° causa que defendemos. Celebrar-se-ha Vasco da Gama que,
-sobre ser figura proeminente da historia portugueza, √© heroe venerado,
+evangelistas da paz encontrar„o o mais sympathico acolhimento e a mais
+franca adhes„o · causa que defendemos. Celebrar-se-ha Vasco da Gama que,
+sobre ser figura proeminente da historia portugueza, È heroe venerado,
 de uma popularidade immensa em todo o mundo culto. Foi elle o grande
-iniciador do movimento que ligou entre si duas civiliza√ß√µes separadas
-por um abysmo e que creou esse espirito d'expans√£o colonial que
-caracterisa as na√ß√µes modernas.
+iniciador do movimento que ligou entre si duas civilizaÁıes separadas
+por um abysmo e que creou esse espirito d'expans„o colonial que
+caracterisa as naÁıes modernas.
 
-Al√©m d'estas festas que contribuir√£o certamente para levantar o
-prestigio do nome portuguez no extrangeiro, os congressistas ter√£o
-optima occasi√£o para apreciar as bellezas de um clima incomparavel e as
-superiores qualidades de uma ra√ßa, sempre aberta a todos os progressos e
-a todas as aspira√ß√µes generosas.
+AlÈm d'estas festas que contribuir„o certamente para levantar o
+prestigio do nome portuguez no extrangeiro, os congressistas ter„o
+optima occasi„o para apreciar as bellezas de um clima incomparavel e as
+superiores qualidades de uma raÁa, sempre aberta a todos os progressos e
+a todas as aspiraÁıes generosas.
 
-O comit√© portuguez espera que estas considera√ß√µes calar√£o no espirito
-dos nossos illustrados collegas que n√£o hesitar√£o em escolher Lisboa
-como s√©de da proxima conferencia inter-parlamentar e do proximo
+O comitÈ portuguez espera que estas consideraÁıes calar„o no espirito
+dos nossos illustrados collegas que n„o hesitar„o em escolher Lisboa
+como sÈde da proxima conferencia inter-parlamentar e do proximo
 congresso da paz.
 
-A mesa: _Conde de Valen√ßas_, presidente; _Magalh√£es Lima_ e _Alfredo da
+A mesa: _Conde de ValenÁas_, presidente; _Magalh„es Lima_ e _Alfredo da
 Cunha_, secretarios."
 
-O segundo √© uma mo√ß√£o que, ao mesmo tempo, deve ser tomada como
-affirma√ß√£o de principios e obra de propaganda, util e efficaz:
+O segundo È uma moÁ„o que, ao mesmo tempo, deve ser tomada como
+affirmaÁ„o de principios e obra de propaganda, util e efficaz:
 
-"A commiss√£o geral de paz e arbitragem, considerando que o dominio geral
-portuguez constitue o mais bello patrimonio da na√ß√£o e o seu principal
+"A commiss„o geral de paz e arbitragem, considerando que o dominio geral
+portuguez constitue o mais bello patrimonio da naÁ„o e o seu principal
 elemento de independencia;
 
 "Considerando que, no estado em que nos encontramos, cada vez se torna
 mais difficil protegel-o e defendel-o;
 
-"Considerando, por outro lado, que, no estado actual das rela√ß√µes
-internacionaes, a crea√ß√£o de um supremo tribunal internacional n√£o √©
+"Considerando, por outro lado, que, no estado actual das relaÁıes
+internacionaes, a creaÁ„o de um supremo tribunal internacional n„o È
 immediatamente realisavel;
 
-"Considerando, por√©m, que a conclus√£o entre povos de tratados de
+"Considerando, porÈm, que a conclus„o entre povos de tratados de
 arbitragem permanente que transformem o estado de guerra em que
-actualmente vivem as na√ß√µes, n'um estado pacifico, juridico e
-industrial, se torna uma necessidade, imposta pela civilisa√ß√£o e
+actualmente vivem as naÁıes, n'um estado pacifico, juridico e
+industrial, se torna uma necessidade, imposta pela civilisaÁ„o e
 claramente indicada pelas leis do progresso;
 
 "Declara:
 
-"Que a negocia√ß√£o e conclus√£o de tratados permanentes pelos quaes, sob a
+"Que a negociaÁ„o e conclus„o de tratados permanentes pelos quaes, sob a
 garantia anticipada e reciproca da plenitude da sua autonomia e da sua
-soberania, dois ou mais povos se compromettem a submetter a √°rbitros,
+soberania, dois ou mais povos se compromettem a submetter a ·rbitros,
 por elles nomeados, segundo a forma indicada nos tratados, todas as
-quest√µes e conflictos que, porventura, possam surgir, se torna a via
+questıes e conflictos que, porventura, possam surgir, se torna a via
 mais segura, mais pratica e mais racional de resolver pacificamente as
-contendas entre na√ß√µes, evitando, por este modo, o derramamento de
+contendas entre naÁıes, evitando, por este modo, o derramamento de
 sangue e o triumpho do mais forte sobre o mais fraco;
 
 "E resolve:
 
-"1.¬∫--promover em favor d'esta id√©a uma propaganda activa, por meio de
-brochuras, de conferencias e reuni√µes;
+"1.∫--promover em favor d'esta idÈa uma propaganda activa, por meio de
+brochuras, de conferencias e reuniıes;
 
-"2.¬∫--Intervir junto da direc√ß√£o da Sociedade de Geographia, afim de que
+"2.∫--Intervir junto da direcÁ„o da Sociedade de Geographia, afim de que
 esta represente ao governo no sentido de se estabelecerem tratados de
 arbitragem permanente entre Portugal e os Estados com que o nosso paiz
 confina nas suas provincias ultramarinas;
 
-"3.¬∫--ampliar ao Brazil e √° Hespanha o pensamento consignado n'essa
+"3.∫--ampliar ao Brazil e · Hespanha o pensamento consignado n'essa
 proposta;
 
-"4.¬∫--communical-a a todos os socios da Sociedade de Geographia e a
-todas as associa√ß√µes de paz e arbitragem, no extrangeiro, solicitando
+"4.∫--communical-a a todos os socios da Sociedade de Geographia e a
+todas as associaÁıes de paz e arbitragem, no extrangeiro, solicitando
 d'estas o seu effectivo apoio;
 
-"5.¬∫--pedir aos futuros parlamentos a sua coopera√ß√£o no mesmo sentido."
+"5.∫--pedir aos futuros parlamentos a sua cooperaÁ„o no mesmo sentido."
 
-Foi esta commiss√£o que tive a honra de representar no congresso da paz,
+Foi esta commiss„o que tive a honra de representar no congresso da paz,
 realisado em Hamburgo, no passado mez de agosto. As homenagens de que me
-cercaram, tanto n'esta assembl√©a, como na conferencia inter-parlamentar
-que se reuniu em Bruxellas, n√£o posso nem devo attribuil-as sen√£o √°
-immensa considera√ß√£o de que gosa a _Sociedade de Geographia_ no
+cercaram, tanto n'esta assemblÈa, como na conferencia inter-parlamentar
+que se reuniu em Bruxellas, n„o posso nem devo attribuil-as sen„o ·
+immensa consideraÁ„o de que gosa a _Sociedade de Geographia_ no
 extrangeiro. Pode ufanar-se d'isso o meu velho e prestante amigo Luciano
 Cordeiro que me foi auxiliar valiosissimo na grata e honrosa tarefa de
-que me incumbiu. Aos meus prezados collegas, membros da commiss√£o,
-submetto este pequeno relatorio, como reconhecimento √° affectuosa
+que me incumbiu. Aos meus prezados collegas, membros da commiss„o,
+submetto este pequeno relatorio, como reconhecimento · affectuosa
 benevolencia com que me distinguiram. Foi certamente pouco numerosa a
-representa√ß√£o, mas n√£o podia ser mais completo nem mais lisonjeiro o
-exito alcan√ßado. No intuito de prestar um servi√ßo √° propaganda pacifica
+representaÁ„o, mas n„o podia ser mais completo nem mais lisonjeiro o
+exito alcanÁado. No intuito de prestar um serviÁo · propaganda pacifica
 em Portugal, reuni, em volume, as notas e os documentos que ahi ficam.
-Suppuz que s√≥ assim poderia corresponder √° confian√ßa dos meus amigos,
-satisfazendo, ao mesmo tempo, os generosos intuitos da commiss√£o a que
-perten√ßo. Do nosso paiz, foi-me muito agradavel poder citar ao
+Suppuz que sÛ assim poderia corresponder · confianÁa dos meus amigos,
+satisfazendo, ao mesmo tempo, os generosos intuitos da commiss„o a que
+pertenÁo. Do nosso paiz, foi-me muito agradavel poder citar ao
 extrangeiro tres trabalhos importantes: uma memoria sobre arbitragem,
-apresentada pelo sr. conde de Valen√ßas, ao congresso juridico que se
-reuniu, em Madrid, por occasi√£o do centenario de Christovam Colombo; o
-bello e substancioso relatorio do devotadissimo amigo da paz, dr. Jo√£o
-de Paiva, √°c√™rca das conferencias inter-parlamentares em que tomou
+apresentada pelo sr. conde de ValenÁas, ao congresso juridico que se
+reuniu, em Madrid, por occasi„o do centenario de Christovam Colombo; o
+bello e substancioso relatorio do devotadissimo amigo da paz, dr. Jo„o
+de Paiva, ·cÍrca das conferencias inter-parlamentares em que tomou
 parte, como delegado de Portugal; e, finalmente, o relatorio do meu
-sympathico e affectuoso amigo, dr. Jos√© de Castro, relativo √°
+sympathico e affectuoso amigo, dr. JosÈ de Castro, relativo ·
 conferencia inter-parlamentar de Roma, a que tambem assistiu, como
-representante portuguez. √â de esperar que a propaganda pacifica,
-iniciada, n'este paiz, sob t√£o bons auspicios, continue a fructificar,
-para honra nossa e da civilisa√ß√£o. A proxima reuni√£o da conferencia
+representante portuguez. … de esperar que a propaganda pacifica,
+iniciada, n'este paiz, sob t„o bons auspicios, continue a fructificar,
+para honra nossa e da civilisaÁ„o. A proxima reuni„o da conferencia
 inter-parlamentar e do congresso da paz, em Lisboa, em que tanto me
-empenhei, deve ser um motivo de legitimo orgulho para todos n√≥s. Vamos,
-pela primeira vez, mostrar ao mundo que comprehendemos a nossa miss√£o,
+empenhei, deve ser um motivo de legitimo orgulho para todos nÛs. Vamos,
+pela primeira vez, mostrar ao mundo que comprehendemos a nossa miss„o,
 como povo livre e civilisado; e, solidarios com os grandes e generosos
 ideaes do nosso tempo, tornar-nos-hemos dignos do extrangeiro que nos
 visita.
@@ -1713,51 +1713,51 @@ FIM
 
 
 
-PROPAGANDA DE INSTRUC√á√ÉO
+PROPAGANDA DE INSTRUC«√O
 
 Para Portuguezes e Brazileiros
 
 
 OS DICCIONARIOS DO POVO
 
-N.¬∫ 1--Diccionario da lingua portugueza (3.¬™ edi√ß√£o).
+N.∫ 1--Diccionario da lingua portugueza (3.™ ediÁ„o).
 
-N.¬∫ 2--Diccionario francez-portuguez (2.¬™ edi√ß√£o).
+N.∫ 2--Diccionario francez-portuguez (2.™ ediÁ„o).
 
-N.¬∫ 3--Diccionario portuguez-francez (2.¬™ edi√ß√£o).
+N.∫ 3--Diccionario portuguez-francez (2.™ ediÁ„o).
 
-N.¬∫ 4--Diccionario inglez-portuguez.
+N.∫ 4--Diccionario inglez-portuguez.
 
-N.¬∫ 5--Diccionario portuguez-inglez.
+N.∫ 5--Diccionario portuguez-inglez.
 
-Cada volume cont√©m cerca de 800 paginas. Pre√ßos: brochado, 500 r√©is;
-encadernado em percalina, 600 r√©is; em carneira, 700 r√©is.
+Cada volume contÈm cerca de 800 paginas. PreÁos: brochado, 500 rÈis;
+encadernado em percalina, 600 rÈis; em carneira, 700 rÈis.
 
 
 BIBLIOTHECA DO POVO E DAS ESCOLAS
 
-Esta util e valiosissima bibliotheca consta j√° de 199 volumes, alguns
-dos quaes teem a approva√ß√£o do governo portuguez, para uso das escolas
-normaes e aulas primarias, e outros s√£o geralmente adoptados em varias
+Esta util e valiosissima bibliotheca consta j· de 199 volumes, alguns
+dos quaes teem a approvaÁ„o do governo portuguez, para uso das escolas
+normaes e aulas primarias, e outros s„o geralmente adoptados em varias
 escolas do paiz.
 
-Pre√ßo de cada volume, 50 r√©is.
+PreÁo de cada volume, 50 rÈis.
 
 
 O IDEAL MODERNO
 
-BIBLIOTHECA POPULAR DE ORIENTA√á√ÉO SOCIALISTA
+BIBLIOTHECA POPULAR DE ORIENTA«√O SOCIALISTA
 
 Volumes publicados:--Paz e arbitragem
 
-Volumes a publicar:--A dissolu√ß√£o do regimen capitalista--O
+Volumes a publicar:--A dissoluÁ„o do regimen capitalista--O
 federalismo--O humanismo--O socialismo--O feminismo, etc., etc.
 
 
 
 
 
-End of Project Gutenberg's Paz e Arbitragem, by Sebasti√£o de Magalh√£es Lima
+End of Project Gutenberg's Paz e Arbitragem, by Sebasti„o de Magalh„es Lima
 
 *** END OF THIS PROJECT GUTENBERG EBOOK PAZ E ARBITRAGEM ***
 
@@ -1765,7 +1765,7 @@ End of Project Gutenberg's Paz e Arbitragem, by Sebasti√£o de Magalh√£es Lima
 This and all associated files of various formats will be found in:
         http://www.gutenberg.org/2/8/9/1/28914/
 
-Produced by Pedro Saborano. A partir da digitaliza√ß√£o
+Produced by Pedro Saborano. A partir da digitalizaÁ„o
 disponibilizada pela bibRIA.
 
 

@@ -1,5 +1,5 @@
 The Project Gutenberg EBook of As Farpas (Junho 1883)
-by Ramalho Ortig√£o and Jos√© Maria E√ßa de Queiroz
+by Ramalho Ortig„o and JosÈ Maria EÁa de Queiroz
 
 This eBook is for the use of anyone anywhere at no cost and with
 almost no restrictions whatsoever.  You may copy it, give it away or
@@ -9,7 +9,7 @@ with this eBook or online at www.gutenberg.net
 
 Title: As Farpas (Junho 1883)
 
-Author: Ramalho Ortig√£o and Jos√© Maria E√ßa de Queiroz
+Author: Ramalho Ortig„o and JosÈ Maria EÁa de Queiroz
 
 Release Date: June 11, 2004 [EBook #12579]
 
@@ -22,7 +22,7 @@ Character set encoding: ISO-8859-1
 
 
 
-Produced by Cl√°udia Ribeiro, Larry Bergey and PG Distributed
+Produced by Cl·udia Ribeiro, Larry Bergey and PG Distributed
 Proofreaders. Produced from page scans provided by Biblioteca Nacional
 de Lisboa.
 
@@ -34,19 +34,19 @@ de Lisboa.
 
 
 
-[Illustration: E√áA DE QUEIROZ RAMALHO ORTIG√ÉO AS FARPAS]
+[Illustration: E«A DE QUEIROZ RAMALHO ORTIG√O AS FARPAS]
 
 Lisboa--Typ. da Empreza Litteraria Luso-Brazileira--Editora
 
 5--PATEO DO ALJUBE--5
 
-E√áA DE QUEIROZ--RAMALHO ORTIG√ÉO
+E«A DE QUEIROZ--RAMALHO ORTIG√O
 
 AS FARPAS
 
 _Chronica Mensal_
 
-DA POL√çTICA, DAS LETRAS E DOS COSTUMES
+DA POLÕTICA, DAS LETRAS E DOS COSTUMES
 
 QUARTA SERIE No.3 JUNHO 1883
 
@@ -54,11 +54,11 @@ LISBOA
 
 EMPREZA LITTERARIA LUSO-BRAZILEIRA--EDITORA
 
-Ironia, verdadeira liberdade. √âs tu que me livras da ambi√ß√£o do poder,
-da escravid√£o dos partidos da venera√ß√£o da rotina, do pedantismo das
-sciencias, da admira√ß√£o das grandes personagens, das mistifica√ß√µes da
-politica, do fanatismo dos reformadores, da supersti√ß√£o d'este grande
-universo, e da adora√ß√£o de mim mesmo.
+Ironia, verdadeira liberdade. …s tu que me livras da ambiÁ„o do poder,
+da escravid„o dos partidos da veneraÁ„o da rotina, do pedantismo das
+sciencias, da admiraÁ„o das grandes personagens, das mistificaÁıes da
+politica, do fanatismo dos reformadores, da superstiÁ„o d'este grande
+universo, e da adoraÁ„o de mim mesmo.
 
 P.J. PROUDHON.
 
@@ -70,17 +70,17 @@ nome do rei.
 
 SUMARIO
 
-Ras√£o d'esta carta--Projecto de partida de sua alteza--Pessoas que o
+Ras„o d'esta carta--Projecto de partida de sua alteza--Pessoas que o
 acompanham e pessoas que deveriam acompanhal-o. Eloquente e notavel
-parallelo--As institui√ß√µes nacionaes e _As Farpas_--A educa√ß√£o do
-pr√≠ncipe. Como elles a fizeram. Como n√≥s a aconselhamos--A instruc√ß√£o de
+parallelo--As instituiÁıes nacionaes e _As Farpas_--A educaÁ„o do
+prÌncipe. Como elles a fizeram. Como nÛs a aconselhamos--A instrucÁ„o de
 sua alteza. Os seus estudos. Os seus livros. Os seus mestres. As suas
-convivencias. O seu theor de vida--Interven√ß√£o de sua magestade a rainha
-na direc√ß√£o intellectual de seu augusto filho--O pr√≠ncipe, o homem, o
-cidad√£o, o alferes, o marinheiro, o conselheiro d'estado--A
-viagem--Crise pedagogica--A renova√ß√£o mental de sua alteza--De como o
-pr√≠ncipe deveria proceder n'este momento supremo para dar o que deve ao
-throno, √° familia, √° sociedade e √° natureza--Sua alteza por√©m far√° o que
+convivencias. O seu theor de vida--IntervenÁ„o de sua magestade a rainha
+na direcÁ„o intellectual de seu augusto filho--O prÌncipe, o homem, o
+cidad„o, o alferes, o marinheiro, o conselheiro d'estado--A
+viagem--Crise pedagogica--A renovaÁ„o mental de sua alteza--De como o
+prÌncipe deveria proceder n'este momento supremo para dar o que deve ao
+throno, · familia, · sociedade e · natureza--Sua alteza porÈm far· o que
 for servido.
 
 
@@ -91,153 +91,153 @@ LISBOA, 25 DE MAIO DE 1883
 SENHOR!
 
 E' de interesse particular mas importantissimo o assumpto que ora nos
-traz por meio de carta aos p√©s interinamente reaes de vossa alteza.
+traz por meio de carta aos pÈs interinamente reaes de vossa alteza.
 
-O ¬ß 28 do artigo 145 do titulo VIII da Carta Constitucional da monarchia
-garante a todo o cidad√£o o direito de communicar por escripto com o
-Poder Executivo, e √© d'esse direito que hoje tomamos a libertade de
+O ß 28 do artigo 145 do titulo VIII da Carta Constitucional da monarchia
+garante a todo o cidad„o o direito de communicar por escripto com o
+Poder Executivo, e È d'esse direito que hoje tomamos a libertade de
 usar, ao abrigo da lei, aproveitando para tal fim o momento presente, em
-que vossa alteza √© o chefe temporareo do sobredito Poder, como regente
+que vossa alteza È o chefe temporareo do sobredito Poder, como regente
 do reino na ausencia em partes de Castella de seu augusto pae, El-Rey
 nosso senhor, que Deus guarde por longos e dilatados annos.
 
 Senhor, ha obra de tres para quatro meses que os papeis publicos nos
 deram a boa nova de que vossa alteza iria em breve completar o tirocinio
-da sua educa√ß√£o como principe, como cidad√£o e como ser vertebrado,
+da sua educaÁ„o como principe, como cidad„o e como ser vertebrado,
 correndo algumas terras e partidas do mundo, como o finado infante snr.
 D. Pedro, que Deus em sua santa gloria haja.
 
 Por essa dacta, puzeram as folhas o dedo sobre os nomes de algumas
 pessoas, que vagamente se suppunha virem a ser chamadas para acompanhar
-vossa alteza em sua peregrina√ß√£o de estudo pratico atravez dos homens e
-das coisas da civilisa√ß√£o entre gentes extranhas.
+vossa alteza em sua peregrinaÁ„o de estudo pratico atravez dos homens e
+das coisas da civilisaÁ„o entre gentes extranhas.
 
-Seguimos as indigita√ß√µes da imprensa acerca do pessoal d'essa embaixada
+Seguimos as indigitaÁıes da imprensa acerca do pessoal d'essa embaixada
 pedagogica, e sorrimo-nos entre desdenhosos e galhofeiros, pois
-abrigavamos a convic√ß√£o indestructivel de que os redactores d'_As
-Farpas_ eram os cavalheiros naturalmente indicados pela opini√£o publica
-e pelo consenso geral da c√¥rte para a honrosa e ardua miss√£o de que se
+abrigavamos a convicÁ„o indestructivel de que os redactores d'_As
+Farpas_ eram os cavalheiros naturalmente indicados pela opini„o publica
+e pelo consenso geral da cÙrte para a honrosa e ardua miss„o de que se
 tratava.
 
 Effectivamente, Senhor, relanceando os olhos ao passado, e investigando,
 atravez do movimento politico e do movimento intellectual do seculo,
-quaes as institui√ß√µes nacionaes a cuja campainha tenhamos de tanger para
-encontrar os var√µes comprovadamente aptos para se incumbirem no momento
-presente do honroso encargo de preceptores de vossa alteza, o que √© que
-vemos?... Ou antes: O que √© que vossa alteza v√™? Porque, em nossa
-acrysolada modestia, n√≥s preferimos perante essa interroga√ß√£o
+quaes as instituiÁıes nacionaes a cuja campainha tenhamos de tanger para
+encontrar os varıes comprovadamente aptos para se incumbirem no momento
+presente do honroso encargo de preceptores de vossa alteza, o que È que
+vemos?... Ou antes: O que È que vossa alteza vÍ? Porque, em nossa
+acrysolada modestia, nÛs preferimos perante essa interrogaÁ„o
 remetter-nos a um silencio discreto, _ponere custodiam ori nostro_, dar
-dois passos atraz, curvos e submissos, com os olhos no ch√£o e os claques
-debaixo do bra√ßo, aguardando tranquillos o real veredictum de vossa
+dois passos atraz, curvos e submissos, com os olhos no ch„o e os claques
+debaixo do braÁo, aguardando tranquillos o real veredictum de vossa
 alteza.
 
 Vossa alteza, havendo por bem baixar sua serenissima vista sobre as
-institui√ß√µes patrias, v√™ para um lado as duas camaras, a Sociedade
-Geographica, a Universidade de Coimbra e o sal√£o da senhora D. Maria
-Kruz; e para o lado opposto, √° outra banda, v√™ vossa alteza _As Farpas_,
-quarenta a cincoenta volumes de uma prosa divina, a 200 r√©is o volume,
-que ser√° a mais bella, a mais pura e a mais duradoura gloria litteraria
+instituiÁıes patrias, vÍ para um lado as duas camaras, a Sociedade
+Geographica, a Universidade de Coimbra e o sal„o da senhora D. Maria
+Kruz; e para o lado opposto, · outra banda, vÍ vossa alteza _As Farpas_,
+quarenta a cincoenta volumes de uma prosa divina, a 200 rÈis o volume,
+que ser· a mais bella, a mais pura e a mais duradoura gloria litteraria
 do seculo do felicissimo principe, augusto pae de vossa alteza.
 
 Os litteratos vindouros, chamados a illustrar pelo lavor de suas pennas
-o reinado de vossa alteza, procurar√£o √° porfia imitar esta obra sublime.
-Por√©m de balde. Porque nada ha mais inimitavel, pela affabilidade do
+o reinado de vossa alteza, procurar„o · porfia imitar esta obra sublime.
+PorÈm de balde. Porque nada ha mais inimitavel, pela affabilidade do
 trato sobretudo, do que o critico no estado benigno de morto. Seremos
-pois os classicos da lingua, n√≥s outros, para esse tempo. Seremos os
+pois os classicos da lingua, nÛs outros, para esse tempo. Seremos os
 Vieiras e os Bernardes do cyclo do rei Luiz, o venturosissimo. As
-academias archivar√£o, como preciosas reliquias, a lanterna e o bord√£o
+academias archivar„o, como preciosas reliquias, a lanterna e o bord„o
 nodoso com que atravessamos a vida espargindo sobre a terra a luz e as
-pisaduras. Vossa alteza, octogenario, coroado de c√£s, por√° os seus reaes
-oculos para nos ler aos seus netos, aos quaes vossa alteza dir√°, batendo
-com os n√≥s dos dedos sobre a nossa obra amarellecida e veneranda:
+pisaduras. Vossa alteza, octogenario, coroado de c„s, por· os seus reaes
+oculos para nos ler aos seus netos, aos quaes vossa alteza dir·, batendo
+com os nÛs dos dedos sobre a nossa obra amarellecida e veneranda:
 
---O velho rei Carlos foi t√£o bom e t√£o prasenteiro rei como o principe
+--O velho rei Carlos foi t„o bom e t„o prasenteiro rei como o principe
 seu progenitor, mas faltaram-lhe Curcios e Livios d'esta laia para o
 immortalisarem no eterno jubilo das gentes!
 
-E vossa alteza solu√ßar√° de saudosa magoa sobre as cabe√ßas infantis da
+E vossa alteza soluÁar· de saudosa magoa sobre as cabeÁas infantis da
 sua prole, considerando-se um monarcha desditoso por que na vasta
-perspectiva do seu reinado lhe faltou a projec√ß√£o grandeosa d'esta obra
+perspectiva do seu reinado lhe faltou a projecÁ„o grandeosa d'esta obra
 cathedralesca.
 
 Queira vossa alteza ir sempre seguindo, por partes.
 
-Que √© que as duas camaras do parlamento teem botado durante o decurso
-dos ultimos quinze annos em beneficio da educa√ß√£o de vossa alteza ou da
-educa√ß√£o d'alguem que seja n'este mundo?
+Que È que as duas camaras do parlamento teem botado durante o decurso
+dos ultimos quinze annos em beneficio da educaÁ„o de vossa alteza ou da
+educaÁ„o d'alguem que seja n'este mundo?
 
 Nada, serenissimo senhor! pela palavra nada!
 
 Hade ter constado por certo a vossa alteza o que elles ainda ultimamente
-fizeram com um projecto de lei sobre a instruc√ß√£o secundaria, o qual
+fizeram com um projecto de lei sobre a instrucÁ„o secundaria, o qual
 Thomaz Ribeiro, esse bem-quisto vate, ministro de vossa alteza e
-porta-ala√∫de da sua c√¥rte, arrancou a ferros das entranhas da musa para
-o mandar para a mesa como uma especie de g√©mea administrativa da
+porta-ala˙de da sua cÙrte, arrancou a ferros das entranhas da musa para
+o mandar para a mesa como uma especie de gÈmea administrativa da
 _Delphina do mal_.
 
-Como vossa alteza n√£o era a esse tempo regente soberano do reino, e se
-achava ainda ent√£o sob o dominio da auctoridade paterna, n√£o sabemos se
+Como vossa alteza n„o era a esse tempo regente soberano do reino, e se
+achava ainda ent„o sob o dominio da auctoridade paterna, n„o sabemos se
 lhe teriam permittido a leitura d'esse debate ...
 
 Foi uma coisa enorme, respeitavel senhor!
 
-Um queria que lhe abolissem o latim, lingoa morta e m√° lingoa,
+Um queria que lhe abolissem o latim, lingoa morta e m· lingoa,
 sevandijada de verbos exquisitos, como _sum-es-fui_ e outros que taes; e
-em substitui√ß√£o pedia _disciplina psychologica_, que era para os rapazes
+em substituiÁ„o pedia _disciplina psychologica_, que era para os rapazes
 ficarem bem ao facto da alma humana. E voltando-se para a meza, o orador
 berrava:
 
---Eu c√°, snr presidente, n√£o me importa com Tito Livio, nem me importa
-com ninguem n'este mundo. Alma e mais alma para cima do alumno, que √© do
+--Eu c·, snr presidente, n„o me importa com Tito Livio, nem me importa
+com ninguem n'este mundo. Alma e mais alma para cima do alumno, que È do
 que os rapazes precisam para ir para leis!
 
-Outro queria religi√£o, porque sem religi√£o o que √© o homem? O homem sem
-religi√£o √©, com licen√ßa, um bruto. E citava Renan que f√¥ra visinho
-d'elle em Paris e que n√£o era bruto. Porqu√™? Porque tinha temor de
-Deus,--de noite, √°s escondidas, em casa. O orador soube-o pela porteira
+Outro queria religi„o, porque sem religi„o o que È o homem? O homem sem
+religi„o È, com licenÁa, um bruto. E citava Renan que fÙra visinho
+d'elle em Paris e que n„o era bruto. PorquÍ? Porque tinha temor de
+Deus,--de noite, ·s escondidas, em casa. O orador soube-o pela porteira
 do predio.
 
 Houve um deputado que insistiu em que se affastasse o publico dos
-lyceus, porque muita canalha junta n√£o aprende nada. Um menino at√© dois
-√© o dado para os mestres todos se concentrarem e fazerem uma educa√ß√£o
+lyceus, porque muita canalha junta n„o aprende nada. Um menino atÈ dois
+È o dado para os mestres todos se concentrarem e fazerem uma educaÁ„o
 capaz.
 
-Houve mais um que pediu institutos de instruc√ß√£o secundaria para a
-mulher, pela ras√£o de qu√™, segundo elle, se tornava mister que a mulher,
-_que √© j√° a rosa, fosse tambem o perfume_. Textual!
+Houve mais um que pediu institutos de instrucÁ„o secundaria para a
+mulher, pela ras„o de quÍ, segundo elle, se tornava mister que a mulher,
+_que È j· a rosa, fosse tambem o perfume_. Textual!
 
 E houve ainda um outro que, abundando nas ideias do precedente, exclamou
-enternecido, com os olhos em alvo: _√â indispensavel, snr. presidente,
+enternecido, com os olhos em alvo: _… indispensavel, snr. presidente,
 que os dois sexos, o masculino e o feminino, caminhem na senda do futuro
-ao lado um do outro, de m√£os dadas_. Egualmente textual!
+ao lado um do outro, de m„os dadas_. Egualmente textual!
 
-Emfim, ao cabo de vinte dias de discuss√£o, a decencia obrigou a agarrar
+Emfim, ao cabo de vinte dias de discuss„o, a decencia obrigou a agarrar
 no projecto pelas orelhas e a leval-o de rastos para a camara dos pares;
-mas como esta camara o n√£o quiz por coisa nenhuma do mundo, o ministro
+mas como esta camara o n„o quiz por coisa nenhuma do mundo, o ministro
 das _Flores d'alma_, e do Reino, levou-o para casa no louvavel intuito
-de o p√¥r em verso. E consta agora que o v√£o aproveitar sob a forma de
+de o pÙr em verso. E consta agora que o v„o aproveitar sob a forma de
 magica no theatro de D. Maria.
 
-Logo depois da instruc√ß√£o publica n√£o viu vossa alteza como elles
-pegaram n'uma quest√£o d'arte?!...
+Logo depois da instrucÁ„o publica n„o viu vossa alteza como elles
+pegaram n'uma quest„o d'arte?!...
 
-Lembra-se um de fallar no leil√£o do diplomata Z√©a Bermudez, o qual
-reunia √°s qualidades do mais excellente homem uma pequena collec√ß√£o
+Lembra-se um de fallar no leil„o do diplomata ZÈa Bermudez, o qual
+reunia ·s qualidades do mais excellente homem uma pequena collecÁ„o
 d'arte com _quatro potes etruscos_.
 
 Ao ouvir fallar pela primeira vez durante toda a sua longa carreira
 parlamentar em quatro potes etruscos, a camara e o governo embasbacaram
 por um momento, mas recahindo immediatamente em si com maravilhosa
-presen√ßa de espirito, camara e governo menearam as cabe√ßas
-familiarmente, como se cada um dos legisladores n√£o tivesse feito desde
-muito pequeno outra coisa sen√£o jogar a pucara com potes d'esses.
+presenÁa de espirito, camara e governo menearam as cabeÁas
+familiarmente, como se cada um dos legisladores n„o tivesse feito desde
+muito pequeno outra coisa sen„o jogar a pucara com potes d'esses.
 
 Houve um assentimento geral na assembleia, e os gestos e as vozes
 exprimiram com unanimidade:
 
 --Oh! sim!... os potes etruscos ... conhecemos perfeitissimamente!
 
---O paiz, snr presidente, n√£o pode consentir que preciosidades de t√£o
+--O paiz, snr presidente, n„o pode consentir que preciosidades de t„o
 inestimavel valor artistico saiam do reino para ir enriquecer os museus
 extrangeiros!...
 
@@ -246,204 +246,204 @@ subitamente illuminado pela providencia como um vidente da Etruria em
 potes.
 
 E a camara em peso, por todos os votos menos um, votou um credito
-supplementar de 5 contos de r√©is. Para qu√™, senhor? Para proteger a arte
+supplementar de 5 contos de rÈis. Para quÍ, senhor? Para proteger a arte
 nacional, que nem tem escolas, nem mestres, nem discipulos, nem modelos,
-nem livros, nem coisa nenhuma, al√©m do snr. conde de Almedina, e a qual
+nem livros, nem coisa nenhuma, alÈm do snr. conde de Almedina, e a qual
 a camara, ao cabo de vinte annos de esquecimento ou de desdem, se lembra
 de patrocinar afinal com 5 contos extraordinarios! Cinco contos por
 quatro cacos feiissimos, meu rico senhor!... por quatro potes, que uns
 dizem que foram feitos em Pompeia, e outros que foram feitos nas Caldas
 antes da vinda de Christo, e que, em todo o caso, admittindo-se mesmo
 que houvessem sido feitos ha muito mais tempo e muitissimo mais longe,
-s√≥ seriam de alguma utilidade aos artistas se lh'os dessem cheios de
+sÛ seriam de alguma utilidade aos artistas se lh'os dessem cheios de
 compota de marmelo ou de conserva de pimentos com cenouras!
 
-Tal √© a camara, √≥ serenissimo principe!
+Tal È a camara, Û serenissimo principe!
 
-E a Geographica pode vossa alteza crer que √© outra que tal. A sabia
-corpora√ß√£o da rua do Alecrim n√£o passa de um parlamento como o de S.
-Bento, com a differen√ßa de que, em vez de ser electivo, √© de
-assignatura, a cinco tost√µes por mez, e n'elle a rhetorica √© consultiva
-em vez de ser deliberante. √â a camara ou a ante-camara dos aprendizes a
-deputados e a ministros; √© o vitello mam√£o de que a representa√ß√£o
-nacional √© o boi gordo.
+E a Geographica pode vossa alteza crer que È outra que tal. A sabia
+corporaÁ„o da rua do Alecrim n„o passa de um parlamento como o de S.
+Bento, com a differenÁa de que, em vez de ser electivo, È de
+assignatura, a cinco tostıes por mez, e n'elle a rhetorica È consultiva
+em vez de ser deliberante. … a camara ou a ante-camara dos aprendizes a
+deputados e a ministros; È o vitello mam„o de que a representaÁ„o
+nacional È o boi gordo.
 
 Na primeira quinta feira de despacho digne-se vossa alteza ordenar que o
-trinchante m√≥r da real casa lhe raspe bem raspado um dos seus ministros
-e lh'o sirva sem casca: ahi est√° o geographo.
+trinchante mÛr da real casa lhe raspe bem raspado um dos seus ministros
+e lh'o sirva sem casca: ahi est· o geographo.
 
 Encasque-se o geographo: eis ahi o ministro.
 
 Sobre a Universidade corramos o veu da pudicicia. O mesmo governo,
 considerando recentemente a influencia deslumbrante que esse luminoso
-foco do saber exercia sobre a imagina√ß√£o da mocidade, deliberou com
+foco do saber exercia sobre a imaginaÁ„o da mocidade, deliberou com
 prudencia applicar-lhe um apagador. A respeito de ensino--disse em
 portaria o snr ministro do reino ao reitor d'aquelle instituto de
-instruc√ß√£o--o melhor √© p√¥r-lhe ponto. E assim se fez, com regosijo e
+instrucÁ„o--o melhor È pÙr-lhe ponto. E assim se fez, com regosijo e
 applauso geral dos doutos.
 
 Resta-nos o _drawing-room_ da senhora D. Maria Kruz.
 
-Este centro intellectual est√° indubitavelmente acima de todos os outros
-e exerceu na educa√ß√£o nacional uma influencia doce e benefica. √â certo
+Este centro intellectual est· indubitavelmente acima de todos os outros
+e exerceu na educaÁ„o nacional uma influencia doce e benefica. … certo
 que durante muitos annos foi pela escada tapetada da _Abbaie aux Bois_
-presidida por essa dama, e n√£o pelos degraus sordidos da sociedade
+presidida por essa dama, e n„o pelos degraus sordidos da sociedade
 geographica, que os litteratos, com algum stylo e pera, iam a deputados
 e iam a ministros.
 
-A esta interven√ß√£o senhoril, que por algum tempo deu √° politica
-portugueza uma leve atmosphera de delicadeza e de gra√ßa, um fugitivo
+A esta intervenÁ„o senhoril, que por algum tempo deu · politica
+portugueza uma leve atmosphera de delicadeza e de graÁa, um fugitivo
 _odore di femmina_, se deve o accordo que se fez em alguns caracteres
-entre a avidez das ambi√ß√µes e o respeito pelas escovas d'unhas.
+entre a avidez das ambiÁıes e o respeito pelas escovas d'unhas.
 
-De resto ha para todos os effeitos uma differen√ßa consideravel entre o
-entrar na vida dando o bra√ßo a uma senhora, e o entrar levado em charola
+De resto ha para todos os effeitos uma differenÁa consideravel entre o
+entrar na vida dando o braÁo a uma senhora, e o entrar levado em charola
 pelo snr Pequito e pelo snr Luciano Cordeiro.
 
 A senhora D. Maria Kruz abdicou porem ha muito tempo da influencia da
 sua amabilidade perante o prestigio politico d'esses dois geographos
-fura-vidas, e contenta-se hoje em offerecer √° sua antiga c√¥rte a
-amisade, a conversa√ß√£o e o ch√° das suas quintas-feiras.
+fura-vidas, e contenta-se hoje em offerecer · sua antiga cÙrte a
+amisade, a conversaÁ„o e o ch· das suas quintas-feiras.
 
 
 Toda essa gente, no fim de contas, se tem importado tanto com vossa
-alteza como com minha av√≥ torta. Ao passo que _As Farpas_ desde o
-primeiro dia da sua existencia at√© hoje j√°mais desfilaram os olhos
+alteza como com minha avÛ torta. Ao passo que _As Farpas_ desde o
+primeiro dia da sua existencia atÈ hoje j·mais desfilaram os olhos
 desvelados e respeitosos dos interesses da real familia, em geral, e
 muito em especial dos de vossa alteza serenissima.
 
 Era vossa alteza um baby, da altura de uma bengala, quando seus
 illustres paes, vilmente illudidos por indignos conselheiros, appareciam
 com vossa alteza nos sitios publicos apresentando-o aos povos em traje
-de mascara, j√° de coronel de comedia, j√° de tabeli√£o de entremez.
+de mascara, j· de coronel de comedia, j· de tabeli„o de entremez.
 
-De uma vez levaram-o √°s corridas de cavallos vestido de funccionario
-publico: cal√ßa at√© abaixo, apolainada em cima dos botins apiorrados,
-jaquet√£o, collarinho alto, chapeu redondo, grilh√£o de ouro no relogio e
-luva branca. Vossa alteza poder√° fazer uma ideia da figura que estava
-dignando-se de olhar por um binoculo √°s avessas para o prior da Lapa.
-Era aquillo em louro, sem a cor√¥a e sem o annel liturgico.
+De uma vez levaram-o ·s corridas de cavallos vestido de funccionario
+publico: calÁa atÈ abaixo, apolainada em cima dos botins apiorrados,
+jaquet„o, collarinho alto, chapeu redondo, grilh„o de ouro no relogio e
+luva branca. Vossa alteza poder· fazer uma ideia da figura que estava
+dignando-se de olhar por um binoculo ·s avessas para o prior da Lapa.
+Era aquillo em louro, sem a corÙa e sem o annel liturgico.
 
 _As Farpas_ protestaram com energia, clamando em stylo vehemente que
-vossa alteza tinha direitos inilludiveis a n√£o ser confundido por meio
-dos nefandos artificios do algibebe da c√¥rte com um padre pequeno. Que
+vossa alteza tinha direitos inilludiveis a n„o ser confundido por meio
+dos nefandos artificios do algibebe da cÙrte com um padre pequeno. Que
 vossa alteza era o herdeiro presumptivo de um sceptro; nunca o de um
 cachucho de pregador! Que mais nobre do que essa vestimenta seria a pura
 nudez com a decencia apenas garantida pela antiga folha de vinha ou por
 um simples phyloxera.
 
 _As Farpas_ aconselharam que vestissem vossa alteza sensatamente, de
-flanella, meias de l√£, knickerbokar, blusa, collarinho chato, e sem
+flanella, meias de l„, knickerbokar, blusa, collarinho chato, e sem
 luvas.
 
-Hoje, que vossa alteza √© um homem, deixamos ao seu juizo emancipado o
-decidir quem tinha raz√£o: se os aulicos conselheiros da guarda-roupa de
-vossa alteza, se n√≥s, seus criticos.
+Hoje, que vossa alteza È um homem, deixamos ao seu juizo emancipado o
+decidir quem tinha raz„o: se os aulicos conselheiros da guarda-roupa de
+vossa alteza, se nÛs, seus criticos.
 
 
-Mais tarde quando vossa alteza penetrou nos dominios da instruc√ß√£o
+Mais tarde quando vossa alteza penetrou nos dominios da instrucÁ„o
 secundaria, e que de Coimbra foi chamado por cartas regias o mestre de
 hebraico Joaquim Alves Sousa para o fim de vir ler a vossa alteza Logica
 e Rhetorica, _As Farpas_ apoderaram-se solicitas e velozes d'esse
 sapiente caturra, e provaram por meio de argumentos irrespondiveis que
-era abusar da submiss√£o de um jovem principe, innocente e ingenuo, o p√¥r
+era abusar da submiss„o de um jovem principe, innocente e ingenuo, o pÙr
 defronte d'elle, sob o pretexto de o instruir, esse agoirento mocho,
-pilhado na lobrega escurid√£o da metaphysica universitaria, e posto na
-Ajuda, com a borla doutoral a um lado e o comedouro do rap√© ao outro, a
+pilhado na lobrega escurid„o da metaphysica universitaria, e posto na
+Ajuda, com a borla doutoral a um lado e o comedouro do rapÈ ao outro, a
 explicar as regras do enthimema, do epicherema e do sorites, e bem assim
 o emprego da synedoche, da antonomasia e da catachrese.
 
-Apesar de todas as nossas objec√ß√µes, esse nefasto humanista amargurou os
+Apesar de todas as nossas objecÁıes, esse nefasto humanista amargurou os
 dias preciosos de vossa alteza, procurando cavilosamente fazer-lhe
-acreditar que o epicherema era t√£o indispensavel ao homem como o proprio
-p√£o.
+acreditar que o epicherema era t„o indispensavel ao homem como o proprio
+p„o.
 
-Se tinhamos ras√£o ou n√£o sabe-o hoje muito bem vossa alteza, que √© homem
-ha uns poucos d'annos sem ter precisado nunca at√© hoje nem do epicherema
+Se tinhamos ras„o ou n„o sabe-o hoje muito bem vossa alteza, que È homem
+ha uns poucos d'annos sem ter precisado nunca atÈ hoje nem do epicherema
 nem do sorites nem de coisa alguma d'aquellas com que por tanto tempo o
-estopou, sem proveito para ninguem, esse semsabor√£o tremebundo, seu
+estopou, sem proveito para ninguem, esse semsabor„o tremebundo, seu
 mestre.
 
-Quando foi da nomea√ß√£o do snr conselheiro Viale, do snr Martens Ferr√£o,
+Quando foi da nomeaÁ„o do snr conselheiro Viale, do snr Martens Ferr„o,
 do snr Santa-Monica, _As Farpas_ intervieram de novo, constatando que a
-educa√ß√£o de vossa alteza n√£o era precisamente a piscina da pudica
+educaÁ„o de vossa alteza n„o era precisamente a piscina da pudica
 Susana, para assim a rodearem em grupo mythologico de todos os velhos
-bar-ba√ßas aposentados da magistratura e da academia.
+bar-baÁas aposentados da magistratura e da academia.
 
-Os resultados confirmaram quanto por essa occasi√£o predissemos. Os
-pedagogos de vossa alteza educaram-o dentro da virtude mas f√≥ra da
-natureza, fazendo de vossa alteza uma especie de rosi√®re de Nanterre,
+Os resultados confirmaram quanto por essa occasi„o predissemos. Os
+pedagogos de vossa alteza educaram-o dentro da virtude mas fÛra da
+natureza, fazendo de vossa alteza uma especie de rosiËre de Nanterre,
 cuja vida tivesse por fim servir de assumpto a um romance coroado pelas
-sociedades sabias e destinado a conferir-se em premio de anima√ß√£o √°s
+sociedades sabias e destinado a conferir-se em premio de animaÁ„o ·s
 engommadeiras virtuosas.
 
-Conhece vossa alteza a _Educa√ß√£o de um principe_, de Edmond About?
-Recommendamos-lhe com empenho a leitura d'essa obra t√£o importante aos
+Conhece vossa alteza a _EducaÁ„o de um principe_, de Edmond About?
+Recommendamos-lhe com empenho a leitura d'essa obra t„o importante aos
 principes como o proprio livro de Machiavel.
 
-Em li√ß√£o digna das nossas mais graves medita√ß√µes, About mostra-nos a
-tragica situa√ß√£o do principe Paulo no primeiro dia do seu noivado.
+Em liÁ„o digna das nossas mais graves meditaÁıes, About mostra-nos a
+tragica situaÁ„o do principe Paulo no primeiro dia do seu noivado.
 
-√â alta noite. Findaram as festas do hymeneu em palacio. O monarcha
-agradeceu n'um bem elaborado speech as manifesta√ß√µes geraes do regosijo
-da c√¥rte por occasi√£o do feliz consorcio do principe herdeiro,
-applaudindo incondicionalmente as dan√ßas e as cantatas, e queixando-se
+… alta noite. Findaram as festas do hymeneu em palacio. O monarcha
+agradeceu n'um bem elaborado speech as manifestaÁıes geraes do regosijo
+da cÙrte por occasi„o do feliz consorcio do principe herdeiro,
+applaudindo incondicionalmente as danÁas e as cantatas, e queixando-se
 apenas de pouca pimenta nos molhos mediocremente incendiarios do real
-banquete. Os musicos, desencanudadas as flautas, mettido o rabec√£o na
-caixa, e confiados os timbales ao mo√ßo da real capella, haviam-se
+banquete. Os musicos, desencanudadas as flautas, mettido o rabec„o na
+caixa, e confiados os timbales ao moÁo da real capella, haviam-se
 retirado a seus tugurios. Os aulicos resonavam enconchados nos catres da
-regia mans√£o. E o commandante da companhia dos vivas, incumbido,
+regia mans„o. E o commandante da companhia dos vivas, incumbido,
 mediante a esportula de 3:200 e jantar, de fazer de Povo nos dias de
 gala, havia terminado os seus trabalhos; o rei, com sua natural
 affabilidade, havia-lhe dito commovido, batendo-lhe no hombro e
-metendo-lhe na m√£o os 3:200: _Obrigado, meu povo!_ e elle, com o
-vozeir√£o restaurado por duas gemadas, partira √° pressa para ir levantar
-os vivas √° Republica n'uma manifesta√ß√£o de provincia para que estava
+metendo-lhe na m„o os 3:200: _Obrigado, meu povo!_ e elle, com o
+vozeir„o restaurado por duas gemadas, partira · pressa para ir levantar
+os vivas · Republica n'uma manifestaÁ„o de provincia para que estava
 escripturado.
 
-Tudo pois era silencio e trevas no regio alca√ßar, quando o monarcha se
+Tudo pois era silencio e trevas no regio alcaÁar, quando o monarcha se
 ergueu, de chambre e chinelas, no louvavel intuito de espairecer dos
-duros encargos da publica governa√ß√£o espreitando um momento pela
+duros encargos da publica governaÁ„o espreitando um momento pela
 fechadura da porta da camara nupcial do principe Paulo e da princeza
-Margarida. N'isto, ao atravessar na escurid√£o o sal√£o de baile, mudo,
-apagado e deserto, catrapuz! Era o rei que ia de cor√¥a para baixo e de
+Margarida. N'isto, ao atravessar na escurid„o o sal„o de baile, mudo,
+apagado e deserto, catrapuz! Era o rei que ia de corÙa para baixo e de
 chichelos ao ar por cima de um _fauteil_, encambulhado n'um homem que
-dormia sentado ali assim. Gritos de pav√£o do monarcha aterrado, e
-cortez√£os em ceroulas que chegam com luzes. Descobre-se que o rei cahira
+dormia sentado ali assim. Gritos de pav„o do monarcha aterrado, e
+cortez„os em ceroulas que chegam com luzes. Descobre-se que o rei cahira
 por cima do principe real, que estava noivando sosinho n'uma cadeira com
-o chapeu de bicos na cabe√ßa, abra√ßado √° espada dos reis seus av√≥s.
+o chapeu de bicos na cabeÁa, abraÁado · espada dos reis seus avÛs.
 
---Que faz voc√™ aqui, seu estupido?--lhe perguntou o monarcha com voz
+--Que faz vocÍ aqui, seu estupido?--lhe perguntou o monarcha com voz
 acre.
 
 --Eu nano--respondeu o principe sorridente e doce.--Como a princeza
-Margarida me disse que ia nanar para a sua camara e como eu agora n√£o
+Margarida me disse que ia nanar para a sua camara e como eu agora n„o
 tenho camara para nanar, vim nanar para esta cadeira.
 
 --Chamem os mestres de sua alteza!--bradou o rei iracundo, com um gallo
-na testa e com os bra√ßos cruzados no peito.
+na testa e com os braÁos cruzados no peito.
 
-Um momento depois, como os trez pedagogos comparecessem √° real presen√ßa,
-enrolados √° pressa nas togas do professorado, de barretes de dormir, com
+Um momento depois, como os trez pedagogos comparecessem · real presenÁa,
+enrolados · pressa nas togas do professorado, de barretes de dormir, com
 as competentes pennas de pato aparadas da vespera e mettidas atraz das
 orelhas, o rei disse-lhes:
 
---Esse jumento que ahi est√°, (e estendendo o seu dedo magnimo, com um
+--Esse jumento que ahi est·, (e estendendo o seu dedo magnimo, com um
 largo gesto antigo indicava o principe, vestido de general, de esporas e
 chapeu armado, que bocejava encostado ao sabre de seus antepassados)
 esse real jumento ignora completamente os deveres mais rudimentares de
-um principe para com a sua princeza. E √© para isto que eu tenho tido
-aqui √° engorda durante quinze annos tres burros de tres mestres!... Ora
-muito bem: vou deixar-vos a s√≥s por espa√ßo de cinco minutos com t√£o
+um principe para com a sua princeza. E È para isto que eu tenho tido
+aqui · engorda durante quinze annos tres burros de tres mestres!... Ora
+muito bem: vou deixar-vos a sÛs por espaÁo de cinco minutos com t„o
 repulsivo idiota. Se ao cabo de cinco minutos, contados pelo relogio,
-elle n√£o estiver ao facto d'aquillo que todo o homem de barbas na cara
-deve saber para n√£o vir para aqui a estas horas _nanar_ n'uma cadeira,
+elle n„o estiver ao facto d'aquillo que todo o homem de barbas na cara
+deve saber para n„o vir para aqui a estas horas _nanar_ n'uma cadeira,
 decapito-vos a todos trez esta noite como quem decapita pelo entrudo
 tres perus gordos e emborrachados!
 
-Uma vez a s√≥s com o real alumno, os tres pedagogos cahiram em desfeito
-pranto nos bra√ßos uns dos outros, porque nenhum d'elles sabia nem se
-lembrava de haver j√°mais lido nos auctores coisa alguma relativa aos
+Uma vez a sÛs com o real alumno, os tres pedagogos cahiram em desfeito
+pranto nos braÁos uns dos outros, porque nenhum d'elles sabia nem se
+lembrava de haver j·mais lido nos auctores coisa alguma relativa aos
 _deveres mais rudimentares dos principes para com suas princezas_.
 
 Quando vossa alteza se dignar de passar um exame sobre esta materia aos
@@ -456,125 +456,125 @@ Piedade, principe, piedade!
 Quer vossa alteza mais provas da desinteressada solicitude com que _As
 Farpas_ teem sempre velado com diurno e nocturno olho sobre o prestigio
 de tudo quanto mais directamente se relaciona com a sua pessoa, com a
-sua familia, com a sua c√¥rte?...
+sua familia, com a sua cÙrte?...
 
-Compulse vossa alteza essa collec√ß√£o immarcescivel e a cada momento
-encontrar√° n'ella os conselhos mais amigaveis e mais justos, sobre as
+Compulse vossa alteza essa collecÁ„o immarcescivel e a cada momento
+encontrar· n'ella os conselhos mais amigaveis e mais justos, sobre as
 maneiras, sobre a _toilette_, sobre a linguagem, sobre a etiqueta do
-palacio; acerca dos discursos da cor√¥a, dos uniformes, das libr√©s, dos
+palacio; acerca dos discursos da corÙa, dos uniformes, das librÈs, dos
 cavallos, das carruagens, dos bailes, dos jantares, das viagens, das
-ca√ßadas, das recitas de gala, das revistas militares, etc.
+caÁadas, das recitas de gala, das revistas militares, etc.
 
-Quem foi que mais ardentemente pugnou para que n√£o pegasse a vossa
-alteza e a seu augusto irm√£o a alcunha piegas dos _cabe√ßas louras_ e dos
-_louras crean√ßas_, que lhes puzeram os notic√≠aristas?
+Quem foi que mais ardentemente pugnou para que n„o pegasse a vossa
+alteza e a seu augusto irm„o a alcunha piegas dos _cabeÁas louras_ e dos
+_louras creanÁas_, que lhes puzeram os noticÌaristas?
 
-Quem mais do que n√≥s se esfor√ßou em obstar que sua magestade a rainha
+Quem mais do que nÛs se esforÁou em obstar que sua magestade a rainha
 cahisse, sob a antonomasia de _anjo da caridade_, nos logares communs da
-rhetorica sordida de prociss√£o e do fogo preso, de bambolim de murta e
+rhetorica sordida de prociss„o e do fogo preso, de bambolim de murta e
 de peixe frito?...
 
-N√£o faremos a vossa alteza a injuria de o supp√¥r assaz destituido de bom
-gosto para n√£o comprehender quanto a notoriedade, levada at√© esse ponto
+N„o faremos a vossa alteza a injuria de o suppÙr assaz destituido de bom
+gosto para n„o comprehender quanto a notoriedade, levada atÈ esse ponto
 de incontinencia, melindra e emurchece aquella delicada e fina flor do
-recato, que √© a mais bella joia das princezas que bebem silenciosamente
+recato, que È a mais bella joia das princezas que bebem silenciosamente
 e heroicamente a vida na obscuridade inviolavel, como a imperatriz da
 Allemanha, por exemplo, ou a imperatriz do Brazil.
 
-Por todos estes titulos julgavamos n√≥s ter a certeza de ser os
+Por todos estes titulos julgavamos nÛs ter a certeza de ser os
 individuos chamados a acompanhar vossa alteza na sua viagem de
-instruc√ß√£o.
+instrucÁ„o.
 
 Quando ultimamente lemos nas gazetas os nomes dos snrs Antonio Augusto
-d'Aguiar e Martens Ferr√£o, em vez dos nossos, aquelle que escreve estas
-linhas telegraphou a E√ßa de Queiroz nos seguintes termos:
+d'Aguiar e Martens Ferr„o, em vez dos nossos, aquelle que escreve estas
+linhas telegraphou a EÁa de Queiroz nos seguintes termos:
 
-_E√ßa de Queiroz--Lawrence's Hotel--Cintra. Diga se recebeu rei convite
+_EÁa de Queiroz--Lawrence's Hotel--Cintra. Diga se recebeu rei convite
 ir extrangeiro principes, e se vae._
 
 E recebemos a seguinte resposta:
 
-_Ramalho Ortig√£o--Caetanos--Lisboa. So recebi Alberto Braga convite ir
-Collares burros, e n√£o vou._
+_Ramalho Ortig„o--Caetanos--Lisboa. So recebi Alberto Braga convite ir
+Collares burros, e n„o vou._
 
-Havieis-nos pois lan√ßado a ambos ao ostracismo ... Maldi√ß√£o e prudencia!
+Havieis-nos pois lanÁado a ambos ao ostracismo ... MaldiÁ„o e prudencia!
 
-O preclaro major Quillinan, que t√£o galhardamente defendeu ha pouco a
+O preclaro major Quillinan, que t„o galhardamente defendeu ha pouco a
 honra nacional publicando no _Morning-Post_ uma bisca contra o
 detestavel Brigth, annuncia agora e faz publico que, visto o governo de
-sua magestade fidellissima n√£o haver prestado a considera√ß√£o devida ao
-feito alludido, elle, major Quillinan, n√£o mais volver√° a soccorrer-nos
-nas molestias de Brigth. Brigth tem d'ora avante o rim da gente √°s
-ordens. Tripudie sobre elle a capricho, que o major Quillinan d√°
-licen√ßa! A camara dos commus pode desde hoje beber-nos o sangue √°
+sua magestade fidellissima n„o haver prestado a consideraÁ„o devida ao
+feito alludido, elle, major Quillinan, n„o mais volver· a soccorrer-nos
+nas molestias de Brigth. Brigth tem d'ora avante o rim da gente ·s
+ordens. Tripudie sobre elle a capricho, que o major Quillinan d·
+licenÁa! A camara dos commus pode desde hoje beber-nos o sangue ·
 vontade, que o bebe por conta do lavrador.
 
-Regala-te para ahi, √≥ vibora sedenta!
+Regala-te para ahi, Û vibora sedenta!
 
-N√≥s por√©m, senhor,--como se diz na ¬´Vie Parisienne¬ª--_n√£o somos esse
+NÛs porÈm, senhor,--como se diz na ´Vie Parisienneª--_n„o somos esse
 major_.
 
 Vamos pois dar a vossa alteza n'este momento decisivo e solemne os
-derradeiros conselhos que a nossa dedica√ß√£o a vossa alteza nos inspira,
-para que a todo o tempo se n√£o diga que um mesquinho despeito nos
+derradeiros conselhos que a nossa dedicaÁ„o a vossa alteza nos inspira,
+para que a todo o tempo se n„o diga que um mesquinho despeito nos
 reduziu n'esta suprema contingencia a um silencio criminoso,
 sarocoteando-nos cynicamente no vil mutismo, como dois peixes vermelhos
 dentro de uma redoma cheia d'agua, emquanto vossa alteza caminha para o
 abysmo, levado ao extrangeiro, como quem leva uma retorta, pelo nefando
 chimico snr Antonio Augusto d'Aguiar.
 
-Fomos vilmente preteridos--√© certo--por esse cavalheiro ... Um chimico,
+Fomos vilmente preteridos--È certo--por esse cavalheiro ... Um chimico,
 senhor! um perfumista desaproveitado! um baldroqueiro de drogas! um
-troquilha de liquidos de laboratorio, nojosos e pe√ßonhentos! Al√©m
+troquilha de liquidos de laboratorio, nojosos e peÁonhentos! AlÈm
 d'isso, um gordo descommunal, um gordo inverosimil! um d'estes gordos
-que n√£o passam √°s alfandegas sem que as apalpadeiras venham e lhe ponham
+que n„o passam ·s alfandegas sem que as apalpadeiras venham e lhe ponham
 o visto! um gordo que vae alarmar a Europa, e que vossa alteza, em justa
-satisfa√ß√£o da curiosidade dos povos, se ha de ver for√ßado a exhibir √°
+satisfaÁ„o da curiosidade dos povos, se ha de ver forÁado a exhibir ·
 avidez do publico na feira de Saint-Cloud ou na feira _au pain
-d'epices_, a dois sous por cabe√ßa. Elle, do alto de um estrado, dir√° √°
-Fran√ßa:--_Messieurs! je suis jeune fille, je suis n√©e √† Marseille, j'ai
-seise ans, je p√®se 150 kilos, tatez mon mollet, S.V.P_!
+d'epices_, a dois sous por cabeÁa. Elle, do alto de um estrado, dir· ·
+FranÁa:--_Messieurs! je suis jeune fille, je suis nÈe ‡ Marseille, j'ai
+seise ans, je pËse 150 kilos, tatez mon mollet, S.V.P_!
 
-E vossa alteza, de casaca e gravata branca, piscando o √¥lho ao povo, com
-malicia, ter√° de acrescentar:
+E vossa alteza, de casaca e gravata branca, piscando o Ùlho ao povo, com
+malicia, ter· de acrescentar:
 
---_Il n'y a pas de coton l√† dedans, messieurs!_
+--_Il n'y a pas de coton l‡ dedans, messieurs!_
 
 Elle demais a mais usa uma luneta forrada de cautchu ...
 
-E √© este homem que vae ser o real olheiro de vossa alteza atravez do que
+E È este homem que vae ser o real olheiro de vossa alteza atravez do que
 ha que ver por esse mundo!
 
 Um olheiro, de galochas de borracha na vista!
 
-Um olheiro que vae para ver tudo e que a si mesmo se n√£o viu nunca sen√£o
-at√© metade do ventre, porque da outra metade at√© os p√©s principia para o
+Um olheiro que vae para ver tudo e que a si mesmo se n„o viu nunca sen„o
+atÈ metade do ventre, porque da outra metade atÈ os pÈs principia para o
 seu raio visual o hemispherio do grande indecifravel, do eterno
 incognoscivel!
 
-Que, pela nossa parte, tome vossa alteza nota que n√£o pretendemos
+Que, pela nossa parte, tome vossa alteza nota que n„o pretendemos
 sensurar ninguem! Uma vez que os paes de vossa alteza decidiram que esse
-cavalheiro nos devia substituir para o acompanhar, n√≥s n√£o temos que
-dizer sen√£o que vae muito bem acompanhado. Vae lindo! N√£o haja duvida
+cavalheiro nos devia substituir para o acompanhar, nÛs n„o temos que
+dizer sen„o que vae muito bem acompanhado. Vae lindo! N„o haja duvida
 nenhuma que vae perfeito!
 
-E todavia √© possivel que o veneravel sabio venha a abusar um pouco do
-algebrismo technico da sciencia que t√£o gloriosamente professa e que,
-quando vossa alteza o consulte sobre o _menu_ da sua ceia no caf√©
+E todavia È possivel que o veneravel sabio venha a abusar um pouco do
+algebrismo technico da sciencia que t„o gloriosamente professa e que,
+quando vossa alteza o consulte sobre o _menu_ da sua ceia no cafÈ
 Anglais ou sobre o governo do seu _cob_ na Avenue des Potins, elle lhe
-responda pela f√≥rmula KO+2S0¬≥, ou KO,2S0¬≥, a qual f√≥rmula n√£o √©
-precisamente a da elegancia mais garantida, posto que seja, sem quest√£o
+responda pela fÛrmula KO+2S0≥, ou KO,2S0≥, a qual fÛrmula n„o È
+precisamente a da elegancia mais garantida, posto que seja, sem quest„o
 alguma, a do bissulfato de potassa.
 
 Antes de entrarmos agora na ordem dos conselhos que o nosso mister de
-criticos nos imp√µe o dever sagrado de ministrar a vossa alteza,
-consideremos por um momento o estado presente da educa√ß√£o que vossa
+criticos nos impıe o dever sagrado de ministrar a vossa alteza,
+consideremos por um momento o estado presente da educaÁ„o que vossa
 alteza vae concluir na sua proxima viagem.
 
 Um jornal insuspeito, o _Commercio de Portugal_, resume o programma
-d'essa educa√ß√£o no seguinte quadro:
+d'essa educaÁ„o no seguinte quadro:
 
-_¬´Conhece o principe o latim, francez, inglez, italiano, allem√£o,
+_´Conhece o principe o latim, francez, inglez, italiano, allem„o,
 hespanhol, e estuda o grego. Faz com muito aproveitamento o curso de
 humanidades; tendo ahi principalmente alargado os estudos sobre a
 historia universal e patria. Estuda um curso regular de sciencias
@@ -583,119 +583,119 @@ constituem a_ SCIENCIA DO GOVERNO _para um principe, o curso de
 disciplinas seguido por sua alteza tem sido o seguinte, que indicamos
 mais desenvolvidamente por entendermos que muito interessa saber-se.
 
-Come√ßou pelo estudo aprofundado da philosophia, especialmente dirigido
+ComeÁou pelo estudo aprofundado da philosophia, especialmente dirigido
 para o estudo superior da philosophia do direito.
 
-Em 1878 come√ßou os estudos de philosophia racional e moral, e historia
+Em 1878 comeÁou os estudos de philosophia racional e moral, e historia
 systematica da philosophia.
 
-Preparado assim, come√ßou em seguida o estudo de direito natural ou da
+Preparado assim, comeÁou em seguida o estudo de direito natural ou da
 philosophia do direito. Passou depois a estudar o direito publico
 interno e politico;--direito constitucional portuguez; e historia tanto
-antiga como moderna das institui√ß√µes politicas da na√ß√£o; organisa√ß√£o da
-administra√ß√£o publica em Portugal nos seus differentes ramos; leitura e
-explica√ß√£o do codigo administrativo e das leis eleitoraes.
+antiga como moderna das instituiÁıes politicas da naÁ„o; organisaÁ„o da
+administraÁ„o publica em Portugal nos seus differentes ramos; leitura e
+explicaÁ„o do codigo administrativo e das leis eleitoraes.
 
-Estudo comparado das institui√ß√µes politicas das principaes na√ß√µes cultas
+Estudo comparado das instituiÁıes politicas das principaes naÁıes cultas
 e analyse de seu systema eleitoral.
 
-Parallelamente e em li√ß√µes alternadas, sua alteza seguiu o estudo
+Parallelamente e em liÁıes alternadas, sua alteza seguiu o estudo
 sistematico da historia do direito publico da Europa, seguindo como base
-a notavel obra ¬´Le droit public et l'Europe moderne,¬ª do Vicomte
-Lagueroni√®re.
+a notavel obra ´Le droit public et l'Europe moderne,ª do Vicomte
+LagueroniËre.
 
 Estudos dos principaes tratados porque foi alterada a carta e a
-organisa√ß√£o politica da Europa desde os tratados de paz de Westphalia
-at√© a actualidade.
+organisaÁ„o politica da Europa desde os tratados de paz de Westphalia
+atÈ a actualidade.
 
-Estudo dos trabalhos do conde de Cacour sobre a organisa√ß√£o do reino de
+Estudo dos trabalhos do conde de Cacour sobre a organisaÁ„o do reino de
 Italia, e da correspondencia diplomatica mais importante sobre os
 grandes acontecimentos politicos contemporaneos, seguindo esse estudo
-pela excellente collec√ß√£o dos_ ARCHIVES DIPLOMATIQUES _.
+pela excellente collecÁ„o dos_ ARCHIVES DIPLOMATIQUES _.
 
 Estudo dos principaes tratados diplomaticos de Portugal com a
 Inglaterra; tratado de Bombaim 1661; tratado de Metwen 1703; tratados
-d'allian√ßa e de commercio de 1810; tratados da quadrupla allian√ßa 1834;
-tratados para a repress√£o do trafico de 1817 e 1822, e tratado de
+d'allianÁa e de commercio de 1810; tratados da quadrupla allianÁa 1834;
+tratados para a repress„o do trafico de 1817 e 1822, e tratado de
 commercio d'este mesmo anno.
 
 Terminado o estudo especial do direito publico interno, e parallelamente
-ainda com o estudo das disciplinas, que ficam indicadas, come√ßou sua
+ainda com o estudo das disciplinas, que ficam indicadas, comeÁou sua
 alteza a estudar o curso de Direito Publico Internacional, segundo uma
-introduc√ß√£o dos principios, que dominam este ramo importante da sciencia
+introducÁ„o dos principios, que dominam este ramo importante da sciencia
 do direito, e da theoria das nacionalidades, seguindo depois o estudo
-especial sobre o_ DROIT INTERNACIONAL CODIFI√â, _de Bluntschli, 1880._
+especial sobre o_ DROIT INTERNACIONAL CODIFI…, _de Bluntschli, 1880._
 
-Sua alteza est√° ainda cursando estas disciplinas.
+Sua alteza est· ainda cursando estas disciplinas.
 
-Em maio de 1872, come√ßou sua alteza conjuntamente com o estudo do
+Em maio de 1872, comeÁou sua alteza conjuntamente com o estudo do
 direito publico internacional o curso de economia politica, seguindo
-especialmente o_ TRAIT√â D'ECONOMIE POLITIQUE SOCIAL, _de Joseph Garnier
+especialmente o_ TRAIT… D'ECONOMIE POLITIQUE SOCIAL, _de Joseph Garnier
 (1880), comprehendendo muito especialmente o estudo do systema
-fiduciario nas differentes na√ß√µes, e dos caminhos de ferro e canaes,
+fiduciario nas differentes naÁıes, e dos caminhos de ferro e canaes,
 como meios economicos.
 
-Actualmente em seguimento √° economia politica, estuda a sciencia de
-fazenda segundo o_ TRAIT√â DES FINANCES, _de Joseph Garnier (1883) com
-applica√ß√£o √° organisa√ß√£o de Portugal.
+Actualmente em seguimento · economia politica, estuda a sciencia de
+fazenda segundo o_ TRAIT… DES FINANCES, _de Joseph Garnier (1883) com
+applicaÁ„o · organisaÁ„o de Portugal.
 
 Para complemento do plano de estudo de sciencias sociaes, que foi
 adoptado ainda faltam outras disciplinas. N'esse estudo, e nos outros,
-continuar√° sua alteza finda que seja a sua viagem.
+continuar· sua alteza finda que seja a sua viagem.
 
-Com li√ß√µes de duas horas, e com uma exacta applica√ß√£o, o principe tem
+Com liÁıes de duas horas, e com uma exacta applicaÁ„o, o principe tem
 podido vencer os estudos difficeis e variados, que ficam indicados.
 
-Assim educam os reis de Portugal os seus filhos.¬ª
+Assim educam os reis de Portugal os seus filhos.ª
 
-√â claro que estas informa√ß√µes procedem directamente do pa√ßo. Tudo o
-comprova: as datas, os titulos dos compendios e as suas edi√ß√µes, a ordem
-detalhada dos estudos, as horas de li√ß√£o, etc. Estamos por tanto em
+… claro que estas informaÁıes procedem directamente do paÁo. Tudo o
+comprova: as datas, os titulos dos compendios e as suas ediÁıes, a ordem
+detalhada dos estudos, as horas de liÁ„o, etc. Estamos por tanto em
 frente de um testemunho authentico, de um documento historico.
 
 Analysemol-o.
 
-Vossa alteza √© bastante mo√ßo ainda e bastante robusto para que o seu
-cerebro haja resistido √°s influencias d'esse regimen aniquilad√¥r de toda
+Vossa alteza È bastante moÁo ainda e bastante robusto para que o seu
+cerebro haja resistido ·s influencias d'esse regimen aniquiladÙr de toda
 a intelligencia.
 
-Note pois vossa alteza, em primeiro logar, a lingoa de preto em que est√°
-redigida esta exposi√ß√£o.
+Note pois vossa alteza, em primeiro logar, a lingoa de preto em que est·
+redigida esta exposiÁ„o.
 
-Para dizer uma coisa t√£o simples, o stylo do mestre de vossa alteza
-rabeia na confus√£o mais contorcida e mais comichosa, em lucta com a
-pobresa de um vocabulario estreitissimo, de creada de servir. _Come√ßou
-pelo estudo aprofundado ... Depois come√ßou os estudos de philosophia ...
-Come√ßou em seguida o estudo do direito ... Parallelamente seguiu o
+Para dizer uma coisa t„o simples, o stylo do mestre de vossa alteza
+rabeia na confus„o mais contorcida e mais comichosa, em lucta com a
+pobresa de um vocabulario estreitissimo, de creada de servir. _ComeÁou
+pelo estudo aprofundado ... Depois comeÁou os estudos de philosophia ...
+ComeÁou em seguida o estudo do direito ... Parallelamente seguiu o
 estudo systematico ... seguindo como base, etc._ Mas, Deus piedoso! isto
-n√£o √© escrever, isto √© co√ßar-se. Quem n√£o pode exprimir-se melhor √© que
-vae ter furunculos, e n√£o deve escrever, deve tomar salsa parrilha.
+n„o È escrever, isto È coÁar-se. Quem n„o pode exprimir-se melhor È que
+vae ter furunculos, e n„o deve escrever, deve tomar salsa parrilha.
 
-Para julgar um tal plano de estudos, basta que vossa alteza um dia, √°s
+Para julgar um tal plano de estudos, basta que vossa alteza um dia, ·s
 escondidas d'esses senhores, abra um livro de um pedagogista, seja qual
-f√¥r. Em qualquer artigo de encyclopedia vossa alteza ler√°, de resto, que
-o fim da educa√ß√£o √© preparar o homem para a mais perfeita felicidade
+fÙr. Em qualquer artigo de encyclopedia vossa alteza ler·, de resto, que
+o fim da educaÁ„o È preparar o homem para a mais perfeita felicidade
 d'elle mesmo e para a felicidade dos seus similhantes em virtude da sua
-adapta√ß√£o mais fecunda ao meio physico, ao meio economico, ao meio
+adaptaÁ„o mais fecunda ao meio physico, ao meio economico, ao meio
 politico, ao meio esthetico, ao meio moral. Na parte relativa aos
-conhecimentos, ou √° instruc√ß√£o propriamente dita, a educa√ß√£o tem por
-objecto fazer-nos conhecer as manifesta√ß√µes ou os phenomenos do
+conhecimentos, ou · instrucÁ„o propriamente dita, a educaÁ„o tem por
+objecto fazer-nos conhecer as manifestaÁıes ou os phenomenos do
 universo, principiando naturalmente por estabelecer as diversas
 categorias em que esses phenomenos se dividem. _O cathecismo da doutrina
 do real_, (citamos o que ha de mais elementar), reduz succintamente
-todos os phenomenos que a educa√ß√£o tem por fim submetter √° nossa
-investiga√ß√£o √°s seis ordens seguintes:
+todos os phenomenos que a educaÁ„o tem por fim submetter · nossa
+investigaÁ„o ·s seis ordens seguintes:
 
-1.--Os phenomenos da quantidade, da f√≥rma, da extens√£o e do movimento,
+1.--Os phenomenos da quantidade, da fÛrma, da extens„o e do movimento,
 ou phenomenos _mathematicos_.
 
-2.--Os phenomenos do movimento dos astros, da sua dimens√£o, das suas
+2.--Os phenomenos do movimento dos astros, da sua dimens„o, das suas
 distancias respectivas etc., ou phenomenos _astronomicos_.
 
 3.--Os phenomenos do calor, da luz, da electricidade, do magnetismo, da
 acustica, ou phenomenos _physicos_.
 
-4.--Os phenomenos de combina√ß√£o e de decomposi√ß√£o, ou phenomenos
+4.--Os phenomenos de combinaÁ„o e de decomposiÁ„o, ou phenomenos
 _chimicos_.
 
 5.--Os phenomenos proprios aos seres vivos, ou phenomenos _biologicos_.
@@ -703,189 +703,189 @@ _chimicos_.
 6.--Os phenomenos do desenvolvimento das sociedades, ou phenomenos
 _sociaes_.
 
-Entre estas diversas ordens de phenomenos ha uma correla√ß√£o de
-dependencia successiva. De sorte que se n√£o podem conhecer os phenomenos
-da 6.¬™ categoria sem conhecer as da 5.¬™; n√£o se podem conhecer as da 5.¬™
-sem conhecer as da 4.¬™; e assim por diante.
+Entre estas diversas ordens de phenomenos ha uma correlaÁ„o de
+dependencia successiva. De sorte que se n„o podem conhecer os phenomenos
+da 6.™ categoria sem conhecer as da 5.™; n„o se podem conhecer as da 5.™
+sem conhecer as da 4.™; e assim por diante.
 
-N√£o se aprende a astronomia e a physica terrestre sem no√ß√µes
-mathematicas. N√£o ha chimica sem uma constitui√ß√£o anterior da physica.
-N√£o ha phenomeno vital que se comprehenda sem o conhecimento previo da
-synthese chimica. N√£o ha finalmente facto social que se defina
+N„o se aprende a astronomia e a physica terrestre sem noÁıes
+mathematicas. N„o ha chimica sem uma constituiÁ„o anterior da physica.
+N„o ha phenomeno vital que se comprehenda sem o conhecimento previo da
+synthese chimica. N„o ha finalmente facto social que se defina
 scientificamente sem o conhecimento da synthese biologica.
 
 As sciencias cujas leis regem os phenomenos dos differentes grupos a que
 nos referimos acham-se hoje constituidas e chamam-se as sciencias
 fundamentaes.
 
-Cada uma d'estas sciencias se estuda por um methodo que lhe √© privativo
+Cada uma d'estas sciencias se estuda por um methodo que lhe È privativo
 e a que corresponde o desenvolvimento progressivo das nossas faculdades.
-Assim o methodo das mathematicas √© o do _raciocinio_ por deduc√ß√£o; o da
-astronomia √© a _observa√ß√£o_; o da physica √© a _experiencia_; o da
-chimica √© a _analyse_; o da biologia, assim como o da anthropologia, ou
-biologia applicada ao homem, √© a _compara√ß√£o_; o da sociologia √© a
-_observa√ß√£o critica_ e a _filia√ß√£o historica_.
+Assim o methodo das mathematicas È o do _raciocinio_ por deducÁ„o; o da
+astronomia È a _observaÁ„o_; o da physica È a _experiencia_; o da
+chimica È a _analyse_; o da biologia, assim como o da anthropologia, ou
+biologia applicada ao homem, È a _comparaÁ„o_; o da sociologia È a
+_observaÁ„o critica_ e a _filiaÁ„o historica_.
 
-A enuncia√ß√£o d'esta ordem hierarquica dos conhecimentos deve-se a
-Augusto Comte; e esta √© a parte da doutrina d'esse poderoso renovador da
-mentalidade humana que ninguem at√© hoje discutiu nem contestou nas
-grandes linhas geraes. Esta methodisa√ß√£o √© t√£o clara, t√£o consistente e
-t√£o fecunda, que n√£o ha hoje systematisador que a n√£o adopte como a mais
-segura das chaves para a coordena√ß√£o das ideias.
+A enunciaÁ„o d'esta ordem hierarquica dos conhecimentos deve-se a
+Augusto Comte; e esta È a parte da doutrina d'esse poderoso renovador da
+mentalidade humana que ninguem atÈ hoje discutiu nem contestou nas
+grandes linhas geraes. Esta methodisaÁ„o È t„o clara, t„o consistente e
+t„o fecunda, que n„o ha hoje systematisador que a n„o adopte como a mais
+segura das chaves para a coordenaÁ„o das ideias.
 
-Emquanto √° applica√ß√£o d'este principio √° educa√ß√£o diz Spencer:
+Emquanto · applicaÁ„o d'este principio · educaÁ„o diz Spencer:
 
-¬´Que na educa√ß√£o se deve proceder do simples para o composto √© uma
+´Que na educaÁ„o se deve proceder do simples para o composto È uma
 verdade sobre a qual em certa medida todos se fundam. O espirito
 desenvolve-se. Como todas as coisas que se desenvolvem, elle progride do
-homogeneo para o heterogeneo; e como um systema normal de educa√ß√£o √© a
-contraposi√ß√£o objectiva d'essa marcha subjectiva, deve conter a mesma
-progress√£o. Esta formula assim interpretada tem um alcance muito maior
-do que √° primeira vista parece; porque o seu principio implica n√£o
-s√≥mente que temos de proceder do simples para o composto no ensino de
+homogeneo para o heterogeneo; e como um systema normal de educaÁ„o È a
+contraposiÁ„o objectiva d'essa marcha subjectiva, deve conter a mesma
+progress„o. Esta formula assim interpretada tem um alcance muito maior
+do que · primeira vista parece; porque o seu principio implica n„o
+sÛmente que temos de proceder do simples para o composto no ensino de
 cada um dos ramos da sciencia, mas que outro tanto devemos fazer com
-rela√ß√£o ao conhecimento total. Como o espirito n√£o come√ßa por disp√¥r
-sen√£o d'um pequeno numero de faculdades activas, e que as faculdades
-desenvolvidas mais tarde entram successivamente em ac√ß√£o at√© chegarem a
-funccionar todas simultaneamente, segue-se que o ensino n√£o deve abra√ßar
-primeiro sen√£o um pequeno numero d'objectos, successivamente
-accrescentados at√© que se comprehendam todos. N√£o √© s√≥mente na
-especialidade que a educa√ß√£o deve proceder do simples para o composto, √©
-tambem no conjuncto.¬ª
+relaÁ„o ao conhecimento total. Como o espirito n„o comeÁa por dispÙr
+sen„o d'um pequeno numero de faculdades activas, e que as faculdades
+desenvolvidas mais tarde entram successivamente em acÁ„o atÈ chegarem a
+funccionar todas simultaneamente, segue-se que o ensino n„o deve abraÁar
+primeiro sen„o um pequeno numero d'objectos, successivamente
+accrescentados atÈ que se comprehendam todos. N„o È sÛmente na
+especialidade que a educaÁ„o deve proceder do simples para o composto, È
+tambem no conjuncto.ª
 
 Em seguida Spencer accrescenta, de accordo com todos os pedagogos
-modernos, que a educa√ß√£o da crean√ßa deve concordar no modo adoptado e na
-ordem seguida com a educa√ß√£o da humanidade considerada historicamente. A
-genese da sciencia no individuo n√£o p√≥de seguir uma marcha differente da
-genese da sciencia na ra√ßa. E n'este ponto Spencer invoca o nome de
+modernos, que a educaÁ„o da creanÁa deve concordar no modo adoptado e na
+ordem seguida com a educaÁ„o da humanidade considerada historicamente. A
+genese da sciencia no individuo n„o pÛde seguir uma marcha differente da
+genese da sciencia na raÁa. E n'este ponto Spencer invoca o nome de
 Comte e curva-se respeitosamente deante d'elle, porque a ordem
-positivista dos estudos corresponde exactamente √° evolu√ß√£o dos
+positivista dos estudos corresponde exactamente · evoluÁ„o dos
 conhecimentos na humanidade, a qual principiou por investigar os factos
-cosmologicos e inorganicos mui longo tempo antes de attender √°s leis
-biographicas e √° vida historica da especie.
+cosmologicos e inorganicos mui longo tempo antes de attender ·s leis
+biographicas e · vida historica da especie.
 
-Vejamos agora √° luz d'estes principios como os pedagogos de vossa alteza
-regularam a distribui√ß√£o dos conhecimentos que foram incumbidos de
+Vejamos agora · luz d'estes principios como os pedagogos de vossa alteza
+regularam a distribuiÁ„o dos conhecimentos que foram incumbidos de
 ministrar-lhe.
 
-_Sua alteza_--diz a informa√ß√£o que analysamos--_come√ßou pelo estudo
+_Sua alteza_--diz a informaÁ„o que analysamos--_comeÁou pelo estudo
 aprofundado da philosophia_.
 
-Esta simples proposi√ß√£o inicial basta pelo seu profundo alcance
+Esta simples proposiÁ„o inicial basta pelo seu profundo alcance
 pathologico para sobre ella se diagnosticar a inepcia verdadeiramente
-tragica que presidiu √° educa√ß√£o intellectual de vossa alteza.
+tragica que presidiu · educaÁ„o intellectual de vossa alteza.
 
 Principiar pela philosophia!!
 
-Mas a philosophia √© precisamente a ultima das coisas que se ensinaria a
+Mas a philosophia È precisamente a ultima das coisas que se ensinaria a
 um homem, se a philosophia fosse coisa que se impuzesse a alguem pelo
 dogmatismo dos mestres.
 
-O que √© uma philosophia sen√£o um systema de leis, deduzidas pelo
-espirito de cada um da confronta√ß√£o das causas e dos effeitos dos
+O que È uma philosophia sen„o um systema de leis, deduzidas pelo
+espirito de cada um da confrontaÁ„o das causas e dos effeitos dos
 phenomenos physicos e dos phenomenos moraes, e destinadas a fazer-nos
-prever, √° mais longa distancia da nossa comprehens√£o pessoal, o destino
+prever, · mais longa distancia da nossa comprehens„o pessoal, o destino
 do homem no gremio da sociedade e no seio da natureza?
 
-Como √© pois que alguem emprehende crear um philosopho de um menino de
-instruc√ß√£o primaria, fazendo-o systematisar pelas altas e subtis
-correla√ß√µes de causa e effeito um conjuncto de phenomenos, que elle nem
+Como È pois que alguem emprehende crear um philosopho de um menino de
+instrucÁ„o primaria, fazendo-o systematisar pelas altas e subtis
+correlaÁıes de causa e effeito um conjuncto de phenomenos, que elle nem
 sequer conhece na sua funccionalidade concreta, quanto mais na
-abstrac√ß√£o psychologica de fim e de origem?
+abstracÁ„o psychologica de fim e de origem?
 
-O principio fundamental de todo o systema de educa√ß√£o e de ensino
-√©--como j√° vimos--que, sempre e invariavelmente, se proceda dos factos
+O principio fundamental de todo o systema de educaÁ„o e de ensino
+È--como j· vimos--que, sempre e invariavelmente, se proceda dos factos
 particulares para as leis geraes e das leis geraes para as leis de
-applica√ß√£o.
+applicaÁ„o.
 
-Como √© ent√£o que a vossa alteza ensinaram leis de applica√ß√£o sem o
+Como È ent„o que a vossa alteza ensinaram leis de applicaÁ„o sem o
 conhecimento previo das leis geraes e sem o conhecimento anterior dos
 factos particulares?
 
-Que especie de philosophia √© esta que vossa alteza aprendeu, t√£o
-extranhamente e t√£o miraculosamente como poderia ter aprendido a leitura
-sem o conhecimento das letras ou a arithmetica sem a no√ß√£o dos
+Que especie de philosophia È esta que vossa alteza aprendeu, t„o
+extranhamente e t„o miraculosamente como poderia ter aprendido a leitura
+sem o conhecimento das letras ou a arithmetica sem a noÁ„o dos
 numeros?...
 
-√â a _instauratio magna_ de Baccon? √â o scepticismo systematico de
-Descartes? √â o metaphysismo de Hobbes e de Leibnitz? √â o deismo de Locke
-ou o de Voltaire? √â o sensualismo de Spinosa ou o de Condillac? √â o
-scepticismo de Berkeley? √â o materialismo de Holbach ou de La Mettrie? √â
-o encyclopedismo de Condorcet? √â o sentimentalismo de Rousseau? √â o
-idealismo de Kant e de H√©gel? √â o pessimismo de Hartmann e de
-Schopenhauer? √â o eclectismo do snr Cousin? √â o revolucionismo de
-Proudhon? √â o objectivismo de Stuart Mill e de Herbert Spencer? √â o
-evolucionismo de Darwin? √â o positivismo de Comte ou de Littr√©?
+… a _instauratio magna_ de Baccon? … o scepticismo systematico de
+Descartes? … o metaphysismo de Hobbes e de Leibnitz? … o deismo de Locke
+ou o de Voltaire? … o sensualismo de Spinosa ou o de Condillac? … o
+scepticismo de Berkeley? … o materialismo de Holbach ou de La Mettrie? …
+o encyclopedismo de Condorcet? … o sentimentalismo de Rousseau? … o
+idealismo de Kant e de HÈgel? … o pessimismo de Hartmann e de
+Schopenhauer? … o eclectismo do snr Cousin? … o revolucionismo de
+Proudhon? … o objectivismo de Stuart Mill e de Herbert Spencer? … o
+evolucionismo de Darwin? … o positivismo de Comte ou de LittrÈ?
 
-A informa√ß√£o que t√£o opportunamente baixou da aula de vossa alteza √°
-redac√ß√£o do _Diario de Portugal_ arranca o nosso espirito perplexo a
+A informaÁ„o que t„o opportunamente baixou da aula de vossa alteza ·
+redacÁ„o do _Diario de Portugal_ arranca o nosso espirito perplexo a
 esta cruel duvida.
 
 Diz-nos esse papel precioso que a philosophia que vossa alteza aprendeu
-√© a _philosophia racional e moral_.
+È a _philosophia racional e moral_.
 
 Ora, como vossa alteza talvez sabe, todo o termo affirmativo implica a
-nega√ß√£o de um termo contrario. Assim quem diz uma philosophia
-_objectiva_ ou uma philosophia _materialista_, d√° a perceber d'esse modo
+negaÁ„o de um termo contrario. Assim quem diz uma philosophia
+_objectiva_ ou uma philosophia _materialista_, d· a perceber d'esse modo
 que ha uma philosophia _subjectiva_ e uma philosophia _espiritualista_,
-mas que n√£o √© d'essas que se trata.
+mas que n„o È d'essas que se trata.
 
-Os pedagogos de vossa alteza, insinuando-lhe que √© _racional e moral_ a
+Os pedagogos de vossa alteza, insinuando-lhe que È _racional e moral_ a
 philosophia que lhe ensinam, deixam entender que ha tambem uma
-philosophia _immoral_ e uma philosophia _irracional_, opposta a essa. √â
-triste o pensar que vossa alteza est√° desde de 1878 a estudar uma coisa
-que se converter√° n'um systema de _irracionalidade_ e n'uma doutrina de
-_desmoralisa√ß√£o_ desde que vossa alteza se d√™ ao ligeiro trabalho de
+philosophia _immoral_ e uma philosophia _irracional_, opposta a essa. …
+triste o pensar que vossa alteza est· desde de 1878 a estudar uma coisa
+que se converter· n'um systema de _irracionalidade_ e n'uma doutrina de
+_desmoralisaÁ„o_ desde que vossa alteza se dÍ ao ligeiro trabalho de
 virar pelo avesso a tal coisa que lhe ensinaram.
 
-O programma que tem regulado a instruc√ß√£o de vossa alteza accrescenta
-que vossa alteza tem estudado essa philosophia na _direc√ß√£o do estudo
-superior da philosophia do direito_, e que _assim preparado come√ßou em
+O programma que tem regulado a instrucÁ„o de vossa alteza accrescenta
+que vossa alteza tem estudado essa philosophia na _direcÁ„o do estudo
+superior da philosophia do direito_, e que _assim preparado comeÁou em
 seguida o estudo do direito natural_.
 
-Perante uma t√£o espantosa affirmativa deitamos abaixo das estantes todos
-os livros de ¬´direc√ß√£o philosophica¬ª desde a mais remota antiguidade at√©
+Perante uma t„o espantosa affirmativa deitamos abaixo das estantes todos
+os livros de ´direcÁ„o philosophicaª desde a mais remota antiguidade atÈ
 os nossos dias.
 
-Interrogamos avidamente as tradi√ß√µes egypcias do tempo das dynastias
+Interrogamos avidamente as tradiÁıes egypcias do tempo das dynastias
 pharoonicas, contemporaneas das pyramides e anteriores de quatro mil
-annos √° era de Christo, os vestigios que restam dos papyrus do _Ritual
+annos · era de Christo, os vestigios que restam dos papyrus do _Ritual
 funerario_ e do _Livro dos mortos_.
 
-Interrogamos quanto se sabe ao presente da passagem no tempo e no espa√ßo
+Interrogamos quanto se sabe ao presente da passagem no tempo e no espaÁo
 da philosophia chineza do _Y-King_ e do _Chou-King_.
 
 Inquirimos tambem, posto que com mais reserva, bem entendido, quanto se
-deslinda para a especula√ß√£o philosophica dos mythos e dos emblemas
-indecentes das religi√µes e das liturgias phallicas da Chaldea e da
+deslinda para a especulaÁ„o philosophica dos mythos e dos emblemas
+indecentes das religiıes e das liturgias phallicas da Chaldea e da
 Syria.
 
-Relemos com olho pressuroso, e manuseamos com m√£o nervosa e ligeira tudo
-quanto o snr Vasconcellos Abreu tem feito a merc√™ de nos communicar a
+Relemos com olho pressuroso, e manuseamos com m„o nervosa e ligeira tudo
+quanto o snr Vasconcellos Abreu tem feito a mercÍ de nos communicar a
 respeito dos systemas philosophicos e mais systemas dos Aryas.
 
-Consultamos Thales de Mileto e Democrito, Socrates e Plat√£o,
+Consultamos Thales de Mileto e Democrito, Socrates e Plat„o,
 Aristoteles, Zenon e Epicuro, Pomponacio e Averroes, todos os
 escholasticos, todos os platonicos, todos os peripateticos, todos os
 epicuristas, todos os pantheistas, todos os scepticos, todos os
-materialistas, e todos os atheus, sem excep√ß√£o d'um s√≥, desde os
-_Dialogos da Natureza_ do seculo XVII at√© o nosso moderno _Trinta_,
+materialistas, e todos os atheus, sem excepÁ„o d'um sÛ, desde os
+_Dialogos da Natureza_ do seculo XVII atÈ o nosso moderno _Trinta_,
 comprehendendo todos os atheus verdadeiros e todos os atheus fingidos,
 desde Vanini, que morreu queimado como impio pelo parlamento de Tolosa,
-at√© um bom tendeiro nosso amigo que deixou de ir √° missa ha mais de um
-anno, para n√£o se comprometter com os socios do club _Gomes Leal_.
+atÈ um bom tendeiro nosso amigo que deixou de ir · missa ha mais de um
+anno, para n„o se comprometter com os socios do club _Gomes Leal_.
 
-Pois bem: ao cabo de t√£o laboriosas excava√ß√µes eruditas e de t√£o vastas
-investiga√ß√µes historicas, podemos asseverar, sob nossa palavra de honra,
-a vossa alteza, que nada encontramos nem nas tradi√ß√µes, nem nos livros
-sabios, nem na conversa√ß√£o viva dos doutos, que nos possa dar, ainda que
+Pois bem: ao cabo de t„o laboriosas excavaÁıes eruditas e de t„o vastas
+investigaÁıes historicas, podemos asseverar, sob nossa palavra de honra,
+a vossa alteza, que nada encontramos nem nas tradiÁıes, nem nos livros
+sabios, nem na conversaÁ„o viva dos doutos, que nos possa dar, ainda que
 mui remotamente, ideia alguma do que venha a ser o _estudo de uma
 philosophia especialmente dirigido para o estudo de outra philosophia_,
-como aquella de que t√£o gloriosamente se trata no quadro dos
+como aquella de que t„o gloriosamente se trata no quadro dos
 conhecimentos propinados a vossa alteza pelos seus venerandos mestres.
 
 O _Direito Natural_, em que se diz que vossa alteza entrou depois do
-preparo da _philosophia especialmente dirigida para a philosophia_, √© a
+preparo da _philosophia especialmente dirigida para a philosophia_, È a
 reliquia rarissima de um estado mental que desappareceu da esphera
 philosophica, mas cujos vestigios tivemos a fortuna de poder encontrar
 ainda entre os ferros-velhos da historia do pensamento.
@@ -893,129 +893,129 @@ ainda entre os ferros-velhos da historia do pensamento.
 Parece que houve com effeito, em tempos, o que quer que fosse a que se
 deu o nome hoje archaico de _Direito Natural_.
 
-Al√©m da gente anonyma e desconhecida que com m√£o mysteriosa taberneia em
+AlÈm da gente anonyma e desconhecida que com m„o mysteriosa taberneia em
 Portugal o ensino publico e o de vossa alteza, ninguem mais ignora hoje
-em dia que todo o Direito √© um producto da civilisa√ß√£o, e nunca uma
-manifesta√ß√£o ou uma obra da natureza. Nas sociedades rudimentares n√£o se
+em dia que todo o Direito È um producto da civilisaÁ„o, e nunca uma
+manifestaÁ„o ou uma obra da natureza. Nas sociedades rudimentares n„o se
 conhece o Direito. Nas sociedades civilisadas o Direito varia, segundo
-as concep√ß√µes intellectuaes que dirigem o progresso em cada uma d'essas
-sociedades. E d'ahi vem que o Direito √© eterno. √â eterno precisamente
-porque √© progressivo, como √© progressiva a moral e a arte, e n√£o porque
-seja um ideal innato √° natureza do homem.
+as concepÁıes intellectuaes que dirigem o progresso em cada uma d'essas
+sociedades. E d'ahi vem que o Direito È eterno. … eterno precisamente
+porque È progressivo, como È progressiva a moral e a arte, e n„o porque
+seja um ideal innato · natureza do homem.
 
-O erro da velha denomina√ß√£o de _Direito Natural_ procedia de que os
-philosophos desconheciam a natureza, e em sua boa f√© a consideravam
-recta e justa. Mas Darwin veio. Desde ent√£o ficou demonstrado que, pelos
-processos porque ella opera na forma√ß√£o dos aggregados humanos, a
-natureza √© immoral e √© iniqua.
+O erro da velha denominaÁ„o de _Direito Natural_ procedia de que os
+philosophos desconheciam a natureza, e em sua boa fÈ a consideravam
+recta e justa. Mas Darwin veio. Desde ent„o ficou demonstrado que, pelos
+processos porque ella opera na formaÁ„o dos aggregados humanos, a
+natureza È immoral e È iniqua.
 
 A lei do universo basea-se sobre o concurso d'estes dois grandes
-agentes: a _luta pela vida_ e a _selec√ß√£o natural_. A luta pela vida √© o
-estado permanente de todos os seres, para os quaes a crea√ß√£o √© uma
-eterna batalha. A sorte do conflicto decide-a a selec√ß√£o natural. Como?
-Fixando na especie, pela adapta√ß√£o ao meio, os seres mais fortes, e
-expulsando os seres inferiores. Por isso o professor Haeckel affirma: ¬´A
+agentes: a _luta pela vida_ e a _selecÁ„o natural_. A luta pela vida È o
+estado permanente de todos os seres, para os quaes a creaÁ„o È uma
+eterna batalha. A sorte do conflicto decide-a a selecÁ„o natural. Como?
+Fixando na especie, pela adaptaÁ„o ao meio, os seres mais fortes, e
+expulsando os seres inferiores. Por isso o professor Haeckel affirma: ´A
 theoria de Darwin estabelece que nas sociedades humanas, como nas
 sociedades animaes, nem os _direitos_ nem os _deveres_ nem os _bens_ nem
-os _gosos_ dos membros associados podem ser eguaes.¬ª
+os _gosos_ dos membros associados podem ser eguaes.ª
 
-Ora o que √© que estabelece o Direito? O Direito estabelece precisamente
+Ora o que È que estabelece o Direito? O Direito estabelece precisamente
 o contrario d'isso: a egualdade dos deveres reciprocos para a mais
-equitativa distribui√ß√£o dos bens.
+equitativa distribuiÁ„o dos bens.
 
-O Direito portanto n√£o s√≥ n√£o √© uma emana√ß√£o da lei natural, mas √© uma
-reac√ß√£o contra essa lei.
+O Direito portanto n„o sÛ n„o È uma emanaÁ„o da lei natural, mas È uma
+reacÁ„o contra essa lei.
 
-A natureza √© o triumpho brutal decretado ao forte. A sociedade √© a
-protec√ß√£o consciente assegurada ao fraco. A crea√ß√£o funda _a luta pela
+A natureza È o triumpho brutal decretado ao forte. A sociedade È a
+protecÁ„o consciente assegurada ao fraco. A creaÁ„o funda _a luta pela
 vida_. A sociedade organisa o _auxilio pela existencia_.
 
-Uma civilisa√ß√£o √© tanto mais adeantada quanto mais ella submette ao seu
-dominio as fatalidades naturaes. E √© assim que o homem, de conquista em
-conquista, chegar√° um dia, como diz B√ºchner, ao paraizo futuro, ao
-paraizo terreal, d'onde n√£o veio mas para onde vae, e que n√£o √© um dom
+Uma civilisaÁ„o È tanto mais adeantada quanto mais ella submette ao seu
+dominio as fatalidades naturaes. E È assim que o homem, de conquista em
+conquista, chegar· um dia, como diz B¸chner, ao paraizo futuro, ao
+paraizo terreal, d'onde n„o veio mas para onde vae, e que n„o È um dom
 divino primitivo mas o fructo derradeiro do trabalho humano.
 
-Todo aquelle que, no meio d'este esfor√ßo compacto da intelligencia de
+Todo aquelle que, no meio d'este esforÁo compacto da intelligencia de
 cada um para o progresso geral, se detem no caminho a aprender com os
 seus pedagogos a coisa a que elles ainda chamam o _Direito Natural_,
-est√° por esse facto f√≥ra da civilisa√ß√£o e f√≥ra da humanidade.
+est· por esse facto fÛra da civilisaÁ„o e fÛra da humanidade.
 
 Se o nosso intento fosse perturbar o doce repouso dos perceptores de
-vossa alteza, poderiamos perguntar como √© possivel ensinar todo o
+vossa alteza, poderiamos perguntar como È possivel ensinar todo o
 direito que vossa alteza aprende, sem previamente fazer conhecer os
 grandes phenomenos que o Direito tem por fim dirigir e que se chamam a
-_na√ß√£o_, a _familia_, a _propriedade_, o _trabalho_, etc.
+_naÁ„o_, a _familia_, a _propriedade_, o _trabalho_, etc.
 
-Poderiamos perguntar ainda quem √© que assume a responsabilidade de
+Poderiamos perguntar ainda quem È que assume a responsabilidade de
 ensinar a vossa alteza a _historia patria_ e a _historia universal_
-antes de se haverem recusado a exercer essa func√ß√£o os individuos
+antes de se haverem recusado a exercer essa funcÁ„o os individuos
 idoneos, os que pelos seus estudos especiaes demonstraram na imprensa ou
 no professorado ser os mais conhecedores d'essa materia, como o snr
 Pinheiro Chagas, o snr Oliveira Martins e o snr Theophilo Braga.
 
-Poderiamos perguntar mais, se a lingoa n√£o ser√° em uma nacionalidade um
-facto t√£o importante, pelo menos, como o direito, e se √© permittido que,
-no quadro dos estudos de um principe de vinte annos, se n√£o diga uma s√≥
+Poderiamos perguntar mais, se a lingoa n„o ser· em uma nacionalidade um
+facto t„o importante, pelo menos, como o direito, e se È permittido que,
+no quadro dos estudos de um principe de vinte annos, se n„o diga uma sÛ
 palavra relativa ao conhecimento dos grandes escriptores, depositarios
-das tradi√ß√µes historicas e das tradi√ß√µes poeticas da sua patria.
+das tradiÁıes historicas e das tradiÁıes poeticas da sua patria.
 
-Poderiamos perguntar, finalmente, como √© que a _Economia politica_, a
-qual Mac Culloch t√£o concisamente diffiniu dizendo que a _sciencia
-economica √© a sciencia dos valores_, se p√≥de ensinar a um menino de
-redoma, sem no√ß√£o alguma dos elementos constitutivos dos valores; sem o
-conhecimento das sciencias que produzem a riqueza, como s√£o a mechanica,
+Poderiamos perguntar, finalmente, como È que a _Economia politica_, a
+qual Mac Culloch t„o concisamente diffiniu dizendo que a _sciencia
+economica È a sciencia dos valores_, se pÛde ensinar a um menino de
+redoma, sem noÁ„o alguma dos elementos constitutivos dos valores; sem o
+conhecimento das sciencias que produzem a riqueza, como s„o a mechanica,
 a physica e a chimica; sem a minima ideia das materias primas que as
 industrias transformam, nem dos instrumentos que effectuam essas
-transforma√ß√µes, nem dos movimentos commerciaes que modificam e alteram
+transformaÁıes, nem dos movimentos commerciaes que modificam e alteram
 de logar para logar o valor dos productos; um menino que o vacuo enorme
-do seu quadro d'estudos nos mostra na ignorancia absoluta do que √© o
-milho, do que √© o trigo, do que √© o arroz, do que √© o assucar, do que √©
-o algod√£o, do que √© a l√£, do que √© o carv√£o, do que √© o ferro; de um
+do seu quadro d'estudos nos mostra na ignorancia absoluta do que È o
+milho, do que È o trigo, do que È o arroz, do que È o assucar, do que È
+o algod„o, do que È a l„, do que È o carv„o, do que È o ferro; de um
 menino que nunca foi a uma lavoura, nem a uma officina, nem a uma
 fabrica; de um menino que nunca viu em exercicio uma charrua, um torno,
 uma serra, uma broca, uma bomba, uma maquina de vapor ou um moinho de
 vento; um menino que nunca olhou de perto para esse instrumento vivo de
-todas as transforma√ß√µes industriaes, que se chama o obreiro; um menino
-emfim que nunca sahiu s√≥, e que a sua m√£e nunca levou √°s compras, √°
-tenda, ao talho ou √° feira; e que, sabendo todos os direitos que
+todas as transformaÁıes industriaes, que se chama o obreiro; um menino
+emfim que nunca sahiu sÛ, e que a sua m„e nunca levou ·s compras, ·
+tenda, ao talho ou · feira; e que, sabendo todos os direitos que
 ha--naturaes e sobrenaturaes, publicos e particulares, nacionaes e
-internacionaes,--s√≥ n√£o sabe ainda como se faz o p√£o que come e o vinho
+internacionaes,--sÛ n„o sabe ainda como se faz o p„o que come e o vinho
 que bebe, o tecido que o veste e a vela que o alumia, nem quanto custa o
 kilo da carne ou o litro do azeite!
 
-N√≥s por√©m n√£o pretendemos affligir os mestres de vossa alteza. O mestre
-√© irresponsavel, pela boa raz√£o de que o mestre √© nullo na direc√ß√£o
+NÛs porÈm n„o pretendemos affligir os mestres de vossa alteza. O mestre
+È irresponsavel, pela boa raz„o de que o mestre È nullo na direcÁ„o
 intellectual do homem.
 
-√â por esse motivo que _As Farpas_ propuzeram sempre que a instruc√ß√£o de
-vossa alteza se fizesse, como a dos demais cidad√£os, nas escolas
-publicas do seu paiz. Porque a forte, a fecunda, a verdadeira li√ß√£o n√£o
+… por esse motivo que _As Farpas_ propuzeram sempre que a instrucÁ„o de
+vossa alteza se fizesse, como a dos demais cidad„os, nas escolas
+publicas do seu paiz. Porque a forte, a fecunda, a verdadeira liÁ„o n„o
 vem da auctoridade dogmatica dos mestres, vem do livre impulso dado ao
 espirito e dado ao caracter pela convivencia dos condiscipulos e dos
 companheiros.
 
-√â n'essa intima communh√£o de interesses com individuos da mesma ra√ßa, da
-mesma na√ß√£o, da mesma idade, que o homem come√ßa a comprehender a
-primeira e a mais importante no√ß√£o social, a no√ß√£o da solidariedade
+… n'essa intima communh„o de interesses com individuos da mesma raÁa, da
+mesma naÁ„o, da mesma idade, que o homem comeÁa a comprehender a
+primeira e a mais importante noÁ„o social, a noÁ„o da solidariedade
 humana, o mecanismo de todo o verdadeiro progresso, tendente ao triumpho
-final das for√ßas sympathicas sobre as for√ßas egoistas, √° adapta√ß√£o mais
-perfeita do individuo √° communidade.
+final das forÁas sympathicas sobre as forÁas egoistas, · adaptaÁ„o mais
+perfeita do individuo · communidade.
 
-E n√£o √© s√≥mente o rhythmo do egoismo e da sympathia que se forma e se
-regularisa nas rela√ß√µes de convivencia com os nossos similhantes. S√£o as
+E n„o È sÛmente o rhythmo do egoismo e da sympathia que se forma e se
+regularisa nas relaÁıes de convivencia com os nossos similhantes. S„o as
 curiosidades intellectuaes que despertam, e os conhecimentos que se
-transmittem no sentido dos problemas mais importantes para a gera√ß√£o a
+transmittem no sentido dos problemas mais importantes para a geraÁ„o a
 que pertencemos.
 
 Metade d'aquillo que valemos, moralmente e intellectualmente, devemol-o
-aos contactos e √°s suggest√µes dos individuos que nos teem rodeado
-atravez da existencia. √â esta uma divida que poucos se lembram de pagar,
-reconhecendo com venera√ß√£o os beneficios da amisade. Todas as m√£es est√£o
-prontas sempre a declinar sobre as ¬´m√°s companhias¬ª dos seus filhos a
-responsabilidade dos seus desvarios. S√£o rarissimas aquellas que sabem
-agradecer, como collabora√ß√£o dos seus desvelos, a parte enorme que as
-¬´companhias boas¬ª tiveram na forma√ß√£o do espirito e na forma√ß√£o do
+aos contactos e ·s suggestıes dos individuos que nos teem rodeado
+atravez da existencia. … esta uma divida que poucos se lembram de pagar,
+reconhecendo com veneraÁ„o os beneficios da amisade. Todas as m„es est„o
+prontas sempre a declinar sobre as ´m·s companhiasª dos seus filhos a
+responsabilidade dos seus desvarios. S„o rarissimas aquellas que sabem
+agradecer, como collaboraÁ„o dos seus desvelos, a parte enorme que as
+´companhias boasª tiveram na formaÁ„o do espirito e na formaÁ„o do
 caracter, na intelligencia, na dignidade, na honra, na gloria dos seus
 filhos.
 
@@ -1023,40 +1023,40 @@ O homem mais perfeitamente educado por um mestre foi Stuart Mill. Aos
 vinte annos de idade elle tinha aprendido com James Mill, seu pae, tudo
 quanto a sciencia pode ensinar a um sabio e a um philosopho. E todavia
 Stuart Mill conta-nos na sua autobiographia que, ao perguntar um dia a
-si mesmo se seria feliz, uma vez realisadas nas institui√ß√µes e nas
+si mesmo se seria feliz, uma vez realisadas nas instituiÁıes e nas
 ideias todas as reformas que elle projectava crear, a sua consciencia
-lhe respondera:--n√£o. ¬´Senti-me ent√£o desfallecer,--diz elle;--todas as
-funda√ß√µes sobre que se tinha architectado a minha vida se desmoronaram
-de repente.¬ª Mais tarde elle sentiu a d√¥r, sentiu depois o am√¥r, o am√¥r
+lhe respondera:--n„o. ´Senti-me ent„o desfallecer,--diz elle;--todas as
+fundaÁıes sobre que se tinha architectado a minha vida se desmoronaram
+de repente.ª Mais tarde elle sentiu a dÙr, sentiu depois o amÙr, o amÙr
 apaixonado, absorvente, enorme, dominando todo o seu ser, submettendo _a
-for√ßa dissolvente da analyse_; e foi s√≥ ent√£o que elle se sentiu homem,
-revivendo para a natureza, forte da grande for√ßa que a natureza lhe
-communicava, equilibrado para sempre no seu destino, cingido ao cora√ß√£o
+forÁa dissolvente da analyse_; e foi sÛ ent„o que elle se sentiu homem,
+revivendo para a natureza, forte da grande forÁa que a natureza lhe
+communicava, equilibrado para sempre no seu destino, cingido ao coraÁ„o
 palpitante de uma mulher que elle amou--elle o sabio, o philosopho, o
 reformador frio e implacavel--com o amor illimitado, enthusiastico,
 cavalheiresco, que as velhas legendas lyricas attribuem aos grandes
 amantes celebres.
 
-A educa√ß√£o ministrada a vossa alteza pelos mesmos processos por que se
-ministra o alimento √°s gallinhas nas cevadeiras mechanicas, apesar de o
-n√£o ter feito um sabio como Stuart Mill, impediu-o egualmente de se
+A educaÁ„o ministrada a vossa alteza pelos mesmos processos por que se
+ministra o alimento ·s gallinhas nas cevadeiras mechanicas, apesar de o
+n„o ter feito um sabio como Stuart Mill, impediu-o egualmente de se
 fazer um homem.
 
-N√£o basta, para educar um mancebo, vir o snr Martens Ferr√£o ou o snr
+N„o basta, para educar um mancebo, vir o snr Martens Ferr„o ou o snr
 Santa Monica duas ou tres vezes por dia com a bomba da papa espiritual,
 abrir-lhe o bico, carregar n'um piston, e encher-lhe o papo de doutrina
-haurida nos compendios do snr Jos√© Garnier.
+haurida nos compendios do snr JosÈ Garnier.
 
-Hoje em dia, menos do que nunca, se podem incutir a um homem opini√µes
-feitas, introduzindo-lh'as por injec√ß√£o pedagogica. J√° Stendhal dizia
-que estamos n'um seculo em que s√≥mente ser√° escutado o homem que tiver
-opini√µes individuaes. S√≥ os timidos, os pregui√ßosos e os tolos √© que
-teem como suas as opini√µes em gyro. Ora as opini√µes individuaes s√≥ se
-adquirem pela livre critica da opini√£o da massa, que √© indispensavel
+Hoje em dia, menos do que nunca, se podem incutir a um homem opiniıes
+feitas, introduzindo-lh'as por injecÁ„o pedagogica. J· Stendhal dizia
+que estamos n'um seculo em que sÛmente ser· escutado o homem que tiver
+opiniıes individuaes. SÛ os timidos, os preguiÁosos e os tolos È que
+teem como suas as opiniıes em gyro. Ora as opiniıes individuaes sÛ se
+adquirem pela livre critica da opini„o da massa, que È indispensavel
 conhecer e tratar.
 
-√â o que ha muito tempo comprehenderam todas as familias reinantes √°cerca
-da educa√ß√£o dos seus filhos.
+… o que ha muito tempo comprehenderam todas as familias reinantes ·cerca
+da educaÁ„o dos seus filhos.
 
 Os principes de Orleans sentaram-se nos mesmos bancos com os filhos dos
 burguezes do seu tempo no lyceu Henri IV.
@@ -1064,154 +1064,154 @@ burguezes do seu tempo no lyceu Henri IV.
 O principe real da Allemanha fez os seus estudos na universidade de
 Bonn. Seu filho o principe Wilhelm seguiu o seu curso na mesma
 universidade, tendo por condiscipulos o principe de Saxe-Meiningen,
-filho do gr√£o-duque de Baden, e o principe d'Oldembourg. Os que passaram
+filho do gr„o-duque de Baden, e o principe d'Oldembourg. Os que passaram
 em Bonn de 1878 a 1880 viram esses principes, envolvidos com os demais
 estudantes, e vestidos como elles, de chapeu mole e veston abotoado,
-irem a p√© para a universidade com a pasta de couro debaixo do bra√ßo,
-beberem juntos o _meiwein_ nos caf√©s, e passearem de sapatos ferrados e
-cachimbo nos bei√ßos pelos suburbios de Bonn, em Godesberg ou em
+irem a pÈ para a universidade com a pasta de couro debaixo do braÁo,
+beberem juntos o _meiwein_ nos cafÈs, e passearem de sapatos ferrados e
+cachimbo nos beiÁos pelos suburbios de Bonn, em Godesberg ou em
 Heisterbach.
 
 O principe Frederico Alexandre Carlos, hoje rei regente de Wurtemberg,
 fez os seus estudos nas universidades de Berlim e de Tubing.
 
-O principe Carlos Alexandre, gr√£o-duque de Saxe-Weimar-Eisenach, √©
+O principe Carlos Alexandre, gr„o-duque de Saxe-Weimar-Eisenach, È
 alumno das universidades de Iena e de Leipzig.
 
 O principe Christiano Augusto Frederico, principe herdeiro de
-Slesvig-Holstein-Souderbourg, √© alumno da universidade de Bonn.
+Slesvig-Holstein-Souderbourg, È alumno da universidade de Bonn.
 
-O principe Frederico Guilherme, gr√£o-duque de Mecklembourg-Strelitz, √©
+O principe Frederico Guilherme, gr„o-duque de Mecklembourg-Strelitz, È
 egualmente formado em Bonn.
 
 O principe Ernesto IV, duque reinante de Saxe-Cobourg-Gotha, auctor da
 conhecida Viagem do Egypto, fez em Bonn um curso de philosophia e um
 curso de economia politica.
 
-O principe reinante da Servia, Mil√£o Obrenovitch, fez os seus estudos em
+O principe reinante da Servia, Mil„o Obrenovitch, fez os seus estudos em
 Paris, no lyceu Louis-le-Grand.
 
 Os filhos da rainha de Inglaterra foram educados nas universidades de
 Cambridge e de Oxford; e todos elles, assim como os filhos do principe
-imperial da Allemanha, sabem um officio. Uns s√£o lithographos, outros
-s√£o torneiros, outros encadernadores, outros typographos. Se vossa
+imperial da Allemanha, sabem um officio. Uns s„o lithographos, outros
+s„o torneiros, outros encadernadores, outros typographos. Se vossa
 alteza houvesse aprendido um officio, como _As Farpas_ propuseram em
-tempo opportuno, vossa alteza teria obtido ent√£o a singular aptid√£o
-cerebral que anda ligada ao mais perfeito desenvolvimento da coordena√ß√£o
+tempo opportuno, vossa alteza teria obtido ent„o a singular aptid„o
+cerebral que anda ligada ao mais perfeito desenvolvimento da coordenaÁ„o
 dos movimentos nervosos e musculares, e forrar-se-hia agora, na
-convivencia dos seus primos da Allemanha e da Inglaterra, √°
-desconsolad√¥ra melancolia que sempre invade os espiritos inferiores em
-capacidade, entre os homens eguaes em condi√ß√£o.
+convivencia dos seus primos da Allemanha e da Inglaterra, ·
+desconsoladÙra melancolia que sempre invade os espiritos inferiores em
+capacidade, entre os homens eguaes em condiÁ„o.
 
-Os dois filhos do principe de Galles est√£o presentemente estudando na
-Suissa, com a simplicidade de dois jovens cidad√£os da sabia e modesta
+Os dois filhos do principe de Galles est„o presentemente estudando na
+Suissa, com a simplicidade de dois jovens cidad„os da sabia e modesta
 republica helvetica.
 
 O rei Affonso XII de Hispanha, o principe da Hollanda, o principe
-Eugenio Napole√£o, etc, fizeram egualmente os seus cursos nas escolas
-publicas, conviveram n'ellas com homens de todas as opini√µes politicas e
-de todas as opini√µes religiosas, aprenderam a distinguil-os pelo seu
+Eugenio Napole„o, etc, fizeram egualmente os seus cursos nas escolas
+publicas, conviveram n'ellas com homens de todas as opiniıes politicas e
+de todas as opiniıes religiosas, aprenderam a distinguil-os pelo seu
 valor pessoal, fizeram-lhes favores, receberam-os d'elles, crearam
-finalmente um circulo de affei√ß√µes, ligadas √°s memorias da mocidade, e
-constituindo um dos mais d√¥ces e dos mais nobres encantos da vida.
+finalmente um circulo de affeiÁıes, ligadas ·s memorias da mocidade, e
+constituindo um dos mais dÙces e dos mais nobres encantos da vida.
 
-Vossa alteza, que at√© hoje n√£o teve ainda um companheiro e um amigo,
+Vossa alteza, que atÈ hoje n„o teve ainda um companheiro e um amigo,
 conserva em folha um dos principaes instrumentos da actividade humana, o
-seu cora√ß√£o, e n'elle, improdutivo e inutil, o capital precioso dos seus
+seu coraÁ„o, e n'elle, improdutivo e inutil, o capital precioso dos seus
 affectos desempregados.
 
-Em um exordio sentimental que precede a exposi√ß√£o dos estudos de vossa
-alteza publicada no _Diario de Portugal_, l√™em-se as seguintes linhas:
+Em um exordio sentimental que precede a exposiÁ„o dos estudos de vossa
+alteza publicada no _Diario de Portugal_, lÍem-se as seguintes linhas:
 
 _Sua magestade a rainha quiz especialmente tomar a seu cuidado seguir
-dia a dia com grande discernimento, e extremado cuidado a educa√ß√£o dos
+dia a dia com grande discernimento, e extremado cuidado a educaÁ„o dos
 seus filhos._
 
 Deploravel, serenissimo senhor, profundamente deploravel, similhante
-interven√ß√£o!
+intervenÁ„o!
 
-√â realmente preciso que os pedagogos de vossa alteza abusem de mais do
-encyclopedismo da sua ignorancia na materia que professam para n√£o terem
+… realmente preciso que os pedagogos de vossa alteza abusem de mais do
+encyclopedismo da sua ignorancia na materia que professam para n„o terem
 devidamente aconselhado sua magestade n'este importante assumpto.
 
-A miss√£o da m√£e na educa√ß√£o do homem termina quando este chega aos
-quatorze annos. Charles Robin o disse. At√© essa idade s√£o os sentimentos
-que inspiram os actos, e √© √° m√£e que cumpre dirigir os sentimentos. Dos
-quatorze annos em deante s√£o as ideias que dirigem as ac√ß√µes.
+A miss„o da m„e na educaÁ„o do homem termina quando este chega aos
+quatorze annos. Charles Robin o disse. AtÈ essa idade s„o os sentimentos
+que inspiram os actos, e È · m„e que cumpre dirigir os sentimentos. Dos
+quatorze annos em deante s„o as ideias que dirigem as acÁıes.
 
-As psychoses, assim como as manifesta√ß√µes anathomicas e as func√ß√µes
+As psychoses, assim como as manifestaÁıes anathomicas e as funcÁıes
 physiologicas, caracteristicas da puberdade, encerram segredos que
-nenhuma m√£e tem direito de devassar na educa√ß√£o de um rapaz, assim como
-nenhum pae tem direito analogo na educa√ß√£o de uma menina.
+nenhuma m„e tem direito de devassar na educaÁ„o de um rapaz, assim como
+nenhum pae tem direito analogo na educaÁ„o de uma menina.
 
-Toda a m√£e que intervem fiscalmente nas legitimas curiosidades
+Toda a m„e que intervem fiscalmente nas legitimas curiosidades
 intellectuaes de um mancebo offende egualmente o pudor d'elle e o
 d'ella.
 
-N√£o sabemos se vossa alteza adquiriu j√° a firme e clara comprehens√£o de
-que n√£o veio ao mundo trazido do Norte n'um cabaz ornado de topes azues
-e c√¥r de rosa, ou achado entre as violetas do jardim sob uma folha de
-couve. Se vossa alteza chegou j√° com effeito ao conhecimento da secreta
+N„o sabemos se vossa alteza adquiriu j· a firme e clara comprehens„o de
+que n„o veio ao mundo trazido do Norte n'um cabaz ornado de topes azues
+e cÙr de rosa, ou achado entre as violetas do jardim sob uma folha de
+couve. Se vossa alteza chegou j· com effeito ao conhecimento da secreta
 verdade embriologica que destroe essa ingenua e graciosa legenda da sua
-meninice, vossa alteza come√ßou desde esse dia, pela subita renova√ß√£o do
-amor e do respeito a sua m√£e, a ser para ella o verdadeiro filho, mas
+meninice, vossa alteza comeÁou desde esse dia, pela subita renovaÁ„o do
+amor e do respeito a sua m„e, a ser para ella o verdadeiro filho, mas
 cessou para todo sempre de ser o alumno d'essa senhora.
 
 Desde que um homem entra no periodo da virilidade a mulher em cuja
 convivencia elle tem que educar as suas faculdades estheticas e as suas
-faculdades criticas √© a sua noiva ou √© a sua amante.
+faculdades criticas È a sua noiva ou È a sua amante.
 
-A personalidade sagrada d'aquella que nos deu o ser √© preciso, para a
+A personalidade sagrada d'aquella que nos deu o ser È preciso, para a
 honra, para a dignidade, para o encanto carinhoso da familia, que fique
-para sempre extranha aos processos pedagogicos com que cada um de n√≥s
+para sempre extranha aos processos pedagogicos com que cada um de nÛs
 arrancou da arvore da sciencia e mordeu com a voracidade dos reprobos o
 fructo delicioso e terrivel do bem e do mal.
 
-O amor maternal √© o anjo legendario do eden, que, perante a curiosidade
+O amor maternal È o anjo legendario do eden, que, perante a curiosidade
 scientifica do homem e do gladio de sangue que o expulsa da innocencia,
 cobre o rosto lacrimoso e se encerra eternamente na alvura immaculada
 das suas azas desdobradas e pendentes.
 
-E √© preciso que assim seja, para que um pouco de ceu fique no fundo do
-cora√ß√£o d'aquella que nos deu √° luz, e junto da qual √© ineffavelmente
+E È preciso que assim seja, para que um pouco de ceu fique no fundo do
+coraÁ„o d'aquella que nos deu · luz, e junto da qual È ineffavelmente
 doce para todo o homem ir, de longe a longe, dessedentar-se das
-amarguras ardentes da vida desilludida pousando os bei√ßos com venera√ß√£o
-no cristalino veio aben√ßoado de cuja corrente humilde e melodiosa,
+amarguras ardentes da vida desilludida pousando os beiÁos com veneraÁ„o
+no cristalino veio abenÁoado de cuja corrente humilde e melodiosa,
 escondida no mais longinquo e mais ridente valle do passado, gotejou
 sobre a nossa infancia a perola da candura.
 
-Considere agora vossa alteza os resultados em que a sua educa√ß√£o come√ßou
-j√° a fructificar.
+Considere agora vossa alteza os resultados em que a sua educaÁ„o comeÁou
+j· a fructificar.
 
 Vossa alteza, na idade de vinte annos, continua a assistir todos os dias
-ao santo sacrificio da missa, e n√£o fez ainda a um companheiro ou a um
-amigo o sacrificio pessoal de um lapis ou de uma penna d'a√ßo.
+ao santo sacrificio da missa, e n„o fez ainda a um companheiro ou a um
+amigo o sacrificio pessoal de um lapis ou de uma penna d'aÁo.
 
 Vossa alteza frequenta ainda regularmente o tribunal da penitencia. Em
-periodos determinados o cardeal bispo do Porto vem ouvir de confiss√£o a
+periodos determinados o cardeal bispo do Porto vem ouvir de confiss„o a
 vossa alteza. Sua eminencia reverendissima recolhe no sacrario do seu
-peito a narrativa dos peccados que vossa alteza n√£o perpetrou e dos
-beneficios que vossa alteza egualmente n√£o distribuiu. Depois do que,
-feito o acto de contri√ß√£o, elle o absolve em nome de Deus Padre Todo
+peito a narrativa dos peccados que vossa alteza n„o perpetrou e dos
+beneficios que vossa alteza egualmente n„o distribuiu. Depois do que,
+feito o acto de contriÁ„o, elle o absolve em nome de Deus Padre Todo
 Poderoso, fazendo-lhe por elle a solemne promessa de um commodo e
 confortavel thronosinho rutilante de estrellas o espera nas alturas da
 Via Lactea para o dia em que vossa alteza resolver honrar a celestial
-mans√£o com a sua agradavel presen√ßa, indo trocar um aperto d'azas com os
+mans„o com a sua agradavel presenÁa, indo trocar um aperto d'azas com os
 anjos, que o esperam saudosos no Empyreo.
 
-Para os effeitos celestiaes √© evidente que n√£o p√≥de haver melhor vida
-que a que vossa alteza tem, nem melhor morte que a que lhe est√°
+Para os effeitos celestiaes È evidente que n„o pÛde haver melhor vida
+que a que vossa alteza tem, nem melhor morte que a que lhe est·
 destinada.
 
-A unica coisa de recear √© que a historia n√£o seja por ventura t√£o
+A unica coisa de recear È que a historia n„o seja por ventura t„o
 acommodaticia como a providencia, porque, no dizer de um outro padre
-mestre, o patriarcha Voltaire, a historia s√≥ diz bem d'aquelles que
-praticam o bem. Ella √© de um desprezo incivil com todos os que
-delicadamente se encerram na miss√£o discreta de n√£o praticar coisa
+mestre, o patriarcha Voltaire, a historia sÛ diz bem d'aquelles que
+praticam o bem. Ella È de um desprezo incivil com todos os que
+delicadamente se encerram na miss„o discreta de n„o praticar coisa
 alguma.
 
-√â n'esse bello socego que no tempo antigo se endurecia o cora√ß√£o aos
-tyrannos e que ainda hoje se engorda o figado aos patos. N√£o √© por√©m com
+… n'esse bello socego que no tempo antigo se endurecia o coraÁ„o aos
+tyrannos e que ainda hoje se engorda o figado aos patos. N„o È porÈm com
 tal regimen que de ordinario se desenvolve nos homens o sentimento da
 responsabilidade, o espirito do sacrificio e o amor do dever.
 
@@ -1220,398 +1220,398 @@ universidade, a escola naval e a escola do exercito trasbordam de uma
 mocidade, contemporanea de vossa alteza, a qual vae entrar agora no
 conflicto da vida civil e reorganisar a sociedade sobre a qual vossa
 alteza ha de reinar um dia. Do espirito d'essa mocidade, das suas
-tendencias, das suas aspira√ß√µes, das suas vistas futuras, √© vossa alteza
-em Portugal o unico homem da sua idade que n√£o tem conhecimento algum.
+tendencias, das suas aspiraÁıes, das suas vistas futuras, È vossa alteza
+em Portugal o unico homem da sua idade que n„o tem conhecimento algum.
 
 Creado no meio de cavalheiros de cincoenta a sessenta annos,
-conservadores e cortez√£os, mais velhos ainda pelas suas ideias que pelos
-seus annos, vossa alteza s√≥ conhece do seu tempo os individuos que
+conservadores e cortez„os, mais velhos ainda pelas suas ideias que pelos
+seus annos, vossa alteza sÛ conhece do seu tempo os individuos que
 cessaram de tomar parte no movimento d'elle e pertencem pela sua
-immobilidade mental √°s gera√ß√µes mortas.
+immobilidade mental ·s geraÁıes mortas.
 
-Vossa alteza chegou √° maioridade; as cortes da na√ß√£o prestaram-lhe
+Vossa alteza chegou · maioridade; as cortes da naÁ„o prestaram-lhe
 venia; em torno de vossa alteza quarenta ou cincoenta servidores,
 antigos militares, antigos ministros, antigos magistrados, beijam-lhe a
-m√£o em cada manh√£, fazendo alas, de dorso curvo e d'olhos no ch√£o, para
+m„o em cada manh„, fazendo alas, de dorso curvo e d'olhos no ch„o, para
 que vossa alteza passe, intemerato c magestoso, da sala em que lhe
 servem o seu latim para a sala em que lhe servem a sua merenda; vossa
-alteza √© o herdeiro presumptivo do throno, √© o regente do reino em nome
-do rei, √© o senhor de Guin√© e da conquista, navega√ß√£o, commercio da
-Ethiopia, Arabia, Persia e da India; e todavia n√£o √© senhor de tomar
-simplesmente um bilhete de r√© no vapor da outra banda e de ir a
-Cacilhas, sem licen√ßa previa de sua augusta m√£e.
+alteza È o herdeiro presumptivo do throno, È o regente do reino em nome
+do rei, È o senhor de GuinÈ e da conquista, navegaÁ„o, commercio da
+Ethiopia, Arabia, Persia e da India; e todavia n„o È senhor de tomar
+simplesmente um bilhete de rÈ no vapor da outra banda e de ir a
+Cacilhas, sem licenÁa previa de sua augusta m„e.
 
-Todos os dias a augusta m√£e de vossa alteza pede a nota das suas li√ß√µes,
-e, sempre que vossa-alteza n√£o decorou inteiramente o seu verbo, a
-excelsa soberana prohibe-o de se ir divertir, isto √©, de ir √° noite aos
-Recreios Witoyne entre dois homens de dragonas e de espada √° cinta, como
-quem vae preso para o calabou√ßo.
+Todos os dias a augusta m„e de vossa alteza pede a nota das suas liÁıes,
+e, sempre que vossa-alteza n„o decorou inteiramente o seu verbo, a
+excelsa soberana prohibe-o de se ir divertir, isto È, de ir · noite aos
+Recreios Witoyne entre dois homens de dragonas e de espada · cinta, como
+quem vae preso para o calabouÁo.
 
-Quando por√©m ha graves neg√≥cios pendentes da delibera√ß√£o do poder
-executivo, medidas excepcionaes de administra√ß√£o, tratado importante que
-assignar com alguma potencia extrangeira, ajustes de paz ou declara√ß√µes
-de guerra eminentes, ent√£o, quer vossa alteza tenha satisfeito as suas
-li√ß√µes quer n√£o, sua magestade a rainha n√£o se opp√µe a que vossa alteza
-saia, porque vossa alteza √© conselheiro d'estado desde os desoito annos,
+Quando porÈm ha graves negÛcios pendentes da deliberaÁ„o do poder
+executivo, medidas excepcionaes de administraÁ„o, tratado importante que
+assignar com alguma potencia extrangeira, ajustes de paz ou declaraÁıes
+de guerra eminentes, ent„o, quer vossa alteza tenha satisfeito as suas
+liÁıes quer n„o, sua magestade a rainha n„o se oppıe a que vossa alteza
+saia, porque vossa alteza È conselheiro d'estado desde os desoito annos,
 e sempre que os grandes negocios da republica se complicam, vossa alteza
-tem por miss√£o deslindal-os.
+tem por miss„o deslindal-os.
 
-Se coincidentemente com um conflicto politico nas rela√ß√µes
+Se coincidentemente com um conflicto politico nas relaÁıes
 internacionaes do paiz occorre algum erro palmar no thema de vossa
-alteza, ent√£o a pena disciplinar de reclus√£o por negligencia no estudo √©
-substitu√≠da pela priva√ß√£o de sobremeza, afim de que vossa alteza
-corrigido como mau estudante, v√° ao mesmo tempo salvar a p√°tria como bom
+alteza, ent„o a pena disciplinar de reclus„o por negligencia no estudo È
+substituÌda pela privaÁ„o de sobremeza, afim de que vossa alteza
+corrigido como mau estudante, v· ao mesmo tempo salvar a p·tria como bom
 conselheiro.
 
-Al√©m de conselheiro d'estado, vossa alteza √© alferes de lanceiros e √©
+AlÈm de conselheiro d'estado, vossa alteza È alferes de lanceiros e È
 segundo tenente da armada.
 
-√â summamente extranhavel--n√£o o esconderemos--que honrando a carreira
-das armas por meio da adop√ß√£o d'essas duas patentes assumidas _in
-absentia_, vossa alteza n√£o honre egualmente as profiss√µes liberaes,
-dignando-se de assumir tamb√©m algum diploma nas carreiras scientificas e
+… summamente extranhavel--n„o o esconderemos--que honrando a carreira
+das armas por meio da adopÁ„o d'essas duas patentes assumidas _in
+absentia_, vossa alteza n„o honre egualmente as profissıes liberaes,
+dignando-se de assumir tambÈm algum diploma nas carreiras scientificas e
 litterarias.
 
-N√£o pretenderiamos que logo aos quinze annos de idade o tivessem feito
-doutor de capello e socio de merito da Academia. Poderiam por√©m com
-vantagem, segundo nos parece, come√ßar por nomeal-o associado provincial
+N„o pretenderiamos que logo aos quinze annos de idade o tivessem feito
+doutor de capello e socio de merito da Academia. Poderiam porÈm com
+vantagem, segundo nos parece, comeÁar por nomeal-o associado provincial
 da Academia, por exemplo, e pharmaceutico.
 
-Mais tarde, no dia em que vossa alteza celebrou o seu 16.¬∞ anniversario
-natalicio, teriam podido eleval-o √° categoria de segundannista da
+Mais tarde, no dia em que vossa alteza celebrou o seu 16.∞ anniversario
+natalicio, teriam podido eleval-o · categoria de segundannista da
 faculdade de philosophia e a socio do Instituto. E assim consecutiva e
-progressivamente. De sorte que, hoje em dia, exactamente assim como √©
+progressivamente. De sorte que, hoje em dia, exactamente assim como È
 alferes do exercito e segundo tenente da armada, vossa alteza poderia
 muito hem--creia-o--ser socio effectivo da Academia e bacharel formado
 em direito.
 
-N√£o podemos t√£o pouco attingir as raz√µes mysteriosas em virtude das
-quaes vossa alteza n√£o foi ainda nomeado capell√£o. Dados os h√°bitos de
-devo√ß√£o de vossa alteza, nada mais commodo do que essa patente
+N„o podemos t„o pouco attingir as razıes mysteriosas em virtude das
+quaes vossa alteza n„o foi ainda nomeado capell„o. Dados os h·bitos de
+devoÁ„o de vossa alteza, nada mais commodo do que essa patente
 eclesiastica. A qualquer hora a que se levantasse para se entregar aos
 seus estudos, vossa alteza faria, a barba e diria a missa a si mesmo; e
 logo em seguida sem mais perda de tempo, vestido d'alferes, iria tirar
 significados.
 
-Vossa alteza digna-se talvez de sorrir docemente √° ideia comica de ser o
-seu proprio capell√£o ... Vossa alteza √© extremamente bom e amavel em
-sorrir. Esperamos que vossa alteza ter√° egualmente o esp√≠rito
-sufficiente e a mal√≠cia precisa para comprehender perfeitamente que n√£o
-√©, em rigor, muito menos padre do que √© tenente de si mesmo.
+Vossa alteza digna-se talvez de sorrir docemente · ideia comica de ser o
+seu proprio capell„o ... Vossa alteza È extremamente bom e amavel em
+sorrir. Esperamos que vossa alteza ter· egualmente o espÌrito
+sufficiente e a malÌcia precisa para comprehender perfeitamente que n„o
+È, em rigor, muito menos padre do que È tenente de si mesmo.
 
-Tal √©, senhor, o absurdo grottesco da etiqueta cortez√£, na qual o
+Tal È, senhor, o absurdo grottesco da etiqueta cortez„, na qual o
 obrigam a vegetar trabalhosamente como uma bella e rica planta de ar
-livre dentro de uma estufa p√¥dre.
+livre dentro de uma estufa pÙdre.
 
 Vossa alteza tem sido submettido aos rigores tenebrosos d'esse regimen
 no proposito de o tornar mais perfeito e mais feliz.
 
-Est√° succedendo a vossa alteza o mesmo que succede aos povos a que os
+Est· succedendo a vossa alteza o mesmo que succede aos povos a que os
 reis procuram dar a felicidade por meio da tyrannia. Os povos agradecem,
-mas preferem o infortunio, porque o cora√ß√£o do homem aspira eternamente
-√° liberdade, e vae para ella com mais ou menos lentid√£o mas n'um esfor√ßo
-constante, como vae a crescen√ßa da planta para a parte d'onde lhe vem a
+mas preferem o infortunio, porque o coraÁ„o do homem aspira eternamente
+· liberdade, e vae para ella com mais ou menos lentid„o mas n'um esforÁo
+constante, como vae a crescenÁa da planta para a parte d'onde lhe vem a
 luz.
 
-Ora como nos n√£o parece justo que para os povos se pe√ßa uma coisa, e aos
-principes se offere√ßa a coisa contraria, toda a nossa opini√£o √°cerca da
-educa√ß√£o de vossa alteza se resume n'isto:
+Ora como nos n„o parece justo que para os povos se peÁa uma coisa, e aos
+principes se offereÁa a coisa contraria, toda a nossa opini„o ·cerca da
+educaÁ„o de vossa alteza se resume n'isto:
 
 Que o libertem!
 
-Para conhecer a realidade do mundo, unico fim serio da sciencia, √©
-preciso entrar no combate da vida como entravam na li√ßa os paladinos
+Para conhecer a realidade do mundo, unico fim serio da sciencia, È
+preciso entrar no combate da vida como entravam na liÁa os paladinos
 bastardos--sem pae e sem padrinho.
 
-Os principes n√£o constituem excep√ß√£o a esta lei geral da forma√ß√£o dos
-homens. Da educa√ß√£o de gabinete, do bafo enervante dos mestres, dos
-camareiros e das aias, nunca sahiram sen√£o doentes e pedantes.
+Os principes n„o constituem excepÁ„o a esta lei geral da formaÁ„o dos
+homens. Da educaÁ„o de gabinete, do bafo enervante dos mestres, dos
+camareiros e das aias, nunca sahiram sen„o doentes e pedantes.
 
-Na sagra√ß√£o dos czares ha uma ceremonia de alta significa√ß√£o symholica:
-o imperador n√£o se confirma em quanto por tres vezes n√£o haja descido do
-throno e penetrado s√≥ na multid√£o; e isto quer dizer que na convivencia
-do povo a auctoridade e o valor dos monarchas recebe uma t√£o sagrada
-unc√ß√£o como a da santa chrisma.
+Na sagraÁ„o dos czares ha uma ceremonia de alta significaÁ„o symholica:
+o imperador n„o se confirma em quanto por tres vezes n„o haja descido do
+throno e penetrado sÛ na multid„o; e isto quer dizer que na convivencia
+do povo a auctoridade e o valor dos monarchas recebe uma t„o sagrada
+uncÁ„o como a da santa chrisma.
 
 Todos os reis fortes se fizeram e se educaram a si mesmos nos mais rudes
 e mais hostis contactos da natureza e da sociedade humana.
 
-Veja vossa alteza Carlos Magno, que s√≥ aos quarenta annos √© que mandou
+Veja vossa alteza Carlos Magno, que sÛ aos quarenta annos È que mandou
 chamar um mestre para aprender a ler. Veja Pedro o Grande, do qual a
-educa√ß√£o de camara come√ßou por fazer um poltr√£o. Aos quinze annos n√£o se
+educaÁ„o de camara comeÁou por fazer um poltr„o. Aos quinze annos n„o se
 atrevia a atravessar um ribeiro. Reagiu emfim sobre si mesmo pela sua
-unica for√ßa pessoal. Para perder o medo aos regatos, um dia, da borda de
-um navio, arrojou-se ao mar. Para se fazer marinheiro come√ßou por
-aprender a manobra, servindo como grumete. Para se fazer militar come√ßou
+unica forÁa pessoal. Para perder o medo aos regatos, um dia, da borda de
+um navio, arrojou-se ao mar. Para se fazer marinheiro comeÁou por
+aprender a manobra, servindo como grumete. Para se fazer militar comeÁou
 por tambor na celebre companhia dos jovens boyardos. E para reconstituir
-a nacionalidade russa come√ßou por construir navios, a machado, como
-official de carpinteiro e de calafate, nos estaleiros de Sardam. Tamb√©m
-n√£o teve mestres, e foi comsigo mesmo que elle aprendeu a lingua allem√£
+a nacionalidade russa comeÁou por construir navios, a machado, como
+official de carpinteiro e de calafate, nos estaleiros de Sardam. TambÈm
+n„o teve mestres, e foi comsigo mesmo que elle aprendeu a lingua allem„
 e a lingua hollandeza. Veja vossa alteza, emfim, todos aquelles que no
-governo dos homens tiveram uma ac√ß√£o efficaz, e reconhecer√° se √© na
-li√ß√£o dos mestres ou se √© no livre exercicio da for√ßa e da vontade
+governo dos homens tiveram uma acÁ„o efficaz, e reconhecer· se È na
+liÁ„o dos mestres ou se È no livre exercicio da forÁa e da vontade
 individual que se criam os caracteres verdadeiramente dominadores, como
 o de Cromwell, como o de Bonaparte, como o de Santo Ignacio, como o de
 Luthero, como o de Calvino, como o de Guilherme o Taciturno, como o de
 Washington, como o de Lincoln.
 
 Vossa alteza acha-se precisamente agora na grande crise de toda a sua
-vida, no momento psychologico da escolha entre a sujei√ß√£o √° direc√ß√£o
-inepta dos seus pedagogos e a reac√ß√£o da sua vontade para uma educa√ß√£o
+vida, no momento psychologico da escolha entre a sujeiÁ„o · direcÁ„o
+inepta dos seus pedagogos e a reacÁ„o da sua vontade para uma educaÁ„o
 nova, como a que deram a si mesmos Pedro I na Russia e Carlos XII na
 Suecia.
 
-A pr√≥xima viagem √© a occasi√£o propria, √© a √∫nica, para se tomar essa
-resolu√ß√£o suprema. Vossa alteza tem at√© hoje vivido no carcere da
-obedi√™ncia. Fazem-o circular agora pela Europa, de corte em corte, como
-um animal domesticado pelo snr Martens Ferr√£o e trabalhando √° voz do snr
+A prÛxima viagem È a occasi„o propria, È a ˙nica, para se tomar essa
+resoluÁ„o suprema. Vossa alteza tem atÈ hoje vivido no carcere da
+obediÍncia. Fazem-o circular agora pela Europa, de corte em corte, como
+um animal domesticado pelo snr Martens Ferr„o e trabalhando · voz do snr
 Aguiar, dentro da jaula da disciplina.
 
-E chamam-lhe a isso uma viagem! Mas n√£o √© mais do que uma nova li√ß√£o
-isso! a li√ß√£o derradeira, fatal e tremenda, exaltando, confirmando e
+E chamam-lhe a isso uma viagem! Mas n„o È mais do que uma nova liÁ„o
+isso! a liÁ„o derradeira, fatal e tremenda, exaltando, confirmando e
 fixando do modo mais perigoso no espirito de vossa alteza os erros de
-todas as outras li√ß√µes funestas que lhe teem dado.
+todas as outras liÁıes funestas que lhe teem dado.
 
-√â preciso que vossa alteza se compenetre bem, n'este momento e de uma
-vez para sempre, como principe, como rei, como cidad√£o e como homem,
+… preciso que vossa alteza se compenetre bem, n'este momento e de uma
+vez para sempre, como principe, como rei, como cidad„o e como homem,
 para regra de todo o seu procedimento presente e futuro, quer de si para
-cima, quer de si para baixo,--que o regimen da obediencia √© o systema da
-nega√ß√£o do caracter. O homem s√≥ √© um homem desde o instante em que,
+cima, quer de si para baixo,--que o regimen da obediencia È o systema da
+negaÁ„o do caracter. O homem sÛ È um homem desde o instante em que,
 perante o conflicto da consciencia e da autoridade, elle aprende a ser
-um rebelde. A obediencia √© a f√¥rma forrada de cebo ou de manteiga em que
+um rebelde. A obediencia È a fÙrma forrada de cebo ou de manteiga em que
 se molda a massa saponancea dos servis, mas em que perde o feitio,
-porque se quebra ou porque se esbor√¥a, a nobre personalidade humana.
+porque se quebra ou porque se esborÙa, a nobre personalidade humana.
 
-Submisso √° vontade dos seus preceptores, vossa alteza ficar√° para sempre
-um principe de f√≤rma, pretensioso, apelintrado e piegas, bonito para
-ornar uma pendula barata n'um sal√£o chinfrin, ou para se p√¥r em cima de
-um kake coberto d'assucar, em pompa de sobremesa, n'uma b√≤da labrega.
+Submisso · vontade dos seus preceptores, vossa alteza ficar· para sempre
+um principe de fÚrma, pretensioso, apelintrado e piegas, bonito para
+ornar uma pendula barata n'um sal„o chinfrin, ou para se pÙr em cima de
+um kake coberto d'assucar, em pompa de sobremesa, n'uma bÚda labrega.
 
-Vossa alteza preferir√° de certo ser aquillo para que a simples natureza
+Vossa alteza preferir· de certo ser aquillo para que a simples natureza
 o destinou--um nobre ser vivo, um bello e forte rapaz altivo,
 inrelligente e honrado.
 
-Em presen√ßa pois da companhia obrigatoria e nefasta dos semsabor√µes
+Em presenÁa pois da companhia obrigatoria e nefasta dos semsaborıes
 officiaes incumbidos de o guardar, vossa alteza, apenas transposta a
-fronteira, n√£o tem sen√£o um d'estes dois partidos que tomar relativamente
-aos seus aios, pedagogos, camareiros e mestres:--subjugal-os √° sua unica
+fronteira, n„o tem sen„o um d'estes dois partidos que tomar relativamente
+aos seus aios, pedagogos, camareiros e mestres:--subjugal-os · sua unica
 e exclusiva vontade, corrompendo-os: ou desfazer-se d'elles fugindo.
 
-Encaremos com serenidade e firmeza cada uma d'essas duas solu√ß√µes.
+Encaremos com serenidade e firmeza cada uma d'essas duas soluÁıes.
 
-A corrup√ß√£o do mestre pelo alumno tem sido por vezes vantajosamente
-intentada, com resultados satisfactorios para a ras√£o e para a
+A corrupÁ„o do mestre pelo alumno tem sido por vezes vantajosamente
+intentada, com resultados satisfactorios para a ras„o e para a
 humanidade.
 
 Cumpre-nos sobre este ponto referir a vossa alteza o que succedeu com a
-educa√ß√£o do fallecido marquez de Niza, um dos raros e derradeiros homens
+educaÁ„o do fallecido marquez de Niza, um dos raros e derradeiros homens
 de espirito que produsiu a aristocracia portuguesa para encanto do mundo
-elegante na Europa e para horror e escandalo da corte g√™ba e caturra dos
-paes de vossa alteza. A velha e veneranda senh√¥ra marqueza de Niza, av√≥
+elegante na Europa e para horror e escandalo da corte gÍba e caturra dos
+paes de vossa alteza. A velha e veneranda senhÙra marqueza de Niza, avÛ
 do actual conde da Vidigueira fidalgo da casa de vossa alteza, tinha
-sobre a educa√ß√£o do seu filho os mesmos preconceitos lamentaveis que
-affligem o cora√ß√£o amant√≠ssimo da m√£e de vossa alteza. Para dirigir a
-educa√ß√£o do joven marquez veio expressamente de Roma para o solar dos
+sobre a educaÁ„o do seu filho os mesmos preconceitos lamentaveis que
+affligem o coraÁ„o amantÌssimo da m„e de vossa alteza. Para dirigir a
+educaÁ„o do joven marquez veio expressamente de Roma para o solar dos
 Nizas, auctorisado por um breve pontificio, o mais sabio e o mais
-veneravel dos monges toscanos. A presen√ßa austera do abalisado pedagogo,
+veneravel dos monges toscanos. A presenÁa austera do abalisado pedagogo,
 a sua fronte pensativa e pallida, a sua longa barba negra esparsa no
 escapulario do habito, a compostura das suas maneiras, o recolhimento
 singelo do seu porte, a alta e preciosa cultura do seu espirito
-encyclopedico e a sua extremada devo√ß√£o, puseram em todos os velhos
-parentes da fam√≠lia um sentimento profundo de respeito, de venera√ß√£o e
-de confian√ßa illimitada.
+encyclopedico e a sua extremada devoÁ„o, puseram em todos os velhos
+parentes da famÌlia um sentimento profundo de respeito, de veneraÁ„o e
+de confianÁa illimitada.
 
-Nos intervallos dos exercicios litterarios e dos exerc√≠cios religiosos,
-quando o monge depois de haver feito a sua li√ß√£o de musica, tomava elle
+Nos intervallos dos exercicios litterarios e dos exercÌcios religiosos,
+quando o monge depois de haver feito a sua liÁ„o de musica, tomava elle
 mesmo a rebeca do seu alumno e accordava n'elle os primeiros sentimentos
-estheticos, tocando por sua m√£o um _nocturno_ ou um _tremolo_, era t√£o
-viva e t√£o pungente, sob a vibra√ß√£o do seu arco magistral, a voz do
-violino, que n√£o s√≥ o pequeno marquez impallidecia, tocado de uma nova e
-extranha commo√ß√£o mysteriosa, mas a propria senhora marquesa chorava,
-docemente enternecida, subjugada pela express√£o penetrante da melodia
+estheticos, tocando por sua m„o um _nocturno_ ou um _tremolo_, era t„o
+viva e t„o pungente, sob a vibraÁ„o do seu arco magistral, a voz do
+violino, que n„o sÛ o pequeno marquez impallidecia, tocado de uma nova e
+extranha commoÁ„o mysteriosa, mas a propria senhora marquesa chorava,
+docemente enternecida, subjugada pela express„o penetrante da melodia
 que o grande artista, humildemente oculto sob a roupeta d'esse frade,
-espargia em torno de si n'um lento solu√ßo orvalhante de perolas.
+espargia em torno de si n'um lento soluÁo orvalhante de perolas.
 
-Terminada a educa√ß√£o theorica, era preciso completal-a na pratica por
-meio de uma viagem na Europa, e o marquez de Niza, aben√ßoado por sua
-m√£e, purificado pela eucharistia e pela confiss√£o geral, partiu para
+Terminada a educaÁ„o theorica, era preciso completal-a na pratica por
+meio de uma viagem na Europa, e o marquez de Niza, abenÁoado por sua
+m„e, purificado pela eucharistia e pela confiss„o geral, partiu para
 Paris com o seu preceptor.
 
 Durante os primeiros meses correu tudo n'uma serenidade e n'uma ordem
 verdadeiramente claustral. O preceptor escrevia por todos os correios. O
 menino, cada vez mais comedido, mais respeitoso e mais temente a Deus,
-parecia disposto a passar, sem solu√ß√£o de continuidade, da innocencia de
+parecia disposto a passar, sem soluÁ„o de continuidade, da innocencia de
 um cherubim para a santidade de um doutor da igreja. Depois, a pouco e
 pouco, foi successivamente diminuindo o numero das cartas e augmentando
-o numero das contas. Os dois po√ßos de santidade tinham-se convertido em
+o numero das contas. Os dois poÁos de santidade tinham-se convertido em
 dois sumidouros enormes de dinheiro. A senhora marquesa queixava-se
 repettidamente com severidade cada vez mais acrimoniosa. Chegou a final
-uma carta do padre. Explica√ß√µes evasivas, e ras√µes debeis, com um
-perfume fortissimo de _patchouli_, que era ent√£o o cheiro da moda, o
+uma carta do padre. ExplicaÁıes evasivas, e rasıes debeis, com um
+perfume fortissimo de _patchouli_, que era ent„o o cheiro da moda, o
 cheiro _selected_, o cheiro _v'lan_, segundo o termo com que mais tarde
 o galante rei da Hollanda tinha de enriquecer o vocabulario precioso do
 cocodettismo. Depois do que, nunca mais o eclesiastico escreveu.
 Acabou-se, em ultimo recurso, por suspender toda a remessa de numerario
-para Paris. Mas nem esta suppress√£o violenta dos meios determinou uma
-mudan√ßa sensivel em t√£o lastimoso estado de coisas. Para obter noticias
+para Paris. Mas nem esta suppress„o violenta dos meios determinou uma
+mudanÁa sensivel em t„o lastimoso estado de coisas. Para obter noticias
 positivas do marquez de Niza e do seu aio foi preciso mandar de
-proposito a Paris o procurador da casa, e s√≥ ent√£o se veio no
+proposito a Paris o procurador da casa, e sÛ ent„o se veio no
 conhecimento do occorrido.
 
 O veneravel monge, depois de ter sido uma noite rebaptisado a champagne
-n'um gabinete do caf√© inglez, esqueceu-se do burel pendurado no CABIDE
-d'esse gabinete, e fez cavalheirosamente presente d'elle ao _ma√Ætre
+n'um gabinete do cafÈ inglez, esqueceu-se do burel pendurado no CABIDE
+d'esse gabinete, e fez cavalheirosamente presente d'elle ao _maÓtre
 d'hotel_ quando este lh'o quiz restituir na noite immediata. Depois, por
 um louvavel sentimento de respeito pela inviolabilidade sacerdotal,
-deitou abaixo inexoravelmente as suas barbas d'asceta, profanadas √°
-trai√ß√£o pelos beijos de varias bailarinas que o adoravam, e guardou
+deitou abaixo inexoravelmente as suas barbas d'asceta, profanadas ·
+traiÁ„o pelos beijos de varias bailarinas que o adoravam, e guardou
 unicamente, como symbolo da rigidez dos seus princupios, um severo e
 implacavel bigode.
 
-Mais tarde, quando chegou a noticia terminante que de Lisboa lhes n√£o
-enviariam nem mais dez r√©is, o marquez tremeu. O padre ent√£o ralhou,
+Mais tarde, quando chegou a noticia terminante que de Lisboa lhes n„o
+enviariam nem mais dez rÈis, o marquez tremeu. O padre ent„o ralhou,
 fazendo observar que seria preciso que elles fossem ambos dois pulhas
 indignos para precisarem para alguma coisa do dinheiro da senhora
 marqueza; que seria preciso ainda que essa senhora houvesse sido
-miseravelmente roubada durante todo o tempo que durara a educa√ß√£o do seu
-filho, para que tanto elle como o seu mestre n√£o estivessem
+miseravelmente roubada durante todo o tempo que durara a educaÁ„o do seu
+filho, para que tanto elle como o seu mestre n„o estivessem
 perfeitamente habilitados a ganhar a sua vida pelo trabalho era qualquer
 parte do mundo onde a senhora marqueza se dignasse de os abandonar.
 
-E em seguida, mettendo as caixas das rebecas debaixo do bra√ßo e
+E em seguida, mettendo as caixas das rebecas debaixo do braÁo e
 acendendo uma cigarrette, foram ambos apresentar-se ao director de um
 theatro que os escripturou como violinos.
 
-Depois do espectaculo, um tanto ebrios da commo√ß√£o capitosa da musica
+Depois do espectaculo, um tanto ebrios da commoÁ„o capitosa da musica
 que tinham feito ao lado um do outro, sahiam juntos, offereciam o seu
-bra√ßo com a galanteria de meridionaes √°s duas actrizes que por ventura
+braÁo com a galanteria de meridionaes ·s duas actrizes que por ventura
 se encontrassem n'essa noite ainda mais pobres do que elles, e iam
-juntos beber a sua _chope_ em _partie carr√©e_ na calmante frescura dos
+juntos beber a sua _chope_ em _partie carrÈe_ na calmante frescura dos
 boulevards.
 
-Os pedagogos de vossa alteza n√£o est√£o no caso do do marquez de Nisa. A
-n√≥s, pelo menos, n√£o nos consta que o snr Martens Ferr√£o toque algum
+Os pedagogos de vossa alteza n„o est„o no caso do do marquez de Nisa. A
+nÛs, pelo menos, n„o nos consta que o snr Martens Ferr„o toque algum
 instrumento, nem que as prendas musicaes entrem no numero das que
-exornam o snr Antonio Augusto de Aguiar. Um e outro s√£o rebeldes √° arte,
+exornam o snr Antonio Augusto de Aguiar. Um e outro s„o rebeldes · arte,
 e foi pela fenda da arte que o humanismo do marquez de Nisa penetrou o
 arnez theologico do seu amavel aio.
 
-E √© preciso isso, a picada, da arte no intimo do cora√ß√£o de um homem,
+E È preciso isso, a picada, da arte no intimo do coraÁ„o de um homem,
 para que elle, venha d'onde vier, saia d'onde sair, se converta depressa
 no digno companheiro do mais espirituoso e do mais elegante dos
 _gentlemen_.
 
-Quando elles n√£o teem a arte por si, ou contra si, o melhor, real
-senhor, √© deixal-os ser o que s√£o, e n√£o lhes bolir. Incorruptos s√£o
+Quando elles n„o teem a arte por si, ou contra si, o melhor, real
+senhor, È deixal-os ser o que s„o, e n„o lhes bolir. Incorruptos s„o
 insipidos. Corrompidos tornam-se porcos.
 
 Resta pois a vossa alteza um unico recurso:--a fuga.
 
-Parece uma bicha de sete cabe√ßas, ao primeiro aspecto. Pura illus√£o!
-L√™-se a historia de todas as evas√µes celebres: √© a coisa mais simples
+Parece uma bicha de sete cabeÁas, ao primeiro aspecto. Pura illus„o!
+LÍ-se a historia de todas as evasıes celebres: È a coisa mais simples
 d'este mundo. Basta ter calcanhares, e vossa alteza tem-os. Basta ter
-uma pouca de terra para dar para feij√µes, e vossa alteza tem diante de
+uma pouca de terra para dar para feijıes, e vossa alteza tem diante de
 si o mundo inteiro que dar para esses legumes.
 
-Tudo mais √© simples detalhe.
+Tudo mais È simples detalhe.
 
-Convir√° apenas que n'uma esta√ß√£o de bufete, em qualquer linha de caminho
-de ferro, vossa alteza, encontre √° sua disposi√ß√£o, do lado opposto √°
+Convir· apenas que n'uma estaÁ„o de bufete, em qualquer linha de caminho
+de ferro, vossa alteza, encontre · sua disposiÁ„o, do lado opposto ·
 linha, um cavallo pronto e ligeiro.
 
-Uma palavra telegraphica de vossa alteza √° redac√ß√£o d'_As Farpas_, e
+Uma palavra telegraphica de vossa alteza · redacÁ„o d'_As Farpas_, e
 _Frontin_, o proprio _Frontin_, o vencedor do Grand Prix de Longchamps,
-o esperar√° no ponto que vossa alteza designe, submisso e relinchante,
-immovel e estacado nas suas quatro pernas d'a√ßo, de ventas altas,
+o esperar· no ponto que vossa alteza designe, submisso e relinchante,
+immovel e estacado nas suas quatro pernas d'aÁo, de ventas altas,
 redondas, avidas, nervosas e palpitantes.
 
 Emquanto os pedagogos, abancados no restaurante da gare, comem, mascando
-ruidosos, vorazes de azote e de carbone, vossa alteza, em bicos de p√©s,
+ruidosos, vorazes de azote e de carbone, vossa alteza, em bicos de pÈs,
 prega-lhes um rabo de papel em cada um, e desapparece veloz pelo fundo.
 
-Um pulo √° sella, r√©dea baixa, e √°vante!
+Um pulo · sella, rÈdea baixa, e ·vante!
 
 Que importa tudo quanto possa succeder em seguida?! A pedagogia que
-rebente ahi assim! a jurisprud√™ncia que desmaie! a chimica que caia para
+rebente ahi assim! a jurisprudÍncia que desmaie! a chimica que caia para
 a banda! a etiqueta que estoire!
 
-A humanidade triumpha, porque, desde esse momento, vossa alteza √© livre.
+A humanidade triumpha, porque, desde esse momento, vossa alteza È livre.
 
-Quem ousar√° constrangel-o, coagil-o, violental-o?
+Quem ousar· constrangel-o, coagil-o, violental-o?
 
-Vossa alteza √© verdade que √© um principe, mas √© tamb√©m um homem, chegou
-√° maioridade, √© o √∫nico e exclusivo senhor de si mesmo.
+Vossa alteza È verdade que È um principe, mas È tambÈm um homem, chegou
+· maioridade, È o ˙nico e exclusivo senhor de si mesmo.
 
-Todos os pavilh√µes dos paizes livres,--da Fran√ßa, da Suissa, da
-Hollanda, da Inglaterra, dos Estados Unidos da Am√©rica--subir√£o
-desfraldados ao tope dos mastros para cobrirem de toda a sua for√ßa e de
-toda a sua gl√≥ria na pessoa de vossa alteza a sua inviolabilidade
+Todos os pavilhıes dos paizes livres,--da FranÁa, da Suissa, da
+Hollanda, da Inglaterra, dos Estados Unidos da AmÈrica--subir„o
+desfraldados ao tope dos mastros para cobrirem de toda a sua forÁa e de
+toda a sua glÛria na pessoa de vossa alteza a sua inviolabilidade
 sacrosanta de _touriste_.
 
-Todos os c√≥digos e todos os tribunaes do mundo est√£o abertos para lhe
+Todos os cÛdigos e todos os tribunaes do mundo est„o abertos para lhe
 prestar defesa e homenagem.
 
-Rei, posto na Ajuda, no alto do seu throno, com a p√∫rpura √°s costas, a
+Rei, posto na Ajuda, no alto do seu throno, com a p˙rpura ·s costas, a
 coroa na testa e o sceptro em punho, vossa alteza tem apenas para o
 defender um exercito de cinco mil coroneis, com duzentos soldados, e o
 habil Antunes. Fora da fronteira, com um passaporte no bolso, um saco de
-noite na m√£o e um chapeu de chuva debaixo do bra√ßo, vossa alteza tem √°
-sua disposi√ß√£o, como qualquer outro, para salvaguardar e manter os seus
-inviolaveis direitas d'homem prov√≠do de uma chapelleira e de um guia
+noite na m„o e um chapeu de chuva debaixo do braÁo, vossa alteza tem ·
+sua disposiÁ„o, como qualquer outro, para salvaguardar e manter os seus
+inviolaveis direitas d'homem provÌdo de uma chapelleira e de um guia
 Baedeker, todas as armadas e todos os exercitos do mundo.
 
-Se a c√¥rte portugueza recalcitrar, se os seus pedagogos intentarem
-imp√¥r-se-lhe e embargar-lhe o passo, vossa alteza, com um simples gesto,
+Se a cÙrte portugueza recalcitrar, se os seus pedagogos intentarem
+impÙr-se-lhe e embargar-lhe o passo, vossa alteza, com um simples gesto,
 chama um gendarme, que lhe encafurna todos esses massadores na cadeia.
 
---Deixem circular, meus senhores! deixem circular!--tal √© a palavra da
-for√ßa publica, de um extremo ao outro extremo em todo o mundo
+--Deixem circular, meus senhores! deixem circular!--tal È a palavra da
+forÁa publica, de um extremo ao outro extremo em todo o mundo
 civilisado.
 
 Considere vossa alteza o que em circumstancias analogas fez o principe
 herdeiro da Hollanda, o sabio, o doce, o ineffavel _Citron_. Desde que
-se achou em Paris, nos seus pequenos appartamentos da rua Auber, n√£o
-houve mais for√ßas humanas que o obrigassem a voltar √° estopada do seu
+se achou em Paris, nos seus pequenos appartamentos da rua Auber, n„o
+houve mais forÁas humanas que o obrigassem a voltar · estopada do seu
 reino.
 
-A n√≥s outros, senhor, coube-nos ainda a gloria de conhecer no Bignon
+A nÛs outros, senhor, coube-nos ainda a gloria de conhecer no Bignon
 esse adoravel cosmopolita, que tinha a sabedoria de preferir a
 commodidade de um chapeu mole de _Pinaud et Amour_ ao peso de qualquer
 coroa d'este mundo. Era, como vossa alteza, um louro,--um pouco mais
 fulvo apenas. Usava as suissas em _cotelette_, caminhava lentamente,
-como um piccador fatigado ao acabar de desmontar, e apesar do seu desd√©m
-de toilette e de maneiras, havia n'elle a distinc√ß√£o dolente de um
-antigo sangue nobre, a alta aristocracia can√ßada e fastienta da preclara
+como um piccador fatigado ao acabar de desmontar, e apesar do seu desdÈm
+de toilette e de maneiras, havia n'elle a distincÁ„o dolente de um
+antigo sangue nobre, a alta aristocracia canÁada e fastienta da preclara
 familia de Nassau.
 
-N√£o houve cartas regias, nem negocia√ß√µes diplomaticas, nem enredos, nem
-violencias, nem amea√ßas, nem esfor√ßos d'ordem alguma que o levassem a
+N„o houve cartas regias, nem negociaÁıes diplomaticas, nem enredos, nem
+violencias, nem ameaÁas, nem esforÁos d'ordem alguma que o levassem a
 demover jamais de Paris a sua mala grande.
 
 Um dia o rei da Hollanda, que os encantos de Madame Musard distrahiam
 algumas vezes dos interesses da politica neerlandeza para as
-convivencias da _Maison Dor√©e_, encontrou-se com Citron, de passagem, no
-foyer de um theatro do boulevard. O soberano incognito abra√ßou o filho
-pela cintura com effus√£o e firmeza, e disse-lhe peremptoriamente:
+convivencias da _Maison DorÈe_, encontrou-se com Citron, de passagem, no
+foyer de um theatro do boulevard. O soberano incognito abraÁou o filho
+pela cintura com effus„o e firmeza, e disse-lhe peremptoriamente:
 
---O menino vae d'aqui sem mais perda de tempo l√° para baixo para a
+--O menino vae d'aqui sem mais perda de tempo l· para baixo para a
 Hollanda reinar. Quem fica em Paris agora sou eu. Tenho aqui no bolso a
-minha abdica√ß√£o, e vou j√° l√° dentro ao foyer dos artistas assignar-lh'a.
+minha abdicaÁ„o, e vou j· l· dentro ao foyer dos artistas assignar-lh'a.
 Acceite os meus parabens.
 
 Citron, inclinando-se, agradeceu commovido, e accrescentou:
 
---Espera-me ent√£o aqui um momentosinho, que eu venho j√° ...
+--Espera-me ent„o aqui um momentosinho, que eu venho j· ...
 
 Foi essa a derradeira vez que o monarcha dos Paizes Baixos viu o seu
 herdeiro n'este mundo. Pouco depois Citron morria na sua cama de rapaz
-na rua Auber, firme e feliz na inveterada convic√ß√£o de que √© melhor ser
+na rua Auber, firme e feliz na inveterada convicÁ„o de que È melhor ser
 um _viveur_ morto do que um rei vivo.
 
 Uma vez em Paris, simplesmente mas confortavelmente instalado n'um
 _entresol_ sobre os Campos Elyseos, ou n'um terceiro andar sobre o
 Luxembourg, segundo os seus gostos de _clubman_ ou os seus gostos de
-litterato, tem vossa alteza naturalmente indicados os indiv√≠duos que
+litterato, tem vossa alteza naturalmente indicados os indivÌduos que
 devem constituir a sua primeira roda de companheiros.
 
 Tem o snr Rodrigues, distincto alumno de medicina, para o pilotar no
@@ -1619,197 +1619,197 @@ mundo scientifico. Tem o snr Mariano Pina, espirituoso folhetinista,
 para o guiar no mundo litterario. Tem o snr Loureiro, o snr Columbano, o
 snr. Monteiro Ramalho e os demais pintores portuguezes para o
 introduzirem no mundo artistico. Sahindo do mundo onde a gente estuda,
-tem, finalmente, vossa alteza o snr Jeronymo Colla√ßo de Magalh√£es para o
+tem, finalmente, vossa alteza o snr Jeronymo CollaÁo de Magalh„es para o
 levar ao mundo onde a gente se diverte.
 
 Paris inteiro se resume n'isso, e todo o mundo se acha resumido em
 Paris.
 
 Qual tem de ser ahi o novo quadro de estudos destinado a refazer nas
-suas verdadeiras bases a educa√ß√£o de vossa alteza? Nada mais simples!
-Quem sabe mais d'essa materia do que os melhores pedagogos √© toda a
-gente. Vossa alteza far√° sabiamente o que faz toda a gente que se
-instrue, isto √©, come√ßar√° a aprender tudo aquillo que o trato do mundo
-em que entra lhe mostrar que n√£o sabe.
+suas verdadeiras bases a educaÁ„o de vossa alteza? Nada mais simples!
+Quem sabe mais d'essa materia do que os melhores pedagogos È toda a
+gente. Vossa alteza far· sabiamente o que faz toda a gente que se
+instrue, isto È, comeÁar· a aprender tudo aquillo que o trato do mundo
+em que entra lhe mostrar que n„o sabe.
 
-Vossa alteza levanta-se, como todos os que se presam, √°s seis horas da
-manh√£; toma a sua douche ou um banho morno, fazendo-se pistonnar com
+Vossa alteza levanta-se, como todos os que se presam, ·s seis horas da
+manh„; toma a sua douche ou um banho morno, fazendo-se pistonnar com
 agua gelada pelos seus lados fracos; monta em seguida o seu cavallo
-irlandez, e vae com o sr. Jeronymo Colla√ßo galopar para o Bois de
-Boulogne. Confere-se depois uma hora de esgrima e do tiro ao bal√£o, e em
-seguida almo√ßa no _cercle_. Vae com o snr Mariano Pina ao Collegio de
-Fran√ßa e ouve a li√ß√£o do snr Renan. Vae com o snr Rodrigues √° Escola de
-Medicina e assiste √° prelec√ß√£o do snr Charcot. Vae com os pintores ao
+irlandez, e vae com o sr. Jeronymo CollaÁo galopar para o Bois de
+Boulogne. Confere-se depois uma hora de esgrima e do tiro ao bal„o, e em
+seguida almoÁa no _cercle_. Vae com o snr Mariano Pina ao Collegio de
+FranÁa e ouve a liÁ„o do snr Renan. Vae com o snr Rodrigues · Escola de
+Medicina e assiste · prelecÁ„o do snr Charcot. Vae com os pintores ao
 Louvre e olha para a Venus de Millo. Sobra-lhe ainda tempo para dar a
 volta da tarde em carroagem no Bois, e para comparecer n'um _five
 o'clock_.
 
-A' noite--como se n√£o √© principe impunemente--as conveniencias exigem a
+A' noite--como se n„o È principe impunemente--as conveniencias exigem a
 toilette ceremoniosa para jantar, a casaca ingleza, a gravata branca, e
-a perola preta cercada de brilhantes no peito da camisa. √â inutil dizer
-que se n√£o p√µem condecora√ß√µes. S√≥ os porteiros, os dentistas e os
-prestidigitad√≤res √© que usam hoje esse arrebique de mau genero.
+a perola preta cercada de brilhantes no peito da camisa. … inutil dizer
+que se n„o pıem condecoraÁıes. SÛ os porteiros, os dentistas e os
+prestidigitadÚres È que usam hoje esse arrebique de mau genero.
 
-√Å noite convem √° idade e √° posi√ß√£o de vossa alteza uma hora de
-conversa√ß√£o mysteriosa ao fundo de uma _baignoire grill√©e_ n'um pequena
+¡ noite convem · idade e · posiÁ„o de vossa alteza uma hora de
+conversaÁ„o mysteriosa ao fundo de uma _baignoire grillÈe_ n'um pequena
 theatro.
 
-Um s√≥ dia d'estes prehencher√° melhor a educa√ß√£o de vossa alteza do que
+Um sÛ dia d'estes prehencher· melhor a educaÁ„o de vossa alteza do que
 seis annos de estudo sobre o _Direito Publico_ do visconde de
-Lagueroni√®re, ou sobre o _Direito internacional_, de Bluntschli, com o
-snr Marlens Ferr√£o debru√ßado em cima do hombro de vossa alteza, a
+LagueroniËre, ou sobre o _Direito internacional_, de Bluntschli, com o
+snr Marlens Ferr„o debruÁado em cima do hombro de vossa alteza, a
 explicar os textos no lento rom-rom coceguento e rhythmico dos sabios
-antigos e dos gatos velhos, t√£o propicio √°s somnecas!
+antigos e dos gatos velhos, t„o propicio ·s somnecas!
 
-De quando em quando ser√° util que vossa alteza v√° ao Bullier beber
+De quando em quando ser· util que vossa alteza v· ao Bullier beber
 cerveja com os estudantes, ou que ponha o chapeu tyrolez, de feltro
 branco com uma papoula bordada a matiz, e consagre um domingo de sol a
-um _croquis_ de impress√£o na floresta de Fontainebleau, indo em seguida
+um _croquis_ de impress„o na floresta de Fontainebleau, indo em seguida
 provar as frituras de Barbizon em companhia d'artistas.
 
-Ouvir√° talvez vossa alteza fallar nas _cocottes_. Chamavam-lhes n'outro
-tempo as _cortez√£s_, chamaram-lhes depois as _lorettes_, e principiam a
+Ouvir· talvez vossa alteza fallar nas _cocottes_. Chamavam-lhes n'outro
+tempo as _cortez„s_, chamaram-lhes depois as _lorettes_, e principiam a
 chamar-lhes agora as _horisontaes_. A trajectoria do nome indica bem a
 decadencia de um genero, que nem desaconselhamos nem aconselhamos a
 ninguem.
 
 Diremos apenas que, economicamente, a cocotte representa no equilibrio
-social o mais importante beneficio. Ella √© o apparelho dispersor do
+social o mais importante beneficio. Ella È o apparelho dispersor do
 dinheiro, da influencia e da auctoridade, que o agiota condensa. Se a
-cocotte n√£o desgregasse o agiota, o agiota englobaria em si o universo.
+cocotte n„o desgregasse o agiota, o agiota englobaria em si o universo.
 
-De tempos a tempos l√° surge no horisonte um filho-fam√≠lia, desolhado,
-casposo e de unhas roidas, a queixar-se aos caixeiros sentimentaes e √°s
-burguezas romanticas de que uma d'essas m√°s mulheres o trahiu e o
-abandonou, a elle, alma enthusiastica e pura de poeta pobre, √° qual a
+De tempos a tempos l· surge no horisonte um filho-famÌlia, desolhado,
+casposo e de unhas roidas, a queixar-se aos caixeiros sentimentaes e ·s
+burguezas romanticas de que uma d'essas m·s mulheres o trahiu e o
+abandonou, a elle, alma enthusiastica e pura de poeta pobre, · qual a
 perfida preferiu os joanetes de um banqueiro rico.
 
-Se ellas n√£o tivessem o sublime bom senso de produzir periodicamente
-algumas choradeiras d'esta ordem, veja vossa alteza em que linda posi√ß√£o
-social que ficavam para a velhice os filhos-fam√≠lias que se apaixonam
+Se ellas n„o tivessem o sublime bom senso de produzir periodicamente
+algumas choradeiras d'esta ordem, veja vossa alteza em que linda posiÁ„o
+social que ficavam para a velhice os filhos-famÌlias que se apaixonam
 por essas damas e que em nome da poesia lyrica se julgam no direito de
-ficar ao p√© d'ellas para toda a vida!
+ficar ao pÈ d'ellas para toda a vida!
 
 Bem estamos vendo d'aqui o snr conselheiro Viale velando as faces
-horripilado perante, este genero de conversa√ß√£o. √â certo por√©m que, se
-d'este mesmo assumpto Homero n√£o houvesse feito um poema, o mesmo snr
-pudico Viale n√£o teria hoje a _Illada_ para n'ella dar li√ß√µes a vossa
+horripilado perante, este genero de conversaÁ„o. … certo porÈm que, se
+d'este mesmo assumpto Homero n„o houvesse feito um poema, o mesmo snr
+pudico Viale n„o teria hoje a _Illada_ para n'ella dar liÁıes a vossa
 alteza.
 
-Para os reis insalubres, productos de velhas ra√ßas nobres,
+Para os reis insalubres, productos de velhas raÁas nobres,
 aristocratisadas de mais e cahidas em languor pelo derramamento
-excessivo do azul no sangue, s√£o frequentemente utilissimas as mulheres
+excessivo do azul no sangue, s„o frequentemente utilissimas as mulheres
 da categoria a que nos estamos referindo ...
 
-(O snr Martens Ferr√£o contorce-se ao escutar-nos. Se s. ex.¬™ se acha
-incommodado, √© talvez melhor retirar-se, porque n√≥s temos de continuar
-ainda por um momento. E quando voltar que s. ex.¬™ traga comsigo a
-_timbale d'argent_. Vossa alteza reclama-a. Que lh'a d√™em!)
+(O snr Martens Ferr„o contorce-se ao escutar-nos. Se s. ex.™ se acha
+incommodado, È talvez melhor retirar-se, porque nÛs temos de continuar
+ainda por um momento. E quando voltar que s. ex.™ traga comsigo a
+_timbale d'argent_. Vossa alteza reclama-a. Que lh'a dÍem!)
 
-A gl√≥ria do reinado de Luiz XV, por exemplo, vem toda da Pompadour. Se
-essa elegante e espirituosa mulher n√£o tivesse feito ao rei de Fran√ßa a
-alta honra de ser por algum tempo sua conviva, uma multid√£o enorme de
-coisas encantadoras, que enobrecem a civilisa√ß√£o moderna, n√£o teriam
-j√°mais vindo ao mundo. A essa liga√ß√£o, providencial para a arte, devemos
+A glÛria do reinado de Luiz XV, por exemplo, vem toda da Pompadour. Se
+essa elegante e espirituosa mulher n„o tivesse feito ao rei de FranÁa a
+alta honra de ser por algum tempo sua conviva, uma multid„o enorme de
+coisas encantadoras, que enobrecem a civilisaÁ„o moderna, n„o teriam
+j·mais vindo ao mundo. A essa ligaÁ„o, providencial para a arte, devemos
 hoje os deliciosos retratos de Latour, o fino genero pastoril de
-Watteau, as _p√¢tes tendres_ de S√®vres, as mimosas estatuetinhas de Saxe,
-os mais lindos rel√≥gios e os mais graciosos can√°p√©s do mundo.
+Watteau, as _p‚tes tendres_ de SËvres, as mimosas estatuetinhas de Saxe,
+os mais lindos relÛgios e os mais graciosos can·pÈs do mundo.
 
 Da gloriosa protectora e mestra de Luiz XV dizia Voltaire:--_Elle est
-des n√¥tres!_
+des nÙtres!_
 
-Ha fortes probabilidades para cr√™r que de nenhum dos mestres de vossa
+Ha fortes probabilidades para crÍr que de nenhum dos mestres de vossa
 alteza elle dissesse outro tanto.
 
-Vossa alteza vae ponderar talvez que √© bem destitu√≠da de grandeza,
+Vossa alteza vae ponderar talvez que È bem destituÌda de grandeza,
 vulgar e corriqueira de mais, a existencia a que o introduzimos ...
 
-Ai de n√≥s! a vida √© em realidade assim, magnanimo senhor!
+Ai de nÛs! a vida È em realidade assim, magnanimo senhor!
 
-Ninguem √© grande nem pequeno n'este mundo pela vida que leva, pomposa ou
+Ninguem È grande nem pequeno n'este mundo pela vida que leva, pomposa ou
 obscura, solta ou aperreada. A categoria em que temos de classificar a
 importancia dos homens deduz-se do valor dos actos que elles praticam,
 das ideias que diffundem e dos sentimentos que communicam aos seus
 similhantes.
 
-√â binaria a natureza de todo o homem superior. Metade d'elle pertence ao
-ramerr√£o passageiro de cada dia; a outra metade pertence ao ideal eterno
+… binaria a natureza de todo o homem superior. Metade d'elle pertence ao
+ramerr„o passageiro de cada dia; a outra metade pertence ao ideal eterno
 de um mundo mais perfeito, em cuja obra cada um collabora procurando
-tornal-o, na orbita da sua aptid√£o pessoal, ou mais justo, ou mais rico
+tornal-o, na orbita da sua aptid„o pessoal, ou mais justo, ou mais rico
 ou mais bello.
 
 Assim, cada um tem em si, superior a todas as torpesas da terra,
 impolluta, inviolavel e sagrada, a mystica torre eburnea em que habita a
-aspira√ß√£o immortal do espirito do homem.
+aspiraÁ„o immortal do espirito do homem.
 
-√â preciso amar, meu senhor. Eis ahi tudo.
+… preciso amar, meu senhor. Eis ahi tudo.
 
-√â preciso amar f√≥ra da esphera de todos os interesses pessoaes creados
+… preciso amar fÛra da esphera de todos os interesses pessoaes creados
 pela sociedade de que fazemos parte e estabelecidos pelo estado, pela
-profiss√£o ou pela gerarchia. √â preciso amar pela abnega√ß√£o e pelo
-sacrificio de tudo para se chegar a ser alguma coisa. √â preciso amar uma
-ideia, uma propens√£o da sociedade, um intuito da naturesa, uma express√£o
+profiss„o ou pela gerarchia. … preciso amar pela abnegaÁ„o e pelo
+sacrificio de tudo para se chegar a ser alguma coisa. … preciso amar uma
+ideia, uma propens„o da sociedade, um intuito da naturesa, uma express„o
 da arte, ou simplesmente e unicamente uma mulher, como as amou Musset,
-Lord Byron, Shakspeare ou Petrarca, afim de sahir f√≥ra da massa obscura
+Lord Byron, Shakspeare ou Petrarca, afim de sahir fÛra da massa obscura
 do vulgo, e ser um homem.
 
 Ame pois vossa alteza, e deixe correr o mundo!
 
-N√£o h√° hoje em dia educa√ß√£o especial para o officio de rei nem para
-outro qualquer officio. H√° uma instruc√ß√£o geral e h√° uma instruc√ß√£o
-technica para cada modo de vida. A educa√ß√£o essa √© una e indivis√≠vel.
+N„o h· hoje em dia educaÁ„o especial para o officio de rei nem para
+outro qualquer officio. H· uma instrucÁ„o geral e h· uma instrucÁ„o
+technica para cada modo de vida. A educaÁ„o essa È una e indivisÌvel.
 
-Em todo o estado e em toda a condi√ß√£o social o homem bem educado √© um
-homem superior. O homem sem educa√ß√£o, por mais alto que o colloquem,
+Em todo o estado e em toda a condiÁ„o social o homem bem educado È um
+homem superior. O homem sem educaÁ„o, por mais alto que o colloquem,
 fica sempre um subalterno.
 
-No regimen de liberdade e de iniciativa, em que come√ßam agora a viver as
+No regimen de liberdade e de iniciativa, em que comeÁam agora a viver as
 sociedades contemporaneas, a lei da concorrencia absorve tudo, e os reis
-mais solidamente equilibrados nos seus thronos n√£o s√£o sen√£o os homens
+mais solidamente equilibrados nos seus thronos n„o s„o sen„o os homens
 mais perfeitamente equilibrados na vida geral. Veja vossa alteza os
-moles principes dos reinos da Italia, que o av√¥ materno de vossa alteza
-unificou, como em t√£o pouco tempo desappareceram todos, sepultados nas
-trevas de um silencio tragico! Compare-os com os reis, t√£o fortemente
-instruidos, das pequenas na√ß√µes confederadas da Allemanha, e pondere
-como estes persistem na tradi√ß√£o e na continuidade hist√≥rica!
+moles principes dos reinos da Italia, que o avÙ materno de vossa alteza
+unificou, como em t„o pouco tempo desappareceram todos, sepultados nas
+trevas de um silencio tragico! Compare-os com os reis, t„o fortemente
+instruidos, das pequenas naÁıes confederadas da Allemanha, e pondere
+como estes persistem na tradiÁ„o e na continuidade histÛrica!
 
-Portanto, e em conclus√£o:
+Portanto, e em conclus„o:
 
 Para dar ao throno portuguez um bom rei, pense vossa alteza em dar na
-sua pessoa √° patria um cidad√£o instruido; √° humanidade um homem justo; √°
+sua pessoa · patria um cidad„o instruido; · humanidade um homem justo; ·
 natureza um sadio e valente animal.
 
-A seus paes, aos seus mestres e √° sua corte, √© doloroso mas √©
-indispensavel que vossa alteza d√™ egualmente aquillo que lhes
+A seus paes, aos seus mestres e · sua corte, È doloroso mas È
+indispensavel que vossa alteza dÍ egualmente aquillo que lhes
 deve:--desgostos!
 
-Esquecia-nos tocar n'uma quest√£o secundaria, mas opportuna: a quest√£o
-dos meios, na previs√£o de que, perante a fuga de vossa alteza, o, snr
+Esquecia-nos tocar n'uma quest„o secundaria, mas opportuna: a quest„o
+dos meios, na previs„o de que, perante a fuga de vossa alteza, o, snr
 Nazaretb delibere cortar-lhe os viveres.
 
-N'este ponto, como em tudo o mais, _As Farpas_ est√£o √° disposi√ß√£o de
-vossa alteza. Ainda uma linha pelo telegrapho a esta redac√ß√£o, e n√≥s
-abriremos desde logo para o fim de occorrer, em nome da justi√ßa e do bom
-senso, √°s despesas da livre viagem de vossa alteza na Europa, uma
-subscrip√ß√£o nacional.
+N'este ponto, como em tudo o mais, _As Farpas_ est„o · disposiÁ„o de
+vossa alteza. Ainda uma linha pelo telegrapho a esta redacÁ„o, e nÛs
+abriremos desde logo para o fim de occorrer, em nome da justiÁa e do bom
+senso, ·s despesas da livre viagem de vossa alteza na Europa, uma
+subscripÁ„o nacional.
 
-Poder√≠amos consagrar aqui algumas considera√ß√µes √°s vantagens economicas
+PoderÌamos consagrar aqui algumas consideraÁıes ·s vantagens economicas
 que n'esta conjunctura teria para vossa alteza a posse de um officio.
-Desde este momento por√©m a nossa attitude de banqueiros de vossa alteza
-p√µe em nosso l√°bio o sello da reserva.
+Desde este momento porÈm a nossa attitude de banqueiros de vossa alteza
+pıe em nosso l·bio o sello da reserva.
 
-Faremos fervorosos a subscrip√ß√£o.
+Faremos fervorosos a subscripÁ„o.
 
-O snr Brazza ainda ultimamente fez uma outra em favor do rei Mac√≥co, e
-tirou consideraveis resultados. Ora vossa alteza n√£o √© menos do que
-Mac√≥co, e n√≥s somos mais do que Brazza. Porque esse sujeito s√≥ o outro
-dia √© que descobriu o Congo, e veio com isso para os jornaes e para as
-revistas, como com o mais rendoso achado d'este mundo; ao passo que n√≥s
-somos os descendentes d'aquelles que h√° alguns centos d'annos
+O snr Brazza ainda ultimamente fez uma outra em favor do rei MacÛco, e
+tirou consideraveis resultados. Ora vossa alteza n„o È menos do que
+MacÛco, e nÛs somos mais do que Brazza. Porque esse sujeito sÛ o outro
+dia È que descobriu o Congo, e veio com isso para os jornaes e para as
+revistas, como com o mais rendoso achado d'este mundo; ao passo que nÛs
+somos os descendentes d'aquelles que h· alguns centos d'annos
 descobriram esse mesmo Congo, e--como vossa alteza sabe
-perfeitamente--nunca o mandamos botar √° folha! Aos p√©s de vossa alteza.
+perfeitamente--nunca o mandamos botar · folha! Aos pÈs de vossa alteza.
 
-_Ramalho Ortig√£o_.
+_Ramalho Ortig„o_.
 
 
 
@@ -1819,7 +1819,7 @@ _Ramalho Ortig√£o_.
 
 
 End of the Project Gutenberg EBook of As Farpas (Junho 1883)
-by Ramalho Ortig√£o and Jos√© Maria E√ßa de Queiroz
+by Ramalho Ortig„o and JosÈ Maria EÁa de Queiroz
 
 *** END OF THIS PROJECT GUTENBERG EBOOK AS FARPAS (JUNHO 1883) ***
 
@@ -1827,7 +1827,7 @@ by Ramalho Ortig√£o and Jos√© Maria E√ßa de Queiroz
 This and all associated files of various formats will be found in:
         http://www.gutenberg.net/1/2/5/7/12579/
 
-Produced by Cl√°udia Ribeiro, Larry Bergey and PG Distributed
+Produced by Cl·udia Ribeiro, Larry Bergey and PG Distributed
 Proofreaders. Produced from page scans provided by Biblioteca Nacional
 de Lisboa.
 

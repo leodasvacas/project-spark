@@ -43,8 +43,9 @@ def sort_dict(dict):
 sc  = SparkContext()
 
 input_path = sys.argv[1] if len(sys.argv) > 1 else "dataset"
+output_path = sys.argv[2] if len(sys.argv) > 2 else "output"
 
 rdd = sc.wholeTextFiles(input_path)
 rdd = rdd.map(get_author).mapValues(word_count).reduceByKey(merge)
 rdd = rdd.mapValues(sort_dict).mapValues(lambda x: x[0:5])
-print(rdd.saveAsTextFile("output"))
+print(rdd.saveAsTextFile(output_path))

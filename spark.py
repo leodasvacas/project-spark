@@ -1,6 +1,9 @@
 import sys
 from pyspark import SparkContext, SparkConf
 
+BOOK_CONTENTS_START_DELIMITER = "*** START OF THIS PROJECT GUTENBERG EBOOK"
+BOOK_CONTENTS_END_DELIMITER   = "*** END OF THIS PROJECT GUTENBERG EBOOK"
+
 def get_author(entry):
     for line in entry[1].splitlines():
         if line.startswith("Author: "):
@@ -10,13 +13,19 @@ def get_author(entry):
 
 def word_count(text):
     wordcount={}
-    for word in text.split():
-        if len(word) < 4:
-            continue
-        if word not in wordcount:
-            wordcount[word] = 1
+    for line in text.splitlines():
+        if line.startswith(BOOK_CONTENTS_START_DELIMITER):
+            wordcount={}
+        elif line.startswith(BOOK_CONTENTS_END_DELIMITER):
+            break
         else:
-            wordcount[word] += 1
+            for word in line.split():
+                if len(word) < 4:
+                    continue
+                if word not in wordcount:
+                    wordcount[word] = 1
+                else:
+                    wordcount[word] += 1
     return wordcount
 
 def merge(dict1, dict2):

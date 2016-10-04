@@ -4,6 +4,7 @@ def get_author(entry):
     for line in entry[1].splitlines():
         if line.startswith("Author: "):
             author = line[8:].strip()
+            break
     return (author, entry[1])
 
 def word_count(text):

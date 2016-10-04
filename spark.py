@@ -1,3 +1,4 @@
+import sys
 from pyspark import SparkContext, SparkConf
 
 def get_author(entry):
@@ -29,8 +30,11 @@ def merge(dict1, dict2):
 def sort_dict(dict):
     return sorted(dict.items(), key=lambda x: x[1], reverse=True)
 
-sc = SparkContext()
-rdd = sc.wholeTextFiles("dataset")
+sc  = SparkContext()
+
+input_path = sys.argv[1] if len(sys.argv) > 1 else "dataset"
+
+rdd = sc.wholeTextFiles(input_path)
 rdd = rdd.map(get_author).mapValues(word_count).reduceByKey(merge)
 rdd = rdd.mapValues(sort_dict).mapValues(lambda x: x[0:5])
 print(rdd.saveAsTextFile("output"))

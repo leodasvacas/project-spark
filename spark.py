@@ -1,5 +1,12 @@
 import sys
 from pyspark import SparkContext, SparkConf
+from stop_words import get_stop_words
+import re
+
+# Lista de palavras a ser desconsideradas
+my_stop_words = ["des", "dum", "duma", "ella", "et", "he", "hum", "huma", "les", "pera", "porque", "pêla", "pêlo", "sobre", "todos", "vossa", "vosso", "é"]
+
+sw = get_stop_words('pt') + my_stop_words
 
 BOOK_CONTENTS_START_DELIMITER = "*** START OF THIS PROJECT GUTENBERG EBOOK"
 BOOK_CONTENTS_END_DELIMITER   = "*** END OF THIS PROJECT GUTENBERG EBOOK"
@@ -12,14 +19,16 @@ def get_author(entry):
 
 def word_count(text):
     wordcount={}
+    # Cria lista de stop words
     for line in text.splitlines():
         if line.startswith(BOOK_CONTENTS_START_DELIMITER):
             wordcount={}
         elif line.startswith(BOOK_CONTENTS_END_DELIMITER):
             break
         else:
-            for word in line.split():
-                if len(word) < 4:
+            for word in re.split('\W+', line.lower()):
+                # Exclui as palavras mais comuns (stop words)
+                if word in sw or len(word) < 2:
                     continue
                 if word not in wordcount:
                     wordcount[word] = 1

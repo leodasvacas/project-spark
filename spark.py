@@ -1,6 +1,13 @@
-import sys
-from pyspark import SparkContext, SparkConf
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
 import re
+import io
+import sys
+import csv
+import functools
+from operator import concat
+from pyspark import SparkContext, SparkConf
 
 # Lista de palavras a ser desconsideradas
 
@@ -52,7 +59,7 @@ def word_count(text):
                     wordcount[word] += 1
     return wordcount
 
-def merge(dict1, dict2):
+def my_merge(dict1, dict2):
     # Merge dict2 into dict1
     for key in dict2.keys():
         if key in dict1:
@@ -64,12 +71,32 @@ def merge(dict1, dict2):
 def sort_dict(dict):
     return sorted(dict.items(), key=lambda x: x[1], reverse=True)
 
+def to_flat_list(value):
+    if isinstance(value, tuple):
+        value = list(value)
+    if isinstance(value, dict):
+        # Turns the dictionary into a list containing all the keys and values
+        value = list(functools.reduce(lambda itemsList, item: list(itemsList)+list(item), value.items()))
+    if hasattr(value, '__iter__') and not isinstance(value, str):
+        # Flatens list, usig recursion
+        return list(functools.reduce(concat, map(to_flat_list, value)))
+    else:
+        return [value]
+
+def format_to_csv_str(entry):
+    key   = entry[0]
+    value = to_flat_list(entry[1])
+    """Returns a properly-csv-formatted string."""
+    output = io.StringIO("")
+    csv.writer(output, quoting=csv.QUOTE_NONE, escapechar='\\').writerow([key] + value)
+    return output.getvalue().strip() # remove extra newline
+
 sc  = SparkContext()
 
 input_path = sys.argv[1] if len(sys.argv) > 1 else "dataset"
 output_path = sys.argv[2] if len(sys.argv) > 2 else "output"
 
 rdd = sc.binaryFiles(input_path)
-rdd = rdd.map(get_author).mapValues(word_count).reduceByKey(merge)
+rdd = rdd.map(get_author).mapValues(word_count).reduceByKey(my_merge)
 rdd = rdd.mapValues(sort_dict).mapValues(lambda x: x[0:5])
-print(rdd.saveAsTextFile(output_path))
+print(rdd.map(format_to_csv_str).saveAsTextFile(output_path))

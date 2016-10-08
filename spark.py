@@ -91,9 +91,9 @@ def format_to_csv_str(entry):
     results = entry[1]
     """Returns a properly-csv-formatted string."""
     output = io.StringIO("")
-    csv.writer(output, quoting=csv.QUOTE_NONE, escapechar='\\').writerow([key] + list(results[0]))
+    csv.writer(output, quoting=csv.QUOTE_NONE, escapechar='\\', lineterminator='\n').writerow([key] + list(results[0]))
     results = [ [""] + list(result) for result in results[1:]]
-    csv.writer(output, quoting=csv.QUOTE_NONE, escapechar='\\').writerows(results)
+    csv.writer(output, quoting=csv.QUOTE_NONE, escapechar='\\', lineterminator='\n').writerows(results)
     return output.getvalue().strip() # remove extra newline
 
 def main():

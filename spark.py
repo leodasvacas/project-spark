@@ -168,7 +168,7 @@ def main():
 
     rdd = sc.binaryFiles(args.input_path)
     rdd = rdd.map(partial(get_author, args.default_encoding))
-    rdd = rdd.mapValues(word_count).rdd.reduceByKey(my_merge)
+    rdd = rdd.mapValues(word_count).reduceByKey(my_merge)
     rdd = rdd.mapValues(partial(sort_dict, args.sort_by_word))
     rdd = rdd.mapValues(lambda x: x[:args.limit])
     print(rdd.map(format_to_csv_str).saveAsTextFile(args.output_path))
